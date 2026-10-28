@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" id="description" content="">
+  <title>Type 1L Cement &amp; Concrete Index</title>
+  <link rel="canonical" href="https://xxdccole.github.io/type1l-index/">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='3' fill='%235c564c'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="masthead" id="top">
+    <div class="wrap">
+      <h1 id="page-title">Type 1L Cement &amp; Concrete Index</h1>
+      <p id="summary" class="lede"></p>
+      <p id="summary-text" class="overview"></p>
+      <p id="meta" class="meta-line"></p>
+    </div>
+  </header>
+
+  <nav class="site-nav" id="section-nav" aria-label="Sections" hidden>
+    <div class="wrap">
+      <a href="#whats-new">What's new</a>
+      <a href="#topics">Topics</a>
+      <a href="#issues">Key issues</a>
+      <a href="#resources">Resources</a>
+      <a href="#gaps">Research gaps</a>
+      <a href="#changelog">Change log</a>
+    </div>
+  </nav>
+
+  <main id="main">
+    <p id="status" role="status">Loading index…</p>
+    <div id="content" hidden>
+      <section id="whats-new" tabindex="-1" aria-labelledby="whats-new-heading">
+        <div class="wrap">
+          <h2 id="whats-new-heading">What's new</h2>
+          <div id="whats-new-list"></div>
+        </div>
+      </section>
+
+      <section id="topics" tabindex="-1" aria-labelledby="topics-heading">
+        <div class="wrap">
+          <h2 id="topics-heading">Topics</h2>
+          <nav id="topic-toc" aria-label="Topics"></nav>
+          <div id="topic-list"></div>
+        </div>
+      </section>
+
+      <section id="issues" tabindex="-1" aria-labelledby="issues-heading">
+        <div class="wrap">
+          <h2 id="issues-heading">Key issues</h2>
+          <ul id="issue-list" class="plain-list"></ul>
+        </div>
+      </section>
+
+      <section id="resources" tabindex="-1" aria-labelledby="resources-heading">
+        <div class="wrap">
+          <h2 id="resources-heading">Resources</h2>
+          <form id="resource-filters" role="search" aria-label="Filter resources">
+            <div class="field grow">
+              <label for="q">Search</label>
+              <input id="q" name="q" type="search" placeholder="Title, publisher, id, or topic" autocomplete="off">
+            </div>
+            <div class="field">
+              <label for="topic-filter">Topic</label>
+              <select id="topic-filter" name="topic">
+                <option value="">All topics</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="type-filter">Type</label>
+              <select id="type-filter" name="type">
+                <option value="">All types</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="sort">Sort</label>
+              <select id="sort" name="sort">
+                <option value="date-desc">Date, newest</option>
+                <option value="date-asc">Date, oldest</option>
+                <option value="title-asc">Title, A–Z</option>
+                <option value="title-desc">Title, Z–A</option>
+              </select>
+            </div>
+            <div class="field field-action">
+              <button type="button" id="clear" disabled>Clear filters</button>
+            </div>
+          </form>
+          <p id="resource-count" class="count" aria-live="polite"></p>
+          <p class="scroll-hint">Scroll sideways to see every column.</p>
+          <div class="table-scroll" tabindex="0" role="region" aria-label="Resource table, scroll horizontally for more columns">
+            <table id="resource-table">
+              <caption class="sr-only">Master list of resources. Sortable by date and title.</caption>
+              <thead>
+                <tr>
+                  <th scope="col" class="title-head" id="th-title" aria-sort="none">
+                    <button type="button" id="sort-title">Title <span id="ind-title" aria-hidden="true"></span></button>
+                  </th>
+                  <th scope="col">ID</th>
+                  <th scope="col">Publisher</th>
+                  <th scope="col">Type</th>
+                  <th scope="col" id="th-date" aria-sort="descending">
+                    <button type="button" id="sort-date" aria-label="Sort by date, descending">Date <span id="ind-date" aria-hidden="true">↓</span></button>
+                  </th>
+                  <th scope="col">Topics</th>
+                </tr>
+              </thead>
+              <tbody id="resource-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section id="gaps" tabindex="-1" aria-labelledby="gaps-heading">
+        <div class="wrap">
+          <h2 id="gaps-heading">Research gaps</h2>
+          <ul id="gap-list" class="plain-list"></ul>
+        </div>
+      </section>
+
+      <section id="changelog" tabindex="-1" aria-labelledby="changelog-heading">
+        <div class="wrap">
+          <h2 id="changelog-heading">Change log</h2>
+          <ol id="change-log" class="log"></ol>
+        </div>
+      </section>
+    </div>
+    <noscript>
+      <p class="wrap notice">This page needs JavaScript to load <code>data/site-data.json</code> and render the index.</p>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p id="footer-line"></p>
+      <p><a href="#top">Back to top</a></p>
+    </div>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

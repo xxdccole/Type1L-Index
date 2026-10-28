@@ -1,0 +1,931 @@
+{
+  "title": "Type 1L Cement & Concrete Index",
+  "summary": "A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.",
+  "summaryText": "Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.",
+  "lastUpdated": "2026-10-28",
+  "whatsNew": [
+    {
+      "date": "Oct 2026",
+      "title": "ASTM C595-26 revisions explained",
+      "detail": "New Type IC composite cement, up to 15% limestone in IP and IS, two SCMs required in IT (ACA IS793, Giannini in CI)."
+    },
+    {
+      "date": "Oct 16",
+      "title": "Contractor concern over quiet C595 changes",
+      "detail": "Tilt-up bond breaker and surface compatibility; check mill certs (LinkedIn, J. Wimberly)."
+    },
+    {
+      "date": "Sep 30",
+      "title": "Cemex: source-to-source variability of PLC vs PC",
+      "detail": "Fall 2026 National Concrete Consortium presentation."
+    },
+    {
+      "date": "Sep 9",
+      "title": "Industrial floors: Type IL abrasion comparable to Type I/II",
+      "detail": "Temple Univ. study with Amrize, Concrete Strategies (released Apr 23)."
+    },
+    {
+      "date": "Jul 2026",
+      "title": "Revised PLC industry-average EPD",
+      "detail": "Average PLC: 82.7% clinker, 10.8% limestone."
+    },
+    {
+      "date": "Jun 18",
+      "title": "ACA Blended Cement Awards",
+      "detail": "2025 U.S. use: about 65 Mt blended vs 35 Mt portland cement."
+    }
+  ],
+  "topics": [
+    {
+      "id": "standards",
+      "name": "Standards and specifications",
+      "takeaways": [
+        "ASTM C595 / AASHTO M 240 (harmonized): Type IL(xx), xx = limestone %; >5% to 15%. Same set and strength limits as portland cement. Suffixes (MS), (HS), (HE), (A).",
+        "vs ASTM C150 / M 85: Portland cement allows up to 5% limestone since 2004 (M 85 2007). ACI 225.2 advises listing C595 IL beside C150 Type I, not raising cement content.",
+        "Model specs: AIA MasterSpec 03 30 00 and FAA P-501 (EB 106) include Type IL.",
+        "2026 revisions: C595-26 adds Type IC (ASTM only), more limestone in IP/IS; IT needs two SCMs."
+      ],
+      "resourceIds": [
+        "R1",
+        "R5",
+        "R6",
+        "R21",
+        "R28",
+        "R37",
+        "R38",
+        "R39",
+        "R40",
+        "R41"
+      ]
+    },
+    {
+      "id": "dot",
+      "name": "State DOT acceptance",
+      "takeaways": [
+        "Broad acceptance: PCA reports acceptance by 50 states by Feb 2024.",
+        "Limestone limits: Nov 2024 survey: only Idaho capped limestone below 15% (12.5%).",
+        "IL(HE) emerging: Ohio has a spec section, NYSDOT approved one product, others trialing as Type III replacement.",
+        "Approved lists: TxDOT Item 421, Caltrans authorized list (M 240), MnDOT certified sources."
+      ],
+      "resourceIds": [
+        "R5",
+        "R7",
+        "R8",
+        "R42",
+        "R45",
+        "R46",
+        "R47"
+      ]
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon, GWP and EPDs",
+      "takeaways": [
+        "About 8% lower GWP: Industry EPDs: PLC (10.8% limestone) is 8.2% lower than portland cement; FHWA cites 8.3%; ACI up to 10%.",
+        "Grinding: Extra grinding energy is outweighed by clinker reduction."
+      ],
+      "resourceIds": [
+        "R4",
+        "R26",
+        "R48",
+        "R49"
+      ]
+    },
+    {
+      "id": "fresh",
+      "name": "Fresh properties and admixtures",
+      "takeaways": [
+        "Higher fineness: Can raise water demand about 1-3 gal/yd3 and reduce bleeding.",
+        "Admixtures: Re-tune dosages; avoid over-dosing retarding water reducers; verify air entrainment per source.",
+        "Setting: Reports of unpredictable or differential set and top-down crusting in flatwork."
+      ],
+      "resourceIds": [
+        "R10",
+        "R12",
+        "R50",
+        "R51",
+        "R53"
+      ]
+    },
+    {
+      "id": "strength",
+      "name": "Strength, curing, cold weather",
+      "takeaways": [
+        "Similar 28-day strength: Some field reports of lower early strength and more weather sensitivity.",
+        "Type IL(HE): High-early PLC replacing Type III in precast and cold weather.",
+        "Cold weather: Standard ACI 306 practice applies; protect until about 500 psi."
+      ],
+      "resourceIds": [
+        "R8",
+        "R27",
+        "R29",
+        "R30",
+        "R31"
+      ]
+    },
+    {
+      "id": "durability",
+      "name": "Durability",
+      "takeaways": [
+        "Sulfate and thaumasite: PLC alone is more susceptible to thaumasite attack at low temperature; SCMs at sulfate-resisting levels mitigate. Use IL(MS)/IL(HS) or C1012 testing.",
+        "Freeze-thaw and scaling: Air, low w/cm, finishing and curing govern; scaling of IL concrete is debated (ACI Point of View).",
+        "ASR, chloride: Handled with SCMs as for portland cement; Purdue found PLC-only chloride diffusion up to 30% higher, much lower with fly ash.",
+        "Abrasion and carbonation: 2026 Temple study: comparable abrasion when properly proportioned and finished."
+      ],
+      "resourceIds": [
+        "R1",
+        "R13",
+        "R14",
+        "R15",
+        "R16",
+        "R18",
+        "R32",
+        "R42",
+        "R43",
+        "R44"
+      ]
+    },
+    {
+      "id": "scm",
+      "name": "Use with SCMs",
+      "takeaways": [
+        "Synergy: Limestone with aluminous SCMs (fly ash, slag) forms carboaluminates, refining pores.",
+        "Ternary mixes: Common in U.S. practice; needed for severe sulfate exposure."
+      ],
+      "resourceIds": [
+        "R23",
+        "R24",
+        "R32",
+        "R33",
+        "R34",
+        "R35",
+        "R36"
+      ]
+    },
+    {
+      "id": "pavement",
+      "name": "Pavements",
+      "takeaways": [
+        "Oklahoma I-40 case study: Performance comparable to Type I with no reported mixing, placing or finishing differences."
+      ],
+      "resourceIds": [
+        "R12",
+        "R22",
+        "R24",
+        "R25",
+        "R43"
+      ]
+    },
+    {
+      "id": "apps",
+      "name": "Precast, floors, bridges",
+      "takeaways": [
+        "Precast and prestressed: PCI Journal 2025 and USDOT research: IL usable in girders; prestress loss and transfer length favorable.",
+        "Industrial floors: Comparable abrasion with good finishing and curing.",
+        "Tilt-up: Bond breaker compatibility concerns raised with C595-26 compositions."
+      ],
+      "resourceIds": [
+        "R18",
+        "R19",
+        "R29",
+        "R31"
+      ]
+    },
+    {
+      "id": "mix",
+      "name": "Mix design guidance",
+      "takeaways": [
+        "1:1 replacement: Keep cement content; run trial batches and verify fresh and hardened properties.",
+        "Adjust: Water within w/cm limit, admixture type and dosage, aggregate grading."
+      ],
+      "resourceIds": [
+        "R6",
+        "R50",
+        "R51",
+        "R53"
+      ]
+    },
+    {
+      "id": "field",
+      "name": "Field issues and finishing",
+      "takeaways": [
+        "Symptoms: Crusting, differential set, crazing, delamination, plastic shrinkage cracking, low breaks.",
+        "Remedies: Control set (accelerators), evaporation retarder or fogging at 0.05-0.08 lb/ft2/hr, flat first trowel, no early sealing, no over-troweling."
+      ],
+      "resourceIds": [
+        "R9",
+        "R10",
+        "R11",
+        "R21",
+        "R52"
+      ]
+    },
+    {
+      "id": "supply",
+      "name": "Supply, producers, adoption",
+      "takeaways": [
+        "Market share: Blended cement about 5% of U.S. market in 2021; about 65 Mt vs 35 Mt portland in 2025 (ACA).",
+        "Producers: Examples seen: Amrize, Cemex, Heidelberg, GCC, St. Marys/Votorantim, Illinois Cement.",
+        "Variability: Switching IL sources is a recognized concern."
+      ],
+      "resourceIds": [
+        "R17",
+        "R20",
+        "R27",
+        "R46",
+        "R47",
+        "R48"
+      ]
+    },
+    {
+      "id": "intl",
+      "name": "Canada and Europe",
+      "takeaways": [
+        "CSA A3001 GUL: Up to 15% limestone since 2008; same requirements as GU; Blaine typically about 100 m2/kg higher.",
+        "EN 197-1 CEM II/A-L, B-L: In use in Europe since the 1960s-2000s; may be lower strength class than CEM I, unlike U.S./Canadian equivalence."
+      ],
+      "resourceIds": [
+        "R15"
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Recent news",
+      "takeaways": [],
+      "resourceIds": [
+        "R11",
+        "R17",
+        "R18",
+        "R19",
+        "R20",
+        "R21",
+        "R37",
+        "R41"
+      ]
+    },
+    {
+      "id": "gaps",
+      "name": "Research gaps",
+      "takeaways": [
+        "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
+        "Not yet covered by found sources: Shotcrete, 3D printing, mass concrete, SCC, and cost data specific to Type IL."
+      ],
+      "resourceIds": [
+        "R20",
+        "R44"
+      ]
+    },
+    {
+      "id": "guides",
+      "name": "Training and guides",
+      "takeaways": [],
+      "resourceIds": [
+        "R1",
+        "R2",
+        "R3",
+        "R5",
+        "R22",
+        "R28"
+      ]
+    }
+  ],
+  "keyIssues": [
+    "Finishing and set in slabs: Industry guidance exists but standards for finishing aids are minimal.",
+    "Source-to-source variability: Requalify mixes when cement source changes.",
+    "Sulfate and low-temperature exposure: Thaumasite risk without adequate SCMs.",
+    "Deicer scaling: Open debate on IL concrete scaling.",
+    "C595-26 Type IC and higher limestone IP/IS: Cement type label conveys less about composition.",
+    "Early strength: IL(HE) acceptance still emerging at DOTs."
+  ],
+  "resources": [
+    {
+      "id": "R1",
+      "title": "State-of-the-Art Report on Use of Limestone in Cements up to 15% (SN3148)",
+      "publisher": "PCA",
+      "type": "Report",
+      "date": "2024-06",
+      "url": "https://www.cement.org/wp-content/uploads/2024/06/2024-SN3148.03.pdf",
+      "topics": [
+        "standards",
+        "durability",
+        "guides"
+      ]
+    },
+    {
+      "id": "R2",
+      "title": "Blended Cements research guide",
+      "publisher": "PCA Library",
+      "type": "Guide",
+      "date": null,
+      "url": "https://pcalibrary.libguides.com/blended-cements",
+      "topics": [
+        "guides"
+      ]
+    },
+    {
+      "id": "R3",
+      "title": "Portland Limestone Cement library guide (Zotero feed)",
+      "publisher": "ACA Library",
+      "type": "Guide",
+      "date": null,
+      "url": "https://cement.libguides.com/guides/plc",
+      "topics": [
+        "guides"
+      ]
+    },
+    {
+      "id": "R4",
+      "title": "Portland-Limestone Cement industry-average EPD (revised)",
+      "publisher": "PCA/ACA",
+      "type": "EPD",
+      "date": "2026-07",
+      "url": "https://www.cement.org/wp-content/uploads/2026/07/PCA_EPD_PLC_Athena_Final_revised_Jul2026.pdf",
+      "topics": [
+        "carbon"
+      ]
+    },
+    {
+      "id": "R5",
+      "title": "FHWA-HRT-23-104 Portland Limestone Cement TechNote",
+      "publisher": "FHWA",
+      "type": "Guide",
+      "date": "2023",
+      "url": "https://highways.dot.gov/media/34231",
+      "topics": [
+        "standards",
+        "dot",
+        "guides"
+      ]
+    },
+    {
+      "id": "R6",
+      "title": "ACI 225.2-25 Type IL Cements and Specifications TechNote",
+      "publisher": "ACI",
+      "type": "Guide",
+      "date": "2025",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/225.2-25_preview.pdf",
+      "topics": [
+        "standards",
+        "mix"
+      ]
+    },
+    {
+      "id": "R7",
+      "title": "State DOT Cementitious Materials Content Spec Table",
+      "publisher": "CP Tech Center",
+      "type": "Data",
+      "date": "2025",
+      "url": "https://www.cptechcenter.org/state-dot-cementitious-materials-content-spec-table/",
+      "topics": [
+        "dot"
+      ]
+    },
+    {
+      "id": "R8",
+      "title": "Type IL Restriction Survey (state DOTs)",
+      "publisher": "InTrans / Iowa State",
+      "type": "Survey",
+      "date": "2024-11",
+      "url": "https://www.intrans.iastate.edu/wp-content/uploads/sites/7/2025/01/Type-IL-Restriction-Survey-Nov.-2024.pdf",
+      "topics": [
+        "dot",
+        "strength"
+      ]
+    },
+    {
+      "id": "R9",
+      "title": "Preconstruction Evaluation and Placement of PLC Concrete",
+      "publisher": "Concrete State (Kammer)",
+      "type": "Presentation",
+      "date": null,
+      "url": "https://www.concretestate.org/uploads/1/1/8/9/118914016/kyle_kammer.pdf",
+      "topics": [
+        "field"
+      ]
+    },
+    {
+      "id": "R10",
+      "title": "Field Guide to Placing and Finishing Type IL Cement Concrete",
+      "publisher": "Concrete International / ASCC",
+      "type": "Article",
+      "date": "2025-08",
+      "url": "https://ascconline.org/Portals/ASCC/Field%20Guide%20to%20Placing%20and%20Finishing%20Type%20IL%20Cement%20Concrete%20CI%202025-08%20White%20Bridwell%20Holland%20Hernandez.pdf",
+      "topics": [
+        "field",
+        "fresh"
+      ]
+    },
+    {
+      "id": "R11",
+      "title": "NRMCA, ACA panel on Type IL cement finishing (NAHB)",
+      "publisher": "NRMCA",
+      "type": "News",
+      "date": "2026",
+      "url": "https://www.naylornetwork.com/nrc-nwl/articles/index-v5.asp?aid=917613&issueID=100468",
+      "topics": [
+        "field",
+        "news"
+      ]
+    },
+    {
+      "id": "R12",
+      "title": "Q&A: Admixtures for Modern Paving Concrete webinar",
+      "publisher": "CP Tech Center",
+      "type": "Q&A",
+      "date": "2025-10",
+      "url": "https://www.cptechcenter.org/wp-content/uploads/sites/7/2025/10/QandA-from-Admixtures-Tech-Tuesday-Webinar-Sep-2025-mdn.pdf",
+      "topics": [
+        "fresh",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R13",
+      "title": "Long-term durability of PLC mortars in magnesium sulfate (thaumasite)",
+      "publisher": "Cem. Concr. Composites",
+      "type": "Paper",
+      "date": "2004",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0958946503001604",
+      "topics": [
+        "durability"
+      ]
+    },
+    {
+      "id": "R14",
+      "title": "Influence of PLC composition on sulfate attack performance",
+      "publisher": "J. Sustainable Cement-Based Materials",
+      "type": "Paper",
+      "date": "2024-12",
+      "url": "https://doi.org/10.1080/21650373.2024.2440734",
+      "topics": [
+        "durability"
+      ]
+    },
+    {
+      "id": "R15",
+      "title": "Durability of Concrete Produced with PLC: Canadian Studies",
+      "publisher": "FCPA / PCA",
+      "type": "Report",
+      "date": "2010",
+      "url": "https://www.fcpa.org/wp-content/uploads/The_Durability_of_Concrete_Produced_with_PLC-Canada.pdf",
+      "topics": [
+        "durability",
+        "intl"
+      ]
+    },
+    {
+      "id": "R16",
+      "title": "Thaumasite formation in PLC mortars: wetting/drying and immersion",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2023-12",
+      "url": "https://doi.org/10.1016/j.wear.2023.205223",
+      "topics": [
+        "durability"
+      ]
+    },
+    {
+      "id": "R17",
+      "title": "ACA Launches First-Ever Blended Cement Awards",
+      "publisher": "ACA",
+      "type": "News",
+      "date": "2026-06-18",
+      "url": "https://www.cement.org/2026/06/18/aca-launches-first-ever-blended-cement-awards/",
+      "topics": [
+        "news",
+        "supply"
+      ]
+    },
+    {
+      "id": "R18",
+      "title": "Abrasion Resistance of PLC Systems for Industrial Floors (Temple Univ.)",
+      "publisher": "ACA / ACI Foundation / CAF",
+      "type": "Report",
+      "date": "2026-04-23",
+      "url": "https://www.cement.org/2026/04/23/new-study-released-on-abrasion-resistance-of-portland-limestone-cement-plc-systems-for-industrial-floors/",
+      "topics": [
+        "apps",
+        "durability",
+        "news"
+      ]
+    },
+    {
+      "id": "R19",
+      "title": "Amrize study supports Type IL cement in industrial floors",
+      "publisher": "CemNet",
+      "type": "News",
+      "date": "2026-09-09",
+      "url": "https://www.cemnet.com/News/story/182048/amrize-study-supports-type-il-cement-in-industrial-floors.html",
+      "topics": [
+        "apps",
+        "news"
+      ]
+    },
+    {
+      "id": "R20",
+      "title": "Assessing Source-to-Source Variability of PLCs vs. PCs (Cemex)",
+      "publisher": "National Concrete Consortium",
+      "type": "Presentation",
+      "date": "2026-09-30",
+      "url": "https://www.intrans.iastate.edu/wp-content/uploads/2026/09/19a-Analysis-of-variability-of-PLCs-vs-PCs-NCC-Sept-2026.pdf",
+      "topics": [
+        "gaps",
+        "supply",
+        "news"
+      ]
+    },
+    {
+      "id": "R21",
+      "title": "C595-26 changes and tilt-up concerns (J. Wimberly)",
+      "publisher": "LinkedIn",
+      "type": "Opinion",
+      "date": "2026-10-16",
+      "url": "https://www.linkedin.com/posts/jason-wimberly-p-e-mce-faci-00245511_cement-plc-astmc595-activity-7516935270559186945-hv4Q",
+      "topics": [
+        "standards",
+        "field",
+        "news"
+      ]
+    },
+    {
+      "id": "R22",
+      "title": "Portland Limestone Cements for Paving Applications (webinar)",
+      "publisher": "CP Tech Center",
+      "type": "Webinar",
+      "date": null,
+      "url": "https://www.cptechcenter.org/webinars-and-videos/portland-limestone-cements-plcs-for-paving-applications/",
+      "topics": [
+        "pavement",
+        "guides"
+      ]
+    },
+    {
+      "id": "R23",
+      "title": "Cementitious Materials resources",
+      "publisher": "CP Tech Center",
+      "type": "Guide",
+      "date": null,
+      "url": "https://www.cptechcenter.org/cementitious-materials/",
+      "topics": [
+        "scm"
+      ]
+    },
+    {
+      "id": "R24",
+      "title": "SCMs and Blended Cements to Improve Sustainability of Pavements",
+      "publisher": "CP Tech Center",
+      "type": "Tech brief",
+      "date": "2018-12",
+      "url": "https://www.cptechcenter.org/wp-content/uploads/2018/12/SCM_tech_brief.pdf",
+      "topics": [
+        "scm",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R25",
+      "title": "Type IL Case Study: I-40 Port of Entry, Beckham County, OK",
+      "publisher": "CP Tech Center",
+      "type": "Case study",
+      "date": "2025-02",
+      "url": "https://www.cptechcenter.org/wp-content/uploads/2025/02/Oklahoma-I-40-PLC-Case-Study.pdf",
+      "topics": [
+        "pavement"
+      ]
+    },
+    {
+      "id": "R26",
+      "title": "Reduced-Clinker Concrete",
+      "publisher": "CP Tech Center",
+      "type": "Guide",
+      "date": null,
+      "url": "https://www.cptechcenter.org/reduced-clinker-concrete/",
+      "topics": [
+        "carbon"
+      ]
+    },
+    {
+      "id": "R27",
+      "title": "Product documents incl. Type IL(HE)",
+      "publisher": "Illinois Cement Co.",
+      "type": "Product data",
+      "date": null,
+      "url": "https://www.illinoiscement.com/documents/",
+      "topics": [
+        "supply",
+        "strength"
+      ]
+    },
+    {
+      "id": "R28",
+      "title": "Types of Cement",
+      "publisher": "ACA",
+      "type": "Guide",
+      "date": null,
+      "url": "https://www.cement.org/cement-concrete/types-of-cement/",
+      "topics": [
+        "standards",
+        "guides"
+      ]
+    },
+    {
+      "id": "R29",
+      "title": "High Early Strength Limestone Blended Cement for Transportation Structures",
+      "publisher": "USDOT ROSA P",
+      "type": "Report",
+      "date": null,
+      "url": "https://rosap.ntl.bts.gov/view/dot/31925/dot_31925_DS1.pdf",
+      "topics": [
+        "apps",
+        "strength"
+      ]
+    },
+    {
+      "id": "R30",
+      "title": "ACI 306R-16 Guide to Cold Weather Concreting",
+      "publisher": "ACI",
+      "type": "Guide",
+      "date": "2016",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/306R-16_preview.pdf",
+      "topics": [
+        "strength"
+      ]
+    },
+    {
+      "id": "R31",
+      "title": "Type IL cement use in precast, prestressed concrete",
+      "publisher": "PCI Journal",
+      "type": "Article",
+      "date": "2025-03",
+      "url": "https://www.pci.org/PCI_Docs/Publications/PCI%20Journal/2025/March-April/Portland_Limeston_Cement_MA25_R01.pdf",
+      "topics": [
+        "apps",
+        "strength"
+      ]
+    },
+    {
+      "id": "R32",
+      "title": "Purdue JTRP report: interground limestone cements and fly ash",
+      "publisher": "Purdue JTRP",
+      "type": "Report",
+      "date": "2013",
+      "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=3039&context=jtrp",
+      "topics": [
+        "scm",
+        "durability"
+      ]
+    },
+    {
+      "id": "R33",
+      "title": "Synergistic effect between limestone powder and SCMs",
+      "publisher": "Advances in Cement Research",
+      "type": "Paper",
+      "date": null,
+      "url": "https://doi.org/10.1680/jadcr.21.00027",
+      "topics": [
+        "scm"
+      ]
+    },
+    {
+      "id": "R34",
+      "title": "Ternary binders with slag, fly ash and limestone (XC3 exposure)",
+      "publisher": "Materials (PMC)",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8540392/",
+      "topics": [
+        "scm"
+      ]
+    },
+    {
+      "id": "R35",
+      "title": "Hydration of ternary portland cements with limestone and fly ash",
+      "publisher": "Cem. Concr. Research",
+      "type": "Paper",
+      "date": "2010",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008884610002577",
+      "topics": [
+        "scm"
+      ]
+    },
+    {
+      "id": "R36",
+      "title": "Synergy between fly ash and limestone powder in ternary cements",
+      "publisher": "Cem. Concr. Composites",
+      "type": "Paper",
+      "date": "2011",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2010.09.006",
+      "topics": [
+        "scm"
+      ]
+    },
+    {
+      "id": "R37",
+      "title": "Significant Recent Revisions to Cement and Concrete (Giannini)",
+      "publisher": "ACA / Concrete International",
+      "type": "Article",
+      "date": "2026-10",
+      "url": "https://www.cement.org/wp-content/uploads/2026/10/CI4810Giannini.pdf",
+      "topics": [
+        "standards",
+        "news"
+      ]
+    },
+    {
+      "id": "R38",
+      "title": "Standards update, NCC Spring 2026",
+      "publisher": "CP Tech Center / NCC",
+      "type": "Presentation",
+      "date": "2026-04",
+      "url": "https://www.cptechcenter.org/wp-content/uploads/sites/7/2026/04/04a-Standards_NCC_Spring2026.pdf",
+      "topics": [
+        "standards"
+      ]
+    },
+    {
+      "id": "R39",
+      "title": "How Are Blended Cement Standards Changing in 2026? (IS793)",
+      "publisher": "ACA",
+      "type": "Info sheet",
+      "date": "2026",
+      "url": "https://doi.org/10.70909/aca.2026.is793",
+      "topics": [
+        "standards"
+      ]
+    },
+    {
+      "id": "R40",
+      "title": "ASTM C595/C595M-26 Blended Hydraulic Cements",
+      "publisher": "ASTM (ANSI webstore)",
+      "type": "Standard",
+      "date": "2026",
+      "url": "https://webstore.ansi.org/standards/astm/astmc595c595m26",
+      "topics": [
+        "standards"
+      ]
+    },
+    {
+      "id": "R41",
+      "title": "ACA Publishes Key Updates on Changes in Cement Standards",
+      "publisher": "NRMCA newsletter",
+      "type": "News",
+      "date": "2026",
+      "url": "https://www.naylornetwork.com/nrc-nwl/articles/index-v5.asp?aid=930179&issueID=100477",
+      "topics": [
+        "standards",
+        "news"
+      ]
+    },
+    {
+      "id": "R42",
+      "title": "C-06-22 Evaluation of Bridge Deck Concrete Scaling",
+      "publisher": "NYSDOT",
+      "type": "Research project",
+      "date": null,
+      "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/trans-r-and-d-repository/C-06-22.pdf",
+      "topics": [
+        "durability",
+        "dot"
+      ]
+    },
+    {
+      "id": "R43",
+      "title": "Chemical Deicers and Concrete Pavement: Impacts and Mitigation",
+      "publisher": "FHWA",
+      "type": "Guide",
+      "date": "2017",
+      "url": "https://www.fhwa.dot.gov/pavement/pubs/hif17008.pdf",
+      "topics": [
+        "durability",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R44",
+      "title": "Point of View: Type IL Cement and Concrete Scaling",
+      "publisher": "ACI",
+      "type": "Article",
+      "date": null,
+      "url": "https://doi.org/10.14359/51748936",
+      "topics": [
+        "durability",
+        "gaps"
+      ]
+    },
+    {
+      "id": "R45",
+      "title": "Pavement Manual 7.2 Blended Cements",
+      "publisher": "TxDOT",
+      "type": "Spec/manual",
+      "date": null,
+      "url": "https://www.txdot.gov/manuals/mnt/pdm/materials_investigation_and_selection_information/concrete_mat-i1014264/_blended_cements-i1053173.html",
+      "topics": [
+        "dot"
+      ]
+    },
+    {
+      "id": "R46",
+      "title": "Authorized Cementitious Materials List",
+      "publisher": "Caltrans",
+      "type": "Approved list",
+      "date": null,
+      "url": "https://mets.dot.ca.gov/aml/CementitiousList.php",
+      "topics": [
+        "dot",
+        "supply"
+      ]
+    },
+    {
+      "id": "R47",
+      "title": "Certified Sources of Cement and Blended Cement",
+      "publisher": "MnDOT",
+      "type": "Approved list",
+      "date": null,
+      "url": "https://www.dot.state.mn.us/products/concrete/certifiedcbcs.html",
+      "topics": [
+        "dot",
+        "supply"
+      ]
+    },
+    {
+      "id": "R48",
+      "title": "Portland-Limestone Cement brochure",
+      "publisher": "GCC",
+      "type": "Product data",
+      "date": "2022-03",
+      "url": "https://www.gcc.com/wp-content/uploads/2022/03/GCC-PLC-032022-web.pdf",
+      "topics": [
+        "carbon",
+        "supply"
+      ]
+    },
+    {
+      "id": "R49",
+      "title": "MIT Concrete Sustainability Hub",
+      "publisher": "MIT CSHub",
+      "type": "Research hub",
+      "date": null,
+      "url": "https://cshub.mit.edu/",
+      "topics": [
+        "carbon"
+      ]
+    },
+    {
+      "id": "R50",
+      "title": "Field Guide to Placing and Finishing Type IL (ACI abstract)",
+      "publisher": "ACI",
+      "type": "Article",
+      "date": "2025-08",
+      "url": "https://doi.org/10.14359/51749080",
+      "topics": [
+        "mix",
+        "fresh"
+      ]
+    },
+    {
+      "id": "R51",
+      "title": "IL/PLC Cements and Admixture Combinations",
+      "publisher": "CO-WY ACPA",
+      "type": "Presentation",
+      "date": "2024",
+      "url": "https://www.cowyacpa.org/wp-content/uploads/2024/03/22-Addressing-Admixture-Combinations.pdf",
+      "topics": [
+        "fresh",
+        "mix"
+      ]
+    },
+    {
+      "id": "R52",
+      "title": "ACI-ASCC Survey on Type IL cement experience",
+      "publisher": "ASCC / Concrete International",
+      "type": "Survey article",
+      "date": null,
+      "url": "https://ascconline.org/Portals/ASCC/CI4602Klinger.pdf",
+      "topics": [
+        "field"
+      ]
+    },
+    {
+      "id": "R53",
+      "title": "FAQ: w/c ratio and admixtures for workability with Type IL",
+      "publisher": "ACI",
+      "type": "FAQ",
+      "date": null,
+      "url": "https://www.concrete.org/frequentlyaskedquestions.aspx?faqid=916",
+      "topics": [
+        "mix",
+        "fresh"
+      ]
+    }
+  ],
+  "changeLog": [
+    {
+      "date": "2026-10-28",
+      "entry": "Initial index built: 16 topics, 53 resources."
+    }
+  ],
+  "gaps": [
+    "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
+    "Not yet covered by found sources: Shotcrete, 3D printing, mass concrete, SCC, and cost data specific to Type IL."
+  ]
+}
