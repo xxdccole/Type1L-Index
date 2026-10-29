@@ -2,8 +2,23 @@
   "title": "Type 1L Cement & Concrete Index",
   "summary": "A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.",
   "summaryText": "Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.",
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "whatsNew": [
+    {
+      "date": "Mar 2026",
+      "title": "First Type IL shotcrete study (newly indexed)",
+      "detail": "PLC wet-mix shotcrete needs more alkali-free accelerator early, but 7/28-day strength and fiber toughness match portland cement (ACI Materials Journal)."
+    },
+    {
+      "date": "Oct 6",
+      "title": "New cementitious materials PCR",
+      "detail": "ACA is collecting producer data for new industry-average EPDs, including PLC."
+    },
+    {
+      "date": "Dec 2025",
+      "title": "Indiana caps Type IL limestone at 10%",
+      "detail": "INDOT RSP 901-M-069 limits limestone in finished IL cement to 10% by mass."
+    },
     {
       "date": "Oct 2026",
       "title": "ASTM C595-26 revisions explained",
@@ -55,7 +70,8 @@
         "R38",
         "R39",
         "R40",
-        "R41"
+        "R41",
+        "R63"
       ]
     },
     {
@@ -65,7 +81,8 @@
         "Broad acceptance: PCA reports acceptance by 50 states by Feb 2024.",
         "Limestone limits: Nov 2024 survey: only Idaho capped limestone below 15% (12.5%).",
         "IL(HE) emerging: Ohio has a spec section, NYSDOT approved one product, others trialing as Type III replacement.",
-        "Approved lists: TxDOT Item 421, Caltrans authorized list (M 240), MnDOT certified sources."
+        "Approved lists: TxDOT Item 421, Caltrans authorized list (M 240), MnDOT certified sources.",
+        "Tighter caps returning: INDOT RSP 901-M-069 (effective Dec 2025) limits limestone in Type IL to 10% by mass of the finished cement, including production tolerance."
       ],
       "resourceIds": [
         "R5",
@@ -74,7 +91,10 @@
         "R42",
         "R45",
         "R46",
-        "R47"
+        "R47",
+        "R60",
+        "R61",
+        "R64"
       ]
     },
     {
@@ -82,13 +102,16 @@
       "name": "Carbon, GWP and EPDs",
       "takeaways": [
         "About 8% lower GWP: Industry EPDs: PLC (10.8% limestone) is 8.2% lower than portland cement; FHWA cites 8.3%; ACI up to 10%.",
-        "Grinding: Extra grinding energy is outweighed by clinker reduction."
+        "Grinding: Extra grinding energy is outweighed by clinker reduction.",
+        "New PCR (Oct 2026): ACA is surveying U.S. producers for updated industry-average EPDs, including portland-limestone cement."
       ],
       "resourceIds": [
         "R4",
         "R26",
         "R48",
-        "R49"
+        "R49",
+        "R54",
+        "R58"
       ]
     },
     {
@@ -130,7 +153,8 @@
         "Sulfate and thaumasite: PLC alone is more susceptible to thaumasite attack at low temperature; SCMs at sulfate-resisting levels mitigate. Use IL(MS)/IL(HS) or C1012 testing.",
         "Freeze-thaw and scaling: Air, low w/cm, finishing and curing govern; scaling of IL concrete is debated (ACI Point of View).",
         "ASR, chloride: Handled with SCMs as for portland cement; Purdue found PLC-only chloride diffusion up to 30% higher, much lower with fly ash.",
-        "Abrasion and carbonation: 2026 Temple study: comparable abrasion when properly proportioned and finished."
+        "Abrasion and carbonation: 2026 Temple study: comparable abrasion when properly proportioned and finished.",
+        "Sulfate designation changed in C595-26 / M 240-26: Type IL (MS)/(HS) now based mainly on ASTM C452 14-day expansion (MS at 0.050% max) rather than C1012 (Giannini, CI Oct 2026)."
       ],
       "resourceIds": [
         "R1",
@@ -142,7 +166,9 @@
         "R32",
         "R42",
         "R43",
-        "R44"
+        "R44",
+        "R62",
+        "R63"
       ]
     },
     {
@@ -173,7 +199,8 @@
         "R22",
         "R24",
         "R25",
-        "R43"
+        "R43",
+        "R64"
       ]
     },
     {
@@ -182,13 +209,18 @@
       "takeaways": [
         "Precast and prestressed: PCI Journal 2025 and USDOT research: IL usable in girders; prestress loss and transfer length favorable.",
         "Industrial floors: Comparable abrasion with good finishing and curing.",
-        "Tilt-up: Bond breaker compatibility concerns raised with C595-26 compositions."
+        "Tilt-up: Bond breaker compatibility concerns raised with C595-26 compositions.",
+        "Shotcrete: ACI Materials Journal 2026 study found PLC wet-mix shotcrete needs more alkali-free accelerator for early strength, with similar 7- and 28-day strength and fiber toughness to portland cement.",
+        "3D printing: Early studies use Type IL / GULb binders with cellulose nanomaterials or quarry fines to meet printability."
       ],
       "resourceIds": [
         "R18",
         "R19",
         "R29",
-        "R31"
+        "R31",
+        "R55",
+        "R56",
+        "R57"
       ]
     },
     {
@@ -217,7 +249,8 @@
         "R10",
         "R11",
         "R21",
-        "R52"
+        "R52",
+        "R62"
       ]
     },
     {
@@ -242,10 +275,13 @@
       "name": "Canada and Europe",
       "takeaways": [
         "CSA A3001 GUL: Up to 15% limestone since 2008; same requirements as GU; Blaine typically about 100 m2/kg higher.",
-        "EN 197-1 CEM II/A-L, B-L: In use in Europe since the 1960s-2000s; may be lower strength class than CEM I, unlike U.S./Canadian equivalence."
+        "EN 197-1 CEM II/A-L, B-L: In use in Europe since the 1960s-2000s; may be lower strength class than CEM I, unlike U.S./Canadian equivalence.",
+        "GCCA: Treats limestone as a clinker substitute with synergies with other SCMs; flags clay and organic contamination as frost-durability risks."
       ],
       "resourceIds": [
-        "R15"
+        "R15",
+        "R58",
+        "R59"
       ]
     },
     {
@@ -260,7 +296,8 @@
         "R20",
         "R21",
         "R37",
-        "R41"
+        "R41",
+        "R54"
       ]
     },
     {
@@ -268,11 +305,15 @@
       "name": "Research gaps",
       "takeaways": [
         "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
-        "Not yet covered by found sources: Shotcrete, 3D printing, mass concrete, SCC, and cost data specific to Type IL."
+        "Partly covered now: Shotcrete (one 2026 ACI study) and 3D printing (two lab studies).",
+        "Not yet covered by found sources: Mass concrete, SCC, and cost data specific to Type IL; primary ACI 318/301 code text."
       ],
       "resourceIds": [
         "R20",
-        "R44"
+        "R44",
+        "R55",
+        "R56",
+        "R57"
       ]
     },
     {
@@ -295,7 +336,8 @@
     "Sulfate and low-temperature exposure: Thaumasite risk without adequate SCMs.",
     "Deicer scaling: Open debate on IL concrete scaling.",
     "C595-26 Type IC and higher limestone IP/IS: Cement type label conveys less about composition.",
-    "Early strength: IL(HE) acceptance still emerging at DOTs."
+    "Early strength: IL(HE) acceptance still emerging at DOTs.",
+    "State limestone caps: Some DOTs (Indiana at 10%) cap IL limestone below the 15% C595 maximum, so a national IL product may not qualify everywhere."
   ],
   "resources": [
     {
@@ -916,16 +958,150 @@
         "mix",
         "fresh"
       ]
+    },
+    {
+      "id": "R54",
+      "title": "New Cementitious Materials PCR Advances Environmental Reporting (new industry-average EPDs underway)",
+      "publisher": "ACA",
+      "type": "news",
+      "date": "2026-10-06",
+      "url": "https://www.cement.org/2026/10/06/new-cementitious-materials-pcr-advances-environmental-reporting/",
+      "topics": [
+        "carbon",
+        "news"
+      ]
+    },
+    {
+      "id": "R55",
+      "title": "Development of Wet-Mix Shotcrete with Portland-Limestone Cement (Zhang, Zhang, Morgan, Mindess; Materials Journal 123(2))",
+      "publisher": "ACI",
+      "type": "paper",
+      "date": "2026-03",
+      "url": "https://doi.org/10.14359/51749444",
+      "topics": [
+        "apps",
+        "gaps"
+      ]
+    },
+    {
+      "id": "R56",
+      "title": "Performance evaluation of limestone-blended cement and cellulose nanomaterials in 3D concrete printing",
+      "publisher": "Case Studies in Construction Materials",
+      "type": "paper",
+      "date": "2025-05",
+      "url": "https://doi.org/10.1016/j.cscm.2025.e04758",
+      "topics": [
+        "apps",
+        "gaps"
+      ]
+    },
+    {
+      "id": "R57",
+      "title": "Developing 3D Printable Concrete using Quarry By-Products as Partial Replacement for Cement (Type IL)",
+      "publisher": "Purdue e-Pubs (conference paper)",
+      "type": "paper",
+      "date": "2025",
+      "url": "https://doi.org/10.5703/1288284318057",
+      "topics": [
+        "apps",
+        "gaps"
+      ]
+    },
+    {
+      "id": "R58",
+      "title": "Blended Cements and Supplementary Cementitious Materials policy document",
+      "publisher": "GCCA",
+      "type": "policy document",
+      "date": "2025-07",
+      "url": "https://gccassociation.org/wp-content/uploads/2025/07/GCCA_Blended_Cements_and_SCM_Policy_Document_Digital.pdf",
+      "topics": [
+        "intl",
+        "carbon"
+      ]
+    },
+    {
+      "id": "R59",
+      "title": "Limestone filler (clinker substitutes)",
+      "publisher": "GCCA",
+      "type": "guide",
+      "date": null,
+      "url": "https://gccassociation.org/cement-and-concrete-innovation/clinker-substitutes/limestone-filler/",
+      "topics": [
+        "intl"
+      ]
+    },
+    {
+      "id": "R60",
+      "title": "RSP 901-M-069 Portland Cements and Blended Cements (Type IL limestone capped at 10%)",
+      "publisher": "INDOT",
+      "type": "spec",
+      "date": "2025-12-01",
+      "url": "https://www.in.gov/dot/div/contracts/standards/rsp/sep25/900/901-M-069%20251201.pdf",
+      "topics": [
+        "dot"
+      ]
+    },
+    {
+      "id": "R61",
+      "title": "Qualified Producer List of Cement Plants",
+      "publisher": "IDOT (Illinois)",
+      "type": "approved list",
+      "date": "2026",
+      "url": "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/doing-business/specialty-lists/highways/materials/materials---physical-research/cement/qualifiedcementplants.pdf",
+      "topics": [
+        "dot"
+      ]
+    },
+    {
+      "id": "R62",
+      "title": "Tech Bulletin: Preventing Scaling of Concrete with Portland Limestone Cement",
+      "publisher": "Michigan Concrete Association",
+      "type": "tech bulletin",
+      "date": "2024-07",
+      "url": "https://www.miconcrete.org/hubfs/MCA%20Scaling%20Tech%20Bulletin%2007012024%20%28Type%20IL-PLC%29%20REV%2008192034.pdf?hsLang=en",
+      "topics": [
+        "durability",
+        "field"
+      ]
+    },
+    {
+      "id": "R63",
+      "title": "Guide to Selecting Exposure Classes and Requirements for Concrete",
+      "publisher": "NRMCA",
+      "type": "guide",
+      "date": null,
+      "url": "https://www.nrmca.org/wp-content/uploads/NRMCA_GuideToSelectingExposureClasses.pdf",
+      "topics": [
+        "standards",
+        "durability"
+      ]
+    },
+    {
+      "id": "R64",
+      "title": "Assessment of Limestone Blended Cements for Transportation Applications",
+      "publisher": "USDOT ROSA P",
+      "type": "report",
+      "date": null,
+      "url": "https://rosap.ntl.bts.gov/view/dot/32794/dot_32794_DS1.pdf",
+      "topics": [
+        "dot",
+        "pavement"
+      ]
     }
   ],
   "changeLog": [
     {
       "date": "2026-10-28",
       "entry": "Initial index built: 16 topics, 53 resources."
+    },
+    {
+      "date": "2026-10-29",
+      "entry": "Added 11 resources (R54-R64): Type IL shotcrete and 3D printing studies, ACA PCR news, GCCA documents, INDOT and IDOT cement specs/lists, Michigan scaling bulletin, NRMCA exposure class guide, USDOT limestone blended cement report. Updated DOT, durability, applications, carbon, international takeaways and research gaps."
     }
   ],
   "gaps": [
     "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
-    "Not yet covered by found sources: Shotcrete, 3D printing, mass concrete, SCC, and cost data specific to Type IL."
+    "Partly covered now: Shotcrete (one 2026 ACI study) and 3D printing (two lab studies).",
+    "Not yet covered by found sources: Mass concrete, SCC, and cost data specific to Type IL; primary ACI 318/301 code text."
   ]
 }
