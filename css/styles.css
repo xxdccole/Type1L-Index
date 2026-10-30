@@ -152,7 +152,7 @@ section:focus-visible {
 
 .meta-line {
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9167rem;
 }
 
 .site-nav {
@@ -260,7 +260,7 @@ main > #content > section:first-child {
   content: counter(topic, decimal-leading-zero);
   color: var(--muted);
   font-variant-numeric: tabular-nums;
-  font-size: 0.85rem;
+  font-size: 0.9167rem;
   flex: 0 0 auto;
 }
 
@@ -296,9 +296,9 @@ main > #content > section:first-child {
 .subhead {
   margin: 1.2rem 0 0.35rem;
   font-family: var(--sans);
-  font-size: 0.78rem;
+  font-size: 0.9167rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
 }
@@ -326,7 +326,7 @@ main > #content > section:first-child {
   align-items: center;
   margin-top: 0.2rem;
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 0.9167rem;
 }
 
 .controls,
@@ -353,8 +353,9 @@ main > #content > section:first-child {
   min-width: auto;
 }
 
-label {
-  font-size: 0.8rem;
+label,
+legend {
+  font-size: 0.9167rem;
   font-weight: 600;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -402,7 +403,7 @@ button:disabled {
   display: none;
   margin: 0 0 0.5rem;
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 0.9167rem;
 }
 
 .table-scroll {
@@ -429,9 +430,9 @@ td {
 thead th {
   background: var(--header-bg);
   color: var(--muted);
-  font-size: 0.78rem;
+  font-size: 0.9167rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   border-bottom: 2px solid var(--line);
   position: sticky;
@@ -525,7 +526,7 @@ tbody tr:hover .title-col {
   border-radius: 999px;
   background: var(--chip);
   color: var(--chip-ink);
-  font-size: 0.8125rem;
+  font-size: 0.9167rem;
   line-height: 1.45;
   text-decoration-thickness: 1px;
 }
@@ -665,5 +666,107 @@ a.chip {
 
   a {
     color: #000;
+  }
+}
+
+/* ---- additions: topic pages, subscribe, follow ---- */
+.masthead.slim {
+  padding: 1.6rem 0 1.1rem;
+}
+
+.crumbs {
+  margin: 0 0 0.6rem;
+  color: var(--muted);
+  font-size: 0.9167rem;
+}
+
+.crumbs a {
+  color: var(--muted);
+}
+
+.topic-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.topic-name a:hover,
+.topic-name a:focus-visible {
+  text-decoration: underline;
+}
+
+.more {
+  margin-top: 0.75rem;
+}
+
+.h3like {
+  margin: 1.6rem 0 0.5rem;
+  font-size: 1.2rem;
+}
+
+.lede-small {
+  margin: 0 0 0.9rem;
+  max-width: 42rem;
+}
+
+.note {
+  margin-top: 0.5rem;
+  font-size: 0.9167rem;
+}
+
+.subscribe-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 0.9rem;
+  align-items: end;
+  margin: 0 0 0.25rem;
+}
+
+.subscribe-form fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  min-width: 12rem;
+}
+
+.subscribe-form legend {
+  padding: 0;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+label.radio {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink);
+}
+
+label.radio input {
+  width: 1.2rem;
+  height: 1.2rem;
+  min-height: 0;
+  accent-color: var(--accent);
+}
+
+#subscribe a,
+.site-footer a {
+  overflow-wrap: anywhere;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media print {
+  #subscribe {
+    display: none !important;
   }
 }

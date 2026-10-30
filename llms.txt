@@ -1,0 +1,31 @@
+# Type IL Cement & Concrete Index
+
+> A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.
+
+Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.
+
+## Topics
+
+- [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 12 resources
+- [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 12 resources
+- [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 8 resources
+- [Fresh properties and admixtures](https://xxdccole.github.io/Type1L-Index/topics/fresh/): 7 resources
+- [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 7 resources
+- [Durability](https://xxdccole.github.io/Type1L-Index/topics/durability/): 22 resources
+- [Use with SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm/): 12 resources
+- [Pavements](https://xxdccole.github.io/Type1L-Index/topics/pavement/): 6 resources
+- [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 8 resources
+- [Mix design guidance](https://xxdccole.github.io/Type1L-Index/topics/mix/): 4 resources
+- [Field issues and finishing](https://xxdccole.github.io/Type1L-Index/topics/field/): 7 resources
+- [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 6 resources
+- [Canada and Europe](https://xxdccole.github.io/Type1L-Index/topics/intl/): 3 resources
+- [Recent news](https://xxdccole.github.io/Type1L-Index/topics/news/): 11 resources
+- [Research gaps](https://xxdccole.github.io/Type1L-Index/topics/gaps/): 7 resources
+- [Training and guides](https://xxdccole.github.io/Type1L-Index/topics/guides/): 7 resources
+- [Microcracking and the interfacial transition zone](https://xxdccole.github.io/Type1L-Index/topics/microcracking/): 18 resources
+
+## Data and feeds
+
+- [Full index as JSON](https://xxdccole.github.io/Type1L-Index/data/site-data.json)
+- [Daily digest feed](https://xxdccole.github.io/Type1L-Index/feed-daily.xml)
+- [Weekly digest feed](https://xxdccole.github.io/Type1L-Index/feed-weekly.xml)

@@ -1,0 +1,22 @@
+{
+  "baseUrl": "https://xxdccole.github.io/Type1L-Index/",
+  "language": "en",
+  "indexNowKey": "87745bb786a64fd7ac1fda93af53f392",
+  "verification": {
+    "google": "",
+    "bing": ""
+  },
+  "newsletter": {
+    "enabled": false,
+    "formAction": "",
+    "emailField": "email",
+    "frequencyField": "tag",
+    "frequencies": [
+      { "value": "weekly", "label": "Weekly digest" },
+      { "value": "daily", "label": "Daily digest" }
+    ],
+    "hiddenFields": {},
+    "target": "_blank",
+    "note": "You can unsubscribe from any email."
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "title": "Type 1L Cement & Concrete Index",
+  "title": "Type IL Cement & Concrete Index",
   "summary": "A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.",
   "summaryText": "Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.",
   "lastUpdated": "2026-10-30",
@@ -437,6 +437,7 @@
       "publisher": "PCA",
       "type": "Report",
       "date": "2024-06",
+      "added": "2026-10-28",
       "url": "https://www.cement.org/wp-content/uploads/2024/06/2024-SN3148.03.pdf",
       "topics": [
         "standards",
@@ -450,6 +451,7 @@
       "publisher": "PCA Library",
       "type": "Guide",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://pcalibrary.libguides.com/blended-cements",
       "topics": [
         "guides"
@@ -461,6 +463,7 @@
       "publisher": "ACA Library",
       "type": "Guide",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://cement.libguides.com/guides/plc",
       "topics": [
         "guides"
@@ -472,6 +475,7 @@
       "publisher": "PCA/ACA",
       "type": "EPD",
       "date": "2026-07",
+      "added": "2026-10-28",
       "url": "https://www.cement.org/wp-content/uploads/2026/07/PCA_EPD_PLC_Athena_Final_revised_Jul2026.pdf",
       "topics": [
         "carbon"
@@ -483,6 +487,7 @@
       "publisher": "FHWA",
       "type": "Guide",
       "date": "2023",
+      "added": "2026-10-28",
       "url": "https://highways.dot.gov/media/34231",
       "topics": [
         "standards",
@@ -496,6 +501,7 @@
       "publisher": "ACI",
       "type": "Guide",
       "date": "2025",
+      "added": "2026-10-28",
       "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/225.2-25_preview.pdf",
       "topics": [
         "standards",
@@ -508,6 +514,7 @@
       "publisher": "CP Tech Center",
       "type": "Data",
       "date": "2025",
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/state-dot-cementitious-materials-content-spec-table/",
       "topics": [
         "dot"
@@ -519,6 +526,7 @@
       "publisher": "InTrans / Iowa State",
       "type": "Survey",
       "date": "2024-11",
+      "added": "2026-10-28",
       "url": "https://www.intrans.iastate.edu/wp-content/uploads/sites/7/2025/01/Type-IL-Restriction-Survey-Nov.-2024.pdf",
       "topics": [
         "dot",
@@ -531,6 +539,7 @@
       "publisher": "Concrete State (Kammer)",
       "type": "Presentation",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.concretestate.org/uploads/1/1/8/9/118914016/kyle_kammer.pdf",
       "topics": [
         "field"
@@ -542,6 +551,7 @@
       "publisher": "Concrete International / ASCC",
       "type": "Article",
       "date": "2025-08",
+      "added": "2026-10-28",
       "url": "https://ascconline.org/Portals/ASCC/Field%20Guide%20to%20Placing%20and%20Finishing%20Type%20IL%20Cement%20Concrete%20CI%202025-08%20White%20Bridwell%20Holland%20Hernandez.pdf",
       "topics": [
         "field",
@@ -554,6 +564,7 @@
       "publisher": "NRMCA",
       "type": "News",
       "date": "2026",
+      "added": "2026-10-28",
       "url": "https://www.naylornetwork.com/nrc-nwl/articles/index-v5.asp?aid=917613&issueID=100468",
       "topics": [
         "field",
@@ -566,6 +577,7 @@
       "publisher": "CP Tech Center",
       "type": "Q&A",
       "date": "2025-10",
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/wp-content/uploads/sites/7/2025/10/QandA-from-Admixtures-Tech-Tuesday-Webinar-Sep-2025-mdn.pdf",
       "topics": [
         "fresh",
@@ -578,6 +590,7 @@
       "publisher": "Cem. Concr. Composites",
       "type": "Paper",
       "date": "2004",
+      "added": "2026-10-28",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0958946503001604",
       "topics": [
         "durability"
@@ -589,6 +602,7 @@
       "publisher": "J. Sustainable Cement-Based Materials",
       "type": "Paper",
       "date": "2024-12",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.1080/21650373.2024.2440734",
       "topics": [
         "durability"
@@ -600,6 +614,7 @@
       "publisher": "FCPA / PCA",
       "type": "Report",
       "date": "2010",
+      "added": "2026-10-28",
       "url": "https://www.fcpa.org/wp-content/uploads/The_Durability_of_Concrete_Produced_with_PLC-Canada.pdf",
       "topics": [
         "durability",
@@ -609,9 +624,10 @@
     {
       "id": "R16",
       "title": "Thaumasite formation in PLC mortars: wetting/drying and immersion",
-      "publisher": "Elsevier",
+      "publisher": "Wear (Elsevier)",
       "type": "Paper",
-      "date": "2023-12",
+      "date": "2024-02",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.1016/j.wear.2023.205223",
       "topics": [
         "durability"
@@ -623,6 +639,7 @@
       "publisher": "ACA",
       "type": "News",
       "date": "2026-06-18",
+      "added": "2026-10-28",
       "url": "https://www.cement.org/2026/06/18/aca-launches-first-ever-blended-cement-awards/",
       "topics": [
         "news",
@@ -635,6 +652,7 @@
       "publisher": "ACA / ACI Foundation / CAF",
       "type": "Report",
       "date": "2026-04-23",
+      "added": "2026-10-28",
       "url": "https://www.cement.org/2026/04/23/new-study-released-on-abrasion-resistance-of-portland-limestone-cement-plc-systems-for-industrial-floors/",
       "topics": [
         "apps",
@@ -648,6 +666,7 @@
       "publisher": "CemNet",
       "type": "News",
       "date": "2026-09-09",
+      "added": "2026-10-28",
       "url": "https://www.cemnet.com/News/story/182048/amrize-study-supports-type-il-cement-in-industrial-floors.html",
       "topics": [
         "apps",
@@ -660,6 +679,7 @@
       "publisher": "National Concrete Consortium",
       "type": "Presentation",
       "date": "2026-09-30",
+      "added": "2026-10-28",
       "url": "https://www.intrans.iastate.edu/wp-content/uploads/2026/09/19a-Analysis-of-variability-of-PLCs-vs-PCs-NCC-Sept-2026.pdf",
       "topics": [
         "gaps",
@@ -673,6 +693,7 @@
       "publisher": "LinkedIn",
       "type": "Opinion",
       "date": "2026-10-16",
+      "added": "2026-10-28",
       "url": "https://www.linkedin.com/posts/jason-wimberly-p-e-mce-faci-00245511_cement-plc-astmc595-activity-7516935270559186945-hv4Q",
       "topics": [
         "standards",
@@ -686,6 +707,7 @@
       "publisher": "CP Tech Center",
       "type": "Webinar",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/webinars-and-videos/portland-limestone-cements-plcs-for-paving-applications/",
       "topics": [
         "pavement",
@@ -698,6 +720,7 @@
       "publisher": "CP Tech Center",
       "type": "Guide",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/cementitious-materials/",
       "topics": [
         "scm"
@@ -709,6 +732,7 @@
       "publisher": "CP Tech Center",
       "type": "Tech brief",
       "date": "2018-12",
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/wp-content/uploads/2018/12/SCM_tech_brief.pdf",
       "topics": [
         "scm",
@@ -721,6 +745,7 @@
       "publisher": "CP Tech Center",
       "type": "Case study",
       "date": "2025-02",
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/wp-content/uploads/2025/02/Oklahoma-I-40-PLC-Case-Study.pdf",
       "topics": [
         "pavement"
@@ -732,6 +757,7 @@
       "publisher": "CP Tech Center",
       "type": "Guide",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/reduced-clinker-concrete/",
       "topics": [
         "carbon"
@@ -743,6 +769,7 @@
       "publisher": "Illinois Cement Co.",
       "type": "Product data",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.illinoiscement.com/documents/",
       "topics": [
         "supply",
@@ -755,6 +782,7 @@
       "publisher": "ACA",
       "type": "Guide",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.cement.org/cement-concrete/types-of-cement/",
       "topics": [
         "standards",
@@ -763,10 +791,11 @@
     },
     {
       "id": "R29",
-      "title": "High Early Strength Limestone Blended Cement for Transportation Structures",
+      "title": "Assessment of High Early Strength Limestone Blended Cement for Next Generation Transportation Structures (final report, FHWA-GA-17-1433)",
       "publisher": "USDOT ROSA P",
       "type": "Report",
-      "date": null,
+      "date": "2016-12",
+      "added": "2026-10-28",
       "url": "https://rosap.ntl.bts.gov/view/dot/31925/dot_31925_DS1.pdf",
       "topics": [
         "apps",
@@ -779,6 +808,7 @@
       "publisher": "ACI",
       "type": "Guide",
       "date": "2016",
+      "added": "2026-10-28",
       "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/306R-16_preview.pdf",
       "topics": [
         "strength"
@@ -790,6 +820,7 @@
       "publisher": "PCI Journal",
       "type": "Article",
       "date": "2025-03",
+      "added": "2026-10-28",
       "url": "https://www.pci.org/PCI_Docs/Publications/PCI%20Journal/2025/March-April/Portland_Limeston_Cement_MA25_R01.pdf",
       "topics": [
         "apps",
@@ -802,6 +833,7 @@
       "publisher": "Purdue JTRP",
       "type": "Report",
       "date": "2013",
+      "added": "2026-10-28",
       "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=3039&context=jtrp",
       "topics": [
         "scm",
@@ -813,7 +845,8 @@
       "title": "Synergistic effect between limestone powder and SCMs",
       "publisher": "Advances in Cement Research",
       "type": "Paper",
-      "date": null,
+      "date": "2022-07",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.1680/jadcr.21.00027",
       "topics": [
         "scm"
@@ -825,6 +858,7 @@
       "publisher": "Materials (PMC)",
       "type": "Paper",
       "date": "2021",
+      "added": "2026-10-28",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8540392/",
       "topics": [
         "scm"
@@ -836,6 +870,7 @@
       "publisher": "Cem. Concr. Research",
       "type": "Paper",
       "date": "2010",
+      "added": "2026-10-28",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008884610002577",
       "topics": [
         "scm"
@@ -847,6 +882,7 @@
       "publisher": "Cem. Concr. Composites",
       "type": "Paper",
       "date": "2011",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.1016/j.cemconcomp.2010.09.006",
       "topics": [
         "scm"
@@ -858,6 +894,7 @@
       "publisher": "ACA / Concrete International",
       "type": "Article",
       "date": "2026-10",
+      "added": "2026-10-28",
       "url": "https://www.cement.org/wp-content/uploads/2026/10/CI4810Giannini.pdf",
       "topics": [
         "standards",
@@ -870,6 +907,7 @@
       "publisher": "CP Tech Center / NCC",
       "type": "Presentation",
       "date": "2026-04",
+      "added": "2026-10-28",
       "url": "https://www.cptechcenter.org/wp-content/uploads/sites/7/2026/04/04a-Standards_NCC_Spring2026.pdf",
       "topics": [
         "standards"
@@ -880,7 +918,8 @@
       "title": "How Are Blended Cement Standards Changing in 2026? (IS793)",
       "publisher": "ACA",
       "type": "Info sheet",
-      "date": "2026",
+      "date": "2026-03",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.70909/aca.2026.is793",
       "topics": [
         "standards"
@@ -892,6 +931,7 @@
       "publisher": "ASTM (ANSI webstore)",
       "type": "Standard",
       "date": "2026",
+      "added": "2026-10-28",
       "url": "https://webstore.ansi.org/standards/astm/astmc595c595m26",
       "topics": [
         "standards"
@@ -903,6 +943,7 @@
       "publisher": "NRMCA newsletter",
       "type": "News",
       "date": "2026",
+      "added": "2026-10-28",
       "url": "https://www.naylornetwork.com/nrc-nwl/articles/index-v5.asp?aid=930179&issueID=100477",
       "topics": [
         "standards",
@@ -915,6 +956,7 @@
       "publisher": "NYSDOT",
       "type": "Research project",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/trans-r-and-d-repository/C-06-22.pdf",
       "topics": [
         "durability",
@@ -927,6 +969,7 @@
       "publisher": "FHWA",
       "type": "Guide",
       "date": "2017",
+      "added": "2026-10-28",
       "url": "https://www.fhwa.dot.gov/pavement/pubs/hif17008.pdf",
       "topics": [
         "durability",
@@ -938,7 +981,8 @@
       "title": "Point of View: Type IL Cement and Concrete Scaling",
       "publisher": "ACI",
       "type": "Article",
-      "date": null,
+      "date": "2025-07",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.14359/51748936",
       "topics": [
         "durability",
@@ -951,6 +995,7 @@
       "publisher": "TxDOT",
       "type": "Spec/manual",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.txdot.gov/manuals/mnt/pdm/materials_investigation_and_selection_information/concrete_mat-i1014264/_blended_cements-i1053173.html",
       "topics": [
         "dot"
@@ -962,6 +1007,7 @@
       "publisher": "Caltrans",
       "type": "Approved list",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://mets.dot.ca.gov/aml/CementitiousList.php",
       "topics": [
         "dot",
@@ -974,6 +1020,7 @@
       "publisher": "MnDOT",
       "type": "Approved list",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.dot.state.mn.us/products/concrete/certifiedcbcs.html",
       "topics": [
         "dot",
@@ -982,11 +1029,12 @@
     },
     {
       "id": "R48",
-      "title": "Portland-Limestone Cement brochure",
+      "title": "PLC/IL portland-limestone cement (GCC product page)",
       "publisher": "GCC",
       "type": "Product data",
-      "date": "2022-03",
-      "url": "https://www.gcc.com/wp-content/uploads/2022/03/GCC-PLC-032022-web.pdf",
+      "date": null,
+      "added": "2026-10-28",
+      "url": "https://www.gcc.com/product/plc-il/",
       "topics": [
         "carbon",
         "supply"
@@ -998,6 +1046,7 @@
       "publisher": "MIT CSHub",
       "type": "Research hub",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://cshub.mit.edu/",
       "topics": [
         "carbon"
@@ -1009,6 +1058,7 @@
       "publisher": "ACI",
       "type": "Article",
       "date": "2025-08",
+      "added": "2026-10-28",
       "url": "https://doi.org/10.14359/51749080",
       "topics": [
         "mix",
@@ -1021,6 +1071,7 @@
       "publisher": "CO-WY ACPA",
       "type": "Presentation",
       "date": "2024",
+      "added": "2026-10-28",
       "url": "https://www.cowyacpa.org/wp-content/uploads/2024/03/22-Addressing-Admixture-Combinations.pdf",
       "topics": [
         "fresh",
@@ -1032,7 +1083,8 @@
       "title": "ACI-ASCC Survey on Type IL cement experience",
       "publisher": "ASCC / Concrete International",
       "type": "Survey article",
-      "date": null,
+      "date": "2024-02",
+      "added": "2026-10-28",
       "url": "https://ascconline.org/Portals/ASCC/CI4602Klinger.pdf",
       "topics": [
         "field"
@@ -1044,6 +1096,7 @@
       "publisher": "ACI",
       "type": "FAQ",
       "date": null,
+      "added": "2026-10-28",
       "url": "https://www.concrete.org/frequentlyaskedquestions.aspx?faqid=916",
       "topics": [
         "mix",
@@ -1054,8 +1107,9 @@
       "id": "R54",
       "title": "New Cementitious Materials PCR Advances Environmental Reporting (new industry-average EPDs underway)",
       "publisher": "ACA",
-      "type": "news",
+      "type": "News",
       "date": "2026-10-06",
+      "added": "2026-10-29",
       "url": "https://www.cement.org/2026/10/06/new-cementitious-materials-pcr-advances-environmental-reporting/",
       "topics": [
         "carbon",
@@ -1066,8 +1120,9 @@
       "id": "R55",
       "title": "Development of Wet-Mix Shotcrete with Portland-Limestone Cement (Zhang, Zhang, Morgan, Mindess; Materials Journal 123(2))",
       "publisher": "ACI",
-      "type": "paper",
+      "type": "Paper",
       "date": "2026-03",
+      "added": "2026-10-29",
       "url": "https://doi.org/10.14359/51749444",
       "topics": [
         "apps",
@@ -1078,8 +1133,9 @@
       "id": "R56",
       "title": "Performance evaluation of limestone-blended cement and cellulose nanomaterials in 3D concrete printing",
       "publisher": "Case Studies in Construction Materials",
-      "type": "paper",
+      "type": "Paper",
       "date": "2025-05",
+      "added": "2026-10-29",
       "url": "https://doi.org/10.1016/j.cscm.2025.e04758",
       "topics": [
         "apps",
@@ -1090,8 +1146,9 @@
       "id": "R57",
       "title": "Developing 3D Printable Concrete using Quarry By-Products as Partial Replacement for Cement (Type IL)",
       "publisher": "Purdue e-Pubs (conference paper)",
-      "type": "paper",
+      "type": "Paper",
       "date": "2025",
+      "added": "2026-10-29",
       "url": "https://doi.org/10.5703/1288284318057",
       "topics": [
         "apps",
@@ -1102,8 +1159,9 @@
       "id": "R58",
       "title": "Blended Cements and Supplementary Cementitious Materials policy document",
       "publisher": "GCCA",
-      "type": "policy document",
+      "type": "Policy document",
       "date": "2025-07",
+      "added": "2026-10-29",
       "url": "https://gccassociation.org/wp-content/uploads/2025/07/GCCA_Blended_Cements_and_SCM_Policy_Document_Digital.pdf",
       "topics": [
         "intl",
@@ -1114,8 +1172,9 @@
       "id": "R59",
       "title": "Limestone filler (clinker substitutes)",
       "publisher": "GCCA",
-      "type": "guide",
+      "type": "Guide",
       "date": null,
+      "added": "2026-10-29",
       "url": "https://gccassociation.org/cement-and-concrete-innovation/clinker-substitutes/limestone-filler/",
       "topics": [
         "intl"
@@ -1125,8 +1184,9 @@
       "id": "R60",
       "title": "RSP 901-M-069 Portland Cements and Blended Cements (Type IL limestone capped at 10%)",
       "publisher": "INDOT",
-      "type": "spec",
+      "type": "Spec",
       "date": "2025-12-01",
+      "added": "2026-10-29",
       "url": "https://www.in.gov/dot/div/contracts/standards/rsp/sep25/900/901-M-069%20251201.pdf",
       "topics": [
         "dot"
@@ -1136,8 +1196,9 @@
       "id": "R61",
       "title": "Qualified Producer List of Cement Plants",
       "publisher": "IDOT (Illinois)",
-      "type": "approved list",
+      "type": "Approved list",
       "date": "2026",
+      "added": "2026-10-29",
       "url": "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/doing-business/specialty-lists/highways/materials/materials---physical-research/cement/qualifiedcementplants.pdf",
       "topics": [
         "dot"
@@ -1147,8 +1208,9 @@
       "id": "R62",
       "title": "Tech Bulletin: Preventing Scaling of Concrete with Portland Limestone Cement",
       "publisher": "Michigan Concrete Association",
-      "type": "tech bulletin",
+      "type": "Tech bulletin",
       "date": "2024-07",
+      "added": "2026-10-29",
       "url": "https://www.miconcrete.org/hubfs/MCA%20Scaling%20Tech%20Bulletin%2007012024%20%28Type%20IL-PLC%29%20REV%2008192034.pdf?hsLang=en",
       "topics": [
         "durability",
@@ -1159,8 +1221,9 @@
       "id": "R63",
       "title": "Guide to Selecting Exposure Classes and Requirements for Concrete",
       "publisher": "NRMCA",
-      "type": "guide",
+      "type": "Guide",
       "date": null,
+      "added": "2026-10-29",
       "url": "https://www.nrmca.org/wp-content/uploads/NRMCA_GuideToSelectingExposureClasses.pdf",
       "topics": [
         "standards",
@@ -1169,10 +1232,11 @@
     },
     {
       "id": "R64",
-      "title": "Assessment of Limestone Blended Cements for Transportation Applications",
+      "title": "Assessment of Limestone Blended Cements for Transportation Applications (final report, FHWA-GA-17-13-09)",
       "publisher": "USDOT ROSA P",
-      "type": "report",
-      "date": null,
+      "type": "Report",
+      "date": "2017-09",
+      "added": "2026-10-29",
       "url": "https://rosap.ntl.bts.gov/view/dot/32794/dot_32794_DS1.pdf",
       "topics": [
         "dot",
@@ -1183,8 +1247,9 @@
       "id": "R65",
       "title": "Limestone-rich binders beyond clinker reduction: durability as the sustainability boundary (critical review)",
       "publisher": "J. Sustainable Cement-Based Materials",
-      "type": "paper",
+      "type": "Paper",
       "date": "2026",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1080/21650373.2026.2736140",
       "topics": [
         "durability",
@@ -1195,19 +1260,22 @@
       "id": "R66",
       "title": "Durability of Portland-Limestone Cement Pastes in Citric Acid (Gebremariam, Shakouri; ACI Materials Journal)",
       "publisher": "ACI",
-      "type": "paper",
+      "type": "Paper",
       "date": "2026-09-01",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.14359/51751742",
       "topics": [
-        "durability"
+        "durability",
+        "news"
       ]
     },
     {
       "id": "R67",
       "title": "Durability of Fly Ash and Limestone Concrete Under Combined Sulfate and Chloride Attack",
       "publisher": "Int. J. Concrete Structures and Materials",
-      "type": "paper",
+      "type": "Paper",
       "date": "2026",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1186/s40069-026-00895-4",
       "topics": [
         "durability",
@@ -1220,6 +1288,7 @@
       "publisher": "Amrize",
       "type": "EPD",
       "date": "2026-02-16",
+      "added": "2026-10-30",
       "url": "https://www.amrize.com/content/dam/newco/language-masters/en/our-businesses/resources/document-library/epd/devils-slide-cement-type-IL-ASTM-C595-environmental-product-declaration-amrize.pdf",
       "topics": [
         "carbon"
@@ -1229,8 +1298,9 @@
       "id": "R69",
       "title": "NYSDOT Standard Specifications Vol. 4, Section 700 (701-03 Type IL; base portland cement must be Type II or II(MH))",
       "publisher": "NYSDOT",
-      "type": "spec",
+      "type": "Spec",
       "date": "2026-09-01",
+      "added": "2026-10-30",
       "url": "https://www.dot.ny.gov/main/business-center/engineering/specifications/english-spec-repository/2026_9_specs_usc_tc_vol4.pdf",
       "topics": [
         "dot"
@@ -1240,8 +1310,9 @@
       "id": "R70",
       "title": "INDOT 2026 Standard Specifications, Division 900 Materials Details (Type IL per AASHTO M 240)",
       "publisher": "INDOT",
-      "type": "spec",
+      "type": "Spec",
       "date": "2026",
+      "added": "2026-10-30",
       "url": "https://www.in.gov/dot/div/contracts/standards/book/sep25/900-2026.pdf",
       "topics": [
         "dot"
@@ -1251,8 +1322,9 @@
       "id": "R71",
       "title": "Best Practices for Placing and Finishing Type IL Cement Concrete (Basham, Kim; Central Pre-Mix, Spokane)",
       "publisher": "Washington Aggregates & Concrete Assn.",
-      "type": "presentation",
+      "type": "Presentation",
       "date": "2026-03-05",
+      "added": "2026-10-30",
       "url": "https://www.washingtonconcrete.org/assets/docs/WACA/Basham_Dr.Kim_Central-PreMix-Spokane-March-5-2026-Best-Practices-for-Placing-and-Finishing-Type-IL-Cement-Concrete-2-hrs-54-Slides.pdf",
       "topics": [
         "field",
@@ -1264,8 +1336,9 @@
       "id": "R72",
       "title": "Design of self-consolidating precast concrete using powdered limestone (Type IL SCC dissertation)",
       "publisher": "Georgia Tech SMARTech",
-      "type": "dissertation",
+      "type": "Dissertation",
       "date": "2018-07-26",
+      "added": "2026-10-30",
       "url": "http://hdl.handle.net/1853/60309",
       "topics": [
         "apps",
@@ -1276,8 +1349,9 @@
       "id": "R73",
       "title": "Hydration Heat in a Mass Concrete and a Thin Slab with Limestone Blended Cement",
       "publisher": "Int. J. Materials Science and Engineering",
-      "type": "paper",
+      "type": "Paper",
       "date": "2017",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.17706/ijmse.2017.5.2.79-86",
       "topics": [
         "gaps",
@@ -1288,12 +1362,14 @@
       "id": "R74",
       "title": "WK94958 Revision of C595: sulfate-resistant Type IL based on ASTM C452",
       "publisher": "ASTM",
-      "type": "work item",
+      "type": "Work item",
       "date": "2026",
+      "added": "2026-10-30",
       "url": "https://www.astm.org/membership-participation/technical-committees/workitems/workitem-wk94958",
       "topics": [
         "standards",
-        "durability"
+        "durability",
+        "news"
       ]
     },
     {
@@ -1302,6 +1378,7 @@
       "publisher": "Purdue University / INDOT",
       "type": "Report",
       "date": "2025",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.5703/1288284318575",
       "topics": [
         "microcracking",
@@ -1315,6 +1392,7 @@
       "publisher": "J. Phys.: Conf. Ser. 2341",
       "type": "Paper",
       "date": "2022",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1088/1742-6596/2341/1/012004",
       "topics": [
         "microcracking",
@@ -1327,6 +1405,7 @@
       "publisher": "IOP Conf. Ser.: Mater. Sci. Eng. 1039",
       "type": "Paper",
       "date": "2021",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1088/1757-899x/1039/1/012003",
       "topics": [
         "microcracking",
@@ -1338,7 +1417,8 @@
       "title": "Mechanism of microstructural modification of the ITZ by using blended materials (limestone filler, slag)",
       "publisher": "Ghent University (biblio)",
       "type": "Paper",
-      "date": "-",
+      "date": "2015",
+      "added": "2026-10-30",
       "url": "http://hdl.handle.net/1854/LU-6965179",
       "topics": [
         "microcracking",
@@ -1351,6 +1431,7 @@
       "publisher": "Materials and Structures",
       "type": "Paper",
       "date": "2017",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1617/s11527-017-1082-y",
       "topics": [
         "microcracking"
@@ -1361,7 +1442,8 @@
       "title": "Hydration and microstructural development of portland limestone cement-based materials",
       "publisher": "Georgia Tech SMARTech",
       "type": "Dissertation",
-      "date": "-",
+      "date": "2016-06-15",
+      "added": "2026-10-30",
       "url": "http://hdl.handle.net/1853/58587",
       "topics": [
         "microcracking",
@@ -1374,7 +1456,8 @@
       "title": "Portland Limestone Cement with Fly Ash: Freeze-Thaw Durability and Microstructure Studies",
       "publisher": "North Dakota State University",
       "type": "Thesis",
-      "date": "-",
+      "date": null,
+      "added": "2026-10-30",
       "url": "https://library.ndsu.edu/ir/bitstream/10365/32057/1/Portland%20Limestone%20Cement%20with%20Fly%20Ash%20-%20Freeze-Thaw%20Durability%20and%20Microstructure%20Studies.pdf",
       "topics": [
         "microcracking",
@@ -1388,6 +1471,7 @@
       "publisher": "Materials 18(17):3954",
       "type": "Paper",
       "date": "2025",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.3390/ma18173954",
       "topics": [
         "microcracking"
@@ -1399,6 +1483,7 @@
       "publisher": "MRS Proceedings 114",
       "type": "Paper",
       "date": "1987",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1557/proc-114-65",
       "topics": [
         "microcracking"
@@ -1410,6 +1495,7 @@
       "publisher": "IOP Conf. Ser.: Earth Environ. Sci. 664",
       "type": "Paper",
       "date": "2021",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1088/1755-1315/664/1/012092",
       "topics": [
         "microcracking"
@@ -1421,6 +1507,7 @@
       "publisher": "Cement and Concrete Research",
       "type": "Paper",
       "date": "2010",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1016/j.cemconres.2009.09.012",
       "topics": [
         "microcracking"
@@ -1432,6 +1519,7 @@
       "publisher": "Cement and Concrete Composites",
       "type": "Paper",
       "date": "2020",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1016/j.cemconcomp.2020.103773",
       "topics": [
         "microcracking"
@@ -1443,6 +1531,7 @@
       "publisher": "Materials and Structures",
       "type": "Paper",
       "date": "2002",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1007/BF02483132",
       "topics": [
         "microcracking"
@@ -1454,6 +1543,7 @@
       "publisher": "Cement and Concrete Research",
       "type": "Paper",
       "date": "2021",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1016/j.cemconres.2020.106309",
       "topics": [
         "microcracking"
@@ -1465,6 +1555,7 @@
       "publisher": "Cement and Concrete Composites",
       "type": "Paper",
       "date": "2015",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1016/j.cemconcomp.2015.04.008",
       "topics": [
         "microcracking",
@@ -1477,6 +1568,7 @@
       "publisher": "Construction and Building Materials",
       "type": "Paper",
       "date": "2023",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1016/j.conbuildmat.2022.130167",
       "topics": [
         "microcracking"
@@ -1488,6 +1580,7 @@
       "publisher": "Advanced Engineering Materials",
       "type": "Paper",
       "date": "2022",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1002/adem.202101346",
       "topics": [
         "microcracking",
@@ -1500,6 +1593,7 @@
       "publisher": "CRC Press (Concrete Repair, Rehabilitation and Retrofitting IV)",
       "type": "Paper",
       "date": "2015",
+      "added": "2026-10-30",
       "url": "https://doi.org/10.1201/b18972-27",
       "topics": [
         "microcracking",
@@ -1523,6 +1617,10 @@
     {
       "date": "2026-10-30",
       "entry": "Added 18 resources (R75-R92) and new topic 'Microcracking and the interfacial transition zone'. Tagged durability, scm, strength and fresh as relevant. Added a key issue and a gap. All entries verified via Crossref or the source pages."
+    },
+    {
+      "date": "2026-10-30",
+      "entry": "Corrected the title to Type IL. Verified DOIs against Crossref and fixed dates for R16, R33, R39, R44, R52, R78 and R80 (R81 set to undated), corrected the titles and dates of R29 and R64, and replaced the dead R48 link. Normalized type labels, tagged R66 and R74 as news, and added an 'added' date to every resource. The site now has a static HTML version of every page, per-topic pages, a sitemap and daily and weekly feeds."
     }
   ],
   "gaps": [

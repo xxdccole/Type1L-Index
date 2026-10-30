@@ -1,0 +1,72 @@
+name: Build site
+
+# Rebuilds the generated HTML, sitemap and feeds whenever the data or generator changes,
+# and once a day so the daily and weekly digest feeds pick up completed days and weeks.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "css/**"
+      - "js/**"
+      - ".github/workflows/build.yml"
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate data
+        run: python scripts/build.py --validate
+
+      - name: Build
+        run: python scripts/build.py
+
+      - name: Check built site
+        run: python scripts/check_site.py
+
+      - name: Commit generated files
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing to commit."
+          else
+            git commit -m "Build site"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # A push made with GITHUB_TOKEN may not start a Pages build by itself, so ask for one.
+      - name: Request a Pages build
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "/repos/${{ github.repository }}/pages/builds" || echo "Pages build request skipped"
+
+      # Tell Bing, Yandex and other IndexNow engines about changed URLs (Google does not use IndexNow).
+      - name: Ping IndexNow
+        if: github.event_name == 'push' && steps.commit.outputs.changed == 'true'
+        run: |
+          sleep 120
+          python scripts/build.py --indexnow
