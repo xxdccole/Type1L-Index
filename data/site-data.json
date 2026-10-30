@@ -5,6 +5,11 @@
   "lastUpdated": "2026-10-30",
   "whatsNew": [
     {
+      "date": "Oct 30",
+      "title": "New topic: microcracking and the ITZ",
+      "detail": "18 sources (R75-R92). Purdue JTRP 2025: PLC forms thinner ITZs than OPC, but water reducers can raise ITZ porosity."
+    },
+    {
       "date": "Sep 1",
       "title": "PLC pastes lose more mass in citric acid",
       "detail": "ACI Materials Journal: about 95% mass loss for PLC paste vs about 63% for OPC after 42 days in 0.5 M citric acid."
@@ -151,7 +156,8 @@
         "R50",
         "R51",
         "R53",
-        "R71"
+        "R71",
+        "R80"
       ]
     },
     {
@@ -168,7 +174,8 @@
         "R29",
         "R30",
         "R31",
-        "R73"
+        "R73",
+        "R75"
       ]
     },
     {
@@ -198,7 +205,13 @@
         "R65",
         "R66",
         "R67",
-        "R74"
+        "R74",
+        "R75",
+        "R80",
+        "R81",
+        "R89",
+        "R91",
+        "R92"
       ]
     },
     {
@@ -216,7 +229,11 @@
         "R34",
         "R35",
         "R36",
-        "R67"
+        "R67",
+        "R76",
+        "R77",
+        "R78",
+        "R81"
       ]
     },
     {
@@ -368,6 +385,38 @@
         "R28",
         "R71"
       ]
+    },
+    {
+      "id": "microcracking",
+      "name": "Microcracking and the interfacial transition zone",
+      "takeaways": [
+        "The ITZ (about 10-50 µm around aggregate) is porous and rich in calcium hydroxide, and microcracks start there first (Mehta & Monteiro; Girboveanu 2021).",
+        "Drying shrinkage of the paste is restrained by stiff aggregate, which causes microcracks around aggregates. Crack amount depends on aggregate size, volume fraction and stiffness mismatch (Grassl 2010; Li 2020; Bisschop 2002).",
+        "Type IL / PLC: the Purdue JTRP 2025 report found PLC concretes form thinner ITZs than OPC (filler effect), but water reducers raised ITZ porosity and CH build-up in one PLC, weakening it.",
+        "Limestone filler: about 5% densifies the ITZ while 10% or more can raise ITZ porosity, and calcite collects at the interface (Ghent; Kotlanova 2021/2022). Limestone surfaces nucleate C-S-H well (Ouyang 2017).",
+        "Limestone aggregate can bond chemically with paste at later ages (Mehta & Monteiro). Larger limestone grains showed fewer ITZ microcracks (Golewski 2025).",
+        "Methods: micro-CT/3D imaging (Mac 2021), acoustic emission separates aggregate cracks from paste/ITZ cracks (Farnam 2015), DIC at the ITZ (Zhang 2023), fluorescence microscopy for freeze-thaw (Li 2015)."
+      ],
+      "resourceIds": [
+        "R75",
+        "R76",
+        "R77",
+        "R78",
+        "R79",
+        "R80",
+        "R81",
+        "R82",
+        "R83",
+        "R84",
+        "R85",
+        "R86",
+        "R87",
+        "R88",
+        "R89",
+        "R90",
+        "R91",
+        "R92"
+      ]
     }
   ],
   "keyIssues": [
@@ -378,7 +427,8 @@
     "C595-26 Type IC and higher limestone IP/IS: Cement type label conveys less about composition.",
     "Early strength: IL(HE) acceptance still emerging at DOTs.",
     "State limestone caps: Some DOTs (Indiana at 10%) cap IL limestone below the 15% C595 maximum, so a national IL product may not qualify everywhere.",
-    "Aggressive chemical exposure: New 2026 studies show PLC/limestone systems can underperform OPC or fly ash mixes in acid and combined sulfate-chloride exposure, so SCMs and exposure-specific testing matter."
+    "Aggressive chemical exposure: New 2026 studies show PLC/limestone systems can underperform OPC or fly ash mixes in acid and combined sulfate-chloride exposure, so SCMs and exposure-specific testing matter.",
+    "ITZ in PLC: PLC tends to form a thinner ITZ, but admixture interactions and filler levels above about 10% can make it more porous. Direct imaging of microcracks in Type IL vs OPC concrete is still scarce."
   ],
   "resources": [
     {
@@ -1245,6 +1295,216 @@
         "standards",
         "durability"
       ]
+    },
+    {
+      "id": "R75",
+      "title": "Systematic Study of Type 1L Cement for Mixture Optimization and Carbon Reduction (Sung, He, Lu, Feng; JTRP)",
+      "publisher": "Purdue University / INDOT",
+      "type": "Report",
+      "date": "2025",
+      "url": "https://doi.org/10.5703/1288284318575",
+      "topics": [
+        "microcracking",
+        "strength",
+        "durability"
+      ]
+    },
+    {
+      "id": "R76",
+      "title": "Study of interfacial transition zone in concrete with SCMs (Kotlanova et al.)",
+      "publisher": "J. Phys.: Conf. Ser. 2341",
+      "type": "Paper",
+      "date": "2022",
+      "url": "https://doi.org/10.1088/1742-6596/2341/1/012004",
+      "topics": [
+        "microcracking",
+        "scm"
+      ]
+    },
+    {
+      "id": "R77",
+      "title": "Raman spectroscopy of ITZ in concrete doped with limestone powder and metakaolin (Krejci Kotlanova, Masek)",
+      "publisher": "IOP Conf. Ser.: Mater. Sci. Eng. 1039",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://doi.org/10.1088/1757-899x/1039/1/012003",
+      "topics": [
+        "microcracking",
+        "scm"
+      ]
+    },
+    {
+      "id": "R78",
+      "title": "Mechanism of microstructural modification of the ITZ by using blended materials (limestone filler, slag)",
+      "publisher": "Ghent University (biblio)",
+      "type": "Paper",
+      "date": "-",
+      "url": "http://hdl.handle.net/1854/LU-6965179",
+      "topics": [
+        "microcracking",
+        "scm"
+      ]
+    },
+    {
+      "id": "R79",
+      "title": "Insights into the mechanisms of nucleation and growth of C-S-H on fillers (Ouyang, Koleva, Ye, van Breugel)",
+      "publisher": "Materials and Structures",
+      "type": "Paper",
+      "date": "2017",
+      "url": "https://doi.org/10.1617/s11527-017-1082-y",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R80",
+      "title": "Hydration and microstructural development of portland limestone cement-based materials",
+      "publisher": "Georgia Tech SMARTech",
+      "type": "Dissertation",
+      "date": "-",
+      "url": "http://hdl.handle.net/1853/58587",
+      "topics": [
+        "microcracking",
+        "fresh",
+        "durability"
+      ]
+    },
+    {
+      "id": "R81",
+      "title": "Portland Limestone Cement with Fly Ash: Freeze-Thaw Durability and Microstructure Studies",
+      "publisher": "North Dakota State University",
+      "type": "Thesis",
+      "date": "-",
+      "url": "https://library.ndsu.edu/ir/bitstream/10365/32057/1/Portland%20Limestone%20Cement%20with%20Fly%20Ash%20-%20Freeze-Thaw%20Durability%20and%20Microstructure%20Studies.pdf",
+      "topics": [
+        "microcracking",
+        "durability",
+        "scm"
+      ]
+    },
+    {
+      "id": "R82",
+      "title": "Shear Fracture Toughness and Structure of ITZ of Limestone Concrete with Different Aggregate Grain Size (Golewski)",
+      "publisher": "Materials 18(17):3954",
+      "type": "Paper",
+      "date": "2025",
+      "url": "https://doi.org/10.3390/ma18173954",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R83",
+      "title": "Effect of Aggregate, Cement, and Mineral Admixtures on the Microstructure of the Transition Zone (Mehta, Monteiro)",
+      "publisher": "MRS Proceedings 114",
+      "type": "Paper",
+      "date": "1987",
+      "url": "https://doi.org/10.1557/proc-114-65",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R84",
+      "title": "Experimental study of the chemo-mechanical properties of the ITZ of concrete (Girboveanu et al.)",
+      "publisher": "IOP Conf. Ser.: Earth Environ. Sci. 664",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://doi.org/10.1088/1755-1315/664/1/012092",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R85",
+      "title": "Influence of aggregate size and volume fraction on shrinkage induced micro-cracking of concrete and mortar (Grassl, Wong, Buenfeld)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Paper",
+      "date": "2010",
+      "url": "https://doi.org/10.1016/j.cemconres.2009.09.012",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R86",
+      "title": "Influence of inclusion rigidity on shrinkage induced micro-cracking of cementitious materials (Li et al.)",
+      "publisher": "Cement and Concrete Composites",
+      "type": "Paper",
+      "date": "2020",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2020.103773",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R87",
+      "title": "Effect of aggregates on drying shrinkage microcracking in cement-based composites (Bisschop, van Mier)",
+      "publisher": "Materials and Structures",
+      "type": "Paper",
+      "date": "2002",
+      "url": "https://doi.org/10.1007/BF02483132",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R88",
+      "title": "3D imaging techniques for characterising microcracks in cement-based materials (Mac, Yio, Desbois, Casanova, Wong, Buenfeld)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://doi.org/10.1016/j.cemconres.2020.106309",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R89",
+      "title": "Acoustic emission waveform characterization of crack origin and mode in fractured and ASR damaged concrete (Farnam, Geiker, Bentz, Weiss)",
+      "publisher": "Cement and Concrete Composites",
+      "type": "Paper",
+      "date": "2015",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2015.04.008",
+      "topics": [
+        "microcracking",
+        "durability"
+      ]
+    },
+    {
+      "id": "R90",
+      "title": "Application of digital image correlation to study the influence of w/c on the ITZ (Zhang et al.)",
+      "publisher": "Construction and Building Materials",
+      "type": "Paper",
+      "date": "2023",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2022.130167",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R91",
+      "title": "A Multiscale and Multimethod Approach to Assess and Mitigate Concrete Damage Due to ASR (Weise et al.)",
+      "publisher": "Advanced Engineering Materials",
+      "type": "Paper",
+      "date": "2022",
+      "url": "https://doi.org/10.1002/adem.202101346",
+      "topics": [
+        "microcracking",
+        "durability"
+      ]
+    },
+    {
+      "id": "R92",
+      "title": "Damage evaluation for freezing-thawing affected concrete by automated panoramic fluorescent microscope (Li et al.)",
+      "publisher": "CRC Press (Concrete Repair, Rehabilitation and Retrofitting IV)",
+      "type": "Paper",
+      "date": "2015",
+      "url": "https://doi.org/10.1201/b18972-27",
+      "topics": [
+        "microcracking",
+        "durability"
+      ]
     }
   ],
   "changeLog": [
@@ -1259,12 +1519,17 @@
     {
       "date": "2026-10-30",
       "entry": "Added 10 resources (R65-R74): 2026 durability papers (critical review, citric acid, combined sulfate-chloride), Amrize Devils Slide IL(10) EPD, NYSDOT and INDOT 2026 specs, WACA finishing training deck, ASTM WK94958 work item, plus first SCC and mass concrete sources. Updated durability, standards, DOT, carbon, field takeaways, key issues and gaps."
+    },
+    {
+      "date": "2026-10-30",
+      "entry": "Added 18 resources (R75-R92) and new topic 'Microcracking and the interfacial transition zone'. Tagged durability, scm, strength and fresh as relevant. Added a key issue and a gap. All entries verified via Crossref or the source pages."
     }
   ],
   "gaps": [
     "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
     "Partly covered now: Shotcrete (one 2026 ACI study) and 3D printing (two lab studies).",
     "Partly covered now: SCC (one 2018 dissertation) and mass concrete heat (one 2017 field study).",
-    "Not yet covered by found sources: cost data specific to Type IL from a reliable source; primary ACI 318/301 code text; EN 197-1 official text."
+    "Not yet covered by found sources: cost data specific to Type IL from a reliable source; primary ACI 318/301 code text; EN 197-1 official text.",
+    "Microcracking: no direct study found that images ITZ microcracks (SEM, CT, AE or DIC) in commercial Type IL vs OPC concrete, separates limestone aggregate from limestone filler effects in PLC, or applies DIC to PLC. No NIST or FHWA report specific to ITZ cracking in PLC was found."
   ]
 }
