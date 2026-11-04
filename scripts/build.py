@@ -24,6 +24,7 @@ import re
 import shutil
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from xml.sax.saxutils import escape as xesc
 
@@ -40,9 +41,93 @@ def e(value):
 
 
 # ----------------------------------------------------------------------------- load + validate
+ADDED_CACHE = ROOT / "added-dates.json"
+
+
+def recover_added_dates():
+    """Days a resource was already indexed, keyed by resource id.
+
+    Digest entries are grouped by that day. `feed.xml` keeps only the 100
+    newest, so the full set is stored in added-dates.json once known. The feed
+    fills any id the cache does not have yet (the first build after a data
+    file that omits `added`).
+    """
+    found = {}
+    if ADDED_CACHE.exists():
+        try:
+            raw = json.loads(ADDED_CACHE.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            raw = None
+        if isinstance(raw, dict):
+            found.update({k: v for k, v in raw.items() if isinstance(v, str) and FULL_DATE.match(v)})
+    path = ROOT / "feed.xml"
+    if path.exists():
+        try:
+            root = ET.parse(path).getroot()
+        except ET.ParseError:
+            root = None
+        if root is not None:
+            ns = {"a": "http://www.w3.org/2005/Atom"}
+            for entry in root.findall("a:entry", ns):
+                eid = entry.findtext("a:id", default="", namespaces=ns)
+                updated = entry.findtext("a:updated", default="", namespaces=ns)
+                match = re.search(r"#r-(R\d+)$", eid or "")
+                day = (updated or "")[:10]
+                if match and FULL_DATE.match(day) and match.group(1) not in found:
+                    found[match.group(1)] = day
+    return found
+
+
+def save_added_dates(resources):
+    data = {r["id"]: r["added"] for r in resources if FULL_DATE.match(str(r.get("added") or ""))}
+    ADDED_CACHE.write_text(json.dumps(data, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def prepare(d):
+    """Fill gaps that would stop the page rendering. Does not rewrite the JSON file.
+
+    `added` drives the digest feeds. "-" is not a publication date, so it renders
+    as undated. A lowercase type label would split the type filter. A topic that
+    lists a resource also has to tag it, or that resource is missing from the
+    topic filter and from its own topic chips.
+    """
+    prior = recover_added_dates()
+    by_id = {r.get("id"): r for r in d["resources"]}
+    n_date = n_type = n_added = n_tags = 0
+    for r in d["resources"]:
+        if r.get("date") == "-":
+            r["date"] = None
+            n_date += 1
+        typ = r.get("type")
+        if isinstance(typ, str) and typ[:1].islower():
+            r["type"] = typ[:1].upper() + typ[1:]
+            n_type += 1
+        if not r.get("added"):
+            r["added"] = prior.get(r.get("id")) or d.get("lastUpdated")
+            n_added += 1
+    topics = {t.get("id"): t for t in d["topics"]}
+    for t in d["topics"]:
+        for rid in list(t.get("resourceIds") or []):
+            r = by_id.get(rid)
+            if r is not None and t.get("id") not in (r.get("topics") or []):
+                r.setdefault("topics", []).append(t["id"])
+                n_tags += 1
+    for r in d["resources"]:
+        for tid in list(r.get("topics") or []):
+            t = topics.get(tid)
+            if t is not None and r.get("id") not in (t.get("resourceIds") or []):
+                t.setdefault("resourceIds", []).append(r["id"])
+                n_tags += 1
+    if n_date or n_type or n_added or n_tags:
+        print(f"render normalize: {n_date} placeholder dates, {n_type} type labels, "
+              f"{n_added} missing added dates, {n_tags} topic links")
+    return d
+
+
 def load():
     data = json.loads((ROOT / "data/site-data.json").read_text(encoding="utf-8"))
     cfg = json.loads((ROOT / "data/site-config.json").read_text(encoding="utf-8"))
+    prepare(data)
     return data, cfg
 
 
@@ -601,6 +686,7 @@ def main():
     write("llms.txt", s.llms())
     for name, text in s.feeds().items():
         write(name, text)
+    save_added_dates(d["resources"])
     write(f"{cfg['indexNowKey']}.txt", cfg["indexNowKey"])
     print(f"built index.html, {len(d['topics'])} topic pages, sitemap.xml, llms.txt, 3 feeds (as of {today})")
     if a.indexnow:
