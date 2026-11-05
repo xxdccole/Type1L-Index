@@ -2,8 +2,18 @@
   "title": "Type 1L Cement & Concrete Index",
   "summary": "A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.",
   "summaryText": "Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.",
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "whatsNew": [
+    {
+      "date": "Nov 5",
+      "title": "FHWA PLC variability TechNote and six companion finds",
+      "detail": "R125–R131: FHWA-HRT-25-116 characterizes 18 commercial PLCs (13 plants/9 states); ACI Materials Journal on PLC early strength with accelerators; ASCE nanosilica carbonation of Type IL paste; PINN hydration-heat surrogate; Type IL UHPC with calcined clay; IU Ferguson ACA case study; OKDOT Type IL(10) QPL."
+    },
+    {
+      "date": "Nov 5",
+      "title": "Commercial PLC variability quantified",
+      "detail": "FHWA TechNote (R125): average CaCO3 ~10%, estimated limestone ~7–18%; Blaine often poorly correlates with reactivity; sulfate optimization critical; batch-to-batch early heat of Type IL(10) from one plant varied ≤5%."
+    },
     {
       "date": "Nov 4",
       "title": "Mass concrete and thermal control added",
@@ -110,7 +120,8 @@
         "Model specs: AIA MasterSpec 03 30 00 and FAA P-501 (EB 106) include Type IL.",
         "2026 revisions: C595-26 adds Type IC (ASTM only), more limestone in IP/IS; IT needs two SCMs.",
         "ASTM work item WK94958 is the revision that bases sulfate-resistant Type IL designations on ASTM C452 testing (R74).",
-        "NRMCA's 2026 specification guide (R98) recommends allowing ASTM C595 Type IL rather than mandating a cement type, and notes IL can be qualified as MS or HS."
+        "NRMCA's 2026 specification guide (R98) recommends allowing ASTM C595 Type IL rather than mandating a cement type, and notes IL can be qualified as MS or HS.",
+        "FHWA-HRT-25-116 (R125, Sept 2025) surveyed 18 commercial PLCs from 13 plants in 9 states: CaCO3 averaged ~10% (estimated limestone ~7–18%); Blaine often poorly correlates with particle-size/reactivity; sulfate optimization is critical for early hydration."
       ],
       "resourceIds": [
         "R1",
@@ -129,7 +140,8 @@
         "R106",
         "R110",
         "R113",
-        "R114"
+        "R114",
+        "R125"
       ]
     },
     {
@@ -142,7 +154,8 @@
         "Approved lists: TxDOT Item 421, Caltrans authorized list (M 240), MnDOT certified sources.",
         "Tighter caps returning: INDOT RSP 901-M-069 (effective Dec 2025) limits limestone in Type IL to 10% by mass of the finished cement, including production tolerance.",
         "NYSDOT's Sept 2026 specs accept Type IL under AASHTO M 240 but require the portland cement in any blend to be Type II or II(MH) (R69); INDOT's 2026 book lists Type IL under M 240 (R70).",
-        "SCDOT publishes a dedicated Type IL authorized supplier list (QPL 86, R102)."
+        "SCDOT publishes a dedicated Type IL authorized supplier list (QPL 86, R102).",
+        "Oklahoma DOT lists Type IL(10) sources on its cement QPL (Ash Grove Foreman AR & Chanute KS; Amrize/Holcim Ada OK & Midlothian TX) (R131)."
       ],
       "resourceIds": [
         "R5",
@@ -162,7 +175,8 @@
         "R106",
         "R117",
         "R118",
-        "R120"
+        "R120",
+        "R131"
       ]
     },
     {
@@ -173,7 +187,8 @@
         "Grinding: Extra grinding energy is outweighed by clinker reduction.",
         "New PCR (Oct 2026): ACA is surveying U.S. producers for updated industry-average EPDs, including portland-limestone cement.",
         "Plant-specific Type IL EPDs keep appearing, e.g. Amrize Devils Slide IL(10), issued Feb 2026 (R68).",
-        "NRMCA released its Industry-Wide LCA and EPD Version 4 in October 2026 (R99, R100), with PLC included in the modeled cement supply."
+        "NRMCA released its Industry-Wide LCA and EPD Version 4 in October 2026 (R99, R100), with PLC included in the modeled cement supply.",
+        "Low-dosage (0.3–0.6%) colloidal nanosilica can boost CO2 uptake in Type IL paste; OPC still carbonates more readily, while nanosilica aids PLC via air stabilization and available CH (R127)."
       ],
       "resourceIds": [
         "R4",
@@ -185,7 +200,8 @@
         "R65",
         "R68",
         "R99",
-        "R100"
+        "R100",
+        "R127"
       ]
     },
     {
@@ -195,7 +211,8 @@
         "Higher fineness: Can raise water demand about 1-3 gal/yd3 and reduce bleeding.",
         "Admixtures: Re-tune dosages; avoid over-dosing retarding water reducers; verify air entrainment per source.",
         "Setting: Reports of unpredictable or differential set and top-down crusting in flatwork.",
-        "New ASCE JMCE study (R94) of Texas, Colorado and Florida IL cements: lower strength development than Type I/II, higher shrinkage in the first 24 h, but up to 35% higher surface and bulk resistivity; results depended on IL fineness, oxide composition and admixture dosage."
+        "New ASCE JMCE study (R94) of Texas, Colorado and Florida IL cements: lower strength development than Type I/II, higher shrinkage in the first 24 h, but up to 35% higher surface and bulk resistivity; results depended on IL fineness, oxide composition and admixture dosage.",
+        "FHWA R125: PLC fineness (PSD more than Blaine) and sulfate balance drive early workability and set; ACI R126 shows set accelerators can support high-early-strength PLC mortars comparable to same-clinker OPC within 24 h."
       ],
       "resourceIds": [
         "R10",
@@ -207,7 +224,9 @@
         "R80",
         "R94",
         "R104",
-        "R108"
+        "R108",
+        "R125",
+        "R126"
       ]
     },
     {
@@ -216,7 +235,8 @@
       "takeaways": [
         "Similar 28-day strength: Some field reports of lower early strength and more weather sensitivity.",
         "Type IL(HE): High-early PLC replacing Type III in precast and cold weather.",
-        "Cold weather: Standard ACI 306 practice applies; protect until about 500 psi."
+        "Cold weather: Standard ACI 306 practice applies; protect until about 500 psi.",
+        "Same-clinker PLC can match OPC early (<24 h) compressive strength in HES mortars with set accelerator; SCMs may slow early strength and should be limited based on SCM reactivity tests (R126)."
       ],
       "resourceIds": [
         "R8",
@@ -229,7 +249,11 @@
         "R93",
         "R94",
         "R101",
-        "R103"
+        "R103",
+        "R125",
+        "R126",
+        "R128",
+        "R129"
       ]
     },
     {
@@ -242,7 +266,8 @@
         "Abrasion and carbonation: 2026 Temple study: comparable abrasion when properly proportioned and finished.",
         "Sulfate designation changed in C595-26 / M 240-26: Type IL (MS)/(HS) now based mainly on ASTM C452 14-day expansion (MS at 0.050% max) rather than C1012 (Giannini, CI Oct 2026).",
         "2026 papers add caution for aggressive exposures: PLC paste lost far more mass than OPC in citric acid (R66), limestone concrete deteriorated most under combined sulfate and chloride attack while fly ash held up (R67), and a critical review argues durability, not clinker cut alone, should decide whether limestone-rich binders are truly low-carbon (R65).",
-        "A 2026 Revista ALCONPAT review (R101) of nearly five decades of literature finds porosity, chloride diffusion and carbonation rise with limestone content, mitigated by lower w/c and SCMs."
+        "A 2026 Revista ALCONPAT review (R101) of nearly five decades of literature finds porosity, chloride diffusion and carbonation rise with limestone content, mitigated by lower w/c and SCMs.",
+        "Nanosilica-modified Type IL paste microstructure and carbonation behavior are addressed in ASCE JMCE 2026 (R127); exposure-specific testing remains important."
       ],
       "resourceIds": [
         "R1",
@@ -274,7 +299,8 @@
         "R119",
         "R122",
         "R123",
-        "R124"
+        "R124",
+        "R127"
       ]
     },
     {
@@ -283,7 +309,8 @@
       "takeaways": [
         "Synergy: Limestone with aluminous SCMs (fly ash, slag) forms carboaluminates, refining pores.",
         "Ternary mixes: Common in U.S. practice; needed for severe sulfate exposure.",
-        "ACA's Sept 2026 contractor article (R97) lays out a five-step vetting workflow (supplier data, targeted testing, mortar screening, concrete testing, field mockups) for blended cements."
+        "ACA's Sept 2026 contractor article (R97) lays out a five-step vetting workflow (supplier data, targeted testing, mortar screening, concrete testing, field mockups) for blended cements.",
+        "Low-grade calcined clay combined with limestone-enriched ASTM Type IL cement is under study for UHPC (R129)."
       ],
       "resourceIds": [
         "R23",
@@ -303,7 +330,8 @@
         "R107",
         "R108",
         "R118",
-        "R123"
+        "R123",
+        "R129"
       ]
     },
     {
@@ -329,7 +357,8 @@
         "Industrial floors: Comparable abrasion with good finishing and curing.",
         "Tilt-up: Bond breaker compatibility concerns raised with C595-26 compositions.",
         "Shotcrete: ACI Materials Journal 2026 study found PLC wet-mix shotcrete needs more alkali-free accelerator for early strength, with similar 7- and 28-day strength and fiber toughness to portland cement.",
-        "3D printing: Early studies use Type IL / GULb binders with cellulose nanomaterials or quarry fines to meet printability."
+        "3D printing: Early studies use Type IL / GULb binders with cellulose nanomaterials or quarry fines to meet printability.",
+        "Type IL is being used in UHPC with limestone-enriched binders and low-grade calcined clay (R129) and in architectural white concrete (IU Ferguson, ~11% limestone PLC; R130)."
       ],
       "resourceIds": [
         "R18",
@@ -341,7 +370,9 @@
         "R57",
         "R72",
         "R96",
-        "R104"
+        "R104",
+        "R129",
+        "R130"
       ]
     },
     {
@@ -366,7 +397,8 @@
         "Symptoms: Crusting, differential set, crazing, delamination, plastic shrinkage cracking, low breaks.",
         "Remedies: Control set (accelerators), evaporation retarder or fogging at 0.05-0.08 lb/ft2/hr, flat first trowel, no early sealing, no over-troweling.",
         "A March 2026 two-hour WACA training deck covers placing and finishing Type IL concrete (R71).",
-        "Fall 2026 trade guidance converges on curing and documentation: Euclid (R93) says Type IL mixes need mixture-specific curing decisions, PACA (R95) ties recent winter durability claims to fall placements with poor finishing and curing, and S3 (R96) tells flooring installers to get the mill certificate, cure product and finish method before bidding."
+        "Fall 2026 trade guidance converges on curing and documentation: Euclid (R93) says Type IL mixes need mixture-specific curing decisions, PACA (R95) ties recent winter durability claims to fall placements with poor finishing and curing, and S3 (R96) tells flooring installers to get the mill certificate, cure product and finish method before bidding.",
+        "IU Ferguson International Center used ~11% limestone PLC architectural white concrete after 29 trial batches; Irving Materials later switched wholly to Type IL in southern Indiana (ACA case study R130; NRMCA 2024 Concrete Innovation Award)."
       ],
       "resourceIds": [
         "R9",
@@ -381,7 +413,8 @@
         "R96",
         "R97",
         "R117",
-        "R121"
+        "R121",
+        "R130"
       ]
     },
     {
@@ -390,7 +423,8 @@
       "takeaways": [
         "Market share: Blended cement about 5% of U.S. market in 2021; about 65 Mt vs 35 Mt portland in 2025 (ACA).",
         "Producers: Examples seen: Amrize, Cemex, Heidelberg, GCC, St. Marys/Votorantim, Illinois Cement.",
-        "Variability: Switching IL sources is a recognized concern."
+        "Variability: Switching IL sources is a recognized concern.",
+        "Source-to-source PLC variability is now quantified by FHWA (R125): chemical mill-report values track measured data better than physical (Blaine/density); batch-to-batch early heat of Type IL(10) from one plant varied ≤5%."
       ],
       "resourceIds": [
         "R17",
@@ -399,7 +433,8 @@
         "R46",
         "R47",
         "R48",
-        "R95"
+        "R95",
+        "R125"
       ]
     },
     {
@@ -434,7 +469,8 @@
         "R66",
         "R74",
         "R93",
-        "R95"
+        "R95",
+        "R130"
       ]
     },
     {
@@ -484,7 +520,8 @@
         "Type IL / PLC: the Purdue JTRP 2025 report found PLC concretes form thinner ITZs than OPC (filler effect), but water reducers raised ITZ porosity and CH build-up in one PLC, weakening it.",
         "Limestone filler: about 5% densifies the ITZ while 10% or more can raise ITZ porosity, and calcite collects at the interface (Ghent; Kotlanova 2021/2022). Limestone surfaces nucleate C-S-H well (Ouyang 2017).",
         "Limestone aggregate can bond chemically with paste at later ages (Mehta & Monteiro). Larger limestone grains showed fewer ITZ microcracks (Golewski 2025).",
-        "Methods: micro-CT/3D imaging (Mac 2021), acoustic emission separates aggregate cracks from paste/ITZ cracks (Farnam 2015), DIC at the ITZ (Zhang 2023), fluorescence microscopy for freeze-thaw (Li 2015)."
+        "Methods: micro-CT/3D imaging (Mac 2021), acoustic emission separates aggregate cracks from paste/ITZ cracks (Farnam 2015), DIC at the ITZ (Zhang 2023), fluorescence microscopy for freeze-thaw (Li 2015).",
+        "R127 examines Type IL paste microstructure under carbonation with colloidal nanosilica, but still does not provide direct ITZ microcrack imaging comparing commercial Type IL vs OPC concrete."
       ],
       "resourceIds": [
         "R75",
@@ -504,7 +541,8 @@
         "R89",
         "R90",
         "R91",
-        "R92"
+        "R92",
+        "R127"
       ]
     },
     {
@@ -516,7 +554,8 @@
         "ACI 301 limits mass concrete to 160°F maximum (to avoid DEF) and a 35°F core-to-surface differential.",
         "ACI 207 guides do not address Type IL specifically.",
         "ACI temperature-rise curves trace back to the 1936 Boulder Canyon data; USBR (2015) says correct them for modern cement fineness.",
-        "DEF with limestone: carbonate can accelerate DEF after high-temperature curing in lab studies, and fly ash suppressed it (Asamoto 2017); none use commercial Type IL."
+        "DEF with limestone: carbonate can accelerate DEF after high-temperature curing in lab studies, and fly ash suppressed it (Asamoto 2017); none use commercial Type IL.",
+        "A 2026 PINN surrogate (R128) reconstructs full PLC hydration-heat curves Q(t,α) for 0–40% limestone mixtures and can support thermal screening, but it is modeling—not a Type IL field mass-pour case with temperature monitoring."
       ],
       "resourceIds": [
         "R1",
@@ -542,22 +581,23 @@
         "R121",
         "R122",
         "R123",
-        "R124"
+        "R124",
+        "R128"
       ]
     }
   ],
   "keyIssues": [
     "Finishing and set in slabs: Industry guidance exists but standards for finishing aids are minimal.",
-    "Source-to-source variability: Requalify mixes when cement source changes.",
+    "Source-to-source variability: Requalify mixes when cement source changes. FHWA-HRT-25-116 (R125) now quantifies commercial PLC ranges (18 cements/13 plants).",
     "Sulfate and low-temperature exposure: Thaumasite risk without adequate SCMs.",
     "Deicer scaling: Open debate on IL concrete scaling.",
     "C595-26 Type IC and higher limestone IP/IS: Cement type label conveys less about composition.",
-    "Early strength: IL(HE) acceptance still emerging at DOTs.",
+    "Early strength: IL(HE) acceptance still emerging at DOTs. ACI Materials Journal (R126) finds same-clinker PLC can match OPC <24 h strength in HES mortars with set accelerator; limit SCMs by reactivity when early strength governs.",
     "State limestone caps: Some DOTs (Indiana at 10%) cap IL limestone below the 15% C595 maximum, so a national IL product may not qualify everywhere.",
     "Aggressive chemical exposure: New 2026 studies show PLC/limestone systems can underperform OPC or fly ash mixes in acid and combined sulfate-chloride exposure, so SCMs and exposure-specific testing matter.",
-    "ITZ in PLC: PLC tends to form a thinner ITZ, but admixture interactions and filler levels above about 10% can make it more porous. Direct imaging of microcracks in Type IL vs OPC concrete is still scarce.",
+    "ITZ in PLC: PLC tends to form a thinner ITZ, but admixture interactions and filler levels above about 10% can make it more porous. R127 adds Type IL paste microstructure under carbonation with nanosilica; direct imaging of ITZ microcracks in Type IL vs OPC concrete is still scarce.",
     "Supply and spec drift: some Pennsylvania producers report Type I/II is more available again (PACA, Oct 2026), while NRMCA's 2026 spec guide urges owners not to mandate a cement type.",
-    "Mass concrete: Type IL is not automatically low-heat (more heat in the first 24 h), ACI 207 is silent on Type IL, and only Florida DOT addresses Type IL in its mass concrete spec. Keep ACI 301's 160°F max and 35°F differential."
+    "Mass concrete: Type IL is not automatically low-heat (more heat in the first 24 h), ACI 207 is silent on Type IL, and only Florida DOT addresses Type IL in its mass concrete spec. Keep ACI 301's 160°F max and 35°F differential. PINN heat-curve surrogates (R128) can aid screening but are not a substitute for mix-specific ATR or field monitoring."
   ],
   "resources": [
     {
@@ -2030,6 +2070,94 @@
         "mass",
         "durability"
       ]
+    },
+    {
+      "id": "R125",
+      "title": "Portland Limestone Cement Variability (FHWA-HRT-25-116)",
+      "publisher": "FHWA",
+      "type": "TechNote",
+      "date": "2025-09",
+      "url": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-25-116.pdf",
+      "topics": [
+        "standards",
+        "supply",
+        "fresh",
+        "strength"
+      ]
+    },
+    {
+      "id": "R126",
+      "title": "Early-Age Strength and Porosity of Mixtures Incorporating Portland-Limestone Cement and Set Accelerator (Montanari, Cooper, Hosseini, Juenger)",
+      "publisher": "ACI Materials Journal 123(5)",
+      "type": "Paper",
+      "date": "2026-09-01",
+      "url": "https://doi.org/10.14359/51750729",
+      "topics": [
+        "strength",
+        "fresh"
+      ]
+    },
+    {
+      "id": "R127",
+      "title": "Effects of Low Dosage Colloidal Nanosilica on Carbon Sequestration and Microstructure of Type I and Type IL Cement Paste (He, Feng, Lu)",
+      "publisher": "ASCE J. Materials in Civil Engineering 38(11)",
+      "type": "Paper",
+      "date": "2026-08-10",
+      "url": "https://doi.org/10.1061/jmcee7.mteng-23139",
+      "topics": [
+        "carbon",
+        "durability",
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R128",
+      "title": "Physics-informed neural network surrogate for predicting hydration heat evolution profiles of Portland limestone cement (PLC) (Han et al.)",
+      "publisher": "Developments in the Built Environment 26:100949",
+      "type": "Paper",
+      "date": "2026-04",
+      "url": "https://doi.org/10.1016/j.dibe.2026.100949",
+      "topics": [
+        "mass",
+        "strength"
+      ]
+    },
+    {
+      "id": "R129",
+      "title": "Ultra-high performance concrete with limestone-enriched ASTM Type IL cement and locally sourced low-grade calcined clay (Maleque et al.)",
+      "publisher": "Progress in Engineering Science",
+      "type": "Paper",
+      "date": "2026-04",
+      "url": "https://doi.org/10.1016/j.pes.2026.100274",
+      "topics": [
+        "apps",
+        "scm",
+        "strength"
+      ]
+    },
+    {
+      "id": "R130",
+      "title": "A Teaching Moment at Indiana University Ferguson",
+      "publisher": "ACA",
+      "type": "Case study",
+      "date": "2026-08-07",
+      "url": "https://www.cement.org/2026/08/07/a-teaching-moment-at-indiana-university-ferguson/",
+      "topics": [
+        "apps",
+        "field",
+        "news"
+      ]
+    },
+    {
+      "id": "R131",
+      "title": "Oklahoma DOT Materials QPL — Type IL(10) cement sources",
+      "publisher": "Oklahoma DOT",
+      "type": "Approved list",
+      "date": "",
+      "url": "https://www.odot.org/materials/htm-smap/11062p-PCMPage2.html",
+      "topics": [
+        "dot"
+      ]
     }
   ],
   "changeLog": [
@@ -2056,14 +2184,18 @@
     {
       "date": "2026-11-04",
       "entry": "Added 20 resources (R105-R124) and new topic 'Mass concrete and thermal control'. Tagged dot, standards, scm, durability, guides, field, intl and gaps where relevant; R1, R31, R64, R73 also linked to the topic. GDOT mass concrete report (R118) has unconfirmed authors/year. Updated gaps."
+    },
+    {
+      "date": "2026-11-05",
+      "entry": "Added 7 resources (R125-R131): FHWA-HRT-25-116 Portland Limestone Cement Variability TechNote; ACI Materials Journal early-age PLC+accelerator strength/porosity study; ASCE JMCE colloidal nanosilica carbonation of Type I/IL paste; Developments in the Built Environment PINN PLC hydration-heat surrogate; Progress in Engineering Science Type IL UHPC with low-grade calcined clay; ACA IU Ferguson PLC white-concrete case study; Oklahoma DOT Type IL(10) QPL. Updated standards, supply, fresh, strength, mass, carbon, durability, microcracking, apps, scm, DOT, field and news takeaways/resourceIds; refreshed gaps (cost/ACI 318/EN 197-1 still open; mass still lacks Type IL field pour with monitoring)."
     }
   ],
   "gaps": [
     "Field performance data: Lab-to-field correlation and performance-based specs still developing.",
     "Partly covered now: Shotcrete (one 2026 ACI study) and 3D printing (two lab studies).",
-    "Partly covered now: SCC (one 2018 dissertation). Mass concrete now has its own topic (R105-R124).",
+    "Partly covered now: SCC (one 2018 dissertation). Mass concrete topic expanded (R105-R124) plus PINN hydration-heat surrogate (R128).",
     "Not yet covered by found sources: cost data specific to Type IL from a reliable source; primary ACI 318/301 code text; EN 197-1 official text.",
-    "Microcracking: no direct study found that images ITZ microcracks (SEM, CT, AE or DIC) in commercial Type IL vs OPC concrete, separates limestone aggregate from limestone filler effects in PLC, or applies DIC to PLC. No NIST or FHWA report specific to ITZ cracking in PLC was found.",
-    "Mass concrete: no field case study of a Type IL mass pour with temperature monitoring; no same-clinker adiabatic IL vs I/II comparison other than FDOT; DEF with PLC only in lab studies; no DOT other than Florida addresses Type IL in its mass spec; ACI 207 is silent on Type IL."
+    "Microcracking: R127 addresses Type IL paste microstructure/carbonation with nanosilica, but no direct study yet images ITZ microcracks (SEM, CT, AE or DIC) in commercial Type IL vs OPC concrete, separates limestone aggregate from limestone filler effects in PLC, or applies DIC to PLC. No NIST or FHWA report specific to ITZ cracking in PLC was found.",
+    "Mass concrete: no field case study of a Type IL mass pour with temperature monitoring; PINN (R128) is modeling/screening only; no same-clinker adiabatic IL vs I/II comparison other than FDOT; DEF with PLC only in lab studies; no DOT other than Florida addresses Type IL in its mass spec; ACI 207 is silent on Type IL."
   ]
 }

@@ -86,8 +86,8 @@ def save_added_dates(resources):
 def prepare(d):
     """Fill gaps that would stop the page rendering. Does not rewrite the JSON file.
 
-    `added` drives the digest feeds. "-" is not a publication date, so it renders
-    as undated. A lowercase type label would split the type filter. A topic that
+    `added` drives the digest feeds. "-" and "" are not publication dates, so they
+    render as undated. A lowercase type label would split the type filter. A topic that
     lists a resource also has to tag it, or that resource is missing from the
     topic filter and from its own topic chips.
     """
@@ -95,7 +95,7 @@ def prepare(d):
     by_id = {r.get("id"): r for r in d["resources"]}
     n_date = n_type = n_added = n_tags = 0
     for r in d["resources"]:
-        if r.get("date") == "-":
+        if r.get("date") in ("-", ""):
             r["date"] = None
             n_date += 1
         typ = r.get("type")
