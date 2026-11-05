@@ -6,24 +6,24 @@ Type IL is a binary blended cement with more than 5% and up to 15% limestone, de
 
 ## Topics
 
-- [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 17 resources
-- [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 18 resources
-- [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 10 resources
-- [Fresh properties and admixtures](https://xxdccole.github.io/Type1L-Index/topics/fresh/): 10 resources
-- [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 11 resources
-- [Durability](https://xxdccole.github.io/Type1L-Index/topics/durability/): 30 resources
-- [Use with SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm/): 18 resources
+- [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 18 resources
+- [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 19 resources
+- [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 11 resources
+- [Fresh properties and admixtures](https://xxdccole.github.io/Type1L-Index/topics/fresh/): 12 resources
+- [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 15 resources
+- [Durability](https://xxdccole.github.io/Type1L-Index/topics/durability/): 31 resources
+- [Use with SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm/): 19 resources
 - [Pavements](https://xxdccole.github.io/Type1L-Index/topics/pavement/): 6 resources
-- [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 10 resources
+- [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 12 resources
 - [Mix design guidance](https://xxdccole.github.io/Type1L-Index/topics/mix/): 5 resources
-- [Field issues and finishing](https://xxdccole.github.io/Type1L-Index/topics/field/): 13 resources
-- [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 7 resources
+- [Field issues and finishing](https://xxdccole.github.io/Type1L-Index/topics/field/): 14 resources
+- [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 8 resources
 - [Canada and Europe](https://xxdccole.github.io/Type1L-Index/topics/intl/): 4 resources
-- [Recent news](https://xxdccole.github.io/Type1L-Index/topics/news/): 13 resources
+- [Recent news](https://xxdccole.github.io/Type1L-Index/topics/news/): 14 resources
 - [Research gaps](https://xxdccole.github.io/Type1L-Index/topics/gaps/): 8 resources
 - [Training and guides](https://xxdccole.github.io/Type1L-Index/topics/guides/): 11 resources
-- [Microcracking and the interfacial transition zone](https://xxdccole.github.io/Type1L-Index/topics/microcracking/): 18 resources
-- [Mass concrete and thermal control](https://xxdccole.github.io/Type1L-Index/topics/mass/): 24 resources
+- [Microcracking and the interfacial transition zone](https://xxdccole.github.io/Type1L-Index/topics/microcracking/): 19 resources
+- [Mass concrete and thermal control](https://xxdccole.github.io/Type1L-Index/topics/mass/): 25 resources
 
 ## Data and feeds
 
