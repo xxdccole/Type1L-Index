@@ -6,6 +6,11 @@
   "whatsNew": [
     {
       "date": "Nov 6",
+      "title": "WVDOH Type 1L approved mill list",
+      "detail": "R139: West Virginia DOH Sep 15 2026 certified cement mill list adds a dedicated ASTM C595 Type 1L approved-source table (material code 701.003.001), complementing OKDOT IL(10) QPL (R131)."
+    },
+    {
+      "date": "Nov 6",
       "title": "WDM Type IL pavement forensic and seven companion finds",
       "detail": "R132–R138: Nature Comm CNF+limestone printable PLC concrete (with TEA cost notes and EN 197-1 cite); Euclid Type IL contractor finishing guide; Concrete Products crystalline Type IL article; Van Dam/Wathne West Des Moines Type IL pavement forensic (NCC Spring 2026); Masten NCC blended-cement/PLC variability update; CP Tech/FHWA paving carbon interim guide; ACA blended-cements hub."
     },
@@ -167,7 +172,8 @@
         "Tighter caps returning: INDOT RSP 901-M-069 (effective Dec 2025) limits limestone in Type IL to 10% by mass of the finished cement, including production tolerance.",
         "NYSDOT's Sept 2026 specs accept Type IL under AASHTO M 240 but require the portland cement in any blend to be Type II or II(MH) (R69); INDOT's 2026 book lists Type IL under M 240 (R70).",
         "SCDOT publishes a dedicated Type IL authorized supplier list (QPL 86, R102).",
-        "Oklahoma DOT lists Type IL(10) sources on its cement QPL (Ash Grove Foreman AR & Chanute KS; Amrize/Holcim Ada OK & Midlothian TX) (R131)."
+        "Oklahoma DOT lists Type IL(10) sources on its cement QPL (Ash Grove Foreman AR & Chanute KS; Amrize/Holcim Ada OK & Midlothian TX) (R131).",
+        "West Virginia DOH (R139, eff. 2026-09-15): certified mill list includes a dedicated ASTM C595 Type 1L section (material code 701.003.001) with Amrize, Quikrete, Buzzi, Fairborn, Heidelberg, Kosmos, Roanoke and St. Mary's sources."
       ],
       "resourceIds": [
         "R5",
@@ -190,7 +196,8 @@
         "R120",
         "R131",
         "R135",
-        "R136"
+        "R136",
+        "R139"
       ]
     },
     {
@@ -462,7 +469,8 @@
         "Producers: Examples seen: Amrize, Cemex, Heidelberg, GCC, St. Marys/Votorantim, Illinois Cement.",
         "Variability: Switching IL sources is a recognized concern.",
         "Source-to-source PLC variability is now quantified by FHWA (R125): chemical mill-report values track measured data better than physical (Blaine/density); batch-to-batch early heat of Type IL(10) from one plant varied ≤5%.",
-        "NCC Blended Cement Steering (R136): collective SHA request for Type IL plant data (strength, set, fineness, LOI, SO3, limestone) from 2022–mid-2025; analysis ongoing with peer review."
+        "NCC Blended Cement Steering (R136): collective SHA request for Type IL plant data (strength, set, fineness, LOI, SO3, limestone) from 2022–mid-2025; analysis ongoing with peer review.",
+        "WVDOH Type 1L approved mills (R139) expand named-source QPL coverage beyond OKDOT IL(10) (R131)."
       ],
       "resourceIds": [
         "R17",
@@ -473,7 +481,8 @@
         "R48",
         "R95",
         "R125",
-        "R136"
+        "R136",
+        "R139"
       ]
     },
     {
@@ -2299,6 +2308,18 @@
         "standards",
         "carbon"
       ]
+    },
+    {
+      "id": "R139",
+      "title": "M.P. 701.01.10 — Certified Portland Cement Mills (Approved List; Type 1L section)",
+      "publisher": "West Virginia DOH / Materials",
+      "type": "Approved list",
+      "date": "2026-09-15",
+      "url": "https://webapps.transportation.wv.gov/TWS/NRF/Materials/9%20September%2015,%202026%20APPROVED%20CEMENT%20MILL%20LIST.pdf",
+      "topics": [
+        "dot",
+        "supply"
+      ]
     }
   ],
   "changeLog": [
@@ -2333,6 +2354,10 @@
     {
       "date": "2026-11-06",
       "entry": "Added 7 resources (R132-R138): Nature Communications CNF+limestone filler printable concrete (with TEA/LCA and EN 197-1 cite); Euclid Type IL PLC contractor guide; Concrete Products crystalline Type IL article; Van Dam/Wathne West Des Moines Type IL pavement forensic (NCC Spring 2026); Masten NCC Blended Cement Steering/PLC variability update; CP Tech/FHWA cradle-to-gate paving carbon interim guide; ACA Blended Cements hub. Updated field, pavement, apps, carbon, fresh, standards, supply, intl and gaps takeaways/resourceIds; refreshed gaps (3DP and partial cost notes; ACI 318/301 and EN 197-1 primary text still open)."
+    },
+    {
+      "date": "2026-11-06",
+      "entry": "Added R139 WVDOH Certified Portland Cement Mills approved list (eff. 2026-09-15) with a dedicated ASTM C595 Type 1L sources section."
     }
   ],
   "gaps": [
