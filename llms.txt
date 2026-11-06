@@ -7,7 +7,7 @@ Type IL is a binary blended cement with more than 5% and up to 15% limestone, de
 ## Topics
 
 - [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 19 resources
-- [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 21 resources
+- [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 22 resources
 - [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 14 resources
 - [Fresh properties and admixtures](https://xxdccole.github.io/Type1L-Index/topics/fresh/): 15 resources
 - [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 16 resources
@@ -17,7 +17,7 @@ Type IL is a binary blended cement with more than 5% and up to 15% limestone, de
 - [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 13 resources
 - [Mix design guidance](https://xxdccole.github.io/Type1L-Index/topics/mix/): 6 resources
 - [Field issues and finishing](https://xxdccole.github.io/Type1L-Index/topics/field/): 17 resources
-- [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 9 resources
+- [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 10 resources
 - [Canada and Europe](https://xxdccole.github.io/Type1L-Index/topics/intl/): 5 resources
 - [Recent news](https://xxdccole.github.io/Type1L-Index/topics/news/): 14 resources
 - [Research gaps](https://xxdccole.github.io/Type1L-Index/topics/gaps/): 9 resources
