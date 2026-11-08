@@ -34,6 +34,53 @@ MONTHS = ["January", "February", "March", "April", "May", "June", "July",
 PARTIAL_DATE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 FULL_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+NOTES_PATH = ROOT / "data" / "resource-notes.json"
+# Original topic ids. Their takeaways describe Type IL practice and stay labeled that way.
+TYPE_IL_TOPICS = frozenset({
+    "standards", "dot", "carbon", "fresh", "strength", "durability", "scm",
+    "pavement", "apps", "mix", "field", "supply", "intl", "news", "gaps",
+    "guides", "microcracking", "mass",
+})
+TOPIC_AXES = (
+    ("type-il", "Type IL collection",
+     "Takeaways in this group stay limited to Type IL portland-limestone cement. They are not general rules for every binder or concrete."),
+    ("binder", "Cement and binder families",
+     "Foundational seeds for binder chemistry. Not a complete catalogue of cements."),
+    ("scm", "SCMs and additions",
+     "A topic with no sources is a documented coverage gap, not a claim that no literature exists."),
+    ("concrete", "Concrete families and applications",
+     "Seeded families. Practice for one family does not transfer to the others."),
+    ("cross", "Cross-cutting engineering topics",
+     "Partial coverage. Catalogue scopes, previews, and project claims are labeled in the source notes."),
+)
+SCOPE_NOTE = (
+    "Type IL collection. These points describe portland-limestone (Type IL) mixtures and exposures already indexed. "
+    "They are not general rules for every cement or concrete."
+)
+SCOPE_NOTE_SHORT = "Type IL collection. These points are not general rules for every cement or concrete."
+EVIDENCE_NOTE = (
+    "Undated entries have no publication date in the source. A year in a file URL is not used as the date. "
+    "Abstracts, previews, catalogue scopes, and manufacturer or project claims are not full-text standards or independent performance proof. "
+    "Empty topics are documented gaps. This index is foundational coverage, not an exhaustive catalogue."
+)
+ISSUES_NOTE = (
+    "Points that name Type IL, PLC, or a specific cement type describe that collection. "
+    "They are not findings about every cement or concrete."
+)
+
+
+def axis_key(tid):
+    if tid in TYPE_IL_TOPICS:
+        return "type-il"
+    if tid.startswith("binder-"):
+        return "binder"
+    if tid.startswith("scm-"):
+        return "scm"
+    if tid.startswith("concrete-"):
+        return "concrete"
+    if tid.startswith("cross-"):
+        return "cross"
+    return "other"
 
 
 def e(value):
@@ -87,9 +134,12 @@ def prepare(d):
     """Fill gaps that would stop the page rendering. Does not rewrite the JSON file.
 
     `added` drives the digest feeds. "-" and "" are not publication dates, so they
-    render as undated. A lowercase type label would split the type filter. A topic that
-    lists a resource also has to tag it, or that resource is missing from the
-    topic filter and from its own topic chips.
+    render as undated. A lowercase type label would split the type filter.
+
+    Topic membership is the union of `resource.topics` and `topic.resourceIds`.
+    Preserved records can sit on a newer topic only through `resourceIds`. The join
+    is in memory, so those resource objects are not rewritten in the JSON file, and
+    both the topic page and the topic filter still find them.
     """
     prior = recover_added_dates()
     by_id = {r.get("id"): r for r in d["resources"]}
@@ -131,7 +181,17 @@ def load():
     return data, cfg
 
 
-def validate(d, cfg):
+def load_notes():
+    """Optional per-resource evidence notes. Missing file means there are none."""
+    if not NOTES_PATH.exists():
+        return {}
+    raw = json.loads(NOTES_PATH.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        return None
+    return raw
+
+
+def validate(d, cfg, notes=None):
     errs = []
     need = ["title", "summary", "summaryText", "lastUpdated", "whatsNew", "topics",
             "keyIssues", "resources", "gaps", "changeLog"]
@@ -151,10 +211,13 @@ def validate(d, cfg):
         topics[t["id"]] = t
         if not t.get("name"):
             errs.append(f"topic {t['id']}: empty name")
-        if not t.get("resourceIds"):
-            errs.append(f"topic {t['id']}: no resources")
-        if len(set(t.get("resourceIds", []))) != len(t.get("resourceIds", [])):
+        ids = t.get("resourceIds")
+        if not isinstance(ids, list):
+            errs.append(f"topic {t['id']}: resourceIds must be a list")
+        elif len(set(ids)) != len(ids):
             errs.append(f"topic {t['id']}: duplicate resourceIds")
+        elif not ids and not t.get("takeaways"):
+            errs.append(f"topic {t['id']}: an empty topic needs a takeaway stating the coverage gap")
     res = {}
     seen_url, seen_title, types = {}, {}, collections.defaultdict(set)
     for r in d["resources"]:
@@ -213,6 +276,14 @@ def validate(d, cfg):
             errs.append(f"whatsNew item needs date and title: {w!r}")
     if not cfg["baseUrl"].endswith("/") or not cfg["baseUrl"].startswith("https://"):
         errs.append("config baseUrl must be an https URL ending in /")
+    if notes is None:
+        errs.append("data/resource-notes.json must be an object of resource id to note")
+    else:
+        for rid, note in notes.items():
+            if rid not in res:
+                errs.append(f"resource note for unknown id {rid}")
+            elif not isinstance(note, str) or not note.strip():
+                errs.append(f"resource note {rid} is empty")
     return errs
 
 
@@ -262,14 +333,73 @@ def short(text, n=158):
 
 # ----------------------------------------------------------------------------- page shell
 class Site:
-    def __init__(self, d, cfg, today):
+    def __init__(self, d, cfg, today, notes=None):
         self.d, self.cfg, self.today = d, cfg, today
+        self.notes = notes or {}
         self.base = cfg["baseUrl"]
         self.topics = {t["id"]: t for t in d["topics"]}
         self.res = {r["id"]: r for r in d["resources"]}
         self.name = d["title"]
         self.has_og = (ROOT / "assets/og.png").exists()
         self.first_date = d["changeLog"][0]["date"] if d["changeLog"] else d["lastUpdated"]
+
+    def doc_title(self, specific=None):
+        if not specific:
+            return self.name
+        full = f"{specific} | {self.name}"
+        if len(full) <= 90:
+            return full
+        if len(specific) <= 90:
+            return specific
+        return short(specific, 89)
+
+    def iter_groups(self):
+        buckets = {key: [] for key, _, _ in TOPIC_AXES}
+        other = []
+        for t in self.d["topics"]:
+            key = axis_key(t["id"])
+            if key in buckets:
+                buckets[key].append(t)
+            else:
+                other.append(t)
+        out = [(key, label, note, buckets[key]) for key, label, note in TOPIC_AXES if buckets[key]]
+        if other:
+            out.append(("other", "Additional topics", "Topics outside the four axes.", other))
+        return out
+
+    def topic_desc(self, t, cnt):
+        if t.get("takeaways"):
+            return short(t["takeaways"][0])
+        if cnt == 0:
+            return (
+                f"Coverage gap: no dedicated source is indexed yet for {t['name']}. "
+                "This records a limit of the index, not a finding that the literature is empty."
+            )
+        return (
+            f"{cnt} sources filed under {t['name']} in the {self.name}. "
+            "Foundational coverage, not an exhaustive catalogue."
+        )
+
+    def scope_html(self, t, brief=False):
+        if t["id"] not in TYPE_IL_TOPICS or not t.get("takeaways"):
+            return ""
+        return f'<p class="scope-note">{e(SCOPE_NOTE_SHORT if brief else SCOPE_NOTE)}</p>'
+
+    def caveat(self, r):
+        note = self.notes.get(r["id"])
+        if not note:
+            return ""
+        return f'<details class="caveat"><summary>Source note</summary><p>{e(note)}</p></details>'
+
+    def topic_options(self):
+        parts = []
+        for _, label, _, topics in self.iter_groups():
+            opts = []
+            for t in topics:
+                gap = ' data-gap="1"' if not t.get("resourceIds") else ""
+                opts.append(f'<option value="{e(t["id"])}"{gap}>{e(t["name"])}</option>')
+            parts.append(f'<optgroup label="{e(label)}">{"".join(opts)}</optgroup>')
+        return "".join(parts)
 
     def tlink(self, tid, prefix):
         return f'{prefix}topics/{tid}/'
@@ -328,7 +458,7 @@ class Site:
         return f"""<footer class="site-footer">
 <div class="wrap">
 <p>{e(d['title'])}. Last updated {time_el(d['lastUpdated'], True)}.</p>
-<p><a href="{prefix}feed-daily.xml">Daily digest feed</a> · <a href="{prefix}feed-weekly.xml">Weekly digest feed</a> · <a href="{prefix}feed.xml">Newest resources feed</a> · <a href="{prefix}data/site-data.json">Data (JSON)</a></p>
+<p><a href="{prefix}feed-daily.xml">Daily digest feed</a> · <a href="{prefix}feed-weekly.xml">Weekly digest feed</a> · <a href="{prefix}feed.xml">Newest resources feed</a> · <a href="{prefix}data/site-data.json">Data (JSON)</a> · <a href="{prefix}data/resource-notes.json">Source notes (JSON)</a></p>
 <p><a href="#top">Back to top</a></p>
 </div>
 </footer>
@@ -363,11 +493,12 @@ class Site:
     def resource_row(self, r, prefix):
         topics = " ".join(r["topics"])
         names = " ".join(self.topics[t]["name"] for t in r["topics"])
-        hay = "\n".join([r["id"], r["title"], r["publisher"], r["type"], str(r["date"] or ""), names, topics]).lower()
+        note = self.notes.get(r["id"], "")
+        hay = "\n".join([r["id"], r["title"], r["publisher"], r["type"], str(r["date"] or ""), names, topics, note]).lower()
         dk = dkey(r["date"])
         return (f'<tr id="r-{e(r["id"])}" data-id="{e(r["id"])}" data-title="{e(r["title"].lower())}" '
                 f'data-date="{"" if dk is None else dk}" data-type="{e(r["type"])}" data-topics="{e(topics)}" data-hay="{e(hay)}">'
-                f'<td class="title-col">{ext_link(r)}</td>'
+                f'<td class="title-col">{ext_link(r)}{self.caveat(r)}</td>'
                 f'<td class="id-col">{e(r["id"])}</td><td>{e(r["publisher"])}</td>'
                 f'<td><span class="chip">{e(r["type"])}</span></td>'
                 f'<td class="num">{time_el(r["date"])}</td>'
@@ -376,9 +507,16 @@ class Site:
     def home(self):
         d, prefix = self.d, ""
         n_res, n_top = len(d["resources"]), len(d["topics"])
-        title = f"{self.name} | Portland-Limestone Cement (PLC)"
+        title = self.doc_title()
         desc = d["summary"]
-        about = {"@type": "Thing", "name": "Portland-limestone cement (Type IL, ASTM C595 / AASHTO M 240)"}
+        about = {
+            "@type": "Thing",
+            "name": "Cement and concrete",
+            "description": (
+                "Binders, supplementary cementitious materials, concrete families, and engineering practice, "
+                "including the preserved Type IL portland-limestone collection."
+            ),
+        }
         items = [{"@type": "ListItem", "position": i + 1, "name": r["title"], "url": r["url"]}
                  for i, r in enumerate(sorted_resources(d["resources"]))]
         ld = {"@context": "https://schema.org", "@graph": [
@@ -394,21 +532,38 @@ class Site:
         news = "".join(
             f'<article class="news-item"><p class="news-date">{e(w["date"])}</p><div><h3>{e(w["title"])}</h3>'
             f'{"<p>" + e(w["detail"]) + "</p>" if w.get("detail") else ""}</div></article>' for w in d["whatsNew"])
-        toc = "".join(f'<li><a href="#topic-{e(t["id"])}">{e(t["name"])}</a></li>' for t in d["topics"])
-        cards = []
-        for t in d["topics"]:
-            tk = ""
-            if t.get("takeaways"):
-                tk = '<ul class="takeaways">' + "".join(f"<li>{e(x)}</li>" for x in t["takeaways"]) + "</ul>"
-            cnt = len(t["resourceIds"])
-            cards.append(
-                f'<article class="topic" id="topic-{e(t["id"])}" tabindex="-1">'
-                f'<h3 class="topic-name"><a href="{e(self.tlink(t["id"], prefix))}">{e(t["name"])}</a></h3>{tk}'
-                f'<p class="more"><a href="{e(self.tlink(t["id"], prefix))}">All {cnt} resource{"s" if cnt != 1 else ""} on this topic</a></p></article>')
+        toc_parts = []
+        card_parts = []
+        for key, label, note, topics in self.iter_groups():
+            items = "".join(f'<li><a href="#topic-{e(t["id"])}">{e(t["name"])}</a></li>' for t in topics)
+            note_html = f'<p class="axis-note">{e(note)}</p>' if note else ""
+            toc_parts.append(
+                f'<div class="axis"><h3 class="axis-label">{e(label)}</h3>{note_html}<ol>{items}</ol></div>')
+            cards = []
+            for t in topics:
+                tk = ""
+                if t.get("takeaways"):
+                    tk = self.scope_html(t, brief=True) + '<ul class="takeaways">' + "".join(f"<li>{e(x)}</li>" for x in t["takeaways"]) + "</ul>"
+                cnt = len(t.get("resourceIds") or [])
+                coll = ' data-collection="type-il"' if t["id"] in TYPE_IL_TOPICS else ""
+                if cnt == 0:
+                    more = (f'<p class="more"><a href="{e(self.tlink(t["id"], prefix))}">'
+                            f'Coverage gap — no dedicated source indexed yet</a></p>')
+                else:
+                    more = (f'<p class="more"><a href="{e(self.tlink(t["id"], prefix))}">'
+                            f'All {cnt} resource{"s" if cnt != 1 else ""} on this topic</a></p>')
+                cards.append(
+                    f'<article class="topic" id="topic-{e(t["id"])}"{coll} tabindex="-1">'
+                    f'<h4 class="topic-name"><a href="{e(self.tlink(t["id"], prefix))}">{e(t["name"])}</a></h4>{tk}'
+                    f'{more}</article>')
+            card_parts.append(
+                f'<section class="axis" id="axis-{e(key)}" aria-labelledby="axis-{e(key)}-label">'
+                f'<h3 class="axis-label" id="axis-{e(key)}-label">{e(label)}</h3>{note_html}{"".join(cards)}</section>')
+        toc = "".join(toc_parts)
         issues = "".join(f"<li>{e(x)}</li>" for x in d["keyIssues"])
         gaps = "".join(f"<li>{e(x)}</li>" for x in d["gaps"])
         log = "".join(f'<li>{time_el(c["date"], True)}<span>{e(c["entry"])}</span></li>' for c in d["changeLog"])
-        topic_opts = "".join(f'<option value="{e(t["id"])}">{e(t["name"])}</option>' for t in d["topics"])
+        topic_opts = self.topic_options()
         type_opts = "".join(f'<option value="{e(x)}">{e(x)}</option>' for x in sorted({r["type"] for r in d["resources"]}, key=str.lower))
         rows = "".join(self.resource_row(r, prefix) for r in sorted_resources(d["resources"]))
 
@@ -437,13 +592,14 @@ class Site:
 <div id="content">
 <section id="whats-new" tabindex="-1" aria-labelledby="whats-new-heading"><div class="wrap"><h2 id="whats-new-heading">What's new</h2><div id="whats-new-list">{news}</div></div></section>
 <section id="topics" tabindex="-1" aria-labelledby="topics-heading"><div class="wrap"><h2 id="topics-heading">Topics</h2>
-<nav id="topic-toc" class="toc" aria-label="Topics"><ol>{toc}</ol></nav>
-<div id="topic-list">{''.join(cards)}</div></div></section>
-<section id="issues" tabindex="-1" aria-labelledby="issues-heading"><div class="wrap"><h2 id="issues-heading">Key issues</h2><ul id="issue-list" class="plain-list">{issues}</ul></div></section>
+<nav id="topic-toc" class="toc" aria-label="Topics">{toc}</nav>
+<div id="topic-list">{''.join(card_parts)}</div></div></section>
+<section id="issues" tabindex="-1" aria-labelledby="issues-heading"><div class="wrap"><h2 id="issues-heading">Key issues</h2><p class="scope-note">{e(ISSUES_NOTE)}</p><ul id="issue-list" class="plain-list">{issues}</ul></div></section>
 <section id="resources" tabindex="-1" aria-labelledby="resources-heading"><div class="wrap">
 <h2 id="resources-heading">Resources</h2>
+<p id="evidence-note" class="evidence-note">{e(EVIDENCE_NOTE)}</p>
 <form id="resource-filters" role="search" aria-label="Filter resources" hidden>
-<div class="field grow"><label for="q">Search</label><input id="q" name="q" type="search" placeholder="Title, publisher, id, or topic" autocomplete="off"></div>
+<div class="field grow"><label for="q">Search</label><input id="q" name="q" type="search" placeholder="Search the Cement &amp; Concrete Index" autocomplete="off"></div>
 <div class="field"><label for="topic-filter">Topic</label><select id="topic-filter" name="topic"><option value="">All topics</option>{topic_opts}</select></div>
 <div class="field"><label for="type-filter">Type</label><select id="type-filter" name="type"><option value="">All types</option>{type_opts}</select></div>
 <div class="field"><label for="sort">Sort</label><select id="sort" name="sort"><option value="date-desc">Date, newest</option><option value="date-asc">Date, oldest</option><option value="title-asc">Title, A–Z</option><option value="title-desc">Title, Z–A</option></select></div>
@@ -478,11 +634,10 @@ class Site:
     def topic_page(self, t):
         d, prefix = self.d, "../../"
         url = f"{self.base}topics/{t['id']}/"
-        res = [self.res[i] for i in t["resourceIds"]]
+        res = [self.res[i] for i in t.get("resourceIds") or []]
         cnt = len(res)
-        desc = short(t["takeaways"][0]) if t.get("takeaways") else \
-            f"{cnt} curated sources on {t['name'].lower()} for Type IL (portland-limestone) cement and concrete."
-        title = f"{t['name']} | {self.name}"
+        desc = self.topic_desc(t, cnt)
+        title = self.doc_title(t["name"])
         related = []
         for o in d["topics"]:
             if o["id"] != t["id"]:
@@ -502,11 +657,15 @@ class Site:
         head = self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld)
         tk = ""
         if t.get("takeaways"):
-            tk = '<ul class="takeaways">' + "".join(f"<li>{e(x)}</li>" for x in t["takeaways"]) + "</ul>"
-        items = "".join(
-            f'<li id="r-{e(r["id"])}">{ext_link(r)}<p class="meta"><span>{e(r["id"])}</span><span>{e(r["publisher"])}</span>'
-            f'<span class="chip">{e(r["type"])}</span>{time_el(r["date"])}</p>{self.chips(r["topics"], prefix)}</li>'
-            for r in sorted_resources(res))
+            tk = self.scope_html(t) + '<ul class="takeaways">' + "".join(f"<li>{e(x)}</li>" for x in t["takeaways"]) + "</ul>"
+        if cnt == 0:
+            items = ('<li class="gap-callout">Coverage gap. No dedicated source is indexed for this topic yet. '
+                     'This is a limit of the index, not a finding that no literature exists.</li>')
+        else:
+            items = "".join(
+                f'<li id="r-{e(r["id"])}">{ext_link(r)}{self.caveat(r)}<p class="meta"><span>{e(r["id"])}</span><span>{e(r["publisher"])}</span>'
+                f'<span class="chip">{e(r["type"])}</span>{time_el(r["date"])}</p>{self.chips(r["topics"], prefix)}</li>'
+                for r in sorted_resources(res))
         rel = ""
         if related:
             rel = ('<h2 class="h3like">Related topics</h2><div class="chips">' + "".join(
@@ -517,7 +676,7 @@ class Site:
 <div class="wrap">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <span>{e(t['name'])}</span></nav>
 <h1>{e(t['name'])}</h1>
-<p class="meta-line">{cnt} resource{'s' if cnt != 1 else ''} · Last updated {time_el(d['lastUpdated'], True)}</p>
+<p class="meta-line">{'Coverage gap · no dedicated source indexed yet' if cnt == 0 else str(cnt) + (' resource' if cnt == 1 else ' resources')} · Last updated {time_el(d['lastUpdated'], True)}</p>
 </div>
 </header>
 <main id="main"><div id="content">
@@ -538,7 +697,8 @@ class Site:
         d = self.d
         urls = [(self.base, d["lastUpdated"])]
         for t in d["topics"]:
-            last = max([self.res[i]["added"] for i in t["resourceIds"]] + [d["changeLog"][0]["date"]])
+            added = [self.res[i]["added"] for i in (t.get("resourceIds") or []) if self.res[i].get("added")]
+            last = max(added + [d["changeLog"][0]["date"] if d["changeLog"] else d["lastUpdated"]])
             urls.append((f"{self.base}topics/{t['id']}/", last))
         body = "".join(f"<url><loc>{xesc(u)}</loc><lastmod>{m}</lastmod></url>" for u, m in urls)
         return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -546,11 +706,20 @@ class Site:
 
     def llms(self):
         d = self.d
-        lines = [f"# {d['title']}", "", f"> {d['summary']}", "", d["summaryText"], "", "## Topics", ""]
+        lines = [f"# {d['title']}", "", f"> {d['summary']}", "", d["summaryText"], "",
+                 "Coverage is foundational, not exhaustive. An empty topic is a documented gap, not proof that no literature exists. "
+                 "Unknown publication dates stay blank. Topic membership is the union of `topics` on a resource and `resourceIds` on a topic, "
+                 "so preserved records can belong to a newer topic through `resourceIds` alone.",
+                 "", "## Topics", ""]
         for t in d["topics"]:
-            lines.append(f"- [{t['name']}]({self.base}topics/{t['id']}/): {len(t['resourceIds'])} resources")
+            n = len(t.get("resourceIds") or [])
+            if n:
+                lines.append(f"- [{t['name']}]({self.base}topics/{t['id']}/): {n} resources")
+            else:
+                lines.append(f"- [{t['name']}]({self.base}topics/{t['id']}/): coverage gap, no dedicated source indexed yet")
         lines += ["", "## Data and feeds", "",
                   f"- [Full index as JSON]({self.base}data/site-data.json)",
+                  f"- [Source notes as JSON]({self.base}data/resource-notes.json)",
                   f"- [Daily digest feed]({self.base}feed-daily.xml)",
                   f"- [Weekly digest feed]({self.base}feed-weekly.xml)", ""]
         return "\n".join(lines)
@@ -661,7 +830,8 @@ def main():
     ap.add_argument("--indexnow", action="store_true")
     a = ap.parse_args()
     d, cfg = load()
-    errs = validate(d, cfg)
+    notes = load_notes()
+    errs = validate(d, cfg, notes)
     if errs:
         print("VALIDATION FAILED:")
         for x in errs:
@@ -672,7 +842,7 @@ def main():
     if a.validate:
         return 0
     today = dt.date.fromisoformat(a.today) if a.today else dt.datetime.now(dt.timezone.utc).date()
-    s = Site(d, cfg, today)
+    s = Site(d, cfg, today, notes)
     write("index.html", s.home())
     topics_dir = ROOT / "topics"
     if topics_dir.exists():

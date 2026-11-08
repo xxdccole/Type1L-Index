@@ -6,6 +6,7 @@ local links/scripts/styles that resolve (including #fragments), JSON-LD that par
 and description. Also parses sitemap.xml and the feeds, and checks that sitemap URLs map to files.
 Exit code 1 on any problem.
 """
+import html
 import json
 import re
 import sys
@@ -138,6 +139,64 @@ for name in ("feed.xml", "feed-daily.xml", "feed-weekly.xml"):
         print(f"{name}: {len(ids)} entries")
     except Exception as ex:
         errors.append(f"{name}: {ex}")
+
+# Data, membership, dates, and scope. Counts and topic filters are rendered from the JSON.
+data = json.loads((ROOT / "data/site-data.json").read_text(encoding="utf-8"))
+notes_path = ROOT / "data/resource-notes.json"
+notes = json.loads(notes_path.read_text(encoding="utf-8")) if notes_path.exists() else {}
+home_html = (ROOT / "index.html").read_text(encoding="utf-8")
+n_res, n_top = len(data["resources"]), len(data["topics"])
+if f"{n_top} topics" not in home_html or f"{n_res} resources" not in home_html:
+    errors.append("home page counts are not derived from site-data.json")
+if "Portland-Limestone Cement (PLC)" in home_html:
+    errors.append("home page still uses the Type IL-only document title")
+if "not an exhaustive catalogue" not in home_html:
+    errors.append("home page is missing the non-exhaustive coverage note")
+if 'placeholder="Search the Cement &amp; Concrete Index"' not in home_html:
+    errors.append("search placeholder was not broadened to the Cement & Concrete Index")
+listed = {}
+for t in data["topics"]:
+    for rid in t.get("resourceIds") or []:
+        listed.setdefault(rid, set()).add(t["id"])
+TYPE_IL_TOPICS = {
+    "standards", "dot", "carbon", "fresh", "strength", "durability", "scm",
+    "pavement", "apps", "mix", "field", "supply", "intl", "news", "gaps",
+    "guides", "microcracking", "mass",
+}
+for r in data["resources"]:
+    rid = r["id"]
+    row = re.search(rf'<tr id="r-{re.escape(rid)}"[^>]*\sdata-topics="([^"]*)"', home_html)
+    if row is None:
+        errors.append(f"home table is missing {rid}")
+        continue
+    if html.escape(r["url"], quote=True) not in home_html:
+        errors.append(f"home page is missing the URL for {rid}")
+    expected = set(r.get("topics") or []) | listed.get(rid, set())
+    got = set(filter(None, row.group(1).split(" ")))
+    if got != expected:
+        errors.append(f"{rid}: topic filter tags {sorted(got)} != union {sorted(expected)}")
+    if r.get("date") in (None, "", "-"):
+        chunk = re.search(rf'<tr id="r-{re.escape(rid)}".*?</tr>', home_html, re.S)
+        if chunk is None or "Undated" not in chunk.group(0) or "<time" in chunk.group(0):
+            errors.append(f"{rid}: unknown date was not left undated")
+    note = notes.get(rid)
+    if note and html.escape(note, quote=True) not in home_html:
+        errors.append(f"{rid}: source note is missing from the home page")
+for t in data["topics"]:
+    page = (ROOT / "topics" / t["id"] / "index.html").read_text(encoding="utf-8")
+    ids = t.get("resourceIds") or []
+    if not ids:
+        if "Coverage gap" not in page or "not a finding that no literature exists" not in page:
+            errors.append(f"topic {t['id']}: empty membership is not shown as a coverage gap")
+        if "0 resource" in page:
+            errors.append(f"topic {t['id']}: empty membership is shown as zero resources")
+    for rid in ids:
+        if f'id="r-{rid}"' not in page:
+            errors.append(f"topic {t['id']}: missing resource {rid}")
+    if t["id"] in TYPE_IL_TOPICS and t.get("takeaways") and "Type IL collection" not in page:
+        errors.append(f"topic {t['id']}: Type IL takeaways are not scoped")
+if "Type IL collection" not in home_html:
+    errors.append("home page does not label the Type IL collection")
 
 print(f"checked {len(pages)} pages")
 if errors:

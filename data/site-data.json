@@ -1,9 +1,14 @@
 {
-  "title": "Type 1L Cement & Concrete Index",
-  "summary": "A living index of standards, research, guidance, field experience and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240, 5-15% limestone) and concrete made with it. Updated daily.",
-  "summaryText": "Type IL is a binary blended cement with more than 5% and up to 15% limestone, designed for 1:1 replacement of ASTM C150 Type I/II with similar 28-day strength and about 8-10% lower carbon footprint. It is accepted by essentially all state DOTs and became the dominant U.S. cement by 2024. The main practical issues are finishing and setting behavior in flatwork, source-to-source variability, sulfate (thaumasite) exposure, and the 2026 C595 revisions that broaden blended cement composition.",
-  "lastUpdated": "2026-11-06",
+  "title": "Cement & Concrete Index",
+  "summary": "A living research index spanning cement and binder families, supplementary materials, concrete families and applications, and cross-cutting engineering topics. Daily updates; foundational coverage, not an exhaustive catalogue.",
+  "summaryText": "Expanded on 2026-11-08 from the Type IL index. All 139 original records and their caveats remain intact. Four taxonomy axes separate binder chemistry, SCMs/additions, concrete/application families and cross-cutting topics. New sources seed major families; coverage ranges from full technical guides to abstracts, previews and official catalogue scopes. Historical Type IL findings apply to their stated mixtures and exposures, not all cements. Verify current adopted standards and local approvals before use.",
+  "lastUpdated": "2026-11-08",
   "whatsNew": [
+    {
+      "date": "Nov 8",
+      "title": "All-cement and concrete foundational expansion",
+      "detail": "38 verified new source records R140–R177; 41 multi-axis topics added. Existing R1–R139 unchanged. Official EN 197 catalogue scopes, ACI specialty binder previews/abstracts, LC3, DOE well cement, RILEM MgO, FHWA UHPC/RCC/RCA, NRMCA production/testing and concrete family guidance. Scope is broad; depth and normative-text gaps remain explicit."
+    },
     {
       "date": "Nov 6",
       "title": "WVDOH Type 1L approved mill list",
@@ -158,7 +163,13 @@
         "R113",
         "R114",
         "R125",
-        "R138"
+        "R138",
+        "R140",
+        "R149",
+        "R150",
+        "R170",
+        "R171",
+        "R177"
       ]
     },
     {
@@ -227,7 +238,11 @@
         "R127",
         "R132",
         "R137",
-        "R138"
+        "R138",
+        "R143",
+        "R145",
+        "R146",
+        "R154"
       ]
     },
     {
@@ -256,7 +271,9 @@
         "R126",
         "R132",
         "R133",
-        "R136"
+        "R136",
+        "R159",
+        "R173"
       ]
     },
     {
@@ -284,7 +301,11 @@
         "R126",
         "R128",
         "R129",
-        "R132"
+        "R132",
+        "R158",
+        "R169",
+        "R171",
+        "R175"
       ]
     },
     {
@@ -333,7 +354,9 @@
         "R124",
         "R127",
         "R134",
-        "R135"
+        "R135",
+        "R145",
+        "R165"
       ]
     },
     {
@@ -364,7 +387,9 @@
         "R108",
         "R118",
         "R123",
-        "R129"
+        "R129",
+        "R143",
+        "R167"
       ]
     },
     {
@@ -384,7 +409,10 @@
         "R64",
         "R134",
         "R135",
-        "R137"
+        "R137",
+        "R153",
+        "R154",
+        "R174"
       ]
     },
     {
@@ -412,7 +440,13 @@
         "R104",
         "R129",
         "R130",
-        "R132"
+        "R132",
+        "R148",
+        "R151",
+        "R152",
+        "R155",
+        "R172",
+        "R173"
       ]
     },
     {
@@ -428,7 +462,9 @@
         "R51",
         "R53",
         "R98",
-        "R133"
+        "R133",
+        "R159",
+        "R167"
       ]
     },
     {
@@ -458,7 +494,16 @@
         "R130",
         "R133",
         "R134",
-        "R135"
+        "R135",
+        "R156",
+        "R157",
+        "R158",
+        "R160",
+        "R162",
+        "R163",
+        "R166",
+        "R168",
+        "R176"
       ]
     },
     {
@@ -482,7 +527,8 @@
         "R95",
         "R125",
         "R136",
-        "R139"
+        "R139",
+        "R147"
       ]
     },
     {
@@ -499,7 +545,9 @@
         "R58",
         "R59",
         "R109",
-        "R132"
+        "R132",
+        "R149",
+        "R150"
       ]
     },
     {
@@ -562,7 +610,38 @@
         "R112",
         "R133",
         "R137",
-        "R138"
+        "R138",
+        "R140",
+        "R141",
+        "R143",
+        "R148",
+        "R151",
+        "R152",
+        "R153",
+        "R154",
+        "R155",
+        "R156",
+        "R157",
+        "R158",
+        "R159",
+        "R160",
+        "R161",
+        "R162",
+        "R163",
+        "R164",
+        "R165",
+        "R166",
+        "R167",
+        "R168",
+        "R169",
+        "R170",
+        "R171",
+        "R172",
+        "R173",
+        "R174",
+        "R175",
+        "R176",
+        "R177"
       ]
     },
     {
@@ -636,11 +715,500 @@
         "R122",
         "R123",
         "R124",
-        "R128"
+        "R128",
+        "R153"
+      ]
+    },
+    {
+      "id": "binder-portland",
+      "name": "Binder · Portland I–V and air-entraining",
+      "takeaways": [
+        "Seeded: Types I, II, III, V and IA/IIA/IIIA; Type IV retained as historical low-heat classification, not implied current local availability. R28 now describes four current basic types. Verify adopted edition before specifying."
+      ],
+      "resourceIds": [
+        "R28",
+        "R140"
+      ]
+    },
+    {
+      "id": "binder-blended",
+      "name": "Binder · IL / IS / IP / ternary and performance cements",
+      "takeaways": [
+        "Seeded: preserve IL research and add slag/pozzolan/ternary and C1157 performance route. C595-26 Type IC and changing composition require edition-specific checks; blend labels are not universal performance guarantees."
+      ],
+      "resourceIds": [
+        "R28",
+        "R37",
+        "R39",
+        "R40",
+        "R138",
+        "R140"
+      ]
+    },
+    {
+      "id": "binder-international",
+      "name": "Binder · International CEM I–VI and regional classifications",
+      "takeaways": [
+        "Catalogue-level seed only: CEM I–V common cements are associated with EN 197-1; CEM II/C-M and CEM VI with EN 197-5. Not one interchangeable CEM I–VI standard; full normative text and global crosswalk remain gaps."
+      ],
+      "resourceIds": [
+        "R58",
+        "R149",
+        "R150"
+      ]
+    },
+    {
+      "id": "binder-cac-csa",
+      "name": "Binder · Calcium aluminate / calcium sulfoaluminate",
+      "takeaways": [
+        "Seeded FAQ, preview and nonstructural mortar abstract. CAC and CSA are different chemistries; refractory, conversion, sulfate balance, curing and structural approvals need separate qualification. No general structural design guide added."
+      ],
+      "resourceIds": [
+        "R140",
+        "R141",
+        "R142"
+      ]
+    },
+    {
+      "id": "binder-specialty",
+      "name": "Binder · Rapid-set / expansive / shrinkage-compensating",
+      "takeaways": [
+        "Foundational preview discusses rapid-hardening and controlled early expansion. Rapid set is not synonymous with high early strength; shrinkage compensation requires restraint and curing design. Current C845/C1600 requirements not verified."
+      ],
+      "resourceIds": [
+        "R140",
+        "R141",
+        "R142"
+      ]
+    },
+    {
+      "id": "binder-white-masonry",
+      "name": "Binder · White / colored / masonry / mortar / plastic",
+      "takeaways": [
+        "Seeded historical specialty classification and manufacturer white masonry page. Distinguish cement from mortar, pigment from binder chemistry, C91 masonry from C1329 mortar and C1328 plastic cement; latest normative clauses and independent comparisons remain gaps."
+      ],
+      "resourceIds": [
+        "R140",
+        "R147"
+      ]
+    },
+    {
+      "id": "binder-well",
+      "name": "Binder · Oil-well and geothermal cement",
+      "takeaways": [
+        "Seeded API 10A context from 2016 preview and DOE geothermal research. Downhole temperature, pressure, fluids, thermal cycling, casing bond and seal integrity govern qualification; latest API/ISO normative editions not reviewed."
+      ],
+      "resourceIds": [
+        "R140",
+        "R144"
+      ]
+    },
+    {
+      "id": "binder-activated",
+      "name": "Binder · Alkali-activated / geopolymer",
+      "takeaways": [
+        "Initial abstract-level coverage only. Activator, precursor, curing, shrinkage and leaching/efflorescence need system-specific testing. Geopolymer is not a blanket synonym for every alkali-activated binder; structural field/code coverage thin."
+      ],
+      "resourceIds": [
+        "R142",
+        "R144"
+      ]
+    },
+    {
+      "id": "binder-lc3",
+      "name": "Binder · Calcined-clay / limestone / LC3 low-clinker systems",
+      "takeaways": [
+        "Seeded EPFL project page plus preserved IL/UHPC research. Project up-to-40% CO2 claim is conditional; clay mineralogy, calcination, sulfate optimization and functional-unit LCA matter. LC3 is not simply Type IL with added filler."
+      ],
+      "resourceIds": [
+        "R129",
+        "R143"
+      ]
+    },
+    {
+      "id": "binder-magnesium-carbonatable",
+      "name": "Binder · Magnesium-based and carbonatable binders",
+      "takeaways": [
+        "Reviews distinguish Mg silicate/carbonate/oxysalt and carbonatable calcium-silicate systems. CO2 curing differs from injecting CO2 into normal concrete; steel passivation, water resistance, energy and carbon accounting remain limitations."
+      ],
+      "resourceIds": [
+        "R145",
+        "R146"
+      ]
+    },
+    {
+      "id": "scm-slag",
+      "name": "SCM / addition · Slag cement",
+      "takeaways": [
+        "Foundational seed: Slag cement has source-dependent latent hydraulic activity; review grades, sulfate resistance, early strength and curing, not just replacement percentage."
+      ],
+      "resourceIds": [
+        "R167",
+        "R24"
+      ]
+    },
+    {
+      "id": "scm-flyash",
+      "name": "SCM / addition · Fly ash / coal ash",
+      "takeaways": [
+        "Foundational seed: Fly ash chemistry and source variability affect reactivity and air/admixture demand; current supply and reclaimed ash qualification need further sources."
+      ],
+      "resourceIds": [
+        "R167",
+        "R24"
+      ]
+    },
+    {
+      "id": "scm-natural",
+      "name": "SCM / addition · Natural pozzolans",
+      "takeaways": [
+        "Foundational seed: Natural pozzolans require mineralogy, reactivity and durability qualification; R103 adds only a limited Type IL early-age study."
+      ],
+      "resourceIds": [
+        "R167",
+        "R24"
+      ]
+    },
+    {
+      "id": "scm-clay",
+      "name": "SCM / addition · Calcined clay / metakaolin",
+      "takeaways": [
+        "Foundational seed: Calcined clay is an SCM; LC3 is a blended binder system using it. Clay quality and process energy are important."
+      ],
+      "resourceIds": [
+        "R167",
+        "R24"
+      ]
+    },
+    {
+      "id": "scm-silica",
+      "name": "SCM / addition · Silica fume",
+      "takeaways": [
+        "Foundational seed: Silica fume appears in UHPC/high-performance systems; dispersion, rheology and curing need mix-specific control."
+      ],
+      "resourceIds": [
+        "R167",
+        "R24"
+      ]
+    },
+    {
+      "id": "scm-limestone",
+      "name": "SCM / addition · Limestone fillers and inert fines",
+      "takeaways": [
+        "Foundational seed: Limestone filler is separately classified from pozzolanic SCMs; packing/nucleation and carboaluminate effects do not make every filler a pozzolan."
+      ],
+      "resourceIds": [
+        "R59",
+        "R132"
+      ]
+    },
+    {
+      "id": "scm-emerging",
+      "name": "SCM / addition · Emerging / alternative SCMs",
+      "takeaways": [
+        "Gap: Coverage gap: harvested ash, ground glass, biomass ash, mine residues and other alternatives lack individual verified standards/field sources in this pass."
+      ],
+      "resourceIds": []
+    },
+    {
+      "id": "concrete-structural",
+      "name": "Concrete · Normal-weight / reinforced / prestressed",
+      "takeaways": [
+        "Seeded / partial: Seeded general use, IL prestressed study and grout overview; broad structural detailing and current codes are not yet indexed."
+      ],
+      "resourceIds": [
+        "R28",
+        "R31",
+        "R162"
+      ]
+    },
+    {
+      "id": "concrete-hpc",
+      "name": "Concrete · High-strength / HPC / UHPC",
+      "takeaways": [
+        "Seeded / partial: Separate compressive strength from broader performance and fiber-dependent UHPC tensile behavior; foundational sources are not latest design provisions."
+      ],
+      "resourceIds": [
+        "R155",
+        "R169",
+        "R129"
+      ]
+    },
+    {
+      "id": "concrete-scc",
+      "name": "Concrete · Self-consolidating concrete",
+      "takeaways": [
+        "Seeded / partial: Flowability plus stability; fresh-property tests and placement trials remain necessary."
+      ],
+      "resourceIds": [
+        "R173",
+        "R72"
+      ]
+    },
+    {
+      "id": "concrete-fibers",
+      "name": "Concrete · Fiber-reinforced concrete and composites",
+      "takeaways": [
+        "Seeded / partial: Synthetic-fiber guidance plus UHPC report; steel/glass/basalt fibers, ECC and FRC structural design still need dedicated coverage."
+      ],
+      "resourceIds": [
+        "R164",
+        "R155"
+      ]
+    },
+    {
+      "id": "concrete-lightweight",
+      "name": "Concrete · Lightweight aggregate concrete",
+      "takeaways": [
+        "Seeded / partial: Structural lightweight aggregate concrete is not interchangeable with foamed fill."
+      ],
+      "resourceIds": [
+        "R172"
+      ]
+    },
+    {
+      "id": "concrete-heavyweight",
+      "name": "Concrete · Heavyweight / shielding / ballast",
+      "takeaways": [
+        "Seeded / partial: Density and form pressure/handling require special consideration; shielding design outside reviewed source."
+      ],
+      "resourceIds": [
+        "R148"
+      ]
+    },
+    {
+      "id": "concrete-cellular",
+      "name": "Concrete · Cellular / foamed / aerated",
+      "takeaways": [
+        "Seeded / partial: Geotechnical foamed/cellular guide seeded; autoclaved aerated concrete panels and fire/structural specifications remain gaps."
+      ],
+      "resourceIds": [
+        "R152"
+      ]
+    },
+    {
+      "id": "concrete-mass-rcc",
+      "name": "Concrete · Mass concrete / RCC",
+      "takeaways": [
+        "Seeded / partial: Preserve detailed mass/thermal research; add pavement RCC. Dam RCC has different construction and performance needs."
+      ],
+      "resourceIds": [
+        "R110",
+        "R153"
+      ]
+    },
+    {
+      "id": "concrete-pavement-pervious",
+      "name": "Concrete · Paving / pervious",
+      "takeaways": [
+        "Seeded / partial: RCC, recycled-aggregate and pervious pavement seeds complement existing IL paving research."
+      ],
+      "resourceIds": [
+        "R153",
+        "R154",
+        "R174",
+        "R135"
+      ]
+    },
+    {
+      "id": "concrete-shotcrete",
+      "name": "Concrete · Shotcrete",
+      "takeaways": [
+        "Seeded / partial: Existing single Type IL wet-mix study retained; broader dry/wet shotcrete, accelerator and overhead qualification remain gaps."
+      ],
+      "resourceIds": [
+        "R55"
+      ]
+    },
+    {
+      "id": "concrete-precast-insitu-print",
+      "name": "Concrete · Precast / cast in situ / 3D printing",
+      "takeaways": [
+        "Seeded / partial: Existing precast and lab printing records retained with general in-place curing guidance. Layer bond, reinforcement, geometry and print QA need dedicated sources."
+      ],
+      "resourceIds": [
+        "R31",
+        "R56",
+        "R57",
+        "R132",
+        "R158"
+      ]
+    },
+    {
+      "id": "concrete-circular",
+      "name": "Concrete · Recycled / low-carbon / carbon-cured concrete",
+      "takeaways": [
+        "Seeded / partial: Recycled aggregate and lower-clinker LCA coverage seeded; carbonatable binders are not proof of performance for every CO2-injected or carbon-cured product. Carbon-cured field trials remain a gap."
+      ],
+      "resourceIds": [
+        "R154",
+        "R99",
+        "R100",
+        "R137",
+        "R146"
+      ]
+    },
+    {
+      "id": "concrete-polymer-refractory",
+      "name": "Concrete · Polymer / polymer-modified / refractory",
+      "takeaways": [
+        "Seeded / partial: Polymer-concrete preview and CAC refractory FAQ seeded. Polymer-modified hydraulic concrete and refractory installation/thermal cycling require dedicated guides."
+      ],
+      "resourceIds": [
+        "R151",
+        "R141"
+      ]
+    },
+    {
+      "id": "concrete-architectural",
+      "name": "Concrete · Architectural / decorative / exposed aggregate",
+      "takeaways": [
+        "Seeded / partial: White/colored mortar, discoloration and existing architectural case study seeded; pigments, texture, exposed aggregate and decorative finish specifications need independent references."
+      ],
+      "resourceIds": [
+        "R147",
+        "R163",
+        "R130"
+      ]
+    },
+    {
+      "id": "concrete-repair-grout-overlay",
+      "name": "Concrete · Repair mortars / grouts / overlays / cementitious composites",
+      "takeaways": [
+        "Seeded / partial: Distinguish bonding repair mortars, void-filling grout, low-strength fill and polymer composites. Repair selection, substrate/bond, overlay design and long-term field validation remain thin."
+      ],
+      "resourceIds": [
+        "R162",
+        "R142",
+        "R151",
+        "R160"
+      ]
+    },
+    {
+      "id": "cross-chemistry",
+      "name": "Cross-cutting · Chemistry / hydration / raw materials / manufacture",
+      "takeaways": [
+        "Partial coverage: Distinct hydraulic, alkali-activation and carbonation reactions need separate chemistry; raw-material/process datasets remain partial."
+      ],
+      "resourceIds": [
+        "R140",
+        "R143",
+        "R145",
+        "R146"
+      ]
+    },
+    {
+      "id": "cross-mix",
+      "name": "Cross-cutting · Mix design / aggregates / admixtures / compatibility",
+      "takeaways": [
+        "Partial coverage: Qualify binder-SCM-admixture-aggregate combinations and source changes; avoid transferring Type IL-specific dosage guidance to all families."
+      ],
+      "resourceIds": [
+        "R159",
+        "R167",
+        "R154",
+        "R176"
+      ]
+    },
+    {
+      "id": "cross-construction",
+      "name": "Cross-cutting · Production / transport / placement / finishing / curing",
+      "takeaways": [
+        "Partial coverage: Document delivery adjustments, placement responsibilities and moisture/temperature curing; transport-specific datasets remain thin."
+      ],
+      "resourceIds": [
+        "R158",
+        "R166",
+        "R168"
+      ]
+    },
+    {
+      "id": "cross-mechanics",
+      "name": "Cross-cutting · Strength / shrinkage / creep / cracking / thermal behavior",
+      "takeaways": [
+        "Partial coverage: Strength, curling, plastic shrinkage and mass heat have distinct mechanisms; broad creep and shrinkage constitutive models remain gaps."
+      ],
+      "resourceIds": [
+        "R156",
+        "R157",
+        "R161",
+        "R169",
+        "R171",
+        "R175",
+        "R110"
+      ]
+    },
+    {
+      "id": "cross-durability",
+      "name": "Cross-cutting · Durability / corrosion / exposure / service life",
+      "takeaways": [
+        "Partial coverage: Exposure, steel passivation and curing govern durability; do not generalize short laboratory mortar tests to long service life."
+      ],
+      "resourceIds": [
+        "R165",
+        "R63",
+        "R145"
+      ]
+    },
+    {
+      "id": "cross-tests-codes",
+      "name": "Cross-cutting · Testing / specifications / codes / QA",
+      "takeaways": [
+        "Partial coverage: Official catalogue scopes are not full normative text; testing information sheets are not substitutes for adopted ASTM/ACI/EN procedures."
+      ],
+      "resourceIds": [
+        "R149",
+        "R150",
+        "R170",
+        "R171",
+        "R177"
+      ]
+    },
+    {
+      "id": "cross-failure-repair",
+      "name": "Cross-cutting · Failures / field investigations / repairs / case studies",
+      "takeaways": [
+        "Partial coverage: Retain WDM forensic and aggregate troubleshooting; new-binder field failure and repair case histories remain sparse."
+      ],
+      "resourceIds": [
+        "R135",
+        "R176",
+        "R142"
+      ]
+    },
+    {
+      "id": "cross-environment-cost",
+      "name": "Cross-cutting · Environment / LCA / cost",
+      "takeaways": [
+        "Partial coverage: Compare equivalent function, service life, boundary and region; distinguish project claims and model costs from verified EPDs and market prices."
+      ],
+      "resourceIds": [
+        "R99",
+        "R100",
+        "R137",
+        "R143",
+        "R145",
+        "R146"
+      ]
+    },
+    {
+      "id": "cross-supply-region",
+      "name": "Cross-cutting · Availability / supply / regional practice",
+      "takeaways": [
+        "Partial coverage: Approval lists and local product availability are time-sensitive. No comprehensive regional price series, global classification crosswalk or supply inventory established."
+      ],
+      "resourceIds": [
+        "R28",
+        "R139",
+        "R149",
+        "R150",
+        "R147"
       ]
     }
   ],
   "keyIssues": [
+    "Scope and evidence quality: binder chemistry, SCM, concrete/application and engineering topic are different axes; abstract/preview/catalogue-level seeds do not establish specification compliance.",
+    "Durability and carbon tradeoffs: compare functional performance and service life, and verify low-pH steel compatibility and carbonation conditions for alternative binders.",
     "Finishing and set in slabs: Industry guidance exists (ASCC R10; Euclid R133) but standards for finishing aids are minimal. WDM forensic (R135) links pavement surface distress to finishing/curing response to slower bleed, not a defective cement.",
     "Source-to-source variability: Requalify mixes when cement source changes. FHWA-HRT-25-116 (R125) quantifies commercial PLC composition/reactivity scatter; NCC/Braun Intertec 10-PLC fresh-properties study (R136) due Fall 2026 NCC.",
     "Sulfate and low-temperature exposure: Thaumasite risk without adequate SCMs.",
@@ -2320,6 +2888,541 @@
         "dot",
         "supply"
       ]
+    },
+    {
+      "id": "R140",
+      "title": "ACI 225R-16 Guide to the Selection and Use of Hydraulic Cements (preview)",
+      "publisher": "ACI Committee 225",
+      "type": "Guide preview",
+      "date": "2016-09",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/225R-16_preview.pdf",
+      "topics": [
+        "standards",
+        "guides",
+        "binder-portland",
+        "binder-blended",
+        "binder-cac-csa",
+        "binder-specialty",
+        "binder-white-masonry",
+        "binder-well",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R141",
+      "title": "What is calcium-aluminate cement?",
+      "publisher": "ACI",
+      "type": "Technical FAQ",
+      "date": "",
+      "url": "https://www.concrete.org/frequentlyaskedquestions/faqid/860.aspx",
+      "topics": [
+        "guides",
+        "binder-cac-csa",
+        "binder-specialty",
+        "concrete-polymer-refractory"
+      ]
+    },
+    {
+      "id": "R142",
+      "title": "Calcium Sulfoaluminate and Geopolymeric Binders as Alternatives to OPC",
+      "publisher": "ACI Symposium SP-326 / Mobili et al.",
+      "type": "Paper abstract",
+      "date": "2018-08-10",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?id=51711010&m=details",
+      "topics": [
+        "binder-cac-csa",
+        "binder-specialty",
+        "binder-activated",
+        "concrete-repair-grout-overlay",
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R143",
+      "title": "LC3 – Limestone Calcined Clay Cement",
+      "publisher": "EPFL / LC3 project",
+      "type": "Research project guide",
+      "date": "",
+      "url": "https://lc3.ch/",
+      "topics": [
+        "carbon",
+        "scm",
+        "guides",
+        "binder-lc3",
+        "cross-chemistry",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R144",
+      "title": "TCF - Sustainable Well Cement for Geothermal, Thermal Recovery, and Carbon Storage wells",
+      "publisher": "Brookhaven National Laboratory / USDOE OSTI",
+      "type": "Technical report abstract",
+      "date": "2024-07-01",
+      "url": "https://www.osti.gov/biblio/2519653",
+      "topics": [
+        "binder-well",
+        "binder-activated"
+      ]
+    },
+    {
+      "id": "R145",
+      "title": "MgO-based cements – Current status and opportunities",
+      "publisher": "RILEM Technical Letters / Bernard et al.",
+      "type": "Review abstract",
+      "date": "2023-11-16",
+      "url": "https://letters.rilem.net/index.php/rilem/article/view/177",
+      "topics": [
+        "carbon",
+        "durability",
+        "binder-magnesium-carbonatable",
+        "cross-chemistry",
+        "cross-durability",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R146",
+      "title": "Alternative cement clinkers",
+      "publisher": "Cement and Concrete Research / Gartner and Sui; OSTI",
+      "type": "Review abstract",
+      "date": "2018-12-15",
+      "url": "https://www.osti.gov/biblio/23110537",
+      "topics": [
+        "carbon",
+        "binder-magnesium-carbonatable",
+        "concrete-circular",
+        "cross-chemistry",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R147",
+      "title": "White Masonry Cement",
+      "publisher": "Lehigh White Cement",
+      "type": "Manufacturer product guide",
+      "date": "",
+      "url": "https://www.lehighwhitecement.com/en/products-solutions/white-masonry-cement",
+      "topics": [
+        "supply",
+        "binder-white-masonry",
+        "concrete-architectural",
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R148",
+      "title": "Heavyweight concrete",
+      "publisher": "The Concrete Society",
+      "type": "Technical guidance",
+      "date": "2025-06-03",
+      "url": "https://www.concrete.org.uk/fingertips/heavyweight-concrete/",
+      "topics": [
+        "apps",
+        "guides",
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R149",
+      "title": "NEN-EN 197-1:2011 — Common cements: composition, specifications and conformity",
+      "publisher": "NEN / CEN",
+      "type": "Standard catalogue scope",
+      "date": "2011-10-01",
+      "url": "https://www.nen.nl/nen-en-197-1-2011-en-163485",
+      "topics": [
+        "standards",
+        "intl",
+        "binder-international",
+        "cross-tests-codes",
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R150",
+      "title": "NEN-EN 197-5:2021 — CEM II/C-M and CEM VI composite cements",
+      "publisher": "NEN / CEN",
+      "type": "Standard catalogue scope",
+      "date": "2021-05-01",
+      "url": "https://www.nen.nl/en/nen-en-197-5-2021-en-283495",
+      "topics": [
+        "standards",
+        "intl",
+        "binder-international",
+        "cross-tests-codes",
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R151",
+      "title": "ACI 548.6R-19 Polymer Concrete: Guidelines for Structural Applications (preview)",
+      "publisher": "ACI Committee 548",
+      "type": "Guide preview",
+      "date": "2019",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/548.6R-19_preview.pdf",
+      "topics": [
+        "apps",
+        "guides",
+        "concrete-polymer-refractory",
+        "concrete-repair-grout-overlay"
+      ]
+    },
+    {
+      "id": "R152",
+      "title": "Guide to Lightweight Cellular Concrete for Geotechnical Applications",
+      "publisher": "CP Tech Center",
+      "type": "Guide",
+      "date": "2021-01",
+      "url": "https://www.cement.org/wp-content/uploads/2024/07/sr1008p-guide_to_lcc_for_geotech_apps.pdf",
+      "topics": [
+        "apps",
+        "guides",
+        "concrete-cellular"
+      ]
+    },
+    {
+      "id": "R153",
+      "title": "Roller-Compacted Concrete Pavement (FHWA-HIF-16-003)",
+      "publisher": "FHWA",
+      "type": "Tech brief",
+      "date": "2016-06",
+      "url": "https://www.fhwa.dot.gov/pavement/concrete/pubs/hif16003.pdf",
+      "topics": [
+        "pavement",
+        "guides",
+        "mass",
+        "concrete-mass-rcc",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R154",
+      "title": "Use of Recycled Concrete Aggregate in Concrete Paving Mixtures (FHWA-HIF-22-020)",
+      "publisher": "FHWA",
+      "type": "Tech brief",
+      "date": "2022",
+      "url": "https://www.fhwa.dot.gov/pavement/concrete/pubs/hif22020.pdf",
+      "topics": [
+        "carbon",
+        "pavement",
+        "guides",
+        "concrete-pavement-pervious",
+        "concrete-circular",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R155",
+      "title": "Ultra-High Performance Concrete: A State-of-the-Art Report for the Bridge Community (FHWA-HRT-13-060)",
+      "publisher": "FHWA",
+      "type": "Report",
+      "date": "2013-06",
+      "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/hpc/13060/13060.pdf",
+      "topics": [
+        "apps",
+        "guides",
+        "concrete-hpc",
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R156",
+      "title": "CIP 5 — Plastic Shrinkage Cracking",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/05pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R157",
+      "title": "CIP 6 — Joints in Concrete Slabs on Grade",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/06pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R158",
+      "title": "CIP 11 — Curing In-Place Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/11pr.pdf",
+      "topics": [
+        "strength",
+        "field",
+        "guides",
+        "concrete-precast-insitu-print",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R159",
+      "title": "CIP 15 — Chemical Admixtures for Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/15pr.pdf",
+      "topics": [
+        "fresh",
+        "mix",
+        "guides",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R160",
+      "title": "CIP 17 — Flowable Fill",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/17pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "concrete-repair-grout-overlay"
+      ]
+    },
+    {
+      "id": "R161",
+      "title": "CIP 19 — Curling of Concrete Slabs",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/19pr.pdf",
+      "topics": [
+        "guides",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R162",
+      "title": "CIP 22 — Grout",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/22pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "concrete-structural",
+        "concrete-repair-grout-overlay"
+      ]
+    },
+    {
+      "id": "R163",
+      "title": "CIP 23 — Discoloration",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/23pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "concrete-architectural"
+      ]
+    },
+    {
+      "id": "R164",
+      "title": "CIP 24 — Synthetic Fibers for Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/24pr.pdf",
+      "topics": [
+        "guides",
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R165",
+      "title": "CIP 25 — Corrosion of Steel in Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/25pr.pdf",
+      "topics": [
+        "durability",
+        "guides",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R166",
+      "title": "CIP 26 — Jobsite Addition of Water",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/26pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R167",
+      "title": "CIP 30 — Supplementary Cementitious Materials (SCMs)",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/30pr.pdf",
+      "topics": [
+        "scm",
+        "mix",
+        "guides",
+        "scm-slag",
+        "scm-flyash",
+        "scm-natural",
+        "scm-clay",
+        "scm-silica",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R168",
+      "title": "CIP 32 — Concrete Pre-Construction Conference",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/32pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R169",
+      "title": "CIP 33 — High Strength Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/33pr.pdf",
+      "topics": [
+        "strength",
+        "guides",
+        "concrete-hpc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R170",
+      "title": "CIP 34 — Making Cylinders In the Field",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/34pr.pdf",
+      "topics": [
+        "standards",
+        "guides",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R171",
+      "title": "CIP 35 — Testing Compressive Strength of Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/35pr.pdf",
+      "topics": [
+        "standards",
+        "strength",
+        "guides",
+        "cross-mechanics",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R172",
+      "title": "CIP 36 — Structural Lightweight Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/36pr.pdf",
+      "topics": [
+        "apps",
+        "guides",
+        "concrete-lightweight"
+      ]
+    },
+    {
+      "id": "R173",
+      "title": "CIP 37 — Self-Consolidating Concrete (SCC)",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/37pr.pdf",
+      "topics": [
+        "fresh",
+        "apps",
+        "guides",
+        "concrete-scc"
+      ]
+    },
+    {
+      "id": "R174",
+      "title": "CIP 38 — Pervious Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/38pr.pdf",
+      "topics": [
+        "pavement",
+        "guides",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R175",
+      "title": "CIP 39 — Maturity Methods to Estimate Concrete Strength",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/39pr.pdf",
+      "topics": [
+        "strength",
+        "guides",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R176",
+      "title": "CIP 40 — Aggregate Popouts",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/40pr.pdf",
+      "topics": [
+        "field",
+        "guides",
+        "cross-mix",
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R177",
+      "title": "CIP 41 — Acceptance Testing of Concrete",
+      "publisher": "NRMCA",
+      "type": "Technical information sheet",
+      "date": "",
+      "url": "https://www.nrmca.org/wp-content/uploads/2021/01/41pr.pdf",
+      "topics": [
+        "standards",
+        "guides",
+        "cross-tests-codes"
+      ]
     }
   ],
   "changeLog": [
@@ -2358,9 +3461,19 @@
     {
       "date": "2026-11-06",
       "entry": "Added R139 WVDOH Certified Portland Cement Mills approved list (eff. 2026-09-15) with a dedicated ASTM C595 Type 1L sources section."
+    },
+    {
+      "date": "2026-11-08",
+      "entry": "Expanded scope to Cement & Concrete Index; appended 38 records R140–R177 and 41 multi-axis topics without changing existing resource objects. Source URLs deduplicated against existing URLs. 2016 ACI preview retained as historical foundation, not latest edition. Official EN catalogue pages verified, full text still unavailable. Daily cadence managed separately."
     }
   ],
   "gaps": [
+    "New scope is foundational, not complete: 38 additions do not provide comprehensive coverage of all binders, concrete families or jurisdictions.",
+    "Verification boundary: new PDF text was inspected; web records, abstracts, manufacturer descriptions and standard catalogue scopes are labeled. Original R1–R139 were preserved, not all reverified this pass; R118 authors/year remain unconfirmed.",
+    "Normative access: EN 197-1 and EN 197-5 official catalogue scopes now added (R149–R150), but full official texts still not reviewed. ACI 318/301 primary code coverage remains open. ACI 225R-16 and 548.6R-19 are dated previews, not asserted latest editions.",
+    "High priority gaps: dedicated emerging-SCM qualifications; structural CAC/CSA and geopolymer field approvals; API/ISO current well-cement requirements; carbon-cured/CO2-injected concrete field evidence; AAC panels; dry shotcrete; polymer-modified and refractory practice; ECC and non-synthetic FRC design; architectural/exposed-aggregate guidance; creep and service-life models.",
+    "Commercial/regional gaps: no current regional cement/concrete market cost series, comprehensive local availability inventory or global standards equivalence map. Vendor/project carbon and cost claims are not independent EPDs or market observations.",
+    "Historical gap statements below record what earlier searches had not found, not proof that no such literature or DOT provision exists. Earlier Type IL thermal/finishing rules and single-study conclusions must not be generalized to all cement/concrete families.",
     "Field performance data: Lab-to-field correlation and performance-based specs still developing; WDM forensic (R135) is a strong local case that attributes distress to construction response, not Type IL chemistry.",
     "Partly covered now: Shotcrete (one 2026 ACI study) and 3D printing (three lab studies including Nature Comm R132 with CNF+LF).",
     "Partly covered now: SCC (one 2018 dissertation). Mass concrete topic expanded (R105-R124) plus PINN hydration-heat surrogate (R128).",

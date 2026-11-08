@@ -2,6 +2,16 @@
 
 Durable decisions and lessons only. Newest first.
 
+## 2026-11-08 — Cement and concrete expansion
+
+**Decisions**
+- The public address stays `https://xxdccole.github.io/Type1L-Index/`. The repository name stays Type1L-Index. The visible title is Cement & Concrete Index.
+- `data/site-data.json` is replaced by the supplied dataset. Resource objects R1–R139 are unchanged, including their URLs. New topic membership for those records lives on `topic.resourceIds`. The builder treats membership as the union of `resource.topics` and `topic.resourceIds` and does not write that union back into the JSON.
+- Counts on the page come from the data. An empty `resourceIds` list renders as a coverage gap. It is not shown as proof that no literature exists.
+- Takeaways on the original 18 topics stay worded as they were and are labeled as Type IL collection notes. They are not presented as rules for every binder.
+- `"-"` and a missing publication date render as undated. A year inside a file URL is not promoted to a publication date.
+- `data/resource-notes.json` holds the per-source caveats for R140–R177. The page quotes those notes and does not add claims of its own.
+
 ## 2026-10-30 [R2 claude-sonnet-5-5]
 
 **Decisions**

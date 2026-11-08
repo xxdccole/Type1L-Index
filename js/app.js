@@ -53,6 +53,11 @@
     return diff || collate(x.title, y.title);
   }
 
+  function selectedGap() {
+    var opt = topicSel.options[topicSel.selectedIndex];
+    return !!(opt && opt.getAttribute("data-gap") === "1");
+  }
+
   function matches(row) {
     var k = row._k;
     if (state.topic && k.topics.indexOf(state.topic) === -1) return false;
@@ -117,9 +122,17 @@
     rows.forEach(function (row) { if (!show.has(row)) { row.hidden = true; frag.appendChild(row); } });
     body.insertBefore(frag, emptyRow);
     emptyRow.hidden = shown.length !== 0;
-    countEl.textContent = shown.length === total
-      ? "Showing " + total + (total === 1 ? " resource" : " resources")
-      : "Showing " + shown.length + " of " + total + " resources";
+    var gapOnly = selectedGap() && !state.q.trim() && !state.type && shown.length === 0;
+    var emptyCell = emptyRow.querySelector("td");
+    if (gapOnly) {
+      emptyCell.textContent = "Coverage gap: no dedicated source is indexed for this topic yet. This is not a claim that no literature exists.";
+      countEl.textContent = "Coverage gap — no dedicated source indexed";
+    } else {
+      emptyCell.textContent = "No resources match these filters.";
+      countEl.textContent = shown.length === total
+        ? "Showing " + total + (total === 1 ? " resource" : " resources")
+        : "Showing " + shown.length + " of " + total + " resources";
+    }
     clearBtn.disabled = !(state.q.trim() || state.topic || state.type);
     updateSortUi();
     syncUrl();

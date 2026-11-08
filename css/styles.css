@@ -281,6 +281,63 @@ main > #content > section:first-child {
   border-top: 1px solid var(--line);
 }
 
+.axis {
+  margin-top: 1.75rem;
+}
+
+.axis:first-child {
+  margin-top: 0;
+}
+
+.axis-label {
+  margin: 0 0 0.35rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h4.topic-name {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.axis-note,
+.scope-note,
+.evidence-note,
+.gap-callout {
+  max-width: 68ch;
+  color: var(--muted);
+}
+
+.axis-note,
+.scope-note,
+.evidence-note {
+  margin: 0 0 0.85rem;
+}
+
+.toc .axis ol {
+  margin-bottom: 0.25rem;
+}
+
+.caveat {
+  margin-top: 0.35rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 400;
+  max-width: 68ch;
+}
+
+.caveat summary {
+  cursor: pointer;
+}
+
+.caveat p {
+  margin-top: 0.35rem;
+}
+
 .takeaways,
 .plain-list {
   margin: 0.85rem 0 0;

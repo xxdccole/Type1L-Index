@@ -1,6 +1,6 @@
-# Type IL Cement & Concrete Index
+# Cement & Concrete Index
 
-A curated index of standards, research, DOT specifications, field guidance and news on Type IL portland-limestone cement (ASTM C595 / AASHTO M 240).
+A living research index of cement and binder families, supplementary materials, concrete families, and the engineering topics that cut across them. Coverage is foundational, not an exhaustive catalogue. The original Type IL portland-limestone records stay in the index, and their takeaways stay limited to Type IL.
 
 Live site: https://xxdccole.github.io/Type1L-Index/
 
@@ -36,7 +36,7 @@ On GitHub, `.github/workflows/build.yml` runs the same steps on every push that 
 - `title`, `summary`, `summaryText` (strings)
 - `lastUpdated` (`YYYY-MM-DD`). Must equal the date of the last `changeLog` entry.
 - `whatsNew` (array): `date` (display text), `title`, `detail`
-- `topics` (array): `id` (lowercase slug), `name`, `takeaways` (strings, may be empty), `resourceIds` (display order)
+- `topics` (array): `id` (lowercase slug), `name`, `takeaways` (strings, may be empty), `resourceIds` (display order). An empty `resourceIds` list is a documented coverage gap, not a claim that no literature exists. The topic still needs a takeaway that says so.
 - `resources` (array): `id`, `title`, `publisher`, `type`, `date`, `added`, `url`, `topics`
   - `type` starts with a capital letter. Two labels that differ only by case fail validation.
   - `date` is the publication date: `YYYY`, `YYYY-MM`, `YYYY-MM-DD`, or `null` when no source date is known. Never use placeholders such as `"-"`.
@@ -45,7 +45,9 @@ On GitHub, `.github/workflows/build.yml` runs the same steps on every push that 
 - `keyIssues`, `gaps` (arrays of strings)
 - `changeLog` (array): `date` (`YYYY-MM-DD`), `entry`, in date order
 
-Validation fails the build when a resource is tagged with a topic that does not list it (or the reverse), when ids, URLs or titles repeat, or when a date does not fit the formats above.
+A resource belongs to a topic when `resource.topics` lists that topic or `topic.resourceIds` lists that resource. The builder joins the two before it renders pages and filters, and it does not rewrite the JSON to do so. Preserved records can therefore sit on a newer topic through `resourceIds` alone. Validation runs on that joined view. It fails when ids, URLs or titles repeat, or when a date does not fit the formats above.
+
+`data/resource-notes.json` is optional. It maps a resource id to a source caveat. The page shows the note on that resource and does not invent notes for ids that are absent.
 
 ## Site settings
 
