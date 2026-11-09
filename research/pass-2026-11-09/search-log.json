@@ -1,0 +1,370 @@
+[
+ {
+  "topic": "concrete-heavyweight",
+  "query": "radiation shielding concrete magnetite barite gamma attenuation",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "heavyweight concrete high-density aggregate nuclear",
+  "dateFilter": ":1999",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "ilmenite hematite aggregate neutron shielding concrete serpentine",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-portland",
+  "query": "tricalcium aluminate sulfate resistance Type V portland cement",
+  "dateFilter": ":1995",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-portland",
+  "query": "air-entraining portland cement history Type IA freeze thaw",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-portland",
+  "query": "Bogue calculation clinker phase composition portland cement",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "white portland cement clinker iron content whiteness",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "masonry cement mortar air content bond strength ASTM C91",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "plastic cement stucco portland cement plaster",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-fibers",
+  "query": "steel fiber reinforced concrete flexural toughness residual strength",
+  "dateFilter": ":2000",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-fibers",
+  "query": "synthetic macro fiber concrete slab on ground",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-fibers",
+  "query": "glass fiber reinforced concrete GFRC durability aging",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller compacted concrete dam construction history",
+  "dateFilter": ":1995",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller-compacted concrete pavement mixture design compaction",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "mass concrete temperature differential cracking dam cooling pipes",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "query": "polymer modified mortar latex styrene butadiene bridge deck overlay",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "query": "polymer concrete epoxy resin mechanical properties",
+  "dateFilter": ":2000",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "query": "refractory castable calcium aluminate cement high temperature",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-scc",
+  "query": "self-compacting concrete Okamura development",
+  "dateFilter": ":2005",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-scc",
+  "query": "self-consolidating concrete static stability segregation formwork pressure",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-scc",
+  "query": "self-consolidating concrete precast prestressed bond",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-flyash",
+  "query": "fly ash concrete Class F Class C alkali silica reaction mitigation",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-flyash",
+  "query": "harvested reclaimed landfilled fly ash concrete",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-flyash",
+  "query": "fly ash concrete early research Davis Berkeley",
+  "dateFilter": ":1960",
+  "openalex": 9,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-limestone",
+  "query": "limestone filler cement hydration carboaluminate",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-limestone",
+  "query": "limestone powder self-compacting concrete filler effect",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-limestone",
+  "query": "thaumasite sulfate attack limestone filler cement",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-natural",
+  "query": "natural pozzolan concrete volcanic ash pumice ASTM C618 Class N",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-natural",
+  "query": "Roman concrete pozzolana durability",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-natural",
+  "query": "zeolite natural pozzolan cement strength",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-international",
+  "query": "EN 197-1 cement types CEM II composite durability",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-international",
+  "query": "Chinese cement standard GB 175 common portland cement",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-international",
+  "query": "Indian portland pozzolana cement IS 1489",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-architectural",
+  "query": "architectural concrete surface quality bugholes formwork",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 10,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "query": "exposed aggregate concrete decorative surface finish",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-architectural",
+  "query": "colored concrete pigments efflorescence",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "cement concrete 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ }
+]

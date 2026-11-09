@@ -1,0 +1,1349 @@
+{
+ "10.1016/j.pnucene.2014.11.009": {
+  "topic": "concrete-heavyweight",
+  "doi": "10.1016/j.pnucene.2014.11.009",
+  "crossref": {
+   "title": [
+    "Development of high-performance heavy density concrete using different aggregates for gamma-ray shielding"
+   ],
+   "authors": [
+    "Ahmed S. Ouda"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Progress in Nuclear Energy"
+   ],
+   "issued": [
+    [
+     2015,
+     3
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "79",
+   "page": "48-55",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+   ],
+   "abstract": "",
+   "refs": 25,
+   "citedby": 266
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0149197014002960",
+  "http": 200
+ },
+ "10.1016/j.jobe.2024.110800": {
+  "topic": "concrete-heavyweight",
+  "doi": "10.1016/j.jobe.2024.110800",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Radiation-shielding concrete: A review of materials, performance, and the impact of radiation on concrete properties"
+   ],
+   "authors": [
+    "Ali M. Onaizi",
+    "Mugahed Amran",
+    "Waiching Tang",
+    "Nour Betoush",
+    "Mohammad Alhassan",
+    "Raizal S.M. Rashid",
+    "Mohammad Fares Yasin",
+    "K.H. Bayagoob",
+    "Sagheer A. Onaizi"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Journal of Building Engineering"
+   ],
+   "issued": [
+    [
+     2024,
+     11
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "97",
+   "page": "110800",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "",
+   "refs": 246,
+   "citedby": 90
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S2352710224023684",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2020.122238": {
+  "topic": "concrete-heavyweight",
+  "doi": "10.1016/j.conbuildmat.2020.122238",
+  "crossref": {
+   "title": [
+    "Neutron shielding evaluation of concretes and mortars: A review"
+   ],
+   "authors": [
+    "Tomasz Piotrowski"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2021,
+     3
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "277",
+   "page": "122238",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "",
+   "refs": 44,
+   "citedby": 115
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061820342410",
+  "http": 200
+ },
+ "10.6028/jres.012.057": {
+  "topic": "binder-portland",
+  "doi": "10.6028/jres.012.057",
+  "crossref": {
+   "title": [
+    "Heat of hydration of portland cement pastes"
+   ],
+   "authors": [
+    "W. Lerch",
+    "R.H. Bogue"
+   ],
+   "publisher": "National Institute of Standards and Technology (NIST)",
+   "container": [
+    "Bureau of Standards Journal of Research"
+   ],
+   "issued": [
+    [
+     1934,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "12",
+   "page": "645",
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 52
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/jres/12/jresv12n5p645_A2b.pdf",
+  "http": 200
+ },
+ "10.6028/jres.027.007": {
+  "topic": "binder-portland",
+  "doi": "10.6028/jres.027.007",
+  "crossref": {
+   "title": [
+    "Relationship of the garnet-hydrogarnet series to the sulfate resistance of portland cements"
+   ],
+   "authors": [
+    "E.P. Flint",
+    "L.S. Wells"
+   ],
+   "publisher": "National Institute of Standards and Technology (NIST)",
+   "container": [
+    "Journal of Research of the National Bureau of Standards"
+   ],
+   "issued": [
+    [
+     1941,
+     8
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "27",
+   "page": "171",
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 15
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/jres/27/jresv27n2p171_A1b.pdf",
+  "http": 200
+ },
+ "10.1680/adcr.1989.2.6.73": {
+  "topic": "binder-portland",
+  "doi": "10.1680/adcr.1989.2.6.73",
+  "crossref": {
+   "title": [
+    "Modification of the Bogue calculation"
+   ],
+   "authors": [
+    "H. F. W. Taylor"
+   ],
+   "publisher": "Emerald",
+   "container": [
+    "Advances in Cement Research"
+   ],
+   "issued": [
+    [
+     1989,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "2",
+   "page": "73-77",
+   "license": [],
+   "abstract": "<jats:p> The Bogue calculation gives low results for alite and inaccurate ones for the other phases in Portland cement clinkers, largely because the compositions of the phases differ markedly from those of the unsubstituted compounds which it assumes to be present. For a wide range of rapidly cooled clinkers produced in modern plants, the compositions of the phases are sufficiently constant to justify the use, with minor modifications, of average values based on X-ray microanalyses, instead of those of the unsubstituted compounds. On this basis, a procedure is described which, like the Bogue c",
+   "refs": 0,
+   "citedby": 147
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.2138/gselements.18.5.308": {
+  "topic": "binder-portland",
+  "doi": "10.2138/gselements.18.5.308",
+  "crossref": {
+   "title": [
+    "The Rise of Portland Cements"
+   ],
+   "authors": [
+    "Karen L. Scrivener",
+    "Ruben Snellings"
+   ],
+   "publisher": "Mineralogical Society of America",
+   "container": [
+    "Elements"
+   ],
+   "issued": [
+    [
+     2022,
+     10,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "18",
+   "page": "308-313",
+   "license": [],
+   "abstract": "<jats:p>This chapter tells the story of Portland cement, from its invention in the 19th century until its present-day hegemony as the number one manufactured mineral product. The success story of Portland cement is rooted in the unique combination of the abundance of its raw materials, the reactivity of the high-temperature clinker product toward water, and the properties of the calcium silicate and aluminate hydration products. Further development of Portland cements today mainly addresses the formidable challenge of reducing process CO2 emissions. Options include partial replacement of clink",
+   "refs": 28,
+   "citedby": 23
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.6028/nbs.mono.36": {
+  "topic": "binder-white-masonry",
+  "doi": "10.6028/nbs.mono.36",
+  "crossref": {
+   "title": [
+    "Effect of mortar properties on strength of masonry"
+   ],
+   "authors": [
+    "Cyrus C Fishburn"
+   ],
+   "publisher": "National Bureau of Standards",
+   "container": [],
+   "issued": [
+    [
+     1961
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 13
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nbsmonograph36.pdf",
+  "http": 200
+ },
+ "10.1061/(asce)1084-0680(2004)9:2(62)": {
+  "topic": "binder-white-masonry",
+  "doi": "10.1061/(asce)1084-0680(2004)9:2(62)",
+  "crossref": {
+   "title": [
+    "Mortars for Repair of Traditional Masonry"
+   ],
+   "authors": [
+    "A. H. Paul Maurenbrecher"
+   ],
+   "publisher": "American Society of Civil Engineers (ASCE)",
+   "container": [
+    "Practice Periodical on Structural Design and Construction"
+   ],
+   "issued": [
+    [
+     2004,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": "62-65",
+   "license": [],
+   "abstract": "",
+   "refs": 6,
+   "citedby": 33
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1155/2016/1259094": {
+  "topic": "binder-white-masonry",
+  "doi": "10.1155/2016/1259094",
+  "crossref": {
+   "title": [
+    "Morphological Analysis of White Cement Clinker Minerals: Discussion on the Crystallization-Related Defects"
+   ],
+   "authors": [
+    "Mohamed Benmohamed",
+    "Rabah Alouani",
+    "Amel Jmayai",
+    "Abdesslem Ben Haj Amara",
+    "Hafsia Ben Rhaiem"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "International Journal of Analytical Chemistry"
+   ],
+   "issued": [
+    [
+     2016
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "2016",
+   "page": "1-10",
+   "license": [
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>The paper deals with a formation of artificial rock (clinker). Temperature plays the capital role in the manufacturing process. So, it is useful to analyze a poor clinker to identify the different phases and defects associated with their crystallization. X-ray fluorescence spectroscopy was used to determine the clinker\u2019s chemical composition. The amounts of the mineralogical phases are measured by quantitative XRD analysis (Rietveld). Scanning electron microscopy (SEM) was used to characterize the main phases of white Portland cement clinker and the defects associated with the formatio",
+   "refs": 35,
+   "citedby": 22
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/s0958-9465(96)00046-7": {
+  "topic": "concrete-fibers",
+  "doi": "10.1016/s0958-9465(96)00046-7",
+  "crossref": {
+   "title": [
+    "Fiber-reinforced concrete: an overview after 30 years of development"
+   ],
+   "authors": [
+    "Ronald F. Zollo"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     1997
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "19",
+   "page": "107-122",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+   ],
+   "abstract": "",
+   "refs": 37,
+   "citedby": 666
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946596000467",
+  "http": 200
+ },
+ "10.3390/fib6030047": {
+  "topic": "concrete-fibers",
+  "doi": "10.3390/fib6030047",
+  "crossref": {
+   "title": [
+    "Influence of Steel and Macro-Synthetic Fibers on Concrete Properties"
+   ],
+   "authors": [
+    "Veronica Guerini",
+    "Antonio Conforti",
+    "Giovanni Plizzari",
+    "Shiho Kawashima"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Fibers"
+   ],
+   "issued": [
+    [
+     2018,
+     7,
+     11
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "6",
+   "page": "47",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>Fiber addition has become one of the most prevalent methods for enhancing the tensile behavior of concrete. Fibers reduce cracking phenomena and improve the energy absorption capacity of the structure. On the other hand, the introduction of fibers can introduce a negative impact on concrete workability, whose loss is influenced by different parameters (among which are fiber content and fiber type). In this context, an exploratory study on the influence of steel (high stiffness) and macro-synthetic (low stiffness) fibers on the fresh properties of concrete was carried out, considering w",
+   "refs": 55,
+   "citedby": 122
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3390/ma15155111": {
+  "topic": "concrete-fibers",
+  "doi": "10.3390/ma15155111",
+  "crossref": {
+   "title": [
+    "Glass Fibers Reinforced Concrete: Overview on Mechanical, Durability and Microstructure Analysis"
+   ],
+   "authors": [
+    "Jawad Ahmad",
+    "Roberto Alonso Gonz\u00e1lez-Lezcano",
+    "Ali Majdi",
+    "Nabil Ben Kahla",
+    "Ahmed Farouk Deifalla",
+    "Mohammed A. El-Shorbagy"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Materials"
+   ],
+   "issued": [
+    [
+     2022,
+     7,
+     22
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "15",
+   "page": "5111",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>Prior studies in the literature show promising results regarding the improvements in strength and durability of concrete upon incorporation of glass fibers into concrete formulations. However, the knowledge regarding glass fiber usage in concrete is scattered. Moreover, this makes it challenging to understand the behavior of glass fiber-reinforced concrete. Therefore, a detailed review is required on glass fiber-reinforced concrete. This paper provides a compressive analysis of glass fiber-reinforced composites. All-important properties of concrete such as flowability, compressive, fle",
+   "refs": 108,
+   "citedby": 170
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3141/1893-06": {
+  "topic": "concrete-mass-rcc",
+  "doi": "10.3141/1893-06",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Roller-Compacted Concrete Mix Design Procedure with Gyratory Compactor"
+   ],
+   "authors": [
+    "Nader Amer",
+    "Chris Storey",
+    "Norbert Delatte"
+   ],
+   "publisher": "SAGE Publications",
+   "container": [
+    "Transportation Research Record: Journal of the Transportation Research Board"
+   ],
+   "issued": [
+    [
+     2004,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "1893",
+   "page": "46-52",
+   "license": [
+    "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+   ],
+   "abstract": "<jats:p>Roller-compacted concrete (RCC) pavements are durable and can be built rapidly and economically. In previous research, the gyratory compactor has proved to be a reliable instrument and overcome the drawbacks of other methods used to mold laboratory and field samples. Work is under way by different organizations in Canada, Japan, and the United States to improve mix design procedures for RCC. One procedure widely used for RCC pavements was developed by the U.S. Army Corps of Engineers. This research investigated improving mixture proportioning of RCC by using a gyratory compactor. Previ",
+   "refs": 10,
+   "citedby": 26
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/j.cscm.2017.03.004": {
+  "topic": "concrete-mass-rcc",
+  "doi": "10.1016/j.cscm.2017.03.004",
+  "crossref": {
+   "title": [
+    "Performance assessment of natural pozzolan roller compacted concrete pavements"
+   ],
+   "authors": [
+    "S.A. Ghahari",
+    "A. Mohammadi",
+    "A.A. Ramezanianpour"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Case Studies in Construction Materials"
+   ],
+   "issued": [
+    [
+     2017,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "7",
+   "page": "82-90",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+   ],
+   "abstract": "",
+   "refs": 38,
+   "citedby": 25
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S221450951630047X",
+  "http": 200
+ },
+ "10.2172/4328261": {
+  "topic": "concrete-polymer-refractory",
+  "doi": "10.2172/4328261",
+  "crossref": {
+   "title": [
+    "Concrete-polymer materials.   Fifth topical report"
+   ],
+   "authors": [
+    "Brookhaven National Lab., Upton, N.Y. (USA)",
+    "G. DePuy",
+    "Bureau of Reclamation, Denver, Colo. (USA)",
+    "L. Kukacka"
+   ],
+   "publisher": "Office of Scientific and Technical Information (OSTI)",
+   "container": [],
+   "issued": [
+    [
+     1973,
+     12,
+     1
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 4
+  },
+  "resolved": "https://www.osti.gov/biblio/4328261",
+  "http": 200
+ },
+ "10.1007/bf02481825": {
+  "topic": "concrete-polymer-refractory",
+  "doi": "10.1007/bf02481825",
+  "crossref": {
+   "title": [
+    "Mechanical behaviour of polymer concrete systems"
+   ],
+   "authors": [
+    "C. Vipulanandan",
+    "N. Dharmarajan",
+    "E. Ching"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     1988,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "21",
+   "page": "268-277",
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 21,
+   "citedby": 59
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.3390/app10031061": {
+  "topic": "concrete-polymer-refractory",
+  "doi": "10.3390/app10031061",
+  "crossref": {
+   "title": [
+    "Influence of Polymer Types on the Mechanical Properties of Polymer-Modified Cement Mortars"
+   ],
+   "authors": [
+    "Min Ook Kim"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Applied Sciences"
+   ],
+   "issued": [
+    [
+     2020,
+     2,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "10",
+   "page": "1061",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>This is an experimental study showing the effect of four types of polymers (acrylate polymer (AC), polyvinyl alcohol (PVA), styrene\u2013butadiene rubber (SBR), and ethylene-vinyl acetate (EVA)) on the mechanical properties of polymer-modified cement mortars (PCMs). One polymer dosage was used in this study (3%), and the effect of this dosage on PCMs was compared with a control mortar mix with 0% polymer. The compressive, flexural, and pull-off bond strengths were measured and compared with previous results in works of literature. The effect of polymer addition on improving the mechanical p",
+   "refs": 33,
+   "citedby": 43
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3151/jact.1.5": {
+  "topic": "concrete-scc",
+  "doi": "10.3151/jact.1.5",
+  "crossref": {
+   "title": [
+    "Self-Compacting Concrete"
+   ],
+   "authors": [
+    "Hajime Okamura",
+    "Masahiro Ouchi"
+   ],
+   "publisher": "Japan Concrete Institute",
+   "container": [
+    "Journal of Advanced Concrete Technology"
+   ],
+   "issued": [
+    [
+     2003
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "1",
+   "page": "5-15",
+   "license": [],
+   "abstract": "",
+   "refs": 17,
+   "citedby": 1430
+  },
+  "resolved": "https://www.jstage.jst.go.jp/article/jact/1/1/1_1_5/_article",
+  "http": 200
+ },
+ "10.1680/stco.2000.1.1.3": {
+  "topic": "concrete-scc",
+  "doi": "10.1680/stco.2000.1.1.3",
+  "crossref": {
+   "title": [
+    "Self-compacting concrete"
+   ],
+   "authors": [
+    "H. Okamura",
+    "K. Ozawa",
+    "M. Ouchi"
+   ],
+   "publisher": "Emerald",
+   "container": [
+    "Structural Concrete"
+   ],
+   "issued": [
+    [
+     2000,
+     3
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "1",
+   "page": "3-17",
+   "license": [],
+   "abstract": "",
+   "refs": 29,
+   "citedby": 199
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.15781/t2pg2v": {
+  "topic": "concrete-scc",
+  "doi": "10.15781/t2pg2v",
+  "crossrefErr": "HTTP Error 404: Not Found",
+  "openalex": {
+   "title": "Aggregates in Self-Consolidating Concrete",
+   "authors": [
+    "Fowler, David W."
+   ],
+   "date": "2016-01-01",
+   "venue": "Texas ScholarWorks (Texas Digital Library)",
+   "oa": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://hdl.handle.net/2152/35363",
+    "any_repository_has_fulltext": true
+   },
+   "type": "report",
+   "license": "cc-by"
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.15554/pcij.11012005.72.87": {
+  "topic": "concrete-scc",
+  "doi": "10.15554/pcij.11012005.72.87",
+  "crossref": {
+   "title": [
+    "Bond Strength and Transfer Length of Pretensioned Bridge Girders Cast With Self-Consolidating Concrete"
+   ],
+   "authors": [
+    "Amgad F. Morgan Girgis",
+    "Christopher Y. Tuan"
+   ],
+   "publisher": "Precast/Prestressed Concrete Institute",
+   "container": [
+    "PCI Journal"
+   ],
+   "issued": [
+    [
+     2005,
+     11,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "50",
+   "page": "72-87",
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 20
+  },
+  "resolved": "https://www.pci.org/index.html",
+  "http": 200
+ },
+ "10.1016/j.cscm.2021.e00642": {
+  "topic": "concrete-scc",
+  "doi": "10.1016/j.cscm.2021.e00642",
+  "crossref": {
+   "title": [
+    "Pressure exerted on formwork by self-compacting concrete at early ages: A review"
+   ],
+   "authors": [
+    "Nadarajah Gowripalan",
+    "Pshtiwan Shakor",
+    "Paul Rocker"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Case Studies in Construction Materials"
+   ],
+   "issued": [
+    [
+     2021,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "15",
+   "page": "e00642",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+   ],
+   "abstract": "",
+   "refs": 128,
+   "citedby": 18
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S2214509521001571",
+  "http": 200
+ },
+ "10.1016/j.serj.2017.09.001": {
+  "topic": "scm-flyash",
+  "doi": "10.1016/j.serj.2017.09.001",
+  "crossref": {
+   "title": [
+    "Effect of class F fly ash on the durability properties of concrete"
+   ],
+   "authors": [
+    "Ashish Kumer Saha"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Sustainable Environment Research"
+   ],
+   "issued": [
+    [
+     2018,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "28",
+   "page": "25-31",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+   ],
+   "abstract": "",
+   "refs": 40,
+   "citedby": 328
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S2468203917301334",
+  "http": 200
+ },
+ "10.1061/(asce)mt.1943-5533.0000564": {
+  "topic": "scm-flyash",
+  "doi": "10.1061/(asce)mt.1943-5533.0000564",
+  "crossref": {
+   "title": [
+    "Texas Department of Transportation Fly Ash Database and the Development of Chemical Composition\u2013Based Fly Ash Alkali-Silica Reaction Durability Index"
+   ],
+   "authors": [
+    "Lianxiang Du",
+    "Elizabeth Lukefahr",
+    "Andy Naranjo"
+   ],
+   "publisher": "American Society of Civil Engineers (ASCE)",
+   "container": [
+    "Journal of Materials in Civil Engineering"
+   ],
+   "issued": [
+    [
+     2013,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "25",
+   "page": "70-77",
+   "license": [],
+   "abstract": "",
+   "refs": 26,
+   "citedby": 12
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1155/2016/7871206": {
+  "topic": "scm-flyash",
+  "doi": "10.1155/2016/7871206",
+  "crossref": {
+   "title": [
+    "State-of-the-Art Report on Alkali Silica Reactivity Mitigation Effectiveness Using Different Types of Fly Ashes"
+   ],
+   "authors": [
+    "Enamur R. Latifee"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "Journal of Materials"
+   ],
+   "issued": [
+    [
+     2016,
+     9,
+     27
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "2016",
+   "page": "1-7",
+   "license": [
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>Use of fly ash by percent replacement of cement is considered as one of the most economical and effective methods for mitigating alkali-silica reaction (ASR) related distress in the concrete. However, fly ash has been proven to be somewhat variable in its effectiveness in inhibiting alkali-silica reactivity, principally because its composition depends on the coal properties from which it is derived. Typically class C fly ashes are not as efficient as class F ashes due to their higher calcium oxide content. Nevertheless, it is important to find out whether the lime content in the fly as",
+   "refs": 21,
+   "citedby": 3
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/s0008-8846(01)00491-4": {
+  "topic": "scm-limestone",
+  "doi": "10.1016/s0008-8846(01)00491-4",
+  "crossref": {
+   "title": [
+    "Studies on the carboaluminate formation in limestone filler-blended cements"
+   ],
+   "authors": [
+    "V.L Bonavetti",
+    "V.F Rahhal",
+    "E.F Irassar"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2001,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "31",
+   "page": "853-859",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 21,
+   "citedby": 536
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884601004914",
+  "http": 200
+ },
+ "10.1016/0008-8846(77)90073-4": {
+  "topic": "scm-limestone",
+  "doi": "10.1016/0008-8846(77)90073-4",
+  "crossref": {
+   "title": [
+    "The effect of fillers on strength of cement mortars"
+   ],
+   "authors": [
+    "I. Soroka",
+    "N. Setter"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1977,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "7",
+   "page": "449-456",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 8,
+   "citedby": 186
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884677900734",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2018.06.075": {
+  "topic": "scm-limestone",
+  "doi": "10.1016/j.conbuildmat.2018.06.075",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "A review on use of limestone powder in cement-based materials: Mechanism, hydration and microstructures"
+   ],
+   "authors": [
+    "Dehui Wang",
+    "Caijun Shi",
+    "Nima Farzadnia",
+    "Zhenguo Shi",
+    "Huangfei Jia",
+    "Zhihua Ou"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2018,
+     8
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "181",
+   "page": "659-672",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://www.elsevier.com/open-access/userlicense/1.0/",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004"
+   ],
+   "abstract": "",
+   "refs": 79,
+   "citedby": 564
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S095006181831465X",
+  "http": 200
+ },
+ "10.1016/s0008-8846(02)00914-6": {
+  "topic": "scm-limestone",
+  "doi": "10.1016/s0008-8846(02)00914-6",
+  "crossref": {
+   "title": [
+    "Microstructural study of sulfate attack on ordinary and limestone Portland cements at ambient temperature"
+   ],
+   "authors": [
+    "E.F Irassar",
+    "V.L Bonavetti",
+    "M Gonz\u00e1lez"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2003,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "33",
+   "page": "31-41",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 49,
+   "citedby": 209
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884602009146",
+  "http": 200
+ },
+ "10.1126/sciadv.add1602": {
+  "topic": "scm-natural",
+  "doi": "10.1126/sciadv.add1602",
+  "crossref": {
+   "title": [
+    "Hot mixing: Mechanistic insights into the durability of ancient Roman concrete"
+   ],
+   "authors": [
+    "Linda M. Seymour",
+    "Janille Maragh",
+    "Paolo Sabatini",
+    "Michel Di Tommaso",
+    "James C. Weaver",
+    "Admir Masic"
+   ],
+   "publisher": "American Association for the Advancement of Science (AAAS)",
+   "container": [
+    "Science Advances"
+   ],
+   "issued": [
+    [
+     2023,
+     1,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": null,
+   "license": [],
+   "abstract": "<jats:p>Ancient Roman concretes have survived millennia, but mechanistic insights into their durability remain an enigma. Here, we use a multiscale correlative elemental and chemical mapping approach to investigating relict lime clasts, a ubiquitous and conspicuous mineral component associated with ancient Roman mortars. Together, these analyses provide new insights into mortar preparation methodologies and provide evidence that the Romans employed hot mixing, using quicklime in conjunction with, or instead of, slaked lime, to create an environment where high surface area aggregate-scale lime ",
+   "refs": 64,
+   "citedby": 142
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1002/gea.20295": {
+  "topic": "scm-natural",
+  "doi": "10.1002/gea.20295",
+  "crossref": {
+   "title": [
+    "Mid\u2010Pleistocene pozzolanic volcanic ash in ancient Roman concretes"
+   ],
+   "authors": [
+    "Marie Jackson",
+    "Daniel Deocampo",
+    "Fabrizio Marra",
+    "Barry Scheetz"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "Geoarchaeology"
+   ],
+   "issued": [
+    [
+     2009,
+     12,
+     17
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "25",
+   "page": "36-74",
+   "license": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The extraordinarily durable concretes of Imperial Age (27 B.C. through 3rd century A.D.) monument construction in Rome contain scoriaceous, highly potassic, altered volcanic ash from the Pozzolane Rosse ignimbrite, erupted at 456\u00b13ka from the Alban Hills volcano as pozzolanic mortar aggregate. Stratigraphic, micromorphological, and chemical investigations demonstrate that during the relatively warm, humid period preceding marine isotope stage 11, intensive hydrolytic pedogenesis produced dense illuvial clay coatings in the upper horizon of the ignimbrit",
+   "refs": 65,
+   "citedby": 88
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/j.cemconres.2008.02.005": {
+  "topic": "scm-natural",
+  "doi": "10.1016/j.cemconres.2008.02.005",
+  "crossref": {
+   "title": [
+    "Effects of the secondary minerals of the natural pozzolans on their pozzolanic activity"
+   ],
+   "authors": [
+    "G. Habert",
+    "N. Choupay",
+    "J.M. Montel",
+    "D. Guillaume",
+    "G. Escadeillas"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2008,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "38",
+   "page": "963-975",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 19,
+   "citedby": 116
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884608000446",
+  "http": 200
+ },
+ "10.3390/ma13102257": {
+  "topic": "binder-international",
+  "doi": "10.3390/ma13102257",
+  "crossref": {
+   "title": [
+    "Properties of Concrete Made with Low-Emission Cements CEM II/C-M and CEM VI"
+   ],
+   "authors": [
+    "Anna Kr\u00f3l",
+    "Zbigniew Giergiczny",
+    "Justyna Kuterasi\u0144ska-Warwas"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Materials"
+   ],
+   "issued": [
+    [
+     2020,
+     5,
+     14
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "13",
+   "page": "2257",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>The paper presents the composition and properties of low-emission ternary cements: Portland multicomponent cement CEM II/C-M and multicomponent cement CEM VI. In the ternary cements, Portland clinker was replaced at the levels of 40% and 55% with a mixture of the main components such as limestone (LL), granulated blast furnace slag (S) and siliceous fly ash (V). Portland multicomponent cements CEM II/C-M and CEM VI are low-emission binders with CO2 emissions ranging from 340 (CEM VI) kg to 453 (CEM II/C-M) kg per Mg of cement. The results obtained indicate the possibility of a wider us",
+   "refs": 43,
+   "citedby": 27
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.2172/820773": {
+  "topic": "concrete-architectural",
+  "doi": "10.2172/820773",
+  "crossref": {
+   "title": [
+    "Effects of composition and exposure on the solar reflectance of Portland cement concrete"
+   ],
+   "authors": [
+    "Ernest Orlando Lawrence Berkeley National Laboratory, Berkeley, CA (US)",
+    "Ronnen Levinson",
+    "USDOE Assistant Secretary for Energy Efficiency and Renewable Energy. Office of Building Technology, State and Community Programs",
+    "Environmental Protection Agency (US)",
+    "Hashem Akbari"
+   ],
+   "publisher": "Office of Scientific and Technical Information (OSTI)",
+   "container": [],
+   "issued": [
+    [
+     2001,
+     12,
+     21
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 14
+  },
+  "resolved": "https://www.osti.gov/biblio/820773",
+  "http": 200
+ },
+ "10.4233/uuid:987fafd0-cd76-4230-be0e-be8843cae08e": {
+  "topic": "concrete-architectural",
+  "doi": "10.4233/uuid:987fafd0-cd76-4230-be0e-be8843cae08e",
+  "crossrefErr": "HTTP Error 404: Not Found",
+  "openalex": {
+   "title": "Historic Concrete: From Concrete Repair to Concrete Conservation",
+   "authors": [
+    "Herdis A. Heinemann"
+   ],
+   "date": "2013-01-01",
+   "venue": "Research Repository (Delft University of Technology)",
+   "oa": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://resolver.tudelft.nl/uuid:987fafd0-cd76-4230-be0e-be8843cae08e",
+    "any_repository_has_fulltext": true
+   },
+   "type": "dissertation",
+   "license": null
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.conbuildmat.2017.01.098": {
+  "topic": "concrete-architectural",
+  "doi": "10.1016/j.conbuildmat.2017.01.098",
+  "crossref": {
+   "title": [
+    "Image analysis for detection of bugholes on concrete surface"
+   ],
+   "authors": [
+    "Baoju Liu",
+    "Tengyu Yang"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2017,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "137",
+   "page": "432-440",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 27,
+   "citedby": 80
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S095006181730140X",
+  "http": 200
+ },
+ "10.70909/aca.2026.sn3370": {
+  "topic": "current-2026",
+  "doi": "10.70909/aca.2026.sn3370",
+  "crossref": {
+   "title": [
+    "Blended Cement in Concrete: Technical Guidance and Proven Applications"
+   ],
+   "authors": [
+    "Michelle Wilson",
+    "Brian Killingsworth",
+    "Tom Binkowski",
+    "Joey Schneider"
+   ],
+   "publisher": "American Cement Association (ACA)",
+   "container": [],
+   "issued": [
+    [
+     2026,
+     11,
+     6
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "<jats:p>As blended cements become increasingly prevalent in U.S. construction, contractors must understand how these materials influence concrete performance and field practices. Drawing on insights shared by industry experts at the 2026 AGC Convention, this article provides practical guidance for successfully incorporating blended cements into construction projects. It examines common challenges related to setting times, strength development, admixture compatibility, and finishing operations while outlining strategies for material evaluation, testing, and field validation. Emphasizing the imp",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://login.microsoftonline.com:443/0292b32a-916b-4e12-95d1-e2c021139fbd/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&ear%5Fjwe%5Fcrypto=eyJhbGciOiJFQ0RILUVTIiwiZW5jIjoiQTI1NkdDTSIsImFwdiI6IkFBQUFDVVZoY2tOc2FXVnVkR2dBQUFCRlEwc3pNQUFBQU83OEFvV1RkMXVwQmRWa21tSHBYMTFqblk3QTVRUFR0ZHFxby9oKzBLWHYzNjlIRm53Z1BjNFRjbEEvampHanpoZUhqSndSaUVhM3NPNEgrdHVkQjNZQStNcEdKS3dxdVZiZnNDbjk3Vk9sOG5UYktKL3hIcy9VQ1EyRjJwdzBQZ0FBQUJpcUVidU5EM0RScDBFb1kxQUVUVU5KNnlUWGlnNG5zeFk9In0%3D&ear%5Fjwk=eyJhbGciOiJFQ0RILUVTIiwiY3J2IjoiUC0zODQiLCJ4IjoiQUFBQU1PNzhBb1dUZDF1cEJkVmttbUhwWDExam5ZN0E1UVBUdGRxcW8vaCswS1h2MzY5SEZud2dQYzRUY2xBL2pqR2p6Zz09IiwieSI6IkFBQUFNQmVIakp3UmlFYTNzTzRIK3R1ZEIzWUErTXBHSkt3cXVWYmZzQ245N1ZPbDhuVGJLSi94SHMvVUNRMkYycHcwUGc9PSIsImt0eSI6IkVDIn0%3D&spa%5Fclient%5Fid=08e18876%2D6177%2D487e%2Db8b5%2Dcf950c1e598c&client%5Finfo=1&response%5Ftype=code%20id%5Ftoken%20spa%5Frt&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=85CDDC7A6F742C38DA3AE292BB87715C05110F21AE458875%2D440FB09FC687FB0AF1AB59C91CA977C41A3E7483F9512B64FE8F87A65289217B&redirect%5Furi=https%3A%2F%2Fportlandcement%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0wJjMyPUFBTHlYQUFBQUJSSUpzM3pLRHRialRyR0ZNQ0VaQkdwdWFjTXVFRWhacG9uU1FaSm1Bd29OQkdDWWxlJTJCNE1IS2l3TVlzWkhGQlV6UTl0MUExd1pockUyU3pYSDVSdDZRYm5pQ3Q4Wkx6bUc2ZHdDWFpneEdyVlg4cTFyNlp6NkRLd2tLeE1HcGhkQkx4bnkyJTJCTHRYZEFxQlBxWUh1ajBFTHFkWW5ITklnS00yY0dqUHRYbVZvSkIyTU9jJTJCQm9yY0JyJTJGQmJ3aUVzZFNmOVBuNVJTWEFXMzROTkRsbGJkMjNaT1RNZGVWNlQyNUE2cGt2WmdFNElRSm10ekVvc0JoSUFVYVFwNVdENDBueTdGaG8xM1VpdlFSdFNKbHo5SGZrTU13JTJCeUFDQUVjZUNZSlpZJTJGUkpaVWN2U2E2QTRIZyUyRmNkc0N2WmlDV3hYcWNPZ1dsb29ybzVjWnZ3eWFuclZqUjhDdXlYRyUyQjdDb2ZmWmhnS1Buc2p3Q2VYUEZ0b0JjTkFEOHclM0Q&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=00274da2%2D80c2%2Df000%2Ddd1b%2D8b82473b572c",
+  "http": 200
+ },
+ "10.1002/cepa.70915": {
+  "topic": "current-2026",
+  "doi": "10.1002/cepa.70915",
+  "crossref": {
+   "title": [
+    "Standardization of new cements and concrete additions, of recycled concrete, and of performance\u2010based concrete in Switzerland"
+   ],
+   "authors": [
+    "Winnie Matthes",
+    "Yves Schiegg"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "ce/papers"
+   ],
+   "issued": [
+    [
+     2026,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": "976-985",
+   "license": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In Switzerland innovative cement and concrete concepts have a long tradition. In 1994, the SIA 162/4 recommendation \u201cRecycled concrete\u201d was published, which in 2010 was transferred into SIA 2030. It regulates the use of concrete rubble and mixed demolition waste as aggregate, primarily in concrete for building construction. In 2021, it was revised with the introduction of E\u2010modulus classes and the allowance of aggregates from treatment. The SIA 2049 \u201cRequirements for new cements\u201d from 2014 regulated low\u2010clinker cements with new consti",
+   "refs": 16,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.5281/zenodo.18080350": {
+  "topic": "current-2026",
+  "doi": "10.5281/zenodo.18080350",
+  "crossrefErr": "HTTP Error 404: Not Found",
+  "openalex": {
+   "title": "Blended Cement Concrete Database",
+   "authors": [
+    "Zhanzhao Li",
+    "Kengran Yang",
+    "Qiyao He",
+    "Kai Gong"
+   ],
+   "date": "2026-08-27",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "oa": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.18080350",
+    "any_repository_has_fulltext": true
+   },
+   "type": "dataset",
+   "license": "cc-by-nc"
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ }
+}

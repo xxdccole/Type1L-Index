@@ -1,0 +1,150 @@
+{
+ "10.14359/954": {
+  "topic": "binder-cac-csa",
+  "doi": "10.14359/954",
+  "crossref": {
+   "title": [
+    "\"Durability of Calcium Aluminate Cement Concrete: Assessment of Concrete From a 60-Year Old Marine Structure at Halifax, NS, Canada\""
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "\"SP-154: Advances in Concrete Technology - Proceeding Second CANMET/ ACI International Symposium - Las Vegas, Nevada, USA\""
+   ],
+   "issued": [
+    [
+     1995
+    ]
+   ],
+   "type": "proceedings-article",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://www.concrete.org/?tabid=155&error=An%20unexpected%20error%20has%20occurred&content=0",
+  "http": 200
+ },
+ "10.21236/ada021658": {
+  "topic": "binder-specialty",
+  "doi": "10.21236/ada021658",
+  "crossref": {
+   "title": [
+    "Cold Weather Construction Materials Part 1. Regulated-Set Cement for Cold Weather Concreting"
+   ],
+   "authors": [
+    "B. J. Houston",
+    "G. C. Hoff"
+   ],
+   "publisher": "Defense Technical Information Center",
+   "container": [],
+   "issued": [
+    [
+     1975,
+     12,
+     1
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.14359/1827": {
+  "topic": "binder-activated",
+  "doi": "10.14359/1827",
+  "crossref": {
+   "title": [
+    "Durability of Concrete Made With Alkali-Activated Slag"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "\"SP-114: Fly Ash, Silica Fume, Slag, and Natural Pozzolans in Concrete: Proceedings of the Third International Conference\""
+   ],
+   "issued": [
+    [
+     1989
+    ]
+   ],
+   "type": "proceedings-article",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 2
+  },
+  "resolved": "https://www.concrete.org/?tabid=155&error=An%20unexpected%20error%20has%20occurred&content=0",
+  "http": 200
+ },
+ "10.1016/0008-8846(93)90053-c": {
+  "topic": "binder-well",
+  "doi": "10.1016/0008-8846(93)90053-c",
+  "crossref": {
+   "title": [
+    "Use of ferrophosphorus as a heavyweight additive for API oil well cements"
+   ],
+   "authors": [
+    "John Bensted"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1993,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "23",
+   "page": "988-990",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 11,
+   "citedby": 1
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/000888469390053C",
+  "http": 200
+ },
+ "10.6028/nist.ir.4785": {
+  "topic": "binder-portland",
+  "doi": "10.6028/nist.ir.4785",
+  "crossref": {
+   "title": [
+    "X-ray powder diffraction analysis of three portland cement reference\n                        material clinkers"
+   ],
+   "authors": [
+    "Paul E Stutzman"
+   ],
+   "publisher": "National Institute of Standards and Technology",
+   "container": [],
+   "issued": [
+    [
+     1992
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4785.pdf",
+  "http": 200
+ }
+}

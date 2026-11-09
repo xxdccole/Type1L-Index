@@ -1,0 +1,894 @@
+{
+ "10.1016/j.pnucene.2014.11.009": {
+  "openalex": "https://openalex.org/W4253597360",
+  "abstract": "Primary and secondary containment structures are the major components of the nuclear power plant (NPP). The performance requirements of the concrete of containment structures are mainly radiological protection, structural integrity and durability, etc. For this purpose, high-performance heavy density concrete with special attributes can be used. The aggregate of concrete plays an essential role in modifying concrete properties and the physico-mechanical properties of the concrete affect significantly on its shielding properties. After extensive trials and errors, 15 concrete mixes were prepared by using the coarse aggregates of barite, magnetite, goethite and serpentine along with addition of 10% silica fume (SF), 20% fly ash (FA) and 30% ground granulated blast-furnace slag (GGBFS) to the total content of OPC for each mix. To achieve the high-performance concrete (HPC- grade M60), All concrete mixes had a constant water/cement ratio of 0.35, cement content of 450 kg/m3 and sand-to-total aggregate ratio of 40%. Concrete density has been measured in the case of fresh and hardened. The hardened concrete mixes were tested for compressive strength at 7, 28 and 90 days. In some concrete mixes, compressive strength was also tested up to 90 days upon replacing sand with the fine portions of magnetite, barite and goethite. The attenuation measurements were performed by using gamma spectrometer of NaI (Tl) scintillation detector. The utilized radiation sources comprised 137Cs and 60Co radioactive elements with photon energies of 0.662 MeV for 137Cs and two energy levels of 1.173 and 1.333 MeV for 60Co. Some shielding factors were measured such as half-value layer (HVL), tenth-value layer (TVL) and linear attenuation coefficients (\u03bc). Experimental results revealed that, the concrete mixes containing magnetite coarse aggregate along with 10% SF reaches the highest compressive strength values exceeding over the M60 requirement by 14% after 28 days of curing. Whereas, the compressive strength of concrete containing barite aggregate was very close to M60 and exceeds upon continuing for 90 days. The results indicated also that, the compressive strength of the high-performance heavy density concrete incorporating magnetite as fine aggregate was significantly higher than that containing sand by 23%. Also, concrete made with magnetite fine aggregate improved the physico-mechanical properties than the corresponding concrete containing barite and goethite. Therefore, high-performance concrete incorporating magnetite as fine aggregate enhances the shielding efficiency against \u03b3-rays.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S0149197014002960/pdf",
+   "any_repository_has_fulltext": false
+  },
+  "license": "cc-by-nc-nd",
+  "lang": "en",
+  "authors": [
+   "Ahmed S. Ouda"
+  ],
+  "date": "2014-11-28",
+  "refs": 16,
+  "cited": 298
+ },
+ "10.1016/j.jobe.2024.110800": {
+  "openalex": "https://openalex.org/W4402666000",
+  "abstract": "The efficiency of radiation shielding is crucial across industries having radioactive activities, from medical facilities to nuclear power stations. Radiation-Shielding Concrete (RSC) emerges as the preferred material for its cost-effectiveness, robust mechanical performance, ease of production, and excellent radiation attenuation properties against ionizing radiations such as gamma rays, X-rays, and neutrons. This comprehensive review delves into the evolution of SCI indexed research on concrete materials for radiation protection, focusing primarily on studies published in the last decade. It meticulously analyze the latest literature to understand how RSC materials enhance radiation attenuation. The review provides valuable insights into the influence of irradiation on both macro- and micro-properties, enriching the knowledge base for material efficiency and effectiveness concerning different types of radiation and shielding requirements. Additionally, this review with a set of recommendations for future research to advance progress in modern construction, encouraging further examination and innovation in the selection of RSC materials. \u2022 The effectiveness of various materials in Radiation-Shielding Concrete (RSC) production has been identified and analysed. \u2022 The impact of irradiation on the micro and macro properties of concrete has been thoroughly explored. \u2022 The mechanisms of interaction between irradiation and cement hydrates, along with their multi-scale effects, have been reviewed. \u2022 The influence of irradiation in inducing Alkali-Silica Reaction (ASR) has been explored. \u2022 The key future research needs for enhancing RSC have been identified.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://doi.org/10.1016/j.jobe.2024.110800",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Ali M. Onaizi",
+   "Mugahed Amran",
+   "Waiching Tang",
+   "Nour Betoush",
+   "Mohammad A. Alhassan",
+   "Raizal S.M. Rashid",
+   "Mohammad Ahmad Fares Yasin",
+   "Khaled H. Bayagoob",
+   "Sagheer A. Onaizi"
+  ],
+  "date": "2024-09-20",
+  "refs": 231,
+  "cited": 132
+ },
+ "10.1016/j.conbuildmat.2020.122238": {
+  "openalex": "https://openalex.org/W3126510805",
+  "abstract": "The purpose of this research is to present a complex method for the evaluation of the shielding efficiency of concretes and mortars used in biological shields against ionizing radiation, especially against neutrons. Since the commonly used fast neutron effective removal cross-section calculation does not take into account thermal neutron absorption reactions, an original method adopted from the fast neutron effective removal cross-section calculation based on the macroscopic cross-section calculation for compositions is therefore proposed. This method was used to compare the shielding efficiency of concretes and mortars previously investigated by researchers in the literature. It was used also to prove the efficiency of material modification by polymers, gadolinium and boron compounds, which significantly improves thermal neutron absorption. The proposed complex neutron shielding evaluation method will be very useful in the design of tailored shielding concrete in the future.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S0950061820342410/pdf",
+   "any_repository_has_fulltext": false
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Tomasz Piotrowski"
+  ],
+  "date": "2021-02-03",
+  "refs": 44,
+  "cited": 119
+ },
+ "10.6028/jres.012.057": {
+  "openalex": "https://openalex.org/W2319457062",
+  "abstract": "When water is added to portland cement, heat is liberated, the rate and amount being a function of the composition of the cement.The heats of complete hydration have been determined of the four major compounds of portland cement, 3CaO.Si02, 2CaO.Si02, 3CaO.Al 2 3 , and 4CaO.Al 2 3 .Fe 2 3 .By the use of these values, and determinations of the heat of hydration which has occurred at any age, the percentage of the total available heat that has been liberated at that age may be computed.Two methods are described for use in obtaining the heats of hydration; one for ages up to 48 hours and the other for any age of paste greater than 1 day.CONTENTS Page I. Introduction .645 II.Preparation of the cements 646 III.Apparatus and experimental procedure 647 1. Apparatus and procedure for heats of solution 647 2. Apparatus and procedure for direct hydration 649 IV.Heat evolved on complete hydration 650 V.The rate of heat evolution at early ages by the direct hydration method 653 VI.The rate of heat evolution by the heat of solution method 658 VII.Effect of surface area on rate of heat evolution 660 VIII.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://doi.org/10.6028/jres.012.057",
+   "any_repository_has_fulltext": true
+  },
+  "license": "public-domain",
+  "lang": "en",
+  "authors": [
+   "William Lerch",
+   "R. H. Bogue"
+  ],
+  "date": "1934-05-01",
+  "refs": 0,
+  "cited": 61
+ },
+ "10.6028/jres.027.007": {
+  "openalex": "https://openalex.org/W2331452872",
+  "abstract": "Isometric 3CaO.AhOa.6H20, a constituent of set portland cement, is readily converted by sodium sulfate solutions to 3CaO.AI20 a.3CaS04.31.5H20.Partial replacement of the Al20 a in 3CaO.AI20 3 .6H20by Fe20a or of the H20 by Si02 gives \"hydrogarnets\" which are stable in the presence of sulfate solutions.Such substitutions may be brought about by inducing reactions between tricalcium aluminate hydrate and silica from various sources in the set cement or from added puzzolanic materials, and by increasing the content of glass and tetracalcium aluminofel'rite in the cement.Products having an X-ray structure nearly identical with that of grossularite garnet r esult when properly proportioned mixtures, made up of the puzzolanic material, dehydrated kaolin, with tricalcium silicate, or with lime and beta dicalcium silicate, are steamed at 500 0 C and 420 atmospheres.CONTENTS Pap IV.Effect of hydrothermal reactions of cement compounds with burntclay puzzolana on the sulfate resistance of cements_ _ _ _ _ _",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://doi.org/10.6028/jres.027.007",
+   "any_repository_has_fulltext": true
+  },
+  "license": "public-domain",
+  "lang": "en",
+  "authors": [
+   "E.P. Flint",
+   "Lansing S. Wells"
+  ],
+  "date": "1941-08-01",
+  "refs": 2,
+  "cited": 18
+ },
+ "10.1680/adcr.1989.2.6.73": {
+  "openalex": "https://openalex.org/W1977269944",
+  "abstract": "The Bogue calculation gives low results for alite and inaccurate ones for the other phases in Portland cement clinkers, largely because the compositions of the phases differ markedly from those of the unsubstituted compounds which it assumes to be present. For a wide range of rapidly cooled clinkers produced in modern plants, the compositions of the phases are sufficiently constant to justify the use, with minor modifications, of average values based on X-ray microanalyses, instead of those of the unsubstituted compounds. On this basis, a procedure is described which, like the Bogue calculation, is essentially a solution of four linear simultaneous equations. A method for estimating the contents of sulphate components from the bulk composition is also described. These procedures together yield a mass balance table showing how the oxide components, both major and minor, are distributed among the major and minor phases. Limitations, modifications, extensions to special types of Portland cement and a test of the procedure for the major phases are described.",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "H. F. W. Taylor"
+  ],
+  "date": "1989-04-01",
+  "refs": 0,
+  "cited": 178
+ },
+ "10.2138/gselements.18.5.308": {
+  "openalex": "https://openalex.org/W4319157256",
+  "abstract": "This chapter tells the story of Portland cement, from its invention in the 19th century until its present-day hegemony as the number one manufactured mineral product. The success story of Portland cement is rooted in the unique combination of the abundance of its raw materials, the reactivity of the high-temperature clinker product toward water, and the properties of the calcium silicate and aluminate hydration products. Further development of Portland cements today mainly addresses the formidable challenge of reducing process CO2 emissions. Options include partial replacement of clinker by low-carbon resources, material-efficient use of cement and concrete products, and end-of-pipe carbon capture and storage or use.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://lirias.kuleuven.be/retrieve/4a5a1646-1936-4dbb-a012-97a8aa30b161",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Karen Louise Scrivener",
+   "Ruben Snellings"
+  ],
+  "date": "2022-10-01",
+  "refs": 26,
+  "cited": 25
+ },
+ "10.6028/nbs.mono.36": {
+  "openalex": "https://openalex.org/W637481069",
+  "abstract": "The physical properties of mortars, the bond strength of the mortars to masonry units, and the structural strength of concrete masonry and composite masonry walls containing the mortars are discussed and compared.All of the mortars were tempered to as wet a consistency as could be conveniently handled by the mason.The compressive strength of the walls increased, in general, with the compressive strength of the mortar.The racking and flexural strengths of the walls increased with the bond strength of the mortar.The strength of bond test specimens tended to increase with the compressive strength of the wet consistency mortars that were used.However, bond strength appeared to be the dominant factor affecting the racking and flexural strength of the walls.Increase in both bond strength and wall strength with compressive strength of the mortar was not proportional to the relative compressive strengths of the type N and type S mortars.The stiffness of walls subjected to compressive and flexural loads increased with the bond and compressive strength of the mortars.However, the stiffness of walls subjected to flexural loads appeared to be more dependent upon the number of bed joints in the tensile face and on their extension in bond than upon the bending strains in the masonry materials.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://doi.org/10.6028/nbs.mono.36",
+   "any_repository_has_fulltext": null
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Cyrus C Fishburn"
+  ],
+  "date": "1961-01-01",
+  "refs": 0,
+  "cited": 21
+ },
+ "10.1061/(asce)1084-0680(2004)9:2(62)": {
+  "openalex": "https://openalex.org/W2120936369",
+  "abstract": "Repair mortars are needed for replacing mortar in damaged or severely weathered masonry mortar joints (repointing), for reconstruction of deteriorated masonry, and for renewal of rendering. The main components in a mortar mix are sand, binder and water. Additional materials may be added to modify the properties or appearance of the mortar. The intention of this article is to raise awareness of issues involved in the choice of mortars for the repair of mortar joints in traditional masonry (usually with thicker walls and weaker mortars than modern construction) by providing a brief overview of mortar binders, performance requirements, and mortar mix types. Work is ongoing to assess performance requirements and how to achieve them.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://nrc-publications.canada.ca/eng/view/accepted/?id=b8b4585f-d23d-4bcf-865a-82eccfb7313b",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "A. H. P. Maurenbrecher"
+  ],
+  "date": "2004-04-19",
+  "refs": 9,
+  "cited": 35
+ },
+ "10.1155/2016/1259094": {
+  "openalex": "https://openalex.org/W2400592313",
+  "abstract": "The paper deals with a formation of artificial rock (clinker). Temperature plays the capital role in the manufacturing process. So, it is useful to analyze a poor clinker to identify the different phases and defects associated with their crystallization. X-ray fluorescence spectroscopy was used to determine the clinker's chemical composition. The amounts of the mineralogical phases are measured by quantitative XRD analysis (Rietveld). Scanning electron microscopy (SEM) was used to characterize the main phases of white Portland cement clinker and the defects associated with the formation of clinker mineral elements. The results of a study which focused on the identification of white clinker minerals and defects detected in these noncomplying clinkers such as fluctuation of the amount of the main phases (alite (C3S) and belite (C2S)), excess of the free lime, occurrence of C3S polymorphs, and occurrence of moderately-crystallized structures are presented in this paper.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://downloads.hindawi.com/journals/ijac/2016/1259094.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Mohamed Benmohamed",
+   "Rabah Alouani",
+   "Amel Jmayai",
+   "Abdesslem Ben Haj Amara",
+   "Hafsia Ben Rhaiem"
+  ],
+  "date": "2016-01-01",
+  "refs": 24,
+  "cited": 31
+ },
+ "10.1016/s0958-9465(96)00046-7": {
+  "openalex": "https://openalex.org/W2089246263",
+  "abstract": "This paper presents a rhetorical discussion on the subject of fiber-reinforced concrete, FRC. It is intended as an overview of the types of commercially available FRCs and how they work. It discusses commonly applied terminology and models of mechanical behavior that form a basis for understanding material performance without presenting mathematical details. Historical review is intended to help build a background for what is currently understood about FRC rather than as historical reporting. References from both early and contemporary authors are included as a means of tying the subject together along a time line.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S0958946596000467/pdf",
+   "any_repository_has_fulltext": false
+  },
+  "license": "cc-by-nc-nd",
+  "lang": "en",
+  "authors": [
+   "Ronald F. Zollo"
+  ],
+  "date": "1997-01-01",
+  "refs": 24,
+  "cited": 825
+ },
+ "10.3390/fib6030047": {
+  "openalex": "https://openalex.org/W2882210176",
+  "abstract": "Fiber addition has become one of the most prevalent methods for enhancing the tensile behavior of concrete. Fibers reduce cracking phenomena and improve the energy absorption capacity of the structure. On the other hand, the introduction of fibers can introduce a negative impact on concrete workability, whose loss is influenced by different parameters (among which are fiber content and fiber type). In this context, an exploratory study on the influence of steel (high stiffness) and macro-synthetic (low stiffness) fibers on the fresh properties of concrete was carried out, considering workability and air content, as well as resultant mechanical performance. Four fiber types at two volume fractions (0.5% and 1.0%) were studied in two base concretes with different water-to-cement ratios (0.45 and 0.50) by using the slump test, DIN flow table test and air content meter. An additional parameter for the DIN flow table test is proposed herein to quantify the potential preferential flow direction caused by fiber orientation and entanglement. Air meter results showed that the fibers caused only a slight increase in concrete air content; this agreed well with the results of mechanical testing, which showed no apparent effect on measured compressive strength. In addition, it was captured that, for a given fiber volume fraction, steel fibers more adversely affected Fiber Reinforced Concrete (FRC) workability as compared to polypropylene ones, while the opposite result was obtained considering FRC toughness.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.mdpi.com/2079-6439/6/3/47/pdf?version=1531906520",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Veronica Guerini",
+   "Antonio Conforti",
+   "Giovanni Plizzari",
+   "Shiho Kawashima"
+  ],
+  "date": "2018-07-11",
+  "refs": 37,
+  "cited": 143
+ },
+ "10.3390/ma15155111": {
+  "openalex": "https://openalex.org/W4287093314",
+  "abstract": "Prior studies in the literature show promising results regarding the improvements in strength and durability of concrete upon incorporation of glass fibers into concrete formulations. However, the knowledge regarding glass fiber usage in concrete is scattered. Moreover, this makes it challenging to understand the behavior of glass fiber-reinforced concrete. Therefore, a detailed review is required on glass fiber-reinforced concrete. This paper provides a compressive analysis of glass fiber-reinforced composites. All-important properties of concrete such as flowability, compressive, flexural, tensile strength and modulus of elasticity were presented in this review article. Furthermore, durability aspects such as chloride ion penetration, water absorption, ultrasonic pulse velocity (UPV) and acid resistance were also considered. Finally, the bond strength of the fiber and cement paste was examined via scanning electron microscopy. Results indicate that glass fibers improved concrete's strength and durability but decreased the concrete's flowability. Higher glass fiber doses slightly decreased the mechanical performance of concrete due to lack of workability. The typical optimum dose is recommended at 2.0%. However, a higher dose of plasticizer was recommended for a higher dose of glass fiber (beyond 2.0%). The review also identifies research gaps that should be addressed in future studies.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.mdpi.com/1996-1944/15/15/5111/pdf?version=1659488302",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Jawad Ahmad",
+   "Roberto Alonso Gonz\u00e1lez\u2010Lezcano",
+   "Ali Majdi",
+   "Nabil Ben Kahla",
+   "Ahmed Farouk Deifalla",
+   "M.A. El\u2010Shorbagy"
+  ],
+  "date": "2022-07-22",
+  "refs": 91,
+  "cited": 200
+ },
+ "10.3141/1893-06": {
+  "openalex": "https://openalex.org/W1970586740",
+  "abstract": "Roller-compacted concrete (RCC) pavements are durable and can be built rapidly and economically. In previous research, the gyratory compactor has proved to be a reliable instrument and overcome the drawbacks of other methods used to mold laboratory and field samples. Work is under way by different organizations in Canada, Japan, and the United States to improve mix design procedures for RCC. One procedure widely used for RCC pavements was developed by the U.S. Army Corps of Engineers. This research investigated improving mixture proportioning of RCC by using a gyratory compactor. Previous research suggested that the gyratory compactor could be used effectively to produce RCC test samples for both compressive and splitting tensile strength. An RCC mix design procedure using the gyratory compactor can benefit many transportation agencies because it provides a reliable way to evaluate the strength and density of RCC mix designs. Results for several RCC mixtures compacted to different densities are presented, along with comparisons with modified Proctor test results. Using the gyratory compactor to design better RCC mixtures might lower the costs and improve the reliability of RCC pavements.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://engagedscholarship.csuohio.edu/encee_facpub/44",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Nader Amer",
+   "Chris Storey",
+   "Norbert Delatte"
+  ],
+  "date": "2004-01-01",
+  "refs": 3,
+  "cited": 30
+ },
+ "10.1016/j.cscm.2017.03.004": {
+  "openalex": "https://openalex.org/W2598029218",
+  "abstract": "Concrete pavement is cost effective and beneficial because of its sustainability and durability. The maintenance and renovation periods for such pavement compared to other pavements are relatively long; however, a significant issue with pavements, especially roller compacted concrete pavements (RCCP), is salt scaling which occurs due to saline solutions such as deicer salts. In the present work, the performance of RCC containing a natural pozzolan called Trass, as a supplementary cementitious material, and an air-entraining agent for salt scaling was investigated. Mechanical and durability tests were performed on specimens containing a water to binder ratio of 0.32, with and without Trass, and an air-entraining agent. It was concluded that, Trass could not improve the compressive and tensile strengths, however, the permeability was improved. Moreover, the amount of mass loss due to salt scaling was not decreased. In all concrete mixtures, using a suitable amount of an air-entraining agent to maintain a total air content of 4.5\u20135% was found to be necessary for producing RCC containing Trass.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S221450951630047X/pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by-nc-nd",
+  "lang": "en",
+  "authors": [
+   "SeyedAli Ghahari",
+   "A. Mohammadi",
+   "A.A. Ramezanianpour"
+  ],
+  "date": "2017-03-20",
+  "refs": 23,
+  "cited": 73
+ },
+ "10.2172/4328261": {
+  "openalex": "https://openalex.org/W1580595302",
+  "abstract": "The development, properties, and uses of polymer-impregnated concrete, polymer-concrete, and polymer-cement concrete are summarized. (TFD)",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://www.osti.gov/servlets/purl/4328261",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Brookhaven National Lab., Upton, N. Y. Kernforschungsanlage, Juelich (West Germany). Institut fuer Festkoerperforschung",
+   "G W DePuy",
+   "Bureau of Reclamation, Denver, Colo. (USA)",
+   "L. Kukacka"
+  ],
+  "date": "1973-12-01",
+  "refs": 0,
+  "cited": 19
+ },
+ "10.1007/bf02481825": {
+  "openalex": "https://openalex.org/W1995084058",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "C. Vipulanandan",
+   "N. Dharmarajan",
+   "Emma C. Y. Ching"
+  ],
+  "date": "1988-07-01",
+  "refs": 20,
+  "cited": 63
+ },
+ "10.3390/app10031061": {
+  "openalex": "https://openalex.org/W3005365593",
+  "abstract": "This is an experimental study showing the effect of four types of polymers (acrylate polymer (AC), polyvinyl alcohol (PVA), styrene\u2013butadiene rubber (SBR), and ethylene-vinyl acetate (EVA)) on the mechanical properties of polymer-modified cement mortars (PCMs). One polymer dosage was used in this study (3%), and the effect of this dosage on PCMs was compared with a control mortar mix with 0% polymer. The compressive, flexural, and pull-off bond strengths were measured and compared with previous results in works of literature. The effect of polymer addition on improving the mechanical properties of PCMs was clarified, and this effect was more obvious on the flexural strength than that on the compressive strength. The PCMs containing EVA showed the best performance, with up to 33% and 63% increases in compressive and flexural strengths after 28 days, respectively. In comparison, AC, PVA, and SBR produced smaller (16%\u201346% compared to control) improvements in the flexural strength after 28 days. In general, PCMs containing EVA showed the best mechanical properties.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.mdpi.com/2076-3417/10/3/1061/pdf?version=1581504735",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Min Ook Kim"
+  ],
+  "date": "2020-02-05",
+  "refs": 29,
+  "cited": 53
+ },
+ "10.3151/jact.1.5": {
+  "openalex": "https://openalex.org/W2082682529",
+  "abstract": "Self-compacting concrete was first developed in 1988 to achieve durable concrete structures. Since then, various investigations have been carried out and this type of concrete has been used in practical structures in Japan, mainly by large construction companies. Investigations for establishing a rational mix-design method and self-compactability testing methods have been carried out from the viewpoint of making self-compacting concrete a standard concrete.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "bronze",
+   "oa_url": "https://www.jstage.jst.go.jp/article/jact/1/1/1_1_5/_pdf",
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Hajime Okamura",
+   "Masahiro Ouchi"
+  ],
+  "date": "2003-01-01",
+  "refs": 8,
+  "cited": 1991
+ },
+ "10.1680/stco.2000.1.1.3": {
+  "openalex": "https://openalex.org/W1605157920",
+  "abstract": "Self-compacting concrete was first developed 1988 in order to achieve durable concrete structures. Since then, various investigations have been carried out, and the concrete has been used in practical structures in Japan, mainly by large construction companies. Investigations for establishing a rational mix design method and self-compactability testing methods have been carried out from the viewpoint of making it a standard concrete. In addition to Japan, investigations have been started in many countries, and it has been applied to practical structures especially in Canada, Sweden, The Netherlands, Thailand and Taiwan. Recommendations and manuals for self-compacting concrete have also been published in Japan. In this article, the current condition of self-compacting concrete is summarized based on reports given at the International Workshop on Self-compacting Concrete, Kochi, Japan, in 1998.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=165&item_no=1&attribute_id=20&file_no=1",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "H. Okamura",
+   "K Ozawa",
+   "Masahiro Ouchi"
+  ],
+  "date": "2000-03-01",
+  "refs": 9,
+  "cited": 345
+ },
+ "10.15781/t2pg2v": {
+  "openalex": "https://openalex.org/W1905017874",
+  "abstract": "Self-consolidating concrete (SCC) is an advanced type of concrete that can flow through intricate geometrical configurations under its own mass without vibration or segregation. A research project was conducted to investigate the role of aggregates in SCC. Although SCC can be proportioned with a wide range of aggregates, the selection of favorable aggregate characteristics can significantly enhance the economy and performance of SCC. The objectives of the research project were to evaluate the effects of specific aggregate characteristics and mixture proportions on the workability and hardened properties of SCC, to identify favorable aggregate characteristics for SCC, and to develop guidelines for proportioning SCC with any set of aggregates. The effects of aggregate grading; maximum size; shape, angularity, and texture; clay content; and packing density were evaluated. Separately, the effects of mixture proportions, cementitious materials, and chemical admixtures were evaluated. In total, 12 fine aggregates, 7 coarse aggregates, and 6 microfines were tested. Tests were conducted on paste, mortar, and concrete. Paste measurements were conducted to evaluate the effects of cement, fly ash, microfines, high-range water-reducing admixture (HRWRA), and viscosity modifying admixture (VMA) on rheological properties. Mortar measurements were conducted to evaluate the effects of fine aggregates, microfines, and mixture proportions on workability and hardened properties. Concrete measurements were conducted to evaluate the effects of fine aggregates, coarse aggregates, microfines, and mixture proportions on workability and hardened properties. Target properties for SCC workability were defined as a function of the application and in terms of filling ability, passing ability, segregation resistance, and rheology. Seven workability test methods were evaluated extensively to provide sound, engineering justifications for their use and for the interpretation of their results. Specific tests for filling ability, passing ability, and segregation resistance were recommended. Based on the results of this research and well-established principles from the literature, a mixture proportioning procedure for SCC was developed.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/2152/35363",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Fowler, David W."
+  ],
+  "date": "2016-01-01",
+  "refs": 0,
+  "cited": 66
+ },
+ "10.15554/pcij.11012005.72.87": {
+  "openalex": "https://openalex.org/W2067827042",
+  "abstract": "Self-consolidating concrete (SCC) is becoming increasingly popular in the precast/prestressed concrete industry in the United States. However, there have been concerns regarding the bond strength, transfer length, and development length of prestressing strands and mild steel reinforcement with SCC. Further, there are no design guidelines for using SCC. In this study, a literature survey on the bond strength of SCC was conducted. Moustafa pullout tests were performed to determine the bond strength of 0.6 in. (15.2 mm) pretensioning strands with sec. The transfer lengths of three pretensioned concrete bridge girders were measured using Demec points. Pullout tests were also performed on 41 specimens using No. 4, No. 6, and No. 8 mild steel reinforcing bars and 0.6 in. prestressing strands. All the tests were performed using specimens cast with both SCC and conventional concrete. Test data have shown that the bond strength of sec with deformed reinforcing bars is adequate. However, the use of viscosity-modifying admixtures in sec may adversely affect its early compressive strength and its bond strength with pretensioning strands.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://digitalcommons.unomaha.edu/context/civilengfacpub/article/1001/viewcontent/Bond_Strength_and_Transfer.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Amgad F. Morgan Girgis",
+   "Christopher Y. Tuan"
+  ],
+  "date": "2005-11-01",
+  "refs": 9,
+  "cited": 30
+ },
+ "10.1016/j.cscm.2021.e00642": {
+  "openalex": "https://openalex.org/W3185053366",
+  "abstract": "Self-Compacting Concrete (SCC) is a flowable concrete that exerts high pressure on formwork. SCC is the most commonly used concrete worldwide for construction applications due to its cost-effectiveness. The high flow of SCC reduces both the number of workers and the casting time required. It also eliminates vibration and removes noise pollution. This study is a review of previous investigations into the pressure exerted by fresh-state SCC on formwork. The paper discussed various factors that affect lateral pressure on formwork. These factors are included theoretical predictions, the effect of temperature, casting rate, rheology, types of pressure sensors, geometry and workability. Considering these various factors, the paper discussed major factors related to lateral pressure of SCC at early ages. However, internal temperature measurement of concrete effects at fresh state appears to be an important factor.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214509521001571/pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by-nc-nd",
+  "lang": "en",
+  "authors": [
+   "Nadarajah Gowripalan",
+   "Pshtiwan Shakor",
+   "Paul Rocker"
+  ],
+  "date": "2021-07-28",
+  "refs": 113,
+  "cited": 45
+ },
+ "10.1016/j.serj.2017.09.001": {
+  "openalex": "https://openalex.org/W2759759944",
+  "abstract": "The present study evaluates the application of class F fly ash as a partial replacement of binder in concrete. The compressive strength of the fly ash samples showed low early compressive strength comparing to the control samples. However, due to pozzolanic reaction strength was improved gradually over a longer period of time, whereas control samples stopped the strength growth after 56-d of curing. The drying shrinkage was reduced with the increment of fly ash content in the mix. The inclusion of fly ash as a binder reduced the porosity of the concrete. As a result, the fly ash concrete exhibited lower water sorptivity and chloride permeability. Furthermore, a significant drop of sorptivity and chloride permeability was observed for fly ash concrete between the curing period of 28\u2013180 days. Microstructural morphology of fly ash samples was investigated to evaluate the reason behind the improved durability characteristics.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S2468203917301334/pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by-nc-nd",
+  "lang": "en",
+  "authors": [
+   "Ashish Kumer Saha"
+  ],
+  "date": "2017-09-22",
+  "refs": 30,
+  "cited": 390
+ },
+ "10.1061/(asce)mt.1943-5533.0000564": {
+  "openalex": "https://openalex.org/W2154741986",
+  "abstract": "Chemical compositions of approximately 5,500 fly ash samples from 36 power plants inside and outside Texas, compiled by the Texas Department of Transportation (TxDOT) over 18 years, were statistically analyzed in this study. The variations of oxide contents and their correlations were calculated and compared. Oxide contents of Class F fly ashes were found to be more variable than Class C fly ashes. In general, CaO and MgO contents were higher in Class C fly ashes than in Class F fly ashes, whereas the latter had higher SiO2 content. Other oxide contents of the two classes of fly ashes were comparable. Then, to demonstrate the potential beneficial use of chemical composition information of fly ash, an alkali-silica reaction (ASR) durability index was proposed to predict the comparative performance of fly ash in mitigating ASR in concrete. The index value was calculated using SiO2, Fe2O3, Al2O3, CaO, and equivalent alkali contents. Previously published research on the use of fly ash in mitigating ASR, using standardized tests, was utilized to validate the proposed index. The index was found capable of differentiating fly ashes in the same class. To verify the usefulness of the ASR durability index, tests were carried out in this study using an ASR reactive sand, two portland cements, four Class C fly ashes, and one Class F fly ash. The results were quite promising, and the use of the fly ash ASR durability index is proposed to screen fly ash for laboratory testing and construction.",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Lianxiang Du",
+   "Elizabeth Lukefahr",
+   "Andy Naranjo"
+  ],
+  "date": "2012-04-25",
+  "refs": 19,
+  "cited": 13
+ },
+ "10.1155/2016/7871206": {
+  "openalex": "https://openalex.org/W2527576010",
+  "abstract": "Use of fly ash by percent replacement of cement is considered as one of the most economical and effective methods for mitigating alkali-silica reaction (ASR) related distress in the concrete. However, fly ash has been proven to be somewhat variable in its effectiveness in inhibiting alkali-silica reactivity, principally because its composition depends on the coal properties from which it is derived. Typically class C fly ashes are not as efficient as class F ashes due to their higher calcium oxide content. Nevertheless, it is important to find out whether the lime content in the fly ash has linear effect on ASR distress mitigation and if the dosage of fly ash is more influential than type of fly ash. This research conducted extensive testing with nine different types of fly ashes with three in each category of fly ashes, class C, class F, and intermediate class. The results indicated that the effect of increased dosage of fly ash on ASR mitigation is linear for both low-lime and high-lime fly ashes and the dosage effect is more significant with rapid effect with high-lime fly ashes compared to low-lime fly ashes.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "http://downloads.hindawi.com/archive/2016/7871206.pdf",
+   "any_repository_has_fulltext": false
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Enamur Rahim Latifee"
+  ],
+  "date": "2016-09-27",
+  "refs": 16,
+  "cited": 14
+ },
+ "10.1016/s0008-8846(01)00491-4": {
+  "openalex": "https://openalex.org/W2108525357",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Viviana L. Bonavetti",
+   "Viviana F\u00e1tima Rahhal",
+   "Edgardo F. Irassar"
+  ],
+  "date": "2001-05-01",
+  "refs": 14,
+  "cited": 589
+ },
+ "10.1016/0008-8846(77)90073-4": {
+  "openalex": "https://openalex.org/W2013609688",
+  "abstract": "",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://infoscience.epfl.ch/record/88685",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "I. Soroka",
+   "Noga Setter"
+  ],
+  "date": "1977-07-01",
+  "refs": 3,
+  "cited": 221
+ },
+ "10.1016/j.conbuildmat.2018.06.075": {
+  "openalex": "https://openalex.org/W2808566971",
+  "abstract": "",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "bronze",
+   "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S095006181831465X?via%3Dihub",
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Dehui Wang",
+   "Caijun Shi",
+   "Nima Farzadnia",
+   "Zhenguo Shi",
+   "Huangfei Jia",
+   "Zhihua Ou"
+  ],
+  "date": "2018-06-17",
+  "refs": 66,
+  "cited": 595
+ },
+ "10.1016/s0008-8846(02)00914-6": {
+  "openalex": "https://openalex.org/W2027144294",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Edgardo F. Irassar",
+   "Viviana L. Bonavetti",
+   "M Gonz\u00e1lez"
+  ],
+  "date": "2002-12-02",
+  "refs": 42,
+  "cited": 240
+ },
+ "10.1126/sciadv.add1602": {
+  "openalex": "https://openalex.org/W4313706729",
+  "abstract": "Ancient Roman concretes have survived millennia, but mechanistic insights into their durability remain an enigma. Here, we use a multiscale correlative elemental and chemical mapping approach to investigating relict lime clasts, a ubiquitous and conspicuous mineral component associated with ancient Roman mortars. Together, these analyses provide new insights into mortar preparation methodologies and provide evidence that the Romans employed hot mixing, using quicklime in conjunction with, or instead of, slaked lime, to create an environment where high surface area aggregate-scale lime clasts are retained within the mortar matrix. Inspired by these findings, we propose that these macroscopic inclusions might serve as critical sources of reactive calcium for long-term pore and crack-filling or post-pozzolanic reactivity within the cementitious constructs. The subsequent development and testing of modern lime clast-containing cementitious mixtures demonstrate their self-healing potential, thus paving the way for the development of more durable, resilient, and sustainable concrete formulations.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.science.org/doi/pdf/10.1126/sciadv.add1602?download=true",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by-nc",
+  "lang": "en",
+  "authors": [
+   "Linda M. Seymour",
+   "Janille Maria Maragh",
+   "Paolo Sabatini",
+   "Michel Di Tommaso",
+   "James Christopher Weaver",
+   "Admir Ma\u0161i\u0107"
+  ],
+  "date": "2023-01-06",
+  "refs": 54,
+  "cited": 158
+ },
+ "10.1002/gea.20295": {
+  "openalex": "https://openalex.org/W2027065748",
+  "abstract": "Abstract The extraordinarily durable concretes of Imperial Age (27 B.C. through 3rd century A.D.) monument construction in Rome contain scoriaceous, highly potassic, altered volcanic ash from the Pozzolane Rosse ignimbrite, erupted at 456\u00b13ka from the Alban Hills volcano as pozzolanic mortar aggregate. Stratigraphic, micromorphological, and chemical investigations demonstrate that during the relatively warm, humid period preceding marine isotope stage 11, intensive hydrolytic pedogenesis produced dense illuvial clay coatings in the upper horizon of the ignimbrite. Moderately altered ash of the Pozzolane Rosse transitional Bt to Bw soil horizon has opal coatings overlain by limpid, illuvial halloysite coatings. Less weathered ash from a lower C horizon apparently was altered in ground water. Where the ignimbrite filled certain paleovalleys, zeolitic alteration produced phillipsite and chabazite textures. Builders selected ash from these intermediate and least altered horizons for the highest\u2010quality mortars of the Imperial Age, as for the Forum and Markets of Trajan (A.D. 107 to 113). The alumina\u2010 and alkali\u2010rich compositions of cementitious complexes give some preliminary insights as to why the reaction of hydrated lime with the altered, alkali\u2010rich Pozzolane Rosse ash produced pozzolanic cements that have remained resistant to decay for nearly 2000 years. The results of the geological analyses fully confirm empirical observations made by Esther B. Van Deman in 1912 regarding the durability of the ancient mortars and the technical choices of Roman builders. \u00a9 2009 Wiley Periodicals, Inc.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "bronze",
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gea.20295",
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Marie D. Jackson",
+   "Daniel M. Deocampo",
+   "Fabrizio Marra",
+   "Barry E. Scheetz"
+  ],
+  "date": "2009-12-17",
+  "refs": 56,
+  "cited": 137
+ },
+ "10.1016/j.cemconres.2008.02.005": {
+  "openalex": "https://openalex.org/W2036461745",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Guillaume Habert",
+   "N. Choupay",
+   "Jean-Marc Montel",
+   "Damien Guillaume",
+   "Gilles Escadeillas"
+  ],
+  "date": "2008-04-23",
+  "refs": 16,
+  "cited": 129
+ },
+ "10.3390/ma13102257": {
+  "openalex": "https://openalex.org/W3024246832",
+  "abstract": "The paper presents the composition and properties of low-emission ternary cements: Portland multicomponent cement CEM II/C-M and multicomponent cement CEM VI. In the ternary cements, Portland clinker was replaced at the levels of 40% and 55% with a mixture of the main components such as limestone (LL), granulated blast furnace slag (S) and siliceous fly ash (V). Portland multicomponent cements CEM II/C-M and CEM VI are low-emission binders with CO2 emissions ranging from 340 (CEM VI) kg to 453 (CEM II/C-M) kg per Mg of cement. The results obtained indicate the possibility of a wider use of ground limestone (LL) in cement composition. This is important in the case of limited market availability of fly ash and granulated blast furnace slag. The tests conducted on concrete have shown that the necessary condition for obtaining a high strength class and durability of concrete from CEM II/C-M and CEM VI ternary cements is low water\u2013cement ratio. Durability characteristics of concrete (carbonation susceptibility, chloride ion permeation, frost resistance) made of CEM II/C-M and CEM VI cements were determined after 90 days of hardening. This period of curing reflects the performance properties of the concrete in a more effective way.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://www.mdpi.com/1996-1944/13/10/2257/pdf?version=1589450338",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Anna Kr\u00f3l",
+   "Z. Giergiczny",
+   "J. Kuterasi\u0144ska"
+  ],
+  "date": "2020-05-14",
+  "refs": 18,
+  "cited": 32
+ },
+ "10.2172/820773": {
+  "openalex": "https://openalex.org/W1604728680",
+  "abstract": "Increasing the solar reflectance (albedo) of a paved surface keeps it cooler in the sun, reducing convection of heat from pavement to air and thereby decreasing the ambient air temperature. Simulations of the influence of pavement albedo on air temperature in Los Angeles predict that increasing the albedo of 1,250 km2 of pavement by 0.25 would save cooling energy worth $15M yr-1, and reduce smog-related medical and lost-work expenses by $76M yr-1. Most sidewalks and a small fraction of roads and parking areas are paved with portland cement concrete, which can be made quite reflective through suitable choice of cement and aggregate. Variations with composition and environmental exposure of the albedos of portland cement concrete pavements were investigated through laboratory fabrication and exposure of 32 mixes of concrete. Twenty-four mixes yielded substandard, ''rough'' concretes due to high, unmet aggregate water demand. The albedos of the remaining eight ''smooth'' concrete mixes ranged from 0.41 to 0.77 (mean 0.59). Simulated weathering, soiling, and abrasion each reduced average concrete albedo (mean decreases 0.06, 0.05, and 0.19, respectively), though some samples became slightly more reflective through weathering or soiling. Simulated rain (wetting) strongly depressed the albedos of concretes (mean decrease 0.23) until their surfaces were dried. Concrete albedo grew as the cement hydration reaction progressed (mean increase 0.08), but stabilized within six weeks of casting. White-cement concretes were on average significantly more reflective than gray-cement concretes. The albedo of the most-reflective white-cement concrete was 0.18 to 0.39 higher than that of the most-reflective gray-cement concrete, depending on state of exposure. Concrete albedo generally correlated with cement albedo and sand albedo, and, after abrasion, with rock albedo. Cement albedo had a disproportionately strong influence on the reflectance of concrete. Efflorescence and surface carbonation whitened some gray-cement mixes.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://digital.library.unt.edu/ark:/67531/metadc737346/m2/1/high_res_d/820773.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Ronnen Levinson",
+   "State and Community Programs USDOE Assistant Secretary for Energy Efficiency and Renewable Energy. Office of Building Technology",
+   "Environmental Protection Agency (EPA)",
+   "Hashem Akbari"
+  ],
+  "date": "2001-12-21",
+  "refs": 12,
+  "cited": 33
+ },
+ "10.4233/uuid:987fafd0-cd76-4230-be0e-be8843cae08e": {
+  "openalex": "https://openalex.org/W115011143",
+  "abstract": "Concrete like materials were already applied during the Roman Empire. After the decline of the Roman Empire, a wide scale application of concrete only reappeared in the 19th century. Here lies also the origin of modern (reinforced) concrete. Since then, both concrete application and composition have significantly changed. Today, concrete from the 19th and early 20th century is considered as historic concrete. In this thesis, we study historic concrete in the Netherlands, that is to say the concrete dating back from the middle of the 19th century up to the 1960s. Within this period, the application and properties of concrete varied, due to increasing technological insight and social acceptance of concrete as a building material. Although the application of concrete in the Netherlands was late compared with neighbouring countries, there are quite specific and interesting developments and innovations in Dutch concrete, especially with regard to surface finishes. Historic concrete in the Netherlands is thus specific enough to require a dedicated study. Inaddition to this, the commonality of the history of concrete in different countries makes the relevance of this study broader than the Dutch case. Knowledge on historic concrete is increasingly relevant, as conservation of historic buildings dating from the 19th and 20th century internationally emerges as a new field within heritage care. This period is characterised by both architectural and structural innovations and by novel construction materials, of which (reinforced) concrete is probably the most important. Although a growing number of concrete buildings is listed as monuments, conservation specialists have still to become acquainted with the history and properties of historic concrete. Even though the structural history is frequently addressed, only little is known about the composition and surface finish of historic concrete. For the conservation of historic concrete buildings, generally ordinary repair techniques, which have been developed for modern concrete, are applied. From a technical point of view, their performance is not always satisfactory, as the properties of historic concrete can deviate from modern concrete. From a conservation point of view, additional threats exist, because requirements such as respecting the historic material and heritage values are commonly not considered. An uncritical application of repair approaches and a lack of knowledge on historic concrete induce the risk of loss of historic evidence and historic material. Therefore, the aim of this thesis is to develop a real concrete conservation approach, which takes into account the specific properties and the heritage values of historic concrete. The main research questions are therefore the following: - How can historic concrete be preserved together with its ascribed heritage values? - How can a proposed conservation strategy be evaluated for its impact on both the heritage values and the technical performance? - How can we balance the technical demands and the preservation of heritage values, when heritage values and durability issues originate in the same material properties? The structure of the thesis reflects its aim to achieve a dedicated conservation strategy for historic concrete: Part I - Understanding and characterisation of historic concrete The first part offers a compendium of historic concrete addressing the development of design rules and standards in the Netherlands, and in particular the constituents used (binders, aggregates, mixing water), mix design, reinforcement, and surface finishes applied. This part is illustrated with Dutch examples, supporting both technical and historical surveys in the field, and offers historical background information for further (material) investigation. Part II - Interpretation and evaluation of historic concrete The second part gives guidance to identify risks for both material and heritage values. This includes methods to correlate heritage values with the historic concrete and the state of conservation. Additionally, the risks and benefits of different repair techniques are evaluated from a conservation point of view. The new approach is applied to three case studies: Fort Bezuiden Spaarndam (1897-1901), the Hofplein railway viaduct (1900-1908, A.C.C.G. van Hemert), and the earth retaining walls for the unfinished Groot Museum (1921, H. van der Velde). Part III - Development and evaluation of dedicated conservation strategy The concluding part addresses the decisions to be made when developing a dedicated conservation strategy. The proposed approach considers balancing the preservation of heritage values and technical demands. Case specific criteria are formulated, which allow the characterisation of possible conservation strategies. This thesis presents new knowledge on historic concrete, combining historical developments with material properties. Different periods within the life in service of concrete are linked: the past by explaining its possible significance and durability, the present by evaluating its in practice performance and state of conservation, and the future by supporting decisions on an appropriate conservation strategy. This thesis aims to strongly support the necessary transition from concrete repair to concrete conservation.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://resolver.tudelft.nl/uuid:987fafd0-cd76-4230-be0e-be8843cae08e",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Herdis A. Heinemann"
+  ],
+  "date": "2013-01-01",
+  "refs": 0,
+  "cited": 23
+ },
+ "10.1016/j.conbuildmat.2017.01.098": {
+  "openalex": "https://openalex.org/W2586321683",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Baoju Liu",
+   "Tengyu Yang"
+  ],
+  "date": "2017-02-09",
+  "refs": 13,
+  "cited": 85
+ },
+ "10.70909/aca.2026.sn3370": {
+  "openalex": "https://openalex.org/W7225417948",
+  "abstract": "As blended cements become increasingly prevalent in U.S. construction, contractors must understand how these materials influence concrete performance and field practices. Drawing on insights shared by industry experts at the 2026 AGC Convention, this article provides practical guidance for successfully incorporating blended cements into construction projects. It examines common challenges related to setting times, strength development, admixture compatibility, and finishing operations while outlining strategies for material evaluation, testing, and field validation. Emphasizing the importance of mockups, performance-based specifications, and early stakeholder communication, the article demonstrates how contractors can adapt established construction practices to accommodate evolving cement technologies. With proper planning and collaboration, blended cements can deliver reliable performance while supporting sustainability goals and maintaining construction efficiency.",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Michelle Wilson",
+   "Brian Killingsworth",
+   "Tom Binkowski",
+   "Joey Schneider"
+  ],
+  "date": "2026-11-06",
+  "refs": 0,
+  "cited": 0
+ },
+ "10.1002/cepa.70915": {
+  "openalex": "https://openalex.org/W7224107704",
+  "abstract": "Abstract In Switzerland innovative cement and concrete concepts have a long tradition. In 1994, the SIA 162/4 recommendation \u201cRecycled concrete\u201d was published, which in 2010 was transferred into SIA 2030. It regulates the use of concrete rubble and mixed demolition waste as aggregate, primarily in concrete for building construction. In 2021, it was revised with the introduction of E\u2010modulus classes and the allowance of aggregates from treatment. The SIA 2049 \u201cRequirements for new cements\u201d from 2014 regulated low\u2010clinker cements with new constituents. In 2025, it was transferred into SIA 215/1, which regulates the requirements for new constituents and cements, that are not standardized in the EN 197 series. Moreover, the SIA 215/2 \u201cRequirements for new additions for concrete\u201d was published, enabling the use of new inorganic materials as concrete additions. Finally, the National Annex ND to the concrete standard SN EN 206, which is in effect since February 2025, regulates the performance\u2010based concrete design according to the equivalent concrete performance concept (ECPC). In this paper, the standards are discussed and supported with examples from the Swiss market.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "bronze",
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.70915",
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Winnie Matthes",
+   "Yves Schiegg"
+  ],
+  "date": "2026-10-01",
+  "refs": 1,
+  "cited": 0
+ },
+ "10.5281/zenodo.18080350": {
+  "openalex": "https://openalex.org/W7204456797",
+  "abstract": "This repository provides a curated, literature-derived database of blended cement concrete for machine learning, materials informatics, and data-driven research on cementitious materials. The current release contains 8,979 experimental records from 260 publications. The database includes: Mixture proportions: cement, blast-furnace slag, fly ash, silica fume, limestone powder, calcined clay, water, superplasticizer, coarse aggregate, and fine aggregate; Curing conditions: age, temperature, and relative humidity; Specimen dimensions: volume and aspect ratio; Mixture properties: compressive strength; and Source information: DOI of the original publication. The database was constructed through automated information extraction from the scientific literature followed by multiple stages of data cleaning and validation. More than 7,500 records (>80% of the final database) were manually verified. Missing values are marked as null. Details of the database construction, extraction pipeline, validation procedures, and evaluation are reported in the associated publication, \u201cLarge language model-enabled automated data extraction for concrete materials informatics\u201d (https://doi.org/10.1038/s41524-026-02304-6). The human-annotated ground-truth benchmark used to evaluate the extraction pipeline is available as the Concrete Materials Data Extraction Benchmark at https://doi.org/10.5281/zenodo.22132836. Version note [2026-08-27] This initial release focuses on mixture proportions, curing conditions, specimen dimensions, and compressive strength. Binder-property variables for the individual cementitious materials\u2014including oxide composition, loss on ignition, specific gravity, and Blaine fineness\u2014are planned for inclusion in a future version of this repository. Citation If you use this database, please cite both the associated publication and the dataset: Li, Z., Yang, K., He, Q., & Gong, K. (2026). Large language model-enabled automated data extraction for concrete materials informatics. npj Computational Materials, 12, 341. https://doi.org/10.1038/s41524-026-02304-6 Li, Z., Yang, K., He, Q., & Gong, K. (2026). Blended cement concrete database [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18080350",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://doi.org/10.5281/zenodo.18080350",
+   "any_repository_has_fulltext": true
+  },
+  "license": "cc-by-nc",
+  "lang": "en",
+  "authors": [
+   "Zhanzhao Li",
+   "Kengran Yang",
+   "Qiyao He",
+   "Kai Gong"
+  ],
+  "date": "2026-08-27",
+  "refs": 0,
+  "cited": 0
+ },
+ "10.14359/954": {
+  "openalex": "https://openalex.org/W2477426496",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Pierre-Claude A\u0131\u0308tcin",
+   "F A Blais",
+   "C. M. George"
+  ],
+  "date": "1995-01-01",
+  "refs": 0,
+  "cited": 1
+ },
+ "10.21236/ada021658": {
+  "openalex": "https://openalex.org/W310975199",
+  "abstract": "PAGE(W'h .. Data Entered)in this stage of the investigation.Both mortars and concretes made with regulated-set cement were studied with the following results: 1.The longer freshly mixed regulated-set cement concrete remains above freezing before exposure to below freezing temperatures the greater the subsequent early strength gain; however, considerable strength gain was exhibited by specimens exposed at 15\u00b0 immediately after casting.Specimens protected one hour before exposure exhibited almost as much strength at 28 days age as specimens cured at 70\u00b0 \u00b13\u00b0F for the full time.2. The heat development in 3-, 6-and 12-in.-thickslabs exposed at l 5\u00b0F immediately after casting, peaked in one to two hours at 46.5\u00b0, 58\u00b0 and 69\u00b0 F, respectively, and remained above freezing long enough to gain considerable strength.3. The introduction of a retarder into the mixture caused an increase in slump and a 13 to 19% decrease in 28-day strength in specimens exposed at both 70\u00b0 \u00b13\u00b0F and 15\u00b0 F. There was still considerable strength developed, however, in the specimens exposed at low temperatures.",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8e3f-4ef8-e053-411ac80adeb3/download",
+   "any_repository_has_fulltext": true
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Billy J. Houston",
+   "George C. Hoff"
+  ],
+  "date": "1975-12-01",
+  "refs": 7,
+  "cited": 0
+ },
+ "10.14359/1827": {
+  "openalex": "https://openalex.org/W2155152046",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "Kajsa Byfors",
+   "Gunnar Klingstedt",
+   "V. Lehtonen",
+   "Hannu Pyy",
+   "Lars Romb\u00e9n"
+  ],
+  "date": "1989-01-01",
+  "refs": 0,
+  "cited": 61
+ },
+ "10.1016/0008-8846(93)90053-c": {
+  "openalex": "https://openalex.org/W2003351855",
+  "abstract": "",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "license": null,
+  "lang": "en",
+  "authors": [
+   "John Bensted"
+  ],
+  "date": "1993-07-01",
+  "refs": 6,
+  "cited": 2
+ },
+ "10.6028/nist.ir.4785": {
+  "openalex": "https://openalex.org/W2977351106",
+  "abstract": "",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "gold",
+   "oa_url": "https://doi.org/10.6028/nist.ir.4785",
+   "any_repository_has_fulltext": null
+  },
+  "license": "cc-by",
+  "lang": "en",
+  "authors": [
+   "Paul E. Stutzman"
+  ],
+  "date": "1992-01-01",
+  "refs": 10,
+  "cited": 1
+ }
+}

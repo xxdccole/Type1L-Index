@@ -232,11 +232,23 @@ else:
             continue
         item = json.loads(line)
         n_candidates += 1
-        if item.get("status") != "candidate":
-            errors.append("candidate queue contains a record that is not status=candidate")
+        status = item.get("status")
         url = (item.get("url") or "").rstrip("/").lower()
-        if url and url in resource_urls:
-            errors.append(f"unverified candidate URL is also an index resource: {item.get('url')}")
+        # Open leads stay unverified. Closed lines record a promotion or a dedupe
+        # and are not counted as index resources.
+        if status == "candidate":
+            if url and url in resource_urls:
+                errors.append(f"unverified candidate URL is also an index resource: {item.get('url')}")
+        elif status == "promoted":
+            dest = item.get("promotedTo")
+            if dest not in resource_ids:
+                errors.append(f"promoted queue line does not point at an indexed resource: {dest!r}")
+        elif status == "matched-verified":
+            dest = item.get("matchedTo")
+            if dest not in resource_ids:
+                errors.append(f"matched-verified queue line does not point at an indexed resource: {dest!r}")
+        else:
+            errors.append(f"candidate queue contains an unknown status: {status!r}")
     if n_candidates and str(n_candidates) in home_html and f"{n_candidates} resources" in home_html:
         errors.append("home page resource count matches the unverified candidate queue")
 if not ledger_path.exists():

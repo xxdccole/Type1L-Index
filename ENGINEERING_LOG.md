@@ -2,6 +2,13 @@
 
 Durable decisions and lessons only. Newest first.
 
+## 2026-11-09 — Deep research pass 2
+
+**Decisions**
+- Deep pass 2 adds 49 verified records R204–R252. R1–R203 stay unchanged except R40 `date`, corrected from `2026` to `2026-08-01`.
+- Notes for R40, R97, and R204–R252 were added. Existing notes R140–R203 stay as written.
+- `research/candidates.jsonl` keeps closed lines (`promoted`, `matched-verified`) next to the open queue. Only `status=candidate` is an unverified lead, and those URLs still must not match an index resource.
+
 ## 2026-11-09 — Deep research pass 1
 
 **Decisions**

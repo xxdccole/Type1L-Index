@@ -2,8 +2,13 @@
   "title": "Cement & Concrete Index",
   "summary": "A living research index spanning cement and binder families, supplementary materials, concrete families and applications, and cross-cutting engineering topics. Daily updates; foundational coverage, not an exhaustive catalogue.",
   "summaryText": "Expanded on 2026-11-08 from the Type IL index. All 139 original records and their caveats remain intact. Four taxonomy axes separate binder chemistry, SCMs/additions, concrete/application families and cross-cutting topics. New sources seed major families; coverage ranges from full technical guides to abstracts, previews and official catalogue scopes. Historical Type IL findings apply to their stated mixtures and exposures, not all cements. Verify current adopted standards and local approvals before use.",
-  "lastUpdated": "2026-11-08",
+  "lastUpdated": "2026-11-09",
   "whatsNew": [
+    {
+      "date": "Nov 9",
+      "title": "Deep research pass 2 + 2026 current-awareness sweep",
+      "detail": "Added 49 verified sources R204–R252: 12 rotated topics (Portland I–V history, white/masonry, heavyweight/shielding, fibers, RCC, polymer, SCC, fly ash, limestone, natural pozzolans, international CEM, architectural), 2026 standards/committee news (ACI Fall 2026 committee status, ACI CODE-323-24 preview, EN 197-6, Swiss SIA 215/1 paper, Dutch EN 197 explainer, blended-cement dataset) and 5 promoted candidate-queue leads. R40 date refined; R97 DOI noted. Not exhaustive."
+    },
     {
       "date": "Nov 8",
       "title": "Deep research pass 1 — binder/SCM/concrete cluster",
@@ -174,7 +179,12 @@
         "R150",
         "R170",
         "R171",
-        "R177"
+        "R177",
+        "R204",
+        "R205",
+        "R206",
+        "R207",
+        "R208"
       ]
     },
     {
@@ -213,7 +223,8 @@
         "R131",
         "R135",
         "R136",
-        "R139"
+        "R139",
+        "R240"
       ]
     },
     {
@@ -247,7 +258,10 @@
         "R143",
         "R145",
         "R146",
-        "R154"
+        "R154",
+        "R204",
+        "R205",
+        "R213"
       ]
     },
     {
@@ -278,7 +292,8 @@
         "R133",
         "R136",
         "R159",
-        "R173"
+        "R173",
+        "R226"
       ]
     },
     {
@@ -310,7 +325,9 @@
         "R158",
         "R169",
         "R171",
-        "R175"
+        "R175",
+        "R243",
+        "R251"
       ]
     },
     {
@@ -361,7 +378,10 @@
         "R134",
         "R135",
         "R145",
-        "R165"
+        "R165",
+        "R211",
+        "R241",
+        "R245"
       ]
     },
     {
@@ -394,7 +414,8 @@
         "R123",
         "R129",
         "R143",
-        "R167"
+        "R167",
+        "R209"
       ]
     },
     {
@@ -417,7 +438,8 @@
         "R137",
         "R153",
         "R154",
-        "R174"
+        "R174",
+        "R228"
       ]
     },
     {
@@ -451,7 +473,8 @@
         "R152",
         "R155",
         "R172",
-        "R173"
+        "R173",
+        "R237"
       ]
     },
     {
@@ -552,7 +575,11 @@
         "R109",
         "R132",
         "R149",
-        "R150"
+        "R150",
+        "R206",
+        "R207",
+        "R208",
+        "R219"
       ]
     },
     {
@@ -573,7 +600,8 @@
         "R74",
         "R93",
         "R95",
-        "R130"
+        "R130",
+        "R204"
       ]
     },
     {
@@ -646,7 +674,8 @@
         "R174",
         "R175",
         "R176",
-        "R177"
+        "R177",
+        "R228"
       ]
     },
     {
@@ -721,18 +750,25 @@
         "R123",
         "R124",
         "R128",
-        "R153"
+        "R153",
+        "R210"
       ]
     },
     {
       "id": "binder-portland",
       "name": "Binder · Portland I–V and air-entraining",
       "takeaways": [
-        "Seeded: Types I, II, III, V and IA/IIA/IIIA; Type IV retained as historical low-heat classification, not implied current local availability. R28 now describes four current basic types. Verify adopted edition before specifying."
+        "Seeded: Types I, II, III, V and IA/IIA/IIIA; Type IV retained as historical low-heat classification, not implied current local availability. R28 now describes four current basic types. Verify adopted edition before specifying.",
+        "Pass 2 (2026-11-09) historical backfill: NBS Lerch & Bogue 1934 heat of hydration and Flint & Wells 1941 hydrogarnet/sulfate work, Taylor's 1989 Bogue modification, NISTIR 4785 reference-clinker XRD and a 2022 history review (R210, R211, R212, R213, R214). Historic data explain Type II/IV/V logic; current ASTM C150 limits still govern."
       ],
       "resourceIds": [
         "R28",
-        "R140"
+        "R140",
+        "R210",
+        "R211",
+        "R212",
+        "R213",
+        "R214"
       ]
     },
     {
@@ -747,19 +783,29 @@
         "R39",
         "R40",
         "R138",
-        "R140"
+        "R140",
+        "R204",
+        "R209",
+        "R213",
+        "R242",
+        "R249"
       ]
     },
     {
       "id": "binder-international",
       "name": "Binder · International CEM I–VI and regional classifications",
       "takeaways": [
-        "Catalogue-level seed only: CEM I–V common cements are associated with EN 197-1; CEM II/C-M and CEM VI with EN 197-5. Not one interchangeable CEM I–VI standard; full normative text and global crosswalk remain gaps."
+        "Catalogue-level seed only: CEM I–V common cements are associated with EN 197-1; CEM II/C-M and CEM VI with EN 197-5. Not one interchangeable CEM I–VI standard; full normative text and global crosswalk remain gaps.",
+        "Pass 2 / current: EN 197-6:2023 RCF cements (preview), Dutch EN 197 overview incl. NEN 8005/CUR 48 rule, Swiss SIA 215/1 (2025) and SN EN 206 ND (2025) paper, Polish CEM II/C-M & CEM VI concrete data (R206, R207, R208, R249). China GB 175 and India IS 269/1489 still not covered by verified sources."
       ],
       "resourceIds": [
         "R58",
         "R149",
-        "R150"
+        "R150",
+        "R206",
+        "R207",
+        "R208",
+        "R249"
       ]
     },
     {
@@ -774,7 +820,8 @@
         "R141",
         "R142",
         "R181",
-        "R202"
+        "R202",
+        "R250"
       ]
     },
     {
@@ -790,18 +837,24 @@
         "R142",
         "R178",
         "R179",
-        "R180"
+        "R180",
+        "R251"
       ]
     },
     {
       "id": "binder-white-masonry",
       "name": "Binder · White / colored / masonry / mortar / plastic",
       "takeaways": [
-        "Seeded historical specialty classification and manufacturer white masonry page. Distinguish cement from mortar, pigment from binder chemistry, C91 masonry from C1329 mortar and C1328 plastic cement; latest normative clauses and independent comparisons remain gaps."
+        "Seeded historical specialty classification and manufacturer white masonry page. Distinguish cement from mortar, pigment from binder chemistry, C91 masonry from C1329 mortar and C1328 plastic cement; latest normative clauses and independent comparisons remain gaps.",
+        "Pass 2: NBS Monograph 36 (1961) shows bond strength dominated wall racking/flexure; repair-mortar guidance for traditional masonry, white clinker defects and LBNL albedo data showing white-cement concrete markedly more reflective (R215, R216, R217, R218). Still no current ASTM C91/C1328/C1329 text reviewed."
       ],
       "resourceIds": [
         "R140",
-        "R147"
+        "R147",
+        "R215",
+        "R216",
+        "R217",
+        "R218"
       ]
     },
     {
@@ -814,7 +867,8 @@
       "resourceIds": [
         "R140",
         "R144",
-        "R192"
+        "R192",
+        "R224"
       ]
     },
     {
@@ -830,7 +884,8 @@
         "R188",
         "R189",
         "R190",
-        "R201"
+        "R201",
+        "R252"
       ]
     },
     {
@@ -874,29 +929,40 @@
         "R24",
         "R182",
         "R183",
-        "R198"
+        "R198",
+        "R209"
       ]
     },
     {
       "id": "scm-flyash",
       "name": "SCM / addition · Fly ash / coal ash",
       "takeaways": [
-        "Foundational seed: Fly ash chemistry and source variability affect reactivity and air/admixture demand; current supply and reclaimed ash qualification need further sources."
+        "Foundational seed: Fly ash chemistry and source variability affect reactivity and air/admixture demand; current supply and reclaimed ash qualification need further sources.",
+        "Pass 2: Class F durability study, TxDOT 5,500-sample fly ash database and ASR index, ASR-mitigation state-of-art (R209, R239, R240, R241). Harvested/landfilled ash qualification (ASTM C618 updates) and supply data remain gaps."
       ],
       "resourceIds": [
         "R167",
-        "R24"
+        "R24",
+        "R209",
+        "R239",
+        "R240",
+        "R241"
       ]
     },
     {
       "id": "scm-natural",
       "name": "SCM / addition · Natural pozzolans",
       "takeaways": [
-        "Foundational seed: Natural pozzolans require mineralogy, reactivity and durability qualification; R103 adds only a limited Type IL early-age study."
+        "Foundational seed: Natural pozzolans require mineralogy, reactivity and durability qualification; R103 adds only a limited Type IL early-age study.",
+        "Pass 2: Roman concrete volcanic ash (2009) and hot-mixing lime clast mechanism (2023), secondary-mineral effects on pozzolanicity (2008), Trass RCC case (R230, R246, R247, R248). ASTM C618 Class N current-edition review still pending."
       ],
       "resourceIds": [
         "R167",
-        "R24"
+        "R24",
+        "R230",
+        "R246",
+        "R247",
+        "R248"
       ]
     },
     {
@@ -907,7 +973,8 @@
       ],
       "resourceIds": [
         "R167",
-        "R24"
+        "R24",
+        "R209"
       ]
     },
     {
@@ -928,11 +995,18 @@
       "id": "scm-limestone",
       "name": "SCM / addition · Limestone fillers and inert fines",
       "takeaways": [
-        "Foundational seed: Limestone filler is separately classified from pozzolanic SCMs; packing/nucleation and carboaluminate effects do not make every filler a pozzolan."
+        "Foundational seed: Limestone filler is separately classified from pozzolanic SCMs; packing/nucleation and carboaluminate effects do not make every filler a pozzolan.",
+        "Pass 2: carboaluminate (2001), early filler-strength (1977), 2018 review and limestone-cement sulfate microstructure (2003) studies; also CEM II/C-M/CEM VI data (R209, R242, R243, R244, R245, R249). Mostly DOI-level metadata; full texts closed."
       ],
       "resourceIds": [
         "R59",
-        "R132"
+        "R132",
+        "R209",
+        "R242",
+        "R243",
+        "R244",
+        "R245",
+        "R249"
       ]
     },
     {
@@ -955,7 +1029,8 @@
       "resourceIds": [
         "R28",
         "R31",
-        "R162"
+        "R162",
+        "R237"
       ]
     },
     {
@@ -967,29 +1042,40 @@
       "resourceIds": [
         "R155",
         "R169",
-        "R129"
+        "R129",
+        "R221"
       ]
     },
     {
       "id": "concrete-scc",
       "name": "Concrete · Self-consolidating concrete",
       "takeaways": [
-        "Seeded / partial: Flowability plus stability; fresh-property tests and placement trials remain necessary."
+        "Seeded / partial: Flowability plus stability; fresh-property tests and placement trials remain necessary.",
+        "Pass 2: Okamura & Ouchi originators' papers (2000 fib; 2003 JACT), UT Austin aggregates-in-SCC research, PCI girder bond/transfer length and a formwork-pressure review (R234, R235, R236, R237, R238). ACI 237R and EN 206 Annex G/EFNARC not yet reviewed."
       ],
       "resourceIds": [
         "R173",
-        "R72"
+        "R72",
+        "R234",
+        "R235",
+        "R236",
+        "R237",
+        "R238"
       ]
     },
     {
       "id": "concrete-fibers",
       "name": "Concrete · Fiber-reinforced concrete and composites",
       "takeaways": [
-        "Seeded / partial: Synthetic-fiber guidance plus UHPC report; steel/glass/basalt fibers, ECC and FRC structural design still need dedicated coverage."
+        "Seeded / partial: Synthetic-fiber guidance plus UHPC report; steel/glass/basalt fibers, ECC and FRC structural design still need dedicated coverage.",
+        "Pass 2: Zollo 1997 30-year FRC overview, steel vs macro-synthetic workability/air study and a GFRC review (R225, R226, R227). ACI 544 documents and EN 14651/ASTM C1609 residual-strength methods remain to be reviewed."
       ],
       "resourceIds": [
         "R164",
-        "R155"
+        "R155",
+        "R225",
+        "R226",
+        "R227"
       ]
     },
     {
@@ -1008,10 +1094,15 @@
       "id": "concrete-heavyweight",
       "name": "Concrete · Heavyweight / shielding / ballast",
       "takeaways": [
-        "Seeded / partial: Density and form pressure/handling require special consideration; shielding design outside reviewed source."
+        "Seeded / partial: Density and form pressure/handling require special consideration; shielding design outside reviewed source.",
+        "Pass 2: gamma and neutron shielding evidence (barite/magnetite/goethite/serpentine HPC; 2021 neutron and 2024 radiation-shielding reviews; ferrophosphorus weighting for well cement) (R221, R222, R223, R224). Lab/review evidence; shielding design requires project-specific nuclear analysis and ACI 349/NRC-type requirements not reviewed."
       ],
       "resourceIds": [
-        "R148"
+        "R148",
+        "R221",
+        "R222",
+        "R223",
+        "R224"
       ]
     },
     {
@@ -1025,18 +1116,25 @@
         "R152",
         "R196",
         "R197",
-        "R203"
+        "R203",
+        "R204"
       ]
     },
     {
       "id": "concrete-mass-rcc",
       "name": "Concrete · Mass concrete / RCC",
       "takeaways": [
-        "Seeded / partial: Preserve detailed mass/thermal research; add pavement RCC. Dam RCC has different construction and performance needs."
+        "Seeded / partial: Preserve detailed mass/thermal research; add pavement RCC. Dam RCC has different construction and performance needs.",
+        "Pass 2: 2010 CP Tech Center RCC pavement guide (full PDF), gyratory mix-design procedure and natural-pozzolan RCC scaling study; NBS 1934 heat data also tagged (R204, R210, R228, R229, R230). RCC dam practice (USACE EM 1110-2-2006, USBR) still open; ACI 327 spec expected 2027 per NRMCA report."
       ],
       "resourceIds": [
         "R110",
-        "R153"
+        "R153",
+        "R204",
+        "R210",
+        "R228",
+        "R229",
+        "R230"
       ]
     },
     {
@@ -1049,7 +1147,9 @@
         "R153",
         "R154",
         "R174",
-        "R135"
+        "R135",
+        "R218",
+        "R228"
       ]
     },
     {
@@ -1090,30 +1190,41 @@
         "R99",
         "R100",
         "R137",
-        "R146"
+        "R146",
+        "R205",
+        "R206",
+        "R208"
       ]
     },
     {
       "id": "concrete-polymer-refractory",
       "name": "Concrete · Polymer / polymer-modified / refractory",
       "takeaways": [
-        "Seeded / partial: Polymer-concrete preview and CAC refractory FAQ seeded. Polymer-modified hydraulic concrete and refractory installation/thermal cycling require dedicated guides."
+        "Seeded / partial: Polymer-concrete preview and CAC refractory FAQ seeded. Polymer-modified hydraulic concrete and refractory installation/thermal cycling require dedicated guides.",
+        "Pass 2: 1973 BNL/USBR concrete-polymer topical report, 1988 polymer concrete mechanics, 2020 polymer-modified mortar comparison (R231, R232, R233). Refractory castable practice still thin; ACI 548 documents not re-reviewed."
       ],
       "resourceIds": [
         "R151",
-        "R141"
+        "R141",
+        "R231",
+        "R232",
+        "R233"
       ]
     },
     {
       "id": "concrete-architectural",
       "name": "Concrete · Architectural / decorative / exposed aggregate",
       "takeaways": [
-        "Seeded / partial: White/colored mortar, discoloration and existing architectural case study seeded; pigments, texture, exposed aggregate and decorative finish specifications need independent references."
+        "Seeded / partial: White/colored mortar, discoloration and existing architectural case study seeded; pigments, texture, exposed aggregate and decorative finish specifications need independent references.",
+        "Pass 2: TU Delft historic concrete thesis (Dutch surface finishes), bughole image analysis, LBNL concrete albedo study (R218, R219, R220). ACI 303R architectural cast-in-place guidance and CIB/DIN 18217 surface classes not yet reviewed."
       ],
       "resourceIds": [
         "R147",
         "R163",
-        "R130"
+        "R130",
+        "R218",
+        "R219",
+        "R220"
       ]
     },
     {
@@ -1126,7 +1237,10 @@
         "R162",
         "R142",
         "R151",
-        "R160"
+        "R160",
+        "R216",
+        "R219",
+        "R233"
       ]
     },
     {
@@ -1139,7 +1253,18 @@
         "R140",
         "R143",
         "R145",
-        "R146"
+        "R146",
+        "R210",
+        "R211",
+        "R212",
+        "R213",
+        "R214",
+        "R217",
+        "R242",
+        "R244",
+        "R246",
+        "R247",
+        "R248"
       ]
     },
     {
@@ -1152,7 +1277,12 @@
         "R159",
         "R167",
         "R154",
-        "R176"
+        "R176",
+        "R209",
+        "R226",
+        "R229",
+        "R234",
+        "R236"
       ]
     },
     {
@@ -1164,7 +1294,9 @@
       "resourceIds": [
         "R158",
         "R166",
-        "R168"
+        "R168",
+        "R238",
+        "R251"
       ]
     },
     {
@@ -1180,7 +1312,9 @@
         "R169",
         "R171",
         "R175",
-        "R110"
+        "R110",
+        "R215",
+        "R232"
       ]
     },
     {
@@ -1192,7 +1326,19 @@
       "resourceIds": [
         "R165",
         "R63",
-        "R145"
+        "R145",
+        "R211",
+        "R223",
+        "R227",
+        "R230",
+        "R239",
+        "R240",
+        "R241",
+        "R245",
+        "R246",
+        "R249",
+        "R250",
+        "R252"
       ]
     },
     {
@@ -1206,7 +1352,16 @@
         "R150",
         "R170",
         "R171",
-        "R177"
+        "R177",
+        "R204",
+        "R205",
+        "R208",
+        "R212",
+        "R214",
+        "R215",
+        "R220",
+        "R222",
+        "R229"
       ]
     },
     {
@@ -1218,7 +1373,10 @@
       "resourceIds": [
         "R135",
         "R176",
-        "R142"
+        "R142",
+        "R216",
+        "R219",
+        "R250"
       ]
     },
     {
@@ -1233,7 +1391,9 @@
         "R137",
         "R143",
         "R145",
-        "R146"
+        "R146",
+        "R205",
+        "R218"
       ]
     },
     {
@@ -1247,7 +1407,8 @@
         "R139",
         "R149",
         "R150",
-        "R147"
+        "R147",
+        "R207"
       ]
     }
   ],
@@ -1265,7 +1426,8 @@
     "Aggressive chemical exposure: New 2026 studies show PLC/limestone systems can underperform OPC or fly ash mixes in acid and combined sulfate-chloride exposure, so SCMs and exposure-specific testing matter.",
     "ITZ in PLC: PLC tends to form a thinner ITZ, but admixture interactions and filler levels above about 10% can make it more porous. R127 adds Type IL paste microstructure under carbonation with nanosilica; direct imaging of ITZ microcracks in Type IL vs OPC concrete is still scarce.",
     "Supply and spec drift: some Pennsylvania producers report Type I/II is more available again (PACA, Oct 2026), while NRMCA's 2026 spec guide urges owners not to mandate a cement type.",
-    "Mass concrete: Type IL is not automatically low-heat (more heat in the first 24 h), ACI 207 is silent on Type IL, and only Florida DOT addresses Type IL in its mass concrete spec. Keep ACI 301's 160°F max and 35°F differential. PINN heat-curve surrogates (R128) can aid screening but are not a substitute for mix-specific ATR or field monitoring."
+    "Mass concrete: Type IL is not automatically low-heat (more heat in the first 24 h), ACI 207 is silent on Type IL, and only Florida DOT addresses Type IL in its mass concrete spec. Keep ACI 301's 160°F max and 35°F differential. PINN heat-curve surrogates (R128) can aid screening but are not a substitute for mix-specific ATR or field monitoring.",
+    "2026 standards movement: ASTM C595-26 (published 2026-08-01) adds Type IC and changes Type IL sulfate testing; ACI 332-26 residential code tentatively Nov 2026; ACI 301 revision expected 2027; ACI 323 next edition and ACI 201 PLC durability report in development (NRMCA Fall 2026 convention report, R204). Verify adoption status before specifying."
   ],
   "resources": [
     {
@@ -1730,7 +1892,7 @@
       "title": "ASTM C595/C595M-26 Blended Hydraulic Cements",
       "publisher": "ASTM (ANSI webstore)",
       "type": "Standard",
-      "date": "2026",
+      "date": "2026-08-01",
       "url": "https://webstore.ansi.org/standards/astm/astmc595c595m26",
       "topics": [
         "standards"
@@ -3805,6 +3967,640 @@
         "concrete-cellular",
         "apps"
       ]
+    },
+    {
+      "id": "R204",
+      "title": "NRMCA Staff Attends ACI Fall 2026 Convention, Files Updates on Ready Mix-Related Developments",
+      "publisher": "NRMCA (e-newsletter via Naylor)",
+      "type": "News",
+      "date": "2026-10",
+      "url": "https://www.naylornetwork.com/nrc-nwl/articles/index-v5.asp?aid=954404&issueID=100502",
+      "topics": [
+        "news",
+        "standards",
+        "cross-tests-codes",
+        "carbon",
+        "binder-blended",
+        "concrete-mass-rcc",
+        "concrete-cellular"
+      ]
+    },
+    {
+      "id": "R205",
+      "title": "ACI CODE-323-24 Low-Carbon Concrete—Code Requirements and Commentary (preview)",
+      "publisher": "American Concrete Institute",
+      "type": "Code preview",
+      "date": "2024-11",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/323-24_preview.pdf",
+      "topics": [
+        "carbon",
+        "standards",
+        "cross-environment-cost",
+        "cross-tests-codes",
+        "concrete-circular"
+      ]
+    },
+    {
+      "id": "R206",
+      "title": "EN 197-6:2023 Cement — Part 6: Cement with recycled building materials (SIST adoption preview)",
+      "publisher": "CEN / SIST (preview via iTeh Standards)",
+      "type": "Standard preview",
+      "date": "2023-06",
+      "url": "https://standards.iteh.ai/catalog/standards/cen/96772c60-54f9-4226-b230-8f5c39dbd57d/en-197-6-2023",
+      "topics": [
+        "binder-international",
+        "concrete-circular",
+        "standards",
+        "intl"
+      ]
+    },
+    {
+      "id": "R207",
+      "title": "Cementnormen (EN 197-1, EN 197-5, EN 197-6 overview; Dutch)",
+      "publisher": "Cement&BetonCentrum (Netherlands)",
+      "type": "Web article",
+      "date": "2025-02-20",
+      "url": "https://cementenbeton.nl/cementnormen/",
+      "topics": [
+        "binder-international",
+        "intl",
+        "standards",
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R208",
+      "title": "Standardization of new cements and concrete additions, of recycled concrete, and of performance-based concrete",
+      "publisher": "Wiley (Ernst & Sohn)",
+      "type": "Conference paper",
+      "date": "2026-10",
+      "url": "https://doi.org/10.1002/cepa.70915",
+      "topics": [
+        "binder-international",
+        "concrete-circular",
+        "standards",
+        "intl",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R209",
+      "title": "Blended Cement Concrete Database (dataset)",
+      "publisher": "Zenodo",
+      "type": "Dataset",
+      "date": "2026",
+      "url": "https://doi.org/10.5281/zenodo.18080350",
+      "topics": [
+        "binder-blended",
+        "cross-mix",
+        "scm",
+        "scm-slag",
+        "scm-flyash",
+        "scm-limestone",
+        "scm-clay"
+      ]
+    },
+    {
+      "id": "R210",
+      "title": "Heat of hydration of portland cement pastes (NBS RP684)",
+      "publisher": "National Bureau of Standards (NIST)",
+      "type": "Paper",
+      "date": "1934-05",
+      "url": "https://doi.org/10.6028/jres.012.057",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry",
+        "mass",
+        "concrete-mass-rcc"
+      ]
+    },
+    {
+      "id": "R211",
+      "title": "Relationship of the garnet-hydrogarnet series to the sulfate resistance of portland cements (NBS RP1411)",
+      "publisher": "National Bureau of Standards (NIST)",
+      "type": "Paper",
+      "date": "1941-08",
+      "url": "https://doi.org/10.6028/jres.027.007",
+      "topics": [
+        "binder-portland",
+        "cross-durability",
+        "cross-chemistry",
+        "durability"
+      ]
+    },
+    {
+      "id": "R212",
+      "title": "Modification of the Bogue calculation",
+      "publisher": "Thomas Telford / Emerald",
+      "type": "Paper",
+      "date": "1989-04",
+      "url": "https://doi.org/10.1680/adcr.1989.2.6.73",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R213",
+      "title": "The Rise of Portland Cements",
+      "publisher": "Mineralogical Society of America (Elements)",
+      "type": "Review article",
+      "date": "2022-10-01",
+      "url": "https://doi.org/10.2138/gselements.18.5.308",
+      "topics": [
+        "binder-portland",
+        "binder-blended",
+        "cross-chemistry",
+        "carbon"
+      ]
+    },
+    {
+      "id": "R214",
+      "title": "X-ray powder diffraction analysis of three portland cement reference material clinkers (NISTIR 4785)",
+      "publisher": "NIST",
+      "type": "Report",
+      "date": "1992",
+      "url": "https://doi.org/10.6028/nist.ir.4785",
+      "topics": [
+        "binder-portland",
+        "cross-tests-codes",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R215",
+      "title": "Effect of mortar properties on strength of masonry (NBS Monograph 36)",
+      "publisher": "National Bureau of Standards",
+      "type": "Report",
+      "date": "1961",
+      "url": "https://doi.org/10.6028/nbs.mono.36",
+      "topics": [
+        "binder-white-masonry",
+        "cross-mechanics",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R216",
+      "title": "Mortars for Repair of Traditional Masonry",
+      "publisher": "ASCE",
+      "type": "Article",
+      "date": "2004-05",
+      "url": "https://doi.org/10.1061/(asce)1084-0680(2004)9:2(62)",
+      "topics": [
+        "binder-white-masonry",
+        "concrete-repair-grout-overlay",
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R217",
+      "title": "Morphological Analysis of White Cement Clinker Minerals: Discussion on the Crystallization-Related Defects",
+      "publisher": "Hindawi / Wiley",
+      "type": "Paper",
+      "date": "2016",
+      "url": "https://doi.org/10.1155/2016/1259094",
+      "topics": [
+        "binder-white-masonry",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R218",
+      "title": "Effects of composition and exposure on the solar reflectance of Portland cement concrete",
+      "publisher": "Lawrence Berkeley National Laboratory / OSTI",
+      "type": "Report",
+      "date": "2001-12-21",
+      "url": "https://doi.org/10.2172/820773",
+      "topics": [
+        "concrete-architectural",
+        "binder-white-masonry",
+        "concrete-pavement-pervious",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R219",
+      "title": "Historic Concrete: From Concrete Repair to Concrete Conservation (PhD thesis)",
+      "publisher": "Delft University of Technology",
+      "type": "Thesis",
+      "date": "2013",
+      "url": "https://doi.org/10.4233/uuid:987fafd0-cd76-4230-be0e-be8843cae08e",
+      "topics": [
+        "concrete-architectural",
+        "cross-failure-repair",
+        "concrete-repair-grout-overlay",
+        "intl"
+      ]
+    },
+    {
+      "id": "R220",
+      "title": "Image analysis for detection of bugholes on concrete surface",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2017-04",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.01.098",
+      "topics": [
+        "concrete-architectural",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R221",
+      "title": "Development of high-performance heavy density concrete using different aggregates for gamma-ray shielding",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2015-03",
+      "url": "https://doi.org/10.1016/j.pnucene.2014.11.009",
+      "topics": [
+        "concrete-heavyweight",
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R222",
+      "title": "Neutron shielding evaluation of concretes and mortars: A review",
+      "publisher": "Elsevier",
+      "type": "Review paper",
+      "date": "2021-03",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2020.122238",
+      "topics": [
+        "concrete-heavyweight",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R223",
+      "title": "Radiation-shielding concrete: A review of materials, performance, and the impact of radiation on concrete properties",
+      "publisher": "Elsevier",
+      "type": "Review paper",
+      "date": "2024-11",
+      "url": "https://doi.org/10.1016/j.jobe.2024.110800",
+      "topics": [
+        "concrete-heavyweight",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R224",
+      "title": "Use of ferrophosphorus as a heavyweight additive for API oil well cements",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "1993-07",
+      "url": "https://doi.org/10.1016/0008-8846(93)90053-c",
+      "topics": [
+        "binder-well",
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R225",
+      "title": "Fiber-reinforced concrete: an overview after 30 years of development",
+      "publisher": "Elsevier",
+      "type": "Review paper",
+      "date": "1997",
+      "url": "https://doi.org/10.1016/s0958-9465(96)00046-7",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R226",
+      "title": "Influence of Steel and Macro-Synthetic Fibers on Concrete Properties",
+      "publisher": "MDPI",
+      "type": "Paper",
+      "date": "2018-07-11",
+      "url": "https://doi.org/10.3390/fib6030047",
+      "topics": [
+        "concrete-fibers",
+        "fresh",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R227",
+      "title": "Glass Fibers Reinforced Concrete: Overview on Mechanical, Durability and Microstructure Analysis",
+      "publisher": "MDPI",
+      "type": "Review paper",
+      "date": "2022-07-22",
+      "url": "https://doi.org/10.3390/ma15155111",
+      "topics": [
+        "concrete-fibers",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R228",
+      "title": "Guide for Roller-Compacted Concrete Pavements",
+      "publisher": "National Concrete Pavement Technology Center (Iowa State University) / PCA",
+      "type": "Guide",
+      "date": "2010-08",
+      "url": "https://publications.iowa.gov/56186/1/Roller-Compacted-Concrete.pdf",
+      "topics": [
+        "concrete-mass-rcc",
+        "pavement",
+        "concrete-pavement-pervious",
+        "guides"
+      ]
+    },
+    {
+      "id": "R229",
+      "title": "Roller-Compacted Concrete Mix Design Procedure with Gyratory Compactor",
+      "publisher": "SAGE / Transportation Research Board",
+      "type": "Paper",
+      "date": "2004-01",
+      "url": "https://doi.org/10.3141/1893-06",
+      "topics": [
+        "concrete-mass-rcc",
+        "cross-mix",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R230",
+      "title": "Performance assessment of natural pozzolan roller compacted concrete pavements",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2017-12",
+      "url": "https://doi.org/10.1016/j.cscm.2017.03.004",
+      "topics": [
+        "concrete-mass-rcc",
+        "scm-natural",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R231",
+      "title": "Concrete-polymer materials. Fifth topical report (BNL / USBR)",
+      "publisher": "Brookhaven National Laboratory; U.S. Bureau of Reclamation / OSTI",
+      "type": "Report",
+      "date": "1973-12-01",
+      "url": "https://doi.org/10.2172/4328261",
+      "topics": [
+        "concrete-polymer-refractory"
+      ]
+    },
+    {
+      "id": "R232",
+      "title": "Mechanical behaviour of polymer concrete systems",
+      "publisher": "Springer (RILEM)",
+      "type": "Paper",
+      "date": "1988-07",
+      "url": "https://doi.org/10.1007/bf02481825",
+      "topics": [
+        "concrete-polymer-refractory",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R233",
+      "title": "Influence of Polymer Types on the Mechanical Properties of Polymer-Modified Cement Mortars",
+      "publisher": "MDPI",
+      "type": "Paper",
+      "date": "2020-02-05",
+      "url": "https://doi.org/10.3390/app10031061",
+      "topics": [
+        "concrete-polymer-refractory",
+        "concrete-repair-grout-overlay"
+      ]
+    },
+    {
+      "id": "R234",
+      "title": "Self-Compacting Concrete (Okamura & Ouchi)",
+      "publisher": "Japan Concrete Institute",
+      "type": "Paper",
+      "date": "2003",
+      "url": "https://doi.org/10.3151/jact.1.5",
+      "topics": [
+        "concrete-scc",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R235",
+      "title": "Self-compacting concrete (Structural Concrete, 2000)",
+      "publisher": "Thomas Telford / fib (Structural Concrete)",
+      "type": "Paper",
+      "date": "2000-03",
+      "url": "https://doi.org/10.1680/stco.2000.1.1.3",
+      "topics": [
+        "concrete-scc"
+      ]
+    },
+    {
+      "id": "R236",
+      "title": "Aggregates in Self-Consolidating Concrete",
+      "publisher": "University of Texas at Austin (Texas ScholarWorks)",
+      "type": "Report",
+      "date": "2016",
+      "url": "https://doi.org/10.15781/t2pg2v",
+      "topics": [
+        "concrete-scc",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R237",
+      "title": "Bond Strength and Transfer Length of Pretensioned Bridge Girders Cast With Self-Consolidating Concrete",
+      "publisher": "Precast/Prestressed Concrete Institute",
+      "type": "Paper",
+      "date": "2005-11",
+      "url": "https://doi.org/10.15554/pcij.11012005.72.87",
+      "topics": [
+        "concrete-scc",
+        "concrete-structural",
+        "apps"
+      ]
+    },
+    {
+      "id": "R238",
+      "title": "Pressure exerted on formwork by self-compacting concrete at early ages: A review",
+      "publisher": "Elsevier",
+      "type": "Review paper",
+      "date": "2021-12",
+      "url": "https://doi.org/10.1016/j.cscm.2021.e00642",
+      "topics": [
+        "concrete-scc",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R239",
+      "title": "Effect of class F fly ash on the durability properties of concrete",
+      "publisher": "Springer / Elsevier (Sustainable Environment Research)",
+      "type": "Paper",
+      "date": "2018-01",
+      "url": "https://doi.org/10.1016/j.serj.2017.09.001",
+      "topics": [
+        "scm-flyash",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R240",
+      "title": "Texas Department of Transportation Fly Ash Database and the Development of Chemical Composition–Based Fly Ash Alkali-Silica Reaction Durability Indexes",
+      "publisher": "ASCE",
+      "type": "Paper",
+      "date": "2013-01",
+      "url": "https://doi.org/10.1061/(asce)mt.1943-5533.0000564",
+      "topics": [
+        "scm-flyash",
+        "dot",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R241",
+      "title": "State-of-the-Art Report on Alkali Silica Reactivity Mitigation Effectiveness Using Different Types of Fly Ashes",
+      "publisher": "Hindawi / Wiley",
+      "type": "Review paper",
+      "date": "2016-09-27",
+      "url": "https://doi.org/10.1155/2016/7871206",
+      "topics": [
+        "scm-flyash",
+        "cross-durability",
+        "durability"
+      ]
+    },
+    {
+      "id": "R242",
+      "title": "Studies on the carboaluminate formation in limestone filler-blended cements",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2001-05",
+      "url": "https://doi.org/10.1016/s0008-8846(01)00491-4",
+      "topics": [
+        "scm-limestone",
+        "cross-chemistry",
+        "binder-blended"
+      ]
+    },
+    {
+      "id": "R243",
+      "title": "The effect of fillers on strength of cement mortars",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "1977-07",
+      "url": "https://doi.org/10.1016/0008-8846(77)90073-4",
+      "topics": [
+        "scm-limestone",
+        "strength"
+      ]
+    },
+    {
+      "id": "R244",
+      "title": "A review on use of limestone powder in cement-based materials: Mechanism, hydration and microstructures",
+      "publisher": "Elsevier",
+      "type": "Review paper",
+      "date": "2018-08",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2018.06.075",
+      "topics": [
+        "scm-limestone",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R245",
+      "title": "Microstructural study of sulfate attack on ordinary and limestone Portland cements at ambient temperature",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2003-01",
+      "url": "https://doi.org/10.1016/s0008-8846(02)00914-6",
+      "topics": [
+        "scm-limestone",
+        "cross-durability",
+        "durability"
+      ]
+    },
+    {
+      "id": "R246",
+      "title": "Hot mixing: Mechanistic insights into the durability of ancient Roman concrete",
+      "publisher": "AAAS (Science Advances)",
+      "type": "Paper",
+      "date": "2023-01-06",
+      "url": "https://doi.org/10.1126/sciadv.add1602",
+      "topics": [
+        "scm-natural",
+        "cross-durability",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R247",
+      "title": "Mid-Pleistocene pozzolanic volcanic ash in ancient Roman concretes",
+      "publisher": "Wiley (Geoarchaeology)",
+      "type": "Paper",
+      "date": "2009-12-17",
+      "url": "https://doi.org/10.1002/gea.20295",
+      "topics": [
+        "scm-natural",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R248",
+      "title": "Effects of the secondary minerals of the natural pozzolans on their pozzolanic activity",
+      "publisher": "Elsevier",
+      "type": "Paper",
+      "date": "2008-07",
+      "url": "https://doi.org/10.1016/j.cemconres.2008.02.005",
+      "topics": [
+        "scm-natural",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R249",
+      "title": "Properties of Concrete Made with Low-Emission Cements CEM II/C-M and CEM VI",
+      "publisher": "MDPI",
+      "type": "Paper",
+      "date": "2020-05-14",
+      "url": "https://doi.org/10.3390/ma13102257",
+      "topics": [
+        "binder-international",
+        "binder-blended",
+        "scm-limestone",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R250",
+      "title": "Durability of Calcium Aluminate Cement Concrete: Assessment of Concrete From a 60-Year Old Marine Structure at Halifax",
+      "publisher": "American Concrete Institute (SP-154)",
+      "type": "Conference paper",
+      "date": "1995",
+      "url": "https://doi.org/10.14359/954",
+      "topics": [
+        "binder-cac-csa",
+        "cross-durability",
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R251",
+      "title": "Cold Weather Construction Materials Part 1. Regulated-Set Cement for Cold Weather Concreting",
+      "publisher": "U.S. Army Engineer Waterways Experiment Station (via DTIC)",
+      "type": "Report",
+      "date": "1975-12-01",
+      "url": "https://doi.org/10.21236/ada021658",
+      "topics": [
+        "binder-specialty",
+        "strength",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R252",
+      "title": "Durability of Concrete Made With Alkali-Activated Slag",
+      "publisher": "American Concrete Institute (SP-114)",
+      "type": "Conference paper",
+      "date": "1989",
+      "url": "https://doi.org/10.14359/1827",
+      "topics": [
+        "binder-activated",
+        "cross-durability"
+      ]
     }
   ],
   "changeLog": [
@@ -3851,9 +4647,14 @@
     {
       "date": "2026-11-08",
       "entry": "Deep research campaign pass 1: inventoried all 59 topics; deepened 12 under-covered binder/SCM/concrete topics; appended 26 verified records R178–R203; created research-ledger, portable metadata, and candidate queue. Existing R1–R177 preserved."
+    },
+    {
+      "date": "2026-11-09",
+      "entry": "Deep research pass 2: current-awareness sweep plus historical backfill of 12 least-covered queued topics; appended 49 verified records R204–R252 (44 from pass-2 searches/current-awareness, 5 promoted from the candidate queue). Corrected R40 date to 2026-08-01. R1–R203 otherwise preserved."
     }
   ],
   "gaps": [
+    "Pass 2 (2026-11-09) is a second batch, not complete coverage. Many pass-2 records are DOI/abstract-level (closed full text); access level is recorded per record in research/portable/verified-sources.jsonl. Still open: China GB 175 / India IS standards, ACI 544/237R/303R/207 texts, USACE/USBR RCC dam manuals, ASTM C91/C270/C618 current-edition reviews, refractory castables practice.",
     "Deep pass 1 is a first substantial batch, not complete coverage of any topic or of the internet. 585 unique OpenAlex/Crossref hits remain in the candidate queue for triage.",
     "Many new verified records are catalogue/DOI/preview-level: full normative ASTM/API/EN texts and several review PDFs were not obtained. Unknown dates remain blank.",
     "New scope is foundational, not complete: 38 additions do not provide comprehensive coverage of all binders, concrete families or jurisdictions.",
