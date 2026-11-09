@@ -49,6 +49,15 @@ A resource belongs to a topic when `resource.topics` lists that topic or `topic.
 
 `data/resource-notes.json` is optional. It maps a resource id to a source caveat. The page shows the note on that resource and does not invent notes for ids that are absent.
 
+## Research files
+
+`research/` holds provenance for later passes. It is not a second index.
+
+- `research/research-ledger.json` inventories all 59 topics. A topic marked deepened after a pass is still partial. Queued topics are not finished.
+- `research/verified-sources.jsonl` is portable metadata for sources that are already in `data/site-data.json`.
+- `research/candidates.jsonl` is an unverified lead queue. Those records are not index resources and must not be counted as verified sources.
+- `research/index.md` is the working research narrative.
+
 ## Site settings
 
 `data/site-config.json`:

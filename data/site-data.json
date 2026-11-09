@@ -6,6 +6,11 @@
   "whatsNew": [
     {
       "date": "Nov 8",
+      "title": "Deep research pass 1 — binder/SCM/concrete cluster",
+      "detail": "Added 26 verified sources R178–R203 across 12 under-covered topics (CAC/CSA, specialty, well, alkali-activated, LC3, Mg/carbonatable, emerging/silica/slag SCMs, shotcrete, lightweight, cellular). 585 unique API hits retained in candidate queue. Not exhaustive."
+    },
+    {
+      "date": "Nov 8",
       "title": "All-cement and concrete foundational expansion",
       "detail": "38 verified new source records R140–R177; 41 multi-axis topics added. Existing R1–R139 unchanged. Official EN 197 catalogue scopes, ACI specialty binder previews/abstracts, LC3, DOE well cement, RILEM MgO, FHWA UHPC/RCC/RCA, NRMCA production/testing and concrete family guidance. Scope is broad; depth and normative-text gaps remain explicit."
     },
@@ -761,24 +766,31 @@
       "id": "binder-cac-csa",
       "name": "Binder · Calcium aluminate / calcium sulfoaluminate",
       "takeaways": [
-        "Seeded FAQ, preview and nonstructural mortar abstract. CAC and CSA are different chemistries; refractory, conversion, sulfate balance, curing and structural approvals need separate qualification. No general structural design guide added."
+        "Seeded FAQ, preview and nonstructural mortar abstract. CAC and CSA are different chemistries; refractory, conversion, sulfate balance, curing and structural approvals need separate qualification. No general structural design guide added.",
+        "Deepened 2026-11-08: EN 14647 catalogue scope and CCR conversion/strength paper (DOI). CAC conversion and CSA systems remain distinct; structural approvals still limited."
       ],
       "resourceIds": [
         "R140",
         "R141",
-        "R142"
+        "R142",
+        "R181",
+        "R202"
       ]
     },
     {
       "id": "binder-specialty",
       "name": "Binder · Rapid-set / expansive / shrinkage-compensating",
       "takeaways": [
-        "Foundational preview discusses rapid-hardening and controlled early expansion. Rapid set is not synonymous with high early strength; shrinkage compensation requires restraint and curing design. Current C845/C1600 requirements not verified."
+        "Foundational preview discusses rapid-hardening and controlled early expansion. Rapid set is not synonymous with high early strength; shrinkage compensation requires restraint and curing design. Current C845/C1600 requirements not verified.",
+        "Deepened 2026-11-08: ACI PRC-223-21 preview plus ASTM C845 expansive and C1600 rapid-hardening catalogue records. Expansion needs restraint/curing design; rapid-hardening types are performance classes, not a single chemistry."
       ],
       "resourceIds": [
         "R140",
         "R141",
-        "R142"
+        "R142",
+        "R178",
+        "R179",
+        "R180"
       ]
     },
     {
@@ -796,55 +808,73 @@
       "id": "binder-well",
       "name": "Binder · Oil-well and geothermal cement",
       "takeaways": [
-        "Seeded API 10A context from 2016 preview and DOE geothermal research. Downhole temperature, pressure, fluids, thermal cycling, casing bond and seal integrity govern qualification; latest API/ISO normative editions not reviewed."
+        "Seeded API 10A context from 2016 preview and DOE geothermal research. Downhole temperature, pressure, fluids, thermal cycling, casing bond and seal integrity govern qualification; latest API/ISO normative editions not reviewed.",
+        "Deepened 2026-11-08: API Spec 10A 25th-ed catalogue record (Accuris). Full API/ISO normative text and geothermal case studies still queued."
       ],
       "resourceIds": [
         "R140",
-        "R144"
+        "R144",
+        "R192"
       ]
     },
     {
       "id": "binder-activated",
       "name": "Binder · Alkali-activated / geopolymer",
       "takeaways": [
-        "Initial abstract-level coverage only. Activator, precursor, curing, shrinkage and leaching/efflorescence need system-specific testing. Geopolymer is not a blanket synonym for every alkali-activated binder; structural field/code coverage thin."
+        "Initial abstract-level coverage only. Activator, precursor, curing, shrinkage and leaching/efflorescence need system-specific testing. Geopolymer is not a blanket synonym for every alkali-activated binder; structural field/code coverage thin.",
+        "Deepened 2026-11-08: RILEM TC 224-AAM report DOI, Provis/van Deventer Annual Review DOI, Juenger alternative-binders review DOI, one-part AAM review DOI. Mostly DOI/metadata-level access."
       ],
       "resourceIds": [
         "R142",
-        "R144"
+        "R144",
+        "R188",
+        "R189",
+        "R190",
+        "R201"
       ]
     },
     {
       "id": "binder-lc3",
       "name": "Binder · Calcined-clay / limestone / LC3 low-clinker systems",
       "takeaways": [
-        "Seeded EPFL project page plus preserved IL/UHPC research. Project up-to-40% CO2 claim is conditional; clay mineralogy, calcination, sulfate optimization and functional-unit LCA matter. LC3 is not simply Type IL with added filler."
+        "Seeded EPFL project page plus preserved IL/UHPC research. Project up-to-40% CO2 claim is conditional; clay mineralogy, calcination, sulfate optimization and functional-unit LCA matter. LC3 is not simply Type IL with added filler.",
+        "Deepened 2026-11-08: Scrivener et al. CCR overview PDF inspected; Avet/Scrivener hydration and chloride-transport DOIs verified. Project CO2 claims remain conditional."
       ],
       "resourceIds": [
         "R129",
-        "R143"
+        "R143",
+        "R186",
+        "R187",
+        "R200"
       ]
     },
     {
       "id": "binder-magnesium-carbonatable",
       "name": "Binder · Magnesium-based and carbonatable binders",
       "takeaways": [
-        "Reviews distinguish Mg silicate/carbonate/oxysalt and carbonatable calcium-silicate systems. CO2 curing differs from injecting CO2 into normal concrete; steel passivation, water resistance, energy and carbon accounting remain limitations."
+        "Reviews distinguish Mg silicate/carbonate/oxysalt and carbonatable calcium-silicate systems. CO2 curing differs from injecting CO2 into normal concrete; steel passivation, water resistance, energy and carbon accounting remain limitations.",
+        "Deepened 2026-11-08: Walling/Provis Chemical Reviews DOI (WRRO landing verified) and Juenger et al. alternative-binders review. Low-pH steel limits remain explicit."
       ],
       "resourceIds": [
         "R145",
-        "R146"
+        "R146",
+        "R191",
+        "R190"
       ]
     },
     {
       "id": "scm-slag",
       "name": "SCM / addition · Slag cement",
       "takeaways": [
-        "Foundational seed: Slag cement has source-dependent latent hydraulic activity; review grades, sulfate resistance, early strength and curing, not just replacement percentage."
+        "Foundational seed: Slag cement has source-dependent latent hydraulic activity; review grades, sulfate resistance, early strength and curing, not just replacement percentage.",
+        "Deepened 2026-11-08: ACI 233R-17 preview, FDOT/ROSA P low-slag durability report, ASTM C989 catalogue. Limited to iron BF slag cement per ACI 233 scope."
       ],
       "resourceIds": [
         "R167",
-        "R24"
+        "R24",
+        "R182",
+        "R183",
+        "R198"
       ]
     },
     {
@@ -884,11 +914,14 @@
       "id": "scm-silica",
       "name": "SCM / addition · Silica fume",
       "takeaways": [
-        "Foundational seed: Silica fume appears in UHPC/high-performance systems; dispersion, rheology and curing need mix-specific control."
+        "Foundational seed: Silica fume appears in UHPC/high-performance systems; dispersion, rheology and curing need mix-specific control.",
+        "Deepened 2026-11-08: ACI 234R-06 preview excerpt and silica-fume specification catalogue record. 2006 guide age and incomplete preview noted."
       ],
       "resourceIds": [
         "R167",
-        "R24"
+        "R24",
+        "R184",
+        "R199"
       ]
     },
     {
@@ -906,9 +939,12 @@
       "id": "scm-emerging",
       "name": "SCM / addition · Emerging / alternative SCMs",
       "takeaways": [
-        "Gap: Coverage gap: harvested ash, ground glass, biomass ash, mine residues and other alternatives lack individual verified standards/field sources in this pass."
+        "Gap: Coverage gap: harvested ash, ground glass, biomass ash, mine residues and other alternatives lack individual verified standards/field sources in this pass.",
+        "Deepened 2026-11-08: ASTM C1866/C1866M-25 ground-glass pozzolan catalogue. Harvested ash, biomass ash and mine-residue SCMs remain largely candidate-queue only."
       ],
-      "resourceIds": []
+      "resourceIds": [
+        "R185"
+      ]
     },
     {
       "id": "concrete-structural",
@@ -960,10 +996,12 @@
       "id": "concrete-lightweight",
       "name": "Concrete · Lightweight aggregate concrete",
       "takeaways": [
-        "Seeded / partial: Structural lightweight aggregate concrete is not interchangeable with foamed fill."
+        "Seeded / partial: Structural lightweight aggregate concrete is not interchangeable with foamed fill.",
+        "Deepened 2026-11-08: ACI PRC-213-14(23) preview for structural lightweight-aggregate concrete. Not interchangeable with foam/cellular fill."
       ],
       "resourceIds": [
-        "R172"
+        "R172",
+        "R195"
       ]
     },
     {
@@ -980,10 +1018,14 @@
       "id": "concrete-cellular",
       "name": "Concrete · Cellular / foamed / aerated",
       "takeaways": [
-        "Seeded / partial: Geotechnical foamed/cellular guide seeded; autoclaved aerated concrete panels and fire/structural specifications remain gaps."
+        "Seeded / partial: Geotechnical foamed/cellular guide seeded; autoclaved aerated concrete panels and fire/structural specifications remain gaps.",
+        "Deepened 2026-11-08: ACI 526R-19 AAC panel preview, ASTM C1693 catalogue, and foamed cellular backfill DOI record. AAC ≠ cast foamed fill."
       ],
       "resourceIds": [
-        "R152"
+        "R152",
+        "R196",
+        "R197",
+        "R203"
       ]
     },
     {
@@ -1014,10 +1056,13 @@
       "id": "concrete-shotcrete",
       "name": "Concrete · Shotcrete",
       "takeaways": [
-        "Seeded / partial: Existing single Type IL wet-mix study retained; broader dry/wet shotcrete, accelerator and overhead qualification remain gaps."
+        "Seeded / partial: Existing single Type IL wet-mix study retained; broader dry/wet shotcrete, accelerator and overhead qualification remain gaps.",
+        "Deepened 2026-11-08: ACI PRC-506-22 preview superseding 506R-16; FHWA sprayable UHPC TechNote for repair sprays. Dry/wet process distinctions retained."
       ],
       "resourceIds": [
-        "R55"
+        "R55",
+        "R193",
+        "R194"
       ]
     },
     {
@@ -1207,6 +1252,7 @@
     }
   ],
   "keyIssues": [
+    "Research campaign mode: treat verified additions and candidate-queue leads differently; candidates are not indexed as verified resources until human-quality verification.",
     "Scope and evidence quality: binder chemistry, SCM, concrete/application and engineering topic are different axes; abstract/preview/catalogue-level seeds do not establish specification compliance.",
     "Durability and carbon tradeoffs: compare functional performance and service life, and verify low-pH steel compatibility and carbonation conditions for alternative binders.",
     "Finishing and set in slabs: Industry guidance exists (ASCC R10; Euclid R133) but standards for finishing aids are minimal. WDM forensic (R135) links pavement surface distress to finishing/curing response to slower bleed, not a defective cement.",
@@ -3423,6 +3469,342 @@
         "guides",
         "cross-tests-codes"
       ]
+    },
+    {
+      "id": "R178",
+      "title": "ACI PRC-223-21 Shrinkage-Compensating Concrete—Guide (preview)",
+      "publisher": "ACI Committee 223",
+      "type": "Guide preview",
+      "date": "2021-11",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/223-21_preview.pdf",
+      "topics": [
+        "binder-specialty",
+        "cross-mechanics",
+        "guides",
+        "standards"
+      ]
+    },
+    {
+      "id": "R179",
+      "title": "ASTM C845/C845M-24 Standard Specification for Expansive Hydraulic Cement (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "2024",
+      "url": "https://store.astm.org/c0845_c0845m-24.html",
+      "topics": [
+        "binder-specialty",
+        "standards"
+      ]
+    },
+    {
+      "id": "R180",
+      "title": "ASTM C1600/C1600M-25 Standard Specification for Rapid Hardening Hydraulic Cement (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "2025",
+      "url": "https://store.astm.org/c1600_c1600m-25.html",
+      "topics": [
+        "binder-specialty",
+        "standards"
+      ]
+    },
+    {
+      "id": "R181",
+      "title": "NEN-EN 14647:2005 Calcium aluminate cement — Composition, specifications and conformity criteria (catalogue)",
+      "publisher": "NEN / CEN",
+      "type": "Standard catalogue scope",
+      "date": "2005-11-01",
+      "url": "https://www.nen.nl/en/nen-en-14647-2005-en-102033",
+      "topics": [
+        "binder-cac-csa",
+        "standards",
+        "intl"
+      ]
+    },
+    {
+      "id": "R182",
+      "title": "ACI 233R-17 Guide to the Use of Slag Cement in Concrete and Mortar (preview)",
+      "publisher": "ACI Committee 233",
+      "type": "Guide preview",
+      "date": "2017-09",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/233R-17_preview.pdf",
+      "topics": [
+        "scm-slag",
+        "scm",
+        "guides",
+        "carbon"
+      ]
+    },
+    {
+      "id": "R183",
+      "title": "Durability of Concrete Using Low Slag Cement Contents (FDOT BEC98 / ROSA P)",
+      "publisher": "University of Florida / Florida DOT",
+      "type": "Government research report",
+      "date": "",
+      "url": "https://rosap.ntl.bts.gov/view/dot/78830/dot_78830_DS1.pdf",
+      "topics": [
+        "scm-slag",
+        "durability",
+        "dot"
+      ]
+    },
+    {
+      "id": "R184",
+      "title": "ACI 234R-06 Guide for the Use of Silica Fume in Concrete (preview excerpt)",
+      "publisher": "ACI Committee 234",
+      "type": "Guide preview",
+      "date": "2006-04-13",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/23406_2pager.pdf",
+      "topics": [
+        "scm-silica",
+        "scm",
+        "guides",
+        "strength"
+      ]
+    },
+    {
+      "id": "R185",
+      "title": "ASTM C1866/C1866M-25 Standard Specification for Ground-Glass Pozzolan for Use in Concrete (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "2025",
+      "url": "https://store.astm.org/c1866_c1866m-25.html",
+      "topics": [
+        "scm-emerging",
+        "scm",
+        "standards"
+      ]
+    },
+    {
+      "id": "R186",
+      "title": "Calcined clay limestone cements (LC3) (Scrivener, Martirena, Bishnoi, Maity)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Paper",
+      "date": "2018",
+      "url": "https://doi.org/10.1016/j.cemconres.2017.08.017",
+      "topics": [
+        "binder-lc3",
+        "carbon",
+        "scm-clay",
+        "intl"
+      ]
+    },
+    {
+      "id": "R187",
+      "title": "Investigation of the calcined kaolinite content on the hydration of Limestone Calcined Clay Cement (LC3) (Avet, Scrivener)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Paper",
+      "date": "2018",
+      "url": "https://doi.org/10.1016/j.cemconres.2018.02.016",
+      "topics": [
+        "binder-lc3",
+        "cross-chemistry",
+        "scm-clay"
+      ]
+    },
+    {
+      "id": "R188",
+      "title": "Alkali Activated Materials: State-of-the-Art Report, RILEM TC 224-AAM (Provis, van Deventer, eds.)",
+      "publisher": "Springer / RILEM",
+      "type": "Book / state-of-the-art report",
+      "date": "2014",
+      "url": "https://doi.org/10.1007/978-94-007-7672-2",
+      "topics": [
+        "binder-activated",
+        "standards",
+        "intl",
+        "guides"
+      ]
+    },
+    {
+      "id": "R189",
+      "title": "Geopolymers and Related Alkali-Activated Materials (Provis, van Deventer)",
+      "publisher": "Annual Review of Materials Research",
+      "type": "Review paper",
+      "date": "2014",
+      "url": "https://doi.org/10.1146/annurev-matsci-070813-113515",
+      "topics": [
+        "binder-activated",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R190",
+      "title": "Advances in alternative cementitious binders (Juenger, Winnefeld, Provis, Ideker)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Review paper",
+      "date": "2011",
+      "url": "https://doi.org/10.1016/j.cemconres.2010.11.012",
+      "topics": [
+        "binder-activated",
+        "binder-magnesium-carbonatable",
+        "binder-cac-csa",
+        "carbon"
+      ]
+    },
+    {
+      "id": "R191",
+      "title": "Magnesia-Based Cements: A Journey of 150 Years, and Cements for the Future? (Walling, Provis)",
+      "publisher": "Chemical Reviews / ACS; White Rose Research Online record",
+      "type": "Review paper",
+      "date": "2016-03-22",
+      "url": "https://doi.org/10.1021/acs.chemrev.5b00463",
+      "topics": [
+        "binder-magnesium-carbonatable",
+        "cross-chemistry",
+        "carbon"
+      ]
+    },
+    {
+      "id": "R192",
+      "title": "API Spec 10A — Specification for Cements and Materials for Well Cementing (25th ed. catalogue / Accuris)",
+      "publisher": "American Petroleum Institute",
+      "type": "Standard catalogue record",
+      "date": "2019",
+      "url": "https://store.accuristech.com/standards/api-spec-10a?product_id=2038411",
+      "topics": [
+        "binder-well",
+        "standards"
+      ]
+    },
+    {
+      "id": "R193",
+      "title": "ACI PRC-506-22 Shotcrete—Guide (preview)",
+      "publisher": "ACI Committee 506",
+      "type": "Guide preview",
+      "date": "2022-11",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/506-22_preview.pdf",
+      "topics": [
+        "concrete-shotcrete",
+        "guides",
+        "field",
+        "apps"
+      ]
+    },
+    {
+      "id": "R194",
+      "title": "Sprayable UHPC for Repair and Preservation (FHWA-HRT-24-118)",
+      "publisher": "FHWA",
+      "type": "TechNote",
+      "date": "2024",
+      "url": "https://rosap.ntl.bts.gov/view/dot/75069/dot_75069_DS1.pdf",
+      "topics": [
+        "concrete-shotcrete",
+        "concrete-hpc",
+        "concrete-repair-grout-overlay",
+        "apps"
+      ]
+    },
+    {
+      "id": "R195",
+      "title": "ACI PRC-213-14(23) Guide for Structural Lightweight-Aggregate Concrete (preview)",
+      "publisher": "ACI Committee 213",
+      "type": "Guide preview",
+      "date": "2014-06",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/213-14(23)_preview.pdf",
+      "topics": [
+        "concrete-lightweight",
+        "guides",
+        "strength"
+      ]
+    },
+    {
+      "id": "R196",
+      "title": "ACI 526R-19 Guide for Design and Construction with Autoclaved Aerated Concrete Panels (preview)",
+      "publisher": "ACI Committee 526",
+      "type": "Guide preview",
+      "date": "2019-07",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/526R-19_preview.pdf",
+      "topics": [
+        "concrete-cellular",
+        "guides",
+        "apps"
+      ]
+    },
+    {
+      "id": "R197",
+      "title": "ASTM C1693-11(2025) Standard Specification for Autoclaved Aerated Concrete (AAC) (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "2025",
+      "url": "https://store.astm.org/c1693-11r25.html",
+      "topics": [
+        "concrete-cellular",
+        "standards"
+      ]
+    },
+    {
+      "id": "R198",
+      "title": "ASTM C989/C989M-24 Standard Specification for Slag Cement for Use in Concrete and Mortars (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "2024",
+      "url": "https://store.astm.org/c0989_c0989m-24.html",
+      "topics": [
+        "scm-slag",
+        "standards"
+      ]
+    },
+    {
+      "id": "R199",
+      "title": "ASTM C1240 Standard Specification for Silica Fume Used in Cementitious Mixtures (catalogue)",
+      "publisher": "ASTM International",
+      "type": "Standard catalogue record",
+      "date": "",
+      "url": "https://store.astm.org/c1240-20.html",
+      "topics": [
+        "scm-silica",
+        "standards"
+      ]
+    },
+    {
+      "id": "R200",
+      "title": "Performance of Limestone Calcined Clay Cement (LC3) with various kaolinite contents with respect to chloride transport (Avet, Scrivener)",
+      "publisher": "Materials and Structures",
+      "type": "Paper",
+      "date": "2018",
+      "url": "https://doi.org/10.1617/s11527-018-1255-3",
+      "topics": [
+        "binder-lc3",
+        "durability"
+      ]
+    },
+    {
+      "id": "R201",
+      "title": "One-part alkali-activated materials: A review (Luukkonen et al.)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Review paper",
+      "date": "2017",
+      "url": "https://doi.org/10.1016/j.cemconres.2017.10.001",
+      "topics": [
+        "binder-activated",
+        "guides"
+      ]
+    },
+    {
+      "id": "R202",
+      "title": "Influence of aggregate type on conversion and strength in calcium aluminate cement concrete (Adams, Ideker)",
+      "publisher": "Cement and Concrete Research",
+      "type": "Paper",
+      "date": "2017",
+      "url": "https://doi.org/10.1016/j.cemconres.2017.07.007",
+      "topics": [
+        "binder-cac-csa",
+        "durability",
+        "strength"
+      ]
+    },
+    {
+      "id": "R203",
+      "title": "Ready-Mixed Foamed Cellular Concrete as Engineered Backfill Material",
+      "publisher": "Transportation Association of Canada / related proceedings record via Crossref",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://doi.org/10.33593/bdnmn0wp",
+      "topics": [
+        "concrete-cellular",
+        "apps"
+      ]
     }
   ],
   "changeLog": [
@@ -3465,9 +3847,15 @@
     {
       "date": "2026-11-08",
       "entry": "Expanded scope to Cement & Concrete Index; appended 38 records R140–R177 and 41 multi-axis topics without changing existing resource objects. Source URLs deduplicated against existing URLs. 2016 ACI preview retained as historical foundation, not latest edition. Official EN catalogue pages verified, full text still unavailable. Daily cadence managed separately."
+    },
+    {
+      "date": "2026-11-08",
+      "entry": "Deep research campaign pass 1: inventoried all 59 topics; deepened 12 under-covered binder/SCM/concrete topics; appended 26 verified records R178–R203; created research-ledger, portable metadata, and candidate queue. Existing R1–R177 preserved."
     }
   ],
   "gaps": [
+    "Deep pass 1 is a first substantial batch, not complete coverage of any topic or of the internet. 585 unique OpenAlex/Crossref hits remain in the candidate queue for triage.",
+    "Many new verified records are catalogue/DOI/preview-level: full normative ASTM/API/EN texts and several review PDFs were not obtained. Unknown dates remain blank.",
     "New scope is foundational, not complete: 38 additions do not provide comprehensive coverage of all binders, concrete families or jurisdictions.",
     "Verification boundary: new PDF text was inspected; web records, abstracts, manufacturer descriptions and standard catalogue scopes are labeled. Original R1–R139 were preserved, not all reverified this pass; R118 authors/year remain unconfirmed.",
     "Normative access: EN 197-1 and EN 197-5 official catalogue scopes now added (R149–R150), but full official texts still not reviewed. ACI 318/301 primary code coverage remains open. ACI 225R-16 and 548.6R-19 are dated previews, not asserted latest editions.",

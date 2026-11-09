@@ -182,9 +182,13 @@ for r in data["resources"]:
     note = notes.get(rid)
     if note and html.escape(note, quote=True) not in home_html:
         errors.append(f"{rid}: source note is missing from the home page")
+by_topic = {}
+for r in data["resources"]:
+    for tid in r.get("topics") or []:
+        by_topic.setdefault(tid, set()).add(r["id"])
 for t in data["topics"]:
     page = (ROOT / "topics" / t["id"] / "index.html").read_text(encoding="utf-8")
-    ids = t.get("resourceIds") or []
+    ids = set(t.get("resourceIds") or []) | by_topic.get(t["id"], set())
     if not ids:
         if "Coverage gap" not in page or "not a finding that no literature exists" not in page:
             errors.append(f"topic {t['id']}: empty membership is not shown as a coverage gap")
@@ -197,6 +201,54 @@ for t in data["topics"]:
         errors.append(f"topic {t['id']}: Type IL takeaways are not scoped")
 if "Type IL collection" not in home_html:
     errors.append("home page does not label the Type IL collection")
+
+# Provenance sidecars. Candidates are an unverified queue and are not index resources.
+for i in range(140, 178):
+    if f"R{i}" not in notes or not str(notes.get(f"R{i}") or "").strip():
+        errors.append(f"earlier source note R{i} was dropped")
+verified_path = ROOT / "research" / "verified-sources.jsonl"
+candidate_path = ROOT / "research" / "candidates.jsonl"
+ledger_path = ROOT / "research" / "research-ledger.json"
+resource_urls = {r.get("url", "").rstrip("/").lower() for r in data["resources"]}
+resource_ids = {r["id"] for r in data["resources"]}
+if not verified_path.exists():
+    errors.append("research/verified-sources.jsonl is missing")
+else:
+    for line in verified_path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        rid = item.get("id")
+        if item.get("status") != "verified" or rid not in resource_ids:
+            errors.append(f"verified sidecar {rid} is not an indexed resource")
+        elif notes.get(rid) != item.get("evidenceNote"):
+            errors.append(f"{rid}: source note does not match verified-sources evidenceNote")
+if not candidate_path.exists():
+    errors.append("research/candidates.jsonl is missing")
+else:
+    n_candidates = 0
+    for line in candidate_path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        n_candidates += 1
+        if item.get("status") != "candidate":
+            errors.append("candidate queue contains a record that is not status=candidate")
+        url = (item.get("url") or "").rstrip("/").lower()
+        if url and url in resource_urls:
+            errors.append(f"unverified candidate URL is also an index resource: {item.get('url')}")
+    if n_candidates and str(n_candidates) in home_html and f"{n_candidates} resources" in home_html:
+        errors.append("home page resource count matches the unverified candidate queue")
+if not ledger_path.exists():
+    errors.append("research/research-ledger.json is missing")
+else:
+    ledger = json.loads(ledger_path.read_text(encoding="utf-8"))
+    ledger_topics = ledger.get("topics") or []
+    if len(ledger_topics) != len(data["topics"]):
+        errors.append(f"research ledger has {len(ledger_topics)} topics, site data has {len(data['topics'])}")
+    finished = [t.get("id") for t in ledger_topics if t.get("coverageStatus") in ("complete", "exhaustive", "finished")]
+    if finished:
+        errors.append(f"research ledger marks topics finished: {finished}")
 
 print(f"checked {len(pages)} pages")
 if errors:

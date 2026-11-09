@@ -2,6 +2,14 @@
 
 Durable decisions and lessons only. Newest first.
 
+## 2026-11-09 — Deep research pass 1
+
+**Decisions**
+- Pass 1 adds verified records R178–R203 only. R1–R177 objects and URLs stay unchanged. Notes R140–R177 stay, and notes for R178–R203 are added.
+- `research/candidates.jsonl` is an unverified queue. It is not loaded by the site builder and is not part of the resource count. `research/verified-sources.jsonl` describes sources already in `data/site-data.json`.
+- The ledger’s 12 deepened topics stay partial. The other 47 stay queued. A finished pass is not finished coverage.
+- Topic membership remains the union of `resource.topics` and `topic.resourceIds`. The builder still does not write that union back into the JSON.
+
 ## 2026-11-08 — Cement and concrete expansion
 
 **Decisions**
