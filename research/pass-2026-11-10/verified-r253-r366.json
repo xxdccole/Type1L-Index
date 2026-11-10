@@ -1,0 +1,4030 @@
+[
+ {
+  "id": "R253",
+  "status": "verified",
+  "title": "Energy conversation through the facilitation of increased blended cement use",
+  "authors": [
+   "Paul Wencil Brown",
+   "James R Clifton",
+   "Geoffrey Frohnsdorff"
+  ],
+  "publisher": "National Bureau of Standards",
+  "type": "Report",
+  "date": "1976",
+  "url": "https://doi.org/10.6028/nbs.ir.76-1008",
+  "doi": "10.6028/nbs.ir.76-1008",
+  "identifiers": {},
+  "topics": [
+   "binder-blended",
+   "carbon",
+   "scm-flyash",
+   "scm-slag",
+   "cross-environment-cost"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NBS 1976 assessment: ~95% of US cement was portland and its manufacture used ~2% of US industrial energy; argues for blended cements with fly ash/slag for energy conservation and reviews barriers to their wider use.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: Public domain (US Government work)",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R254",
+  "status": "verified",
+  "title": "Concrete containing ternary blended binders: Resistance to chloride ingress and carbonation",
+  "authors": [
+   "M.R. Jones",
+   "R.K. Dhir",
+   "B.J. Magee"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1997-06",
+  "url": "https://doi.org/10.1016/s0008-8846(97)00075-6",
+  "doi": "10.1016/s0008-8846(97)00075-6",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 27:825-831"
+  },
+  "topics": [
+   "binder-blended",
+   "cross-durability",
+   "durability"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Ternary-binder concretes (portland cement with two additions) tested for chloride ingress and carbonation resistance — early ternary-blend durability evidence.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R255",
+  "status": "verified",
+  "title": "Ternary Blended Cements for High-Performance Concrete",
+  "authors": [
+   "G. Menéndez",
+   "Viviana L. Bonavetti",
+   "H. Donza",
+   "Mónica Adriana Trezza",
+   "Edgardo F. Irassar"
+  ],
+  "publisher": "American Concrete Institute (SP-207: Proceedings, Third International Conference on High Performance Concrete)",
+  "type": "Conference paper",
+  "date": "2002",
+  "url": "https://doi.org/10.14359/12405",
+  "doi": "10.14359/12405",
+  "identifiers": {
+   "journal": "SP-207: Proceedings, Third International Conference on High Performance Concrete "
+  },
+  "topics": [
+   "binder-blended",
+   "concrete-hpc",
+   "scm-limestone",
+   "scm-slag"
+  ],
+  "geography": "Argentina",
+  "language": "en",
+  "description": "Ternary blended cements for high-performance concrete, from the Third International Conference on High Performance Concrete (ACI SP-207).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R256",
+  "status": "verified",
+  "title": "Strength development of ternary blended cement with limestone filler and blast-furnace slag",
+  "authors": [
+   "G Menéndez",
+   "V Bonavetti",
+   "E.F Irassar"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Paper",
+  "date": "2003-01",
+  "url": "https://doi.org/10.1016/s0958-9465(01)00056-7",
+  "doi": "10.1016/s0958-9465(01)00056-7",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 25:61-67"
+  },
+  "topics": [
+   "binder-blended",
+   "scm-limestone",
+   "scm-slag",
+   "strength"
+  ],
+  "geography": "Argentina",
+  "language": "en",
+  "description": "Strength development of ternary blended cements combining limestone filler and blast-furnace slag; companion to the Irassar group's carboaluminate work (R242).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R257",
+  "status": "verified",
+  "title": "Improving the performance of ternary blended cements by mixing different types of fly ashes",
+  "authors": [
+   "S.K. Antiohos",
+   "V.G. Papadakis",
+   "E. Chaniotakis",
+   "S. Tsimas"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2007-06",
+  "url": "https://doi.org/10.1016/j.cemconres.2007.02.017",
+  "doi": "10.1016/j.cemconres.2007.02.017",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 37:877-885"
+  },
+  "topics": [
+   "binder-blended",
+   "scm-flyash"
+  ],
+  "geography": "Greece",
+  "language": "en",
+  "description": "Ternary blended cements made by combining different fly ash types to improve performance.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R258",
+  "status": "verified",
+  "title": "Reactivity of supplementary cementitious materials (SCMs) in cement blends",
+  "authors": [
+   "Jørgen Skibsted",
+   "Ruben Snellings"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2019-10",
+  "url": "https://doi.org/10.1016/j.cemconres.2019.105799",
+  "doi": "10.1016/j.cemconres.2019.105799",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 124:105799"
+  },
+  "topics": [
+   "binder-blended",
+   "scm",
+   "cross-chemistry",
+   "scm-clay"
+  ],
+  "geography": "Denmark / Belgium",
+  "language": "en",
+  "description": "Widely cited review of how SCM reactivity in cement blends is defined, measured and controlled (glass/clay structure, hydration products, test methods).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R259",
+  "status": "verified",
+  "title": "Readily implementable techniques can cut annual CO 2 emissions from the production of concrete by over 20%",
+  "authors": [
+   "Sabbie A Miller",
+   "Arpad Horvath",
+   "Paulo J M Monteiro"
+  ],
+  "publisher": "IOP Publishing (Environmental Research Letters)",
+  "type": "Paper",
+  "date": "2016-07-01",
+  "url": "https://doi.org/10.1088/1748-9326/11/7/074029",
+  "doi": "10.1088/1748-9326/11/7/074029",
+  "identifiers": {
+   "journal": "Environmental Research Letters 11:074029"
+  },
+  "topics": [
+   "binder-blended",
+   "carbon",
+   "cross-environment-cost"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Quantifies how readily implementable measures (clinker replacement with SCMs, alternative fuels, efficiency) could cut global concrete-production CO2 (~8.6% of anthropogenic emissions per the authors).",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R260",
+  "status": "verified",
+  "title": "Low clinker systems - Towards a rational use of SCMs for optimal performance",
+  "authors": [
+   "Mohsen Ben Haha",
+   "Pipat Termkhajornkit",
+   "Alexandre Ouzia",
+   "Siva Uppalapati",
+   "Bruno Huet"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2023-12",
+  "url": "https://doi.org/10.1016/j.cemconres.2023.107312",
+  "doi": "10.1016/j.cemconres.2023.107312",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 174:107312"
+  },
+  "topics": [
+   "binder-blended",
+   "scm",
+   "carbon",
+   "cross-mix"
+  ],
+  "geography": "Global",
+  "language": "en",
+  "description": "Low-clinker systems: framework for rational SCM use in blended cements to reach performance targets at reduced clinker factor.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R261",
+  "status": "verified",
+  "title": "Relative strength, pozzolanic activity and cement hydration in superplasticised metakaolin concrete",
+  "authors": [
+   "S. Wild",
+   "J.M. Khatib",
+   "A. Jones"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1996-10",
+  "url": "https://doi.org/10.1016/0008-8846(96)00148-2",
+  "doi": "10.1016/0008-8846(96)00148-2",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 26:1537-1544"
+  },
+  "topics": [
+   "scm-clay",
+   "strength",
+   "cross-chemistry"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Classic metakaolin study: relative strength, pozzolanic activity and hydration in superplasticised metakaolin concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R262",
+  "status": "verified",
+  "title": "The effect that the pozzolanic reaction of metakaolin has on the heat evolution in metakaolin-cement mortars",
+  "authors": [
+   "M. Frı́as",
+   "M.I.Sánchez de Rojas",
+   "J. Cabrera"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2000-02",
+  "url": "https://doi.org/10.1016/s0008-8846(99)00231-8",
+  "doi": "10.1016/s0008-8846(99)00231-8",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 30:209-216"
+  },
+  "topics": [
+   "scm-clay",
+   "cross-chemistry",
+   "mass"
+  ],
+  "geography": "Spain / UK",
+  "language": "en",
+  "description": "Effect of the metakaolin pozzolanic reaction on heat evolution in metakaolin-cement mortars.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R263",
+  "status": "verified",
+  "title": "Long-term testing of the chloride-penetration resistance of concrete containing high-reactivity metakaolin",
+  "authors": [
+   "Andrea Boddy",
+   "R.D Hooton",
+   "K.A Gruber"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2001-05",
+  "url": "https://doi.org/10.1016/s0008-8846(01)00492-6",
+  "doi": "10.1016/s0008-8846(01)00492-6",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 31:759-765"
+  },
+  "topics": [
+   "scm-clay",
+   "cross-durability",
+   "durability"
+  ],
+  "geography": "Canada",
+  "language": "en",
+  "description": "Long-term chloride-penetration testing of concrete with high-reactivity metakaolin.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R264",
+  "status": "verified",
+  "title": "Metakaolin and calcined clays as pozzolans for concrete: a review",
+  "authors": [
+   "B.B Sabir",
+   "S Wild",
+   "J Bai"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Review paper",
+  "date": "2001-12",
+  "url": "https://doi.org/10.1016/s0958-9465(00)00092-5",
+  "doi": "10.1016/s0958-9465(00)00092-5",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 23:441-454"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-blended"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Foundational review of metakaolin and calcined clays as pozzolans for concrete (reached via backward citation from the RILEM TC 282-CCL review).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R265",
+  "status": "verified",
+  "title": "Exploitation of poor Greek kaolins: strength development of metakaolin concrete and evaluation by means of k-value",
+  "authors": [
+   "E. Badogiannis",
+   "V.G. Papadakis",
+   "E. Chaniotakis",
+   "S. Tsivilis"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2004-06",
+  "url": "https://doi.org/10.1016/j.cemconres.2003.11.014",
+  "doi": "10.1016/j.cemconres.2003.11.014",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 34:1035-1041"
+  },
+  "topics": [
+   "scm-clay",
+   "strength",
+   "intl"
+  ],
+  "geography": "Greece",
+  "language": "en",
+  "description": "Poor-grade Greek kaolins calcined to metakaolin: strength development and efficiency factors in concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R266",
+  "status": "verified",
+  "title": "The origin of the pozzolanic activity of calcined clay minerals: A comparison between kaolinite, illite and montmorillonite",
+  "authors": [
+   "Rodrigo Fernandez",
+   "Fernando Martirena",
+   "Karen L. Scrivener"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2011-01",
+  "url": "https://doi.org/10.1016/j.cemconres.2010.09.013",
+  "doi": "10.1016/j.cemconres.2010.09.013",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 41:113-122"
+  },
+  "topics": [
+   "scm-clay",
+   "cross-chemistry"
+  ],
+  "geography": "Switzerland / Cuba",
+  "language": "en",
+  "description": "Compares the origin of pozzolanic activity of calcined kaolinite, illite and montmorillonite.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R267",
+  "status": "verified",
+  "title": "Cement substitution by a combination of metakaolin and limestone",
+  "authors": [
+   "M. Antoni",
+   "J. Rossen",
+   "F. Martirena",
+   "K. Scrivener"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2012-12",
+  "url": "https://doi.org/10.1016/j.cemconres.2012.09.006",
+  "doi": "10.1016/j.cemconres.2012.09.006",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 42:1579-1589"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-lc3",
+   "scm-limestone"
+  ],
+  "geography": "Switzerland / Cuba",
+  "language": "en",
+  "description": "Cement substitution by combined metakaolin and limestone.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R268",
+  "status": "verified",
+  "title": "Development of a new rapid, relevant and reliable (R3) test method to evaluate the pozzolanic reactivity of calcined kaolinitic clays",
+  "authors": [
+   "François Avet",
+   "Ruben Snellings",
+   "Adrian Alujas Diaz",
+   "Mohsen Ben Haha",
+   "Karen Scrivener"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2016-07",
+  "url": "https://doi.org/10.1016/j.cemconres.2016.02.015",
+  "doi": "10.1016/j.cemconres.2016.02.015",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 85:1-11"
+  },
+  "topics": [
+   "scm-clay",
+   "cross-tests-codes"
+  ],
+  "geography": "Switzerland / Belgium",
+  "language": "en",
+  "description": "Develops the rapid, relevant and reliable (R3) calorimetry/bound-water test for calcined kaolinitic clays — later standardized as ASTM C1897 (per VTRC 26-R52 in this pass).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R269",
+  "status": "verified",
+  "title": "Assessing, Understanding and Unlocking Supplementary Cementitious Materials",
+  "authors": [
+   "Ruben Snellings"
+  ],
+  "publisher": "RILEM Publications (RILEM Technical Letters)",
+  "type": "Review paper",
+  "date": "2016-08-16",
+  "url": "https://doi.org/10.21809/rilemtechlett.2016.12",
+  "doi": "10.21809/rilemtechlett.2016.12",
+  "identifiers": {
+   "journal": "RILEM Technical Letters 1:50-55"
+  },
+  "topics": [
+   "scm-clay",
+   "scm",
+   "scm-emerging",
+   "carbon"
+  ],
+  "geography": "Belgium",
+  "language": "en",
+  "description": "RILEM Technical Letter: ~800 Mt/y of slag, fly ash and other SCMs in use; argues for assessing and unlocking new SCM sources (incl. calcined clays) to cut clinker.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R270",
+  "status": "verified",
+  "title": "Reactivity tests for supplementary cementitious materials: RILEM TC 267-TRM phase 1",
+  "authors": [
+   "Xuerun Li",
+   "Ruben Snellings",
+   "Mathieu Antoni",
+   "Natalia Mariel Alderete",
+   "Mohsen Ben Haha",
+   "Shashank Bishnoi",
+   "Özlem Cizer",
+   "Martin Cyr",
+   "Klaartje De Weerdt",
+   "Yuvaraj Dhandapani",
+   "Josée Duchesne",
+   "Johannes Haufe",
+   "Doug Hooton",
+   "Maria Juenger",
+   "Siham Kamali-Bernard",
+   "Sabina Kramar",
+   "Milena Marroccoli",
+   "Aneeta Mary Joseph",
+   "Anuj Parashar",
+   "Cedric Patapy",
+   "John L. Provis",
+   "Sergio Sabio",
+   "Manu Santhanam",
+   "Laurent Steger",
+   "Tongbo Sui",
+   "Antonio Telesca",
+   "Anya Vollpracht",
+   "Felipe Vargas",
+   "Brant Walkley",
+   "Frank Winnefeld",
+   "Guang Ye",
+   "Maciej Zajac",
+   "Shizhe Zhang",
+   "Karen L. Scrivener"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Paper",
+  "date": "2018-10-30",
+  "url": "https://doi.org/10.1617/s11527-018-1269-x",
+  "doi": "10.1617/s11527-018-1269-x",
+  "identifiers": {
+   "journal": "Materials and Structures 51"
+  },
+  "topics": [
+   "scm-clay",
+   "scm",
+   "cross-tests-codes"
+  ],
+  "geography": "International (RILEM TC 267-TRM)",
+  "language": "en",
+  "description": "RILEM TC 267-TRM phase 1 interlaboratory comparison of reactivity tests for SCMs (precursor to the R3 standardization).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R271",
+  "status": "verified",
+  "title": "Impacting factors and properties of limestone calcined clay cements (LC 3 )",
+  "authors": [
+   "Karen Scrivener",
+   "François Avet",
+   "Hamed Maraghechi",
+   "Franco Zunino",
+   "Julien Ston",
+   "Wilasinee Hanpongpun",
+   "Aurélie Favier"
+  ],
+  "publisher": "Emerald (Green Materials)",
+  "type": "Paper",
+  "date": "2019-03-01",
+  "url": "https://doi.org/10.1680/jgrma.18.00029",
+  "doi": "10.1680/jgrma.18.00029",
+  "identifiers": {
+   "journal": "Green Materials 7:3-14"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-lc3"
+  ],
+  "geography": "Switzerland",
+  "language": "en",
+  "description": "Main factors governing LC3 performance: kaolinite content dominates rheology and strength; kaolinite quantifiable by TGA even with secondary phases; calcination process has modest influence.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R272",
+  "status": "verified",
+  "title": "Clay calcination technology: state-of-the-art review by the RILEM TC 282-CCL",
+  "authors": [
+   "Theodore Hanein",
+   "Karl-Christian Thienel",
+   "Franco Zunino",
+   "Alastair T. M. Marsh",
+   "Matthias Maier",
+   "Bin Wang",
+   "Mariana Canut",
+   "Maria C. G. Juenger",
+   "Mohsen Ben Haha",
+   "François Avet",
+   "Anuj Parashar",
+   "Layth A. Al-Jaberi",
+   "Roger S. Almenares-Reyes",
+   "Adrián Alujas-Diaz",
+   "Karen L. Scrivener",
+   "Susan A. Bernal",
+   "John L. Provis",
+   "Tongbo Sui",
+   "Shashank Bishnoi",
+   "Fernando Martirena-Hernández"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Review paper",
+  "date": "2021-12-20",
+  "url": "https://doi.org/10.1617/s11527-021-01807-6",
+  "doi": "10.1617/s11527-021-01807-6",
+  "identifiers": {
+   "journal": "Materials and Structures 55"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-lc3",
+   "carbon"
+  ],
+  "geography": "International (RILEM TC 282-CCL)",
+  "language": "en",
+  "description": "RILEM TC 282-CCL state-of-the-art review of clay extraction, processing and calcination technology for calcined-clay SCMs, aimed at optimising reactivity at scale.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Promoted from candidate queue. Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R273",
+  "status": "verified",
+  "title": "Hydration and mixture design of calcined clay blended cements: review by the RILEM TC 282-CCL",
+  "authors": [
+   "Franco Zunino",
+   "Yuvaraj Dhandapani",
+   "Mohsen Ben Haha",
+   "Jørgen Skibsted",
+   "Shiju Joseph",
+   "Sreejith Krishnan",
+   "Anuj Parashar",
+   "Maria C. G. Juenger",
+   "Theodore Hanein",
+   "Susan A. Bernal",
+   "Karen L. Scrivener",
+   "François Avet"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Review paper",
+  "date": "2022-11",
+  "url": "https://doi.org/10.1617/s11527-022-02060-1",
+  "doi": "10.1617/s11527-022-02060-1",
+  "identifiers": {
+   "journal": "Materials and Structures 55"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-blended",
+   "cross-mix",
+   "cross-chemistry"
+  ],
+  "geography": "International (RILEM TC 282-CCL)",
+  "language": "en",
+  "description": "RILEM TC 282-CCL review of hydration and mixture design of calcined clay blended cements (forward citation of the TC 282 calcination review).",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R274",
+  "status": "verified",
+  "title": "Effects of clinker and calcined clay mineralogy on the hydration of limestone calcined clay cement (LC3)",
+  "authors": [
+   "Paulo Matos",
+   "Larissa Dresch",
+   "José Andrade Neto",
+   "Caroline Bender",
+   "Erich Rodríguez",
+   "Franco Zunino",
+   "Ana Paula Kirchheim"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2026-10",
+  "url": "https://doi.org/10.1016/j.cemconres.2026.108316",
+  "doi": "10.1016/j.cemconres.2026.108316",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 208:108316"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-lc3",
+   "cross-chemistry"
+  ],
+  "geography": "Brazil / Switzerland",
+  "language": "en",
+  "description": "2026: three clinkers (high/low C3S and C3A) × three calcined clays (47, 80, 98% kaolinite) — clinker and clay mineralogy effects on LC3 hydration (calorimetry, in-situ XRD, SEM-EDS).",
+  "access": "abstract_metadata",
+  "evidenceNote": "Promoted from candidate queue. Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R275",
+  "status": "verified",
+  "title": "FRANCOIS HENNEBIQUE (1842-1921), REINFORCED CONCRETE PIONEER.",
+  "authors": [
+   "D G MCBETH",
+   "F HENNEBIQUE",
+   "L G MOUCHEL"
+  ],
+  "publisher": "Emerald (Proceedings of the Institution of Civil Engineers - Civil Engineering)",
+  "type": "Paper",
+  "date": "1998-05",
+  "url": "https://doi.org/10.1680/icien.1998.30436",
+  "doi": "10.1680/icien.1998.30436",
+  "identifiers": {
+   "journal": "Proceedings of the Institution of Civil Engineers - Civil Engineering 126:86-95"
+  },
+  "topics": [
+   "concrete-structural",
+   "concrete-architectural"
+  ],
+  "geography": "France / UK",
+  "language": "en",
+  "description": "Biographical history of reinforced-concrete pioneer François Hennebique (1842–1921) and his system.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R276",
+  "status": "verified",
+  "title": "Structural Weaknesses of the Hennebique Early Reinforced Concrete System and Possible Retrofitting",
+  "authors": [
+   "Armande Hellebois",
+   "Bernard Espion"
+  ],
+  "publisher": "Taylor & Francis (Structural Engineering International)",
+  "type": "Paper",
+  "date": "2013-11",
+  "url": "https://doi.org/10.2749/101686613x13627347100275",
+  "doi": "10.2749/101686613x13627347100275",
+  "identifiers": {
+   "journal": "Structural Engineering International 23:501-511"
+  },
+  "topics": [
+   "concrete-structural",
+   "cross-failure-repair",
+   "concrete-repair-grout-overlay"
+  ],
+  "geography": "Belgium",
+  "language": "en",
+  "description": "Structural weaknesses of the pre-WWI Hennebique system (continuous T-beams, bent-up bars, flat U-stirrups) and retrofit options for heritage structures.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R277",
+  "status": "verified",
+  "title": "The Invention of Reinforced Concrete (1848 – 1906)",
+  "authors": [
+   "Michel Moussard",
+   "Patricia Garibaldi",
+   "Manfred Curbach"
+  ],
+  "publisher": "Springer (High Tech Concrete: Where Technology and Engineering Meet)",
+  "type": "Book chapter",
+  "date": "2017-08-06",
+  "url": "https://doi.org/10.1007/978-3-319-59471-2_316",
+  "doi": "10.1007/978-3-319-59471-2_316",
+  "identifiers": {
+   "journal": "High Tech Concrete: Where Technology and Engineering Meet :2785-2794"
+  },
+  "topics": [
+   "concrete-structural"
+  ],
+  "geography": "Europe",
+  "language": "en",
+  "description": "Historical chapter on the invention of reinforced concrete, 1848–1906 (in 'High Tech Concrete: Where Technology and Engineering Meet').",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R278",
+  "status": "verified",
+  "title": "Size Effect on Diagonal Shear Failure of Beams Without Stirrups",
+  "authors": [
+   "Zdeněk P. Bažant",
+   "Mohammed T. Kazemi"
+  ],
+  "publisher": "American Concrete Institute (ACI Structural Journal)",
+  "type": "Paper",
+  "date": "1991",
+  "url": "https://doi.org/10.14359/3097",
+  "doi": "10.14359/3097",
+  "identifiers": {
+   "journal": "ACI Structural Journal 88"
+  },
+  "topics": [
+   "concrete-structural",
+   "cross-mechanics"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Bažant & Kazemi (1991): size effect on diagonal shear failure of beams without stirrups.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R279",
+  "status": "verified",
+  "title": "Effect of Deformation Height and Spacing on Bond Strength of Reinforcing Bars",
+  "authors": [
+   "David Darwin",
+   "Ebenezer K. Graham"
+  ],
+  "publisher": "American Concrete Institute (ACI Structural Journal)",
+  "type": "Paper",
+  "date": "1993",
+  "url": "https://doi.org/10.14359/4459",
+  "doi": "10.14359/4459",
+  "identifiers": {
+   "journal": "ACI Structural Journal 90"
+  },
+  "topics": [
+   "concrete-structural",
+   "cross-mechanics"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Effect of deformation (rib) height and spacing on bar bond strength using machined bars — basis for relative-rib-area concepts.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R280",
+  "status": "verified",
+  "title": "Corrosion Effects on Bond Strength in Reinforced Concrete",
+  "authors": [
+   "Kyle Stanish",
+   "Robert Douglas Hooton",
+   "S. J. Pantazopoulou"
+  ],
+  "publisher": "American Concrete Institute (ACI Structural Journal)",
+  "type": "Paper",
+  "date": "1999",
+  "url": "https://doi.org/10.14359/765",
+  "doi": "10.14359/765",
+  "identifiers": {
+   "journal": "ACI Structural Journal 96"
+  },
+  "topics": [
+   "concrete-structural",
+   "cross-durability",
+   "cross-failure-repair"
+  ],
+  "geography": "Canada",
+  "language": "en",
+  "description": "Corrosion effects on bond strength of reinforcement in concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R281",
+  "status": "verified",
+  "title": "Recommendations for Estimating Prestress Losses",
+  "authors": [
+   "PCI Committee on Prestress Losses"
+  ],
+  "publisher": "Precast/Prestressed Concrete Institute (PCI Journal)",
+  "type": "Committee report",
+  "date": "1975",
+  "url": "https://doi.org/10.15554/pcij20.4-04",
+  "doi": "10.15554/pcij20.4-04",
+  "identifiers": {
+   "journal": "PCI Journal 20"
+  },
+  "topics": [
+   "concrete-structural",
+   "concrete-precast-insitu-print",
+   "cross-mechanics"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "PCI Committee on Prestress Losses (1975): general and simplified procedures to estimate prestress loss from creep, shrinkage and relaxation, with commentary and examples.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": "1975 committee recommendations; superseded in practice by later methods (e.g., AASHTO LRFD refined losses) — not reviewed here.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R282",
+  "status": "verified",
+  "title": "Connections for Precast Prestressed Concrete Buildings Including Earthquake Resistance",
+  "authors": [
+   "L. D. Martin",
+   "W. J. Korkosz"
+  ],
+  "publisher": "Precast/Prestressed Concrete Institute",
+  "type": "Report",
+  "date": "1982",
+  "url": "https://doi.org/10.15554/tr-2-82",
+  "doi": "10.15554/tr-2-82",
+  "identifiers": {},
+  "topics": [
+   "concrete-structural",
+   "concrete-precast-insitu-print"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "PCI technical report on connections for precast prestressed concrete buildings, including earthquake resistance.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": "1982 report; current PCI Design Handbook/connection manuals supersede for design — not reviewed.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R283",
+  "status": "verified",
+  "title": "Ultrafine particles for the making of very high strength concretes",
+  "authors": [
+   "François de Larrard"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1989-03",
+  "url": "https://doi.org/10.1016/0008-8846(89)90079-3",
+  "doi": "10.1016/0008-8846(89)90079-3",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 19:161-172"
+  },
+  "topics": [
+   "concrete-hpc",
+   "scm-silica",
+   "cross-mix"
+  ],
+  "geography": "France",
+  "language": "en",
+  "description": "de Larrard (1989): role of ultrafine particles (silica fume) in making very-high-strength concretes — backward citation of Richard & Cheyrezy.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R284",
+  "status": "verified",
+  "title": "Optimization of ultra-high-performance concrete by the use of a packing model",
+  "authors": [
+   "F. de Larrard",
+   "T. Sedran"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1994",
+  "url": "https://doi.org/10.1016/0008-8846(94)90022-1",
+  "doi": "10.1016/0008-8846(94)90022-1",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 24:997-1009"
+  },
+  "topics": [
+   "concrete-hpc",
+   "cross-mix"
+  ],
+  "geography": "France",
+  "language": "en",
+  "description": "de Larrard & Sedran (1994): optimization of ultra-high-performance concrete using a packing model (backward citation of Richard & Cheyrezy).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R285",
+  "status": "verified",
+  "title": "Composition of reactive powder concretes",
+  "authors": [
+   "Pierre Richard",
+   "Marcel Cheyrezy"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1995-10",
+  "url": "https://doi.org/10.1016/0008-8846(95)00144-2",
+  "doi": "10.1016/0008-8846(95)00144-2",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 25:1501-1511"
+  },
+  "topics": [
+   "concrete-hpc",
+   "concrete-fibers"
+  ],
+  "geography": "France",
+  "language": "en",
+  "description": "Richard & Cheyrezy (1995): composition principles of reactive powder concretes (RPC) — foundational UHPC paper (~2,400 citations in OpenAlex).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R286",
+  "status": "verified",
+  "title": "Applicability of the maturity method to high-performance concrete",
+  "authors": [
+   "Nicholas J Carino",
+   "Lawrence I Knab",
+   "James R Clifton"
+  ],
+  "publisher": "National Institute of Standards and Technology",
+  "type": "Report",
+  "date": "1992",
+  "url": "https://doi.org/10.6028/nist.ir.4819",
+  "doi": "10.6028/nist.ir.4819",
+  "identifiers": {},
+  "topics": [
+   "concrete-hpc",
+   "cross-construction",
+   "cross-tests-codes"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NIST: tests whether the maturity method represents strength development of HPC mortars (w/cm 0.29 and 0.36, Type I + 10% silica fume + HRWR) cured at different temperatures.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R287",
+  "status": "verified",
+  "title": "International Workshop on Fire Performance of High-Strength Concrete, NIST, Gaithersburg, MD, February 13-14, 1997",
+  "authors": [
+   "Long T Phan",
+   "Long T Phan",
+   "Nicholas J Cariono",
+   "Dat Duthinh",
+   "Edward J Garboczi"
+  ],
+  "publisher": "National Institute of Standards and Technology",
+  "type": "Proceedings",
+  "date": "1997",
+  "url": "https://doi.org/10.6028/nist.sp.919",
+  "doi": "10.6028/nist.sp.919",
+  "identifiers": {},
+  "topics": [
+   "concrete-hpc",
+   "cross-mechanics",
+   "cross-failure-repair"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NIST 1997 international workshop on fire performance of high-strength concrete: strength loss at temperature, explosive spalling and code inadequacy.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R288",
+  "status": "verified",
+  "title": "Curing of high-performance concrete",
+  "authors": [
+   "Kenneth W Meeks",
+   "Nicholas J Carino"
+  ],
+  "publisher": "National Institute of Standards and Technology",
+  "type": "Report",
+  "date": "1999",
+  "url": "https://doi.org/10.6028/nist.ir.6295",
+  "doi": "10.6028/nist.ir.6295",
+  "identifiers": {},
+  "topics": [
+   "concrete-hpc",
+   "cross-construction"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NIST state-of-knowledge report on curing of high-performance concrete and curing effects on concrete properties generally.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R289",
+  "status": "verified",
+  "title": "Tensile Properties of Very‐High‐Strength Concrete for Penetration‐Resistant Structures",
+  "authors": [
+   "E.F. O’Neil",
+   "B.D. Neeley",
+   "J.D. Cargile"
+  ],
+  "publisher": "Wiley (Shock and Vibration)",
+  "type": "Paper",
+  "date": "1999-01",
+  "url": "https://doi.org/10.1155/1999/415360",
+  "doi": "10.1155/1999/415360",
+  "identifiers": {
+   "journal": "Shock and Vibration 6:237-245"
+  },
+  "topics": [
+   "concrete-hpc",
+   "cross-mechanics"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "USACE WES very-high-strength concretes for penetration-resistant protective structures; tensile properties and penetration test comparison.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R290",
+  "status": "verified",
+  "title": "The durability characteristics of high performance concrete: a review",
+  "authors": [
+   "P.C Aı̈tcin"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Review paper",
+  "date": "2003-05",
+  "url": "https://doi.org/10.1016/s0958-9465(02)00081-1",
+  "doi": "10.1016/s0958-9465(02)00081-1",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 25:409-420"
+  },
+  "topics": [
+   "concrete-hpc",
+   "cross-durability",
+   "durability"
+  ],
+  "geography": "Canada",
+  "language": "en",
+  "description": "Aïtcin review of HPC durability characteristics.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R291",
+  "status": "verified",
+  "title": "Ultra-high performance concrete: From fundamental to applications",
+  "authors": [
+   "N.M. Azmee",
+   "N. Shafiq"
+  ],
+  "publisher": "Elsevier (Case Studies in Construction Materials)",
+  "type": "Review paper",
+  "date": "2018-12",
+  "url": "https://doi.org/10.1016/j.cscm.2018.e00197",
+  "doi": "10.1016/j.cscm.2018.e00197",
+  "identifiers": {
+   "journal": "Case Studies in Construction Materials 9:e00197"
+  },
+  "topics": [
+   "concrete-hpc"
+  ],
+  "geography": "Malaysia",
+  "language": "en",
+  "description": "Review of UHPC fundamentals to applications: rheology, mechanical and durability performance.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY-NC-ND",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R292",
+  "status": "verified",
+  "title": "Section shapes for precast short-span ultra-high-performance concrete bridges",
+  "authors": [
+   "David B. Garber",
+   "Rafic G. Helou",
+   "Benjamin Graybeal"
+  ],
+  "publisher": "Precast/Prestressed Concrete Institute (PCI Journal)",
+  "type": "Paper",
+  "date": "2026",
+  "url": "https://doi.org/10.15554/pcij71.5-01",
+  "doi": "10.15554/pcij71.5-01",
+  "identifiers": {
+   "journal": "PCI Journal 71:24-36"
+  },
+  "topics": [
+   "concrete-hpc",
+   "concrete-structural",
+   "concrete-precast-insitu-print",
+   "apps"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "2026 PCI Journal: candidate precast UHPC section shapes for short-span bridges enabled by the AASHTO Guide Specification for Structural Design with UHPC.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R293",
+  "status": "verified",
+  "title": "Flexural Behavior of Simplified Hollow Slab Bridges Strengthened with Ultra-High-Performance Concrete under Eccentric Loading",
+  "authors": [
+   "Zhe Wang",
+   "Yuwen Liu",
+   "Haojun Zhang",
+   "Shan Li"
+  ],
+  "publisher": "American Concrete Institute (ACI Structural Journal)",
+  "type": "Paper",
+  "date": "2026-09-01",
+  "url": "https://doi.org/10.14359/51750683",
+  "doi": "10.14359/51750683",
+  "identifiers": {
+   "journal": "ACI Structural Journal 123"
+  },
+  "topics": [
+   "concrete-hpc",
+   "concrete-repair-grout-overlay",
+   "concrete-structural"
+  ],
+  "geography": "China",
+  "language": "en",
+  "description": "2026 ACI Structural Journal: flexural behavior of simplified hollow-slab bridges strengthened with UHPC.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R294",
+  "status": "verified",
+  "title": "Structural Analysis of Rigid Pavements with Pumping: Summary Informational Report",
+  "authors": [
+   "Jesus Larralde"
+  ],
+  "publisher": "Purdue University",
+  "type": "Report",
+  "date": "1985",
+  "url": "https://doi.org/10.5703/1288284314088",
+  "doi": "10.5703/1288284314088",
+  "identifiers": {},
+  "topics": [
+   "concrete-pavement-pervious",
+   "pavement"
+  ],
+  "geography": "US (Indiana)",
+  "language": "en",
+  "description": "Purdue 1985 summary informational report on structural analysis of rigid pavements with pumping (ILLISLAB/JSLAB-era models, fatigue damage).",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R295",
+  "status": "verified",
+  "title": "Optimum mix design of enhanced permeable concrete – An experimental investigation",
+  "authors": [
+   "C. Lian",
+   "Y. Zhuge"
+  ],
+  "publisher": "Elsevier (Construction and Building Materials)",
+  "type": "Paper",
+  "date": "2010-12",
+  "url": "https://doi.org/10.1016/j.conbuildmat.2010.04.057",
+  "doi": "10.1016/j.conbuildmat.2010.04.057",
+  "identifiers": {
+   "journal": "Construction and Building Materials 24:2664-2671"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "cross-mix"
+  ],
+  "geography": "Australia",
+  "language": "en",
+  "description": "Optimum mix design for enhanced permeable (pervious) concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R296",
+  "status": "verified",
+  "title": "Laboratory evaluation of permeability and strength of polymer-modified pervious concrete",
+  "authors": [
+   "Baoshan Huang",
+   "Hao Wu",
+   "Xiang Shu",
+   "Edwin G. Burdette"
+  ],
+  "publisher": "Elsevier (Construction and Building Materials)",
+  "type": "Paper",
+  "date": "2010-05",
+  "url": "https://doi.org/10.1016/j.conbuildmat.2009.10.025",
+  "doi": "10.1016/j.conbuildmat.2009.10.025",
+  "identifiers": {
+   "journal": "Construction and Building Materials 24:818-823"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "concrete-polymer-refractory"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Laboratory permeability and strength of polymer-modified pervious concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R297",
+  "status": "verified",
+  "title": "Experimental study on Portland cement pervious concrete mechanical and hydrological properties",
+  "authors": [
+   "Ahmed Ibrahim",
+   "Enad Mahmoud",
+   "Mohammed Yamin",
+   "Varun Chowdary Patibandla"
+  ],
+  "publisher": "Elsevier (Construction and Building Materials)",
+  "type": "Paper",
+  "date": "2014-01",
+  "url": "https://doi.org/10.1016/j.conbuildmat.2013.09.022",
+  "doi": "10.1016/j.conbuildmat.2013.09.022",
+  "identifiers": {
+   "journal": "Construction and Building Materials 50:524-529"
+  },
+  "topics": [
+   "concrete-pavement-pervious"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Experimental study of portland cement pervious concrete mechanical and hydrological properties.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R298",
+  "status": "verified",
+  "title": "Integrating compaction energy into predictive models for pervious concrete permeability",
+  "authors": [
+   "Asoharasa Janarth",
+   "Champika Ellawala",
+   "Navaratnarajah Sathiparan",
+   "Daniel Niruban Subramaniam",
+   "Sudhira De Silva",
+   "Muhammed Bhuiyan",
+   "David Law",
+   "Biplob Kumar Pramanik"
+  ],
+  "publisher": "Taylor & Francis (International Journal of Pavement Engineering)",
+  "type": "Paper",
+  "date": "2026-09-25",
+  "url": "https://doi.org/10.1080/10298436.2026.2738785",
+  "doi": "10.1080/10298436.2026.2738785",
+  "identifiers": {
+   "journal": "International Journal of Pavement Engineering 27"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "cross-construction"
+  ],
+  "geography": "Sri Lanka / Australia",
+  "language": "en",
+  "description": "2026: predictive models (regression and ANN) for pervious concrete permeability emphasizing compaction energy.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R299",
+  "status": "verified",
+  "title": "Durability Testing of Prefabricated Pervious Concrete Pavers",
+  "authors": [
+   "Marina Škondrić",
+   "Vera Obradović",
+   "Ognjen Govedarica",
+   "Branislava Lekić",
+   "Vladana Rajaković-Ognjanović",
+   "Aleksandar Savić"
+  ],
+  "publisher": "MDPI (Buildings)",
+  "type": "Paper",
+  "date": "2026-10-10",
+  "url": "https://doi.org/10.3390/buildings16204006",
+  "doi": "10.3390/buildings16204006",
+  "identifiers": {
+   "journal": "Buildings 16:4006"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "cross-durability"
+  ],
+  "geography": "Serbia",
+  "language": "en",
+  "description": "2026: frost-durability testing protocols for prefabricated pervious concrete pavers, noting ordinary-concrete frost tests are not directly applicable.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R300",
+  "status": "verified",
+  "title": "Mix design and fresh properties for high-performance printing concrete",
+  "authors": [
+   "T. T. Le",
+   "S. A. Austin",
+   "S. Lim",
+   "R. A. Buswell",
+   "A. G. F. Gibb",
+   "T. Thorpe"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Paper",
+  "date": "2012-01-19",
+  "url": "https://doi.org/10.1617/s11527-012-9828-z",
+  "doi": "10.1617/s11527-012-9828-z",
+  "identifiers": {
+   "journal": "Materials and Structures 45:1221-1232"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-mix",
+   "fresh"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Early Loughborough work on mix design and fresh properties of high-performance printing concrete (backward citation of Buswell 2018).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R301",
+  "status": "verified",
+  "title": "Rheological requirements for printable concretes",
+  "authors": [
+   "Nicolas Roussel"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2018-10",
+  "url": "https://doi.org/10.1016/j.cemconres.2018.04.005",
+  "doi": "10.1016/j.cemconres.2018.04.005",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 112:76-85"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "fresh",
+   "cross-mix"
+  ],
+  "geography": "France",
+  "language": "en",
+  "description": "Roussel (2018): rheological requirements for printable concretes (backward citation of Buswell 2018).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R302",
+  "status": "verified",
+  "title": "3D printing using concrete extrusion: A roadmap for research",
+  "authors": [
+   "R.A. Buswell",
+   "W.R. Leal de Silva",
+   "S.Z. Jones",
+   "J. Dirrenberger"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2018-10",
+  "url": "https://doi.org/10.1016/j.cemconres.2018.05.006",
+  "doi": "10.1016/j.cemconres.2018.05.006",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 112:37-49"
+  },
+  "topics": [
+   "concrete-precast-insitu-print"
+  ],
+  "geography": "UK / France",
+  "language": "en",
+  "description": "Research roadmap for 3D printing by concrete extrusion: process constraints, materials, design and standardization needs.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R303",
+  "status": "verified",
+  "title": "Hardened properties of 3D printed concrete: The influence of process parameters on interlayer adhesion",
+  "authors": [
+   "R.J.M. Wolfs",
+   "F.P. Bos",
+   "T.A.M. Salet"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2019-05",
+  "url": "https://doi.org/10.1016/j.cemconres.2019.02.017",
+  "doi": "10.1016/j.cemconres.2019.02.017",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 119:132-140"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-mechanics"
+  ],
+  "geography": "Netherlands",
+  "language": "en",
+  "description": "Influence of printing process parameters on interlayer adhesion of 3D printed concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R304",
+  "status": "verified",
+  "title": "Digital Concrete: A Review",
+  "authors": [
+   "Timothy Wangler",
+   "Nicolas Roussel",
+   "Freek P. Bos",
+   "Theo A.M. Salet",
+   "Robert J. Flatt"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2019-09",
+  "url": "https://doi.org/10.1016/j.cemconres.2019.105780",
+  "doi": "10.1016/j.cemconres.2019.105780",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 123:105780"
+  },
+  "topics": [
+   "concrete-precast-insitu-print"
+  ],
+  "geography": "Switzerland / France / Netherlands",
+  "language": "en",
+  "description": "Digital Concrete review covering additive and other digital fabrication processes for concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R305",
+  "status": "verified",
+  "title": "Extrusion-based additive manufacturing with cement-based materials – Production steps, processes, and their underlying physics: A review",
+  "authors": [
+   "V. Mechtcherine",
+   "F.P. Bos",
+   "A. Perrot",
+   "W.R. Leal da Silva",
+   "V.N. Nerella",
+   "S. Fataei",
+   "R.J.M. Wolfs",
+   "M. Sonebi",
+   "N. Roussel"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2020-06",
+  "url": "https://doi.org/10.1016/j.cemconres.2020.106037",
+  "doi": "10.1016/j.cemconres.2020.106037",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 132:106037"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "fresh",
+   "cross-mechanics"
+  ],
+  "geography": "International",
+  "language": "en",
+  "description": "Extrusion-based additive manufacturing with cement-based materials: production steps, processes and underlying physics.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R306",
+  "status": "verified",
+  "title": "Delayed ettringite formation symptoms on mortars induced by high temperature due to cement heat of hydration or late thermal cycle",
+  "authors": [
+   "R. Barbarulo",
+   "H. Peycelon",
+   "S. Prené",
+   "J. Marchand"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2005-01",
+  "url": "https://doi.org/10.1016/j.cemconres.2004.05.041",
+  "doi": "10.1016/j.cemconres.2004.05.041",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 35:125-131"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-durability",
+   "cross-failure-repair"
+  ],
+  "geography": "France / Canada",
+  "language": "en",
+  "description": "Delayed ettringite formation symptoms in mortars induced by high curing temperature (heat-curing/precast relevance).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R307",
+  "status": "verified",
+  "title": "Delayed Ettringite Formation at Brewer Stadium, Boone, North Carolina",
+  "authors": [
+   "MA Ozol",
+   "W Strand"
+  ],
+  "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+  "type": "Paper",
+  "date": "2000-06-01",
+  "url": "https://doi.org/10.1520/cca10459j",
+  "doi": "10.1520/cca10459j",
+  "identifiers": {
+   "journal": "Cement, Concrete, and Aggregates 22:24-34"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-failure-repair",
+   "concrete-lightweight"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Brewer Stadium (Boone, NC, built 1962): steam-cured precast lightweight bleacher channels spalled; by 1995 ~375 of 860 elements severely cracked — DEF case history.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R308",
+  "status": "verified",
+  "title": "Direct electric curing of mortar and concrete",
+  "authors": [
+   "Ian Heritage"
+  ],
+  "publisher": "Research Output (Edinburgh Napier University)",
+  "type": "Thesis",
+  "date": "2001",
+  "url": "https://doi.org/10.17869/enu.276402",
+  "doi": "10.17869/enu.276402",
+  "identifiers": {},
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-construction"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Edinburgh Napier thesis on direct electric curing — accelerating hydration by passing AC current through young concrete as an alternative to steam curing.",
+  "access": "abstract_metadata",
+  "evidenceNote": "OpenAlex/DataCite metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY-NC",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R309",
+  "status": "verified",
+  "title": "Drying and shrinkage of reinforced 3D printed concrete",
+  "authors": [
+   "Galina Slavcheva",
+   "Olga Artamonova",
+   "Kristina Kotova",
+   "Maria A. Shvedova"
+  ],
+  "publisher": "Springer (Journal of Building Pathology and Rehabilitation)",
+  "type": "Paper",
+  "date": "2026-05-18",
+  "url": "https://doi.org/10.1007/s41024-026-00840-8",
+  "doi": "10.1007/s41024-026-00840-8",
+  "identifiers": {
+   "journal": "Journal of Building Pathology and Rehabilitation 11"
+  },
+  "topics": [
+   "concrete-precast-insitu-print",
+   "cross-mechanics"
+  ],
+  "geography": "Russia",
+  "language": "en",
+  "description": "2026: drying and shrinkage of reinforced 3D printed concrete.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R310",
+  "status": "verified",
+  "title": "Recycled Concrete as a Source of Aggregate",
+  "authors": [
+   "Alan D. Buck"
+  ],
+  "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+  "type": "Paper",
+  "date": "1977",
+  "url": "https://doi.org/10.14359/11004",
+  "doi": "10.14359/11004",
+  "identifiers": {
+   "journal": "ACI Journal Proceedings 74"
+  },
+  "topics": [
+   "concrete-circular",
+   "cross-mix"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Buck (1977): recycled concrete as a source of aggregate — early, much-cited US study (~195 citing works in OpenAlex).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R311",
+  "status": "verified",
+  "title": "Properties of concretes produced with waste concrete aggregate",
+  "authors": [
+   "İlker Bekir Topçu",
+   "Selim Şengel"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2004-08",
+  "url": "https://doi.org/10.1016/j.cemconres.2003.12.019",
+  "doi": "10.1016/j.cemconres.2003.12.019",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 34:1307-1312"
+  },
+  "topics": [
+   "concrete-circular",
+   "strength"
+  ],
+  "geography": "Turkey",
+  "language": "en",
+  "description": "Properties of concretes produced with waste-concrete aggregate (forward citation of Buck 1977).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R312",
+  "status": "verified",
+  "title": "Microstructural analysis of recycled aggregate concrete produced from two-stage mixing approach",
+  "authors": [
+   "Vivian W.Y. Tam",
+   "X.F. Gao",
+   "C.M. Tam"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2005-06",
+  "url": "https://doi.org/10.1016/j.cemconres.2004.10.025",
+  "doi": "10.1016/j.cemconres.2004.10.025",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 35:1195-1203"
+  },
+  "topics": [
+   "concrete-circular",
+   "cross-mix"
+  ],
+  "geography": "Hong Kong",
+  "language": "en",
+  "description": "Two-stage mixing approach for recycled aggregate concrete and resulting ITZ microstructure.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R313",
+  "status": "verified",
+  "title": "Durability performance of concrete made with fine recycled concrete aggregates",
+  "authors": [
+   "L. Evangelista",
+   "J. de Brito"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Paper",
+  "date": "2010-01",
+  "url": "https://doi.org/10.1016/j.cemconcomp.2009.09.005",
+  "doi": "10.1016/j.cemconcomp.2009.09.005",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 32:9-14"
+  },
+  "topics": [
+   "concrete-circular",
+   "cross-durability"
+  ],
+  "geography": "Portugal",
+  "language": "en",
+  "description": "Durability of concrete made with fine recycled concrete aggregates.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R314",
+  "status": "verified",
+  "title": "Properties and composition of recycled aggregates from construction and demolition waste suitable for concrete production",
+  "authors": [
+   "R.V. Silva",
+   "J. de Brito",
+   "R.K. Dhir"
+  ],
+  "publisher": "Elsevier (Construction and Building Materials)",
+  "type": "Review paper",
+  "date": "2014-08",
+  "url": "https://doi.org/10.1016/j.conbuildmat.2014.04.117",
+  "doi": "10.1016/j.conbuildmat.2014.04.117",
+  "identifiers": {
+   "journal": "Construction and Building Materials 65:201-217"
+  },
+  "topics": [
+   "concrete-circular"
+  ],
+  "geography": "Portugal / UK",
+  "language": "en",
+  "description": "Properties and composition of recycled aggregates from construction and demolition waste for concrete production (classification by composition).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R315",
+  "status": "verified",
+  "title": "Performance enhancement of recycled concrete aggregate – A review",
+  "authors": [
+   "Caijun Shi",
+   "Yake Li",
+   "Jiake Zhang",
+   "Wengui Li",
+   "Linlin Chong",
+   "Zhaobin Xie"
+  ],
+  "publisher": "Elsevier (Journal of Cleaner Production)",
+  "type": "Review paper",
+  "date": "2016-01",
+  "url": "https://doi.org/10.1016/j.jclepro.2015.08.057",
+  "doi": "10.1016/j.jclepro.2015.08.057",
+  "identifiers": {
+   "journal": "Journal of Cleaner Production 112:466-472"
+  },
+  "topics": [
+   "concrete-circular"
+  ],
+  "geography": "China",
+  "language": "en",
+  "description": "Review of RCA performance-enhancement treatments (removing/strengthening adhered mortar, carbonation, polymer impregnation).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R316",
+  "status": "verified",
+  "title": "Substantial global carbon uptake by cement carbonation",
+  "authors": [
+   "Fengming Xi",
+   "Steven J. Davis",
+   "Philippe Ciais",
+   "Douglas Crawford-Brown",
+   "Dabo Guan",
+   "Claus Pade",
+   "Tiemao Shi",
+   "Mark Syddall",
+   "Jie Lv",
+   "Lanzhu Ji",
+   "Longfei Bing",
+   "Jiaoyue Wang",
+   "Wei Wei",
+   "Keun-Hyeok Yang",
+   "Björn Lagerblad",
+   "Isabel Galan",
+   "Carmen Andrade",
+   "Ying Zhang",
+   "Zhu Liu"
+  ],
+  "publisher": "Springer (Nature Geoscience)",
+  "type": "Paper",
+  "date": "2016-11-21",
+  "url": "https://doi.org/10.1038/ngeo2840",
+  "doi": "10.1038/ngeo2840",
+  "identifiers": {
+   "journal": "Nature Geoscience 9:880-883"
+  },
+  "topics": [
+   "concrete-circular",
+   "carbon",
+   "cross-environment-cost"
+  ],
+  "geography": "Global",
+  "language": "en",
+  "description": "Estimates substantial global CO2 uptake by carbonation of cement materials over their life cycle.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R317",
+  "status": "verified",
+  "title": "Understanding the carbonation of concrete with supplementary cementitious materials: a critical review by RILEM TC 281-CCC",
+  "authors": [
+   "Stefanie von Greve-Dierfeld",
+   "Barbara Lothenbach",
+   "Anya Vollpracht",
+   "Bei Wu",
+   "Bruno Huet",
+   "Carmen Andrade",
+   "César Medina",
+   "Charlotte Thiel",
+   "Elke Gruyaert",
+   "Hanne Vanoutrive",
+   "Isabel F. Saéz del Bosque",
+   "Ivan Ignjatovic",
+   "Jan Elsen",
+   "John L. Provis",
+   "Karen Scrivener",
+   "Karl-Christian Thienel",
+   "Kosmas Sideris",
+   "Maciej Zajac",
+   "Natalia Alderete",
+   "Özlem Cizer",
+   "Philip Van den Heede",
+   "Robert Douglas Hooton",
+   "Siham Kamali-Bernard",
+   "Susan A. Bernal",
+   "Zengfeng Zhao",
+   "Zhenguo Shi",
+   "Nele De Belie"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Review paper",
+  "date": "2020-10-22",
+  "url": "https://doi.org/10.1617/s11527-020-01558-w",
+  "doi": "10.1617/s11527-020-01558-w",
+  "identifiers": {
+   "journal": "Materials and Structures 53"
+  },
+  "topics": [
+   "concrete-circular",
+   "cross-durability",
+   "binder-blended",
+   "cross-chemistry"
+  ],
+  "geography": "International",
+  "language": "en",
+  "description": "Critical review of carbonation of concrete with SCMs: lowering clinker content can raise the risk of pore-solution neutralisation and reinforcement corrosion.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R318",
+  "status": "verified",
+  "title": "Rammed Concrete with Recycled Concrete Aggregates: Opportunities and Performances",
+  "authors": [
+   "Luc Courard",
+   "Sophie Grigoletto",
+   "Romain Libert",
+   "Julien Troquay",
+   "Makara Long"
+  ],
+  "publisher": "Hapres (Journal of Sustainability Research)",
+  "type": "Paper",
+  "date": "2026-02-24",
+  "url": "https://doi.org/10.20900/jsr20260020",
+  "doi": "10.20900/jsr20260020",
+  "identifiers": {
+   "journal": "Journal of Sustainability Research 8"
+  },
+  "topics": [
+   "concrete-circular",
+   "concrete-pavement-pervious"
+  ],
+  "geography": "Belgium",
+  "language": "en",
+  "description": "2026: rammed concrete with recycled aggregates — EU C&DW ~850 Mt/y; fine recycled aggregate as sand substitute.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R319",
+  "status": "verified",
+  "title": "Evaluation of natural zeolite as a viscosity-modifying agent for cement-based grouts",
+  "authors": [
+   "M. Şahmaran",
+   "N. Özkan",
+   "S.B. Keskin",
+   "B. Uzal",
+   "İ.Ö. Yaman",
+   "T.K. Erdem"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2008-07",
+  "url": "https://doi.org/10.1016/j.cemconres.2008.03.007",
+  "doi": "10.1016/j.cemconres.2008.03.007",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 38:930-937"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "scm-natural"
+  ],
+  "geography": "Turkey",
+  "language": "en",
+  "description": "Natural zeolite evaluated as a viscosity-modifying agent for cement-based grouts.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R320",
+  "status": "verified",
+  "title": "Application of ultra high performance concrete (UHPC) as a thin-bonded overlay for concrete bridge decks",
+  "authors": [
+   "Sarah V. Shann"
+  ],
+  "publisher": "Michigan Technological University",
+  "type": "Thesis",
+  "date": "2012",
+  "url": "https://doi.org/10.37099/mtu.dc.etds/270",
+  "doi": "10.37099/mtu.dc.etds/270",
+  "identifiers": {},
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "concrete-hpc"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Michigan Tech MS thesis on UHPC as a thin-bonded overlay for concrete bridge decks.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Promoted from candidate queue. Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. Crossref issued date missing; OpenAlex lists 2012.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R321",
+  "status": "verified",
+  "title": "Challenges and opportunities in corrosion of steel in concrete",
+  "authors": [
+   "Ueli M. Angst"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Review paper",
+  "date": "2018-01-04",
+  "url": "https://doi.org/10.1617/s11527-017-1131-6",
+  "doi": "10.1617/s11527-017-1131-6",
+  "identifiers": {
+   "journal": "Materials and Structures 51"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "cross-durability",
+   "cross-failure-repair"
+  ],
+  "geography": "Switzerland",
+  "language": "en",
+  "description": "Angst: challenges and opportunities in corrosion of steel in concrete — societal cost, research gaps, education.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R322",
+  "status": "verified",
+  "title": "Properties of Cementitious Repair Materials for Concrete Pavement",
+  "authors": [
+   "Shih Horng Yeo",
+   "Kim Hung Mo",
+   "Md. Akter Hosen",
+   "Hilmi Bin Mahmud"
+  ],
+  "publisher": "Wiley (Advances in Materials Science and Engineering)",
+  "type": "Review paper",
+  "date": "2022-02-04",
+  "url": "https://doi.org/10.1155/2022/3057801",
+  "doi": "10.1155/2022/3057801",
+  "identifiers": {
+   "journal": "Advances in Materials Science and Engineering 2022:1-17"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "pavement",
+   "concrete-pavement-pervious"
+  ],
+  "geography": "Malaysia",
+  "language": "en",
+  "description": "Review of cementitious repair materials for concrete pavement, classed as ultra-rapid, rapid, accelerated and normal setting.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R323",
+  "status": "verified",
+  "title": "A comprehensive review of cementitious grouts: Composition, properties, requirements and advanced performance",
+  "authors": [
+   "Suelen da Rocha Gomes",
+   "Liberato Ferrara",
+   "Luis Sánchez",
+   "Mercedes Sánchez Moreno"
+  ],
+  "publisher": "Elsevier (Construction and Building Materials)",
+  "type": "Review paper",
+  "date": "2023-04",
+  "url": "https://doi.org/10.1016/j.conbuildmat.2023.130991",
+  "doi": "10.1016/j.conbuildmat.2023.130991",
+  "identifiers": {
+   "journal": "Construction and Building Materials 375:130991"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "cross-mix"
+  ],
+  "geography": "Canada / Italy",
+  "language": "en",
+  "description": "Comprehensive review of cementitious grouts: composition, properties, requirements and injection challenges.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY-NC",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R324",
+  "status": "verified",
+  "title": "Interface bonding properties of new and old concrete: A review",
+  "authors": [
+   "He Liu",
+   "Haonan Zou",
+   "Jingyi Zhang",
+   "Ji Zhang",
+   "Yu Tang",
+   "Jian Zhang",
+   "Ying Guo",
+   "Jingyu Xiao"
+  ],
+  "publisher": "Frontiers (Frontiers in Materials)",
+  "type": "Review paper",
+  "date": "2024-04-12",
+  "url": "https://doi.org/10.3389/fmats.2024.1389785",
+  "doi": "10.3389/fmats.2024.1389785",
+  "identifiers": {
+   "journal": "Frontiers in Materials 11"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "cross-mechanics"
+  ],
+  "geography": "China",
+  "language": "en",
+  "description": "Review of new-to-old concrete interface bond: influencing factors, repair-material selection and evaluation methods.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R325",
+  "status": "verified",
+  "title": "Rehabilitation of concrete bridges using ultra-high performance concrete: a comprehensive review from fundamental to applications",
+  "authors": [
+   "Shaohua He",
+   "Yitao Zheng",
+   "Shuai Hu",
+   "Binkai Lin",
+   "Haidong Deng"
+  ],
+  "publisher": "Taylor & Francis (Structure and Infrastructure Engineering)",
+  "type": "Review paper",
+  "date": "2026-09-25",
+  "url": "https://doi.org/10.1080/15732479.2026.2736724",
+  "doi": "10.1080/15732479.2026.2736724",
+  "identifiers": {
+   "journal": "Structure and Infrastructure Engineering :1-28"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "concrete-hpc",
+   "concrete-structural"
+  ],
+  "geography": "China",
+  "language": "en",
+  "description": "2026 review of UHPC-based concrete bridge rehabilitation: materials, new-old bonding, mechanics, durability, applications.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R326",
+  "status": "verified",
+  "title": "Studies of Early Stages of Paste Hydration of Different Types of Portland Cements",
+  "authors": [
+   "S. CHATTERJI",
+   "J. W. JEFFERY"
+  ],
+  "publisher": "Wiley (Journal of the American Ceramic Society)",
+  "type": "Paper",
+  "date": "1963-06",
+  "url": "https://doi.org/10.1111/j.1151-2916.1963.tb11724.x",
+  "doi": "10.1111/j.1151-2916.1963.tb11724.x",
+  "identifiers": {
+   "journal": "Journal of the American Ceramic Society 46:268-273"
+  },
+  "topics": [
+   "cross-chemistry",
+   "binder-portland"
+  ],
+  "geography": "UK",
+  "language": "en",
+  "description": "Electron-optical/XRD study of early hydration of four portland cement types: little ettringite before 3 h except in low-heat cement; alite more reactive than lab-prepared C3S.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R327",
+  "status": "verified",
+  "title": "Some properties of the calcium aluminoferrite hydrates",
+  "authors": [
+   "Elmer T Carlson"
+  ],
+  "publisher": "National Bureau of Standards",
+  "type": "Report",
+  "date": "1966",
+  "url": "https://doi.org/10.6028/nbs.bss.6",
+  "doi": "10.6028/nbs.bss.6",
+  "identifiers": {},
+  "topics": [
+   "cross-chemistry",
+   "binder-portland"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NBS (1966) synthesis and properties of calcium aluminoferrite hydrates (hexagonal vs isometric series and stability vs temperature).",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: Public domain (US Government work)",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R328",
+  "status": "verified",
+  "title": "Action of triethanolamine on the hydration of tricalcium aluminate",
+  "authors": [
+   "V.S. Ramachandran"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1973-01",
+  "url": "https://doi.org/10.1016/0008-8846(73)90060-4",
+  "doi": "10.1016/0008-8846(73)90060-4",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 3:41-54"
+  },
+  "topics": [
+   "cross-chemistry",
+   "cross-mix"
+  ],
+  "geography": "Canada",
+  "language": "en",
+  "description": "Ramachandran: action of triethanolamine (grinding aid/accelerator) on tricalcium aluminate hydration.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R329",
+  "status": "verified",
+  "title": "Structure and Rheology of Fresh Cement Paste",
+  "authors": [
+   "Portland Cement Association",
+   "RA Helmuth"
+  ],
+  "publisher": "Portland Cement Association",
+  "type": "Report",
+  "date": "1980",
+  "url": "https://doi.org/10.70909/pca.2024.sn3128.03",
+  "doi": "10.70909/pca.2024.sn3128.03",
+  "identifiers": {},
+  "topics": [
+   "cross-chemistry",
+   "fresh",
+   "cross-mix"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Helmuth (1980 PCA paper; DOI registered later by PCA): structure and rheology of fresh cement paste and its link to workability, consistency and setting.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": "Originally 1980; DOI prefix 10.70909 (PCA/ACA) with 2024 in the identifier — digitized reissue of the same work.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R330",
+  "status": "verified",
+  "title": "Hydration of calcium sulfoaluminate cements — Experimental findings and thermodynamic modelling",
+  "authors": [
+   "Frank Winnefeld",
+   "Barbara Lothenbach"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2010-08",
+  "url": "https://doi.org/10.1016/j.cemconres.2009.08.014",
+  "doi": "10.1016/j.cemconres.2009.08.014",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 40:1239-1247"
+  },
+  "topics": [
+   "cross-chemistry",
+   "binder-cac-csa"
+  ],
+  "geography": "Switzerland",
+  "language": "en",
+  "description": "Hydration of calcium sulfoaluminate cements: experiments combined with thermodynamic modelling.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R331",
+  "status": "verified",
+  "title": "Calcium silicate hydrates: Solid and liquid phase composition",
+  "authors": [
+   "Barbara Lothenbach",
+   "André Nonat"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2015-12",
+  "url": "https://doi.org/10.1016/j.cemconres.2015.03.019",
+  "doi": "10.1016/j.cemconres.2015.03.019",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 78:57-70"
+  },
+  "topics": [
+   "cross-chemistry"
+  ],
+  "geography": "Switzerland / France",
+  "language": "en",
+  "description": "Review of C-S-H solid and liquid phase composition (Ca/Si, solubility, alkali/Al uptake).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R332",
+  "status": "verified",
+  "title": "The pore solution of blended cements: a review",
+  "authors": [
+   "Anya Vollpracht",
+   "Barbara Lothenbach",
+   "Ruben Snellings",
+   "Johannes Haufe"
+  ],
+  "publisher": "Springer (Materials and Structures)",
+  "type": "Review paper",
+  "date": "2015-10-15",
+  "url": "https://doi.org/10.1617/s11527-015-0724-1",
+  "doi": "10.1617/s11527-015-0724-1",
+  "identifiers": {
+   "journal": "Materials and Structures 49:3341-3367"
+  },
+  "topics": [
+   "cross-chemistry",
+   "binder-blended",
+   "scm"
+  ],
+  "geography": "International (RILEM TC 238-SCM)",
+  "language": "en",
+  "description": "RILEM TC 238-SCM review of pore-solution composition in blended cements and what it implies for phase stability.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R333",
+  "status": "verified",
+  "title": "Evolution of pore structure in blended systems",
+  "authors": [
+   "E. Berodier",
+   "K. Scrivener"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2015-07",
+  "url": "https://doi.org/10.1016/j.cemconres.2015.02.025",
+  "doi": "10.1016/j.cemconres.2015.02.025",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 73:25-35"
+  },
+  "topics": [
+   "cross-chemistry",
+   "binder-blended",
+   "scm"
+  ],
+  "geography": "Switzerland",
+  "language": "en",
+  "description": "Evolution of pore structure in blended cement systems.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R334",
+  "status": "verified",
+  "title": "Cemdata18: A chemical thermodynamic database for hydrated Portland cements and alkali-activated materials",
+  "authors": [
+   "Barbara Lothenbach",
+   "Dmitrii A. Kulik",
+   "Thomas Matschei",
+   "Magdalena Balonis",
+   "Luis Baquerizo",
+   "Belay Dilnesa",
+   "George D. Miron",
+   "Rupert J. Myers"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "2019-01",
+  "url": "https://doi.org/10.1016/j.cemconres.2018.04.018",
+  "doi": "10.1016/j.cemconres.2018.04.018",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 115:472-506"
+  },
+  "topics": [
+   "cross-chemistry",
+   "binder-activated",
+   "cross-tests-codes"
+  ],
+  "geography": "Switzerland / international",
+  "language": "en",
+  "description": "Cemdata18 thermodynamic database for hydrated portland and alkali-activated cements (used with GEMS).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R335",
+  "status": "verified",
+  "title": "Effects of the molecular architecture of comb-shaped superplasticizers on their performance in cementitious systems",
+  "authors": [
+   "Frank Winnefeld",
+   "Stefan Becker",
+   "Joachim Pakusch",
+   "Thomas Götz"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Paper",
+  "date": "2007-04",
+  "url": "https://doi.org/10.1016/j.cemconcomp.2006.12.006",
+  "doi": "10.1016/j.cemconcomp.2006.12.006",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 29:251-262"
+  },
+  "topics": [
+   "cross-mix",
+   "fresh"
+  ],
+  "geography": "Switzerland / Germany",
+  "language": "en",
+  "description": "Effects of comb-shaped (PCE) superplasticizer molecular architecture on performance in cementitious systems.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R336",
+  "status": "verified",
+  "title": "Adsorption of polyelectrolytes and its influence on the rheology, zeta potential, and microstructure of various cement and hydrate phases",
+  "authors": [
+   "Anatol Zingg",
+   "Frank Winnefeld",
+   "Lorenz Holzer",
+   "Joachim Pakusch",
+   "Stefan Becker",
+   "Ludwig Gauckler"
+  ],
+  "publisher": "Elsevier (Journal of Colloid and Interface Science)",
+  "type": "Paper",
+  "date": "2008-07",
+  "url": "https://doi.org/10.1016/j.jcis.2008.04.052",
+  "doi": "10.1016/j.jcis.2008.04.052",
+  "identifiers": {
+   "journal": "Journal of Colloid and Interface Science 323:301-312"
+  },
+  "topics": [
+   "cross-mix",
+   "fresh",
+   "cross-chemistry"
+  ],
+  "geography": "Switzerland / Germany",
+  "language": "en",
+  "description": "Polyelectrolyte (PCE) adsorption and its effect on rheology, zeta potential and microstructure of cement pastes.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R337",
+  "status": "verified",
+  "title": "Effect of constituents on rheological properties of fresh concrete-A review",
+  "authors": [
+   "Dengwu Jiao",
+   "Caijun Shi",
+   "Qiang Yuan",
+   "Xiaopeng An",
+   "Yu Liu",
+   "Huang Li"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Review paper",
+  "date": "2017-10",
+  "url": "https://doi.org/10.1016/j.cemconcomp.2017.07.016",
+  "doi": "10.1016/j.cemconcomp.2017.07.016",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 83:146-159"
+  },
+  "topics": [
+   "cross-mix",
+   "fresh"
+  ],
+  "geography": "China / Belgium",
+  "language": "en",
+  "description": "Review of constituent effects on fresh concrete rheology.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R338",
+  "status": "verified",
+  "title": "Thixotropic structural build-up of cement-based materials: A state-of-the-art review",
+  "authors": [
+   "Dengwu Jiao",
+   "Robin De Schryver",
+   "Caijun Shi",
+   "Geert De Schutter"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Composites)",
+  "type": "Review paper",
+  "date": "2021-09",
+  "url": "https://doi.org/10.1016/j.cemconcomp.2021.104152",
+  "doi": "10.1016/j.cemconcomp.2021.104152",
+  "identifiers": {
+   "journal": "Cement and Concrete Composites 122:104152"
+  },
+  "topics": [
+   "cross-mix",
+   "fresh",
+   "concrete-precast-insitu-print",
+   "concrete-scc"
+  ],
+  "geography": "Belgium / China",
+  "language": "en",
+  "description": "Thixotropic structural build-up of cement-based materials: origins, tests, factors; relevance to pumping, formwork pressure and 3D-printing buildability.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R339",
+  "status": "verified",
+  "title": "Computational design optimization of concrete mixtures: A review",
+  "authors": [
+   "M.A. DeRousseau",
+   "J.R. Kasprzyk",
+   "W.V. Srubar"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Review paper",
+  "date": "2018-07",
+  "url": "https://doi.org/10.1016/j.cemconres.2018.04.007",
+  "doi": "10.1016/j.cemconres.2018.04.007",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 109:42-53"
+  },
+  "topics": [
+   "cross-mix"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Review of computational design optimization of concrete mixtures (single/multi-objective).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R340",
+  "status": "verified",
+  "title": "Optimization of Mixture Proportions for Concrete Pavements—Influence of Supplementary Cementitious Materials, Paste Content and Aggregate Gradation",
+  "authors": [
+   "Adam Rudy",
+   "Jan Olek"
+  ],
+  "publisher": "Purdue University",
+  "type": "Report",
+  "date": "2012-12-31",
+  "url": "https://doi.org/10.5703/1288284315038",
+  "doi": "10.5703/1288284315038",
+  "identifiers": {},
+  "topics": [
+   "cross-mix",
+   "pavement",
+   "dot",
+   "scm"
+  ],
+  "geography": "US (Indiana)",
+  "language": "en",
+  "description": "JTRP/Purdue: optimized paving mixtures with low paste content (<23%) and high SCM replacement achieved low scaling and sorptivity.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R341",
+  "status": "verified",
+  "title": "Studies on cooling of fresh concrete in freezing weather",
+  "authors": null,
+  "publisher": "Elsevier (Journal of the Franklin Institute)",
+  "type": "Paper",
+  "date": "1922-01",
+  "url": "https://doi.org/10.1016/s0016-0032(22)90461-2",
+  "doi": "10.1016/s0016-0032(22)90461-2",
+  "identifiers": {
+   "journal": "Journal of the Franklin Institute 193:124"
+  },
+  "topics": [
+   "cross-construction"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "1922 Journal of the Franklin Institute item on cooling of fresh concrete in freezing weather — early cold-weather concreting study.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed. No authors registered (unknown).",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R342",
+  "status": "verified",
+  "title": "Safety during construction of concrete buildings- a status report",
+  "authors": [
+   "H S Lew"
+  ],
+  "publisher": "National Bureau of Standards",
+  "type": "Report",
+  "date": "1976",
+  "url": "https://doi.org/10.6028/nbs.bss.80",
+  "doi": "10.6028/nbs.bss.80",
+  "identifiers": {},
+  "topics": [
+   "cross-construction",
+   "cross-failure-repair",
+   "cross-tests-codes"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "NBS (1976) status report on factors affecting safety during construction of concrete buildings, with recommendations for areas needing improved standards.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R343",
+  "status": "verified",
+  "title": "Early Age Temperature Effects on Concrete Strength Prediction by the Maturity Method",
+  "authors": [
+   "Nicholas J. Carino",
+   "H. S. Lew",
+   "Charles K. Volz"
+  ],
+  "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+  "type": "Paper",
+  "date": "1983",
+  "url": "https://doi.org/10.14359/12166",
+  "doi": "10.14359/12166",
+  "identifiers": {
+   "journal": "ACI Journal Proceedings 80"
+  },
+  "topics": [
+   "cross-construction",
+   "cross-tests-codes",
+   "strength"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Carino, Lew & Volz (1983): early-age temperature effects on maturity-based strength prediction.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R344",
+  "status": "verified",
+  "title": "Early-age Concrete Strength Prediction by Maturity--Another Look",
+  "authors": [
+   "Francis  A. Oluokun",
+   "Edwin G. Burdette",
+   "J. Harold Deatheridge"
+  ],
+  "publisher": "American Concrete Institute (ACI Materials Journal)",
+  "type": "Paper",
+  "date": "1990",
+  "url": "https://doi.org/10.14359/2519",
+  "doi": "10.14359/2519",
+  "identifiers": {
+   "journal": "ACI Materials Journal 87"
+  },
+  "topics": [
+   "cross-construction",
+   "cross-tests-codes",
+   "strength"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Oluokun, Burdette & Deatherage (1990): another look at early-age strength prediction by maturity.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R345",
+  "status": "verified",
+  "title": "Formwork Engineering for Sustainable Concrete Construction",
+  "authors": [
+   "Jonny Nilimaa",
+   "Yaser Gamil",
+   "Vasiola Zhaka"
+  ],
+  "publisher": "MDPI (CivilEng)",
+  "type": "Review paper",
+  "date": "2023-10-17",
+  "url": "https://doi.org/10.3390/civileng4040060",
+  "doi": "10.3390/civileng4040060",
+  "identifiers": {
+   "journal": "CivilEng 4:1098-1120"
+  },
+  "topics": [
+   "cross-construction"
+  ],
+  "geography": "Sweden",
+  "language": "en",
+  "description": "Review of formwork engineering: systems, design for form pressure, stripping, and alternative-binder effects on pressure and setting.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R346",
+  "status": "verified",
+  "title": "An Overview of Smart Materials and Technologies for Concrete Construction in Cold Weather",
+  "authors": [
+   "Jonny Nilimaa",
+   "Vasiola Zhaka"
+  ],
+  "publisher": "MDPI (Eng)",
+  "type": "Review paper",
+  "date": "2023-05-31",
+  "url": "https://doi.org/10.3390/eng4020089",
+  "doi": "10.3390/eng4020089",
+  "identifiers": {
+   "journal": "Eng 4:1550-1580"
+  },
+  "topics": [
+   "cross-construction",
+   "cross-durability"
+  ],
+  "geography": "Sweden",
+  "language": "en",
+  "description": "Overview of cold-weather concrete challenges (slow set, early freezing, frost) and smart materials/technologies to address them.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R347",
+  "status": "verified",
+  "title": "Analysis of crack formation and crack growth in concrete by means of fracture mechanics and finite elements",
+  "authors": [
+   "A. Hillerborg",
+   "M. Modéer",
+   "P.-E. Petersson"
+  ],
+  "publisher": "Elsevier (Cement and Concrete Research)",
+  "type": "Paper",
+  "date": "1976-11",
+  "url": "https://doi.org/10.1016/0008-8846(76)90007-7",
+  "doi": "10.1016/0008-8846(76)90007-7",
+  "identifiers": {
+   "journal": "Cement and Concrete Research 6:773-781"
+  },
+  "topics": [
+   "cross-mechanics"
+  ],
+  "geography": "Sweden",
+  "language": "en",
+  "description": "Hillerborg, Modéer & Petersson (1976): the fictitious crack model — foundational cohesive-crack fracture mechanics for concrete (~7,000 citations in OpenAlex).",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R348",
+  "status": "verified",
+  "title": "Crack band theory for fracture of concrete",
+  "authors": [
+   "Zdeněk P. Bažant",
+   "B. H. Oh"
+  ],
+  "publisher": "Springer (Matériaux et Constructions)",
+  "type": "Paper",
+  "date": "1983-05",
+  "url": "https://doi.org/10.1007/bf02486267",
+  "doi": "10.1007/bf02486267",
+  "identifiers": {
+   "journal": "Matériaux et Constructions 16:155-177"
+  },
+  "topics": [
+   "cross-mechanics"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Bažant & Oh (1983): crack band theory for fracture of concrete (RILEM Matériaux et Constructions) — forward citation of Hillerborg 1976.",
+  "access": "doi_metadata",
+  "evidenceNote": "Crossref metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Reached by citation chasing (OpenAlex cites/cited_by) in this pass.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R349",
+  "status": "verified",
+  "title": "Fictitious crack model of concrete fracture",
+  "authors": [
+   "R. Brincker",
+   "H. Dahl"
+  ],
+  "publisher": "Emerald (Magazine of Concrete Research)",
+  "type": "Paper",
+  "date": "1989-06",
+  "url": "https://doi.org/10.1680/macr.1989.41.147.79",
+  "doi": "10.1680/macr.1989.41.147.79",
+  "identifiers": {
+   "journal": "Magazine of Concrete Research 41:79-86"
+  },
+  "topics": [
+   "cross-mechanics",
+   "cross-tests-codes"
+  ],
+  "geography": "Denmark",
+  "language": "en",
+  "description": "Reformulated substructure method for three-point bending under the fictitious crack model, including stability of softening.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R350",
+  "status": "verified",
+  "title": "Strain-softening of concrete under multiaxial loading conditions",
+  "authors": [
+   "Jan G.M. van Mier"
+  ],
+  "publisher": "TU/e Research Portal",
+  "type": "Thesis",
+  "date": "1984",
+  "url": "https://doi.org/10.6100/ir145193",
+  "doi": "10.6100/ir145193",
+  "identifiers": {},
+  "topics": [
+   "cross-mechanics"
+  ],
+  "geography": "Netherlands",
+  "language": "en",
+  "description": "van Mier (TU Eindhoven, 1984) PhD: strain-softening of concrete under multiaxial loading.",
+  "access": "doi_metadata",
+  "evidenceNote": "OpenAlex/DataCite metadata inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": "OpenAlex: Other OA licence",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R351",
+  "status": "verified",
+  "title": "Structure and Mechanical Properties of Concrete",
+  "authors": [
+   "F. H. Wittmann"
+  ],
+  "publisher": "Japan Concrete Institute (Concrete Journal)",
+  "type": "Paper",
+  "date": "1983",
+  "url": "https://doi.org/10.3151/coj1975.21.3_19",
+  "doi": "10.3151/coj1975.21.3_19",
+  "identifiers": {
+   "journal": "Concrete Journal 21:19-30"
+  },
+  "topics": [
+   "cross-mechanics",
+   "cross-chemistry"
+  ],
+  "geography": "Switzerland / Japan",
+  "language": "ja",
+  "description": "Wittmann (1983, Japanese): structure and mechanical properties of concrete at micro/meso/macro levels incl. the Munich model of moisture effects on creep and strength.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R352",
+  "status": "verified",
+  "title": "Unbiased Statistical Comparison of Creep and Shrinkage Prediction Models",
+  "authors": [
+   "Zdeněk P. Bažant",
+   "Guang-Hua Li"
+  ],
+  "publisher": "American Concrete Institute (ACI Materials Journal)",
+  "type": "Paper",
+  "date": "2008",
+  "url": "https://doi.org/10.14359/20203",
+  "doi": "10.14359/20203",
+  "identifiers": {
+   "journal": "ACI Materials Journal 105"
+  },
+  "topics": [
+   "cross-mechanics",
+   "cross-tests-codes"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Bažant & Li (2008): unbiased statistical comparison and ranking of creep and shrinkage prediction models using a large experimental database.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed. Authors taken from OpenAlex because Crossref registers none.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R353",
+  "status": "verified",
+  "title": "Nanoscale origins of creep in calcium silicate hydrates",
+  "authors": [
+   "A. Morshedifard",
+   "S. Masoumi",
+   "M. J. Abdolhosseini Qomi"
+  ],
+  "publisher": "Springer (Nature Communications)",
+  "type": "Paper",
+  "date": "2018-05-03",
+  "url": "https://doi.org/10.1038/s41467-018-04174-z",
+  "doi": "10.1038/s41467-018-04174-z",
+  "identifiers": {
+   "journal": "Nature Communications 9"
+  },
+  "topics": [
+   "cross-mechanics",
+   "cross-chemistry"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Atomistic simulation of nanoscale creep mechanisms in calcium silicate hydrates.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI resolved to publisher landing (HTTP 200); full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R354",
+  "status": "verified",
+  "title": "Properties of Concrete at Elevated Temperatures",
+  "authors": [
+   "Venkatesh Kodur"
+  ],
+  "publisher": "Wiley (ISRN Civil Engineering)",
+  "type": "Review paper",
+  "date": "2014-03-13",
+  "url": "https://doi.org/10.1155/2014/468510",
+  "doi": "10.1155/2014/468510",
+  "identifiers": {
+   "journal": "ISRN Civil Engineering 2014:1-15"
+  },
+  "topics": [
+   "cross-mechanics",
+   "concrete-hpc",
+   "cross-failure-repair"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Kodur: thermal, mechanical and deformation properties of concrete at elevated temperature for fire design.",
+  "access": "abstract_metadata",
+  "evidenceNote": "Crossref metadata and abstract inspected 2026-11-10; DOI landing not loaded from this network (resolver/publisher error) — metadata only; full text not reviewed.",
+  "edition": null,
+  "rights": "OpenAlex: CC BY",
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R355",
+  "status": "verified",
+  "title": "EN 206-1:2026 Concrete — Specification, performance, production and conformity — Part 1 (BS EN 206-1:2026 preview)",
+  "authors": [
+   "CEN/TC 104"
+  ],
+  "publisher": "CEN / BSI (preview via ANSI Webstore)",
+  "type": "Standard preview",
+  "date": "2026-03",
+  "url": "https://webstore.ansi.org/preview-pages/BSI/preview_30493231.pdf",
+  "doi": null,
+  "identifiers": {
+   "standard": "EN 206-1:2026",
+   "nationalAdoption": "BS EN 206-1:2026 (published 2026-03-31)",
+   "isbn": "978 0 539 31920 0"
+  },
+  "topics": [
+   "standards",
+   "intl",
+   "binder-international",
+   "cross-tests-codes",
+   "carbon",
+   "concrete-circular"
+  ],
+  "geography": "Europe",
+  "language": "en",
+  "description": "EN 206 split into Parts 1–3 (approved by CEN 19 Jan 2026; national adoption by Sept 2026); together with EN 206-2 and -3 supersedes EN 206:2013+A2:2021. Changes: conformity moved to Part 2, geotechnical concrete to Part 3, new binder terminology, national exposure-resistance classes, new clause 5.4 CO2-emission classes, alignment with EN 1992-1-1:2023.",
+  "access": "preview_inspected",
+  "evidenceNote": "BSI preview pages (foreword, contents, introduction, scope, normative references) read 2026-11-10. Full standard not purchased. EN 206-2/-3 not inspected.",
+  "edition": "Supersedes EN 206:2013+A2:2021 (with EN 206-2:2026 and EN 206-3:2026).",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R356",
+  "status": "verified",
+  "title": "ACI CODE-318-25 release announcement (Building Code for Structural Concrete)",
+  "authors": null,
+  "publisher": "American Concrete Institute",
+  "type": "News",
+  "date": "2025-01-22",
+  "url": "https://www.concrete.org/newsandevents/news/newsdetail.aspx?f=51745596",
+  "doi": null,
+  "identifiers": {
+   "standard": "ACI CODE-318-25"
+  },
+  "topics": [
+   "concrete-structural",
+   "standards",
+   "cross-tests-codes",
+   "news"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "ACI announces 318-25: new sustainability appendix, performance-based wind design appendix, revised post-installed reinforcing bar requirements, shear friction, deep foundations, seismic provisions, development length equations and breakout strength-reduction factors.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "News page read 2026-11-10. Publisher announcement only; code text (paid) not reviewed. Supersedes ACI 318-19.",
+  "edition": "2025 edition; supersedes ACI CODE-318-19.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R357",
+  "status": "verified",
+  "title": "ACI PRC-522-23 Pervious Concrete—Report (preview)",
+  "authors": [
+   "ACI Committee 522"
+  ],
+  "publisher": "American Concrete Institute",
+  "type": "Report preview",
+  "date": "2023-06",
+  "url": "https://www.concrete.org/Portals/0/Files/PDF/Previews/522-23_preview.pdf",
+  "doi": null,
+  "identifiers": {
+   "isbn": "978-1-64195-220-0",
+   "standard": "ACI PRC-522-23"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "guides",
+   "cross-mix",
+   "cross-construction"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Pervious concrete report: near-zero-slump open-graded concrete, 15–35% voids, 2–8 mm connected pores, ~400–4000 psi (2.8–28 MPa), drainage ~2–18 gal/min/ft²; chapters on materials, proportioning, pavement and stormwater design, construction, QA and performance.",
+  "access": "preview_inspected",
+  "evidenceNote": "Official ACI preview PDF retrieved and front matter inspected 2026-11-10; full report not purchased.",
+  "edition": "Supersedes ACI 522R-10(11).",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R358",
+  "status": "verified",
+  "title": "Addressing Fly Ash Shortage with Limestone Calcined Clay Cement (VTRC 26-R52)",
+  "authors": [
+   "Gabriel Arce",
+   "Zhangfan Jiang",
+   "Amir Behravan",
+   "Lisa Colosi Peterson",
+   "Osman Ozbulut"
+  ],
+  "publisher": "Virginia Transportation Research Council / VDOT",
+  "type": "Report",
+  "date": "2026-06",
+  "url": "https://vtrc.virginia.gov/media/vtrc/vtrc-pdf/vtrc-pdf/26-R52.pdf",
+  "doi": null,
+  "identifiers": {
+   "report": "VTRC 26-R52",
+   "project": "123872"
+  },
+  "topics": [
+   "scm-clay",
+   "binder-lc3",
+   "dot",
+   "supply",
+   "binder-blended",
+   "scm-flyash"
+  ],
+  "geography": "US (Virginia)",
+  "language": "en",
+  "description": "VDOT study of LC3 and plant-blended 'LC2' (Type IL + 30% calcined clay) vs Class F fly ash and slag mixes: calcined clays far more reactive than Class F ash (closer to slag) but cut workability; 30% Class N-compliant calcined clay performed comparably to or better than 30% fly ash, with air entrainment similar to the Type IL control.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "PDF retrieved 2026-11-10; title page, technical documentation and abstract inspected. Single-agency lab program; field performance not covered.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R359",
+  "status": "verified",
+  "title": "Structural Design with Ultra-High Performance Concrete (FHWA-HRT-23-077)",
+  "authors": [
+   "Benjamin A. Graybeal",
+   "Rafic G. El-Helou"
+  ],
+  "publisher": "FHWA Turner-Fairbank Highway Research Center",
+  "type": "Report",
+  "date": "2023-10",
+  "url": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-23-077.pdf",
+  "doi": null,
+  "identifiers": {
+   "report": "FHWA-HRT-23-077"
+  },
+  "topics": [
+   "concrete-hpc",
+   "concrete-structural",
+   "standards",
+   "guides"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Proposed AASHTO-format guide specification for UHPC structural design (min f'c 17.5 ksi, ft,cr 0.75 ksi, crack localization strain 0.0025; AASHTO T 397 tension test; resistivity durability criterion) plus beam and pretensioned I-girder design examples; notes >350 US UHPC bridge applications 2006–2021.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "Full PDF read (front matter, chapters 1–3, Appendix A opening) 2026-11-10. Appendix A is explicitly a draft, not design guidance; the later AASHTO guide specification (cited by the 2026 PCI paper in this pass) was not reviewed.",
+  "edition": "Draft framework that preceded the AASHTO Guide Specification for Structural Design with UHPC.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R360",
+  "status": "verified",
+  "title": "Design and Construction of UHPC-Based Bridge Preservation and Repair Solutions (FHWA-HRT-22-065)",
+  "authors": [
+   "Zachary B. Haber",
+   "Andrew Foden",
+   "Michael McDonagh",
+   "Justin Ocel",
+   "Kevin Zmetra",
+   "Benjamin Graybeal"
+  ],
+  "publisher": "FHWA Turner-Fairbank Highway Research Center",
+  "type": "Report",
+  "date": "2022-05",
+  "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/bridge/22065/22065.pdf",
+  "doi": "10.21949/1521867",
+  "identifiers": {
+   "report": "FHWA-HRT-22-065"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "concrete-hpc",
+   "guides",
+   "concrete-structural"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Design/construction recommendations for UHPC bridge deck overlays, link slabs and steel beam-end repair; UHPC P&R was an FHWA Every Day Counts (EDC-6) innovation in 2021.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "PDF retrieved 2026-11-10; foreword, documentation page and abstract inspected. Builds on FHWA-HRT-19-011 (field-cast connections), not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R361",
+  "status": "verified",
+  "title": "Field Testing of an Ultra-High Performance Concrete Overlay (FHWA-HRT-17-096)",
+  "authors": [
+   "Zachary B. Haber",
+   "Jose F. Munoz",
+   "Benjamin A. Graybeal"
+  ],
+  "publisher": "FHWA Turner-Fairbank Highway Research Center",
+  "type": "Report",
+  "date": "2017-10",
+  "url": "https://ntlrepository.blob.core.windows.net/lib/65000/65600/65605/FHWA-HRT-17-096.pdf",
+  "doi": null,
+  "identifiers": {
+   "report": "FHWA-HRT-17-096",
+   "rosap": "dot/37821"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "concrete-hpc",
+   "field"
+  ],
+  "geography": "US (Iowa)",
+  "language": "en",
+  "description": "First US UHPC bridge-deck overlay (May 2016, slab bridge in Brandon, Iowa): suspected delaminations investigated by chain drag, direct-tension pull-off and SEM of the UHPC–substrate interface.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "PDF retrieved from NTL repository 2026-11-10; foreword and documentation page/abstract inspected. Single-bridge field study.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R362",
+  "status": "verified",
+  "title": "Electrical Resistivity Testing to Rapidly Assess the Durability of UHPC-Class Materials (FHWA-HRT-21-095 TechBrief)",
+  "authors": [
+   "Robert P. Spragg (FHWA contact)",
+   "Benjamin Graybeal (FHWA contact)"
+  ],
+  "publisher": "FHWA Turner-Fairbank Highway Research Center",
+  "type": "TechBrief",
+  "date": "2021",
+  "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/pavements/21095/21095.pdf",
+  "doi": null,
+  "identifiers": {
+   "report": "FHWA-HRT-21-095"
+  },
+  "topics": [
+   "concrete-hpc",
+   "cross-tests-codes",
+   "cross-durability"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Proposes AASHTO TP 119 uniaxial resistivity as a threshold test for UHPC-class durability: ≥1,500 Ω·m at 28 d (conditioning option A) appeared sufficient to distinguish UHPC-class from conventional concrete.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "PDF retrieved 2026-11-10 and text inspected. Authors not listed as such on the TechBrief; FHWA contacts shown. Exact month not captured (unknown).",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R363",
+  "status": "verified",
+  "title": "Materials and Methods for Corrosion Control of Reinforced and Prestressed Concrete Structures in New Construction (FHWA-RD-00-081)",
+  "authors": [
+   "J.L. Smith",
+   "Y.P. Virmani"
+  ],
+  "publisher": "FHWA Turner-Fairbank Highway Research Center",
+  "type": "Report",
+  "date": "2000-08",
+  "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/00081.pdf",
+  "doi": null,
+  "identifiers": {
+   "report": "FHWA-RD-00-081"
+  },
+  "topics": [
+   "concrete-repair-grout-overlay",
+   "cross-durability",
+   "concrete-structural",
+   "cross-failure-repair"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Summary of corrosion protection for new bridges: cover, low-permeability concrete, inhibitors, epoxy/organic/metallic-coated and corrosion-resistant bars; argues bar-level barriers are the last line of defense once concrete cracks.",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "FHWA PDF retrieved 2026-11-10; foreword and documentation page/abstract inspected. 2000 state of practice; later FHWA reinforcement studies not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R364",
+  "status": "verified",
+  "title": "Design of Zero-Maintenance Plain Jointed Concrete Pavement, Vol. II — Design Manual (FHWA-RD-77-112)",
+  "authors": [
+   "Michael I. Darter",
+   "Ernest J. Barenberg"
+  ],
+  "publisher": "FHWA Office of Research and Development (University of Illinois)",
+  "type": "Manual",
+  "date": "1977-06-08",
+  "url": "https://rosap.ntl.bts.gov/view/dot/30022",
+  "doi": null,
+  "identifiers": {
+   "report": "FHWA-RD-77-112",
+   "rosap": "dot/30022"
+  },
+  "topics": [
+   "concrete-pavement-pervious",
+   "pavement",
+   "guides",
+   "dot"
+  ],
+  "geography": "US",
+  "language": "en",
+  "description": "Engineering guide for heavily trafficked plain jointed concrete pavements designed for 'zero-maintenance' (structural) performance: slab, subbase, shoulders, joints and subsurface drainage, using the JCP-1 program; based on nationwide field and mechanistic studies.",
+  "access": "landing_page_inspected",
+  "evidenceNote": "ROSA P record and description read 2026-11-10; 8.2 MB PDF not reviewed. Historic 1977 method, superseded by later AASHTO/ME design practice.",
+  "edition": "Final report, 1977.",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "historical",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R365",
+  "status": "verified",
+  "title": "A fracture mechanics approach to failure analyses of concrete materials (PhD thesis, Report TVBM-1001)",
+  "authors": [
+   "Matz Modéer"
+  ],
+  "publisher": "Division of Building Materials, Lund Institute of Technology",
+  "type": "Thesis",
+  "date": "1979",
+  "url": "https://lup.lub.lu.se/record/1272886",
+  "doi": null,
+  "identifiers": {
+   "report": "TVBM-1001",
+   "issn": "0348-7911"
+  },
+  "topics": [
+   "cross-mechanics"
+  ],
+  "geography": "Sweden",
+  "language": "en",
+  "description": "Lund doctoral thesis developing Hillerborg's Fictitious Crack Model (idea from 1974) for failure analysis of concrete — backward-linked to Hillerborg, Modéer & Petersson 1976 (same pass).",
+  "access": "open_full_text_inspected",
+  "evidenceNote": "Lund University portal PDF retrieved 2026-11-10 (3rd printing 1985) and preface/title pages inspected.",
+  "edition": "Printed 1979; 3rd printing 1985 (version inspected).",
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "citation-chase",
+  "added": "2026-11-10"
+ },
+ {
+  "id": "R366",
+  "status": "verified",
+  "title": "Analysis of main barriers to the use of recycled aggregates in concrete production (Bulgarian)",
+  "authors": [
+   "Rumyana Zaharieva",
+   "Boyan Petrov"
+  ],
+  "publisher": "University of Architecture, Civil Engineering and Geodesy (UACEG), Sofia",
+  "type": "Conference paper",
+  "date": "2026",
+  "url": "https://doi.org/10.71167/uaceg.2026.590220",
+  "doi": "10.71167/uaceg.2026.590220",
+  "identifiers": {
+   "journal": "Annual of UACEG 59(2):639-650"
+  },
+  "topics": [
+   "concrete-circular",
+   "intl",
+   "standards",
+   "cross-supply-region"
+  ],
+  "geography": "Bulgaria",
+  "language": "bg",
+  "description": "Barriers to recycled concrete aggregate use in Bulgaria; EN 12620 covers RCA and EN 206 allows up to 50% coarse RCA, but the Bulgarian national annex BDS EN 206/NA restricts RCA to classes ≤C16/20 — authors argue this should be removed; MOBICCON-PRO C&DW plant near Sofia (from March 2025).",
+  "access": "abstract_metadata",
+  "evidenceNote": "UACEG library record with abstract inspected 2026-11-10 (Bulgarian with English summary). Full text not reviewed.",
+  "edition": null,
+  "rights": null,
+  "version": null,
+  "verifiedOn": "2026-11-10",
+  "provenance": "deep-pass-2026-11-10",
+  "origin": "current-awareness",
+  "added": "2026-11-10"
+ }
+]

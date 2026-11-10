@@ -1,0 +1,3161 @@
+{
+ "10.1016/s0958-9465(01)00056-7": {
+  "topic": "binder-blended",
+  "doi": "10.1016/s0958-9465(01)00056-7",
+  "crossref": {
+   "title": [
+    "Strength development of ternary blended cement with limestone filler and blast-furnace slag"
+   ],
+   "authors": [
+    "G Men\u00e9ndez",
+    "V Bonavetti",
+    "E.F Irassar"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2003,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "25",
+   "page": "61-67",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 23,
+   "citedby": 301
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946501000567",
+  "http": 200
+ },
+ "10.1016/s0008-8846(97)00075-6": {
+  "topic": "binder-blended",
+  "doi": "10.1016/s0008-8846(97)00075-6",
+  "crossref": {
+   "title": [
+    "Concrete containing ternary blended binders: Resistance to chloride ingress and carbonation"
+   ],
+   "authors": [
+    "M.R. Jones",
+    "R.K. Dhir",
+    "B.J. Magee"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1997,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "27",
+   "page": "825-831",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 12,
+   "citedby": 60
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884697000756",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2019.105799": {
+  "topic": "binder-blended",
+  "doi": "10.1016/j.cemconres.2019.105799",
+  "crossref": {
+   "title": [
+    "Reactivity of supplementary cementitious materials (SCMs) in cement blends"
+   ],
+   "authors": [
+    "J\u00f8rgen Skibsted",
+    "Ruben Snellings"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2019,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "124",
+   "page": "105799",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 175,
+   "citedby": 992
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884619302327",
+  "http": 200
+ },
+ "10.6028/nbs.ir.76-1008": {
+  "topic": "binder-blended",
+  "doi": "10.6028/nbs.ir.76-1008",
+  "crossref": {
+   "title": [
+    "Energy conversation through the facilitation of increased blended cement use"
+   ],
+   "authors": [
+    "Paul Wencil Brown",
+    "James R Clifton",
+    "Geoffrey Frohnsdorff"
+   ],
+   "publisher": "National Bureau of Standards",
+   "container": [],
+   "issued": [
+    [
+     1976
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 2
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1008.pdf",
+  "http": 200
+ },
+ "10.14359/12405": {
+  "topic": "binder-blended",
+  "doi": "10.14359/12405",
+  "crossref": {
+   "title": [
+    "Ternary Blended Cements for High-Performance Concrete"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "\"SP-207: Proceedings, Third International Conference on High Performance Concrete: Performance and Quality of Concrete St\""
+   ],
+   "issued": [
+    [
+     2002
+    ]
+   ],
+   "type": "proceedings-article",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&id=12405",
+  "http": 200
+ },
+ "10.1088/1748-9326/11/7/074029": {
+  "topic": "binder-blended",
+  "doi": "10.1088/1748-9326/11/7/074029",
+  "crossref": {
+   "title": [
+    "Readily implementable techniques can cut annual CO\n                    <sub>2</sub>\n                    emissions from the production of concrete by over 20%"
+   ],
+   "authors": [
+    "Sabbie A Miller",
+    "Arpad Horvath",
+    "Paulo J M Monteiro"
+   ],
+   "publisher": "IOP Publishing",
+   "container": [
+    "Environmental Research Letters"
+   ],
+   "issued": [
+    [
+     2016,
+     7,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "11",
+   "page": "074029",
+   "license": [
+    "http://iopscience.iop.org/info/page/text-and-data-mining",
+    "http://creativecommons.org/licenses/by/3.0/"
+   ],
+   "abstract": "",
+   "refs": 30,
+   "citedby": 579
+  },
+  "resolved": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=d5c531b2-1654-4e6c-878a-84a958f01211&ssb=33474205483&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1748-9326%2F11%2F7%2F074029&ssi=4d6a74b4-cnvj-485c-975b-fdb90bea8eb8&ssk=botmanager_support@radware.com&ssm=14163892322593844107488110629583&ssn=92c5c7e3742c20cf2ec198540155fd2c6483a8fc187c-1e1d-47b4-8779b3&sso=c8bcc90e-cb4b4b189f7d5fdd915d47805f87685d784409bfc3bec67d&ssp=46196587671794313338179438678325096&ssq=85564881314709180478413147803332541443386&ssr=MTA0LjI4LjI0OS40OA==&sst=Mozilla/5.0&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwOWJjNTg4ZDUtNmY2Mi00M2I1LTkzYjctYjlhMWZkYWQ3MmFkMS0xNzk0MzEzMTQ3MjM0MC0wMGQ4NTA4OWM0YjRjNGZmNmJmMTAiLCJfX3V6bWYiOiI3ZjkwMDBhOGZjMTg3Yy0xZTFkLTQ3YjQtODkwZS1jYjRiNGIxODlmN2QxLTE3OTQzMTMxNDcyMzQwLTAwNWE4ZTEyZjUyZGNlMzU4NTIxMCIsInJkIjoiaW9wLm9yZyJ9",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2007.02.017": {
+  "topic": "binder-blended",
+  "doi": "10.1016/j.cemconres.2007.02.017",
+  "crossref": {
+   "title": [
+    "Improving the performance of ternary blended cements by mixing different types of fly ashes"
+   ],
+   "authors": [
+    "S.K. Antiohos",
+    "V.G. Papadakis",
+    "E. Chaniotakis",
+    "S. Tsimas"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2007,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "37",
+   "page": "877-885",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004"
+   ],
+   "abstract": "",
+   "refs": 41,
+   "citedby": 75
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884607000543",
+  "http": 200
+ },
+ "10.1016/0008-8846(96)00148-2": {
+  "topic": "scm-clay",
+  "doi": "10.1016/0008-8846(96)00148-2",
+  "crossref": {
+   "title": [
+    "Relative strength, pozzolanic activity and cement hydration in superplasticised metakaolin concrete"
+   ],
+   "authors": [
+    "S. Wild",
+    "J.M. Khatib",
+    "A. Jones"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1996,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "26",
+   "page": "1537-1544",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 12,
+   "citedby": 553
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884696001482",
+  "http": 200
+ },
+ "10.1617/s11527-021-01807-6": {
+  "topic": "scm-clay",
+  "doi": "10.1617/s11527-021-01807-6",
+  "crossref": {
+   "title": [
+    "Clay calcination technology: state-of-the-art review by the RILEM TC 282-CCL"
+   ],
+   "authors": [
+    "Theodore Hanein",
+    "Karl-Christian Thienel",
+    "Franco Zunino",
+    "Alastair T. M. Marsh",
+    "Matthias Maier",
+    "Bin Wang",
+    "Mariana Canut",
+    "Maria C. G. Juenger",
+    "Mohsen Ben Haha",
+    "Fran\u00e7ois Avet",
+    "Anuj Parashar",
+    "Layth A. Al-Jaberi",
+    "Roger S. Almenares-Reyes",
+    "Adri\u00e1n Alujas-Diaz",
+    "Karen L. Scrivener",
+    "Susan A. Bernal",
+    "John L. Provis",
+    "Tongbo Sui",
+    "Shashank Bishnoi",
+    "Fernando Martirena-Hern\u00e1ndez"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2021,
+     12,
+     20
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "55",
+   "page": null,
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The use of calcined clays as supplementary cementitious materials provides the opportunity to significantly reduce the cement industry\u2019s carbon burden; however, use at a global scale requires a deep understanding of the extraction and processing of the clays to be used, which will uncover routes to optimise their reactivity. This will enable increased usage of calcined clays as cement replacements, further improving the sustainability of concretes produced with them. Existing technologies can be adopted to produce calcined clays at an",
+   "refs": 193,
+   "citedby": 297
+  },
+  "resolved": "https://link.springer.com/article/10.1617/s11527-021-01807-6?error=cookies_not_supported&code=2c705279-b0c2-438b-8b81-c0b481527608",
+  "http": 200
+ },
+ "10.1680/jgrma.18.00029": {
+  "topic": "scm-clay",
+  "doi": "10.1680/jgrma.18.00029",
+  "crossref": {
+   "title": [
+    "Impacting factors and properties of limestone calcined clay cements (LC\n                    <sup>3</sup>\n                    )"
+   ],
+   "authors": [
+    "Karen Scrivener",
+    "Fran\u00e7ois Avet",
+    "Hamed Maraghechi",
+    "Franco Zunino",
+    "Julien Ston",
+    "Wilasinee Hanpongpun",
+    "Aur\u00e9lie Favier"
+   ],
+   "publisher": "Emerald",
+   "container": [
+    "Green Materials"
+   ],
+   "issued": [
+    [
+     2019,
+     3,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "7",
+   "page": "3-14",
+   "license": [],
+   "abstract": "<jats:p>\n                    This paper details the main factors influencing the performance of limestone calcined clay cements (LC\n                    <jats:sup>3</jats:sup>\n                    ). The kaolinite content plays a major role in the rheological properties as well as strength development. Even in the presence of secondary phases, kaolinite can be accurately quantified by thermogravimetric analysis. The performance of LC\n                    <jats:sup>3</jats:sup>\n                    is slightly influenced by the calcination process of clay, but it can be optimized by using the corre",
+   "refs": 45,
+   "citedby": 361
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/s0008-8846(01)00492-6": {
+  "topic": "scm-clay",
+  "doi": "10.1016/s0008-8846(01)00492-6",
+  "crossref": {
+   "title": [
+    "Long-term testing of the chloride-penetration resistance of concrete containing high-reactivity metakaolin"
+   ],
+   "authors": [
+    "Andrea Boddy",
+    "R.D Hooton",
+    "K.A Gruber"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2001,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "31",
+   "page": "759-765",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 21,
+   "citedby": 110
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884601004926",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2003.11.014": {
+  "topic": "scm-clay",
+  "doi": "10.1016/j.cemconres.2003.11.014",
+  "crossref": {
+   "title": [
+    "Exploitation of poor Greek kaolins: strength development of metakaolin concrete and evaluation by means of k-value"
+   ],
+   "authors": [
+    "E. Badogiannis",
+    "V.G. Papadakis",
+    "E. Chaniotakis",
+    "S. Tsivilis"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2004,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "34",
+   "page": "1035-1041",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 43,
+   "citedby": 98
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884603004101",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2026.108316": {
+  "topic": "scm-clay",
+  "doi": "10.1016/j.cemconres.2026.108316",
+  "crossref": {
+   "title": [
+    "Effects of clinker and calcined clay mineralogy on the hydration of limestone calcined clay cement (LC3)"
+   ],
+   "authors": [
+    "Paulo Matos",
+    "Larissa Dresch",
+    "Jos\u00e9 Andrade Neto",
+    "Caroline Bender",
+    "Erich Rodr\u00edguez",
+    "Franco Zunino",
+    "Ana Paula Kirchheim"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2026,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "208",
+   "page": "108316",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "",
+   "refs": 64,
+   "citedby": 3
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884626001869",
+  "http": 200
+ },
+ "10.21809/rilemtechlett.2016.12": {
+  "topic": "scm-clay",
+  "doi": "10.21809/rilemtechlett.2016.12",
+  "crossref": {
+   "title": [
+    "Assessing, Understanding and Unlocking Supplementary Cementitious Materials"
+   ],
+   "authors": [
+    "Ruben Snellings"
+   ],
+   "publisher": "Rilem Publications SARL",
+   "container": [
+    "RILEM Technical Letters"
+   ],
+   "issued": [
+    [
+     2016,
+     8,
+     16
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "1",
+   "page": "50-55",
+   "license": [
+    "http://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "<jats:p>The partial replacement of Portland clinker by supplementary cementitious materials (SCM) is one of the most popular and effective measures to reduce both costs and CO2 emissions related to cement production. An estimated 800 Mt/y of blast furnace slags, fly ashes and other materials are currently being used as SCM, but still the cement industry accounts for 5-8% of global CO2 emissions. If no further actions are taken, by the year 2050 this share might even rise beyond 25%. There is thus a clear challenge as to how emissions will be kept at bay and sustainability targets set by intern",
+   "refs": 50,
+   "citedby": 334
+  },
+  "resolved": "https://letters.rilem.net/index.php/rilem/article/view/12",
+  "http": 200
+ },
+ "10.1617/s11527-018-1269-x": {
+  "topic": "scm-clay",
+  "doi": "10.1617/s11527-018-1269-x",
+  "crossref": {
+   "title": [
+    "Reactivity tests for supplementary cementitious materials: RILEM TC 267-TRM phase 1"
+   ],
+   "authors": [
+    "Xuerun Li",
+    "Ruben Snellings",
+    "Mathieu Antoni",
+    "Natalia Mariel Alderete",
+    "Mohsen Ben Haha",
+    "Shashank Bishnoi",
+    "\u00d6zlem Cizer",
+    "Martin Cyr",
+    "Klaartje De Weerdt",
+    "Yuvaraj Dhandapani",
+    "Jos\u00e9e Duchesne",
+    "Johannes Haufe",
+    "Doug Hooton",
+    "Maria Juenger",
+    "Siham Kamali-Bernard",
+    "Sabina Kramar",
+    "Milena Marroccoli",
+    "Aneeta Mary Joseph",
+    "Anuj Parashar",
+    "Cedric Patapy",
+    "John L. Provis",
+    "Sergio Sabio",
+    "Manu Santhanam",
+    "Laurent Steger",
+    "Tongbo Sui",
+    "Antonio Telesca",
+    "Anya Vollpracht",
+    "Felipe Vargas",
+    "Brant Walkley",
+    "Frank Winnefeld",
+    "Guang Ye",
+    "Maciej Zajac",
+    "Shizhe Zhang",
+    "Karen L. Scrivener"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2018,
+     10,
+     30
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "51",
+   "page": null,
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 17,
+   "citedby": 282
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/s0008-8846(99)00231-8": {
+  "topic": "scm-clay",
+  "doi": "10.1016/s0008-8846(99)00231-8",
+  "crossref": {
+   "title": [
+    "The effect that the pozzolanic reaction of metakaolin has on the heat evolution in metakaolin-cement mortars"
+   ],
+   "authors": [
+    "M. Fr\u0131\u0301as",
+    "M.I.S\u00e1nchez de Rojas",
+    "J. Cabrera"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2000,
+     2
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "30",
+   "page": "209-216",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 17,
+   "citedby": 233
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884699002318",
+  "http": 200
+ },
+ "10.14359/3097": {
+  "topic": "concrete-structural",
+  "doi": "10.14359/3097",
+  "crossref": {
+   "title": [
+    "Size Effect on Diagonal Shear Failure of Beams Without Stirrups"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Structural Journal"
+   ],
+   "issued": [
+    [
+     1991
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "88",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 30
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.15554/pcij20.4-04": {
+  "topic": "concrete-structural",
+  "doi": "10.15554/pcij20.4-04",
+  "crossref": {
+   "title": [
+    "Recommendations for Estimating Prestress Losses"
+   ],
+   "authors": [
+    "PCI Committee on Prestress Losses"
+   ],
+   "publisher": "Precast/Prestressed Concrete Institute",
+   "container": [
+    "PCI Journal"
+   ],
+   "issued": [
+    [
+     1975
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "20",
+   "page": null,
+   "license": [],
+   "abstract": "<jats:p>This PCI Committee report summarizes data on creep and shrinkage of concrete and steel relaxation, and presents both a general and a simplified design procedure for using these data in estimating loss of prestress after any given time period. A Commentary explains the design provisions. Detailed design examples for pretensioned and post-tensioned concrete structures explain the procedures.</jats:p>",
+   "refs": 0,
+   "citedby": 14
+  },
+  "resolveErr": "HTTP Error 404: Not Found"
+ },
+ "10.1680/icien.1998.30436": {
+  "topic": "concrete-structural",
+  "doi": "10.1680/icien.1998.30436",
+  "crossref": {
+   "title": [
+    "FRANCOIS HENNEBIQUE (1842-1921), REINFORCED CONCRETE PIONEER."
+   ],
+   "authors": [
+    "D G MCBETH",
+    "F HENNEBIQUE",
+    "L G MOUCHEL"
+   ],
+   "publisher": "Emerald",
+   "container": [
+    "Proceedings of the Institution of Civil Engineers - Civil Engineering"
+   ],
+   "issued": [
+    [
+     1998,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "126",
+   "page": "86-95",
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 8
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.2749/101686613x13627347100275": {
+  "topic": "concrete-structural",
+  "doi": "10.2749/101686613x13627347100275",
+  "crossref": {
+   "title": [
+    "Structural Weaknesses of the Hennebique Early Reinforced Concrete System and Possible Retrofitting"
+   ],
+   "authors": [
+    "Armande Hellebois",
+    "Bernard Espion"
+   ],
+   "publisher": "Informa UK Limited",
+   "container": [
+    "Structural Engineering International"
+   ],
+   "issued": [
+    [
+     2013,
+     11
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "23",
+   "page": "501-511",
+   "license": [],
+   "abstract": "",
+   "refs": 10,
+   "citedby": 4
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.14359/765": {
+  "topic": "concrete-structural",
+  "doi": "10.14359/765",
+  "crossref": {
+   "title": [
+    "Corrosion Effects on Bond Strength in Reinforced Concrete"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Structural Journal"
+   ],
+   "issued": [
+    [
+     1999
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "96",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 16
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.14359/4459": {
+  "topic": "concrete-structural",
+  "doi": "10.14359/4459",
+  "crossref": {
+   "title": [
+    "Effect of Deformation Height and Spacing on Bond Strength of Reinforcing Bars"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Structural Journal"
+   ],
+   "issued": [
+    [
+     1993
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "90",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 18
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1007/978-3-319-59471-2_316": {
+  "topic": "concrete-structural",
+  "doi": "10.1007/978-3-319-59471-2_316",
+  "crossref": {
+   "title": [
+    "The Invention of Reinforced Concrete (1848 \u2013 1906)"
+   ],
+   "authors": [
+    "Michel Moussard",
+    "Patricia Garibaldi",
+    "Manfred Curbach"
+   ],
+   "publisher": "Springer International Publishing",
+   "container": [
+    "High Tech Concrete: Where Technology and Engineering Meet"
+   ],
+   "issued": [
+    [
+     2017,
+     8,
+     6
+    ]
+   ],
+   "type": "book-chapter",
+   "volume": null,
+   "page": "2785-2794",
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 10,
+   "citedby": 11
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.15554/tr-2-82": {
+  "topic": "concrete-structural",
+  "doi": "10.15554/tr-2-82",
+  "crossref": {
+   "title": [
+    "Connections for Precast Prestressed Concrete Buildings Including Earthquake Resistance"
+   ],
+   "authors": [
+    "L. D. Martin",
+    "W. J. Korkosz"
+   ],
+   "publisher": "Precast/Prestressed Concrete Institute",
+   "container": [],
+   "issued": [
+    [
+     1982
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 8
+  },
+  "resolveErr": "HTTP Error 404: Not Found"
+ },
+ "10.6028/nist.ir.6295": {
+  "topic": "concrete-hpc",
+  "doi": "10.6028/nist.ir.6295",
+  "crossref": {
+   "title": [
+    "Curing of high-performance concrete:"
+   ],
+   "authors": [
+    "Kenneth W Meeks",
+    "Nicholas J Carino"
+   ],
+   "publisher": "National Institute of Standards and Technology",
+   "container": [],
+   "issued": [
+    [
+     1999
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 40
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6295.pdf",
+  "http": 200
+ },
+ "10.6028/nist.sp.919": {
+  "topic": "concrete-hpc",
+  "doi": "10.6028/nist.sp.919",
+  "crossref": {
+   "title": [
+    "International Workshop on Fire Performance of High-Strength Concrete, NIST, Gaithersburg, MD, February 13-14, 1997"
+   ],
+   "authors": [
+    "Long T Phan",
+    "Long T Phan",
+    "Nicholas J Cariono",
+    "Dat Duthinh",
+    "Edward J Garboczi"
+   ],
+   "publisher": "National Institute of Standards and Technology",
+   "container": [],
+   "issued": [
+    [
+     1997
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 24
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication919.pdf",
+  "http": 200
+ },
+ "10.6028/nist.ir.4819": {
+  "topic": "concrete-hpc",
+  "doi": "10.6028/nist.ir.4819",
+  "crossref": {
+   "title": [
+    "Applicability of the maturity method to high-performance concrete"
+   ],
+   "authors": [
+    "Nicholas J Carino",
+    "Lawrence I Knab",
+    "James R Clifton"
+   ],
+   "publisher": "National Institute of Standards and Technology",
+   "container": [],
+   "issued": [
+    [
+     1992
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 10
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4819.pdf",
+  "http": 200
+ },
+ "10.1155/1999/415360": {
+  "topic": "concrete-hpc",
+  "doi": "10.1155/1999/415360",
+  "crossref": {
+   "title": [
+    "Tensile Properties of Very\u2010High\u2010Strength Concrete for Penetration\u2010Resistant Structures"
+   ],
+   "authors": [
+    "E.F. O\u2019Neil",
+    "B.D. Neeley",
+    "J.D. Cargile"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "Shock and Vibration"
+   ],
+   "issued": [
+    [
+     1999,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "6",
+   "page": "237-245",
+   "license": [
+    "http://creativecommons.org/licenses/by/3.0/"
+   ],
+   "abstract": "<jats:p>This paper describes the potential suitability of a new family of concrete mixtures for use in protective structures. Two very\u2010high\u2010strength concrete mixtures are discussed and experimental results of penetration studies on one of these are presented. The results are compared to penetration\u2010study results of other, more conventional concrete mixtures, and the advantages of the very\u2010high\u2010strength mixtures are described.</jats:p>",
+   "refs": 0,
+   "citedby": 117
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/0008-8846(95)00144-2": {
+  "topic": "concrete-hpc",
+  "doi": "10.1016/0008-8846(95)00144-2",
+  "crossref": {
+   "title": [
+    "Composition of reactive powder concretes"
+   ],
+   "authors": [
+    "Pierre Richard",
+    "Marcel Cheyrezy"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1995,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "25",
+   "page": "1501-1511",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 14,
+   "citedby": 2077
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884695001442",
+  "http": 200
+ },
+ "10.1016/j.cscm.2018.e00197": {
+  "topic": "concrete-hpc",
+  "doi": "10.1016/j.cscm.2018.e00197",
+  "crossref": {
+   "title": [
+    "Ultra-high performance concrete: From fundamental to applications"
+   ],
+   "authors": [
+    "N.M. Azmee",
+    "N. Shafiq"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Case Studies in Construction Materials"
+   ],
+   "issued": [
+    [
+     2018,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": "e00197",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+   ],
+   "abstract": "",
+   "refs": 146,
+   "citedby": 172
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S2214509518301360",
+  "http": 200
+ },
+ "10.1016/s0958-9465(02)00081-1": {
+  "topic": "concrete-hpc",
+  "doi": "10.1016/s0958-9465(02)00081-1",
+  "crossref": {
+   "title": [
+    "The durability characteristics of high performance concrete: a review"
+   ],
+   "authors": [
+    "P.C A\u0131\u0308tcin"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2003,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "25",
+   "page": "409-420",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/"
+   ],
+   "abstract": "",
+   "refs": 30,
+   "citedby": 369
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946502000811",
+  "http": 200
+ },
+ "10.15554/pcij71.5-01": {
+  "topic": "concrete-hpc",
+  "doi": "10.15554/pcij71.5-01",
+  "crossref": {
+   "title": [
+    "Section shapes for precast short-span ultra-high-performance concrete bridges"
+   ],
+   "authors": [
+    "David B. Garber",
+    "Rafic G. Helou",
+    "Benjamin Graybeal"
+   ],
+   "publisher": "Precast/Prestressed Concrete Institute",
+   "container": [
+    "PCI Journal"
+   ],
+   "issued": [
+    [
+     2026
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "71",
+   "page": "24-36",
+   "license": [],
+   "abstract": "<jats:p>Short-span bridge superstructures are commonly made of conventional precast concrete components. The emergence of ultra-high-performance concrete (UHPC) and the publication of the American Association of State Highway and Transportation Officials Guide Specification for Structural Design with Ultra-High Performance Concrete create new possibilities for the redesign of short-span bridge superstructures. Several section shapes optimized for use with UHPC are introduced based on existing short-span section shape types along with practical span ranges shown for each section type. Sample de",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://www.pci.org/PCI/Publications/PCI_Journal/Issues/2026/September-October/Section-shapes-for-precast-short-span-ultra-high-performance-concrete-bridges.aspx",
+  "http": 200
+ },
+ "10.14359/51750683": {
+  "topic": "concrete-hpc",
+  "doi": "10.14359/51750683",
+  "crossref": {
+   "title": [
+    "Flexural Behavior of Simplified Hollow Slab Bridges Strengthened with Ultra-High-Performance Concrete  under Eccentric Loading"
+   ],
+   "authors": [
+    "Zhe Wang",
+    "Yuwen Liu",
+    "Haojun Zhang",
+    "Shan Li"
+   ],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Structural Journal"
+   ],
+   "issued": [
+    [
+     2026,
+     9,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "123",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 45,
+   "citedby": 0
+  },
+  "resolved": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&id=51750683",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2013.09.022": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.1016/j.conbuildmat.2013.09.022",
+  "crossref": {
+   "title": [
+    "Experimental study on Portland cement pervious concrete mechanical and hydrological properties"
+   ],
+   "authors": [
+    "Ahmed Ibrahim",
+    "Enad Mahmoud",
+    "Mohammed Yamin",
+    "Varun Chowdary Patibandla"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2014,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "50",
+   "page": "524-529",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 20,
+   "citedby": 291
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061813008623",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2010.04.057": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.1016/j.conbuildmat.2010.04.057",
+  "crossref": {
+   "title": [
+    "Optimum mix design of enhanced permeable concrete \u2013 An experimental investigation"
+   ],
+   "authors": [
+    "C. Lian",
+    "Y. Zhuge"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2010,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "24",
+   "page": "2664-2671",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 26,
+   "citedby": 265
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061810001789",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2009.10.025": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.1016/j.conbuildmat.2009.10.025",
+  "crossref": {
+   "title": [
+    "Laboratory evaluation of permeability and strength of polymer-modified pervious concrete"
+   ],
+   "authors": [
+    "Baoshan Huang",
+    "Hao Wu",
+    "Xiang Shu",
+    "Edwin G. Burdette"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2010,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "24",
+   "page": "818-823",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 15,
+   "citedby": 377
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061809003626",
+  "http": 200
+ },
+ "10.5703/1288284314088": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.5703/1288284314088",
+  "crossref": {
+   "title": [
+    "Structural Analysis of Rigid Pavements with Pumping: Summary Informational Report"
+   ],
+   "authors": [
+    "Jesus Larralde"
+   ],
+   "publisher": "Purdue University",
+   "container": [],
+   "issued": [
+    [
+     1985
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 9
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1080/10298436.2026.2738785": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.1080/10298436.2026.2738785",
+  "crossref": {
+   "title": [
+    "Integrating compaction energy into predictive models for pervious concrete permeability"
+   ],
+   "authors": [
+    "Asoharasa Janarth",
+    "Champika Ellawala",
+    "Navaratnarajah Sathiparan",
+    "Daniel Niruban Subramaniam",
+    "Sudhira De Silva",
+    "Muhammed Bhuiyan",
+    "David Law",
+    "Biplob Kumar Pramanik"
+   ],
+   "publisher": "Informa UK Limited",
+   "container": [
+    "International Journal of Pavement Engineering"
+   ],
+   "issued": [
+    [
+     2026,
+     9,
+     25
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "27",
+   "page": null,
+   "license": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "https://doi.org/10.1080/policies-text-data-mining"
+   ],
+   "abstract": "",
+   "refs": 66,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3390/buildings16204006": {
+  "topic": "concrete-pavement-pervious",
+  "doi": "10.3390/buildings16204006",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Durability Testing of Prefabricated Pervious Concrete Pavers"
+   ],
+   "authors": [
+    "Marina \u0160kondri\u0107",
+    "Vera Obradovi\u0107",
+    "Ognjen Govedarica",
+    "Branislava Leki\u0107",
+    "Vladana Rajakovi\u0107-Ognjanovi\u0107",
+    "Aleksandar Savi\u0107"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Buildings"
+   ],
+   "issued": [
+    [
+     2026,
+     10,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "16",
+   "page": "4006",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>Pervious concrete pavements have received increasing research attention because of their potential to improve stormwater runoff management in urban environments. Since they are usually exposed to low temperatures during the winter period, it is important to test their durability in a cold climate. Existing protocols for testing of the frost resistance of ordinary concrete are not completely suitable for this type of material, particularly for prefabricated pervious concrete pavers. The frost resistance of pervious concrete pavers designed with partial replacement of cement with fly ash",
+   "refs": 43,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/j.cemconres.2018.05.006": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2018.05.006",
+  "crossref": {
+   "title": [
+    "3D printing using concrete extrusion: A roadmap for research"
+   ],
+   "authors": [
+    "R.A. Buswell",
+    "W.R. Leal de Silva",
+    "S.Z. Jones",
+    "J. Dirrenberger"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2018,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "112",
+   "page": "37-49",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "",
+   "refs": 57,
+   "citedby": 1562
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884617311924",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2019.02.017": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2019.02.017",
+  "crossref": {
+   "title": [
+    "Hardened properties of 3D printed concrete: The influence of process parameters on interlayer adhesion"
+   ],
+   "authors": [
+    "R.J.M. Wolfs",
+    "F.P. Bos",
+    "T.A.M. Salet"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2019,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "119",
+   "page": "132-140",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 36,
+   "citedby": 785
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884618310482",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2019.105780": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2019.105780",
+  "crossref": {
+   "title": [
+    "Digital Concrete: A Review"
+   ],
+   "authors": [
+    "Timothy Wangler",
+    "Nicolas Roussel",
+    "Freek P. Bos",
+    "Theo A.M. Salet",
+    "Robert J. Flatt"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2019,
+     9
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "123",
+   "page": "105780",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 169,
+   "citedby": 602
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884619303680",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2020.106037": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2020.106037",
+  "crossref": {
+   "title": [
+    "Extrusion-based additive manufacturing with cement-based materials \u2013 Production steps, processes, and their underlying physics: A review"
+   ],
+   "authors": [
+    "V. Mechtcherine",
+    "F.P. Bos",
+    "A. Perrot",
+    "W.R. Leal da Silva",
+    "V.N. Nerella",
+    "S. Fataei",
+    "R.J.M. Wolfs",
+    "M. Sonebi",
+    "N. Roussel"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2020,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "132",
+   "page": "106037",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 92,
+   "citedby": 590
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884619317132",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2004.05.041": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2004.05.041",
+  "crossref": {
+   "title": [
+    "Delayed ettringite formation symptoms on mortars induced by high temperature due to cement heat of hydration or late thermal cycle"
+   ],
+   "authors": [
+    "R. Barbarulo",
+    "H. Peycelon",
+    "S. Pren\u00e9",
+    "J. Marchand"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2005,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "35",
+   "page": "125-131",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 19,
+   "citedby": 53
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884604002443",
+  "http": 200
+ },
+ "10.1520/cca10459j": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1520/cca10459j",
+  "crossref": {
+   "title": [
+    "Delayed Ettringite Formation at Brewer Stadium, Boone, North Carolina"
+   ],
+   "authors": [
+    "MA Ozol",
+    "W Strand"
+   ],
+   "publisher": "ASTM International",
+   "container": [
+    "Cement, Concrete, and Aggregates"
+   ],
+   "issued": [
+    [
+     2000,
+     6,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "22",
+   "page": "24-34",
+   "license": [],
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Brewer Stadium, Appalachian State University, Boone, NC, was constructed in 1962 using steam-cured precast lightweight concrete channel sections for the bleacher seats. Spalling of the bleachers was observed within a few years. By 1995, approximately 375 of 860 precast elements exhibited sufficiently severe cracking and delamination that reconstruction of the stadium was the most economical alternative.</jats:p>\n               <jats:p>The destructive process causing the cracking and delamination of the 375 units is DEF. The (fibrous, cry",
+   "refs": 3,
+   "citedby": 4
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1007/s41024-026-00840-8": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1007/s41024-026-00840-8",
+  "crossref": {
+   "title": [
+    "Drying and shrinkage of reinforced 3D printed concrete"
+   ],
+   "authors": [
+    "Galina Slavcheva",
+    "Olga Artamonova",
+    "Kristina Kotova",
+    "Maria A. Shvedova"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Journal of Building Pathology and Rehabilitation"
+   ],
+   "issued": [
+    [
+     2026,
+     5,
+     18
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "11",
+   "page": null,
+   "license": [
+    "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "https://www.springernature.com/gp/researchers/text-and-data-mining"
+   ],
+   "abstract": "",
+   "refs": 38,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 404: Not Found"
+ },
+ "10.17869/enu.276402": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.17869/enu.276402",
+  "crossrefErr": "HTTP Error 404: Not Found",
+  "openalex": {
+   "title": "Direct electric curing of mortar and concrete",
+   "authors": [
+    "Ian Heritage"
+   ],
+   "date": "2001-01-01",
+   "venue": "Research Output (Edinburgh Napier University)",
+   "oa": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://napier-surface.worktribe.com/276402/1/HeritageMortar.pdf",
+    "any_repository_has_fulltext": true
+   },
+   "type": "dissertation",
+   "license": "cc-by-nc"
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.14359/11004": {
+  "topic": "concrete-circular",
+  "doi": "10.14359/11004",
+  "crossref": {
+   "title": [
+    "Recycled Concrete as a Source of Aggregate"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Journal Proceedings"
+   ],
+   "issued": [
+    [
+     1977
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "74",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 15
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.conbuildmat.2014.04.117": {
+  "topic": "concrete-circular",
+  "doi": "10.1016/j.conbuildmat.2014.04.117",
+  "crossref": {
+   "title": [
+    "Properties and composition of recycled aggregates from construction and demolition waste suitable for concrete production"
+   ],
+   "authors": [
+    "R.V. Silva",
+    "J. de Brito",
+    "R.K. Dhir"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2014,
+     8
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "65",
+   "page": "201-217",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 236,
+   "citedby": 1124
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061814004437",
+  "http": 200
+ },
+ "10.1016/j.jclepro.2015.08.057": {
+  "topic": "concrete-circular",
+  "doi": "10.1016/j.jclepro.2015.08.057",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Performance enhancement of recycled concrete aggregate \u2013 A review"
+   ],
+   "authors": [
+    "Caijun Shi",
+    "Yake Li",
+    "Jiake Zhang",
+    "Wengui Li",
+    "Linlin Chong",
+    "Zhaobin Xie"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Journal of Cleaner Production"
+   ],
+   "issued": [
+    [
+     2016,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "112",
+   "page": "466-472",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/"
+   ],
+   "abstract": "",
+   "refs": 71,
+   "citedby": 1120
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0959652615011488",
+  "http": 200
+ },
+ "10.1038/ngeo2840": {
+  "topic": "concrete-circular",
+  "doi": "10.1038/ngeo2840",
+  "crossref": {
+   "title": [
+    "Substantial global carbon uptake by cement carbonation"
+   ],
+   "authors": [
+    "Fengming Xi",
+    "Steven J. Davis",
+    "Philippe Ciais",
+    "Douglas Crawford-Brown",
+    "Dabo Guan",
+    "Claus Pade",
+    "Tiemao Shi",
+    "Mark Syddall",
+    "Jie Lv",
+    "Lanzhu Ji",
+    "Longfei Bing",
+    "Jiaoyue Wang",
+    "Wei Wei",
+    "Keun-Hyeok Yang",
+    "Bj\u00f6rn Lagerblad",
+    "Isabel Galan",
+    "Carmen Andrade",
+    "Ying Zhang",
+    "Zhu Liu"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Nature Geoscience"
+   ],
+   "issued": [
+    [
+     2016,
+     11,
+     21
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": "880-883",
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 71,
+   "citedby": 628
+  },
+  "resolved": "https://www.nature.com/articles/ngeo2840?error=cookies_not_supported&code=56537423-3e96-49c9-a9b2-de91cf964d73",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2004.10.025": {
+  "topic": "concrete-circular",
+  "doi": "10.1016/j.cemconres.2004.10.025",
+  "crossref": {
+   "title": [
+    "Microstructural analysis of recycled aggregate concrete produced from two-stage mixing approach"
+   ],
+   "authors": [
+    "Vivian W.Y. Tam",
+    "X.F. Gao",
+    "C.M. Tam"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2005,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "35",
+   "page": "1195-1203",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 35,
+   "citedby": 910
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884604004788",
+  "http": 200
+ },
+ "10.1016/j.cemconcomp.2009.09.005": {
+  "topic": "concrete-circular",
+  "doi": "10.1016/j.cemconcomp.2009.09.005",
+  "crossref": {
+   "title": [
+    "Durability performance of concrete made with fine recycled concrete aggregates"
+   ],
+   "authors": [
+    "L. Evangelista",
+    "J. de Brito"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2010,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "32",
+   "page": "9-14",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 31,
+   "citedby": 620
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946509001474",
+  "http": 200
+ },
+ "10.1617/s11527-020-01558-w": {
+  "topic": "concrete-circular",
+  "doi": "10.1617/s11527-020-01558-w",
+  "crossref": {
+   "title": [
+    "Understanding the carbonation of concrete with supplementary cementitious materials: a critical review by RILEM TC 281-CCC"
+   ],
+   "authors": [
+    "Stefanie von Greve-Dierfeld",
+    "Barbara Lothenbach",
+    "Anya Vollpracht",
+    "Bei Wu",
+    "Bruno Huet",
+    "Carmen Andrade",
+    "C\u00e9sar Medina",
+    "Charlotte Thiel",
+    "Elke Gruyaert",
+    "Hanne Vanoutrive",
+    "Isabel F. Sa\u00e9z del Bosque",
+    "Ivan Ignjatovic",
+    "Jan Elsen",
+    "John L. Provis",
+    "Karen Scrivener",
+    "Karl-Christian Thienel",
+    "Kosmas Sideris",
+    "Maciej Zajac",
+    "Natalia Alderete",
+    "\u00d6zlem Cizer",
+    "Philip Van den Heede",
+    "Robert Douglas Hooton",
+    "Siham Kamali-Bernard",
+    "Susan A. Bernal",
+    "Zengfeng Zhao",
+    "Zhenguo Shi",
+    "Nele De Belie"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2020,
+     10,
+     22
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "53",
+   "page": null,
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Blended cements, where Portland cement clinker is partially replaced by supplementary cementitious materials (SCMs), provide the most feasible route for reducing carbon dioxide emissions associated with concrete production. However, lowering the clinker content can lead to an increasing risk of neutralisation of the concrete pore solution and potential reinforcement corrosion due to carbonation. carbonation of concrete with SCMs differs from carbonation of concrete solely based on Portland cement (PC). This is a c",
+   "refs": 209,
+   "citedby": 470
+  },
+  "resolved": "https://link.springer.com/article/10.1617/s11527-020-01558-w?error=cookies_not_supported&code=01ee0db4-ff47-4244-a333-f31884163693",
+  "http": 200
+ },
+ "10.20900/jsr20260020": {
+  "topic": "concrete-circular",
+  "doi": "10.20900/jsr20260020",
+  "crossref": {
+   "title": [
+    "Rammed Concrete with Recycled Concrete Aggregates: Opportunities and Performances"
+   ],
+   "authors": [],
+   "publisher": "Hapres",
+   "container": [
+    "Journal of Sustainability Research"
+   ],
+   "issued": [
+    [
+     2026,
+     2,
+     24
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "8",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://sustainability.hapres.com/htmls/JSR_1860_Detail.html",
+  "http": 200
+ },
+ "10.1016/j.conbuildmat.2023.130991": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.1016/j.conbuildmat.2023.130991",
+  "crossref": {
+   "title": [
+    "A comprehensive review of cementitious grouts: Composition, properties, requirements and advanced performance"
+   ],
+   "authors": [
+    "Suelen da Rocha Gomes",
+    "Liberato Ferrara",
+    "Luis S\u00e1nchez",
+    "Mercedes S\u00e1nchez Moreno"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Construction and Building Materials"
+   ],
+   "issued": [
+    [
+     2023,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "375",
+   "page": "130991",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+   ],
+   "abstract": "",
+   "refs": 162,
+   "citedby": 123
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0950061823007031",
+  "http": 200
+ },
+ "10.37099/mtu.dc.etds/270": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.37099/mtu.dc.etds/270",
+  "crossref": {
+   "title": [
+    "Application of ultra high performance concrete (UHPC) as a thin-bonded overlay for concrete bridge decks"
+   ],
+   "authors": [
+    "Sarah V. Shann"
+   ],
+   "publisher": "Michigan Technological University",
+   "container": [],
+   "issued": [
+    [
+     null
+    ]
+   ],
+   "type": "dissertation",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 2
+  },
+  "resolved": "https://digitalcommons.mtu.edu/etds/270/",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2008.03.007": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.1016/j.cemconres.2008.03.007",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Evaluation of natural zeolite as a viscosity-modifying agent for cement-based grouts"
+   ],
+   "authors": [
+    "M. \u015eahmaran",
+    "N. \u00d6zkan",
+    "S.B. Keskin",
+    "B. Uzal",
+    "\u0130.\u00d6. Yaman",
+    "T.K. Erdem"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2008,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "38",
+   "page": "930-937",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 35,
+   "citedby": 96
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884608000719",
+  "http": 200
+ },
+ "10.1155/2022/3057801": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.1155/2022/3057801",
+  "crossref": {
+   "title": [
+    "Properties of Cementitious Repair Materials for Concrete Pavement"
+   ],
+   "authors": [
+    "Shih Horng Yeo",
+    "Kim Hung Mo",
+    "Md. Akter Hosen",
+    "Hilmi Bin Mahmud"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "Advances in Materials Science and Engineering"
+   ],
+   "issued": [
+    [
+     2022,
+     2,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "2022",
+   "page": "1-17",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>This review aims to provide an insight into concrete pavement repair materials by gathering the relevant research outcomes and specifications. It provides a systematic literature review that focuses on pavement repair and types of cementitious repair material. In general, conventional cementitious repair materials can be divided into 4 categories: ultra-rapid, rapid, accelerated, and normal strength gain. The mechanical and durability properties of conventional cementitious repair materials, i.e., calcium sulphoaluminate-based, calcium aluminate-based, polymer-modified concrete, and or",
+   "refs": 170,
+   "citedby": 23
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3389/fmats.2024.1389785": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.3389/fmats.2024.1389785",
+  "crossref": {
+   "title": [
+    "Interface bonding properties of new and old concrete: A review"
+   ],
+   "authors": [
+    "He Liu",
+    "Haonan Zou",
+    "Jingyi Zhang",
+    "Ji Zhang",
+    "Yu Tang",
+    "Jian Zhang",
+    "Ying Guo",
+    "Jingyu Xiao"
+   ],
+   "publisher": "Frontiers Media SA",
+   "container": [
+    "Frontiers in Materials"
+   ],
+   "issued": [
+    [
+     2024,
+     4,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "11",
+   "page": null,
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>The bonding performance between new and old concrete affects the reliability and service life of the repair structure. However, the bonding interface is complex and has many influencing factors, so selecting appropriate repair materials and evaluation methods for repair structures under different service environments is important. This paper presents a comprehensive overview of the factors that influence bonding properties. These include the choice of repair materials, the condition of the existing concrete, the type of interfacial agents used, the service environment, and the testing ",
+   "refs": 96,
+   "citedby": 37
+  },
+  "resolved": "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2024.1389785/full",
+  "http": 200
+ },
+ "10.1617/s11527-017-1131-6": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.1617/s11527-017-1131-6",
+  "crossref": {
+   "title": [
+    "Challenges and opportunities in corrosion of steel in concrete"
+   ],
+   "authors": [
+    "Ueli M. Angst"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2018,
+     1,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "51",
+   "page": null,
+   "license": [
+    "http://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "",
+   "refs": 128,
+   "citedby": 497
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1080/15732479.2026.2736724": {
+  "topic": "concrete-repair-grout-overlay",
+  "doi": "10.1080/15732479.2026.2736724",
+  "crossref": {
+   "title": [
+    "Rehabilitation of concrete bridges using ultra-high performance concrete: a comprehensive review from fundamental to applications"
+   ],
+   "authors": [
+    "Shaohua He",
+    "Yitao Zheng",
+    "Shuai Hu",
+    "Binkai Lin",
+    "Haidong Deng"
+   ],
+   "publisher": "Informa UK Limited",
+   "container": [
+    "Structure and Infrastructure Engineering"
+   ],
+   "issued": [
+    [
+     2026,
+     9,
+     25
+    ]
+   ],
+   "type": "journal-article",
+   "volume": null,
+   "page": "1-28",
+   "license": [
+    "https://doi.org/10.1080/policies-text-data-mining"
+   ],
+   "abstract": "",
+   "refs": 190,
+   "citedby": 0
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/j.cemconres.2018.04.018": {
+  "topic": "cross-chemistry",
+  "doi": "10.1016/j.cemconres.2018.04.018",
+  "crossref": {
+   "title": [
+    "Cemdata18: A chemical thermodynamic database for hydrated Portland cements and alkali-activated materials"
+   ],
+   "authors": [
+    "Barbara Lothenbach",
+    "Dmitrii A. Kulik",
+    "Thomas Matschei",
+    "Magdalena Balonis",
+    "Luis Baquerizo",
+    "Belay Dilnesa",
+    "George D. Miron",
+    "Rupert J. Myers"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2019,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "115",
+   "page": "472-506",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 133,
+   "citedby": 1257
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884617312073",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2015.03.019": {
+  "topic": "cross-chemistry",
+  "doi": "10.1016/j.cemconres.2015.03.019",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Calcium silicate hydrates: Solid and liquid phase composition"
+   ],
+   "authors": [
+    "Barbara Lothenbach",
+    "Andr\u00e9 Nonat"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2015,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "78",
+   "page": "57-70",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 133,
+   "citedby": 549
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884615001052",
+  "http": 200
+ },
+ "10.1617/s11527-015-0724-1": {
+  "topic": "cross-chemistry",
+  "doi": "10.1617/s11527-015-0724-1",
+  "crossref": {
+   "title": [
+    "The pore solution of blended cements: a review"
+   ],
+   "authors": [
+    "Anya Vollpracht",
+    "Barbara Lothenbach",
+    "Ruben Snellings",
+    "Johannes Haufe"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2015,
+     10,
+     15
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "49",
+   "page": "3341-3367",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper is the work of working group 3 of the RILEM Technical Committee on Hydration and Microstructure of Concrete with SCM (TC 238-SCM). The pore solution is an essential but often overlooked part of hydrated cements. The composition of the cement pore solution reflects the ongoing hydration processes and determines which solid phases are stable and may precipitate, and which phases are unstable and may dissolve. The study of the cement pore solution therefore contributes to the understanding of the mechanisms as well as of the k",
+   "refs": 87,
+   "citedby": 562
+  },
+  "resolved": "https://link.springer.com/article/10.1617/s11527-015-0724-1?error=cookies_not_supported&code=d9557116-d389-4461-ad2f-d2ef459008cf",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2015.02.025": {
+  "topic": "cross-chemistry",
+  "doi": "10.1016/j.cemconres.2015.02.025",
+  "crossref": {
+   "title": [
+    "Evolution of pore structure in blended systems"
+   ],
+   "authors": [
+    "E. Berodier",
+    "K. Scrivener"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2015,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "73",
+   "page": "25-35",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 32,
+   "citedby": 333
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884615000678",
+  "http": 200
+ },
+ "10.1016/0008-8846(73)90060-4": {
+  "topic": "cross-chemistry",
+  "doi": "10.1016/0008-8846(73)90060-4",
+  "crossref": {
+   "title": [
+    "Action of triethanolamine on the hydration of tricalcium aluminate"
+   ],
+   "authors": [
+    "V.S. Ramachandran"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1973,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "3",
+   "page": "41-54",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 11,
+   "citedby": 133
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884673900604",
+  "http": 200
+ },
+ "10.6028/nbs.bss.6": {
+  "topic": "cross-chemistry",
+  "doi": "10.6028/nbs.bss.6",
+  "crossref": {
+   "title": [
+    "Some properties of the calcium aluminoferrite hydrates"
+   ],
+   "authors": [
+    "Elmer T Carlson"
+   ],
+   "publisher": "National Bureau of Standards",
+   "container": [],
+   "issued": [
+    [
+     1966
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 4
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience6.pdf",
+  "http": 200
+ },
+ "10.1111/j.1151-2916.1963.tb11724.x": {
+  "topic": "cross-chemistry",
+  "doi": "10.1111/j.1151-2916.1963.tb11724.x",
+  "crossref": {
+   "title": [
+    "Studies of Early Stages of Paste Hydration of Different Types of Portland Cements"
+   ],
+   "authors": [
+    "S. CHATTERJI",
+    "J. W. JEFFERY"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "Journal of the American Ceramic Society"
+   ],
+   "issued": [
+    [
+     1963,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "46",
+   "page": "268-273",
+   "license": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+   ],
+   "abstract": "<jats:p>\n                    The early stages of hydration of four different types of portland cements were studied by electron\u2010optical and X\u2010ray diffraction techniques. It was observed that, except for low\u2010heat cement, very little ettringite formed up to 3 hours of hydration and that the alite present in the cements was more reactive than the laboratory form. Ettringite formed earlier in the low\u2010heat cement than in other cements. Ettringite was found to be the stable sulfate\u2010bearing phase in sulfateresistant cement, at least up to 30 months, although in other cements ettringite began to chang",
+   "refs": 0,
+   "citedby": 10
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.70909/pca.2024.sn3128.03": {
+  "topic": "cross-chemistry",
+  "doi": "10.70909/pca.2024.sn3128.03",
+  "crossref": {
+   "title": [
+    "Structure and Rheology of Fresh Cement Paste"
+   ],
+   "authors": [
+    "Portland Cement Association",
+    "RA Helmuth"
+   ],
+   "publisher": "Portland Cement Association",
+   "container": [],
+   "issued": [
+    [
+     1980
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "<jats:p>The properties of fresh Portland cement pastes are of interest primarily because of their relationship to the properties of concrete. Of universal interest are the characteristics of cements that influence the consistency, workability, and setting characteristics of the concrete. Understanding how to control the rheological properties of fresh concrete is important for the economical proportioning of concrete mixtures and the proper mixing and placement of concrete.</jats:p>",
+   "refs": 0,
+   "citedby": 2
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.cemconres.2009.08.014": {
+  "topic": "cross-chemistry",
+  "doi": "10.1016/j.cemconres.2009.08.014",
+  "crossref": {
+   "title": [
+    "Hydration of calcium sulfoaluminate cements \u2014 Experimental findings and thermodynamic modelling"
+   ],
+   "authors": [
+    "Frank Winnefeld",
+    "Barbara Lothenbach"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2010,
+     8
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "40",
+   "page": "1239-1247",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004"
+   ],
+   "abstract": "",
+   "refs": 45,
+   "citedby": 908
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884609002294",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2018.04.007": {
+  "topic": "cross-mix",
+  "doi": "10.1016/j.cemconres.2018.04.007",
+  "crossref": {
+   "title": [
+    "Computational design optimization of concrete mixtures: A review"
+   ],
+   "authors": [
+    "M.A. DeRousseau",
+    "J.R. Kasprzyk",
+    "W.V. Srubar"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2018,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "109",
+   "page": "42-53",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://www.elsevier.com/open-access/userlicense/1.0/"
+   ],
+   "abstract": "",
+   "refs": 110,
+   "citedby": 360
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884617313601",
+  "http": 200
+ },
+ "10.1016/j.cemconcomp.2006.12.006": {
+  "topic": "cross-mix",
+  "doi": "10.1016/j.cemconcomp.2006.12.006",
+  "crossref": {
+   "title": [
+    "Effects of the molecular architecture of comb-shaped superplasticizers on their performance in cementitious systems"
+   ],
+   "authors": [
+    "Frank Winnefeld",
+    "Stefan Becker",
+    "Joachim Pakusch",
+    "Thomas G\u00f6tz"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2007,
+     4
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "29",
+   "page": "251-262",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 46,
+   "citedby": 484
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946507000054",
+  "http": 200
+ },
+ "10.1016/j.jcis.2008.04.052": {
+  "topic": "cross-mix",
+  "doi": "10.1016/j.jcis.2008.04.052",
+  "crossref": {
+   "title": [
+    "Adsorption of polyelectrolytes and its influence on the rheology, zeta potential, and microstructure of various cement and hydrate phases"
+   ],
+   "authors": [
+    "Anatol Zingg",
+    "Frank Winnefeld",
+    "Lorenz Holzer",
+    "Joachim Pakusch",
+    "Stefan Becker",
+    "Ludwig Gauckler"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Journal of Colloid and Interface Science"
+   ],
+   "issued": [
+    [
+     2008,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "323",
+   "page": "301-312",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/"
+   ],
+   "abstract": "",
+   "refs": 33,
+   "citedby": 380
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0021979708004803",
+  "http": 200
+ },
+ "10.1016/j.cemconcomp.2021.104152": {
+  "topic": "cross-mix",
+  "doi": "10.1016/j.cemconcomp.2021.104152",
+  "crossrefErr": "HTTP Error 429: Too Many Requests",
+  "crossref": {
+   "title": [
+    "Thixotropic structural build-up of cement-based materials: A state-of-the-art review"
+   ],
+   "authors": [
+    "Dengwu Jiao",
+    "Robin De Schryver",
+    "Caijun Shi",
+    "Geert De Schutter"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2021,
+     9
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "122",
+   "page": "104152",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "",
+   "refs": 154,
+   "citedby": 259
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946521002201",
+  "http": 200
+ },
+ "10.5703/1288284315038": {
+  "topic": "cross-mix",
+  "doi": "10.5703/1288284315038",
+  "crossref": {
+   "title": [
+    "Optimization of Mixture Proportions for Concrete Pavements\u2014Influence of Supplementary Cementitious Materials, Paste Content and Aggregate Gradation"
+   ],
+   "authors": [
+    "Adam Rudy",
+    "Jan Olek"
+   ],
+   "publisher": "Purdue University",
+   "container": [],
+   "issued": [
+    [
+     2012,
+     12,
+     31
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 2
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.cemconcomp.2017.07.016": {
+  "topic": "cross-mix",
+  "doi": "10.1016/j.cemconcomp.2017.07.016",
+  "crossref": {
+   "title": [
+    "Effect of constituents on rheological properties of fresh concrete-A review"
+   ],
+   "authors": [
+    "Dengwu Jiao",
+    "Caijun Shi",
+    "Qiang Yuan",
+    "Xiaopeng An",
+    "Yu Liu",
+    "Huang Li"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2017,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "83",
+   "page": "146-159",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://www.elsevier.com/open-access/userlicense/1.0/",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004"
+   ],
+   "abstract": "",
+   "refs": 134,
+   "citedby": 574
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946516303328",
+  "http": 200
+ },
+ "10.6028/nbs.bss.80": {
+  "topic": "cross-construction",
+  "doi": "10.6028/nbs.bss.80",
+  "crossref": {
+   "title": [
+    "Safety during construction of concrete buildings- a status report"
+   ],
+   "authors": [
+    "H S Lew"
+   ],
+   "publisher": "National Bureau of Standards",
+   "container": [],
+   "issued": [
+    [
+     1976
+    ]
+   ],
+   "type": "report",
+   "volume": null,
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 7
+  },
+  "resolved": "https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience80.pdf",
+  "http": 200
+ },
+ "10.14359/2519": {
+  "topic": "cross-construction",
+  "doi": "10.14359/2519",
+  "crossref": {
+   "title": [
+    "Early-age Concrete Strength Prediction by Maturity--Another Look"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Materials Journal"
+   ],
+   "issued": [
+    [
+     1990
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "87",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 8
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.14359/12166": {
+  "topic": "cross-construction",
+  "doi": "10.14359/12166",
+  "crossref": {
+   "title": [
+    "Early Age Temperature Effects on Concrete Strength Prediction by the Maturity Method"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Journal Proceedings"
+   ],
+   "issued": [
+    [
+     1983
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "80",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 3
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.3390/civileng4040060": {
+  "topic": "cross-construction",
+  "doi": "10.3390/civileng4040060",
+  "crossref": {
+   "title": [
+    "Formwork Engineering for Sustainable Concrete Construction"
+   ],
+   "authors": [
+    "Jonny Nilimaa",
+    "Yaser Gamil",
+    "Vasiola Zhaka"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "CivilEng"
+   ],
+   "issued": [
+    [
+     2023,
+     10,
+     17
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "4",
+   "page": "1098-1120",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>This study provides a comprehensive review of the engineering challenges of formwork in concrete construction. The paper investigates different formwork systems, their design based on form pressure, and the difficulties of form stripping. Alternative binders are gaining more and more interest by opening new opportunities for sustainable concrete materials and their impact on form pressure and concrete setting is also investigated in this paper. The discussion involves several engineering challenges such as sustainability, safety, and economy, while it also explores previous case studie",
+   "refs": 172,
+   "citedby": 36
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.3390/eng4020089": {
+  "topic": "cross-construction",
+  "doi": "10.3390/eng4020089",
+  "crossref": {
+   "title": [
+    "An Overview of Smart Materials and Technologies for Concrete Construction in Cold Weather"
+   ],
+   "authors": [
+    "Jonny Nilimaa",
+    "Vasiola Zhaka"
+   ],
+   "publisher": "MDPI AG",
+   "container": [
+    "Eng"
+   ],
+   "issued": [
+    [
+     2023,
+     5,
+     31
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "4",
+   "page": "1550-1580",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/"
+   ],
+   "abstract": "<jats:p>Cold weather conditions pose significant challenges to the performance and durability of concrete materials, construction processes, and structures. This paper aims to provide a comprehensive overview of the material-related challenges in cold weather concrete construction, including slow setting, reduced curing rate, and slower strength development, as well as frost damage, early freezing, and freeze\u2013thaw actions. Various innovative materials and technologies may be implemented to address these challenges, such as optimizing the concrete mix proportions, chemical admixtures, supplemen",
+   "refs": 252,
+   "citedby": 49
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1016/s0016-0032(22)90461-2": {
+  "topic": "cross-construction",
+  "doi": "10.1016/s0016-0032(22)90461-2",
+  "crossref": {
+   "title": [
+    "Studies on cooling of fresh concrete in freezing weather"
+   ],
+   "authors": [],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Journal of the Franklin Institute"
+   ],
+   "issued": [
+    [
+     1922,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "193",
+   "page": "124",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 0
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0016003222904612",
+  "http": 200
+ },
+ "10.6100/ir145193": {
+  "topic": "cross-mechanics",
+  "doi": "10.6100/ir145193",
+  "crossrefErr": "HTTP Error 404: Not Found",
+  "openalex": {
+   "title": "Strain-softening of concrete under multiaxial loading conditions",
+   "authors": [
+    "Jan G.M. van Mier"
+   ],
+   "date": "1984-01-01",
+   "venue": "TU/e Research Portal",
+   "oa": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://research.tue.nl/nl/publications/bba75bb8-d4fd-4c92-bb3d-61fe15457ab8",
+    "any_repository_has_fulltext": true
+   },
+   "type": "dissertation",
+   "license": "other-oa"
+  },
+  "resolveErr": "HTTP Error 404: Not Found"
+ },
+ "10.14359/20203": {
+  "topic": "cross-mechanics",
+  "doi": "10.14359/20203",
+  "crossref": {
+   "title": [
+    "Unbiased Statistical Comparison of Creep and Shrinkage Prediction Models"
+   ],
+   "authors": [],
+   "publisher": "American Concrete Institute",
+   "container": [
+    "ACI Materials Journal"
+   ],
+   "issued": [
+    [
+     2008
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "105",
+   "page": null,
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 12
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1680/macr.1989.41.147.79": {
+  "topic": "cross-mechanics",
+  "doi": "10.1680/macr.1989.41.147.79",
+  "crossref": {
+   "title": [
+    "Fictitious crack model of concrete fracture"
+   ],
+   "authors": [
+    "R. Brincker",
+    "H. Dahl"
+   ],
+   "publisher": "Emerald",
+   "container": [
+    "Magazine of Concrete Research"
+   ],
+   "issued": [
+    [
+     1989,
+     6
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "41",
+   "page": "79-86",
+   "license": [],
+   "abstract": "<jats:p> The substructure method introduced by Petersson is reformulated for the three-point bending specimen in order to obtain complete load-displacement relations without signficant truncation. The problem of instability caused by the linearization of the softening in the fracture zone is discussed, and an alternative energy formulation is given so that it is possible to distinguish between stable and unstable situations. The reformulated substructure method is implemented on computer to give a multilinear stress crack opening displacement relation for the material in the fracture zone, and",
+   "refs": 0,
+   "citedby": 8
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/0008-8846(76)90007-7": {
+  "topic": "cross-mechanics",
+  "doi": "10.1016/0008-8846(76)90007-7",
+  "crossref": {
+   "title": [
+    "Analysis of crack formation and crack growth in concrete by means of fracture mechanics and finite elements"
+   ],
+   "authors": [
+    "A. Hillerborg",
+    "M. Mod\u00e9er",
+    "P.-E. Petersson"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1976,
+     11
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "6",
+   "page": "773-781",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 5,
+   "citedby": 6126
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884676900077",
+  "http": 200
+ },
+ "10.1155/2014/468510": {
+  "topic": "cross-mechanics",
+  "doi": "10.1155/2014/468510",
+  "crossref": {
+   "title": [
+    "Properties of Concrete at Elevated Temperatures"
+   ],
+   "authors": [
+    "Venkatesh Kodur"
+   ],
+   "publisher": "Wiley",
+   "container": [
+    "ISRN Civil Engineering"
+   ],
+   "issued": [
+    [
+     2014,
+     3,
+     13
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "2014",
+   "page": "1-15",
+   "license": [
+    "http://creativecommons.org/licenses/by/3.0/"
+   ],
+   "abstract": "<jats:p>Fire response of concrete structural members is dependent on the thermal, mechanical, and deformation properties of concrete. These properties vary significantly with temperature and also depend on the composition and characteristics of concrete batch mix as well as heating rate and other environmental conditions. In this chapter, the key characteristics of concrete are outlined. The various properties that influence fire resistance performance, together with the role of these properties on fire resistance, are discussed. The variation of thermal, mechanical, deformation, and spalling ",
+   "refs": 72,
+   "citedby": 442
+  },
+  "resolveErr": "HTTP Error 403: Forbidden"
+ },
+ "10.1038/s41467-018-04174-z": {
+  "topic": "cross-mechanics",
+  "doi": "10.1038/s41467-018-04174-z",
+  "crossref": {
+   "title": [
+    "Nanoscale origins of creep in calcium\u00a0silicate hydrates"
+   ],
+   "authors": [
+    "A. Morshedifard",
+    "S. Masoumi",
+    "M. J. Abdolhosseini Qomi"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Nature Communications"
+   ],
+   "issued": [
+    [
+     2018,
+     5,
+     3
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "9",
+   "page": null,
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The time-dependent response of structural materials dominates our aging infrastructure\u2019s life expectancy and has important resilience implications. For calcium-silicate-hydrates, the glue of cement, nanoscale mechanisms underlying time-dependent phenomena are complex and remain poorly understood. This complexity originates in part from the inherent difficulty in studying nanoscale longtime phenomena in atomistic simulations. Herein, we propose a three-staged incremental stress-marching technique to overcome such limitations. The first stage unravels a s",
+   "refs": 75,
+   "citedby": 119
+  },
+  "resolved": "https://www.nature.com/articles/s41467-018-04174-z?error=cookies_not_supported&code=fce88112-6e08-4116-bece-223a006ad618",
+  "http": 200
+ },
+ "10.3151/coj1975.21.3_19": {
+  "topic": "cross-mechanics",
+  "doi": "10.3151/coj1975.21.3_19",
+  "crossref": {
+   "title": [
+    "Structure and Mechanical Properties of Concrete"
+   ],
+   "authors": [
+    "F. H. Wittmann"
+   ],
+   "publisher": "Japan Concrete Institute",
+   "container": [
+    "Concrete Journal"
+   ],
+   "issued": [
+    [
+     1983
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "21",
+   "page": "19-30",
+   "license": [],
+   "abstract": "",
+   "refs": 0,
+   "citedby": 8
+  },
+  "resolved": "https://www.jstage.jst.go.jp/article/coj1975/21/3/21_19/_article/-char/ja/",
+  "http": 200
+ }
+}

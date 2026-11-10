@@ -1,0 +1,404 @@
+[
+ {
+  "topic": "binder-blended",
+  "query": "portland-pozzolan cement Type IP blended cement performance",
+  "dateFilter": ":1995",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-blended",
+  "query": "portland blast-furnace slag cement Type IS history",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-blended",
+  "query": "ternary blended cement concrete performance review",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 8,
+  "errors": []
+ },
+ {
+  "topic": "scm-clay",
+  "query": "metakaolin pozzolanic reactivity concrete",
+  "dateFilter": ":2005",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-clay",
+  "query": "calcined clay kaolinite content reactivity R3 test",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "scm-clay",
+  "query": "calcined clay pozzolan history Brazil India surkhi",
+  "dateFilter": ":1990",
+  "openalex": 0,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "reinforced concrete history Hennebique Ransome",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 8,
+  "errors": []
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "shear strength reinforced concrete beams without stirrups size effect",
+  "dateFilter": ":2000",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "prestressed concrete creep shrinkage loss bridge girders",
+  "dateFilter": ":1995",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-hpc",
+  "query": "high-performance concrete definition silica fume durability",
+  "dateFilter": ":2000",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-hpc",
+  "query": "high-strength concrete mechanical properties state of the art",
+  "dateFilter": ":1995",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-hpc",
+  "query": "ultra-high performance concrete reactive powder concrete Richard Cheyrezy",
+  "dateFilter": ":2000",
+  "openalex": 1,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "query": "pervious concrete porosity permeability strength",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "query": "jointed plain concrete pavement performance history AASHO road test",
+  "dateFilter": ":1990",
+  "openalex": 14,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "query": "continuously reinforced concrete pavement performance",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "query": "3D printing concrete extrusion buildability interlayer bond",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "query": "precast concrete steam curing delayed ettringite",
+  "dateFilter": ":2005",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "query": "digital fabrication concrete review",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-circular",
+  "query": "recycled concrete aggregate mechanical properties review",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-circular",
+  "query": "recycled aggregate concrete early research",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-circular",
+  "query": "concrete carbonation CO2 uptake recycled aggregate mineralization",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "query": "concrete repair compatibility patch durability",
+  "dateFilter": ":2005",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "query": "bonded concrete overlay bridge deck latex silica fume",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "query": "post-tensioning grout voids tendon corrosion",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-chemistry",
+  "query": "cement hydration mechanisms review C-S-H",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-chemistry",
+  "query": "ettringite formation sulfate hydration cement early",
+  "dateFilter": ":1980",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-chemistry",
+  "query": "thermodynamic modelling cement hydrates GEMS",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-mix",
+  "query": "concrete mix design proportioning Abrams water-cement ratio law",
+  "dateFilter": ":1960",
+  "openalex": 7,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-mix",
+  "query": "particle packing aggregate gradation optimization concrete",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 8,
+  "errors": []
+ },
+ {
+  "topic": "cross-mix",
+  "query": "superplasticizer polycarboxylate dispersion mechanism",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete curing methods evaporation hot weather",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete consolidation vibration",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-construction",
+  "query": "formwork stripping early-age strength maturity in-place",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 8,
+  "errors": []
+ },
+ {
+  "topic": "cross-mechanics",
+  "query": "concrete creep shrinkage model B3 Bazant",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-mechanics",
+  "query": "fracture mechanics concrete fictitious crack model Hillerborg",
+  "dateFilter": ":1990",
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-mechanics",
+  "query": "concrete modulus of elasticity compressive strength relation",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "calcined clay cement 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "recycled concrete aggregate 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "3D printed concrete 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "ultra-high performance concrete bridge 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "current-2026",
+  "query": "pervious concrete 2026",
+  "dateFilter": null,
+  "openalex": 15,
+  "crossref": 0,
+  "errors": [
+   "crossref:HTTP Error 429: Too Many Requests"
+  ]
+ }
+]

@@ -1,0 +1,407 @@
+{
+ "10.1016/0008-8846(76)90007-7": {
+  "topic": "cross-mechanics",
+  "openalexId": "W2082508622",
+  "citedByCount": 7076,
+  "forward": [
+   [
+    "https://doi.org/10.1016/0020-7683(89)90050-4",
+    "A plastic-damage model for concrete",
+    1989
+   ],
+   [
+    "https://doi.org/10.1007/bf02486267",
+    "Crack band theory for fracture of concrete",
+    1983
+   ],
+   [
+    "https://doi.org/10.1061/(asce)0733-9399(1987)113:10(1512)",
+    "Nonlocal Damage Theory",
+    1987
+   ],
+   [
+    "https://doi.org/10.1061/(asce)0733-9399(1984)110:4(518)",
+    "Size Effect in Blunt Fracture: Concrete, Rock, Metal",
+    1984
+   ],
+   [
+    "https://doi.org/10.1002/nme.1151",
+    "Cracking particles: a simplified meshfree method for arbitrary evolving cracks",
+    2004
+   ],
+   [
+    "https://doi.org/10.1016/j.engfracmech.2006.08.025",
+    "An engineering solution for mesh size effects in the simulation of delamination using cohesive zone models",
+    2006
+   ],
+   [
+    "https://doi.org/10.1016/s0013-7944(01)00128-x",
+    "Extended finite element method for cohesive crack growth",
+    2002
+   ],
+   [
+    "https://doi.org/10.1002/nme.2914",
+    "The extended/generalized finite element method: An overview of the method and its applications",
+    2010
+   ]
+  ],
+  "backward": [
+   [
+    "https://doi.org/10.1007/bf02479001",
+    "Microcracking and stress-strain curves for concrete in tension",
+    1968
+   ],
+   [
+    "https://doi.org/10.14359/11142",
+    "A Modified Approach for Estimating the Cracking Moment of Reinforced Concrete Beams",
+    1975
+   ]
+  ]
+ },
+ "10.1016/0008-8846(95)00144-2": {
+  "topic": "concrete-hpc",
+  "openalexId": "W2143107056",
+  "citedByCount": 2412,
+  "forward": [
+   [
+    "https://doi.org/10.1016/j.pecs.2009.11.003",
+    "A review on the utilization of fly ash",
+    2009
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2015.10.088",
+    "A review on ultra high performance concrete: Part I. Raw materials and mixture design",
+    2015
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2013.11.002",
+    "Mix design and properties assessment of Ultra-High Performance Fibre Reinforced Concrete (UHPFRC)",
+    2013
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconcomp.2016.08.001",
+    "Mechanical properties of ultra-high-performance fiber-reinforced concrete: A review",
+    2016
+   ],
+   [
+    "https://doi.org/10.1016/j.compositesb.2021.109220",
+    "New development of ultra-high-performance concrete (UHPC)",
+    2021
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2015.08.095",
+    "A review on ultra high performance concrete: Part II. Hydration, microstructure and properties",
+    2015
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconcomp.2014.09.024",
+    "Development of an eco-friendly Ultra-High Performance Concrete (UHPC) with efficient cement and mineral admixtures uses",
+    2014
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2020.119296",
+    "Durability of ultra-high performance concrete – A review",
+    2020
+   ]
+  ],
+  "backward": [
+   [
+    "https://doi.org/10.1016/0008-8846(94)90022-1",
+    "Optimization of ultra-high-performance concrete by the use of a packing model",
+    1994
+   ],
+   [
+    "https://doi.org/10.1016/0008-8846(95)00143-z",
+    "Microstructural analysis of RPC (Reactive Powder Concrete)",
+    1995
+   ],
+   [
+    null,
+    "Densified Cement/Ultrafine Particle-based Materials",
+    1981
+   ],
+   [
+    "https://doi.org/10.1016/0008-8846(89)90079-3",
+    "Ultrafine particles for the making of very high strength concretes",
+    1989
+   ],
+   [
+    "https://doi.org/10.1016/0008-8846(73)90013-6",
+    "High strength generation in cement pastes",
+    1973
+   ],
+   [
+    "https://doi.org/10.1098/rsta.1983.0063",
+    "Cement in the context of new materials for an energy-expensive future",
+    1983
+   ],
+   [
+    "https://doi.org/10.1016/0008-8846(82)90083-7",
+    "Physical properties of high strength cement pastes",
+    1982
+   ]
+  ]
+ },
+ "10.14359/11004": {
+  "topic": "concrete-circular",
+  "openalexId": "W2253612371",
+  "citedByCount": 195,
+  "forward": [
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2011.12.074",
+    "An overview of study on recycled aggregate concrete in China (1996–2011)",
+    2012
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2008.06.007",
+    "Influence of recycled concrete aggregates on strength properties of concrete",
+    2008
+   ],
+   [
+    "https://doi.org/10.1016/j.buildenv.2005.07.033",
+    "Mechanical properties of concrete with recycled coarse aggregate",
+    2005
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2016.11.029",
+    "A critical review and assessment for usage of recycled aggregate as sustainable construction material",
+    2016
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2008.03.006",
+    "Influence of parent concrete on the properties of recycled aggregate concrete",
+    2008
+   ],
+   [
+    "https://doi.org/10.1007/s40069-013-0032-5",
+    "Recycled Concrete Aggregates: A Review",
+    2013
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2003.12.019",
+    "Properties of concretes produced with waste concrete aggregate",
+    2004
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconcomp.2010.05.003",
+    "Properties of concrete prepared with PVA-impregnated recycled concrete aggregates",
+    2010
+   ]
+  ],
+  "backward": [
+   [
+    null,
+    "THE CHEMISTRY OF CEMENT AND CONCRETE. THIRD EDITION",
+    1970
+   ],
+   [
+    null,
+    "Waste Materials As Potential Replacements for Highway Aggregates",
+    1976
+   ],
+   [
+    null,
+    "PROMISING REPLACEMENTS FOR CONVENTIONAL AGGREGATES FOR HIGHWAY USE",
+    1972
+   ],
+   [
+    null,
+    "LOOK AT PROCESSED RUBBLE-IT'S A VALUABLE SOURCE OF AGGREGATES",
+    1971
+   ],
+   [
+    null,
+    "SYNTHETIC AGGREGATES FOR HIGHWAY CONSTRUCTION",
+    1964
+   ],
+   [
+    null,
+    "THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING",
+    1974
+   ],
+   [
+    null,
+    "AGGREGATES FROM WASTE MATERIALS",
+    1972
+   ]
+  ]
+ },
+ "10.1617/s11527-021-01807-6": {
+  "topic": "scm-clay",
+  "openalexId": "W4200622450",
+  "citedByCount": 345,
+  "forward": [
+   [
+    "https://doi.org/10.1016/j.cemconres.2023.107199",
+    "Future and emerging supplementary cementitious materials",
+    2023
+   ],
+   [
+    "https://doi.org/10.1016/j.rser.2023.113291",
+    "Decarbonizing the cement and concrete industry: A systematic review of socio-technical systems, technological innovations, and policy options",
+    2023
+   ],
+   [
+    "https://doi.org/10.1016/j.jclepro.2022.132651",
+    "Recycled concrete and brick powders as supplements to Portland cement for more sustainable concrete",
+    2022
+   ],
+   [
+    "https://doi.org/10.1016/j.jobe.2023.107794",
+    "Properties, compatibility, environmental benefits and future directions of limestone calcined clay cement (LC3) concrete: A review",
+    2023
+   ],
+   [
+    "https://doi.org/10.1016/j.jwpe.2023.104150",
+    "A comparative review of the adsorption and photocatalytic degradation of tetracycline in aquatic environment by g-C3N4-based materials",
+    2023
+   ],
+   [
+    "https://doi.org/10.1617/s11527-022-02060-1",
+    "Hydration and mixture design of calcined clay blended cements: review by the RILEM TC 282-CCL",
+    2022
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2023.107312",
+    "Low clinker systems - Towards a rational use of SCMs for optimal performance",
+    2023
+   ],
+   [
+    "https://doi.org/10.1016/j.matdes.2023.112062",
+    "Pozzolanic Reactions of Metakaolin with Calcium Hydroxide: Review on Hydrate Phase Formations and Effect of Alkali Hydroxides, Carbonates and Sulfates",
+    2023
+   ]
+  ],
+  "backward": [
+   [
+    "https://doi.org/10.1016/j.cemconres.2017.08.017",
+    "Calcined clay limestone cements (LC3)",
+    2017
+   ],
+   [
+    "https://doi.org/10.1146/annurev-matsci-070813-113515",
+    "Geopolymers and Related Alkali-Activated Materials",
+    2014
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2012.09.006",
+    "Cement substitution by a combination of metakaolin and limestone",
+    2012
+   ],
+   [
+    "https://doi.org/10.1016/s0958-9465(00)00092-5",
+    "Metakaolin and calcined clays as pozzolans for concrete: a review",
+    2001
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2010.09.013",
+    "The origin of the pozzolanic activity of calcined clay minerals: A comparison between kaolinite, illite and montmorillonite",
+    2010
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2018.02.016",
+    "Investigation of the calcined kaolinite content on the hydration of Limestone Calcined Clay Cement (LC3)",
+    2018
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2016.02.015",
+    "Development of a new rapid, relevant and reliable (R3) test method to evaluate the pozzolanic reactivity of calcined kaolinitic clays",
+    2016
+   ],
+   [
+    "https://doi.org/10.1016/j.clay.2015.01.028",
+    "Pozzolanic reactivity of low grade kaolinitic clays: Influence of calcination temperature and impact of calcination products on OPC hydration",
+    2015
+   ]
+  ]
+ },
+ "10.1016/j.cemconres.2018.05.006": {
+  "topic": "concrete-precast-insitu-print",
+  "openalexId": "W2808508889",
+  "citedByCount": 1731,
+  "forward": [
+   [
+    "https://doi.org/10.1016/j.pmatsci.2020.100707",
+    "Binder jet 3D printing—Process parameters, materials, properties, modeling, and challenges",
+    2020
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2019.02.017",
+    "Hardened properties of 3D printed concrete: The influence of process parameters on interlayer adhesion",
+    2019
+   ],
+   [
+    "https://doi.org/10.1016/j.addma.2019.100894",
+    "Additive manufacturing in construction: A review on processes, applications, and digital planning methods",
+    2019
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2019.105780",
+    "Digital Concrete: A Review",
+    2019
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2020.106037",
+    "Extrusion-based additive manufacturing with cement-based materials – Production steps, processes, and their underlying physics: A review",
+    2020
+   ],
+   [
+    "https://doi.org/10.1016/j.compositesa.2019.105533",
+    "A review of the current progress and application of 3D printed concrete",
+    2019
+   ],
+   [
+    "https://doi.org/10.1016/j.conbuildmat.2019.01.235",
+    "Effects of layer-interface properties on mechanical performance of concrete elements produced by extrusion-based 3D-printing",
+    2019
+   ],
+   [
+    "https://doi.org/10.1016/j.mtchem.2020.100248",
+    "Fused deposition modeling-based additive manufacturing (3D printing): techniques for polymer material systems",
+    2020
+   ]
+  ],
+  "backward": [
+   [
+    "https://doi.org/10.1007/978-3-662-05086-6",
+    "Topology Optimization: Theory, Methods, and Applications",
+    2011
+   ],
+   [
+    "https://doi.org/10.1080/17452759.2016.1209867",
+    "Additive manufacturing of concrete in construction: potentials and challenges of 3D concrete printing",
+    2016
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2018.04.005",
+    "Rheological requirements for printable concretes",
+    2018
+   ],
+   [
+    "https://doi.org/10.1617/s11527-012-9828-z",
+    "Mix design and fresh properties for high-performance printing concrete",
+    2012
+   ],
+   [
+    "https://doi.org/10.1016/j.autcon.2011.06.010",
+    "Developments in construction-scale additive manufacturing processes",
+    2011
+   ],
+   [
+    "https://doi.org/10.1016/j.autcon.2003.08.012",
+    "Automated construction by contour crafting—related robotics and information technologies",
+    2003
+   ],
+   [
+    "https://doi.org/10.1016/j.autcon.2016.04.005",
+    "A critical review of the use of 3-D printing in the construction industry",
+    2016
+   ],
+   [
+    "https://doi.org/10.1016/j.cemconres.2011.12.003",
+    "Hardened properties of high-performance printing concrete",
+    2012
+   ]
+  ]
+ }
+}

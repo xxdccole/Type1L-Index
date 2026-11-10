@@ -2,6 +2,14 @@
 
 Durable decisions and lessons only. Newest first.
 
+## 2026-11-10 — Deep research pass 3
+
+**Decisions**
+- Deep pass 3 adds 114 verified records R253–R366. R1–R252 stay unchanged except R200’s title, now attributed to Maraghechi, Avet, Wong, Kazemi-Kamyab and Scrivener, and 89 previously one-sided topic links, which now match on both `topic.resourceIds` and `resource.topics`.
+- Notes for R253–R366 were added. The R200 note records the author correction, and the same text is the verified-sidecar `evidenceNote`. Existing notes stay.
+- The working index’s author replace also retitled R187. That line was put back. R187 is Avet and Scrivener, Cement and Concrete Research, DOI 10.1016/j.cemconres.2018.02.016.
+- `research/candidates.jsonl` still keeps closed lines next to the open queue. Three open leads were promoted (R272, R274, R320).
+
 ## 2026-11-09 — Deep research pass 2
 
 **Decisions**

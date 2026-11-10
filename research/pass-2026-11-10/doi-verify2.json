@@ -1,0 +1,444 @@
+{
+ "10.1016/0008-8846(94)90022-1": {
+  "topic": "cross-mix",
+  "doi": "10.1016/0008-8846(94)90022-1",
+  "crossref": {
+   "title": [
+    "Optimization of ultra-high-performance concrete by the use of a packing model"
+   ],
+   "authors": [
+    "F. de Larrard",
+    "T. Sedran"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1994
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "24",
+   "page": "997-1009",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 21,
+   "citedby": 896
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884694900221",
+  "http": 200
+ },
+ "10.1016/0008-8846(89)90079-3": {
+  "topic": "concrete-hpc",
+  "doi": "10.1016/0008-8846(89)90079-3",
+  "crossref": {
+   "title": [
+    "Ultrafine particles for the making of very high strength concretes"
+   ],
+   "authors": [
+    "Fran\u00e7ois de Larrard"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     1989,
+     3
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "19",
+   "page": "161-172",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 14,
+   "citedby": 85
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/0008884689900793",
+  "http": 200
+ },
+ "10.1016/s0958-9465(00)00092-5": {
+  "topic": "scm-clay",
+  "doi": "10.1016/s0958-9465(00)00092-5",
+  "crossref": {
+   "title": [
+    "Metakaolin and calcined clays as pozzolans for concrete: a review"
+   ],
+   "authors": [
+    "B.B Sabir",
+    "S Wild",
+    "J Bai"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Composites"
+   ],
+   "issued": [
+    [
+     2001,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "23",
+   "page": "441-454",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/"
+   ],
+   "abstract": "",
+   "refs": 74,
+   "citedby": 1198
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0958946500000925",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2010.09.013": {
+  "topic": "scm-clay",
+  "doi": "10.1016/j.cemconres.2010.09.013",
+  "crossref": {
+   "title": [
+    "The origin of the pozzolanic activity of calcined clay minerals: A comparison between kaolinite, illite and montmorillonite"
+   ],
+   "authors": [
+    "Rodrigo Fernandez",
+    "Fernando Martirena",
+    "Karen L. Scrivener"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2011,
+     1
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "41",
+   "page": "113-122",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 26,
+   "citedby": 1135
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884610002176",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2016.02.015": {
+  "topic": "scm-clay",
+  "doi": "10.1016/j.cemconres.2016.02.015",
+  "crossref": {
+   "title": [
+    "Development of a new rapid, relevant and reliable (R3) test method to evaluate the pozzolanic reactivity of calcined kaolinitic clays"
+   ],
+   "authors": [
+    "Fran\u00e7ois Avet",
+    "Ruben Snellings",
+    "Adrian Alujas Diaz",
+    "Mohsen Ben Haha",
+    "Karen Scrivener"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2016,
+     7
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "85",
+   "page": "1-11",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 23,
+   "citedby": 779
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884616302368",
+  "http": 200
+ },
+ "10.1617/s11527-022-02060-1": {
+  "topic": "scm-clay",
+  "doi": "10.1617/s11527-022-02060-1",
+  "crossref": {
+   "title": [
+    "Hydration and mixture design of calcined clay blended cements: review by the RILEM TC 282-CCL"
+   ],
+   "authors": [
+    "Franco Zunino",
+    "Yuvaraj Dhandapani",
+    "Mohsen Ben Haha",
+    "J\u00f8rgen Skibsted",
+    "Shiju Joseph",
+    "Sreejith Krishnan",
+    "Anuj Parashar",
+    "Maria C. G. Juenger",
+    "Theodore Hanein",
+    "Susan A. Bernal",
+    "Karen L. Scrivener",
+    "Fran\u00e7ois Avet"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2022,
+     11
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "55",
+   "page": null,
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+   ],
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The RILEM technical committee 282-CCL: Calcined Clays as Supplementary Cementitious Materials, investigates all the aspects related to calcined clays, from clay exploration and characterization to calcination process, hydration reactions and concrete properties. This white paper focuses on the hydration mechanisms of calcined clay-blended Portland cements, covering both 1:1 and 2:1 calcined clays. The pozzolanic reaction of calcined clay is detailed, and the main reaction products are described. The differences observed depending on t",
+   "refs": 113,
+   "citedby": 120
+  },
+  "resolved": "https://link.springer.com/article/10.1617/s11527-022-02060-1?error=cookies_not_supported&code=290ddf04-bf20-4802-9a3f-f865fd1e7246",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2012.09.006": {
+  "topic": "scm-clay",
+  "doi": "10.1016/j.cemconres.2012.09.006",
+  "crossref": {
+   "title": [
+    "Cement substitution by a combination of metakaolin and limestone"
+   ],
+   "authors": [
+    "M. Antoni",
+    "J. Rossen",
+    "F. Martirena",
+    "K. Scrivener"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2012,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "42",
+   "page": "1579-1589",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 29,
+   "citedby": 1390
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884612002074",
+  "http": 200
+ },
+ "10.1007/bf02486267": {
+  "topic": "cross-mechanics",
+  "doi": "10.1007/bf02486267",
+  "crossref": {
+   "title": [
+    "Crack band theory for fracture of concrete"
+   ],
+   "authors": [
+    "Zden\u011bk P. Ba\u017eant",
+    "B. H. Oh"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Mat\u00e9riaux et Constructions"
+   ],
+   "issued": [
+    [
+     1983,
+     5
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "16",
+   "page": "155-177",
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 52,
+   "citedby": 1829
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.cemconres.2018.04.005": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1016/j.cemconres.2018.04.005",
+  "crossref": {
+   "title": [
+    "Rheological requirements for printable concretes"
+   ],
+   "authors": [
+    "Nicolas Roussel"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2018,
+     10
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "112",
+   "page": "76-85",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 51,
+   "citedby": 1205
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S000888461830070X",
+  "http": 200
+ },
+ "10.1617/s11527-012-9828-z": {
+  "topic": "concrete-precast-insitu-print",
+  "doi": "10.1617/s11527-012-9828-z",
+  "crossref": {
+   "title": [
+    "Mix design and fresh properties for high-performance printing concrete"
+   ],
+   "authors": [
+    "T. T. Le",
+    "S. A. Austin",
+    "S. Lim",
+    "R. A. Buswell",
+    "A. G. F. Gibb",
+    "T. Thorpe"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "container": [
+    "Materials and Structures"
+   ],
+   "issued": [
+    [
+     2012,
+     1,
+     19
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "45",
+   "page": "1221-1232",
+   "license": [
+    "http://www.springer.com/tdm"
+   ],
+   "abstract": "",
+   "refs": 20,
+   "citedby": 1136
+  },
+  "resolveErr": "HTTP Error 500: Internal Server Error"
+ },
+ "10.1016/j.cemconres.2003.12.019": {
+  "topic": "concrete-circular",
+  "doi": "10.1016/j.cemconres.2003.12.019",
+  "crossref": {
+   "title": [
+    "Properties of concretes produced with waste concrete aggregate"
+   ],
+   "authors": [
+    "\u0130lker Bekir Top\u00e7u",
+    "Selim \u015eengel"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2004,
+     8
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "34",
+   "page": "1307-1312",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license"
+   ],
+   "abstract": "",
+   "refs": 19,
+   "citedby": 499
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884603004435",
+  "http": 200
+ },
+ "10.1016/j.cemconres.2023.107312": {
+  "topic": "binder-blended",
+  "doi": "10.1016/j.cemconres.2023.107312",
+  "crossref": {
+   "title": [
+    "Low clinker systems - Towards a rational use of SCMs for optimal performance"
+   ],
+   "authors": [
+    "Mohsen Ben Haha",
+    "Pipat Termkhajornkit",
+    "Alexandre Ouzia",
+    "Siva Uppalapati",
+    "Bruno Huet"
+   ],
+   "publisher": "Elsevier BV",
+   "container": [
+    "Cement and Concrete Research"
+   ],
+   "issued": [
+    [
+     2023,
+     12
+    ]
+   ],
+   "type": "journal-article",
+   "volume": "174",
+   "page": "107312",
+   "license": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004"
+   ],
+   "abstract": "",
+   "refs": 329,
+   "citedby": 109
+  },
+  "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0008884623002260",
+  "http": 200
+ }
+}

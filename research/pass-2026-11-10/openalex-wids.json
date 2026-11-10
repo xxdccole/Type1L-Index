@@ -1,0 +1,302 @@
+{
+ "W641426812": {
+  "title": "DESIGN OF ZERO MAINTENANCE PLAIN JOINTED CONCRETE PAVEMENT, VOLUME TWO-DESIGN MANUAL",
+  "date": "1977-06-08",
+  "authors": [
+   "M I Darter",
+   "E J Barenberg"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+    "http://ntlsearch.bts.gov/ntl/md.do?id=57388"
+   ],
+   [
+    "https://rosap.ntl.bts.gov/view/dot/30022",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W641426812",
+   "mag": "641426812"
+  }
+ },
+ "W2793453903": {
+  "title": "Field Testing of an Ultra-High Performance Concrete Overlay",
+  "date": "2017-10-01",
+  "authors": [
+   "Zachary B. Haber",
+   "Jos\u00e9 Fernando Jim\u00e9nez Mu\u00f1oz",
+   "Benjamin A. Graybeal"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "http://ntlsearch.bts.gov/ntl/md.do?id=65605",
+    "https://ntlrepository.blob.core.windows.net/lib/65000/65600/65605/FHWA-HRT-17-096.pdf"
+   ],
+   [
+    "https://rosap.ntl.bts.gov/view/dot/37821",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2793453903",
+   "mag": "2793453903"
+  }
+ },
+ "W2218996451": {
+  "title": "Materials and Methods for Corrosion Control of Reinforced and Prestressed Concrete Structures in New Construction",
+  "date": "2000-08-03",
+  "authors": [
+   "JW Smith",
+   "Yash Paul Virmani"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "http://ntlsearch.bts.gov/ntl/md.do?id=8692",
+    "http://ntlsearch.bts.gov/ntl/md.do?id=8692"
+   ],
+   [
+    "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/00081.pdf",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2218996451",
+   "mag": "2218996451"
+  }
+ },
+ "W1497688861": {
+  "title": "Factors affecting sulfate resistance of mortars",
+  "date": "1980-10-01",
+  "authors": [
+   "Katharine Mather"
+  ],
+  "type": "report",
+  "locs": [
+   [
+    "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8d27-4ef8-e053-411ac80adeb3/download",
+    "http://hdl.handle.net/11681/11016"
+   ],
+   [
+    "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA092831",
+    null
+   ],
+   [
+    "https://apps.dtic.mil/dtic/tr/fulltext/u2/a092831.pdf",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W1497688861",
+   "mag": "1497688861"
+  }
+ },
+ "W2295089114": {
+  "title": "Early age concrete thermal stress measurement and modeling",
+  "date": "2007-01-01",
+  "authors": [
+   "Kyle A. Riding"
+  ],
+  "type": "dissertation",
+  "locs": [
+   [
+    "http://hdl.handle.net/2152/3281",
+    "http://hdl.handle.net/2152/3281"
+   ],
+   [
+    "https://repositories.lib.utexas.edu/bitstream/2152/3281/2/ridingd43672.pdf",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2295089114",
+   "mag": "2295089114"
+  }
+ },
+ "W2164357131": {
+  "title": "Experimental determination of crack softening characteristics of normalweight and lightweight concrete",
+  "date": "1986-01-01",
+  "authors": [
+   "H.A.W. Cornelissen",
+   "Dick A. Hordijk",
+   "Hans Wolf Reinhardt"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c"
+   ],
+   [
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+    null
+   ],
+   [
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2164357131",
+   "mag": "2164357131"
+  }
+ },
+ "W1576523425": {
+  "title": "Tests of Concrete and Reinforced Concrete Columns: Series of 1907",
+  "date": "1907-01-01",
+  "authors": [
+   "Arthur N. Talbot"
+  ],
+  "type": "report",
+  "locs": [
+   [
+    "http://hdl.handle.net/2142/4428",
+    "https://www.ideals.illinois.edu/items/4923/bitstreams/19270/data.pdf"
+   ],
+   [
+    "http://hdl.handle.net/2142/4529",
+    "https://www.ideals.illinois.edu/items/4943/bitstreams/19350/data.pdf"
+   ],
+   [
+    "https://www.ideals.illinois.edu/bitstream/2142/4428/1/engineeringexperv00000i00010_tei.xml",
+    null
+   ],
+   [
+    "https://www.amazon.com/Tests-Concrete-Reinforced-Columns-Classic/dp/133417864X",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W1576523425",
+   "mag": "1576523425"
+  }
+ },
+ "W1540288179": {
+  "title": "REVIBRATION OF RETARDED CONCRETE FOR CONTINUOUS BRIDGE DECKS",
+  "date": "1970-04-01",
+  "authors": [
+   "Hubert K. Hilsdorf",
+   "James L. Lott"
+  ],
+  "type": "book-chapter",
+  "locs": [
+   [
+    "https://hdl.handle.net/2142/14293",
+    "https://www.ideals.illinois.edu/items/14323/bitstreams/50824/data.pdf"
+   ],
+   [
+    "https://trid.trb.org/view/106442",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W1540288179",
+   "mag": "1540288179"
+  }
+ },
+ "W1785976109": {
+  "title": "A fracture mechanics approach to failure analyses of concrete materials",
+  "date": "1979-01-01",
+  "authors": [
+   "Matz Mod\u00e9er"
+  ],
+  "type": "dissertation",
+  "locs": [
+   [
+    "https://lup.lub.lu.se/record/1272886",
+    "https://lup.lub.lu.se/record/1272886"
+   ],
+   [
+    "https://lup.lub.lu.se/search/ws/files/4524190/1649662.pdf",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W1785976109",
+   "mag": "1785976109"
+  }
+ },
+ "W2146241768": {
+  "title": "Theory and Experiments on the Mechanical Behaviour of Cracks in Plain and Reinforced Concrete Subjected to Shear Loading",
+  "date": "1981-01-01",
+  "authors": [
+   "Joost Walraven",
+   "Hans Wolf Reinhardt"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+    "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251"
+   ],
+   [
+    "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+    null
+   ],
+   [
+    "https://repository.tudelft.nl/islandora/object/uuid%3A3d68bd1a-465d-4590-b33c-7ede99bbc251/datastream/OBJ/download",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2146241768",
+   "mag": "2146241768"
+  }
+ },
+ "W2411437259": {
+  "title": "Architectural Precast Concrete Wall Panels: Their Technological Evolution, Significance, and Preservation",
+  "date": "2016-01-01",
+  "authors": [
+   "Grace Meloy"
+  ],
+  "type": "article",
+  "locs": [
+   [
+    "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+    "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses"
+   ],
+   [
+    "https://repository.upenn.edu/handle/20.500.14332/37158",
+    null
+   ],
+   [
+    "https://repository.upenn.edu/hp_theses/608/",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2411437259",
+   "mag": "2411437259"
+  }
+ },
+ "W2124079894": {
+  "title": "The Development of Precast Exposed Aggregate Concrete Cladding: The Legacy of John J. Earley and the Implications for Preservation Philosophy",
+  "date": "2008-01-01",
+  "authors": [
+   "Jenna Cellini"
+  ],
+  "type": "dissertation",
+  "locs": [
+   [
+    "https://repository.upenn.edu/hp_theses/97",
+    "https://repository.upenn.edu/hp_theses/97"
+   ],
+   [
+    "https://repository.upenn.edu/handle/20.500.14332/37330",
+    null
+   ],
+   [
+    "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1099&context=hp_theses",
+    null
+   ]
+  ],
+  "ids": {
+   "openalex": "https://openalex.org/W2124079894",
+   "mag": "2124079894"
+  }
+ }
+}

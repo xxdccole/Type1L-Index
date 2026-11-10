@@ -1,0 +1,12 @@
+cross-mix 10.1016/0008-8846(94)90022-1
+concrete-hpc 10.1016/0008-8846(89)90079-3
+scm-clay 10.1016/s0958-9465(00)00092-5
+scm-clay 10.1016/j.cemconres.2010.09.013
+scm-clay 10.1016/j.cemconres.2016.02.015
+scm-clay 10.1617/s11527-022-02060-1
+scm-clay 10.1016/j.cemconres.2012.09.006
+cross-mechanics 10.1007/bf02486267
+concrete-precast-insitu-print 10.1016/j.cemconres.2018.04.005
+concrete-precast-insitu-print 10.1617/s11527-012-9828-z
+concrete-circular 10.1016/j.cemconres.2003.12.019
+binder-blended 10.1016/j.cemconres.2023.107312

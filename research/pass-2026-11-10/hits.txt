@@ -1,0 +1,586 @@
+== binder-blended
+ 2018|4550|10.1039/c7ee02342a|Carbon capture and storage (CCS): the way forward|Energy & Environmental Science|Mai Bui|OA
+ 2014|1795|10.1016/j.earscirev.2014.11.016|A comprehensive review on the applications of coal fly ash|Earth-Science Reviews|Zhitong Yao|OA
+ 2018|1271|10.1016/j.cemconres.2018.04.018|Cemdata18: A chemical thermodynamic database for hydrated Portland cements and alkali-activated|Cement and Concrete Research|Barbara Lothenbach|OA
+ 2009|1083|10.1007/s11998-008-9144-2|Anticorrosive coatings: a review|Journal of Coatings Technology|P.A. Sørensen|
+ 2019|1025|10.1016/j.cemconres.2019.105799|Reactivity of supplementary cementitious materials (SCMs) in cement blends|Cement and Concrete Research|Jørgen Skibsted|OA
+ 2016|974|10.1016/j.actamat.2016.06.034|Cold spraying – A materials perspective|Acta Materialia|Hamid Assadi|OA
+ 2007|936|10.2172/921839|Top Value-Added Chemicals from Biomass - Volume II—Results of Screening for Potential Candidate|OSTI OAI (U.S. Department of E|John Holladay|OA
+ 2020|907|10.1007/s10311-020-01133-3|Recent advances in carbon capture storage and utilisation technologies: a review|Environmental Chemistry Letter|Ahmed Ibrahim Osman|OA
+ 2016|897|10.1016/j.conbuildmat.2016.04.138|Carbonation of cement paste: Understanding, challenges, and opportunities|Construction and Building Mate|Branko Šavija|OA
+ 2023|677|10.1016/j.cemconres.2023.107199|Future and emerging supplementary cementitious materials|Cement and Concrete Research|Ruben Snellings|OA
+ 2021|675|10.1039/d0ma00087f|Carbon based materials: a review of adsorbents for inorganic and organic compounds|Materials Advances|Mohammad Mehdi Sabzehmeidani|OA
+ 2016|634|10.1088/1748-9326/11/7/074029|Readily implementable techniques can cut annual CO 2 emissions from the production of concrete |Environmental Research Letters|Sabbie A. Miller|OA
+ 2017|612|10.1016/j.cemconcomp.2017.07.016|Effect of constituents on rheological properties of fresh concrete-A review|Cement and Concrete Composites|Dengwu Jiao|OA
+ 2013|600|10.1021/la4000473|Generalized Structural Description of Calcium–Sodium Aluminosilicate Hydrate Gels: The Cross-Li|Langmuir|Rupert J. Myers|OA
+ 2018|596|10.1016/j.conbuildmat.2018.06.075|A review on use of limestone powder in cement-based materials: Mechanism, hydration and microst|Construction and Building Mate|Dehui Wang|OA
+ 1991|397|10.14359/1993|Physical and Chemical Characteristics Affecting the Durability of Concrete|ACI Materials Journal|Vagelis G. Papadakis|OA
+ 2003|301|10.1016/s0958-9465(01)00056-7|Strength development of ternary blended cement with limestone filler and blast-furnace slag|Cement and Concrete Composites|G Menéndez|
+ 1990|75|10.2172/6548946|Models for estimation of service life of concrete barriers in low-level radioactive waste dispo|OSTI OAI (U.S. Department of E|Nuclear Regulatory Commission, Washington, DC (United States)|OA
+ 2007|75|10.1016/j.cemconres.2007.02.017|Improving the performance of ternary blended cements by mixing different types of fly ashes|Cement and Concrete Research|S.K. Antiohos|
+ 1908|63|10.3133/b347|The Ketchikan and Wrangell mining districts, Alaska||Fred E. Wright|OA
+ 1997|60|10.1016/s0008-8846(97)00075-6|Concrete containing ternary blended binders: Resistance to chloride ingress and carbonation|Cement and Concrete Research|M.R. Jones|
+ 1998|54|10.1016/s0008-8846(98)00078-7|Strength and pore structure of ternary blended cement mortars containing blast furnace slag and|Cement and Concrete Research|L. Bágel|
+ 1983|41|https://openalex.org/W647157656|KILN DUST-FLY ASH SYSTEMS FOR HIGHWAY BASES AND SUBBASES|ROSA P|R J Collins|OA
+ 1983|36|https://openalex.org/W2567458051|Response of Highway Bridges to Nonlinear Temperature Distributions|Illinois Digital Environment f|I C Potgieter|OA
+ 1989|30|https://openalex.org/W2489583782|Industrial Metabolism, the Environment, and Application of Materials-Balance. Principles for Se|IIASA PURE (International Inst|Robert U. Ayres|OA
+ 1970|28|10.36481/diujst.v07i1.87k0q196|Impact Response of Plates Under Drop Weight Impact Testing|Daffodil International Univers|S Elavenil|OA
+ 1990|27|10.5703/1288284314179|The Use of Bottom Ash in Highway Embankments, Subgrades, and Subbases|Purdue e-Pubs (Purdue Universi|Wei‐Hsing Huang|OA
+ 1994|25|10.2172/10140681|A literature review of mixed waste components: Sensitivities and effects upon solidification/st|OSTI OAI (U.S. Department of E|TN (United States) Oak Ridge National Lab.|OA
+ 2014|23|10.1016/j.cemconcomp.2014.04.005|Influence of preparation method on the performance of ternary blended cements|Cement and Concrete Composites|Tongsheng Zhang|
+ 2018|19|10.1080/21650373.2018.1471423|Flexural fatigue performance of concrete made with recycled concrete aggregates and ternary ble|Journal of Sustainable Cement-|Sumit Arora|
+ 1984|16|10.2172/5310685|Industrial fouling: problem characterization, economic assessment, and review of prevention, mi|OSTI OAI (U.S. Department of E|B.A. Garrett-Price|OA
+ 1990|14|10.3133/pp1076c|World nonbauxite aluminum resources excluding alunite|USGS professional paper|J.W. Hosteman|OA
+ 1985|14|https://openalex.org/W76063536|Industrial wastes in the Calumet area, 1869-1970 : An historical geography|Illinois Digital Environment f|Craig Edward Colten|OA
+ 1950|14|10.3133/b964b|Mineral resources of Colombia (other than petroleum)||Quentin Dreyer Singewald|OA
+ 1987|13|https://openalex.org/W634746744|EVALUATION OF SULFATE RESISTANCE OF HYDRAULIC-CEMENT MORTARS BY THE ASTM C 1012 TEST METHOD. CO|Publication of: American Concr|T Patzias|
+ 1979|13|10.6028/nbs.sp.550|A bibliography on the corrosion and protection of steel in concrete||E Escalante|OA
+ 1937|11|10.58799/b-12|The non-metallic mineral resources of New Mexico and their economic features (exclusive of fuel||Sterling B. Talmage|OA
+ 1910|11|10.3133/b432|Some ore deposits in Maine : and the Milan mine, New Hampshire / by William H. Emmons.|Govt. Print. Office eBooks|William H. Emmons|OA
+ 1984|10|10.6028/nbs.ir.84-2929|Influence of vertical compressive stress on shear resistance of concrete block masonry walls||Kyle Woodward|OA
+ 1988|8|10.82308/1071|A study of the geotechnical characteristics and liquefaction potential of paste backfill /|eScholarship@McGill (McGill)|Khosrow Aref|OA
+ 1993|3|https://openalex.org/W1514398931|Concrete paving blocks: an overview.|Calhoun: The Naval Postgraduat|Michael K. Abate|OA
+ 1992|3|https://openalex.org/W125130860|Soil stabilisation using some pozzolanic industrial and agricultural products|Research Online (University of|Chassan Chmeisse|OA
+ 1987|3|https://openalex.org/W623555018|THE EFFECT OF POZZOLANS AND SLAGS ON THE SULFATE RESISTANCE OF HYDRUALIC CEMENT MORTARS. CONCRE|Publication of: American Concr|G. Sam Wong|
+ 1976|3|10.6028/nbs.ir.76-1008|Energy conversation through the facilitation of increased blended cement use||Paul Wencil Brown|OA
+ 1977|2|10.6028/nbs.ir.77-1244|Survey of uses of waste materials in construction in the United States||James Roger Clifton|OA
+ 1994|1|https://openalex.org/W2519869817|Durabilidade do concreto a ação de sulfatos: análise do efeito da permeação de água e da adição|Americanae (AECID Library)|Silva Filho|OA
+ 1993|1|10.2172/10185927|Development of grout formulations for 106-AN waste: Mixture-experiment results and analysis. Vo|OSTI OAI (U.S. Department of E|TN (United States) Oak Ridge National Lab.|OA
+ 1990|1|10.31390/gradschool_disstheses.5031|Characterization of Solid Matrices for Solidification/Stabilization of Hazardous Wastes Using S|Louisiana State University|Humayoun Akhter|OA
+ 1986|1|https://openalex.org/W1567150643|Technology of cement production : issues and options for developing countries|DSpace@MIT (Massachusetts Inst|R Aadam Mohamed Ibrahim|OA
+ 1964|1|https://openalex.org/W3096817625|The production of sulphate-resisting and marine cements from local raw materials|Open University of Cape Town (|Dennis Le Sar|OA
+ 1994|0|https://openalex.org/W10013563|Market assessment and technical feasibility study of PFBC ash use|University of North Texas Digi|V.E. Smith|OA
+ 2025|0|10.2139/ssrn.5297491|IMPACT STRENGTH OF ORDINARY PORTLAND CEMENT CONCRETE AND TERNARY BLENDED CEMENT CONCRETE WITH C||venkata vamsi emani|
+ 2002|0|10.14359/12405|Ternary Blended Cements for High-Performance Concrete|"SP-207: Proceedings, Third In||
+== scm-clay
+ 1996|665|10.1016/0008-8846(96)00148-2|Relative strength, pozzolanic activity and cement hydration in superplasticised metakaolin conc|Cement and Concrete Research|Stan Wild|
+ 2020|457|10.1016/j.cemconres.2020.106050|Advances in alkali-activation of clay minerals|Cement and Concrete Research|Ahmed Khalifa|OA
+ 2018|394|10.1680/jgrma.18.00029|Impacting factors and properties of limestone calcined clay cements (LC 3 )|Green Materials|Karen Louise Scrivener|OA
+ 2016|360|10.21809/rilemtechlett.2016.12|Assessing, Understanding and Unlocking Supplementary Cementitious Materials|RILEM Technical Letters|Ruben Snellings|OA
+ 2021|345|10.1617/s11527-021-01807-6|Clay calcination technology: state-of-the-art review by the RILEM TC 282-CCL|Materials and Structures|Theodore Hanein|OA
+ 2020|322|10.1016/j.cemconres.2020.106040|Improving printability of limestone-calcined clay-based cementitious materials by using viscosi|Cement and Concrete Research|Yu Chen|OA
+ 2018|294|10.1617/s11527-018-1255-3|Performance of Limestone Calcined Clay Cement (LC3) with various kaolinite contents with respec|Materials and Structures|Hamed Maraghechi|OA
+ 2002|285|10.14359/12222|Effects of Metakaolin and Silica Fume on Properties of Concrete|ACI Materials Journal|Ding Jian-tong|
+ 2000|278|10.1016/s0008-8846(99)00231-8|The effect that the pozzolanic reaction of metakaolin has on the heat evolution in metakaolin-c|Cement and Concrete Research|Moisés Frı́as|
+ 2022|190|10.1016/j.cemconres.2022.106962|The impact of mechanochemical activation on the physicochemical properties and pozzolanic react|Cement and Concrete Research|Vahiddin Alperen Baki|OA
+ 2021|185|10.1016/j.cemconres.2021.106553|3D printing of calcined clay-limestone-based cementitious materials|Cement and Concrete Research|Yu Chen|OA
+ 2022|176|10.1016/j.conbuildmat.2022.128341|Production, characteristics, and utilization of rice husk ash in alkali activated materials: An|Construction and Building Mate|Shaswat Kumar Das|OA
+ 2019|158|10.3390/app9091809|Limestone and Calcined Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing: |Applied Sciences|Yu Chen|OA
+ 2022|157|10.1016/j.fuel.2022.126220|A review of waste management approaches to maximise sustainable value of waste from the oil and|Fuel|Muhammad Shahbaz|OA
+ 2020|157|10.1016/j.cemconcomp.2020.103708|Effect of different grade levels of calcined clays on fresh and hardened properties of ternary-|Cement and Concrete Composites|Yu Chen|OA
+ 2020|151|10.1016/j.conbuildmat.2020.121293|Assessing the effect of alkanolamine grinding aids in limestone calcined clay cements hydration|Construction and Building Mate|Franco Zunino|OA
+ 2022|149|10.1016/j.cemconres.2022.106834|Sustainable iron-rich cements: Raw material sources and binder types|Cement and Concrete Research|Arne Peys|OA
+ 2001|136|10.1016/s0008-8846(01)00492-6|Long-term testing of the chloride-penetration resistance of concrete containing high-reactivity|Cement and Concrete Research|Andrea Boddy|
+ 2001|127|https://openalex.org/W2790467727|Binding of external chlorides by cement pastes|Library and Archives Canada (G|Hassan Zibara|
+ 2003|125|10.1016/j.cemconres.2003.11.014|Exploitation of poor Greek kaolins: strength development of metakaolin concrete and evaluation |Cement and Concrete Research|Efstratios Badogiannis|OA
+ 2002|105|10.1016/s0008-8846(01)00646-9|Modification of the properties of concrete by a new pozzolan—a waste catalyst from the catalyti|Cement and Concrete Research|Barbara Pacewska|
+ 1995|92|10.1016/0008-8846(95)00007-0|Pozzolanic activity of metakaolin under microwave treatment|Cement and Concrete Research|Madeleine Oriol|
+ 2005|78|10.1016/j.cemconres.2005.04.012|Viability of using calcined clays, from industrial by-products, as pozzolans of high reactivity|Cement and Concrete Research|Paulo Sérgio Lima Souza|
+ 2005|42|https://openalex.org/W2183437758|Evaluation of Metakaolins for Use as Supplementary Cementitious Materials|UPT. Syiah Kuala University Li|Joy Melissa Justice|OA
+ 2001|33|10.3989/mc.2001.v51.i261.379|Research about the pozzolanic activity of waste materials from calcined clay|Materiales de Construcción|María Isabel Sánchez de Rojas|OA
+ 2000|32|10.3989/mc.2000.v50.i260.386|A new pozzolan for high performance cementitious materials|Materiales de Construcción|Ruby Mejía de Gutiérrez|OA
+ 2004|29|10.1016/j.cemconres.2003.12.018|Calcined oil sands fine tailings as a supplementary cementing material for concrete|Cement and Concrete Research|Ron C.K. Wong|
+ 2004|28|10.4144/rpsj.51.35|Hydration Behaviour of Ecocement in Presence of Metakaolin|Resources Processing|Nabajyoti Saikia|OA
+ 2005|22|https://openalex.org/W2382795866|High reactivity metakaolin|Concrete|Hui Xu|
+== concrete-structural
+ 2000|363|https://openalex.org/W80885101|Sectional analysis of reinforced concrete members|Library and Archives Canada (G|Evan C. Bentz|
+ 1981|295|https://openalex.org/W2146241768|Theory and Experiments on the Mechanical Behaviour of Cracks in Plain and Reinforced Concrete S|Research Repository (Delft Uni|Joost Walraven|OA
+ 1991|275|10.14359/3097|Size Effect on Diagonal Shear Failure of Beams Without Stirrups|ACI Structural Journal|Zdeněk P. Bažant|
+ 2000|254|10.14359/7428|Splice Strength of Conventional and High Relative Rib Area Bars in Normal and High-Strength Con|ACI Structural Journal|Jun Qing Zuo|OA
+ 1998|241|https://openalex.org/W1605710201|Engineered Cementitious Composites (ECC) - Tailored Composites Through Micromechanical Modeling|Deep Blue (University of Michi|Victor C. Li|OA
+ 1979|177|10.2172/5181570|Statistical analysis of the response of nonlinear systems subjected to earthquakes|OSTI OAI (U.S. Department of E|Rafael Riddell|OA
+ 1999|170|10.14359/765|Corrosion Effects on Bond Strength in Reinforced Concrete|ACI Structural Journal|Kyle Stanish|
+ 1993|159|10.14359/4459|Effect of Deformation Height and Spacing on Bond Strength of Reinforcing Bars|ACI Structural Journal|David Darwin|OA
+ 1996|142|10.14359/9694|Development Length Criteria for Conventional and High Relative Rib Area Reinforcing Bars|ACI Structural Journal|David Darwin|OA
+ 1997|138|10.2208/jscej.1997.564_297|NUMERICAL SIMULATION OF SIZE EFFECT IN SHEAR STRENGTH OF RC BEAMS|Doboku Gakkai Ronbunshu|Xuehui An|OA
+ 1994|135|https://openalex.org/W2196060543|Behavior of Reinforced Concrete Frames with Masonry Infills|Illinois Digital Environment f|Ricardo E. Angel|OA
+ 1996|131|10.14359/9680|Splice Strength of High Relative Rib Area Reinforcing Bars|ACI Structural Journal|David Darwin|OA
+ 1994|86|10.24355/dbbs.084-201305291004-0|Ingenieurmodelle des Verbunds geklebter Bewehrung für Betonbauteile|Digitale Bibliothek Braunschwe|Holzenkämpfer, Peter|OA
+ 1994|86|10.6028/nist.sp.862|1994 Northridge earthquake||Diana Todd|OA
+ 1974|82|https://openalex.org/W2156359232|INELASTIC MODEL FOR CYCLIC BIAXIAL LOADING OF REINFORCED CONCRETE|KU ScholarWorks (The Universit|David Darwin|OA
+ 1984|81|https://openalex.org/W1554537950|Seismic Damage Analysis and Damage-LImiting Design of R.C. Buildings|Illinois Digital Environment f|Y. J. Park|OA
+ 1975|62|10.15554/pcij20.4-04|Recommendations for Estimating Prestress Losses|PCI Journal|H. Kent Preston|OA
+ 1995|46|https://openalex.org/W562794537|Cracking in Concrete Bridge Decks|KU ScholarWorks (The Universit|Tony R. Schmitt|OA
+ 2001|41|10.56748/ejse.1111|Evolution of Concrete Skyscrapers: from Ingalls to Jin mao|Electronic Journal of Structur|Mir Masoom Ali|OA
+ 2023|39|10.3390/designs7060143|Modularisation Strategies for Individualised Precast Construction—Conceptual Fundamentals and R|Designs|Lothar Kolbeck|OA
+ 1993|32|https://openalex.org/W1148500289|Finite Element Analysis of Reinforced Concrete Shear Walls|Illinois Digital Environment f|Chadchart Sittipunt|OA
+ 1961|27|10.1680/iicep.1961.11228|DISCUSSION. THE FIRE-RESISTANCE OF PRESTRESSED CONCRETE BEAMS.|Proceedings of the Institution|L A ASHTON|OA
+ 1994|26|10.6028/nist.ir.5396|1994 Northridge earthquake:||Riley M Chung|OA
+ 2017|20|10.1007/978-3-319-59471-2_316|The Invention of Reinforced Concrete (1848 – 1906)|Springer eBooks|Michel Moussard|
+ 1989|17|10.1061/(asce)0733-9445(1989)115:12(3142)|Pre‐Tensioned and Posttensioned Composite Girders|Journal of Structural Engineer|Michael S. Troitsky|
+ 1993|15|10.5703/1288284314206|Strand Debonding in Pretensioned Beams - Precast Prestressed Concrete Bridge Girders with Debon|Purdue e-Pubs (Purdue Universi|O. Abdalla|OA
+ 1982|11|10.15554/tr-2-82|Connections for Precast Prestressed Concrete Buildings Including Earthquake Resistance||L. D. Martin|OA
+ 1970|11|https://openalex.org/W1540288179|REVIBRATION OF RETARDED CONCRETE FOR CONTINUOUS BRIDGE DECKS|Illinois Digital Environment f|Hubert K. Hilsdorf|OA
+ 1970|11|https://openalex.org/W771283583|TIME-DEPENDENT DEFORMATION OF NONCOMPOSITE AND COMPOSITE PRESTRESSED CONCRETE STRUCTURES|Highway Research Record|Dan E. Branson|
+ 1976|10|10.6028/nbs.bss.80|Safety during construction of concrete buildings- a status report||Hai S. Lew|OA
+ 1975|10|https://openalex.org/W2281495340|TIME-DEPENDENT PRESTRESS LOSSES IN PRETENSIONED CONCRETE CONSTRUCTION|Illinois Digital Environment f|Hector David Hernandez|OA
+ 2019|8|10.30883/jba.v39i2.468|PERKEMBANGAN PENGGUNAAN BETON BERTULANG DI INDONESIA PADA MASA KOLONIAL (1901-1942)|Berkala Arkeologi|Martha Setyowati|OA
+ 2017|8|10.3929/ethz-b-000185002|Composite Bamboo and its Application as Reinforcement in Structural Concrete|Repository for Publications an|Alireza Javadian|OA
+ 1998|8|10.1680/icien.1998.30436|FRANCOIS HENNEBIQUE (1842-1921), REINFORCED CONCRETE PIONEER.|Proceedings of the Institution|D G MCBETH|
+ 1992|8|https://openalex.org/W1521059454|REUSABILITY AND IMPACT DAMAGE REPAIR OF TWENTY-YEAR-OLD AASHTO TYPE III GIRDERS.|University of Minnesota Digita|Steven A. Olson|OA
+ 2008|5|https://openalex.org/W2124079894|The Development of Precast Exposed Aggregate Concrete Cladding: The Legacy of John J. Earley an|Scholarly Commons (University |Jenna Cellini|OA
+ 1999|5|10.1061/(asce)0887-3828(1999)13:2(57)|Theoretical Performances of RC Elements Built at Turn of the Century|Journal of Performance of Cons|Roberto E. Gori|OA
+ 2021|4|10.2478/host-2021-0014|Unspoken Modernity: Bamboo-Reinforced Concrete, China 1901-40|HoST - Journal of History of S|Chang-Xue Shu|OA
+ 2009|4|https://openalex.org/W176792735|Research on the restoration of heritage structures: Portland cement and concrete repair applica|LA Referencia (Red Federada de|Logan Strenchock|OA
+ 2011|4|10.2495/str110491|Concrete properties of a 1904 Hennebique reinforced concrete viaduct|WIT Transactions on The Built |A. Hellebois|
+ 2013|4|10.2749/101686613x13627347100275|Structural Weaknesses of the Hennebique Early Reinforced Concrete System and Possible Retrofitt|Structural Engineering Interna|Armande Hellebois|
+ 2023|3|10.1680/jenhh.23.00013|A case study of industrial heritage buildings at the Rjukan and Notodden site in Norway|Proceedings of the Institution|Thomas Haupt|OA
+ 2016|3|https://openalex.org/W2411437259|Architectural Precast Concrete Wall Panels: Their Technological Evolution, Significance, and Pr|ScholarlyCommons (University o|Grace Meloy|OA
+ 2023|2|10.1201/9781003368656-7|The First Patents for Reinforced Concrete|CRC Press eBooks|Francisco Domouso de Alba|OA
+ 2009|2|https://openalex.org/W1506493941|An Extension of the Dewey Decimal System of Classification Applied to Architecture and Building|Illinois Digital Environment f|N. Clifford Ricker|OA
+ 2024|1|10.15174/orhi.vi19.5|El concreto, agente de cambio en la construcción moderna de la Ciudad de México. El caso de las|Oficio Revista de Historia e I|Rocío Bárbara Euroza Antúnez|OA
+ 2010|1|https://openalex.org/W1490146668|Reinforced Concrete Construction in Theory and Practice: An Elementary Manual for Students and ||Henry Adams|
+ 2018|1|10.1201/9781351045834-2|History of Cathodic Protection in Reinforced Concrete|Cathodic Protection for Reinfo|Paul M. Chess|
+ 2001|1|10.2208/journalhs1990.21.227|The Hennebique Company: An Early Industrialization for the Reinforced Concrete (1880-1914)|HISTORICAL STUDIES IN CIVIL EN|Yasuhiro HONDA|
+ 2012|0|10.4000/books.inha.12747|Hennebique reinforced concrete constructions in Eastern Algeria: patrons and contractors (1900-|Building Beyond The Mediterran|Assia Samaï Bouadjadja|
+ 2014|0|10.1201/b17165-5|A Brief History of Reinforced Concrete|Principles of Reinforced Concr||
+ 2003|0|10.1093/gao/9781884446054.article.t037525|Hennebique, François|Oxford Art Online|Jean-François Pinchon|
+== concrete-hpc
+ 1910|9539|10.1037/10903-000|How we think.|D C Heath eBooks|John Dewey|OA
+ 1944|6703|https://openalex.org/W1596169349|Great transformation: The political and economic origins of our time||Karl Polanyi|OA
+ 1983|1684|10.2307/3684627|The Political Unconscious: Narrative as a Socially Symbolic Act|SubStance|Alice N. Benston|OA
+ 1994|1443|10.3386/w4840|Geographic Concentration in U.S. Manufacturing Industries: A Dartboard Approach|National Bureau of Economic Re|Glenn Ellison|OA
+ 1982|1391|10.3133/wsp2175|Measurement and computation of streamflow||Saul Edward Rantz|OA
+ 1987|1065|https://openalex.org/W1867155035|The Force of Law: Toward a Sociology of the Juridical Field|bepress Legal Repository|Pierre Bourdıeu|OA
+ 1984|803|10.1017/s0020818300026709|The poverty of neorealism|International Organization|Richard K. Ashley|OA
+ 1963|794|10.1086/282286|On Certain Unifying Principles in Ecology|The American Naturalist|R. Margalef|OA
+ 1988|695|https://openalex.org/W1494045475|Computational modeling of concrete fracture|Research Repository (Delft Uni|J.G. Rots|OA
+ 1975|588|10.1029/eo056i011p00838|Earthquake research in China|Eos|Anonymous|OA
+ 1995|559|10.1145/203241.203251|Why looking isn't always seeing|Communications of the ACM|Marian Petre|OA
+ 1974|514|10.1111/j.1468-2230.1974.tb02366.x|ON USES AND MISUSES OF COMPARATIVE LAW*|Modern Law Review|Otto Kahn-Freund|OA
+ 1987|510|10.2307/1228797|The Id, the Ego, and Equal Protection: Reckoning with Unconscious Racism|Stanford Law Review|Charles R. Lawrence|OA
+ 1982|510|10.6028/nbs.bss.138|Prediction of pore water pressure buildup and liquefaction of sands during earthquakes by the C||R. Dobry|OA
+ 1981|478|10.2307/1288201|"No Soul to Damn: No Body to Kick": An Unscandalized Inquiry into the Problem of Corporate Puni|Michigan Law Review|John C. Coffee|OA
+ 2000|225|10.1002/1099-0712(200001/02)10:1<1::aid-amo420>3.0.co;2-y|Advanced functional materials|Advanced Materials for Optics ||
+ 1996|206|https://openalex.org/W2567346938|Modeling the Time-to Corrosion Cracking of the Cover Concrete in Chloride Contaminated Reinforc|VTechWorks (Virginia Tech)|Liu Youping|OA
+ 1999|133|10.1155/1999/415360|Tensile Properties of Very‐High‐Strength Concrete for Penetration‐Resistant Structures|Shock and Vibration|Edward F. O’Neil|OA
+ 1999|66|https://openalex.org/W2930794724|Service life modelling of R.C. highway structures exposed to chlorides|Library and Archives Canada (G|Beatriz Martín‐Pérez|
+ 2000|65|10.26616/nioshpub2001110|Hazard review: health effects of occupational exposure to asphalt.|||OA
+ 1999|61|10.6028/nist.ir.6295|Curing of high-performance concrete:||Kenneth W Meeks|OA
+ 1999|60|10.2172/6180517|Beneficial Use and Recycling of Municipal Waste Combustion Residues - A Comprehensive Resource |OSTI OAI (U.S. Department of E|Carlton C. Wiles|OA
+ 1989|56|10.6028/nist.ir.89-4086|Service life of concrete||James Roger Clifton|OA
+ 1996|46|https://openalex.org/W862032258|Durability of concrete in saline environment|Lund University Publications (|Paul J. Sandberg|OA
+ 1997|45|10.6028/nist.sp.919|International Workshop on Fire Performance of High-Strength Concrete, NIST, Gaithersburg, MD, F||Long Phan|OA
+ 2000|28|10.6028/nist.ir.6520|BEES 2.0 :||Barbara C. Lippiatt|OA
+ 1992|22|10.6028/nist.ir.4819|Applicability of the maturity method to high-performance concrete||Nicholas J. Carino|OA
+ 2000|21|10.1520/cca10458j|The Permeability of Cement Systems to Chloride Ingress and Related Test Methods|Cement Concrete and Aggregates|Z Liu|OA
+ 1998|17|https://openalex.org/W2887116953|Cyclic wetting and drying and its effects on chloride ingress in concrete|Library and Archives Canada (G|Kwang Won Hong|OA
+ 1992|15|10.11575/prism/10784|Activation of natural pozzolans, fly ashes and blast furnace slag|Libraries and Cultural Resourc|Caijun Shi|OA
+ 2000|11|10.11575/prism/15561|Thermal and shrinkage effects in high performance concrete structures during construction|Library and Archives Canada (G|James Andrew Gilliland|OA
+== concrete-pavement-pervious
+ 2017|3398|10.1111/mice.12263|Deep Learning‐Based Crack Damage Detection Using Convolutional Neural Networks|Computer-Aided Civil and Infra|Young‐Jin Cha|OA
+ 2002|2404|10.1017/s0272263102002024|FREQUENCY EFFECTS IN LANGUAGE PROCESSING|Studies in Second Language Acq|Nick C. Ellis|OA
+ 1992|2227|https://openalex.org/W1480840718|Pavement analysis and design||Yang Huang|
+ 2003|1799|10.3151/jact.1.215|On Engineered Cementitious Composites (ECC)|Journal of Advanced Concrete T|Victor C. Li|OA
+ 2017|1319|10.1016/j.jmat.2017.08.002|Materials discovery and design using machine learning|Journal of Materiomics|Yue Liu|OA
+ 2000|1229|https://openalex.org/W2124060079|THE LAST PLANNER SYSTEM OF PRODUCTION CONTROL|University of Birmingham Insti|Herman Glenn Ballard|OA
+ 2022|1143|10.1016/j.autcon.2022.104440|Artificial intelligence and smart vision for building and construction 4.0: Machine and deep le|Automation in Construction|Shanaka Kristombu Baduge|OA
+ 2019|1105|10.1002/inf2.12028|Machine learning in materials science|InfoMat|Jing Wei|OA
+ 2015|1101|10.1016/j.aei.2015.01.008|A review on computer vision based defect detection and condition assessment of concrete and asp|Advanced Engineering Informati|Christian Koch|OA
+ 2004|1042|10.1016/j.cemconres.2004.10.025|Microstructural analysis of recycled aggregate concrete produced from two-stage mixing approach|Cement and Concrete Research|Vivian W.Y. Tam|
+ 2017|999|10.1016/j.aej.2017.01.020|Crack detection using image processing: A critical review and analysis|Alexandria Engineering Journal|Arun K Mohan|OA
+ 2013|991|10.1016/j.conbuildmat.2013.09.007|Recycled Tyre Rubber Modified Bitumens for road asphalt mixtures: A literature review|Construction and Building Mate|Davide Lo Presti|OA
+ 2022|985|10.1007/s10311-022-01499-6|Circular economy strategies for combating climate change and other environmental issues|Environmental Chemistry Letter|Mingyu Yang|OA
+ 2018|829|10.1002/admi.201800074|A Review of Self‐Healing Concrete for Damage Management of Structures|Advanced Materials Interfaces|Nele De Belie|OA
+ 2012|792|10.1016/j.proenv.2012.10.108|An Overview of Utilization of Steel Slag|Procedia Environmental Science|Huang Yi|OA
+ 2015|570|10.3846/13923730.2015.1111934|LOCAL CLIMATE CHANGE AND URBAN HEAT ISLAND MITIGATION TECHNIQUES – THE STATE OF THE ART|Journal of Civil Engineering a|Hashem Akbari|OA
+ 2021|536|10.1016/j.cscm.2021.e00733|Potential applications of geopolymer concrete in construction: A review|Case Studies in Construction M|Ahmad L. Almutairi|OA
+ 2021|533|10.1016/j.jtte.2021.03.004|Advances in geopolymer materials: A comprehensive review|Journal of Traffic and Transpo|Peiliang Cong|OA
+ 2023|463|10.1016/j.dibe.2023.100177|Smart materials and technologies for sustainable concrete construction|Developments in the Built Envi|Jonny Nilimaa|OA
+ 2009|456|10.1016/j.conbuildmat.2009.10.025|Laboratory evaluation of permeability and strength of polymer-modified pervious concrete|Construction and Building Mate|Baoshan Huang|
+ 2020|445|10.1016/j.jmrt.2020.12.051|UHPC evolution, development, and utilization in construction: a review|Journal of Materials Research |M. A. Bajaber|OA
+ 2016|380|10.1016/j.ijsbe.2016.05.009|Mechanical and durability properties of fly ash geopolymer concrete containing recycled coarse |International Journal of Susta|Faiz Uddin Ahmed Shaikh|OA
+ 2022|361|10.1007/s42773-022-00182-x|Biochar as construction materials for achieving carbon neutrality|Biochar|Yuying Zhang|OA
+ 2017|348|10.1016/j.ijsbe.2017.07.004|Structure and properties of mortar and concrete with rice husk ash as partial replacement of or|International Journal of Susta|Christopher Ajiboye Fapohunda|OA
+ 1959|346|10.1061/jwheau.0000142|Laboratory Investigation of Rubble-Mound Breakwaters|Journal of the Waterways and H|Robert Y. Hudson|OA
+ 2013|327|10.1016/j.conbuildmat.2013.09.022|Experimental study on Portland cement pervious concrete mechanical and hydrological properties|Construction and Building Mate|Ahmed A. Ibrahim|
+ 2010|318|10.1016/j.conbuildmat.2010.04.057|Optimum mix design of enhanced permeable concrete – An experimental investigation|Construction and Building Mate|Chunqi Lian|
+ 2016|313|10.1016/j.conbuildmat.2016.02.060|Properties of pervious concrete containing recycled concrete block aggregate and recycled concr|Construction and Building Mate|Yuwadee Zaetang|
+ 2021|283|10.1016/j.jrmge.2021.08.012|Clayey soil stabilization using alkali-activated volcanic ash and slag|Journal of Rock Mechanics and |Hania Miraki|OA
+ 1969|17|10.3133/b1262|General and engineering geology of the northern part of Pueblo, Colorado||Glenn R. Scott|OA
+ 1969|14|10.13023/ktc.rr.1969.273|Settlement of Highway Bridge Approaches and Embankment Foundations|UKnowledge (University of Kent|Tommy C. Hopkins|OA
+ 1985|9|10.5703/1288284314088|Structural Analysis of Rigid Pavements with Pumping: Summary Informational Report|Purdue e-Pubs (Purdue Universi|J. Larralde|OA
+ 1977|7|https://openalex.org/W641426812|DESIGN OF ZERO MAINTENANCE PLAIN JOINTED CONCRETE PAVEMENT, VOLUME TWO-DESIGN MANUAL|ROSA P|M I Darter|OA
+ 1990|6|10.5703/1288284313427|Evaluation of the Cost-Effectiveness of Pavement Surface Maintenance Activities|Purdue e-Pubs (Purdue Universi|Ibrahim M Mouaket|OA
+ 1980|4|https://openalex.org/W2921269083|Stream channel degradation and aggradation : causes and consequences to highways.|ROSA P|Thomas N. Keefer|OA
+ 1988|3|10.5703/1288284314150|An Evaluation of Effects of Routine Maintenance on Highway Surface Conditions : Informational R|Purdue e-Pubs (Purdue Universi|Turki I. Al‐Suleiman|OA
+ 1979|3|10.5703/1288284314005|Effects of Raising Load Limits on Pavements and Bridges in Indiana|Purdue e-Pubs (Purdue Universi|Eldon Yoder|OA
+ 1960|1|10.6028/nbs.mp.230|Standardization activities in the United States :||Shannon F Booth|OA
+ 1959|1|https://openalex.org/W1642337209|MANUAL OF CURRENT PRACTICE FOR THE DESIGN, CONSTRUCTION, AND MAINTENANCE OF SOIL-AGGREGATE ROAD|Illinois Digital Environment f|Eugene Y Huang|OA
+ 1989|0|https://openalex.org/W2603236514|An evaluation of flexible pavement performance on the basis of deflection basins using illipave|OhioLink ETD Center (Ohio Libr|Suzanna Darmstater|OA
+ 1989|0|https://openalex.org/W2791769659|Weight and dimension characteristics of large truck combinations as a function of regulatory li|Mspace (University of Manitoba|Randy Plett|OA
+ 1987|0|https://openalex.org/W3201492974|Oklahoma pavement management system phase I - development of specifications (87-09)|SHAREOK (University of Oklahom|Thomas H. Maze|OA
+ 1973|0|10.13023/ktc.rr.1973.353|Annals of the Research Division|UKnowledge (University of Kent|Robert C. Deen|OA
+== concrete-precast-insitu-print
+ 2017|3694|10.1038/s41562-016-0021|A manifesto for reproducible science|Nature Human Behaviour|Marcus Robert Munafo|OA
+ 2014|3116|10.1103/revmodphys.86.153|Quantum simulation|Reviews of Modern Physics|Iulia Georgescu|OA
+ 2019|2729|10.1109/access.2019.2921522|Wireless Communications and Applications Above 100 GHz: Opportunities and Challenges for 6G and|IEEE Access|Theodore S. Rappaport|OA
+ 2014|2534|10.1109/comst.2014.2329501|Survey on Free Space Optical Communication: A Communication Theory Perspective|IEEE Communications Surveys & |Mohammad‐Ali Khalighi|OA
+ 2008|2413|10.1088/1748-0221/3/08/s08001|LHC Machine|Journal of Instrumentation|Lyndon R Evans|OA
+ 2024|2330|10.1126/science.adj0998|GPTs are GPTs: Labor market impact potential of LLMs|Science|Tyna Eloundou|OA
+ 2019|2321|10.1063/1.5089550|A quantum engineer's guide to superconducting qubits|Applied Physics Reviews|Philip Krantz|OA
+ 2013|2284|10.2307/jj.18799909|Identity and Language Learning|Channel View Publications eBoo|Bonny Norton|OA
+ 2016|2171|10.1016/j.cirp.2016.05.004|Design for Additive Manufacturing: Trends, opportunities, considerations, and constraints|CIRP Annals|Mary Kathryn Thompson|OA
+ 2018|1731|10.1016/j.cemconres.2018.05.006|3D printing using concrete extrusion: A roadmap for research|Cement and Concrete Research|Richard A. Buswell|OA
+ 2021|1703|10.1109/jproc.2021.3061701|6G Wireless Systems: Vision, Requirements, Challenges, Insights, and Opportunities|Proceedings of the IEEE|Harsh Tataria|OA
+ 2023|1682|10.1016/j.resconrec.2023.107001|Conceptualizing the Circular Economy (Revisited): An Analysis of 221 Definitions|Resources Conservation and Rec|Julian Kirchherr|OA
+ 2020|1472|10.1109/access.2020.3010896|6G and Beyond: The Future of Wireless Communications Systems|IEEE Access|Ian Fuat Akyildiz|OA
+ 2017|1423|10.3390/rs9111110|Hyperspectral Imaging: A Review on UAV-Based Sensors, Data Processing and Applications for Agri|Remote Sensing|Telmo Adão|OA
+ 2005|901|10.1080/13287982.2005.11464946|Fly Ash-Based Geopolymer Concrete|Australian Journal of Structur|Djwantoro Hardjito|OA
+ 2019|824|10.1016/j.cemconres.2019.02.017|Hardened properties of 3D printed concrete: The influence of process parameters on interlayer a|Cement and Concrete Research|Rob J. M. Wolfs|OA
+ 2019|727|10.1016/j.addma.2019.100894|Additive manufacturing in construction: A review on processes, applications, and digital planni|Additive manufacturing|Alexander Paolini|OA
+ 2019|648|10.1016/j.cemconres.2019.105780|Digital Concrete: A Review|Cement and Concrete Research|Timothy P. Wangler|OA
+ 2020|595|10.1016/j.mtchem.2020.100248|Fused deposition modeling-based additive manufacturing (3D printing): techniques for polymer ma|Materials Today Chemistry|Samuel I. Clinton Daminabo|OA
+ 2019|523|10.1016/j.compositesb.2019.106968|Printability region for 3D concrete printing using slump and slump flow test|Composites Part B Engineering|Yi Wei Daniel Tay|
+ 2021|489|10.1016/j.jmrt.2021.10.108|A review on voids of 3D printed parts by fused filament fabrication|Journal of Materials Research |Yubo Tao|OA
+ 2018|464|10.3390/app8091696|A Review of the Synthesis and Applications of Polymer–Nanoclay Composites|Applied Sciences|Feng Guo|OA
+ 2024|391|10.1016/j.heliyon.2024.e24692|RETRACTED: Nanotechnology-enhanced fiber-reinforced polymer composites: Recent advancements on |Heliyon|Adib Bin Rashid|OA
+ 2021|391|10.3390/polym13111758|Effect of Printing Parameters on the Thermal and Mechanical Properties of 3D-Printed PLA and PE|Polymers|Ming-Hsien Hsueh|OA
+ 2020|384|10.3390/su12229755|Construction 4.0: A Literature Review|Sustainability|Eric Forcael|OA
+ 2018|383|10.1016/j.autcon.2018.05.005|Additive manufacturing technology and its implementation in construction as an eco-innovative s|Automation in Construction|Seyed Hamidreza Ghaffar|OA
+ 2015|383|10.1016/j.conbuildmat.2015.05.132|Mechanical properties of structures 3D printed with cementitious powders|Construction and Building Mate|Peng Feng|OA
+ 2020|358|10.3390/su12208492|A Review of 3D Printing in Construction and its Impact on the Labor Market|Sustainability|Md Aslam Hossain|OA
+ 2020|349|10.1016/j.cemconres.2020.106038|On the emergence of 3D printable Engineered, Strain Hardening Cementitious Composites (ECC/SHCC|Cement and Concrete Research|Victor C. Li|OA
+ 2004|59|10.1016/j.cemconres.2004.05.041|Delayed ettringite formation symptoms on mortars induced by high temperature due to cement heat|Cement and Concrete Research|Rémi Barbarulo|
+ 2004|30|https://openalex.org/W1499829066|Prediction of Deterioration of concrete bridges|Research Repository (Delft Uni|G.C.M. Gaal|OA
+ 2005|7|https://openalex.org/W2592729069|Design and Behavior of Precast, Prestressed Girders Made Continuous â An Analytical and Experim|VTechWorks (Virginia Tech)|Charles D. Newhouse|OA
+ 2000|6|10.1520/cca10459j|Delayed Ettringite Formation at Brewer Stadium, Boone, North Carolina|Cement Concrete and Aggregates|MA Ozol|
+ 1977|4|10.5703/1288284313950|Studies on Cement Paste and Concrete Both Made with Low Porosity Cement|Purdue e-Pubs (Purdue Universi|Carlos Gomez-Toledo|OA
+ 2002|3|10.2172/1218750|Roadmap 2030: The U.S. Concrete Industry Technology Roadmap|OSTI OAI (U.S. Department of E|none,|OA
+ 1999|3|https://openalex.org/W230822776|CRACKING OF PRESTRESSED CONCRETE IN SEAWATER|ACI Concrete International|David Stark|
+ 2004|2|10.2172/885554|Cost-Effective Cementitious Material Compatible with Yucca Mountain Repository Geochemistry|OSTI OAI (U.S. Department of E|L. R. Dole|OA
+ 2004|2|https://openalex.org/W18479240|Characterization of Pore Structure and Crack Propagation in Concrete Using X-Ray Computed Tomog|University Libraries (Universi|Opio Konata Hunter|OA
+ 1987|1|https://openalex.org/W2582496970|Behaviour of prestressed grout bond joints|Spiral (Imperial College Londo|B.C. Carroll|OA
+ 1983|1|10.5962/bhl.title.47709|Construction materials for coastal structures / by Moffatt and Nichol, engineers ; prepared for|The Center eBooks|Moffatt & Nichol, Engineers.|OA
+ 2005|0|https://openalex.org/W2307207433|Feasibility of cracking resistance on self-compacting concrete using expansive agent & three-di|Institutional Repositories Dat|明宏 謝|OA
+ 2001|0|10.17869/enu.276402|Direct electric curing of mortar and concrete|Research Output (Edinburgh Nap|Ian Heritage|OA
+ 2000|0|https://openalex.org/W800389690|The durability of precast concrete elements|Open University of Cape Town (|Phillip Dean Ronné|OA
+== concrete-circular
+ 2016|9867|10.1016/j.techfore.2016.08.019|The future of employment: How susceptible are jobs to computerisation?|Technological Forecasting and |Carl Benedikt Frey|OA
+ 2011|3144|10.1201/b11647-17|Environmental monitoring and assessment|CRC Press eBooks|Elena Aguilar|OA
+ 2020|1715|10.1007/s10311-020-01059-w|Strategies for mitigation of climate change: a review|Environmental Chemistry Letter|Samer Fawzy|OA
+ 2019|1651|10.1016/j.resconrec.2019.104553|Targets for a circular economy|Resources Conservation and Rec|Piero Morseletto|OA
+ 2016|1542|10.1016/j.rser.2016.09.107|The wood from the trees: The use of timber in construction|Renewable and Sustainable Ener|Michael H. Ramage|OA
+ 2008|1368|10.1061/%28asce%29|Alkali-Activated Slag Concrete with Recycled Aggregate: Long-Term Performance|TU/e Research Portal|Robert C. Bachus|OA
+ 2009|1362|10.1088/0034-4885/72/7/076901|LIGO: the Laser Interferometer Gravitational-Wave Observatory|Reports on Progress in Physics|B. P. Abbott|OA
+ 2014|1336|10.1016/j.conbuildmat.2014.04.117|Properties and composition of recycled aggregates from construction and demolition waste suitab|Construction and Building Mate|Rui V. Silva|
+ 2021|1263|10.3390/su13179963|Impacts of Plastic Pollution on Ecosystem Services, Sustainable Development Goals, and Need to |Sustainability|Rakesh Kumar|OA
+ 2000|1206|10.1080/10473289.2000.10464197|Combustion Aerosols: Factors Governing Their Size and Composition and Implications to Human Hea|Journal of the Air & Waste Man|JoAnn Slama Lighty|OA
+ 2015|1196|10.1155/2015/931256|A Comprehensive Survey on Particle Swarm Optimization Algorithm and Its Applications|Mathematical Problems in Engin|Yudong Zhang|OA
+ 2015|1188|10.1016/j.jclepro.2015.08.057|Performance enhancement of recycled concrete aggregate – A review|Journal of Cleaner Production|Caijun Shi|
+ 2002|1166|10.1023/a:1015519401088|Environmental Policy and Technological Change|Environmental and Resource Eco|Adam B. Jaffe|OA
+ 2009|1151|10.1016/j.nima.2009.12.009|The GENIE neutrino Monte Carlo generator|Nuclear Instruments and Method|C. Andreopoulos|OA
+ 1983|862|https://openalex.org/W1485093219|FUNDAMENTAL DESIGN PROBLEMS OF DISTRIBUTED SYSTEMS FOR THE HARD-REAL-TIME ENVIRONMENT|DSpace@MIT (Massachusetts Inst|Aloysius K. Mok|OA
+ 2020|778|10.1038/s41586-020-2448-9|Potential for large-scale CO2 removal via enhanced rock weathering with croplands|Nature|David J. Beerling|OA
+ 2012|730|10.1016/j.rser.2012.07.019|Emerging energy-efficiency and CO2 emission-reduction technologies for cement and concrete prod|Renewable and Sustainable Ener|Ali Hasanbeigi|OA
+ 2016|715|10.1038/ngeo2840|Substantial global carbon uptake by cement carbonation|Nature Geoscience|Fengming Xi|OA
+ 2019|685|10.1038/s41612-019-0093-5|Biomass waste utilisation in low-carbon products: harnessing a major potential resource|npj Climate and Atmospheric Sc|Nimisha Tripathi|OA
+ 2020|550|10.1617/s11527-020-01558-w|Understanding the carbonation of concrete with supplementary cementitious materials: a critical|Materials and Structures|Stefanie von Greve‐Dierfeld|OA
+ 2019|518|10.1088/1748-9326/ab0fe3|Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, |Environmental Research Letters|Edgar G. Hertwich|OA
+ 2022|483|10.1016/j.ccst.2022.100044|A techno-economic review on carbon capture, utilisation and storage systems for achieving a net|Carbon Capture Science & Techn|Wan Yun Hong|OA
+ 2012|464|10.4209/aaqr.2012.06.0149|CO2 Capture by Accelerated Carbonation of Alkaline Wastes: A Review on Its Principles and Appli|Aerosol and Air Quality Resear|Shu-Yuan Pan|OA
+ 2019|446|10.1038/s41467-019-09475-5|The negative emission potential of alkaline materials|Nature Communications|Phil Renforth|OA
+ 2019|435|10.3390/su11020537|Recent Progress in Green Cement Technology Utilizing Low-Carbon Emission Fuels and Raw Material|Sustainability|Ali Naqi|OA
+ 1975|344|https://openalex.org/W852592595|Large scale dynamic systems|NASA Technical Reports Server |B. F. Doolin|OA
+ 1990|229|10.1080/07421222.1990.11517888|Measuring Gains in Operational Efficiency from Information Technology: A Study of the Positran |Journal of Management Informat|Rajiv D. Banker|OA
+ 1987|209|10.1007/978-3-642-83197-3|Risk Management and Hazardous Waste|Springer eBooks|Brian Wynne|OA
+ 1977|195|10.14359/11004|Recycled Concrete as a Source of Aggregate|ACI Journal Proceedings|Alan D. Buck|OA
+ 1966|190|10.3133/pp440w|Chemistry of the iron-rich sedimentary rocks|USGS professional paper|Harold Lloyd James|OA
+ 1972|170|https://openalex.org/W1553581521|Environment and Environmental Education: Conceptual Issues and Curriculum Implications.|OhioLink ETD Center (Ohio Libr|A. M. Lucas|OA
+ 1979|107|10.3133/pp944|Relative slope stability and land-use planning in the San Francisco Bay region, California|USGS professional paper|Tor H. Nilsen|OA
+ 1990|100|10.5479/sil.501160.39088016139750|Investigating artistic environments in the ancient Near East||Ann Clyburn Gunter|OA
+ 1980|95|10.2307/2534326|Oil and Economic Performance in Industrial Countries|Brookings Papers on Economic A|William D. Nordhaus|OA
+ 1986|78|10.2172/6685301|Fuels from microalgae: Technology status, potential, and research requirements|OSTI OAI (U.S. Department of E|B. Neenan|OA
+ 1986|71|10.1007/978-3-642-82707-5|Modeling and Managing Shallow Lake Eutrophication|Springer eBooks|L. Somlyódy|OA
+ 1986|66|10.21273/hortsci.21.3.390|Orchard Floor Management: An Overview|HortScience|Walter A. Skroch|OA
+ 1983|64|10.6028/nbs.sp.647p2|The economic effects of fracture in the United States||Jules J. Duga|OA
+ 1990|62|10.1080/10473289.1990.10466766|Sources and Fates of Lead and Cadmium in Municipal Solid Waste|Journal of the Air & Waste Man|Edwin A. Korzun|OA
+== concrete-repair-grout-overlay
+ 2018|579|10.1617/s11527-017-1131-6|Challenges and opportunities in corrosion of steel in concrete|Materials and Structures|Ueli Angst|OA
+ 2013|388|https://openalex.org/W148023564|Ultra-High Performance Concrete: A State-of-the-Art Report for the Bridge Community|ROSA P|Henry G. Russell|OA
+ 2017|285|10.3390/ma10111314|Experimental Exploration of Metal Cable as Reinforcement in 3D Printed Concrete|Materials|Freek Paul Bos|OA
+ 2021|260|10.3390/rs13040672|A Review of GPR Application on Transport Infrastructures: Troubleshooting and Best Practices|Remote Sensing|Mercedes Solla|OA
+ 2021|222|10.1016/j.engstruct.2021.112380|Structural behaviour of 3D printed concrete beams with various reinforcement strategies|Engineering Structures|Lukas Gebhard|OA
+ 2018|213|10.1007/s13369-018-3303-2|A Review of Corrosion and Protection of Steel in Concrete|Arabian Journal for Science an|Arpit Goyal|OA
+ 2001|181|10.1002/app.2263|Large volume, high‐performance applications of fibers in civil engineering|Journal of Applied Polymer Sci|Victor C. Li|OA
+ 2005|172|https://openalex.org/W2338836803|Report on the Environmental Benefits and Costs of Green Roof Technology for the City of Toronto|Munich Personal RePEc Archive |Doug Banting|OA
+ 2023|166|10.3390/buildings13010185|Application of Ultra-High-Performance Concrete in Bridge Engineering: Current Status, Limitatio|Buildings|Shaker Abdal|OA
+ 2019|165|10.1007/s13349-019-00370-7|Post-collapse analysis of Morandi’s Polcevera viaduct in Genoa Italy|Journal of Civil Structural He|Maurizio Morgese|OA
+ 2023|143|10.1016/j.conbuildmat.2023.130991|A comprehensive review of cementitious grouts: Composition, properties, requirements and advanc|Construction and Building Mate|Suelen da Rocha Gomes|OA
+ 2000|119|https://openalex.org/W288541222|The History of the XV-15 Tilt Rotor Research Aircraft: From Concept to Flight|NASA STI Repository (National |Martin D. Maisel|OA
+ 2019|117|10.1016/j.jmrt.2019.02.010|Equivalent material model of corroded prestressing steel strand|Journal of Materials Research |Chi-Ho Jeon|OA
+ 2018|112|10.2174/1874836801812010251|Strengthening/Retrofitting Techniques on Unreinforced Masonry Structure/Element Subjected to Se|The Open Construction and Buil|Chuanlin Wang|OA
+ 2008|111|10.1016/j.cemconres.2008.03.007|Evaluation of natural zeolite as a viscosity-modifying agent for cement-based grouts|Cement and Concrete Research|Mustafa Şahmaran|OA
+ 2021|105|10.3390/app11209757|Non-Destructive Testing Applications for Steel Bridges|Applied Sciences|Seyed Saman Khedmatgozar Dolati|OA
+ 2022|103|10.1016/j.cscm.2022.e01265|Ultra-high-performance fiber-reinforced concrete. Part III: Fresh and hardened properties|Case Studies in Construction M|Mahmoud H. Akeed|OA
+ 2001|101|10.1016/s0925-9635(00)00544-6|A study of microstructure and nanomechanical properties of silicon incorporated DLC films depos|Diamond and Related Materials|Jinchao Zhao|OA
+ 2000|86|https://openalex.org/W2568223236|BEST PRACTICES HANDBOOK ON ASPHALT PAVEMENT MAINTENANCE|University of Minnesota Digita|Margaret Johnson|OA
+ 2016|76|10.3390/s16081343|Monitoring of Grouting Compactness in a Post-Tensioning Tendon Duct Using Piezoceramic Transduc|Sensors|Tianyong Jiang|OA
+ 2022|75|10.3390/en15010360|State of the Art Review of Reinforcement Strategies and Technologies for 3D Printing of Concret|Energies|Zhengyu Wu|OA
+ 2018|71|10.1016/j.conbuildmat.2018.08.127|Laboratory assessment of nine methods for nondestructive evaluation of concrete bridge decks wi|Construction and Building Mate|Shibin Lin|
+ 2023|64|10.3390/su151310121|Sustainable Non-Conventional Concrete 3D Printing—A Review|Sustainability|Narinder Singh|OA
+ 2003|56|10.5703/1288284313257|Investigation of Bridge Deck Cracking in Various Bridge Superstructure Systems|Purdue e-Pubs (Purdue Universi|Robert Frosch|OA
+ 2000|54|https://openalex.org/W2218996451|Materials and Methods for Corrosion Control of Reinforced and Prestressed Concrete Structures i|ROSA P|JW Smith|OA
+ 2020|52|10.1061/(asce)cf.1943-5509.0001484|Comprehensive Inspection System for Concrete Bridge Deck Application: Current Situation and Fut|Journal of Performance of Cons|Sherif Abdelkhalek|OA
+ 2004|51|https://openalex.org/W1483467571|High Performance Fiber Reinforced Cementitious Composites as Durable Material for Concrete Stru|Deep Blue (University of Michi|Victor C. Li|OA
+ 2003|46|10.5703/1288284313147|Asphalt Additives to Control Rutting and Cracking|Purdue e-Pubs (Purdue Universi|Rebecca McDaniel|OA
+ 2000|43|https://openalex.org/W570005418|Field Performance of Epoxy-Coated Reinforcing Steel in Virginia Bridge Decks|VTechWorks (Virginia Tech)|Wioleta A. Pyc|OA
+ 1992|37|10.3133/b1966|Monitoring volcanoes; techniques and strategies used by the staff of the Cascades Volcano Obser||John W. Ewert|OA
+ 1997|36|10.1006/viro.1997.8656|The Molecular Epidemiology of Human Immunodeficiency Virus Type 1 in Six Cities in Britain and |Virology|Andrew Brown|OA
+ 2024|36|10.3389/fmats.2024.1389785|Interface bonding properties of new and old concrete: A review|Frontiers in Materials|He Liu|OA
+ 2017|34|https://openalex.org/W2793453903|Field Testing of an Ultra-High Performance Concrete Overlay|ROSA P|Zachary B. Haber|OA
+ 2005|32|10.6028/nist.sp.1044|Advanced Coatings R and D for Pipelines and Related Facilities||Richard E. Ricker|OA
+ 2005|32|https://openalex.org/W639249213|Design for adaptability|University Library - Universit|Mehdi Hashemian|OA
+ 2022|29|10.1155/2022/3057801|Properties of Cementitious Repair Materials for Concrete Pavement|Advances in Materials Science |Shih Horng Yeo|OA
+ 2012|29|10.37099/mtu.dc.etds/270|Application of ultra high performance concrete (UHPC) as a thin-bonded overlay for concrete bri|Digital Commons - Michigan Tec|Sarah V. Shann|OA
+ 2021|27|10.1080/15732479.2021.1937234|Performance assessment model of non-destructive technologies in inspecting concrete bridge deck|Structure and Infrastructure E|Sherif Abdelkhalek|OA
+ 2019|25|10.1016/j.conbuildmat.2019.117280|Performance of amine cured epoxy and silica fume modified cement mortar under military airbase |Construction and Building Mate|Sukanta Kumer Shill|OA
+ 1999|25|10.5703/1288284313268|Methods of Corrosion Protection and Durability of Concrete Bridge Decks Reinforced with Epoxy-C|Purdue e-Pubs (Purdue Universi|Lisa M. Samples|OA
+== cross-chemistry
+ 2011|5022|10.3390/polym3031377|Poly Lactic-co-Glycolic Acid (PLGA) as Biodegradable Controlled Drug Delivery Carrier|Polymers|Hirenkumar K. Makadia|OA
+ 2011|4100|10.5402/2011/402647|Heavy Metals in Contaminated Soils: A Review of Sources, Chemistry, Risks and Best Available St|ISRN Ecology|Raymond Ahulle Wuana|OA
+ 2007|2852|10.1016/j.pmatsci.2007.06.001|Nature’s hierarchical materials|Progress in Materials Science|Peter Fratzl|OA
+ 2008|2714|10.1016/j.atmosenv.2007.12.010|Atmospheric polycyclic aromatic hydrocarbons: Source attribution, emission factors and regulati|Atmospheric Environment|Khaiwal Ravindra|OA
+ 2014|2425|10.1017/cbo9781107415324.015|Carbon and Other Biogeochemical Cycles|Cambridge University Press eBo|Intergovernmental Panel on Climate Change|OA
+ 2016|2405|10.1038/npjcompumats.2015.11|The ReaxFF reactive force-field: development, applications and future directions|npj Computational Materials|Thomas Patrick Senftle|OA
+ 2008|2192|10.1039/b810100k|Thermochemical biofuel production in hydrothermal media: A review of sub- and supercritical wat|Energy & Environmental Science|Andrew A. Peterson|OA
+ 2011|1826|10.1155/2011/290602|Polymeric Scaffolds in Tissue Engineering Application: A Review|International Journal of Polym|Brahatheeswaran Dhandayuthapani|OA
+ 2016|1747|10.1016/j.susmat.2016.06.002|Characteristics and adsorption capacities of low-cost sorbents for wastewater treatment: A revi|Sustainable materials and tech|Sabino De Gisi|OA
+ 2014|1670|10.1016/j.jcou.2014.12.001|Carbon capture, storage and utilisation technologies: A critical analysis and comparison of the|Journal of CO2 Utilization|Rosa M. Cuéllar-Franca|OA
+ 2010|1661|10.1039/c004106h|An overview of CO2 capture technologies|Energy & Environmental Science|Niall MacDowell|OA
+ 2014|1645|10.1016/j.conbuildmat.2014.05.080|Effect of GGBFS on setting, workability and early strength properties of fly ash geopolymer con|Construction and Building Mate|Pradip Nath|OA
+ 2004|1614|10.1029/2003rg000128|Heinrich events: Massive late Pleistocene detritus layers of the North Atlantic and their globa|Reviews of Geophysics|Sidney R. Hemming|OA
+ 1988|1586|10.1029/gb002i004p00299|Biogeochemical aspects of atmospheric methane|Global Biogeochemical Cycles|Ralph J. Cicerone|OA
+ 2009|941|10.1016/j.cemconres.2009.08.014|Hydration of calcium sulfoaluminate cements — Experimental findings and thermodynamic modelling|Cement and Concrete Research|Frank Winnefeld|OA
+ 2014|905|10.1007/s10596-014-9443-x|Reactive transport codes for subsurface environmental simulation|Computational Geosciences|Carl I. Steefel|OA
+ 2017|726|10.1002/2016rg000533|Assessing ocean alkalinity for carbon sequestration|Reviews of Geophysics|Phil Renforth|OA
+ 2015|595|10.1617/s11527-015-0724-1|The pore solution of blended cements: a review|Materials and Structures|Anya Vollpracht|OA
+ 2015|557|10.1016/j.cemconres.2015.03.019|Calcium silicate hydrates: Solid and liquid phase composition|Cement and Concrete Research|Barbara Lothenbach|OA
+ 2014|472|10.1016/j.cemconres.2014.10.015|Effect of temperature and aluminium on calcium (alumino)silicate hydrate chemistry under equili|Cement and Concrete Research|Rupert J. Myers|OA
+ 2015|399|10.1016/j.cemconres.2015.10.003|Properties of magnesium silicate hydrates (M-S-H)|Cement and Concrete Research|Dominik Nied|OA
+ 2016|391|10.1016/j.cemconres.2016.03.009|Alkali uptake in calcium alumina silicate hydrate (C-A-S-H)|Cement and Concrete Research|Emilie L’Hôpital|OA
+ 2020|381|10.1016/j.cemconres.2020.106116|Effect of relative humidity on the carbonation rate of portlandite, calcium silicate hydrates a|Cement and Concrete Research|Sarah Steiner|OA
+ 2017|369|10.1016/j.cemconres.2017.05.013|Influence of limestone on the hydration of ternary slag cements|Cement and Concrete Research|Samuel Adu-Amankwah|OA
+ 2009|355|10.1007/s10973-009-0582-6|Calorimetric and thermogravimetric study on the influence of calcium sulfate on the hydration o|Journal of Thermal Analysis an|Frank Winnefeld|OA
+ 2015|340|10.1016/j.cemconres.2015.02.025|Evolution of pore structure in blended systems|Cement and Concrete Research|Elise Berodier|OA
+ 1973|143|10.1016/0008-8846(73)90060-4|Action of triethanolamine on the hydration of tricalcium aluminate|Cement and Concrete Research|V.S. Ramachandran|OA
+ 1972|34|10.5703/1288284313831|The Nature of the Past-Aggregate Interface : Interim Report|Purdue e-Pubs (Purdue Universi|David Hadley|OA
+ 1964|29|https://openalex.org/W597940278|STUDIES OF EARLY HYDRATION REACTIONS OF PORTLAND CEMENT BY X -RAY DIFFRACTION|Highway Research Record|Paul Seligmann|
+ 1980|18|https://openalex.org/W1497688861|Factors affecting sulfate resistance of mortars|US Army Corps of Engineers: En|Katharine Mather|OA
+ 1980|17|10.70909/pca.2024.sn3128.03|Structure and Rheology of Fresh Cement Paste||RA Helmuth|OA
+ 1980|14|https://openalex.org/W34683667|Services for Mentally Handicapped People in Britain|Croom Helm eBooks|Nigel Malin|
+ 1964|13|https://openalex.org/W652164331|APPLICATION OF DIFFERENTIAL THERMAL ANALYSIS IN CEMENT RESEARCH|NPARC|V.S. Ramachandran|OA
+ 1963|11|10.1111/j.1151-2916.1963.tb11724.x|Studies of Early Stages of Paste Hydration of Different Types of Portland Cements|Journal of the American Cerami|S. Chatterji|
+ 1980|9|10.2172/6702454|Bell Canyon Test (BCT) cement grout development report|OSTI OAI (U.S. Department of E|C.W. Gulick|OA
+ 1966|9|10.6028/nbs.bss.6|Some properties of the calcium aluminoferrite hydrates||Elmer T. Carlson|OA
+ 1972|7|10.5703/1288284313840|Retarders for Concrete and Their Effects on Setting Time and Shrinkage : Interim Report|Purdue e-Pubs (Purdue Universi|Yasuhiko Yamamoto|OA
+ 1969|5|https://openalex.org/W2735720359|Sulfate soundness : sulfate attack and expansive cement in concrete|US Army Corps of Engineers: En|Bryant Mather|OA
+ 1976|4|10.5703/1288284313923|Morphology of the Paste-Aggregate Interface, Volume 1|Purdue e-Pubs (Purdue Universi|B Barnes|OA
+ 1973|3|10.5703/1288284313859|Effects of Retarding Admixtures on Plastic Shrinkage of Portland Cement Paste : Interim Report|Purdue e-Pubs (Purdue Universi|Hanume Gowda|OA
+== cross-mix
+ 2018|956|10.1016/j.powtec.2018.02.003|A review on the angle of repose of granular materials|Powder Technology|Hamzah M. B. Al-Hashemi|OA
+ 2007|508|10.1016/j.cemconcomp.2006.12.006|Effects of the molecular architecture of comb-shaped superplasticizers on their performance in |Cement and Concrete Composites|Frank Winnefeld|OA
+ 2013|495|10.1155/2013/710175|A Review on Nanomaterial Dispersion, Microstructure, and Mechanical Properties of Carbon Nanotu|Journal of Nanomaterials|Shama Parveen|OA
+ 2018|478|10.1016/j.cscm.2018.e00197|Ultra-high performance concrete: From fundamental to applications|Case Studies in Construction M|Norzaireen Mohd Azmee|OA
+ 2010|459|10.3390/ma3020918|Cement and Concrete Nanoscience and Nanotechnology|Materials|Laïla Raki|OA
+ 2022|424|10.3390/su14148783|A Comprehensive Review on the Ground Granulated Blast Furnace Slag (GGBS) in Concrete Productio|Sustainability|Jawad Ahmad|OA
+ 2017|414|10.1016/j.conbuildmat.2017.04.058|Effects of graphene oxide agglomerates on workability, hydration, microstructure and compressiv|Construction and Building Mate|Xiangyu Li|OA
+ 2008|391|10.1016/j.jcis.2008.04.052|Adsorption of polyelectrolytes and its influence on the rheology, zeta potential, and microstru|Journal of Colloid and Interfa|Anatol Zingg|OA
+ 2018|390|10.1016/j.cemconres.2018.04.007|Computational design optimization of concrete mixtures: A review|Cement and Concrete Research|M.A. DeRousseau|OA
+ 2018|314|10.1016/j.conbuildmat.2017.12.112|Design 3D printing cementitious materials via Fuller Thompson theory and Marson-Percy model|Construction and Building Mate|Yiwei Weng|OA
+ 2011|311|10.1016/j.cemconres.2011.10.008|Water demand of amorphous nano silica and its impact on the workability of cement paste|Cement and Concrete Research|G George Quercia|OA
+ 2015|295|10.1007/s40069-015-0100-0|Strength and Durability Evaluation of Recycled Aggregate Concrete|International Journal of Concr|Sherif A. Yehia|OA
+ 2013|294|10.1016/j.cemconcomp.2013.09.001|SCC modification by use of amorphous nano-silica|Cement and Concrete Composites|G George Quercia|OA
+ 2018|293|10.1016/j.conbuildmat.2018.03.109|Effect of coarse basalt aggregates on the properties of Ultra-high Performance Concrete (UHPC)|Construction and Building Mate|Peipeng Li|OA
+ 2017|293|10.1016/j.compositesb.2017.01.056|Mechanical behavior and toughening mechanism of polycarboxylate superplasticizer modified graph|Composites Part B Engineering|Li Zhao|
+ 2019|289|10.1177/1369433219858291|Development and mechanical behaviour of ultra-high-performance seawater sea-sand concrete|Advances in Structural Enginee|Jinguang Teng|OA
+ 2019|280|10.1016/j.conbuildmat.2019.01.176|Impact of graphene oxide and highly reduced graphene oxide on cement based composites|Construction and Building Mate|Tanvir Qureshi|OA
+ 2021|275|10.1016/j.cemconcomp.2021.104152|Thixotropic structural build-up of cement-based materials: A state-of-the-art review|Cement and Concrete Composites|Dengwu Jiao|OA
+ 2010|270|10.1016/j.jcis.2010.03.005|Interaction of cement model systems with superplasticizers investigated by atomic force microsc|Journal of Colloid and Interfa|Lucia Ferrari|
+ 2022|238|10.1016/j.jobe.2022.104104|Properties of geopolymers sourced from construction and demolition waste: A review|Journal of Building Engineerin|Musab Alhawat|OA
+ 2020|237|10.3390/su12156281|State-of-the-Art Review of Microbial-Induced Calcite Precipitation and Its Sustainability in En|Sustainability|Md Mizanur Rahman|OA
+ 2019|236|10.1515/secm-2019-0029|Utilization of tailings in cement and concrete: A review|Science and Engineering of Com|Mifeng Gou|OA
+ 2021|231|10.1016/j.cscm.2021.e00559|Ultra-high-performance concrete: Constituents, mechanical properties, applications and current |Case Studies in Construction M|Amin Akhnoukh|OA
+ 2020|231|10.1016/j.conbuildmat.2020.118112|Optimization and characterization of high-volume limestone powder in sustainable ultra-high per|Construction and Building Mate|Peipeng Li|OA
+ 2018|204|10.1016/j.resconrec.2018.02.034|Value added utilization of by-product electric furnace ferronickel slag as construction materia|Resources Conservation and Rec|Ashish Kumer Saha|OA
+ 2020|203|10.1016/j.jclepro.2020.121362|Self-compacting concrete manufactured with recycled concrete aggregate: An overview|Journal of Cleaner Production|Víctor Revilla‐Cuesta|OA
+ 2021|11|10.1680/jmacr.19.00559|Optimisation of aggregate gradation of ultra-high-performance concrete based on the modified co|Magazine of Concrete Research|Jinzhen Li|
+ 1929|6|10.5962/bhl.title.132976|The sand and gravel resources of New York State,|University of the State of New|Charles Merrick Nevin|OA
+ 1907|5|https://openalex.org/W1576523425|Tests of Concrete and Reinforced Concrete Columns: Series of 1907|Illinois Digital Environment f|Arthur N. Talbot|OA
+ 1925|3|10.6028/nbs.bh.6|Recommended minimum requirements for masonry wall construction :||Ira H Woolson|OA
+ 2024|2|10.1007/978-981-99-7516-7_4|Particle Packing Method of Mix Proportioning and Modified Mixing Approach|Particle Packing Method for Re|Subhasis Pradhan|
+ 2024|2|10.1007/978-981-99-7516-7|Particle Packing Method for Recycled Aggregate Concrete||Subhasis Pradhan|
+ 2012|2|10.5703/1288284315038|Optimization of Mixture Proportions for Concrete Pavements—Influence of Supplementary Cementiti||Adam Rudy|
+ 2026|1|10.1016/j.conbuildmat.2026.146777|Modification of the compressible packing model considering particle morphology effects and opti|Construction and Building Mate|Junxiu Lv|
+ 1957|0|https://openalex.org/W7167878622|Pozzolith as an admixture in concrete|UND Scholarly Commons (Univers|G. R. Eide|OA
+ 1956|0|https://openalex.org/W7167758515|Experimental determination of compressive strength of lightweight concrete made with prewetted |UND Scholarly Commons (Univers|James S Glass|OA
+ 1954|0|10.6028/nbs.circ.528|Circular of the Bureau of Standards no. 528:||National Bureau of Standards|OA
+ 1922|0|10.1016/s0016-0032(22)90461-2|Studies on cooling of fresh concrete in freezing weather|Journal of the Franklin Instit||
+ 2023|0|10.2139/ssrn.4371060|Investigation of the Fatigue Response of Bituminous Mixtures with Aggregate Gradation Following||V.  T. Thushara|
+ 2024|0|10.1007/978-981-99-7516-7_1|Background on Techniques for Sustainable Use of Recycled Aggregate and Application of Particle |Particle Packing Method for Re|Subhasis Pradhan|
+ 2026|0|10.1016/j.jobe.2026.117766|A Unified Fractal–MPT Framework for Linking Aggregate Gradation to Packing and Strength-Related|Journal of Building Engineerin|Soumia Kheira Sebsadji|
+== cross-construction
+ 2020|2612|10.1039/d0em00291g|An overview of the uses of per- and polyfluoroalkyl substances (PFAS)|Environmental Science Processe|Juliane Glüge|OA
+ 1986|1325|https://openalex.org/W1545569787|The commercial storage of fruits, vegetables, and florist and nursery stocks|Biodiversity Heritage Library |Robert E. Hardenburg|OA
+ 2016|1308|10.1039/c6ee00935b|An overview of advances in biomass gasification|Energy & Environmental Science|Vineet Singh Sikarwar|OA
+ 1900|921|10.5962/bhl.title.121748|The formation of vegetable mould, through the action of worms, with observations on their habit|Biodiversity Heritage Library |Charles Robert Darwin|OA
+ 1981|747|10.21236/ada111734|Thermal Properties of Soils|Defense Technical Information |Omar T. Farouki|OA
+ 2007|699|10.1016/j.rser.2005.12.012|Flat-plate PV-Thermal collectors and systems: A review|Renewable and Sustainable Ener|H.A. Zondag|OA
+ 2019|663|10.1016/j.matdes.2019.108397|Engineered mycelium composite construction materials from fungal biorefineries: A critical revi|Materials & Design|Mitchell P. Jones|OA
+ 1988|574|10.3133/ofr88441|Thermal properties of rocks|Antarctica A Keystone in a Cha|Eugene C. Robertson|OA
+ 2017|531|10.3832/ifor2380-010|Wood modification technologies - a review|iForest - Biogeosciences and F|Dick Sandberg|OA
+ 1983|513|10.3133/wsp2220|Basic ground-water hydrology||Ralph C. Heath|OA
+ 1931|510|10.5962/bhl.title.7218|Chemical embryology|Macmillan eBooks|Joseph Needham|OA
+ 2020|413|10.3133/mcs2020|Mineral commodity summaries 2020||U.S. Geological Survey|
+ 2014|407|10.1007/s11998-014-9595-6|Organic–inorganic hybrid sol–gel coatings for metal corrosion protection: a review of recent pr|Journal of Coatings Technology|Rita B. Figueira|OA
+ 2019|360|10.1039/c9ee02115a|Carbon-based materials for stable, cheaper and large-scale processable perovskite solar cells|Energy & Environmental Science|Lucia Fagiolari|OA
+ 2012|357|10.1016/j.cemconres.2011.10.004|Alkali–silica reactions (ASR): Literature review on parameters influencing laboratory performan|Cement and Concrete Research|Jan Lindgård|OA
+ 2014|342|10.3390/en8010172|A Numerical and Graphical Review of Energy Storage Technologies|Energies|Siraj Sabihuddin|OA
+ 2008|321|10.1029/2008je003100|Surface processes recorded by rocks and soils on Meridiani Planum, Mars: Microscopic Imager obs|Journal of Geophysical Researc|K. E. Herkenhoff|OA
+ 1908|244|10.1144/gsl.jgs.1908.064.01-04.12|On the Application of Quantitative Methods to the Study of the Structure and History of Rocks|Quarterly Journal of the Geolo|Henry Clifton Sorby|OA
+ 1850|229|10.5962/bhl.title.19476|Cosmos: a sketch of a physical description of the universe|Biodiversity Heritage Library |Alexander von Humboldt|OA
+ 1990|146|https://openalex.org/W2733377363|Dubbing and redubbing: the vulnerability of rigid designation|University of Minnesota Digita|Thomas Kühn|OA
+ 1893|115|10.5962/bhl.title.53964|A history of Crustacea : recent Malacostraca / by Thomas R. R. Stebbing.|D. Appleton and company eBooks|Thomas R. R. Stebbing|OA
+ 1978|111|10.3133/pp993|Historic ground failures in Northern California triggered by earthquakes|USGS professional paper|T. Leslie Youd|OA
+ 1966|107|10.3133/pp542c|Effects of the earthquake of March 27, 1964, at Valdez, Alaska|USGS professional paper|Henry W. Coulter|OA
+ 1989|102|10.2172/5496906|FLAC (Fast Lagrangian Analysis of Continua), Version 2. 20|OSTI OAI (U.S. Department of E|M. Board|OA
+ 2023|87|10.1007/s10924-023-02982-z|Recycling Construction, Renovation, and Demolition Plastic Waste: Review of the Status Quo, Cha|Journal of Polymers and the En|Guadalupe Santos|OA
+ 1989|86|https://openalex.org/W1494219483|Rock quality designation (RQD) after twenty years|US Army Corps of Engineers: En|Don U. Deere|OA
+ 2023|86|10.3390/ma16114149|Machine Learning-Based Predictive Model for Tensile and Flexural Strength of 3D-Printed Concret|Materials|Ammar A. Ali|OA
+ 2023|59|10.3390/cli11080165|Exploring Low-Carbon Design and Construction Techniques: Lessons from Vernacular Architecture|Climate|Ming Hu|OA
+ 2023|57|10.3390/civileng4040060|Formwork Engineering for Sustainable Concrete Construction|CivilEng|Jonny Nilimaa|OA
+ 2023|52|10.3390/eng4020089|An Overview of Smart Materials and Technologies for Concrete Construction in Cold Weather|Eng—Advances in Engineering|Jonny Nilimaa|OA
+ 2018|52|10.2172/1733359|Gaseous Carbon Waste Streams Utilization Status and Research Needs|OSTI OAI (U.S. Department of E|National Academies of Sciences, Engineering, and Medicine, Washington, DC (United States)|OA
+ 2021|47|10.1016/j.measurement.2021.109430|Experimental research on remote real-time monitoring of concrete strength for highrise building|Measurement|Zibo Zuo|OA
+ 2023|42|10.1002/9781119812012|Concrete City|Wiley eBooks|Armelle Choplin|OA
+ 2015|39|10.1155/2015/965471|Effect of Curing Temperature Histories on the Compressive Strength Development of High-Strength|Advances in Materials Science |Keun‐Hyeok Yang|OA
+ 2021|33|10.3390/ma14154102|Influence of Rapid Heat Treatment on the Shrinkage and Strength of High-Performance Concrete|Materials|Jan Stindt|OA
+ 2007|33|https://openalex.org/W2295089114|Early age concrete thermal stress measurement and modeling|Texas ScholarWorks (Texas Digi|Kyle A. Riding|OA
+ 2023|29|10.3390/pr11030673|Development of Combined Methods Using Non-Destructive Test Methods to Determine the In-Place St|Processes|Tuba Demir|OA
+ 2001|27|10.3917/her.102.0019|Le barrage des Trois Gorges|Hérodote|Thierry Sanjuan|OA
+ 2023|25|10.1007/s41062-023-01043-7|Real-time monitoring of early-age compressive strength of concrete using an IoT-enabled monitor|Innovative Infrastructure Solu|Dane Miller|OA
+ 2009|25|https://openalex.org/W319802710|Shear Strength of a PCBT-53 Girder Fabricated with Lightweight Self-Consolidating Concrete|VTechWorks (Virginia Tech)|Benjamin Z. Dymond|OA
+ 1990|8|10.14359/2519|Early-age Concrete Strength Prediction by Maturity--Another Look|ACI Materials Journal||
+ 2025|5|10.3390/buildings15081316|Low-Carbon Slag Concrete Design Optimization Method Considering the Coupled Effects of Formwork|Buildings|Li-Na Zhang|
+ 1983|3|10.14359/12166|Early Age Temperature Effects on Concrete Strength Prediction by the Maturity Method|ACI Journal Proceedings||
+ 2022|1|10.3130/aijjse.68b.0_293|EARLY STRIPPING OF FORMWORK PROPS USING FINITE ELEMENT ANALYSIS AND OPTIMIZATION|Journal of Structural Engineer|Yasunori MIZUSHIMA|
+ 2007|0|10.5703/1288284315764|Stay-In-Place (SIP) Formwork|||
+ 2005|0|10.14359/14911|FRP Stay-in-Place Formwork for Seismic Resistant High-Strength Concrete Columns|SP-230: 7th International Symp||
+ 2020|0|10.21608/bfemu.2020.131794|Effect of Aggregates on Early Age Flexural Strength and Maturity Predictions.(Dept.C)|MEJ. Mansoura Engineering Jour|A. Heniegal|
+ 1989|0|10.14359/2372|Early Concrete Strength Determination by Maturity|SP-112: Nondestructive Testing||
+== cross-mechanics
+ 1962|5448|10.1016/s0065-2156(08)70121-2|The Mathematical Theory of Equilibrium Cracks in Brittle Fracture|Advances in applied mechanics|Grigory Isaakovich Barenblatt|OA
+ 2008|2408|10.1088/1748-0221/3/08/s08005|The LHCb Detector at the LHC|Journal of Instrumentation|Antonio Augusto Alves Junior|OA
+ 2009|869|10.3390/ma2020399|Calcium Orthophosphates in Nature, Biology and Medicine|Materials|Sergey V. Dorozhkin|OA
+ 2005|824|https://openalex.org/W2294474286|DEVELOPMENT AND PROPERTIES OF LOW-CALCIUM FLY ASH-BASED GEOPOLYMER CONCRETE|eSpace (Curtin University)|Djwantoro Hardjito|OA
+ 2014|735|10.1155/2014/468510|Properties of Concrete at Elevated Temperatures|ISRN Civil Engineering|Venkatesh K.R. Kodur|OA
+ 2009|710|10.1016/j.cemconcomp.2009.09.005|Durability performance of concrete made with fine recycled concrete aggregates|Cement and Concrete Composites|Luís Evangelista|OA
+ 2009|642|10.1061/(asce)st.1943-541x.0000039|Impact Response of Reinforced Concrete Beam and Its Analytical Evaluation|Journal of Structural Engineer|Kazunori Fujikake|OA
+ 2020|631|10.1016/j.cemconres.2020.106037|Extrusion-based additive manufacturing with cement-based materials – Production steps, processe|Cement and Concrete Research|Viktor Mechtcherine|OA
+ 2014|619|10.1016/j.jrmge.2013.12.007|A review of discrete modeling techniques for fracturing processes in discontinuous rock masses|Journal of Rock Mechanics and |Andrea Lisjak|OA
+ 2006|599|10.1080/00018730300741518|Statistical models of fracture|Advances In Physics|Mikko J. Alava|OA
+ 1984|337|10.6100/ir145193|Strain-softening of concrete under multiaxial loading conditions|TU/e Research Portal|Jan G.M. van Mier|OA
+ 1986|298|https://openalex.org/W2164357131|Experimental determination of crack softening characteristics of normalweight and lightweight c|Research Repository (Delft Uni|H.A.W. Cornelissen|OA
+ 2021|293|10.1016/j.cemconcomp.2021.104295|Interpretable Ensemble-Machine-Learning models for predicting creep behavior of concrete|Cement and Concrete Composites|Minfei Liang|OA
+ 2020|283|10.1016/j.jksues.2020.07.007|A fundamental review on composite materials and some of their applications in biomedical engine|Journal of King Saud Universit|Munonyedi Egbo|OA
+ 1984|223|https://openalex.org/W96306603|Fracture Mechanics of an Elastic Softening Material like Concrete|Research Repository (Delft Uni|Hans Wolf Reinhardt|OA
+ 1986|171|https://openalex.org/W2141248092|Non-linear analysis of frictional materials|Research Repository (Delft Uni|René de Borst|OA
+ 2019|151|10.1080/23789689.2019.1593003|A review of the potential impacts of climate change on the safety and performance of bridges|Sustainable and Resilient Infr|Amro Nasr|OA
+ 2021|124|10.1016/j.cemconcomp.2021.104164|From analytical methods to numerical simulations: A process engineering toolbox for 3D concrete|Cement and Concrete Composites|Arnaud Perrot|OA
+ 2018|115|10.1038/s41467-018-04174-z|Nanoscale origins of creep in calcium silicate hydrates|Nature Communications|Ali Morshedifard|OA
+ 2016|109|10.1016/j.autcon.2016.06.010|Genetic programming for experimental big data mining: A case study on concrete creep formulatio|Automation in Construction|Amir H. Gandomi|OA
+ 2008|97|10.3846/1392-3730.2008.14.49-60|SHRINKAGE IN REINFORCED CONCRETE STRUCTURES: A COMPUTATIONAL ASPECT/BETONO TRAUKIMOSI ĮTAKA GEL|Journal of Civil Engineering a|Viktor Gribniak|OA
+ 2017|91|10.3390/ma10050471|Modeling Time-Dependent Behavior of Concrete Affected by Alkali Silica Reaction in Variable Env|Materials|Mohammed Alnaggar|OA
+ 2016|83|10.1617/s11527-016-0870-0|Evaluation of the ultimate drying shrinkage of cement-based mortars with poroelastic models|Materials and Structures|Carmelo Di Bella|OA
+ 1979|82|https://openalex.org/W1785976109|A fracture mechanics approach to failure analyses of concrete materials|Lund University Publications (|Matz Modéer|OA
+ 2017|81|10.1016/j.conbuildmat.2017.03.207|Mesoscale simulation of fatigue behavior of concrete materials damaged by freeze-thaw cycles|Construction and Building Mate|Fuyuan Gong|OA
+ 2017|79|10.1016/j.engstruct.2017.09.060|Time-variant reliability analysis of widened deteriorating prestressed concrete bridges conside|Engineering Structures|Bing Tu|OA
+ 2008|77|10.14359/20203|Unbiased Statistical Comparison of Creep and Shrinkage Prediction Models|ACI Materials Journal|Zdeněk P. Bažant|OA
+ 2018|76|10.1016/j.cemconres.2017.12.001|Microstructural effects in the simulation of creep of concrete|Cement and Concrete Research|Alain B. Giorla|OA
+ 2008|73|10.1016/j.engstruct.2008.04.009|Time-dependent deformations of limestone powder type self-compacting concrete|Engineering Structures|Gert H. K. Heirman|OA
+ 1990|16|https://openalex.org/W2334624017|Bond Strength of Epoxy-Coated Reinforcement to Concrete|KU ScholarWorks (University of|Oan Chul Choi|OA
+ 1983|11|10.3151/coj1975.21.3_19|Structure and Mechanical Properties of Concrete|Concrete Journal|Folker H. Wittmann|OA
+ 1985|10|10.1007/978-94-009-5121-1_8|Continuum Model for Progressive Cracking and Identification of Nonlinear Fracture Parameters|Springer eBooks|Zdeněk P. Bažant|
+ 1988|6|10.3151/coj1975.26.2_103||Concrete Journal|大岸 佐吉|OA
+ 1987|6|10.3151/coj1975.25.2_14|Survey of Fracture Mechanics of Concrete|Concrete Journal|Hirozo Mihashi|OA
+ 1989|3|10.1680/macr.1989.41.147.79|Fictitious crack model of concrete fracture|Magazine of Concrete Research|Rune Brincker|OA
+ 1986|2|https://openalex.org/W174316082|Fracture Behavior of Adhesive Joints in Poplar|Wood and Fiber Science (Societ|Buhnnum Kyokong|OA
+ 1987|1|10.2208/jscej.1987.380_13|APPLICATION OF FRACTURE MECHANICS TO CIVIL ENGINEERING PROBLEMS|Doboku Gakkai Ronbunshu|Committee on Structural Engineering, Structural Me|OA
+ 1984|1|https://openalex.org/W2185635790|FINITE ELEMENT ANALYSIS OF CONCRETE FRACTURE SPECIMENS|KU ScholarWorks (University of|Linda D. Leibengood|OA
+ 1970|1|10.2495/ld940221|Non-prescribed Discrete Crack Evolution InConcrete: Algorithm And Numerical Tests|WIT transactions on engineerin|Jorge Alfaiate|
+== current-2026
+ 2026|4|10.1038/s41598-026-51241-3|Impact of vaterite integration on the hydration, microstructure and performance of calcined cla|Scientific Reports|Mohammad-Hossein Nofalah|OA
+ 2026|3|10.1016/j.cemconres.2026.108316|Effects of clinker and calcined clay mineralogy on the hydration of limestone calcined clay cem|Cement and Concrete Research|Paulo Ricardo de Matos|OA
+ 2026|3|10.3390/buildings16091734|Effect of Glass Fibers and Recycled Concrete Aggregates on the Properties of Geopolymer Concret|Buildings|Mohammed Abughali|OA
+ 2026|3|10.70401/jbde.2026.0023|Sustainable utilization of waste in the 3D printed concrete|Journal of Building Design and|Junbo Sun|OA
+ 2026|3|10.1007/s41024-026-00816-8|Comparative analysis of mechanical performance in conventional and 3D-printed concrete|Journal of Building Pathology |Renny Varghese|OA
+ 2026|2|10.1007/s10230-026-01134-8|Passive Metalliferous Mine Water Treatment with Recycled Concrete Aggregate|Mine Water and the Environment|Adrian Brown P.E.|OA
+ 2026|2|10.1016/j.autcon.2026.106958|In-process reinforcement method for 3D-printed concrete layers|Automation in Construction|Chaman Modi|OA
+ 2026|1|10.1007/s43939-026-00831-z|A scientometric review of limestone calcined clay cement an unveiling trend in sustainable ceme|Discover Materials|Ibrahim Ismail Abimbola|OA
+ 2026|1|10.37650/ijce200103|Effect of Steel Fibers and Temperature on the Performance of Limestone Calcined Clay Cement Con|al-Maǧallaẗ al-ʻirāqiyyaẗ li-l|Sachin M. Gunjal|OA
+ 2026|1|10.1016/j.jobe.2026.116489|Properties and hydration mechanism of carbonated magnesium slag-calcined clay cement (CMC3)|Journal of Building Engineerin|Zhiyuan Shao|
+ 2026|1|10.3390/buildings16091776|A Comprehensive Study on Concrete Produced with Recycled Concrete Aggregate (RCA)|Buildings|Yusuf Tahir ALTUNCI|OA
+ 2026|1|10.35354/tbed.1768525|Potential use of Construction and Demolition Waste (CDW) as Recycled Concrete Aggregate|Teknik Bilimler Dergisi|Zeynep Berfin Çetinkaya|OA
+ 2026|1|10.1201/9781003563303-2|Geopolymers in pervious concrete|Routledge eBooks|Lelian W. ElKhatib|
+ 2026|0|10.14250/cement.79.104|STUDIES ON DESIGN OF LIMESTONE CALCINED CLAY CEMENT|Cement Science and Concrete Te|Sae KONDO|OA
+ 2026|0|https://openalex.org/W7205383736|Corrosion and fracture in reinforced mortars with limestone calcined clay cement|Chalmers Research (Chalmers Un|Talles Felix|OA
+ 2026|0|10.1016/j.conbuildmat.2026.147538|Evolution of the microstructure of limestone-calcined clay cement pastes exposed to CO2|Construction and Building Mate|Alicia Pachón|OA
+ 2026|0|10.1080/21650373.2026.2649517|Harnessing raw materials in cement plants for the production of limestone calcined clay cement|Journal of Sustainable Cement-|Muhammet Atasever|
+ 2026|0|10.54772/jomc.v16i01.1320|Thermodynamic modeling and life cycle assessment of limestone calcined clay cements|Tạp chí Vật liệu & Xây dựng - |Pham Hoai My|OA
+ 2026|0|10.1016/j.cscm.2026.e06570|Utilization of bayer red mud as a clay substitute in limestone-calcined clay cement (LC3)|Case Studies in Construction M|Hui Gu|OA
+ 2026|0|10.1617/s11527-026-03247-6|Effect of delayed addition of calcined clay on the rheology and performance of limestone-calcin|Materials and Structures|Jianhao Zhang|
+ 2026|0|10.1007/s40996-026-02218-9|A Meta-analytical Evaluation of the Performance Parameters of Limestone Calcined Clay Cement|Iranian Journal of Science and|Vaibhav Thakar|
+ 2026|0|10.32604/zkg.2026.081871|Unraveling the hydration mechanisms of limestone calcined clay cement: a state-of-the-art revie|ZKG International|Kevser Duru|OA
+ 2026|0|10.14250/cement.79.243|COMPRESSIVE STRENGTH AND DURABIRITY OF CONCRETE WITH LIMESTONE CALCINED CLAY CEMENT|Cement Science and Concrete Te|Sae KONDO|OA
+ 2026|0|10.1201/9781003627531-7|CO2 mineralization by recycled concrete aggregate|CRC Press eBooks|Caijun Shi|
+ 2026|0|10.63680/ijsate0726036.37|Enhancing Sustainable Geopolymer Concrete with Recycled Concrete Aggregate|International Journal of Scien|Digvijay Dattatray Rajguru|
+ 2026|0|10.25917/curtin.31866208|Improvement of Recycled Concrete Aggregates by Wet Carbonation|Figshare|Aojoy Kumar Shuvo|OA
+ 2026|0|10.1556/606.2026.01704|Properties of concrete with metakaolin and pretreated recycled concrete aggregate|Pollack Periodica|mohammed alibadi|
+ 2026|0|10.5281/zenodo.23794520|RECYCLED CONCRETE AGGREGATES USING BIS& NCA|Zenodo (CERN European Organiza|Shaik Khasim Peera|OA
+ 2026|0|10.63363/aijfr.2026.v07i02.4641|Evaluation of Pavement Performance using Recycled Concrete Aggregate|Advanced International Journal|ASHISH BUJARGE|OA
+ 2026|0|10.4186/ej.2026.30.2.1|Assessment of Concrete Composed of Recycled Concrete Aggregate, Crumb Rubber, and Recycled Sand|Engineering Journal|Harinder Devavath|OA
+ 2026|0|https://openalex.org/W7140019318|Performance of Recycled Concrete Aggregates (RCA) in Concrete Mix Design|Theseus (Ammattikorkeakoulujen|Maksim Furminski|OA
+ 2026|0|10.20900/jsr20260020|Rammed Concrete with Recycled Concrete Aggregates: Opportunities and Performances|Journal of Sustainability Rese|Luc Courard|OA
+ 2026|0|10.58532/nbennur3286c4|RECYCLED CONCRETE AGGREGATE: WASTE MANAGEMENT AND CIRCULAR ECONOMY|Iterative International Publis|Moorvi|
+ 2026|0|10.1115/1.889428_ch9|Microwave-Accelerated Curing of Reinforced Concrete Prepared by Recycled Concrete Aggregate|ASME Press eBooks|Natt Makul|
+ 2026|0|10.1201/9781003434863-5|Durability of 3D-Printed Concrete|CRC Press eBooks|Mohammed Alnaggar|
+ 2026|0|10.1201/9781003434863-18|Case Studies in 3D-Printed Concrete|CRC Press eBooks|Xiqiang Lin|
+ 2026|0|10.63363/aijfr.2026.v07i03.5114|Comparative Study of Conventional and 3D Printed Concrete|Advanced International Journal|Yash Ingale|OA
+ 2026|0|10.1201/9781003434863-2|Fresh Properties of 3D-Printed Concrete|CRC Press eBooks|Hanbin Cheng|
+ 2026|0|10.1201/9781003434863-3|Mechanical Properties of 3D-Printed Concrete|CRC Press eBooks|Fei Teng|
+ 2026|0|10.22271/27078280.2026.v7.i1a.67|Analysis and Design of 3D-Printed Concrete Walls|International Journal of Struc|Mohamed E Ibrahim|OA
+ 2026|0|10.1201/9781003434863-6|Reinforcement Strategies for 3D-Printed Concrete|CRC Press eBooks|Zhengyu Wu|
+ 2026|0|10.1007/978-981-95-8557-1_1|Foundations and Frontiers of 3D-Printed Concrete in Construction|Materials horizons|Ajay Chourasia|
+ 2026|0|10.1007/978-981-95-8557-1_7|Fire Behavior of 3D Printed Concrete|Materials horizons|Ajay Chourasia|
+ 2026|0|10.1007/s41024-026-00840-8|Drying and shrinkage of reinforced 3D printed concrete|Journal of Building Pathology |Galina Slavcheva|OA
+ 2026|0|10.3390/buildings16101852|Review on Quality Monitoring Methods for 3D Printed Concrete|Buildings|Zimo Li|OA
+ 2026|0|10.1007/978-981-95-8557-1_4|Fresh State Characteristics and Rheology of 3D-Printed Concrete|Materials horizons|Ajay Chourasia|
+ 2026|0|10.15554/pcij71.5-01|Section shapes for precast short-span ultra-high-performance concrete bridges|PCI Journal|David B. Garber|
+ 2026|0|10.30880/ijie.2026.18.05.018|Dynamic Performance Evaluation of Ultra-High-Performance Concrete Bridge: Operational Modal Ana|International Journal of Integ|Ahmad Kamil Aminuddin|OA
+ 2026|0|https://openalex.org/W7160582765|Liquid Steel-Repair of Steel Bridges with Ultra-High Performance Concrete|Purdue e-Pubs (Purdue Universi|Michael P. Culmo|
+ 2026|0|10.1201/9781003778677-336|Ultra-high performance concrete as a repair material for bridge deck overlays|CRC Press eBooks|L.S. La Banca|
+ 2026|0|10.1080/15732479.2026.2736724|Rehabilitation of concrete bridges using ultra-high performance concrete: a comprehensive revie|Structure and Infrastructure E|Shaohua He|
+ 2026|0|https://openalex.org/W7160975166|Ultra-High-Performance Concrete (UHPC) for Bridge Deck Overlay and Structural Deck Repair|Lincoln (University of Nebrask|Jiong Hu|
+ 2026|0|10.3390/buildings16040694|Seismic Performance of Corroded Precast Concrete Bridge Piers with Grouted Sleeve Connections R|Buildings|Long Ma|OA
+ 2026|0|10.7282/t3-mgwk-7d78|Finite element analysis of ultra high performance concrete as a deck overlay in continuous span|Rutgers University Community R|Anna Kostoreva|OA
+ 2026|0|10.1002/suco.70723|Material design and performance optimization of eco‐friendly manufactured sand ultra‐high perfo|Structural Concrete|Weirong Huang|
+ 2026|0|10.5281/zenodo.22749086|Ultra High-Performance Concrete (UHPC) Design, Mixing, and Commercial Application Challenges in|Zenodo (CERN European Organiza|Khaled Aldhufri|OA
+ 2026|0|https://openalex.org/W7212209534|Pretensioned ultra-high performance concrete girders for highway bridges: design, performance a|Institutional Repository of th|Kevin Augusto Cupehinski|OA
+ 2026|0|10.1016/j.conbuildmat.2026.148137|CaO-induced alkalinity for tailoring microstructure and fiber bridging in LC³ -based ultra-high|Construction and Building Mate|Zhengri Cui|
+ 2026|0|10.1007/s10518-026-02438-4|Seismic performance of integral abutment bridges with prestressed ultra-high-performance concre|Bulletin of Earthquake Enginee|Nima Pourzand|
+ 2026|0|10.14359/51750683|Flexural Behavior of Simplified Hollow Slab Bridges Strengthened with Ultra-High-Performance Co|ACI Structural Journal|Zhe Wang|
+ 2026|0|10.1016/j.istruc.2026.112314|A computational tool for determining shear capacity of joints in precast ultra-high-performance|Structures|Waleed Bin Inqiad|OA
+ 2026|0|10.64388/irev9i8-1714395|Behavior of Pervious Concrete|Iconic Research and Engineerin|Appaso B. Sonalkar|OA
+ 2026|0|https://openalex.org/W7216986244|DEVELOPMENT OF PERVIOUS CONCRETE USING GLASS FIBERS|International Journal of Engin|D LATHA1, MD SHAMSUDDIN KAIF2, DANISH KHAN3, MD MUZAMMIL4, MOHAMMED ABDUL SAMAD FURQAN5, D OMKAR6|OA
+ 2026|0|10.3390/buildings16204006|Durability Testing of Prefabricated Pervious Concrete Pavers|Buildings|Marina Škondrić|OA
+ 2026|0|10.1002/masy.70434|Reinforcing Pervious Concrete with Carbon Fiber Composites|Macromolecular Symposia|Milind V. Mohod|
+ 2026|0|https://openalex.org/W7217534805|EXPERIMENTAL ANALYSIS OF PERVIOUS CONCRETE INCORPORATING SILICA FUME|International Journal of Engin|Divyank V. More1 , Amol V. Gorle2 , Nilesh S. Biswal3 , Sachit M. Vitankar4|OA
+ 2026|0|10.66000/2819-828x.2025.01.04|Physical and Mechanical Properties of Alkali-Slag Pervious Concrete|Journal of Green Construction |Liang Xu|OA
+ 2026|0|10.36306/konjes.1744206|SUSTAINABLE ECO-FRIENDLY PERVIOUS CONCRETE PAVEMENT TECHNOLOGY: A REVIEW|Konya Journal of Engineering S|Elnour Hamed|OA
+ 2026|0|10.30574/ijsra.2026.19.1.0709|Review on sustainable pervious concrete and its hydrological performance analysis|International Journal of Scien|Nayana Gopan|OA
+ 2026|0|10.15866/irece.v17i2.27614|Behavior of Pervious Concrete as Mitigating Surface Runoff Pavement|International Review of Civil |Agung Setiawan|
+ 2026|0|10.1080/10298436.2026.2738785|Integrating compaction energy into predictive models for pervious concrete permeability|International Journal of Pavem|Asoharasa Janarth|OA
+ 2026|0|10.56726/irjmets76395|INNOVATION IN PERVIOUS CONCRETE- TOP MIX FORMULATION FOR DURABILITY AND PERMEABILITY|International Research Journal||OA
+ 2026|0|10.3390/buildings16204048|Enhancing Sulfate Attack Resistance of Pervious Concrete with Glass Powder|Buildings|Qiulin Wu|OA
+ 2026|0|10.1186/s40069-026-00926-0|Sustainable Geopolymer Pervious Concrete Pavement System|International Journal of Concr|Najib Nicolas Gerges|OA
+ 2026|0|10.6084/m9.figshare.33995529|Integrating compaction energy into predictive models for pervious concrete permeability|Figshare|Asoharasa Janarth|OA
