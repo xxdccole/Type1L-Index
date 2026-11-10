@@ -1,0 +1,124 @@
+{
+ "n": 1110,
+ "first": "R367",
+ "last": "R1476",
+ "status": {
+  "promoted": 1118,
+  "matched-verified": 23,
+  "rejected": 137,
+  "candidate": 4
+ },
+ "thisPass": {
+  "promoted": 1110,
+  "matched-verified": 4,
+  "rejected": 137,
+  "candidate": 4
+ },
+ "rejected": {
+  "duplicate": 58,
+  "off-topic": 74,
+  "not-a-real-source": 3,
+  "retracted": 1,
+  "relevance-not-established": 1
+ },
+ "open": [
+  [
+   1013,
+   "Theory and Experiments on the Mechanical Behaviour of Cracks in Plain and Reinforced Concrete Subjected to Shear Loading",
+   "TU Delft repository unreachable from this network (timeout; WebFetch 504) and no abstract in OpenAlex — Walraven & Reinhardt 1981 record exists in OpenAlex but content could not be checked"
+  ],
+  [
+   1247,
+   "Densified Cement/Ultrafine Particle-based Materials",
+   "CiNii record returned HTTP 500 and OpenAlex has no abstract — Bache (1981) DSP paper identity not checkable now"
+  ],
+  [
+   1263,
+   "THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING",
+   "TRID returned HTTP 503 (both networks) and OpenAlex has no abstract — 1974 \"Nibbler\" concrete-breaking item not checkable now"
+  ],
+  [
+   1264,
+   "AGGREGATES FROM WASTE MATERIALS",
+   "TRID record timed out/503 and OpenAlex has no abstract — 1972 \"Aggregates from waste materials\" not checkable now"
+  ]
+ ],
+ "topics": {
+  "cross-mechanics": 230,
+  "cross-durability": 180,
+  "cross-mix": 163,
+  "cross-chemistry": 156,
+  "concrete-structural": 125,
+  "binder-portland": 96,
+  "cross-environment-cost": 80,
+  "scm-slag": 79,
+  "binder-activated": 75,
+  "scm-clay": 74,
+  "cross-construction": 73,
+  "scm-flyash": 68,
+  "concrete-hpc": 64,
+  "concrete-lightweight": 63,
+  "concrete-fibers": 62,
+  "concrete-polymer-refractory": 58,
+  "concrete-precast-insitu-print": 55,
+  "scm-emerging": 55,
+  "binder-lc3": 53,
+  "binder-magnesium-carbonatable": 51,
+  "cross-tests-codes": 51,
+  "binder-cac-csa": 50,
+  "binder-well": 50,
+  "scm-silica": 50,
+  "binder-blended": 49,
+  "concrete-repair-grout-overlay": 48,
+  "concrete-shotcrete": 48,
+  "concrete-scc": 47,
+  "scm-natural": 46,
+  "concrete-pavement-pervious": 46,
+  "binder-international": 42,
+  "concrete-circular": 41,
+  "binder-specialty": 40,
+  "scm-limestone": 40,
+  "binder-white-masonry": 40,
+  "concrete-architectural": 38,
+  "concrete-heavyweight": 28,
+  "concrete-cellular": 26,
+  "concrete-mass-rcc": 18,
+  "cross-failure-repair": 15
+ },
+ "access": {
+  "abstract_metadata": 693,
+  "doi_metadata": 408,
+  "landing_page_inspected": 3,
+  "catalog_metadata": 6
+ },
+ "types": {
+  "Book chapter": 97,
+  "Conference paper": 78,
+  "Paper": 694,
+  "Preprint": 12,
+  "Book": 14,
+  "Review paper": 76,
+  "Thesis": 55,
+  "Report": 64,
+  "Standard catalogue record": 17,
+  "Statistical table": 1,
+  "Proceedings": 1,
+  "Dataset": 1
+ },
+ "decades": {
+  "1900s": 2,
+  "1910s": 1,
+  "1920s": 3,
+  "1930s": 4,
+  "1940s": 5,
+  "1950s": 9,
+  "1960s": 15,
+  "1970s": 39,
+  "1980s": 49,
+  "1990s": 81,
+  "2000s": 137,
+  "2010s": 299,
+  "2020s": 465,
+  "undated": 1
+ }
+}

@@ -247,6 +247,14 @@ else:
             dest = item.get("matchedTo")
             if dest not in resource_ids:
                 errors.append(f"matched-verified queue line does not point at an indexed resource: {dest!r}")
+        elif status == "rejected":
+            # Closed after inspection; must say why. A duplicate may point at the indexed record.
+            if not str(item.get("rejectReason") or "").strip():
+                errors.append(f"rejected queue line has no rejectReason: {item.get('title')!r}")
+            dup = item.get("duplicateOf")
+            for d in ([dup] if isinstance(dup, str) else (dup or [])):
+                if d != "still open" and d not in resource_ids:
+                    errors.append(f"rejected queue line points at an unknown resource: {d!r}")
         else:
             errors.append(f"candidate queue contains an unknown status: {status!r}")
     if n_candidates and str(n_candidates) in home_html and f"{n_candidates} resources" in home_html:

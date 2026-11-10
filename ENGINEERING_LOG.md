@@ -2,6 +2,14 @@
 
 Durable decisions and lessons only. Newest first.
 
+## 2026-11-10 — Lead verification pass
+
+**Decisions**
+- The lead verification pass promotes 1,110 verified records R367–R1476. R1–R366 stay unchanged, including ids, URLs, titles, topics, and notes.
+- 137 inspected leads are closed as `rejected`, each with a `rejectReason`. A duplicate may set `duplicateOf` to an indexed id. `scripts/check_site.py` accepts that status and still rejects any other unknown status. Four leads stay open as `candidate`.
+- Topic membership is two-sided: a resource tag is listed on that topic, and a topic membership is tagged on the resource.
+- Added dates for R367–R1476 are 2026-11-10. The data file does not store `added`; the build fills it from `lastUpdated`.
+
 ## 2026-11-10 — Deep research pass 3
 
 **Decisions**

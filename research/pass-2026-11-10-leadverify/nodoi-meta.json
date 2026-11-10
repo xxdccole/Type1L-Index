@@ -1,0 +1,3231 @@
+{
+ "KILN DUST-FLY ASH SYSTEMS FOR HIGHWAY BASES AND SUBBASES": {
+  "found": true,
+  "id": "https://openalex.org/W647157656",
+  "title": "KILN DUST-FLY ASH SYSTEMS FOR HIGHWAY BASES AND SUBBASES",
+  "doi": null,
+  "authors": [
+   "R J Collins",
+   "J Emery"
+  ],
+  "date": "1983-09-01",
+  "venue": "ROSA P",
+  "publisher": null,
+  "type": "article",
+  "landing": "http://ntlsearch.bts.gov/ntl/md.do?id=47985",
+  "locations": [
+   "http://ntlsearch.bts.gov/ntl/md.do?id=47985",
+   "https://rosap.ntl.bts.gov/view/dot/41861"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://ntlsearch.bts.gov/ntl/md.do?id=47985",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Production of lime and portland cement results in the annual generation of more than 20 million tons of kiln dust, mostly cement kiln dust. The purpose of this investigation was to determine the effectiveness of substituting kiln dusts for hydrated lime in lime-fly ash-aggregate road base systems. A total of 45 kilm dust samples, including 33 cement dusts and 12 lime dusts, were obtained in accordance with a standard sampling procedure. In addition, 18 fly ashes (including 5 Class C ash samples) and 6 aggregates were included in the sampling program. Kiln dust and fly ash samples were characterized by Trow, Ltd. to determine physical properties and chemical, as well as mineralogical, composition. Optimum kiln dust-fly ash ratios were developed for 66 mix combinations. Kiln dust-fly ash-aggregate compressive strength tests were performed. Engineering properties (durability, volume stability, etc.) of optimum mix combinations were tested and compared with conventional lime-fly ash-aggregate mixtures. Most kiln dust-fly ash-aggregate mixes were comparable to, and in many cases demonstrated higher early strength development than, lime-fly ash-aggregate mixes. Optimum mix strengths for kiln dust-fly ash-aggregate compositions were generally attained at kiln dust-fly ash ratios of 2:1 using cement liln dust and 1:1 using lime liln dust. By contrast, most lime-fly ash-aggregate mixes have lime-fly ash ratios of 1:3 or 1:4. Therefore, higher concentrations of kiln dust are required c",
+  "lang": "en",
+  "cited": 41,
+  "probeUrl": "http://ntlsearch.bts.gov/ntl/md.do?id=47985",
+  "probe": [
+   500,
+   "http://ntlsearch.bts.gov/ntl/md.do?id=47985"
+  ],
+  "curlProbe": [
+   [
+    "http://ntlsearch.bts.gov/ntl/md.do?id=47985",
+    500,
+    "http://ntlsearch.bts.gov/ntl/md.do?id=47985"
+   ],
+   [
+    "https://rosap.ntl.bts.gov/view/dot/41861",
+    403,
+    "https://rosap.ntl.bts.gov/view/dot/41861"
+   ]
+  ]
+ },
+ "EVALUATION OF SULFATE RESISTANCE OF HYDRAULIC-CEMENT MORTARS BY THE ASTM C 1012 TEST METHOD. CONCRETE DURABILITY. KATHERINE AND BRYANT MATHER INTERNATIONAL CONFERENCE, HELD AT ATLANTA, GEORGIA, USA, 27 APRIL-MAY 1987": {
+  "found": true,
+  "id": "https://openalex.org/W634746744",
+  "title": "EVALUATION OF SULFATE RESISTANCE OF HYDRAULIC-CEMENT MORTARS BY THE ASTM C 1012 TEST METHOD. CONCRETE DURABILITY. KATHERINE AND BRYANT MATHER INTERNATIONAL CONFERENCE, HELD AT ATLANTA, GEORGIA, USA, 27 APRIL-MAY 1987",
+  "doi": null,
+  "authors": [
+   "T Patzias"
+  ],
+  "date": "1987-01-01",
+  "venue": "Publication of: American Concrete Institute",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/285104",
+  "locations": [
+   "https://trid.trb.org/view/285104"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "With the adoption of the new test method ASTM C 1012-84 standard test method for length change of hydraulic-cement mortars exposed to a mixed sodium and magnesium sulfate solution, it is now possible to evaluate the performance of mortars made with portland cements, blended cements, and blends of portland cement with pozzolans or slags, in producing a sulfate resisting cement mortar. This paper is a summary of a laboratory research study performed in the dundee cement company's laboratories, parallel to the co-operative inter-laboratory testing program conducted by the ASTM subcommittee on sulfate resistance (c01.29). The purpose of the study was to provide data needed for the establishment of expansion limits for sulfate resistance. Twenty cements including portland cements and blends of type i cement with class f fly ashes used for manufacture of type ip cements at the dundee, santee, and clarksville plants of the Dundee cement company were used in the study. Data are presented showing the strength development of the companion mortar cubes and the expansions of the mortar bars measured at ages up to one year. From these data, acceptance limits on expansion were proposed for moderate and high sulfate resistance of hydraulic cements. (Author/TRRL)",
+  "lang": "en",
+  "cited": 13,
+  "probeUrl": "https://trid.trb.org/view/285104",
+  "probe": [
+   null,
+   "The read operation timed out"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/285104",
+    0,
+    "https://trid.trb.org/view/285104"
+   ]
+  ]
+ },
+ "Concrete paving blocks: an overview.": {
+  "found": true,
+  "id": "https://openalex.org/W1514398931",
+  "title": "Concrete paving blocks: an overview.",
+  "doi": null,
+  "authors": [
+   "Michael K. Abate"
+  ],
+  "date": "1993-08-11",
+  "venue": "Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School)",
+  "publisher": "Naval Postgraduate School",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/10945/24133",
+  "locations": [
+   "http://hdl.handle.net/10945/24133",
+   "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA269155",
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a269155.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10945/24133",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "There is a widespread perception in the U.S. that a concrete block pavement (CBP) is an untried pavement alternative. However, each year more of these pavements are being installed. The available literature concerning this type of pavement is limited in the U.S. as most research papers are published elsewhere. This report examines CBP's from several perspectives in order to provide an overview of this alternative pavement technology. First, the CBP system is described. The importance of using the proper bedding sand gradations is stressed and the phenomenon of lock-up, or interlock, is explained. The various design methods for CBP's are also presented. Here, the concept of equivalency factors is discussed. Next, the structural performance of several CBP projects varying from 1 to 10 years are reviewed. Finally, the range of,, CBP costs in the Puget Sound area are provided, and a review of those prices paid by WSDOT for asphaltic concrete and Portland cement concrete is made to determine cost competitiveness with a CBP. Concrete paving blocks, Pavement performance, Pavement design, Pavement costs",
+  "lang": "en",
+  "cited": 3,
+  "probeUrl": "http://hdl.handle.net/10945/24133",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10945/24133"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/10945/24133",
+    500,
+    "http://hdl.handle.net/10945/24133"
+   ],
+   [
+    "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA269155",
+    500,
+    "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA269155"
+   ],
+   [
+    "https://apps.dtic.mil/dtic/tr/fulltext/u2/a269155.pdf",
+    200,
+    "https://apps.dtic.mil/landingpage/maint.html"
+   ]
+  ]
+ },
+ "Soil stabilisation using some pozzolanic industrial and agricultural products": {
+  "found": true,
+  "id": "https://openalex.org/W125130860",
+  "title": "Soil stabilisation using some pozzolanic industrial and agricultural products",
+  "doi": null,
+  "authors": [
+   "Chassan Chmeisse"
+  ],
+  "date": "1992-01-01",
+  "venue": "Research Online (University of Wollongong)",
+  "publisher": "University of Wollongong",
+  "type": "dissertation",
+  "landing": "https://ro.uow.edu.au/theses/1268",
+  "locations": [
+   "https://ro.uow.edu.au/theses/1268",
+   "https://figshare.com/articles/thesis/Soil_stabilisation_using_some_pozzolanic_industrial_and_agricultural_products/27646944",
+   "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Rice husk ash (RHA) and granulated blast furnace slag (GBFS) have been investigated as pozzolanic materials for soil stabilisation. They contain siliceous and aluminous materials, and react with lime or cement, having the economic potential to replace some of the lime or cement presently used as an additive in the stabilisation of soil.\\nFour (4) types of soils were treated with varying quantities of lime, cement, rice husk ash, granulated blast furnace slag, combinations of rice husk ash with lime or cement and combinations of granulated blast furnace slag with lime or cement under laboratory conditions.\\nTo determine the effectiveness of RHA and GBFS as stabilisers, general geotechnical soil properties, including unconfined compressive strength, undrained shear strength, CBR, plasticity index and linear shrinkage, were measured. X-ray diffraction analysis, scanning electron microscopy and a repeated dynamic load test were also carried out in this investigation.\\nIt is revealed that rice husk ash alone is not suitable for modifying soil properties, however, beneficial results are obtained when it is used in combinations with lime or cement. It is shown that lime-rice husk ash and cement rice-husk ash additives increase the unconfined compressive strength, the CBR and the undrained shear strength of soils. They also improve the behaviour of soils under the action of repeated dynamic loads and improve the workability and volume stability of soils.\\nIt is revealed that granulat",
+  "lang": "en",
+  "cited": 3,
+  "probeUrl": "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses",
+  "probe": [
+   202,
+   "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses"
+  ],
+  "curlProbe": [
+   [
+    "https://ro.uow.edu.au/theses/1268",
+    202,
+    "https://ro.uow.edu.au/theses/1268"
+   ],
+   [
+    "https://figshare.com/articles/thesis/Soil_stabilisation_using_some_pozzolanic_industrial_and_agricultural_products/27646944",
+    403,
+    "https://figshare.com/articles/thesis/Soil_stabilisation_using_some_pozzolanic_industrial_and_agricultural_products/27646944"
+   ],
+   [
+    "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses",
+    403,
+    "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2268&context=theses"
+   ]
+  ]
+ },
+ "THE EFFECT OF POZZOLANS AND SLAGS ON THE SULFATE RESISTANCE OF HYDRUALIC CEMENT MORTARS. CONCRETE DURABILITY. KATHERINE AND BRYANT MATHER INTERNATIONAL CONFERENCE, HELD AT ATLANTA, GEORGIA, USA, 27 APRIL-MAY 1987": {
+  "found": true,
+  "id": "https://openalex.org/W623555018",
+  "title": "THE EFFECT OF POZZOLANS AND SLAGS ON THE SULFATE RESISTANCE OF HYDRUALIC CEMENT MORTARS. CONCRETE DURABILITY. KATHERINE AND BRYANT MATHER INTERNATIONAL CONFERENCE, HELD AT ATLANTA, GEORGIA, USA, 27 APRIL-MAY 1987",
+  "doi": null,
+  "authors": [
+   "G. Sam Wong",
+   "Toy S. Poole"
+  ],
+  "date": "1987-01-01",
+  "venue": "Publication of: American Concrete Institute",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/285105",
+  "locations": [
+   "https://trid.trb.org/view/285105"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "This paper reviews the sulfate resistance of mortars made using type ip and is cements and blends of portland cement and pozzolans produced in the US during the late 1970's and early 1980's. These data were obtained during the development of ASTM c 1012. Data were expressed as rates of expansion. Two analyses were performed. First, a comparative analysis of sulfate-resistance properties among the various cements was performed. Type ip cements were found to perform as well as type II cements and, in some cases, as well as type v cements. The performance of type is cements was variable. Pozzolans blended with portland cements generally improved resistance to sulfate attack, but with some cements, the improvement was not to the level of type II cements. Second, the relationship between commonly measured properties of pozzolans and the effect these pozzolans have on the sulfate resistance of portland-pozzolan cements was examined by multiple regression. Fineness (blaine) of pozzolans was found to correlate strongly with rates of expansion in two cements which were highly susceptible to sulfate attack. When the same pozzolans were blended with another less reactive cement, the sulfate content of these pozzolans correlated with rates of expansion. (Author/TRRL)",
+  "lang": "en",
+  "cited": 3,
+  "probeUrl": "https://trid.trb.org/view/285105",
+  "probe": [
+   null,
+   "The read operation timed out"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/285105",
+    0,
+    "https://trid.trb.org/view/285105"
+   ]
+  ]
+ },
+ "Technology of cement production : issues and options for developing countries": {
+  "found": true,
+  "id": "https://openalex.org/W1567150643",
+  "title": "Technology of cement production : issues and options for developing countries",
+  "doi": null,
+  "authors": [
+   "R Aadam Mohamed Ibrahim"
+  ],
+  "date": "1986-01-01",
+  "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+  "publisher": "Massachusetts Institute of Technology",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/1721.1/44654",
+  "locations": [
+   "http://hdl.handle.net/1721.1/44654",
+   "https://dspace.mit.edu/handle/1721.1/44654"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1721.1/44654",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Thesis (M.S.)--Massachusetts Institute of Technology, Dept. of Civil Engineering, 1986.",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "http://hdl.handle.net/1721.1/44654",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1721.1/44654"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1721.1/44654",
+    500,
+    "http://hdl.handle.net/1721.1/44654"
+   ],
+   [
+    "https://dspace.mit.edu/handle/1721.1/44654",
+    200,
+    "https://dspace.mit.edu/entities/publication/56233bf0-bf7d-4508-867a-21c0813a91f5"
+   ]
+  ]
+ },
+ "The production of sulphate-resisting and marine cements from local raw materials": {
+  "found": true,
+  "id": "https://openalex.org/W3096817625",
+  "title": "The production of sulphate-resisting and marine cements from local raw materials",
+  "doi": null,
+  "authors": [
+   "Dennis Le Sar"
+  ],
+  "date": "1964-01-01",
+  "venue": "Open University of Cape Town (University of Cape Town)",
+  "publisher": "University of Cape Town",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/11427/23276",
+  "locations": [
+   "http://hdl.handle.net/11427/23276",
+   "https://open.uct.ac.za/bitstream/11427/23276/1/Le_Sar_production_sulphate_1964.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://open.uct.ac.za/bitstream/11427/23276/1/Le_Sar_production_sulphate_1964.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "https://open.uct.ac.za/bitstream/11427/23276/1/Le_Sar_production_sulphate_1964.pdf",
+  "probe": [
+   200,
+   "https://open.uct.ac.za/server/api/core/bitstreams/a6714c1f-51dc-4ad1-8f07-abe9ee9dfac7/content"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/11427/23276",
+    500,
+    "http://hdl.handle.net/11427/23276"
+   ],
+   [
+    "https://open.uct.ac.za/bitstream/11427/23276/1/Le_Sar_production_sulphate_1964.pdf",
+    200,
+    "https://open.uct.ac.za/server/api/core/bitstreams/a6714c1f-51dc-4ad1-8f07-abe9ee9dfac7/content"
+   ]
+  ]
+ },
+ "Binding of external chlorides by cement pastes": {
+  "found": true,
+  "id": "https://openalex.org/W2790467727",
+  "title": "Binding of external chlorides by cement pastes",
+  "doi": null,
+  "authors": [
+   "Hassan Zibara"
+  ],
+  "date": "2001-01-01",
+  "venue": "Library and Archives Canada (Government of Canada)",
+  "publisher": "Government of Canada",
+  "type": "dissertation",
+  "landing": "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf",
+  "locations": [
+   "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf",
+   "http://hdl.handle.net/1807/15366",
+   "https://tspace.library.utoronto.ca/bitstream/1807/15366/1/NQ63607.pdf"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Chloride-induced reinforcement corrosion is the dominant cause of premature deterioration of reinforced concrete structures worldwide. The need to quantify the durability of new and existing structures led to the development of service life prediction models. This requires a clear understanding of the mechanisms of chloride penetration into concrete cover. This research looks into chloride binding when chlorides are introduced after the hydration of cement. Highlights of this research include the X-ray diffraction (XRD) results which provide insight into some mechanisms of chloride binding. They show that several calcium aluminate hydrates (C-A-H), including monosulphate, convert to Friedel's salt. The monosulphate converts Kuzel's salt at low concentrations before transforming into Friedel's salt at higher concentrations. Evidence suggests that ettringite starts converting to Friedel's salt at high chloride concentration. Friedel's salt peaks kept increasing at chloride exposures above 1.0 M, indicating that chemical binding is not exhausted at low chloride concentrations. The results indicate the chloride binding capacity of cement paste results from the contribution of hydrates of different cement phases. The C3 A has a strong effect on chloride binding, especially at high chloride concentrations (1.0- 3.0 M). Evidence from synthetic compound pastes and cement pastes indicate that C4AF, C3S, and C 2S bind chlorides and significantly contribute to the binding capacity. The ",
+  "lang": "en",
+  "cited": 127,
+  "probeUrl": "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf",
+  "probe": [
+   500,
+   "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf"
+  ],
+  "curlProbe": [
+   [
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf",
+    500,
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk3/ftp04/NQ63607.pdf"
+   ],
+   [
+    "http://hdl.handle.net/1807/15366",
+    500,
+    "http://hdl.handle.net/1807/15366"
+   ],
+   [
+    "https://tspace.library.utoronto.ca/bitstream/1807/15366/1/NQ63607.pdf",
+    200,
+    "https://utoronto.scholaris.ca/server/api/core/bitstreams/0f60a94b-c14a-4cc0-855d-238a36bf4629/content"
+   ]
+  ]
+ },
+ "Evaluation of Metakaolins for Use as Supplementary Cementitious Materials": {
+  "found": true,
+  "id": "https://openalex.org/W2183437758",
+  "title": "Evaluation of Metakaolins for Use as Supplementary Cementitious Materials",
+  "doi": null,
+  "authors": [
+   "Joy Melissa Justice"
+  ],
+  "date": "2005-04-20",
+  "venue": "UPT. Syiah Kuala University Library (Syiah Kuala University)",
+  "publisher": "Universitas Syiah Kuala",
+  "type": "dissertation",
+  "landing": "http://uilis.unsyiah.ac.id/opentheses/items/show/9672",
+  "locations": [
+   "http://uilis.unsyiah.ac.id/opentheses/items/show/9672",
+   "http://hdl.handle.net/1853/6936",
+   "https://www.metakaolin.ru/Documents/EvaluatioOfMetakaolins.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1853/6936",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Two metakaolins were evaluated for use as supplementary cementitious materials in cement-based systems. The metakaolins varied in their surface area (11.1 v. 25.4 m2/g), but were quite similar in mineralogical composition. Performance of metakaolin mixtures was compared to control mixtures and to mixtures incorporating silica fume as partial replacement for cement at water-to-cementitious materials ratios of 0.40, 0.50, and 0.60. In this study, the early age properties of fresh concrete and the mechanical and durability properties of hardened concrete were examined. Early age evaluations aimed to determine the reactivity of metakaolin (heat of hydration) and its effect on mixture workability (slump, setting time, unit weight). In addition, three types of shrinkage were monitored in metakaolin-cement systems: chemical, autogenous, and free. Compressive, tensile, and flexural strength and elastic modulus were measured at various concrete ages. The influence of metakaolin addition on durability was assessed through accelerated testing for sulfate resistance, expansion due to alkali-silica reaction, and through rapid chloride permeability measurements. \\n\\t\\nTo further quantify the underlying mechanisms of metakaolin's action, the microstructure of pastes was examined. Calcium hydroxide (CH) content was determined using thermogravimetric analysis and verified using differential thermal analysis. Surface area and pore size distribution were evaluated via nitrogen adsorption. These",
+  "lang": "en",
+  "cited": 42,
+  "probeUrl": "http://hdl.handle.net/1853/6936",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1853/6936"
+  ],
+  "curlProbe": [
+   [
+    "http://uilis.unsyiah.ac.id/opentheses/items/show/9672",
+    500,
+    "http://uilis.unsyiah.ac.id/opentheses/items/show/9672"
+   ],
+   [
+    "http://hdl.handle.net/1853/6936",
+    500,
+    "http://hdl.handle.net/1853/6936"
+   ],
+   [
+    "https://www.metakaolin.ru/Documents/EvaluatioOfMetakaolins.pdf",
+    404,
+    "https://www.metakaolin.ru/Documents/EvaluatioOfMetakaolins.pdf"
+   ]
+  ]
+ },
+ "High reactivity metakaolin": {
+  "found": true,
+  "id": "https://openalex.org/W2382795866",
+  "title": "High reactivity metakaolin",
+  "doi": null,
+  "authors": [
+   "Hui Xu"
+  ],
+  "date": "2005-01-01",
+  "venue": "Concrete",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://en.cnki.com.cn/Article_en/CJFDTOTAL-HLTF200511013.htm",
+  "locations": [
+   "https://en.cnki.com.cn/Article_en/CJFDTOTAL-HLTF200511013.htm"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Metakaolin was prepared with kaolin by heat-treated technique that contained a great deal of amorphous SiO_2 and Al_2O_3.Affecting factors for the activity of metakaolin,burning temperature,burning time and contents of SiO_2 and Al_2O_3,were discussed through orthogonal tests.Activity index of Metakaolin was 114 that was larger by 11.8% than that of silica fume.Metakaolin with high pozzolanic activity,a new kind of mineral admixture,can be used to prepare high strength concrete.The compressive strength of MK concrete with water-cementitious materials ratio equal to 0.375 was 73.9 MPa which contained 10% MK.Geopolymer with amorphous to semi-crystalline structure was prepared with metakaolin activated by alkali activators.Its compressive strengths in early time were high reaching 55.8MPa cured at 60°Cfor 3 hours and 58.5 MPa cured at room temperature for 1 day.",
+  "lang": "en",
+  "cited": 22,
+  "probeUrl": "https://en.cnki.com.cn/Article_en/CJFDTOTAL-HLTF200511013.htm",
+  "probe": [
+   null,
+   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
+  ],
+  "curlProbe": [
+   [
+    "https://en.cnki.com.cn/Article_en/CJFDTOTAL-HLTF200511013.htm",
+    0,
+    "https://en.cnki.com.cn/Article_en/CJFDTOTAL-HLTF200511013.htm"
+   ]
+  ]
+ },
+ "The Development of Precast Exposed Aggregate Concrete Cladding: The Legacy of John J. Earley and the Implications for Preservation Philosophy": {
+  "found": true,
+  "id": "https://openalex.org/W2124079894",
+  "title": "The Development of Precast Exposed Aggregate Concrete Cladding: The Legacy of John J. Earley and the Implications for Preservation Philosophy",
+  "doi": null,
+  "authors": [
+   "Jenna Cellini"
+  ],
+  "date": "2008-01-01",
+  "venue": "Scholarly Commons (University of Pennsylvania)",
+  "publisher": "University of Pennsylvania",
+  "type": "dissertation",
+  "landing": "https://repository.upenn.edu/hp_theses/97",
+  "locations": [
+   "https://repository.upenn.edu/hp_theses/97",
+   "https://repository.upenn.edu/handle/20.500.14332/37330",
+   "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1099&context=hp_theses"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://repository.upenn.edu/hp_theses/97",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This thesis seeks to explore the development of a building material with regards to its durability and production. It does so in the examination of the advances in material understanding and technique with regards to a unique twentieth century material – precast exposed aggregate concrete. Tested, refined and later patented by craftsman John J. Earley, the precise process of creating exposed aggregate concrete cladding (today known as the MoSai technique) holds unique implications for its preservation. Analyzing what Earley - and those who helped refine the MoSai process over the years - understood with regards to the material's properties will determine whether the material's evolved production has preservation implications inherent to the process. The way in which Earley approached perfecting precast exposed aggregate concrete paneling will also assert his place in architectural history beyond the development of a durable, permanent material; his Earley Process has had lasting influences on today's standards and production – separating today's materials from their traditional predecessors and thus, potentially affecting how preservationists view all modern materials as they ready themselves for the future of their work.",
+  "lang": "en",
+  "cited": 5,
+  "probeUrl": "https://repository.upenn.edu/hp_theses/97",
+  "probe": [
+   200,
+   "https://repository.upenn.edu/items/98691865-c4a0-4e61-9aa4-3188e89c023c"
+  ],
+  "curlProbe": [
+   [
+    "https://repository.upenn.edu/hp_theses/97",
+    200,
+    "https://repository.upenn.edu/items/98691865-c4a0-4e61-9aa4-3188e89c023c"
+   ]
+  ]
+ },
+ "Research on the restoration of heritage structures: Portland cement and concrete repair applications and repercussions": {
+  "found": true,
+  "id": "https://openalex.org/W176792735",
+  "title": "Research on the restoration of heritage structures: Portland cement and concrete repair applications and repercussions",
+  "doi": null,
+  "authors": [
+   "Logan Strenchock"
+  ],
+  "date": "2009-07-13",
+  "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "publisher": "LA Referencia",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/2099.1/8277",
+  "locations": [
+   "http://hdl.handle.net/2099.1/8277",
+   "http://hdl.handle.net/2099.1/8277",
+   "http://hdl.handle.net/2099.1/8277",
+   "https://upcommons.upc.edu/bitstream/2099.1/8277/1/01.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/2099.1/8277",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This paper presents a study of the lasting effects of Portland cement and concrete’s\\nacceptance as a restoration material after the technology came of age in the early 20th\\ncentury. The paper will highlight the development of modern cement technology while\\nalso explaining how it came to be accepted as a viable option in the restoration of\\nheritage structures, and the eventual repercussions of such techniques.\\nPresented in the document are the techniques of early restorations and the most\\ncommon methods utilized during the grand period of reinforced concrete intervention\\nthat occurred during the mid 20th century. After highlighting the various techniques, the\\nmechanisms and modes of deterioration that have plagued such affected structures in\\nthe years following intervention will be presented, and likely causes will be identified.\\nForms of chemical, mechanical, and structural deficiencies all related to the addition of\\nreinforced concrete in systems will be mentioned, and relevant examples will be cited\\nthrough the use of case studies, with hopes of bringing greater clarity to previously\\nmentioned information within the document. Case studies will be presented where\\nlessons were learned from failures resulting from inadequate restoration practices.\\nThe document will conclude with a summary of all presented material and suggestions\\non what was learned throughout in the years following case studies where failure,\\ndeterioration, and premature degradation were indu",
+  "lang": "en",
+  "cited": 4,
+  "probeUrl": "http://hdl.handle.net/2099.1/8277",
+  "probe": [
+   500,
+   "http://hdl.handle.net/2099.1/8277"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2099.1/8277",
+    500,
+    "http://hdl.handle.net/2099.1/8277"
+   ],
+   [
+    "https://upcommons.upc.edu/bitstream/2099.1/8277/1/01.pdf",
+    418,
+    "https://upcommons.upc.edu/bitstream/2099.1/8277/1/01.pdf"
+   ]
+  ]
+ },
+ "Architectural Precast Concrete Wall Panels: Their Technological Evolution, Significance, and Preservation": {
+  "found": true,
+  "id": "https://openalex.org/W2411437259",
+  "title": "Architectural Precast Concrete Wall Panels: Their Technological Evolution, Significance, and Preservation",
+  "doi": null,
+  "authors": [
+   "Grace Meloy"
+  ],
+  "date": "2016-01-01",
+  "venue": "ScholarlyCommons (University of Pennsylvania)",
+  "publisher": "University of Pennsylvania",
+  "type": "article",
+  "landing": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+  "locations": [
+   "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+   "https://repository.upenn.edu/handle/20.500.14332/37158",
+   "https://repository.upenn.edu/hp_theses/608/"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Architectural precast concrete wall panels played an important role in mid-twentieth century architecture by providing a concrete technology that could be applied to the curtain wall system of construction utilized in this time period. Moreover, the precasting process, which enabled the controlled production of expressive facing concrete mixes and surface treatments and finishes, made this a concrete technology that could contribute to the architectural expression of the building. To promote the preservation of these panels, this thesis investigates and illuminates their historical and architectural significance in the United States in the mid-twentieth century.\\nThere are, however, numerous technical challenges to the physical preservation of architectural precast wall panels, the most significant of which is due to their specially designed concrete mix and surface finish. Given the importance of preserving these characteristics, the general retroactive preservation action of applying patches to deteriorated concrete is unsatisfactory; instead, we must adopt a preventive approach. Towards this end, this thesis examines documents published in the United States between 1945 and 1975 that informed the design, production, and assembly of architectural precast wall panels. The information from these documents is used to trace the technological evolution of these panels and, ultimately, to identify potential material vulnerabilities and associated deterioration mechanisms to which",
+  "lang": "en",
+  "cited": 3,
+  "probeUrl": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+  "probe": [
+   200,
+   "https://repository.upenn.edu/"
+  ],
+  "curlProbe": [
+   [
+    "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1607&context=hp_theses",
+    200,
+    "https://repository.upenn.edu/"
+   ]
+  ]
+ },
+ "Reinforced Concrete Construction in Theory and Practice: An Elementary Manual for Students and Others": {
+  "found": true,
+  "id": "https://openalex.org/W1490146668",
+  "title": "Reinforced Concrete Construction in Theory and Practice: An Elementary Manual for Students and Others",
+  "doi": null,
+  "authors": [
+   "Henry Adams"
+  ],
+  "date": "2010-01-01",
+  "venue": null,
+  "publisher": null,
+  "type": "book",
+  "landing": "https://ci.nii.ac.jp/ncid/BA68192111",
+  "locations": [
+   "https://ci.nii.ac.jp/ncid/BA68192111"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "https://ci.nii.ac.jp/ncid/BA68192111",
+  "probe": [
+   200,
+   "https://ci.nii.ac.jp/ncid/BA68192111"
+  ],
+  "curlProbe": [
+   [
+    "https://ci.nii.ac.jp/ncid/BA68192111",
+    200,
+    "https://ci.nii.ac.jp/ncid/BA68192111"
+   ]
+  ]
+ },
+ "Sectional analysis of reinforced concrete members": {
+  "found": true,
+  "id": "https://openalex.org/W80885101",
+  "title": "Sectional analysis of reinforced concrete members",
+  "doi": null,
+  "authors": [
+   "Evan C. Bentz"
+  ],
+  "date": "2000-10-01",
+  "venue": "Library and Archives Canada (Government of Canada)",
+  "publisher": "Government of Canada",
+  "type": "dissertation",
+  "landing": "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf",
+  "locations": [
+   "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf",
+   "http://hdl.handle.net/1807/13811",
+   "https://tspace.library.utoronto.ca/bitstream/1807/13811/1/NQ49840.pdf"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Four easy to use programs have been written that allow for state of the art sectional analysis of reinforced concrete blocks, plates, beams, columns and shells. Unlike most sectional analysis programs, these programs include the effects of shear on behaviour. They are based on the assumption that plane sections remain plane, that there is no transverse clamping stress, and that the biaxial behaviour can be modelled well by the Modified Compression Field Theory (MCFT). Each of these assumptions is shown to be reasonable. The programs are freely available on the World Wide Web at the listed addresses: http://www.ecf.utoronto.ca/ ~bentz/m2k.htm Membrane-2000 for plates http://www.ecf.utoronto.ca/ ~bentz/r2k.htm Response-2000 for beams and columns http://www.ecf.utoronto.ca/ ~bentz/t2k.htm Triax-2000 for 3D blocks http://www.ecf.utoronto.ca/ ~bentz/s2k.htm Shell-2000: shells with out-of-plane forces This thesis describes the MCFT in detail as implemented in the programs as well as explaining new constitutive relations employed for the behaviour of concrete in tension. The strongest feature of the new programs is the employment of the longitudinal stiffness method, developed for this thesis, which calculates the shear stress profile for a beam or shell much faster and with more numerical stability than the previous state of the art. The programs are verified against a set of experiments as well as against two new shear experiments performed for this thesis. They indicate the progr",
+  "lang": "en",
+  "cited": 363,
+  "probeUrl": "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf",
+  "probe": [
+   500,
+   "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf"
+  ],
+  "curlProbe": [
+   [
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf",
+    500,
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape4/PQDD_0027/NQ49840.pdf"
+   ],
+   [
+    "http://hdl.handle.net/1807/13811",
+    500,
+    "http://hdl.handle.net/1807/13811"
+   ],
+   [
+    "https://tspace.library.utoronto.ca/bitstream/1807/13811/1/NQ49840.pdf",
+    200,
+    "https://utoronto.scholaris.ca/server/api/core/bitstreams/c857dac2-56e1-4d8d-8445-326c3422bd1c/content"
+   ]
+  ]
+ },
+ "Theory and Experiments on the Mechanical Behaviour of Cracks in Plain and Reinforced Concrete Subjected to Shear Loading": {
+  "found": true,
+  "id": "https://openalex.org/W2146241768",
+  "title": "Theory and Experiments on the Mechanical Behaviour of Cracks in Plain and Reinforced Concrete Subjected to Shear Loading",
+  "doi": null,
+  "authors": [
+   "Joost Walraven",
+   "Hans Wolf Reinhardt"
+  ],
+  "date": "1981-01-01",
+  "venue": "Research Repository (Delft University of Technology)",
+  "publisher": "Delft University of Technology",
+  "type": "article",
+  "landing": "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+  "locations": [
+   "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+   "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+   "https://repository.tudelft.nl/islandora/object/uuid%3A3d68bd1a-465d-4590-b33c-7ede99bbc251/datastream/OBJ/download"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "theory and experiments ......",
+  "lang": "en",
+  "cited": 295,
+  "probeUrl": "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+  "probe": [
+   500,
+   "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251"
+  ],
+  "curlProbe": [
+   [
+    "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251",
+    500,
+    "http://resolver.tudelft.nl/uuid:3d68bd1a-465d-4590-b33c-7ede99bbc251"
+   ],
+   [
+    "https://repository.tudelft.nl/islandora/object/uuid%3A3d68bd1a-465d-4590-b33c-7ede99bbc251/datastream/OBJ/download",
+    0,
+    "https://repository.tudelft.nl/islandora/object/uuid%3A3d68bd1a-465d-4590-b33c-7ede99bbc251/datastream/OBJ/download"
+   ]
+  ]
+ },
+ "Engineered Cementitious Composites (ECC) - Tailored Composites Through Micromechanical Modeling": {
+  "found": true,
+  "id": "https://openalex.org/W1605710201",
+  "title": "Engineered Cementitious Composites (ECC) - Tailored Composites Through Micromechanical Modeling",
+  "doi": null,
+  "authors": [
+   "Victor C. Li"
+  ],
+  "date": "1998-01-01",
+  "venue": "Deep Blue (University of Michigan)",
+  "publisher": "University of Michigan",
+  "type": "book-chapter",
+  "landing": "http://hdl.handle.net/2027.42/84667>",
+  "locations": [
+   "http://hdl.handle.net/2027.42/84667>",
+   "http://deepblue.lib.umich.edu/bitstream/2027.42/84667/1/csce_tailoredecc_98.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://hdl.handle.net/2027.42/84667",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This article provides a brief overview of several classes of fiber reinforced cement based composites and suggests future directions in FRC development.Special focus is placed on micromechanics based design methodology of strain-hardening cement based composites.As example, a particular engineered cementitious composite newly developed at the ACE-MRL at the University of Michigan is described in detail with regard to its design, material composition, processing, and mechanical properties.Three potential applications which utilize the unique properties of such composites are cited in this paper, and future research needs are identified.",
+  "lang": "en",
+  "cited": 241,
+  "probeUrl": "https://hdl.handle.net/2027.42/84667",
+  "probe": [
+   403,
+   "https://hdl.handle.net/2027.42/84667"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2027.42/84667>",
+    400,
+    "http://hdl.handle.net/2027.42/84667>"
+   ],
+   [
+    "http://deepblue.lib.umich.edu/bitstream/2027.42/84667/1/csce_tailoredecc_98.pdf",
+    500,
+    "http://deepblue.lib.umich.edu/bitstream/2027.42/84667/1/csce_tailoredecc_98.pdf"
+   ],
+   [
+    "https://hdl.handle.net/2027.42/84667",
+    403,
+    "https://deepblue.lib.umich.edu/items/fda1c514-2f27-44ac-acb2-767dee41d2c4"
+   ]
+  ]
+ },
+ "Behavior of Reinforced Concrete Frames with Masonry Infills": {
+  "found": true,
+  "id": "https://openalex.org/W2196060543",
+  "title": "Behavior of Reinforced Concrete Frames with Masonry Infills",
+  "doi": null,
+  "authors": [
+   "Ricardo E. Angel",
+   "Daniel P. Abrams",
+   "D. M. Shapiro",
+   "Joseph Uzarski",
+   "Mark D. Webster"
+  ],
+  "date": "1994-03-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "report",
+  "landing": "http://hdl.handle.net/2142/14210",
+  "locations": [
+   "http://hdl.handle.net/2142/14210",
+   "https://www.ideals.illinois.edu/bitstream/2142/14210/2/SRS-589.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/2142/14210",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This report provides a summary of a combined experimental and analytical research project that investigated the loss of transverse (out-of-plane) strength for un reinforced masonry infill panels as a result of in -plane cracking. Large-scale test panels were constructed and subjected to repeated and reversed horizontal forces applied parallel with their plane to a lateral drift equal to twice that at initial cracking. Then, they were subjected to monotonically increasing transverse pressures with an air bag until their ultimate strengths were developed. Selected test panels were then repaired and retested. Test specimens consisted of either clay-unit or concrete masonry infills placed in a single-bay, single-story reinforced concrete frame. Parameters of the experimental sequence were the masonry-unit type, the mortar type, and the height-to-thickness ratio of the infill panel. An analytical model was developed to predict the out-of-plane behavior and strength of masonry panels with and without previous in -plane damage. The analytical model was based on an arching action theory. Analytical model parameters included the masonry compressive strength, the infill slenderness ratio, and the extent of in -plane damage. Based on the analytical model and on the supporting experimental results, recommendations were developed for practical seismic evaluation and rehabilitation of cracked unreinforced masonry infill panels loaded normal to their plane.",
+  "lang": "en",
+  "cited": 135,
+  "probeUrl": "http://hdl.handle.net/2142/14210",
+  "probe": [
+   500,
+   "http://hdl.handle.net/2142/14210"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2142/14210",
+    500,
+    "http://hdl.handle.net/2142/14210"
+   ],
+   [
+    "https://www.ideals.illinois.edu/bitstream/2142/14210/2/SRS-589.pdf",
+    404,
+    "https://www.ideals.illinois.edu/bitstream/2142/14210/2/SRS-589.pdf"
+   ]
+  ]
+ },
+ "INELASTIC MODEL FOR CYCLIC BIAXIAL LOADING OF REINFORCED CONCRETE": {
+  "found": true,
+  "id": "https://openalex.org/W2156359232",
+  "title": "INELASTIC MODEL FOR CYCLIC BIAXIAL LOADING OF REINFORCED CONCRETE",
+  "doi": null,
+  "authors": [
+   "David Darwin",
+   "David A. Pecknold"
+  ],
+  "date": "1974-07-01",
+  "venue": "KU ScholarWorks (The University of Kansas)",
+  "publisher": "University of Kansas",
+  "type": "report",
+  "landing": "http://hdl.handle.net/1808/20214",
+  "locations": [
+   "http://hdl.handle.net/1808/20214",
+   "http://hdl.handle.net/2142/13822",
+   "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Inelastic%20model%20for%20cyclic%20biaxial%20loading.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1808/20214",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Comparison of Analytical Models with Uniaxial Compression Test Comparison of Analytical Model with Tension-CompressionTest, a= -0.103.Comparison of the Proposed Model with Tension-Compression and Uniaxial Compression Tests.Behavior of Concrete Under Cyclic Load, Comparison with Envelope Curve: Proposed Model Under Cyclic Load.Comparison of Envelope Curve for Proposed Model to Experimental Curves Typical Hysteresis Curves Common Point Limit and Stability Limit",
+  "lang": "en",
+  "cited": 82,
+  "probeUrl": "http://hdl.handle.net/1808/20214",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1808/20214"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1808/20214",
+    500,
+    "http://hdl.handle.net/1808/20214"
+   ],
+   [
+    "http://hdl.handle.net/2142/13822",
+    500,
+    "http://hdl.handle.net/2142/13822"
+   ],
+   [
+    "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Inelastic%20model%20for%20cyclic%20biaxial%20loading.pdf",
+    404,
+    "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Inelastic%20model%20for%20cyclic%20biaxial%20loading.pdf"
+   ]
+  ]
+ },
+ "Cracking in Concrete Bridge Decks": {
+  "found": true,
+  "id": "https://openalex.org/W562794537",
+  "title": "Cracking in Concrete Bridge Decks",
+  "doi": null,
+  "authors": [
+   "Tony R. Schmitt",
+   "David Darwin"
+  ],
+  "date": "1995-04-01",
+  "venue": "KU ScholarWorks (The University of Kansas)",
+  "publisher": "University of Kansas",
+  "type": "report",
+  "landing": "http://hdl.handle.net/1808/20444",
+  "locations": [
+   "http://hdl.handle.net/1808/20444",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.9179",
+   "http://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/SM%2039.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1808/20444",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The causes of cracking in concrete bridge decks are investigated, and procedures are recommended to alleviate the problem. Forty continuous steel girder bridges, thirty-seven composite and three noncomposite, from northeast Kansas (KDOT District I) are evaluated. Field surveys conducted to document cracking patterns and to determine the crack density of each bridge are described. Information collected from construction documents, field books, and weather data logs is presented and compared to the observed levels of cracking to identify correlations between cracking and the variables studied. Thirty-one variables are considered. These include material properties, site conditions, construction procedures, and design specifications, as well as age and traffic volume. Based on the research reported herein, cracking in monolithic bridge decks increases with increasing values of concrete slump, percent volume of water and cement, water content, cement content, and compressive strength, and decreasing values of air content (especially below 6.0% ). Bridge deck overlays placed with zero slump concrete exhibit consistently high levels of cracking. Cracking in overlays also increases as placement lengths increase. High maximum air temperatures and large changes in air temperature on the day of casting aggravate cracking in monolithic bridge decks. High average air temperatures and large changes in air temperature similarly aggravate cracking in bridge deck overlays. Both monolithic and",
+  "lang": "en",
+  "cited": 46,
+  "probeUrl": "http://hdl.handle.net/1808/20444",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1808/20444"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1808/20444",
+    500,
+    "http://hdl.handle.net/1808/20444"
+   ],
+   [
+    "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.9179",
+    500,
+    "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.690.9179"
+   ],
+   [
+    "http://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/SM%2039.pdf",
+    500,
+    "http://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/SM%2039.pdf"
+   ]
+  ]
+ },
+ "Finite Element Analysis of Reinforced Concrete Shear Walls": {
+  "found": true,
+  "id": "https://openalex.org/W1148500289",
+  "title": "Finite Element Analysis of Reinforced Concrete Shear Walls",
+  "doi": null,
+  "authors": [
+   "Chadchart Sittipunt",
+   "Sharon L. Wood"
+  ],
+  "date": "1993-12-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "report",
+  "landing": "http://hdl.handle.net/2142/14203",
+  "locations": [
+   "http://hdl.handle.net/2142/14203",
+   "http://hdl.handle.net/2142/22607",
+   "https://www.ideals.illinois.edu/handle/2142/14203"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/2142/14203",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The major objective of this study was to use the finite element method to study the cyclic response of slender, reinforced concrete shear walls. Material models which represent the cyclic response of concrete and reinforcing steel in shear walls were developed in this investigation. These material models were verified both at the element and structural levels; the results of the finite element analyses were compared with the experimental data from several experimental programs. After the material models had been satisfactorily tested and verified, the finite element method was used to extend the scope of the investigation of the response of slender reinforced concrete shear walls with different configurations, reinforcement details, and loading histories.",
+  "lang": "en",
+  "cited": 32,
+  "probeUrl": "http://hdl.handle.net/2142/14203",
+  "probe": [
+   500,
+   "http://hdl.handle.net/2142/14203"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2142/14203",
+    500,
+    "http://hdl.handle.net/2142/14203"
+   ],
+   [
+    "http://hdl.handle.net/2142/22607",
+    500,
+    "http://hdl.handle.net/2142/22607"
+   ],
+   [
+    "https://www.ideals.illinois.edu/handle/2142/14203",
+    200,
+    "https://www.ideals.illinois.edu/items/14216"
+   ]
+  ]
+ },
+ "REVIBRATION OF RETARDED CONCRETE FOR CONTINUOUS BRIDGE DECKS": {
+  "found": true,
+  "id": "https://openalex.org/W1540288179",
+  "title": "REVIBRATION OF RETARDED CONCRETE FOR CONTINUOUS BRIDGE DECKS",
+  "doi": null,
+  "authors": [
+   "Hubert K. Hilsdorf",
+   "James L. Lott"
+  ],
+  "date": "1970-04-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "book-chapter",
+  "landing": "https://hdl.handle.net/2142/14293",
+  "locations": [
+   "https://hdl.handle.net/2142/14293",
+   "https://trid.trb.org/view/106442"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://www.ideals.illinois.edu/items/14323/bitstreams/50824/data.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Review of Related Research .A.l Bridge Deck Surveys A.2 Effect of Revibration on the Properties of Plain",
+  "lang": "en",
+  "cited": 11,
+  "probeUrl": "https://www.ideals.illinois.edu/items/14323/bitstreams/50824/data.pdf",
+  "probe": [
+   403,
+   "https://www.ideals.illinois.edu/items/14323/bitstreams/50824/data.pdf"
+  ],
+  "curlProbe": [
+   [
+    "https://hdl.handle.net/2142/14293",
+    200,
+    "https://www.ideals.illinois.edu/items/14323"
+   ]
+  ]
+ },
+ "TIME-DEPENDENT DEFORMATION OF NONCOMPOSITE AND COMPOSITE PRESTRESSED CONCRETE STRUCTURES": {
+  "found": true,
+  "id": "https://openalex.org/W771283583",
+  "title": "TIME-DEPENDENT DEFORMATION OF NONCOMPOSITE AND COMPOSITE PRESTRESSED CONCRETE STRUCTURES",
+  "doi": null,
+  "authors": [
+   "Dan E. Branson",
+   "Bernard L. Meyers",
+   "Koladi M. Kripanarayanan"
+  ],
+  "date": "1970-01-01",
+  "venue": "Highway Research Record",
+  "publisher": "National Research Council",
+  "type": "article",
+  "landing": "https://trid.trb.org/view/102284",
+  "locations": [
+   "https://trid.trb.org/view/102284"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "THIS PAPER REPORTS THE RESULTS OF AN INVESTIGATION OF THE USE OF SAND-LIGHTWEIGHT CONCRETE IN PRESTRESSED LABORATORY BEAMS AND BRIDGE GIRDERS. THE STUDY IS DIVIDED INTO 3 PARTS: A MATERIALS STUDY OF THE CONCRETE BEHAVIOR ITSELF, A LABORATORY STUDY OF THE BEHAVIOR OF BOTH NONCOMPOSITE (5 BEAMS) AND COMPOSITE (4 BEAMS) PRESTRESSED BEAMS, AND THE FIELD MEASUREMENT OF CAMBER OF PRESTRESSED GIRDERS (5) GIRDERS) USED IN THE FABRICATION OF A COMPOSITE BRIDGE IN IOWA. IN ADDITION, SYSTEMATIC DESIGN PROCEDURES ARE PRESENTED AND VERIFIED BY THE EXPERIMENTAL RESULTS. THE METHODS DESCRIBED FOR PREDICTING MATERIAL BEHAVIOR AND STRUCTURAL RESPONSE ARE GENERALIZED TO APPLY TO PRESTRESSED CONCRETE STRUCTURES OF DIFFERENT WEIGHT CONCRETES. CONTINUOUS TIME FUNCTIONS ARE PROVIDED FOR ALL NEEDED PARAMETERS SO THAT THE GENERAL SOLUTIONS READILY LEND THEMSELVES TO COMPUTER SOLUTIONS. APPROXIMATE EQUATIONS ARE ALSO INCLUDED. DESIGN PROCEDURES ARE PRESENTED FOR CALCULATION OF STRENGTH AND ELASTIC PROPERTIES, AND CREEP AND SHRINKAGE OF THE SAND-LIGHTWEIGHT CONCRETE OF THIS PROJECT AT ANY TIME, INCLUDING ULTIMATE VALUES. AN INDICATION IS GIVEN OF THE CALCULATION OF THESE PROPERTIES FOR NORMAL-WEIGHT, SAND-LIGHTWEIGHT, AND ALL-LIGHTWEIGHT CONCRETE IN GENERAL. DESIGN PROCEDURES ARE ALSO GIVEN FOR CALCULATION OF LOSS OF PRESTRESS AND CAMBER AT ANY TIME, INCLUDING ULTIMATE VALUES, OF NONCOMPOSITE AND COMPOSITE PRESTRESSED STRUCTURES. RESULTS COMPUTED BY THESE METHODS ARE SHOWN TO BE IN AGREEMENT WITH THE ",
+  "lang": "en",
+  "cited": 11,
+  "probeUrl": "https://trid.trb.org/view/102284",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/102284"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/102284",
+    503,
+    "https://trid.trb.org/view/102284"
+   ]
+  ]
+ },
+ "TIME-DEPENDENT PRESTRESS LOSSES IN PRETENSIONED CONCRETE CONSTRUCTION": {
+  "found": true,
+  "id": "https://openalex.org/W2281495340",
+  "title": "TIME-DEPENDENT PRESTRESS LOSSES IN PRETENSIONED CONCRETE CONSTRUCTION",
+  "doi": null,
+  "authors": [
+   "Hector David Hernandez",
+   "William L. Gamble"
+  ],
+  "date": "1975-05-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "report",
+  "landing": "https://hdl.handle.net/2142/13830",
+  "locations": [
+   "https://hdl.handle.net/2142/13830",
+   "http://hdl.handle.net/2142/66790",
+   "https://trid.trb.org/view/32140"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://www.ideals.illinois.edu/items/13821/bitstreams/49557/data.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Theoretical time-dependent deformations and prestress losses in pretensioned, prestressed simply supported concrete girders, based on the revised rate of creep method, are presented. The effects of age of precast girders at the time of casting of the deck concrete, time of transfer of prestress, deck dead load, type of prestressing strands (stress-relieved or low-relaxation strands), initial level of stress in the concrete, and the effects of varying environmental conditions on the behavior of concrete structures are studied. Predicted unit creep and shrinkage strains versus time relationships are based on the 1970 C.E.B. recommendations and relaxation losses for stress-relieved strands are estimated using the expressions developed by Magura, Sozen, and Siess. A similar expression is used for the case of low-relaxation strands. Predicted deformations are compared with long-term measurements made on full-sized bridge structures located in Illinois. Annual cyclic variations of the total strains and total prestress force occur in all structures located outdoors. Two recommended sets of factors for the estimation of prestress losses are given, one for the case of stress-relieved strands and the other for the case of low-relaxation strands.",
+  "lang": "en",
+  "cited": 10,
+  "probeUrl": "https://www.ideals.illinois.edu/items/13821/bitstreams/49557/data.pdf",
+  "probe": [
+   403,
+   "https://www.ideals.illinois.edu/items/13821/bitstreams/49557/data.pdf"
+  ],
+  "curlProbe": [
+   [
+    "https://hdl.handle.net/2142/13830",
+    200,
+    "https://www.ideals.illinois.edu/items/13821"
+   ]
+  ]
+ },
+ "Modeling the Time-to Corrosion Cracking of the Cover Concrete in Chloride Contaminated Reinforced Concrete Structures": {
+  "found": true,
+  "id": "https://openalex.org/W2567346938",
+  "title": "Modeling the Time-to Corrosion Cracking of the Cover Concrete in Chloride Contaminated Reinforced Concrete Structures",
+  "doi": null,
+  "authors": [
+   "Liu Youping"
+  ],
+  "date": "1996-10-21",
+  "venue": "VTechWorks (Virginia Tech)",
+  "publisher": "Virginia Tech",
+  "type": "dissertation",
+  "landing": "http://scholar.lib.vt.edu/theses/available/etd-44541620119653540/",
+  "locations": [
+   "http://scholar.lib.vt.edu/theses/available/etd-44541620119653540/",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.120.8233",
+   "http://scholar.lib.vt.edu/theses/public/etd-44541620119653540/Liu.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10919/30541",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Significant factors on steel corrosion in chloride contaminated reinforced concrete and time-to-corrosion cracking were investigated in this study. Sixty specimens were designed with seven admixed chloride contents, three concrete cover depths, two reinforcing steel bar diameters, two exposure conditions, and a typical concrete with water to cement ratio of 0.45. Corrosion current density (corrosion rate), corrosion potential, ohmic resistance of concrete and temperature were measured monthly on these specimens using both the 3LP and Gecor devices. Metal loss measurements were performed in accordance with ASTM G1-90, method C3.5, after specimens cracked. The actual corrosion weight loss of the steel reinforcing bars was then compared to the result obtained from the corrosion rate measurement devices. An interaction model for characterizing the dynamic corrosion process was developed based on the five-year corrosion database. The model demonstrates that the corrosion rate is a function of chloride content, temperature at reinforcement depth, ohmic resistance of concrete, and corrosion time after initiation. A time-to-corrosion cracking model was suggested based on a corrosion-cracking conceptual model and critical mass of corrosion products. The model predicted times to corrosion cracking are in good agreement with the observed times to corrosion cracking of the cover concrete. Acknowledgments I am extremely grateful to Dr. Weyers, who gave me the opportunity to work on",
+  "lang": "en",
+  "cited": 206,
+  "probeUrl": "http://hdl.handle.net/10919/30541",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10919/30541"
+  ],
+  "curlProbe": [
+   [
+    "http://scholar.lib.vt.edu/theses/available/etd-44541620119653540/",
+    500,
+    "http://scholar.lib.vt.edu/theses/available/etd-44541620119653540/"
+   ],
+   [
+    "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.120.8233",
+    500,
+    "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.120.8233"
+   ],
+   [
+    "http://scholar.lib.vt.edu/theses/public/etd-44541620119653540/Liu.pdf",
+    500,
+    "http://scholar.lib.vt.edu/theses/public/etd-44541620119653540/Liu.pdf"
+   ],
+   [
+    "http://hdl.handle.net/10919/30541",
+    500,
+    "http://hdl.handle.net/10919/30541"
+   ]
+  ]
+ },
+ "Durability of concrete in saline environment": {
+  "found": true,
+  "id": "https://openalex.org/W862032258",
+  "title": "Durability of concrete in saline environment",
+  "doi": null,
+  "authors": [
+   "Paul J. Sandberg"
+  ],
+  "date": "1996-01-01",
+  "venue": "Lund University Publications (Lund University)",
+  "publisher": "Lund University",
+  "type": "book",
+  "landing": "https://lup.lub.lu.se/record/4146339",
+  "locations": [
+   "https://lup.lub.lu.se/record/4146339",
+   "https://lup.lub.lu.se/search/ws/files/5608656/4146340.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://portal.research.lu.se/ws/files/5608656/4146340.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Contents: - Systematic collection of field data for service life prediction of concrete structures. - Moisture in marine concrete structures - Studies in the BMV-project 1992-1996. - Scaling resistence of concrete field exposure tests. - Chloride induced corrosion in marine concrete structures. - Chloride threshold values in reinforced concrete. - A new method for determing chloride thresholds as a function of potential in field exposure tests. - Estimation of chloride ingress into concrete and prediction of service lifetime with reference to marine RC structures. The complete solution of fick's second law of diffusion with time-dependent diffusion coefficient and surface concentration. - Temperature cracking. - Concrete specification for the Öresund Link",
+  "lang": "en",
+  "cited": 46,
+  "probeUrl": "https://portal.research.lu.se/ws/files/5608656/4146340.pdf",
+  "probe": [
+   403,
+   "https://portal.research.lu.se/ws/files/5608656/4146340.pdf"
+  ],
+  "curlProbe": [
+   [
+    "https://lup.lub.lu.se/record/4146339",
+    200,
+    "https://lup.lub.lu.se/search/publication/4146339"
+   ]
+  ]
+ },
+ "Cyclic wetting and drying and its effects on chloride ingress in concrete": {
+  "found": true,
+  "id": "https://openalex.org/W2887116953",
+  "title": "Cyclic wetting and drying and its effects on chloride ingress in concrete",
+  "doi": null,
+  "authors": [
+   "Kwang Won Hong"
+  ],
+  "date": "1998-01-01",
+  "venue": "Library and Archives Canada (Government of Canada)",
+  "publisher": "Government of Canada",
+  "type": "dissertation",
+  "landing": "http://www.collectionscanada.ca/obj/s4/f2/dsk2/tape17/PQDD_0022/MQ34117.pdf",
+  "locations": [
+   "http://www.collectionscanada.ca/obj/s4/f2/dsk2/tape17/PQDD_0022/MQ34117.pdf",
+   "http://hdl.handle.net/1807/11892",
+   "https://tspace.library.utoronto.ca/bitstream/1807/11892/1/MQ34117.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://utoronto.scholaris.ca/bitstreams/d2d6a250-080b-481c-b287-39efa00d779e/download",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Almost all forms of deterioration in reinforced concrete involve ingress of deleterious fluids through the pore structure of the concrete. In particular the ingress of chlorides is a major cause of early deterioration of reinforced concrete structures due to subsequent corrosion. In saturated concretes, fluids will enter through diffusion whereas partially saturated concretes, fluids will be absorbed by capillary suction. In reality most concretes are in a continual flux between saturated and partially saturated states, as they undergo continuous cycles of wetting and drying. The primary focus of this study is to examine the effects of cyclic wetting and drying with sodium chloride solution. Chloride profiles of samples exposed to various numbers of cycles, and lengths of cycles were determined. From these profiles, the rate and depths of chloride ingress were calculated and compared for two mixtures of concrete containing slag and/or silica fume with a 0.4 w/c, and one with a 0.3 w/c.",
+  "lang": "en",
+  "cited": 17,
+  "probeUrl": "https://utoronto.scholaris.ca/bitstreams/d2d6a250-080b-481c-b287-39efa00d779e/download",
+  "probe": [
+   200,
+   "https://utoronto.scholaris.ca/server/api/core/bitstreams/d2d6a250-080b-481c-b287-39efa00d779e/content"
+  ],
+  "curlProbe": [
+   [
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk2/tape17/PQDD_0022/MQ34117.pdf",
+    500,
+    "http://www.collectionscanada.ca/obj/s4/f2/dsk2/tape17/PQDD_0022/MQ34117.pdf"
+   ],
+   [
+    "http://hdl.handle.net/1807/11892",
+    500,
+    "http://hdl.handle.net/1807/11892"
+   ],
+   [
+    "https://tspace.library.utoronto.ca/bitstream/1807/11892/1/MQ34117.pdf",
+    200,
+    "https://utoronto.scholaris.ca/server/api/core/bitstreams/d2d6a250-080b-481c-b287-39efa00d779e/content"
+   ]
+  ]
+ },
+ "Computational modeling of concrete fracture": {
+  "found": true,
+  "id": "https://openalex.org/W1494045475",
+  "title": "Computational modeling of concrete fracture",
+  "doi": null,
+  "authors": [
+   "J.G. Rots"
+  ],
+  "date": "1988-09-26",
+  "venue": "Research Repository (Delft University of Technology)",
+  "publisher": "Delft University of Technology",
+  "type": "dissertation",
+  "landing": "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+  "locations": [
+   "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+   "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+   "http://repository.tudelft.nl/assets/uuid:06985d0d-1230-4a08-924a-2553a171f08f/TR diss 1663(1).PDF"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "De onderstelling van verplaatsingscontinuiteit bij het modelleren van geometrische discontinuïteiten is een kunstgreep die leidt tot opgesloten spanningen binnen een eindige elementen configuratie.De consequenties zijn tot op heden onderschat en wettigen een herwaardering van het discrete scheurconcept.2 Bij constructies met herverdeling van krachtswerking -bijvoorbeeld via stelsels van drukbogen met trekbanden -is een interpretatie in hoofdspanningen te verkiezen boven een interpretatie in schuifspanningen.Dit bepaalt het succes van scheurmodellen in het roterende hoofdassenstelsel (impliciete schuifterm) ten opzichte van scheurmodellen in een gefixeerd assenstelsel (expliciete schuifterm).3 Numerieke simulaties onthullen dat de breuk in de 'directe mode II proef van Bazant en Pfeiffer noch direct, noch van het type mode II is.Bazant Z.P., Pfeiffer P.A., RILEM Mat.& Struct.19,111-121 (1986) 4 Binnen de hedendaagse stapelmechanica voor metselwerk en prefabconstructies isvanwege de voorkeursrichting, bepaald door de voegen -het discrete scheurconcept met vooraf gedefinieerde scheurvlakken bij uitstek toepasbaar.5 DIANA is een bundelend programma, meer dan een kapstokprogramma.Voortzetting van de ontwikkeling van dit programma binnen een netwerk van samenwerkings verbanden stelt hoge technische en organisatorische eisen teneinde te voorkomen dat flexibiliteit ontaardt in bureaucratie, modulariteit in versnippering en continui'teit in incompatibiliteit.",
+  "lang": "en",
+  "cited": 695,
+  "probeUrl": "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+  "probe": [
+   500,
+   "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f"
+  ],
+  "curlProbe": [
+   [
+    "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f",
+    500,
+    "http://resolver.tudelft.nl/uuid:06985d0d-1230-4a08-924a-2553a171f08f"
+   ],
+   [
+    "http://repository.tudelft.nl/assets/uuid:06985d0d-1230-4a08-924a-2553a171f08f/TR diss 1663(1).PDF",
+    0,
+    "http://repository.tudelft.nl/assets/uuid:06985d0d-1230-4a08-924a-2553a171f08f/TR diss 1663(1).PDF"
+   ]
+  ]
+ },
+ "DESIGN OF ZERO MAINTENANCE PLAIN JOINTED CONCRETE PAVEMENT, VOLUME TWO-DESIGN MANUAL": {
+  "found": true,
+  "id": "https://openalex.org/W641426812",
+  "title": "DESIGN OF ZERO MAINTENANCE PLAIN JOINTED CONCRETE PAVEMENT, VOLUME TWO-DESIGN MANUAL",
+  "doi": null,
+  "authors": [
+   "M I Darter",
+   "E J Barenberg"
+  ],
+  "date": "1977-06-08",
+  "venue": "ROSA P",
+  "publisher": null,
+  "type": "article",
+  "landing": "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+  "locations": [
+   "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+   "https://rosap.ntl.bts.gov/view/dot/30022"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This manual is an engineering guide for the design of heavily trafficked plain jointed concrete pavements to provide \"zero-maintenance\" performance over a selected design period. The term \"zero-maintenance\" refers only to structural maintenance such as patching, crack repair, slab replacement, grinding of faults, and overlay. Procedures are included for designing the concrete slab, subbase, shoulders, joints, and subsurface drainage. A computer program (JCP-1) is used to provide serviceability/performance and fatigue data for the structural design of the pavement. These procedures were developed based on nationwide field studies, long term performance data of in-service pavements, comprehensive mechanistic analyses, and results from laboratory studies. The manual includes specific recommendations for obtaining all necessary inputs and for performing the strucural design. A detailed design example for a heavily trafficked freeway pavement is provided, including a sensitivity analysis of the major design factors. Input guides and output listings for the JCP-1 program are included. \\n",
+  "lang": "en",
+  "cited": 7,
+  "probeUrl": "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+  "probe": [
+   500,
+   "http://ntlsearch.bts.gov/ntl/md.do?id=57388"
+  ],
+  "curlProbe": [
+   [
+    "http://ntlsearch.bts.gov/ntl/md.do?id=57388",
+    500,
+    "http://ntlsearch.bts.gov/ntl/md.do?id=57388"
+   ],
+   [
+    "https://rosap.ntl.bts.gov/view/dot/30022",
+    403,
+    "https://rosap.ntl.bts.gov/view/dot/30022"
+   ]
+  ]
+ },
+ "MANUAL OF CURRENT PRACTICE FOR THE DESIGN, CONSTRUCTION, AND MAINTENANCE OF SOIL-AGGREGATE ROADS,.": {
+  "found": true,
+  "id": "https://openalex.org/W1642337209",
+  "title": "MANUAL OF CURRENT PRACTICE FOR THE DESIGN, CONSTRUCTION, AND MAINTENANCE OF SOIL-AGGREGATE ROADS,.",
+  "doi": null,
+  "authors": [
+   "Eugene Y Huang"
+  ],
+  "date": "1959-11-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "report",
+  "landing": "http://hdl.handle.net/2142/50082",
+  "locations": [
+   "http://hdl.handle.net/2142/50082",
+   "https://trid.trb.org/view/618369"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://www.ideals.illinois.edu/items/50173/bitstreams/146099/data.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "III. 4 .9 4. 10 4.11 4. 12 4 .1 3 4.14 4 .15 4.16 4.17 4.18 MAINTENANCE 5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9 5.10 5.11 5.12 5.13 5.14 5.15 5. 16 Tr avel ing Pla nt Construct i on Typical Traveling Plants . .Cent ral Plant Construction .Typical Central Mixing Plants Compa ction of Materials Field Checking , Sampling and Testing Equipment for Control Tests . . . .Desired Time of Year for Construction Feather-Edge Construction vs. Trench Construction Construction Tips Importance and Purpose of Maintenance Maintenance of Soil-Aggregate Roads Drainage Problems . . . . . . . . .Blading and Dragging of the Road Surface Repairing and Patching Soft and Unstable Scarifying and Resurfacing .Applying Dust Palliatives Bitillninous Surface Treatment . . . . .Areas Maintenance of Shoulders, Side Ditches and Side Slopes Weed Eradication and Care of Trees and Shrubs Frost Heaves and Spring Breakup Snow and Ice Control . . . . .Maintenance Equipment . . . . .Method of Perfonning Maintenance Bettennent Program Maintenance Tips . . . . . .",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "https://www.ideals.illinois.edu/items/50173/bitstreams/146099/data.pdf",
+  "probe": [
+   403,
+   "https://www.ideals.illinois.edu/items/50173/bitstreams/146099/data.pdf"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2142/50082",
+    500,
+    "http://hdl.handle.net/2142/50082"
+   ],
+   [
+    "https://trid.trb.org/view/618369",
+    503,
+    "https://trid.trb.org/view/618369"
+   ],
+   [
+    "https://www.ideals.illinois.edu/items/50173/bitstreams/146099/data.pdf",
+    200,
+    "https://www.ideals.illinois.edu/items/50173/bitstreams/146099/data.pdf"
+   ]
+  ]
+ },
+ "An evaluation of flexible pavement performance on the basis of deflection basins using illipave program": {
+  "found": true,
+  "id": "https://openalex.org/W2603236514",
+  "title": "An evaluation of flexible pavement performance on the basis of deflection basins using illipave program",
+  "doi": null,
+  "authors": [
+   "Suzanna Darmstater"
+  ],
+  "date": "1989-01-01",
+  "venue": "OhioLink ETD Center (Ohio Library and Information Network)",
+  "publisher": "Ohio Library and Information Network",
+  "type": "article",
+  "landing": "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028",
+  "locations": [
+   "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028",
+   "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Chapter I : IntroductionThe general concept of nondestructive testing, how to get field deflection and the IIlipave program. Chapter II : Literature reviewRecent research regarding the development of structural system evaluation, definitions of pavement types and material characteristics are given.The basic differences between highway and airport pavement are described. Chapter III: Data descriptionThe method of measurement of field deflection is described and as well as an analysis of the data. Chapter IV: Illipave program backgroundIIlipave is discussed in detail along with an example of the input program. Chapter V: Evaluation of the resultsAn comparison between field deflection and Illipave deflection is given along with a discussion of the results. Chapter VI : Summary and conclusion",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028",
+  "probe": [
+   500,
+   "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028"
+  ],
+  "curlProbe": [
+   [
+    "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028",
+    500,
+    "http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1182434028"
+   ]
+  ]
+ },
+ "Oklahoma pavement management system phase I - development of specifications (87-09)": {
+  "found": true,
+  "id": "https://openalex.org/W3201492974",
+  "title": "Oklahoma pavement management system phase I - development of specifications (87-09)",
+  "doi": null,
+  "authors": [
+   "Thomas H. Maze",
+   "Neal R. Hawkins"
+  ],
+  "date": "1987-12-01",
+  "venue": "SHAREOK (University of Oklahoma; Oklahoma State University; Central Oklahoma University)",
+  "publisher": null,
+  "type": "report",
+  "landing": "https://hdl.handle.net/11244/316832",
+  "locations": [
+   "https://hdl.handle.net/11244/316832",
+   "https://shareok.org/bitstream/11244/316832/1/87-09-2%20Oklahoma%20pavement%20management%20system%20phase%20I%20-%20development%20of%20specifications%20-%20final%20report.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://shareok.org/bitstreams/9eb6c271-7b8e-44c9-afcd-80752522a953/download",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This report documents the first phase of the development of the Oklahoma Department of Transportation's (ODOT) pavement management system. Although much as been written on the pavement management process, little literature is available on the actual mechanics of developing a pavement management system. The purpose of this report is to lay a framework for the development of ODOT's pavement management system. The report is divided into five chapters. The first chapter stresses the importance of the development process. The stages of development include system conceptualization, planning, and design. It is during these stages that a great deal of effort should be spent to ensure that the system's performance meets management's expectations. It is much easier to change the structure of the system during developmental stages than it is to make changes once the system is operational. The second chapter covers fundamental aspects of the pavement management process. The chapter covers rudimentary pavement management concepts, pavement evaluations and performance, and uses of pavement performance information and condition data. The third chapter covers a series of case studies of pavement management systems used by other state departments of transportation. The systems studied were those used by the Iowa, Arizona, and Pennsylvania Departments of Transportation. The primary purpose of these case studies is to provide ODOT engineers and managers with insight into the development process",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://shareok.org/bitstreams/9eb6c271-7b8e-44c9-afcd-80752522a953/download",
+  "probe": [
+   200,
+   "https://shareok.org/server/api/core/bitstreams/9eb6c271-7b8e-44c9-afcd-80752522a953/content"
+  ],
+  "curlProbe": [
+   [
+    "https://hdl.handle.net/11244/316832",
+    200,
+    "https://shareok.org/items/4ed1f34c-67d1-460e-b861-91d36c8d43d5"
+   ]
+  ]
+ },
+ "Pavement analysis and design": {
+  "found": true,
+  "id": "https://openalex.org/W1480840718",
+  "title": "Pavement analysis and design",
+  "doi": null,
+  "authors": [
+   "Yang Huang"
+  ],
+  "date": "1992-11-01",
+  "venue": null,
+  "publisher": null,
+  "type": "book",
+  "landing": "http://ci.nii.ac.jp/ncid/BA65449109",
+  "locations": [
+   "http://ci.nii.ac.jp/ncid/BA65449109"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "This is a textbook on the structural analysis and design of highway pavements. It presents the theory of pavement design and reviews the methods developed by several organizations, such as the American Association of State Highway and Transportation Officials (AASHTO), the Asphalt Institute (AI), and the Portland Cement Association (PCA). It can be used for an undergraduate course by skipping the appendices or as an advanced graduate course by including them. The book is organized in 13 chapters. Chapter 1 introduces the historical development of pavement design, the major road tests, the various design factors, and the differences in design concepts among highway pavements, airport pavements, and railroad trackbeds. Chapter 2 discusses stresses and strains in flexible pavements. Chapter 3 presents the KENLAYER computer program, based on Burmister's layered theory, including theoretical developments, program description, comparison with available solutions, and sensitivity analysis on the effect of various factors on pavement responses. Chapter 4 discusses stresses and deflections in rigid pavements due to curling, loading, and friction, as well as the design of dowels and joints. Influence charts for determining stresses and deflections are also presented. Chapter 5 presents the KENSLABS computer program, based on the finite element method, including theoretical developments, program description, comparison with available solutions, and sensitivity analysis. Chapter 6 discus",
+  "lang": "en",
+  "cited": 2227,
+  "probeUrl": "http://ci.nii.ac.jp/ncid/BA65449109",
+  "probe": [
+   500,
+   "http://ci.nii.ac.jp/ncid/BA65449109"
+  ],
+  "curlProbe": [
+   [
+    "http://ci.nii.ac.jp/ncid/BA65449109",
+    500,
+    "http://ci.nii.ac.jp/ncid/BA65449109"
+   ]
+  ]
+ },
+ "Prediction of Deterioration of concrete bridges": {
+  "found": true,
+  "id": "https://openalex.org/W1499829066",
+  "title": "Prediction of Deterioration of concrete bridges",
+  "doi": null,
+  "authors": [
+   "G.C.M. Gaal"
+  ],
+  "date": "2004-01-01",
+  "venue": "Research Repository (Delft University of Technology)",
+  "publisher": "Delft University of Technology",
+  "type": "dissertation",
+  "landing": "http://resolver.tudelft.nl/uuid:dd1aba11-8e05-490d-957c-3566a1101a95",
+  "locations": [
+   "http://resolver.tudelft.nl/uuid:dd1aba11-8e05-490d-957c-3566a1101a95",
+   "http://resolver.tudelft.nl/uuid:dd1aba11-8e05-490d-957c-3566a1101a95",
+   "http://repository.tudelft.nl/islandora/object/uuid%3Add1aba11-8e05-490d-957c-3566a1101a95/datastream/OBJ/download"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://repository.tudelft.nl/file/File_0fa45493-0894-4e69-ac08-beca8748cb65",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "In the early 20th century, the general idea was that concrete structures would never show deterioration. However, in the 1990s concrete structures showed an increase in number of cracks and area of spalling. Especially spalling of the concrete cover could create a harmful situation to the users. Spalling of the cover is caused by corrosion of the reinforcement, which leads to expansion and therefore delamination of outer layer of concrete. Corrosion of the reinforcement is caused by the presence of sufficient carbon dioxide and/or chlorides at the reinforcement. Carbon dioxide originates from the atmosphere, and chlorides originate from the de-icing salt that is used to keep the roads free from ice during the winter season. In this research study a method is suggested to determine the development of damage to concrete bridges over time. This method uses physical models to determine the ingress of carbon dioxide and chlorides. Probabilistic techniques are used to determine the damage to concrete structures since the parameters like cover depth is a stochastic parameter. Due to the use of physical models the changes in construction practice over the last decades can be taken into account when the damage to concrete structures is determined. For example, the start of application of de-icing agent (1960s) is taken into account. The result of the predictive model is compared to over 90 inspection results of Dutch bridges, from which was concluded that the proposed model accurately",
+  "lang": "en",
+  "cited": 30,
+  "probeUrl": "https://repository.tudelft.nl/file/File_0fa45493-0894-4e69-ac08-beca8748cb65",
+  "probe": [
+   null,
+   "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+  ],
+  "curlProbe": [
+   [
+    "http://resolver.tudelft.nl/uuid:dd1aba11-8e05-490d-957c-3566a1101a95",
+    500,
+    "http://resolver.tudelft.nl/uuid:dd1aba11-8e05-490d-957c-3566a1101a95"
+   ],
+   [
+    "http://repository.tudelft.nl/islandora/object/uuid%3Add1aba11-8e05-490d-957c-3566a1101a95/datastream/OBJ/download",
+    500,
+    "http://repository.tudelft.nl/islandora/object/uuid%3Add1aba11-8e05-490d-957c-3566a1101a95/datastream/OBJ/download"
+   ],
+   [
+    "https://repository.tudelft.nl/file/File_0fa45493-0894-4e69-ac08-beca8748cb65",
+    0,
+    "https://repository.tudelft.nl/file/File_0fa45493-0894-4e69-ac08-beca8748cb65"
+   ]
+  ]
+ },
+ "Design and Behavior of Precast, Prestressed Girders Made Continuous â An Analytical and Experimental Study": {
+  "found": true,
+  "id": "https://openalex.org/W2592729069",
+  "title": "Design and Behavior of Precast, Prestressed Girders Made Continuous â An Analytical and Experimental Study",
+  "doi": null,
+  "authors": [
+   "Charles D. Newhouse"
+  ],
+  "date": "2005-04-21",
+  "venue": "VTechWorks (Virginia Tech)",
+  "publisher": "Virginia Tech",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/10919/27207",
+  "locations": [
+   "http://hdl.handle.net/10919/27207",
+   "https://vtechworks.lib.vt.edu/handle/10919/27207"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10919/27207",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Over the past fifty years, many states have recognized the benefits of making precast, prestressed multi-girder bridges continuous by connecting the girders with a continuity diaphragm. Although there is widespread agreement on the benefits of continuous construction, there has not been as much agreement on either the methods used for design of these systems or the details used for the continuity connections. To aid designers in choosing the most appropriate method, an analytical and experimental study was undertaken at Virginia Tech. Analyses were done to compare the differences in the predicted continuity moments for different design methods and assumptions over a range of commonly used systems of Precast Concrete Bulb Tee (PCBT) girders and cast-in-place slabs. The results of the analyses were used to develop three continuity connection details for testing during the experimental study. Three different continuity connections were tested using full depth PCBT 45 in. deep girders made continuous with a 6 ft wide slab. The bottom of the ends of the girders were made continuous with the continuity connection by extending prestressing strands for one test and extending 180 degree bent bars for the other test. Both connections adequately resisted service, cyclic, and ultimate loads. But, the test with the extended bars remained stiffer during cyclic loading and is recommended for use. A third test was performed on a system using only a slab cast across the top of the girders. Tw",
+  "lang": "en",
+  "cited": 7,
+  "probeUrl": "http://hdl.handle.net/10919/27207",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10919/27207"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/10919/27207",
+    500,
+    "http://hdl.handle.net/10919/27207"
+   ],
+   [
+    "https://vtechworks.lib.vt.edu/handle/10919/27207",
+    200,
+    "https://vtechworks.lib.vt.edu/items/8a7467d9-21fd-4fd4-8a45-3c43776a0d2d"
+   ]
+  ]
+ },
+ "CRACKING OF PRESTRESSED CONCRETE IN SEAWATER": {
+  "found": true,
+  "id": "https://openalex.org/W230822776",
+  "title": "CRACKING OF PRESTRESSED CONCRETE IN SEAWATER",
+  "doi": null,
+  "authors": [
+   "David Stark",
+   "George Horeczko",
+   "Mort Rowghani"
+  ],
+  "date": "1999-12-01",
+  "venue": "ACI Concrete International",
+  "publisher": "American Concrete Institute",
+  "type": "article",
+  "landing": "https://trid.trb.org/view/514650",
+  "locations": [
+   "https://trid.trb.org/view/514650",
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/746",
+   "https://trid.trb.org/view.aspx?id=1162351"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Prestressed, precast concrete piles have been used in the Port of Los Angeles in southern California since 1960. In 1991, during an annual inspection, cracks were discovered on front-row bearing piles of several container freight wharves. This article discusses the results of a 1998 investigation into the causes of cracking in the prestressed concrete piles. The investigation indicated that the longitudinal cracking was probably caused partly by the delayed formation of ettringite that developed after steam curing the concrete at overly high temperatures. A second likely factor of the cracking was corrosion of prestressed tendons in the concrete piles. The results of field, petrographic, mechanical, and chemical analyses of these concrete piles are summarized. Maintenance regimes and recommendations for preventing distress in future construction are presented.",
+  "lang": "en",
+  "cited": 3,
+  "probeUrl": "https://trid.trb.org/view/514650",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/514650"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/514650",
+    503,
+    "https://trid.trb.org/view/514650"
+   ],
+   [
+    "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/746",
+    200,
+    "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/746"
+   ]
+  ]
+ },
+ "Characterization of Pore Structure and Crack Propagation in Concrete Using X-Ray Computed Tomography": {
+  "found": true,
+  "id": "https://openalex.org/W18479240",
+  "title": "Characterization of Pore Structure and Crack Propagation in Concrete Using X-Ray Computed Tomography",
+  "doi": null,
+  "authors": [
+   "Opio Konata Hunter"
+  ],
+  "date": "2004-12-13",
+  "venue": "University Libraries (University of Maryland)",
+  "publisher": "University of Maryland, College Park",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/1903/2153",
+  "locations": [
+   "http://hdl.handle.net/1903/2153",
+   "https://drum.lib.umd.edu/handle/1903/2153"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1903/2153",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This thesis utilized the method of computed tomography to quantify the pore structure and the development of cracks in concrete specimens due to delayed ettringite formation. The pore structure is responsible for the passage of harmful substances through the concrete matrix, while delayed ettringite formation causes expansion and internal cracking in concrete structures; particularly in prestressed and precast concrete elements. Computed tomography is a relatively new technique that can be utilized to determine the pore structure and crack propagation in concrete specimens within the mm to micrometer range. The experiment was successful in quantifying the pore structure in the specimens. The pore sizes and total porosity of each specimen were determined along with the pore size distribution on diameter and volume. A comparison was then made with the mercury intrusion porosimetry technique. However, the second objective of analyzing internal cracking due to delayed ettringite formation was not met.",
+  "lang": "en",
+  "cited": 2,
+  "probeUrl": "http://hdl.handle.net/1903/2153",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1903/2153"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1903/2153",
+    500,
+    "http://hdl.handle.net/1903/2153"
+   ],
+   [
+    "https://drum.lib.umd.edu/handle/1903/2153",
+    200,
+    "https://drum.lib.umd.edu/items/50fa1093-3bbd-4273-a8f8-1e788170d3fa"
+   ]
+  ]
+ },
+ "Behaviour of prestressed grout bond joints": {
+  "found": true,
+  "id": "https://openalex.org/W2582496970",
+  "title": "Behaviour of prestressed grout bond joints",
+  "doi": null,
+  "authors": [
+   "B.C. Carroll"
+  ],
+  "date": "1987-01-01",
+  "venue": "Spiral (Imperial College London)",
+  "publisher": "Imperial College London",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/10044/1/38255",
+  "locations": [
+   "http://hdl.handle.net/10044/1/38255",
+   "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.692188"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10044/1/38255",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Grouted sleeve connections, (grout bond joints), are used in offshore technology as the main platform-pile connection and in repairing damaged members and pipelines.This thesis presents several prestressing techniques as alternative methods for improving the strength of grouted connections and describes the design and testing of a series of small scale and large size connections.Following a review of bond and the existing experimental knowledge of plain and shear key connections, radial prestressing is proposed as an effective method of increasing the efficiency of such connections.Several methods of achieving this prestress are considered and described, viz.chemical prestressing using expansive grout and a novel method using high pressure grout.Preliminary tests are described, which investigate the behaviour of expansive grout under confinement and determine the intrinsic shrinkage of pressurised grout.To prove the concept of prestressing a series of small scale specimens is designed and tested, giving bond strengths of up to 7 N/mm2.Load slip curves and the variation of strains along the connection length are used to analyse the behaviour of such joints and to enable the available frictional bond under prestress to be determined.Following on the small scale tests a series of large scale tests, using connections with an overall diameter of 900mm and length varying from one to two diameters are designed.The testing of these models, at loads up to 2000 tonnes, is described, an",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "http://hdl.handle.net/10044/1/38255",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10044/1/38255"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/10044/1/38255",
+    500,
+    "http://hdl.handle.net/10044/1/38255"
+   ],
+   [
+    "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.692188",
+    200,
+    "https://ethos.bl.uk/concern/thesis_or_dissertations/692188"
+   ]
+  ]
+ },
+ "Feasibility of cracking resistance on self-compacting concrete using expansive agent & three-dimensional composite model of expansive concrete": {
+  "found": true,
+  "id": "https://openalex.org/W2307207433",
+  "title": "Feasibility of cracking resistance on self-compacting concrete using expansive agent & three-dimensional composite model of expansive concrete",
+  "doi": null,
+  "authors": [
+   "明宏 謝"
+  ],
+  "date": "2005-01-01",
+  "venue": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "type": "dissertation",
+  "landing": "https://kutarr.kochi-tech.ac.jp/records/324",
+  "locations": [
+   "https://kutarr.kochi-tech.ac.jp/records/324",
+   "http://hdl.handle.net/10173/176",
+   "http://ci.nii.ac.jp/naid/500000341009?l=ja"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=324&item_no=1&attribute_id=19&file_no=1",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Feasibility of Cracking Resistance on Self-compacting Concrete using Expansive Agent & Three-dimensional Composite Model of Expansive ConcreteCrack due to the shrinkage in concrete is widely acknowledged as one of the fundamental defects for reinforced concrete structure, it leads to premature deterioration and shortening the service life.The shrinkage together with the weak tensile strength may result in the injurious crack.Therefore, expansive agent has been employed to enhance the cracking resistance of concrete.With regard to self-compacting concrete (SCC), due to the low water-to-cement ratio and the high paste volume, the volume change at the hardening and drying process cannot be neglected.Most of the past researches on the application of expansive agent until now have been carried out for conventional concrete under water curing.The purpose of this research is to verify the feasibility of cracking resistance of SCC by using expansive agent under practical construction site environment.From the experimental result, the maximum expansion strain of SCC using expansive agent was less than that of conventional concrete with high water-to-cement ratio for the same dosage of expansive agent.And the insufficient expansion resulted in crack after the specimen was dried.It seemed that the efficiency of expansive agent was reduced on the application of SCC, due to the very low water-to-cement ratio.It was also found that the expansion characteristics greatly differ depending on ",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=324&item_no=1&attribute_id=19&file_no=1",
+  "probe": [
+   503,
+   "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=324&item_no=1&attribute_id=19&file_no=1"
+  ],
+  "curlProbe": [
+   [
+    "https://kutarr.kochi-tech.ac.jp/records/324",
+    503,
+    "https://kutarr.kochi-tech.ac.jp/records/324"
+   ],
+   [
+    "http://hdl.handle.net/10173/176",
+    500,
+    "http://hdl.handle.net/10173/176"
+   ],
+   [
+    "http://ci.nii.ac.jp/naid/500000341009?l=ja",
+    500,
+    "http://ci.nii.ac.jp/naid/500000341009?l=ja"
+   ],
+   [
+    "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=324&item_no=1&attribute_id=19&file_no=1",
+    503,
+    "https://kutarr.kochi-tech.ac.jp/?action=repository_action_common_download&item_id=324&item_no=1&attribute_id=19&file_no=1"
+   ]
+  ]
+ },
+ "The durability of precast concrete elements": {
+  "found": true,
+  "id": "https://openalex.org/W800389690",
+  "title": "The durability of precast concrete elements",
+  "doi": null,
+  "authors": [
+   "Phillip Dean Ronné"
+  ],
+  "date": "2000-01-01",
+  "venue": "Open University of Cape Town (University of Cape Town)",
+  "publisher": "University of Cape Town",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/11427/5007",
+  "locations": [
+   "http://hdl.handle.net/11427/5007",
+   "https://open.uct.ac.za/bitstream/11427/5007/1/thesis_ebe_2000_ronne_pd.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/11427/5007",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Modern fast track construction methods increasingly favour the use of precast concrete elements. Precast box culverts are structurally significant units, subject to an important combination of bridge loadings. Culverts occasionally in contact with water pose a high durability risk. Despite this, the current specifications allow a reduction in cover to reinforcing steel for precast culverts to only 20 mm from at least 40 mm for cast-in-place culverts.",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "http://hdl.handle.net/11427/5007",
+  "probe": [
+   500,
+   "http://hdl.handle.net/11427/5007"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/11427/5007",
+    500,
+    "http://hdl.handle.net/11427/5007"
+   ],
+   [
+    "https://open.uct.ac.za/bitstream/11427/5007/1/thesis_ebe_2000_ronne_pd.pdf",
+    200,
+    "https://open.uct.ac.za/server/api/core/bitstreams/1c363f43-387c-4cc0-875c-c5638c990cb9/content"
+   ]
+  ]
+ },
+ "BEST PRACTICES HANDBOOK ON ASPHALT PAVEMENT MAINTENANCE": {
+  "found": true,
+  "id": "https://openalex.org/W2568223236",
+  "title": "BEST PRACTICES HANDBOOK ON ASPHALT PAVEMENT MAINTENANCE",
+  "doi": null,
+  "authors": [
+   "Margaret Johnson"
+  ],
+  "date": "2000-02-01",
+  "venue": "University of Minnesota Digital Conservancy (University of Minnesota)",
+  "publisher": "University of Minnesota",
+  "type": "report",
+  "landing": "http://hdl.handle.net/11299/199769",
+  "locations": [
+   "http://hdl.handle.net/11299/199769",
+   "https://rosap.ntl.bts.gov/view/dot/14709/dot_14709_DS1.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/11299/199769",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The purpose of this handbook is to provide background information about the importance of pavement preservation and preventive maintenance, as well as present maintenance techniques for a variety of distresses and conditions. The major focus of this handbook is on preventive maintenance activities, which are performed while the roadway is still in good condition with only minimal distress, before the pavement falls into a condition where structural overlays, major milling or reclaiming, or replacement is necessary. The most common flexible pavement distresses are cracking, roughness, weathering, raveling, rutting and bleeding. If the distresses identified in a pavement are related to structural deficiencies, the pavement section is most likely not a candidate for preventive maintenance treatment, and should be scheduled for rehabilitation or reconstruction. Maintenance treatments covered in this handbook include: Crack repair w/sealing, including clean and seal, saw and seal, and rout and seal; crack filling, full depth crack repair, fog seal, seal coat, double chip seal, slurry seal, microsurfacing, thin hot mix overlays, and potholes and pavement patching. Tables are outlined giving the most common flexible pavement distresses, along with the best practices for rehabilitation for each. Also given are recommended applications for crack sealers and fillers, surface treatments, and pothole patching. Specifications, technical memoranda and special provisions are included for al",
+  "lang": "en",
+  "cited": 86,
+  "probeUrl": "http://hdl.handle.net/11299/199769",
+  "probe": [
+   500,
+   "http://hdl.handle.net/11299/199769"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/11299/199769",
+    500,
+    "http://hdl.handle.net/11299/199769"
+   ],
+   [
+    "https://rosap.ntl.bts.gov/view/dot/14709/dot_14709_DS1.pdf",
+    403,
+    "https://rosap.ntl.bts.gov/view/dot/14709/dot_14709_DS1.pdf"
+   ]
+  ]
+ },
+ "High Performance Fiber Reinforced Cementitious Composites as Durable Material for Concrete Structure Repair": {
+  "found": true,
+  "id": "https://openalex.org/W1483467571",
+  "title": "High Performance Fiber Reinforced Cementitious Composites as Durable Material for Concrete Structure Repair",
+  "doi": null,
+  "authors": [
+   "Victor C. Li"
+  ],
+  "date": "2004-01-01",
+  "venue": "Deep Blue (University of Michigan)",
+  "publisher": "University of Michigan",
+  "type": "article",
+  "landing": "http://hdl.handle.net/2027.42/84734>",
+  "locations": [
+   "http://hdl.handle.net/2027.42/84734>",
+   "http://hdl.handle.net/2027.42/84778",
+   "http://deepblue.lib.umich.edu/bitstream/handle/2027.42/84734/Repair-Proof.pdf?sequence=1"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://hdl.handle.net/2027.42/84734",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This paper addresses the property requirements of repair materials for high durability performance for concrete structure repair.It is proposed that the high tensile strain capacity of High Performance Fiber Reinforced Cementitious Composites (HPFRCC) makes such materials particularly suitable for repair applications, provided that the fresh properties are also adaptable to those required in placement techniques in typical repair applications.A specific version of HPFRCC, known as Engineered Cementitious Composites (ECC), is described.It is demonstrated that the fresh and hardened properties of ECC meet many of the requirements for durable repair performance.Recent experience in the use of this material in a bridge deck patch repair is highlighted.The origin of this article is a summary of a keynote lecture with the same title given at the Conference on Fiber Composites, High-Performance Concretes and Smart Materials, Chennai, India, Jan., 2004.It is only slightly updated here.",
+  "lang": "en",
+  "cited": 51,
+  "probeUrl": "https://hdl.handle.net/2027.42/84734",
+  "probe": [
+   403,
+   "https://hdl.handle.net/2027.42/84734"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2027.42/84734>",
+    400,
+    "http://hdl.handle.net/2027.42/84734>"
+   ],
+   [
+    "http://hdl.handle.net/2027.42/84778",
+    500,
+    "http://hdl.handle.net/2027.42/84778"
+   ],
+   [
+    "http://deepblue.lib.umich.edu/bitstream/handle/2027.42/84734/Repair-Proof.pdf?sequence=1",
+    500,
+    "http://deepblue.lib.umich.edu/bitstream/handle/2027.42/84734/Repair-Proof.pdf?sequence=1"
+   ],
+   [
+    "https://hdl.handle.net/2027.42/84734",
+    403,
+    "https://deepblue.lib.umich.edu/items/c2aa4eea-c6f0-4fd8-801b-3faa4c3bd043"
+   ]
+  ]
+ },
+ "Field Performance of Epoxy-Coated Reinforcing Steel in Virginia Bridge Decks": {
+  "found": true,
+  "id": "https://openalex.org/W570005418",
+  "title": "Field Performance of Epoxy-Coated Reinforcing Steel in Virginia Bridge Decks",
+  "doi": null,
+  "authors": [
+   "Wioleta A. Pyc",
+   "Richard E. Weyers",
+   "R M Weyers",
+   "David W Mokarem",
+   "Jerzy Żemajtis",
+   "Michael M Sprinkel",
+   "John G. Dillard"
+  ],
+  "date": "2000-02-01",
+  "venue": "VTechWorks (Virginia Tech)",
+  "publisher": "Virginia Tech",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/10919/29399",
+  "locations": [
+   "http://hdl.handle.net/10919/29399",
+   "http://hdl.handle.net/10919/46719",
+   "https://scholar.lib.vt.edu/theses/available/etd-102998-190256/unrestricted/PYCPHD.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10919/29399",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "In this study, the corrosion protection performance of epoxy-coated reinforcing steel (ECR) was evaluated using approximately 250 concrete cores from 18 bridge decks in Virginia. The decks were 2 to 20 years old at the time of the investigation. The deck field inspections included a crack survey and cover depth determination in the right traffic lane. A maximum of 12 cores with the top reinforcement randomly located in the lowest 12th percentile cover depth were taken from each bridge deck. Because of the safety concerns associated with taking cores from the lower steel mat, and to minimize damage to the bridge, a maximum of only 3 cores were taken through the truss bars. The laboratory evaluation of the concrete cores included a visual examination and a determination of the carbonation depth, moisture content, absorption, percent saturation, and chloride content at a 13-mm depth. The rapid chloride permeability test was also performed for the surface and base concrete on samples obtained from the cores taken through the truss bars to determine chloride permeability. The ECR inspection consisted of a visual examination, a damage evaluation, and a determination of coating thickness and adhesion. The condition of the steel underneath the epoxy coating was also evaluated. Adhesion loss of the epoxy coating to the steel surface was detected in all but one deck that was 4 years old and older. The epoxy coatings were debonding from the reinforcing bars. Whereas a bonded coating can",
+  "lang": "en",
+  "cited": 43,
+  "probeUrl": "http://hdl.handle.net/10919/29399",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10919/29399"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/10919/29399",
+    500,
+    "http://hdl.handle.net/10919/29399"
+   ],
+   [
+    "http://hdl.handle.net/10919/46719",
+    500,
+    "http://hdl.handle.net/10919/46719"
+   ],
+   [
+    "https://scholar.lib.vt.edu/theses/available/etd-102998-190256/unrestricted/PYCPHD.pdf",
+    200,
+    "https://vtechworks.lib.vt.edu/communities/e7b958c7-340d-41f6-a201-ccb628b61a70"
+   ]
+  ]
+ },
+ "STUDIES OF EARLY HYDRATION REACTIONS OF PORTLAND CEMENT BY X -RAY DIFFRACTION": {
+  "found": true,
+  "id": "https://openalex.org/W597940278",
+  "title": "STUDIES OF EARLY HYDRATION REACTIONS OF PORTLAND CEMENT BY X -RAY DIFFRACTION",
+  "doi": null,
+  "authors": [
+   "Paul Seligmann",
+   "N R Greening"
+  ],
+  "date": "1964-01-01",
+  "venue": "Highway Research Record",
+  "publisher": "National Research Council",
+  "type": "article",
+  "landing": "https://trid.trb.org/view/101397",
+  "locations": [
+   "https://trid.trb.org/view/101397"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "MONITORING BY X-RAY DIFFRACTION OF HYDRATION OF TRICALCIUM ALUMINATE IN PASTES CONTAINING CALCIUM HYDROXIDE AND GYPSUM HAS DEMONSTRATED SUCCESSIVE FORMATION OF THE HIGH-SULFATE FORM OF CALCIUM SULFOALUMINATE HYDRATE /ETTRINGITE/, THE LOW -SULFATED HYDRATE AND TETRACALCIUM ALUMINATE HYDRATE. THESE REACTIONS AND EFFECTS OF VARIOUS FACTORS ON THEM CORRESPOND VERY CLOSELY TO THE EARLY HYDRATION BEHAVIOR OF C3A IN PORTLAND CEMENT. DIFFRACTION STUDIES OF HYDRATING SINTERED TRICALCIUM ALUMINATE SLABS HAVE DEMONSTRATED THE RETARDING EFFECT OF THE INITIALLY FORMED ETTRINGITE FILM. X-RAY AND DILATOMETER STUDIES HAVE SHOWN THAT THE HYDRATING C3A PASTES UNDERGO LARGE INCREASES IN VOLUME BECAUSE OF A TENDENCY TO IMBIBE LARGE QUANTITIES OF WATER. THE INDIVIDUAL EFFECTS OF OTHER PORTLAND CEMENT CONSTITUENTS ON THESE HYDRATION REACTIONS HAVE BEEN INVESTIGATED. A STUDY OF HYDRATION OF COMBINATIONS OF THE VARIOUS CONSTITUENTS HAS LED TO A FAIRLY COMPLETE PICTURE OF THE EARLY HYDRATION REACTIONS OF PORTLAND CEMENT. EXAMINATION OF A FEW WELL-KNOWN ACCELERATING AND RETARDING MATERIALS HAS SHOWN THEM TO AFFECT PRIMARILY THE HYDRATION RATE OF C3S. THEY MAY AFFECT THE RATES BUT NOT THE NATURE OF THE EARLY C3A REACTIMONS. RETARDERS CAN PRODUCE A LARGE INITIAL ACCELERATION OF C3A HYDRATION. WHEN CONSIDERED IN RELATION TO THE STATE OF THE CALCIUM SULFATE IN THE CEMENT, THIS PREVIOUSLY UNRECOGNIZED EFFECT CAN ACCOUNT FOR MANY INSTANCES OF ABNORMAL SETTING OF CONCRETE. OPTIMUM SO3 CONTENT IS CHARACTERIZE",
+  "lang": "en",
+  "cited": 29,
+  "probeUrl": "https://trid.trb.org/view/101397",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/101397"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/101397",
+    503,
+    "https://trid.trb.org/view/101397"
+   ]
+  ]
+ },
+ "Factors affecting sulfate resistance of mortars": {
+  "found": true,
+  "id": "https://openalex.org/W1497688861",
+  "title": "Factors affecting sulfate resistance of mortars",
+  "doi": null,
+  "authors": [
+   "Katharine Mather"
+  ],
+  "date": "1980-10-01",
+  "venue": "US Army Corps of Engineers: Engineer Research and Development Center (Knowledge Core)",
+  "publisher": null,
+  "type": "report",
+  "landing": "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8d27-4ef8-e053-411ac80adeb3/download",
+  "locations": [
+   "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8d27-4ef8-e053-411ac80adeb3/download",
+   "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA092831",
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a092831.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/11681/11016",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The ability of a mortar made using portland cement, fine aggregate, and water to resist attack by sulfates is affected by the proportions of the mortar (water-cement ratio and cement content), by the maturity, by the amount of tricalcium aluminate in the portland cement, by the presence of tricalcium aluminate-sodium oxide solid solutions with different structures and reactivities, and by the composition, reactivity, and amount of pozzolan used together with the portland cement. Cements investigated included: portland cements of Types (I-III), and V meeting ASTM C 150; blended cements including Type IP's meeting ASTM C 595 that were made from the same clinkers as the Type I's; and Type I's blended with pozzolans including fly ashes produced by burning bituminous, subbitumous, and lignitic coals, calcined natural volcanic glass high in silica, and silica fume. Silica fume forms glassy microspheres that may contain over 90% SiO2; it is a by-product of the production of silicon metal. Some of the fly ashes produced from subbituminous and lignitic coals replacing 30% by volume of cements increased the expansion of mortars containing the blends when stored in sulfate solutions. This behavior reflects SiO2 below 50%, Al2O3 16 to 26%, and CaO 5 to 30%. Al2O3 and CaO in the fly ash glass are readily available to combine with sulfate to form ettringite. With cement of lower C3A content, some of the subbituminous and lignitic fly ash blends improved the sulfate resistance of mortars, e",
+  "lang": "en",
+  "cited": 18,
+  "probeUrl": "http://hdl.handle.net/11681/11016",
+  "probe": [
+   500,
+   "http://hdl.handle.net/11681/11016"
+  ],
+  "curlProbe": [
+   [
+    "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8d27-4ef8-e053-411ac80adeb3/download",
+    200,
+    "https://erdc-library.erdc.dren.mil/verify-page.html?next=/bitstreams/81b728f8-8d27-4ef8-e053-411ac80adeb3/download"
+   ]
+  ]
+ },
+ "APPLICATION OF DIFFERENTIAL THERMAL ANALYSIS IN CEMENT RESEARCH": {
+  "found": true,
+  "id": "https://openalex.org/W652164331",
+  "title": "APPLICATION OF DIFFERENTIAL THERMAL ANALYSIS IN CEMENT RESEARCH",
+  "doi": null,
+  "authors": [
+   "V.S. Ramachandran",
+   "Rolf F. Feldman",
+   "P. J. Sereda"
+  ],
+  "date": "1964-01-01",
+  "venue": "NPARC",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://nrc-publications.canada.ca/fra/voir/objet/?id=69b7fe4e-1263-40de-8786-1036fc991adc",
+  "locations": [
+   "https://nrc-publications.canada.ca/fra/voir/objet/?id=69b7fe4e-1263-40de-8786-1036fc991adc",
+   "https://trid.trb.org/view/101396"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://nrc-publications.canada.ca/eng/view/ft/?id=69b7fe4e-1263-40de-8786-1036fc991adc",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Differential thermal analysis (DTA) has recently attained increasing importance as a research tool in cement chemistry. DTA is normally used in identifying various materials but could also be employed to follow reactions by heating the reactants gradually to elevated temperatures. Use of sensitive equipment and proper calibration facilitate quantitative estimation of materials. Certain poorly crystallized compounds not easily identifiable by x-ray diffraction give characteristic thermal peaks. This review presents the application of DTA to portland cement. Other cements are included to illustrate the importance of DTA to an understanding of the chemistry of cement in general and also of the potentialities of the method itself.",
+  "lang": "en",
+  "cited": 13,
+  "probeUrl": "https://nrc-publications.canada.ca/eng/view/ft/?id=69b7fe4e-1263-40de-8786-1036fc991adc",
+  "probe": [
+   200,
+   "https://nrc-publications.canada.ca/eng/view/ft/?id=69b7fe4e-1263-40de-8786-1036fc991adc"
+  ],
+  "curlProbe": [
+   [
+    "https://nrc-publications.canada.ca/fra/voir/objet/?id=69b7fe4e-1263-40de-8786-1036fc991adc",
+    200,
+    "https://nrc-publications.canada.ca/fra/voir/objet/?id=69b7fe4e-1263-40de-8786-1036fc991adc"
+   ]
+  ]
+ },
+ "Sulfate soundness : sulfate attack and expansive cement in concrete": {
+  "found": true,
+  "id": "https://openalex.org/W2735720359",
+  "title": "Sulfate soundness : sulfate attack and expansive cement in concrete",
+  "doi": null,
+  "authors": [
+   "Bryant Mather"
+  ],
+  "date": "1969-06-01",
+  "venue": "US Army Corps of Engineers: Engineer Research and Development Center (Knowledge Core)",
+  "publisher": null,
+  "type": "report",
+  "landing": "http://hdl.handle.net/11681/11474",
+  "locations": [
+   "http://hdl.handle.net/11681/11474",
+   "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0733743",
+   "https://erdc-library.erdc.dren.mil/xmlui/handle/11681/11474"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8e73-4ef8-e053-411ac80adeb3/download",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Expansive Cement in Concrete Qualite du sul£ate, attague par sulfate, et ciment expansif dans le beton SummaryThe phenomena related to the formation of hydrated sulfates in concrete, or in aggregates, cement pastes, or mortars, have been investigated for many years for a variety of purposes.The cyclic immersion of aggregate particles in solutions of sodium or magnesium sulfate, followed by drying, is the basis of one of the oldest procedures employed to develop data purported to relate to aggregate \"soundness.\"The storage of mortar specimens in sulfate solutions is the basis of many tests for sulfate resistance of cements.Sulfate-resistance testing procedures in which the mortar is mixed with added sulfate and the specimens are stored in water are in widespread use.These latter procedures are similar to procedures employed in studies of expansive cements.",
+  "lang": "en",
+  "cited": 5,
+  "probeUrl": "https://erdc-library.erdc.dren.mil/bitstreams/81b728f8-8e73-4ef8-e053-411ac80adeb3/download",
+  "probe": [
+   200,
+   "https://erdc-library.erdc.dren.mil/verify-page.html?next=/bitstreams/81b728f8-8e73-4ef8-e053-411ac80adeb3/download"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/11681/11474",
+    500,
+    "http://hdl.handle.net/11681/11474"
+   ],
+   [
+    "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0733743",
+    500,
+    "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0733743"
+   ],
+   [
+    "https://erdc-library.erdc.dren.mil/xmlui/handle/11681/11474",
+    200,
+    "https://erdc-library.erdc.dren.mil/verify-page.html?next=/xmlui/handle/11681/11474"
+   ]
+  ]
+ },
+ "Tests of Concrete and Reinforced Concrete Columns: Series of 1907": {
+  "found": true,
+  "id": "https://openalex.org/W1576523425",
+  "title": "Tests of Concrete and Reinforced Concrete Columns: Series of 1907",
+  "doi": null,
+  "authors": [
+   "Arthur N. Talbot"
+  ],
+  "date": "1907-01-01",
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "publisher": "University of Illinois System",
+  "type": "report",
+  "landing": "http://hdl.handle.net/2142/4428",
+  "locations": [
+   "http://hdl.handle.net/2142/4428",
+   "http://hdl.handle.net/2142/4529",
+   "https://www.ideals.illinois.edu/bitstream/2142/4428/1/engineeringexperv00000i00010_tei.xml",
+   "https://www.amazon.com/Tests-Concrete-Reinforced-Columns-Classic/dp/133417864X"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://www.ideals.illinois.edu/items/4923/bitstreams/19270/data.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 5,
+  "probeUrl": "https://www.ideals.illinois.edu/items/4923/bitstreams/19270/data.pdf",
+  "probe": [
+   403,
+   "https://www.ideals.illinois.edu/items/4923/bitstreams/19270/data.pdf"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2142/4428",
+    500,
+    "http://hdl.handle.net/2142/4428"
+   ],
+   [
+    "http://hdl.handle.net/2142/4529",
+    500,
+    "http://hdl.handle.net/2142/4529"
+   ],
+   [
+    "https://www.ideals.illinois.edu/bitstream/2142/4428/1/engineeringexperv00000i00010_tei.xml",
+    404,
+    "https://www.ideals.illinois.edu/bitstream/2142/4428/1/engineeringexperv00000i00010_tei.xml"
+   ],
+   [
+    "https://www.amazon.com/Tests-Concrete-Reinforced-Columns-Classic/dp/133417864X",
+    200,
+    "https://www.amazon.com/Tests-Concrete-Reinforced-Columns-Classic/dp/133417864X"
+   ]
+  ]
+ },
+ "Pozzolith as an admixture in concrete": {
+  "found": true,
+  "id": "https://openalex.org/W7167878622",
+  "title": "Pozzolith as an admixture in concrete",
+  "doi": null,
+  "authors": [
+   "G. R. Eide"
+  ],
+  "date": "1957-01-01",
+  "venue": "UND Scholarly Commons (University of North Dakota)",
+  "publisher": "University of North Dakota",
+  "type": "dissertation",
+  "landing": "https://commons.und.edu/theses/9320",
+  "locations": [
+   "https://commons.und.edu/theses/9320"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=10277&context=theses",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The purpose of this investigation will be to determine some of the ways in which the addition of Pozzolith affects the properties of concrete made with normal portland cement.Primarily, attention will be directed toward finding comparisons between water-cement ratios, cement factors, slumps and strengths of concrete with and without Pozzolith.",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://commons.und.edu/cgi/viewcontent.cgi?article=10277&context=theses",
+  "probe": [
+   403,
+   "https://commons.und.edu/cgi/viewcontent.cgi?article=10277&context=theses"
+  ],
+  "curlProbe": [
+   [
+    "https://commons.und.edu/theses/9320",
+    200,
+    "https://commons.und.edu/theses/9320/"
+   ]
+  ]
+ },
+ "Experimental determination of compressive strength of lightweight concrete made with prewetted noonlite aggregate": {
+  "found": true,
+  "id": "https://openalex.org/W7167758515",
+  "title": "Experimental determination of compressive strength of lightweight concrete made with prewetted noonlite aggregate",
+  "doi": null,
+  "authors": [
+   "James S Glass"
+  ],
+  "date": "1956-01-01",
+  "venue": "UND Scholarly Commons (University of North Dakota)",
+  "publisher": "University of North Dakota",
+  "type": "dissertation",
+  "landing": "https://commons.und.edu/theses/9267",
+  "locations": [
+   "https://commons.und.edu/theses/9267"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://commons.und.edu/context/theses/article/10224/viewcontent/MASTERS_20THESIS_201956_20GLASS.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://commons.und.edu/context/theses/article/10224/viewcontent/MASTERS_20THESIS_201956_20GLASS.pdf",
+  "probe": [
+   403,
+   "https://commons.und.edu/context/theses/article/10224/viewcontent/MASTERS_20THESIS_201956_20GLASS.pdf"
+  ],
+  "curlProbe": [
+   [
+    "https://commons.und.edu/theses/9267",
+    200,
+    "https://commons.und.edu/theses/9267/"
+   ]
+  ]
+ },
+ "Early age concrete thermal stress measurement and modeling": {
+  "found": true,
+  "id": "https://openalex.org/W2295089114",
+  "title": "Early age concrete thermal stress measurement and modeling",
+  "doi": null,
+  "authors": [
+   "Kyle A. Riding"
+  ],
+  "date": "2007-01-01",
+  "venue": "Texas ScholarWorks (Texas Digital Library)",
+  "publisher": "Texas Digital Library",
+  "type": "dissertation",
+  "landing": "http://hdl.handle.net/2152/3281",
+  "locations": [
+   "http://hdl.handle.net/2152/3281",
+   "https://repositories.lib.utexas.edu/bitstream/2152/3281/2/ridingd43672.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/2152/3281",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "A large amount of heat can be liberated during cement hydration, causing very large temperature increases in mass concrete members. The non-uniform temperature field produced by the cement during curing can cause very high internal stresses that may crack the concrete. Concrete thermal cracking in very large structures is a well-known phenomenon and was studied extensively during the height of dam construction in the United States. In recent years concrete bridge member sizes have increased for structural and aesthetic reasons. Recent problems in San Antonio and Houston, Texas with thermal cracking and very high internal temperatures in mass concrete bridge members has renewed interest in studying early-age thermal cracking and its mechanisms. In order to predict the early-age thermal cracking risk of a concrete member, the temperature history, autogenous shrinkage, modulus development, tensile strength development, coefficient of thermal expansion development, creep behavior, and external restraint conditions must be known. A testing procedure has been developed to measure concrete heat of hydration, mechanical property development, and free shrinkage response at different curing temperatures. The concrete free shrinkage includes thermal and autogenous shrinkage components and is measured using a newly developed free shrinkage testing apparatus. The early age concrete creep is calculated from rigid cracking frame tests performed at different varying temperatures. Trends in e",
+  "lang": "en",
+  "cited": 33,
+  "probeUrl": "http://hdl.handle.net/2152/3281",
+  "probe": [
+   500,
+   "http://hdl.handle.net/2152/3281"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/2152/3281",
+    500,
+    "http://hdl.handle.net/2152/3281"
+   ],
+   [
+    "https://repositories.lib.utexas.edu/bitstream/2152/3281/2/ridingd43672.pdf",
+    200,
+    "https://repositories.lib.utexas.edu/server/api/core/bitstreams/58b9d79a-fb89-4741-843c-cf3ee742e0d9/content"
+   ]
+  ]
+ },
+ "Shear Strength of a PCBT-53 Girder Fabricated with Lightweight Self-Consolidating Concrete": {
+  "found": true,
+  "id": "https://openalex.org/W319802710",
+  "title": "Shear Strength of a PCBT-53 Girder Fabricated with Lightweight Self-Consolidating Concrete",
+  "doi": null,
+  "authors": [
+   "Benjamin Z. Dymond",
+   "Carin L. Roberts-Wollmann",
+   "Thomas E. Cousins"
+  ],
+  "date": "2009-01-01",
+  "venue": "VTechWorks (Virginia Tech)",
+  "publisher": "Virginia Tech",
+  "type": "dissertation",
+  "landing": "http://scholar.lib.vt.edu/theses/available/etd-12042007-104327/",
+  "locations": [
+   "http://scholar.lib.vt.edu/theses/available/etd-12042007-104327/",
+   "http://hdl.handle.net/10919/46664",
+   "https://scholar.lib.vt.edu/theses/available/etd-12042007-104327/unrestricted/DymondThesis.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/10919/35949",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Lightweight self-consolidating concrete (LWSCC) is advantageous in the bridge industry because members fabricated with this material have a significantly lower self weight and in its fresh state, LWSCC has a low viscosity that eliminates the need for vibration during fabrication. Unfortunately, lightweight, self-consolidating concrete typically has lower tensile strength and possibly a lower aggregate interlock strength. This combination may result in a lower overall shear strength. In addition, this type of concrete has a lower modulus of elasticity, which leads to higher elastic shortening losses and higher deflections. In order to evaluate the affect of lightweight, self-consolidating concrete on the shear strength of prestressed concrete bridge girders, the study described herein was performed. A single PCBT-53 bridge girder was fabricated and tested. The girder itself was cast with lightweight, self-consolidating concrete and a composite cast-in-place deck was fabricated using lightweight concrete. In this study, the girder and deck were tested using three different loading conditions. These tests aimed to experimentally quantify the beam's overall web shear strength and flexure-shear strength. Data pertaining to each test are presented in this report. Results include material properties, deflection plots, strain plots, and temperature change plotted with respect to time. The measured shear strength is compared to several design methods. With respect to web shear strengt",
+  "lang": "en",
+  "cited": 25,
+  "probeUrl": "http://hdl.handle.net/10919/35949",
+  "probe": [
+   500,
+   "http://hdl.handle.net/10919/35949"
+  ],
+  "curlProbe": [
+   [
+    "http://scholar.lib.vt.edu/theses/available/etd-12042007-104327/",
+    500,
+    "http://scholar.lib.vt.edu/theses/available/etd-12042007-104327/"
+   ],
+   [
+    "http://hdl.handle.net/10919/46664",
+    500,
+    "http://hdl.handle.net/10919/46664"
+   ],
+   [
+    "https://scholar.lib.vt.edu/theses/available/etd-12042007-104327/unrestricted/DymondThesis.pdf",
+    200,
+    "https://vtechworks.lib.vt.edu/communities/e7b958c7-340d-41f6-a201-ccb628b61a70"
+   ]
+  ]
+ },
+ "Experimental determination of crack softening characteristics of normalweight and lightweight concrete": {
+  "found": true,
+  "id": "https://openalex.org/W2164357131",
+  "title": "Experimental determination of crack softening characteristics of normalweight and lightweight concrete",
+  "doi": null,
+  "authors": [
+   "H.A.W. Cornelissen",
+   "Dick A. Hordijk",
+   "Hans Wolf Reinhardt"
+  ],
+  "date": "1986-01-01",
+  "venue": "Research Repository (Delft University of Technology)",
+  "publisher": "Delft University of Technology",
+  "type": "article",
+  "landing": "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+  "locations": [
+   "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+   "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+   "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "For modelling fracture behaviour of concrete various types of deformation controlled uniaxial tests were performed on normal weight and on lightweight concrete. These two types of concrete were compared with respect to their envelope curves, material stiffness and degradation during post-peak cycles, and residual compressive deformation on crack closure. Differences in behaviour were explained on the basis of the properties of the aggregates which result in specific fracture surfaces. Based on narrow specimens with uniform stress distribution, unique stress deformation curves were determined and the descending branches were modelled. These models were applied to calculate the stress distribution in wide specimens with a sawcut. The total force was in good agreement with the experiment. Probable reasons for the different behaviour of lightweight and normalweight concrete are discussed.",
+  "lang": "en",
+  "cited": 298,
+  "probeUrl": "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+  "probe": [
+   500,
+   "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c"
+  ],
+  "curlProbe": [
+   [
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c",
+    500,
+    "http://resolver.tudelft.nl/uuid:08c29b39-5c60-4ab6-b9d5-643d11007f7c"
+   ]
+  ]
+ },
+ "Fracture Mechanics of an Elastic Softening Material like Concrete": {
+  "found": true,
+  "id": "https://openalex.org/W96306603",
+  "title": "Fracture Mechanics of an Elastic Softening Material like Concrete",
+  "doi": null,
+  "authors": [
+   "Hans Wolf Reinhardt"
+  ],
+  "date": "1984-01-01",
+  "venue": "Research Repository (Delft University of Technology)",
+  "publisher": "Delft University of Technology",
+  "type": "article",
+  "landing": "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+  "locations": [
+   "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+   "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+   "http://repository.tudelft.nl/assets/uuid:7e908683-e816-4c4f-928f-03103ed2780e/Reinhardt_1984.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Concrete is modelled as a linear elastic softening material and introduced into fracture mechanics. A discrete crack is considered with softening zones at the crack tips. Following the approach of Dugdale/Barenblatt, closing stresses are applied to the crack faces in the softening zone. The stresses are described by a power function. Relations are worked out between the remote stress on a cracked plate, the tensile strength of the material and the size of the softening zone. The finite width of a plate is considered and so are various stress distributions of the softening zone. Experiments were performed to estabilish the stress-strain behaviour of concrete in deformation-controlled uniaxial tensile loading. Furthermore, it was investigated whether cyclic loading affects the static envelope curve. A qualitative model is presented which illustrates the effect of prepeak cyclic loading on deformation and stress distribution in a specimen. The results show that nonlinear fracture mechanics can be applied to concrete. The loadbearing capacity of a cracked plate can be predicted with reasonable accuracy. As appears from the experiments, the application of this approach to cyclic loading is very promising.",
+  "lang": "en",
+  "cited": 223,
+  "probeUrl": "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+  "probe": [
+   500,
+   "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e"
+  ],
+  "curlProbe": [
+   [
+    "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e",
+    500,
+    "http://resolver.tudelft.nl/uuid:7e908683-e816-4c4f-928f-03103ed2780e"
+   ],
+   [
+    "http://repository.tudelft.nl/assets/uuid:7e908683-e816-4c4f-928f-03103ed2780e/Reinhardt_1984.pdf",
+    500,
+    "http://repository.tudelft.nl/assets/uuid:7e908683-e816-4c4f-928f-03103ed2780e/Reinhardt_1984.pdf"
+   ]
+  ]
+ },
+ "Bond Strength of Epoxy-Coated Reinforcement to Concrete": {
+  "found": true,
+  "id": "https://openalex.org/W2334624017",
+  "title": "Bond Strength of Epoxy-Coated Reinforcement to Concrete",
+  "doi": null,
+  "authors": [
+   "Oan Chul Choi",
+   "David Darwin",
+   "Steven McCabe"
+  ],
+  "date": "1990-07-01",
+  "venue": "KU ScholarWorks (University of Kansas)",
+  "publisher": "University of Kansas",
+  "type": "report",
+  "landing": "http://hdl.handle.net/1808/20414",
+  "locations": [
+   "http://hdl.handle.net/1808/20414",
+   "https://kuscholarworks.ku.edu/handle/1808/20414"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1808/20414",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Beam-end specimens were used to determine the effects of coating thickness (3 to 17 mils), bar size (No. 5 - No . 11), bar position (top- cast and bottom- cast), deformation pattern (3 patterns), and cover (1, 2 and 3 bar diameters) on the bond strength between de - formed reinforcement and concrete . The reduction of bond strength by epoxy coating is a function of deformation pattern, bar size, and coating thickness. The bond strength of small bars is more sensitive to coating thickness than the bond strength of larger bars. Large bars are affected more by the presence of epoxy coating than small bars. Bars with relatively larger rib bearing areas are affected less by the coating than bars with smaller bearing areas. Epoxy-coated top cast bars are affected less by the coating than bottomcast bars. Designs based on these observations will be less conservative than those based on the development length provisions in the 1989 ACI Building Code. Nonlinear finite element analysis was conducted to study the role played by epoxy coatings. The model includes representations for deformed steel bar, concrete, and the interfacial material. The interface is represented by special link elements. The longitudinal splitting crack is modeled using a nonlinear fracture mechanics scheme. The interfacial properties, mainly friction, govern bond performance. The finite element studies reveal close agreement between observed laboratory behavior and the computer results.",
+  "lang": "en",
+  "cited": 16,
+  "probeUrl": "http://hdl.handle.net/1808/20414",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1808/20414"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1808/20414",
+    500,
+    "http://hdl.handle.net/1808/20414"
+   ],
+   [
+    "https://kuscholarworks.ku.edu/handle/1808/20414",
+    403,
+    "https://kuscholarworks.ku.edu/handle/1808/20414"
+   ]
+  ]
+ },
+ "Fracture Behavior of Adhesive Joints in Poplar": {
+  "found": true,
+  "id": "https://openalex.org/W174316082",
+  "title": "Fracture Behavior of Adhesive Joints in Poplar",
+  "doi": null,
+  "authors": [
+   "Buhnnum Kyokong",
+   "Frederick J. Keenan",
+   "Stephen J. Boyd"
+  ],
+  "date": "1986-01-01",
+  "venue": "Wood and Fiber Science (Society of Wood Science and Technology)",
+  "publisher": "Society of Wood Science and Technology",
+  "type": "article",
+  "landing": "http://wfs.swst.org/index.php/wfs/article/view/1500",
+  "locations": [
+   "http://wfs.swst.org/index.php/wfs/article/view/1500",
+   "https://digitalcommons.usu.edu/aspen_bib/3650",
+   "https://digitalcommons.usu.edu/aspen_bib/3650/"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://wfs.swst.org/index.php/wfs/article/view/1500",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This study investigated the fracture behavior of poplar-resorcinol gluebonds and determined the respective ranges of applicability of Griffith's brittle fracture theory, Rice's J-integral theory, and Eringen's nonlocal theory. Three-point bending (TPB) specimens of 27 replications for each crack length (0, 3.2, 6.4, and 12.7 mm) for a total of 108 specimens were tested in flexure by the bending normal-to-glueline method. Circular-bar tension (CBT) specimens of 18 replications were tested in tension according to ASTM standard D897-78. Furthermore, compact tension (CT) specimens of 27 replications were tested in cleavage for use as a basis of comparison.The ultimate bending stress formula corrected for the low span-depth ratio (RA) was found to be applicable to a TPB specimen with a crack of various lengths. The Griffith brittle fracture, Rice's J-integral, and Eringen's nonlocal theories were all valid in application to poplar-resorcinol joints, provided that the appropriate adjustments are taken into account. On this basis, fracture toughness (Kic) of the joint is approximately 255 kPa√m. The percentage of interphase failure was found to correlate well with tensile strength of the gluebonds, but not with cleavage strength.In addition, microscopic examination of the glue joints revealed that the adhesive flows mainly into the vessels of poplar and that the depth of adhesive penetration depends on gravity. Failure that occurred away from the gluebond in the three-point bending ",
+  "lang": "en",
+  "cited": 2,
+  "probeUrl": "http://wfs.swst.org/index.php/wfs/article/view/1500",
+  "probe": [
+   500,
+   "http://wfs.swst.org/index.php/wfs/article/view/1500"
+  ],
+  "curlProbe": [
+   [
+    "http://wfs.swst.org/index.php/wfs/article/view/1500",
+    500,
+    "http://wfs.swst.org/index.php/wfs/article/view/1500"
+   ],
+   [
+    "https://digitalcommons.usu.edu/aspen_bib/3650",
+    200,
+    "https://digitalcommons.usu.edu/aspen_bib/3650/"
+   ]
+  ]
+ },
+ "FINITE ELEMENT ANALYSIS OF CONCRETE FRACTURE SPECIMENS": {
+  "found": true,
+  "id": "https://openalex.org/W2185635790",
+  "title": "FINITE ELEMENT ANALYSIS OF CONCRETE FRACTURE SPECIMENS",
+  "doi": null,
+  "authors": [
+   "Linda D. Leibengood",
+   "David Darwin",
+   "Robert H. Dodds"
+  ],
+  "date": "1984-05-01",
+  "venue": "KU ScholarWorks (University of Kansas)",
+  "publisher": "University of Kansas",
+  "type": "report",
+  "landing": "http://hdl.handle.net/1808/20346",
+  "locations": [
+   "http://hdl.handle.net/1808/20346",
+   "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Finite%20element%20analysis.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/1808/20346",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "The effects of the descending branch of the tensile stress-strain curve, fracture energy, grid refinement, and load-step size on the response of finite element models of notched concrete beams are studied. The width of the process zone and constraint of crack angles are investigated. Nonlinearity is 1 imited to cracking of the concrete. A limiting tensile stress criterion governs crack initiation. Concrete is represented as linear elastic prior to cracking. Cracks are modeled using a smeared representaion. The post-cracking behavior is controlled by the shape of the descending branch, fracture energy, crack angle, and element size. Unloading occurs at a slope equal to the i nitia 1 modulus of the material. load deflection curves and cracking patterns are used to evaluate the beam's response. Comparisons of the process zone size are made. All analyses are performed on a 200 x 200 x GOO mm concrete beam, with an initial notch length of 80 mm. The fracture energy, tensile strength, and shape of the descending branch interact to determine the stiffness and general behavior of the specimen. The width of the process zone has a negligible influence on the beam's response. The importance of proper crack orientation is demonstrated. The model is demonstrated to be objective with respect to grid refinement and load-step size.",
+  "lang": "en",
+  "cited": 1,
+  "probeUrl": "http://hdl.handle.net/1808/20346",
+  "probe": [
+   500,
+   "http://hdl.handle.net/1808/20346"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/1808/20346",
+    500,
+    "http://hdl.handle.net/1808/20346"
+   ],
+   [
+    "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Finite%20element%20analysis.pdf",
+    404,
+    "https://iri.ku.edu/sites/iri.drupal.ku.edu/files/files/pdf/Finite%20element%20analysis.pdf"
+   ]
+  ]
+ },
+ "DEVELOPMENT AND PROPERTIES OF LOW-CALCIUM FLY ASH-BASED GEOPOLYMER CONCRETE": {
+  "found": true,
+  "id": "https://openalex.org/W2294474286",
+  "title": "DEVELOPMENT AND PROPERTIES OF LOW-CALCIUM FLY ASH-BASED GEOPOLYMER CONCRETE",
+  "doi": null,
+  "authors": [
+   "Djwantoro Hardjito",
+   "B. Vijaya Rangan"
+  ],
+  "date": "2005-01-01",
+  "venue": "eSpace (Curtin University)",
+  "publisher": "Curtin University",
+  "type": "report",
+  "landing": "http://hdl.handle.net/20.500.11937/5594",
+  "locations": [
+   "http://hdl.handle.net/20.500.11937/5594",
+   "https://www.geopolymer.org/dl/?get=curtin-flyash-GP-concrete-report.pdf"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://hdl.handle.net/20.500.11937/5594",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This Research Report describes the first part of the work carried out by the geopolymer research group at Curtin University of Technology. It describes the development and properties of heat-cured low-calcium fly ash-based geopolymer concrete. This Report will be followed by two other Reports describing the long-term properties of geopolymer concrete, and the behaviour of reinforced geopolymer concrete beams and columns.",
+  "lang": "en",
+  "cited": 824,
+  "probeUrl": "http://hdl.handle.net/20.500.11937/5594",
+  "probe": [
+   500,
+   "http://hdl.handle.net/20.500.11937/5594"
+  ],
+  "curlProbe": [
+   [
+    "http://hdl.handle.net/20.500.11937/5594",
+    500,
+    "http://hdl.handle.net/20.500.11937/5594"
+   ],
+   [
+    "https://www.geopolymer.org/dl/?get=curtin-flyash-GP-concrete-report.pdf",
+    200,
+    "https://www.geopolymer.org/dl/?get=curtin-flyash-GP-concrete-report.pdf"
+   ]
+  ]
+ },
+ "Corrosion and fracture in reinforced mortars with limestone calcined clay cement": {
+  "found": true,
+  "id": "https://openalex.org/W7205383736",
+  "title": "Corrosion and fracture in reinforced mortars with limestone calcined clay cement",
+  "doi": null,
+  "authors": [
+   "Talles Felix"
+  ],
+  "date": "2026-01-01",
+  "venue": "Chalmers Research (Chalmers University of Technology)",
+  "publisher": "Chalmers University of Technology",
+  "type": "article",
+  "landing": "https://research.chalmers.se/en/publication/552045",
+  "locations": [
+   "https://research.chalmers.se/en/publication/552045"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "https://research.chalmers.se/publication/552045/file/552045_Fulltext.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Low-carbon substitutes for conventional cementitious binders, such as Limestone Calcined Clay Cement (LC3), represent a promising pathway toward more sustainable infrastructure. However, their use in steel-reinforced concrete requires confidence in their long-term resistance to corrosion-related damage. This study examines the relationship between corrosion-induced cracking, mechanical behavior, and binder composition in mortars made with Ordinary Portland Cement (OPC) and LC3, each represented by two strength classes.Corrosion was accelerated using an impressed current technique. To evaluate the corrosion level leading to cracking, the applied electrical current was identical and constant for all specimens, and the resulting time-to-cracking, tcrack, was determined. The results were analyzed in relation to compressive strength, tensile strength, fracture energy, and the chloride migration coefficient.LC3 mortars exhibited a lower capacity to accommodate the expansive stresses generated by corrosion products, leading to earlier cracking than OPC mortars. This behavior is consistent with the measured fracture energy, which was lower for LC3 mixes, indicating a reduced resistance to crack propagation despite comparable strength levels.Nonlinear finite element analyses were performed using the measured material properties and a corrosion model based on radial expansion at the steel-concrete interface to support and interpret the experimental observations. The simulations reprodu",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://research.chalmers.se/publication/552045/file/552045_Fulltext.pdf",
+  "probe": [
+   200,
+   "https://research.chalmers.se/publication/552045/file/552045_Fulltext.pdf"
+  ],
+  "curlProbe": [
+   [
+    "https://research.chalmers.se/en/publication/552045",
+    200,
+    "https://research.chalmers.se/en/publication/552045"
+   ]
+  ]
+ },
+ "Performance of Recycled Concrete Aggregates (RCA) in Concrete Mix Design": {
+  "found": true,
+  "id": "https://openalex.org/W7140019318",
+  "title": "Performance of Recycled Concrete Aggregates (RCA) in Concrete Mix Design",
+  "doi": null,
+  "authors": [
+   "Maksim Furminski"
+  ],
+  "date": "2026-01-01",
+  "venue": "Theseus (Ammattikorkeakoulujen)",
+  "publisher": null,
+  "type": "dissertation",
+  "landing": "http://www.theseus.fi/handle/10024/912835",
+  "locations": [
+   "http://www.theseus.fi/handle/10024/912835",
+   "http://www.theseus.fi/handle/10024/912609"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://www.theseus.fi/bitstream/10024/912835/2/Furminski_Maksim.pdf",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "This thesis explores the possibility of using recycled concrete aggregate (RCA), derived from demolished structures, as a sustainable alternative to natural aggregates in concrete mix design. The objective is to evaluate whether RCA serves as an alternative to develop sustainable concrete which can sustain satisfactory performance of conventional concrete. Four new concrete mixture designs in which RCA can be used as a replacement of natural aggregates at 0%, 25%, 50% and 75% by volume are examined in the research. The concrete samples went through compressive strength test, and their durability was evaluated by freeze-thaw and salt-water exposure. RCA mixes resulted in an increase in porosity and surface cracking under repeated freezing cycles, making the test particularly important. The study also includes the process of making concrete mixtures and molds, highlighting the properties of RCA during the mixing and compaction stage. The results show a notable decrease in compressive strength as the proportion of RCA increases. Moreover, the study found that due to delayed hydration, higher RCA ratios required longer time to achieve their full strength. Freeze-thaw testing showed greater initial scaling in RCA mixes, but not over longer cycles. This indicates that, while RCA is more vulnerable early, its long-term performance under freeze-thaw may not be inferior due to high porosity. Additionally, the weight and density of concrete were reduced by approximately 15% at a 50% re",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "http://www.theseus.fi/bitstream/10024/912835/2/Furminski_Maksim.pdf",
+  "probe": [
+   500,
+   "http://www.theseus.fi/bitstream/10024/912835/2/Furminski_Maksim.pdf"
+  ],
+  "curlProbe": [
+   [
+    "http://www.theseus.fi/handle/10024/912835",
+    500,
+    "http://www.theseus.fi/handle/10024/912835"
+   ],
+   [
+    "http://www.theseus.fi/handle/10024/912609",
+    500,
+    "http://www.theseus.fi/handle/10024/912609"
+   ],
+   [
+    "http://www.theseus.fi/bitstream/10024/912835/2/Furminski_Maksim.pdf",
+    500,
+    "http://www.theseus.fi/bitstream/10024/912835/2/Furminski_Maksim.pdf"
+   ]
+  ]
+ },
+ "Liquid Steel-Repair of Steel Bridges with Ultra-High Performance Concrete": {
+  "found": true,
+  "id": "https://openalex.org/W7160582765",
+  "title": "Liquid Steel-Repair of Steel Bridges with Ultra-High Performance Concrete",
+  "doi": null,
+  "authors": [
+   "Michael P. Culmo",
+   "Brian J. Winger"
+  ],
+  "date": "2026-03-17",
+  "venue": "Purdue e-Pubs (Purdue University System)",
+  "publisher": "Purdue University System",
+  "type": "article",
+  "landing": "https://docs.lib.purdue.edu/roadschool/2026/presentations/1",
+  "locations": [
+   "https://docs.lib.purdue.edu/roadschool/2026/presentations/1"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "The use of Ultra-High Performance Concrete (UHPC) for steel bridge repair has been pioneered through a collaboration of the Connecticut DOT, the University of Connecticut, and CHA Consulting, Inc. To date, three applications have been developed and completed. These applications include repairing of corroded steel beam/girder ends, improving flexural capacity of girder flanges, and strengthening of truss gusset plates. This presentation will cover the development and implementation of all three applications.",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://docs.lib.purdue.edu/roadschool/2026/presentations/1",
+  "probe": [
+   200,
+   "https://docs.lib.purdue.edu/roadschool/2026/presentations/1/"
+  ],
+  "curlProbe": [
+   [
+    "https://docs.lib.purdue.edu/roadschool/2026/presentations/1",
+    200,
+    "https://docs.lib.purdue.edu/roadschool/2026/presentations/1/"
+   ]
+  ]
+ },
+ "Ultra-High-Performance Concrete (UHPC) for Bridge Deck Overlay and Structural Deck Repair": {
+  "found": true,
+  "id": "https://openalex.org/W7160975166",
+  "title": "Ultra-High-Performance Concrete (UHPC) for Bridge Deck Overlay and Structural Deck Repair",
+  "doi": null,
+  "authors": [
+   "Jiong Hu",
+   "George Morcous",
+   "Akbota Aitbayeva",
+   "Ming Gerges"
+  ],
+  "date": "2026-04-01",
+  "venue": "Lincoln (University of Nebraska)",
+  "publisher": "University of Nebraska–Lincoln",
+  "type": "article",
+  "landing": "https://digitalcommons.unl.edu/ndor/343",
+  "locations": [
+   "https://digitalcommons.unl.edu/ndor/343"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Ultra-high-performance concrete (UHPC) is an advanced cementitious material known for its exceptional strength and durability, making it an ideal material for bridge deck overlays and repairs that address the common issue of premature deck deterioration. Conventional UHPC is typically flowable and self-leveling, which makes it unsuitable for deck surfaces with cross-slopes and/or sloped vertical profiles. Therefore, a highly thixotropic UHPC that responds well to vibration while remaining stable on sloped surfaces is needed for overlay applications. Mixtures with varying binder content, water-to-binder ratio, fiber content, and dosages of admixtures were developed and evaluated. Two of the most effective and economical mixtures were selected for full-scale mockup construction and testing. Six full-scale sloped slabs were prepared using three surface preparation methods: surface retarder for fresh concrete, fine milling, and typical milling for hardened concrete to simulate field conditions for overlay applications. The structural performance of the composite slabs and the bond between UHPC overlays and concrete substrates were tested to evaluate the effectiveness of each surface preparation method. Flexural tests were conducted under both positive and negative bending, and the experimental results were compared with predictions according to the latest AASHTO UHPC Guide Specifications. The two UHPC mixtures developed in this study were further evaluated for their workability, ",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://digitalcommons.unl.edu/ndor/343",
+  "probe": [
+   200,
+   "https://digitalcommons.unl.edu/ndor/343/"
+  ],
+  "curlProbe": [
+   [
+    "https://digitalcommons.unl.edu/ndor/343",
+    200,
+    "https://digitalcommons.unl.edu/ndor/343/"
+   ]
+  ]
+ },
+ "Pretensioned ultra-high performance concrete girders for highway bridges: design, performance analysis, and design solutions": {
+  "found": true,
+  "id": "https://openalex.org/W7212209534",
+  "title": "Pretensioned ultra-high performance concrete girders for highway bridges: design, performance analysis, and design solutions",
+  "doi": null,
+  "authors": [
+   "Kevin Augusto Cupehinski"
+  ],
+  "date": "2026-07-10",
+  "venue": "Institutional Repository of the Federal Technological University of Paraná (RIUT) (Federal University of Technology – Paraná)",
+  "publisher": "Universidade Tecnológica Federal do Paraná",
+  "type": "dissertation",
+  "landing": "http://repositorio.utfpr.edu.br/jspui/handle/1/41433",
+  "locations": [
+   "http://repositorio.utfpr.edu.br/jspui/handle/1/41433"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "green",
+   "oa_url": "http://repositorio.utfpr.edu.br/jspui/handle/1/41433",
+   "any_repository_has_fulltext": true
+  },
+  "abstract": "Ultra-High-Performance Fiber-Reinforced Concrete (UHPFRC) presents significant potential for application in highway bridges due to its superior mechanical properties, enhanced durability, and potential for structural rationalization. In Brazil, however, its application in primary structural elements remains limited by the lack of systematic design procedures compatible with its specific mechanical behavior. In this context, this research proposes a systematic design approach for pre-tensioned UHPFRC girders applied to single-span highway bridges. The approach is based on the definition of geometric design criteria, the development of a structural design procedure, and the investigation of the resisting mechanisms and structural efficiency under different design decisions related to material properties, geometric configuration, and curing conditions. The results indicated that cross-sectional geometry is a central factor in structural efficiency, enabling substantial geometric rationalization, with a reduction of about 60% in cross-sectional area and self-weight, improved service performance, and lower prestressing demand compared to conventional prestressed concrete solutions. As an applied outcome, the proposed methodology was generalized to typical highway bridge superstructure configurations, resulting in twelve complete girder design solutions for spans ranging from 20 m to 50 m. It is concluded that the proposed approach contributes to the systematization of UHPFRC girde",
+  "lang": "pt",
+  "cited": 0,
+  "probeUrl": "http://repositorio.utfpr.edu.br/jspui/handle/1/41433",
+  "probe": [
+   500,
+   "http://repositorio.utfpr.edu.br/jspui/handle/1/41433"
+  ],
+  "curlProbe": [
+   [
+    "http://repositorio.utfpr.edu.br/jspui/handle/1/41433",
+    500,
+    "http://repositorio.utfpr.edu.br/jspui/handle/1/41433"
+   ]
+  ]
+ },
+ "DEVELOPMENT OF PERVIOUS CONCRETE USING GLASS FIBERS": {
+  "found": true,
+  "id": "https://openalex.org/W7216986244",
+  "title": "DEVELOPMENT OF PERVIOUS CONCRETE USING GLASS FIBERS",
+  "doi": null,
+  "authors": [
+   "D LATHA1, MD SHAMSUDDIN KAIF2, DANISH KHAN3, MD MUZAMMIL4, MOHAMMED ABDUL SAMAD FURQAN5, D OMKAR6"
+  ],
+  "date": "2026-04-02",
+  "venue": "International Journal of Engineering Research and Science & Technology",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://ijerst.org/index.php/ijerst/article/view/2308",
+  "locations": [
+   "https://ijerst.org/index.php/ijerst/article/view/2308"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "diamond",
+   "oa_url": "https://ijerst.org/index.php/ijerst/article/download/2308/2078",
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "Conventional Portland cement concrete is commonly used for pavement construction the impervious nature of concrete pavement contributes to increase water runoff into the drainage system over-burdening the infrastructure and casing excessive flooding in built-up areas. Pervious concrete is a special type of concrete with a high porosity used for concrete pavement applications that allows water from precipitation and other source to pass directly through There by reducing the runoff from a site allowing ground water recharge.The glass fibers can be effective material to improve the properties of the pervious concrete. It will explore the use of glass fiber which is environmentally detrimental. The presence of glass fiber with cement content strengthens the concrete in greater extent. In this paper glass fiber is used as partial replacement of cement. In the absence of fine aggregate we use 50% of fly ash in various proportions. The study evaluates the effects of glass fibers in varying friction 0.5%, 1%, 1.5%& 2% with coarse aggregate the test to be carried out to analyze the effects of glass fibers on properties of pervious concrete are void ratio, compressive strength and infiltration rate.",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://ijerst.org/index.php/ijerst/article/download/2308/2078",
+  "probe": [
+   200,
+   "https://ijerst.org/index.php/ijerst/article/download/2308/2078"
+  ],
+  "curlProbe": [
+   [
+    "https://ijerst.org/index.php/ijerst/article/view/2308",
+    200,
+    "https://ijerst.org/index.php/ijerst/article/view/2308"
+   ]
+  ]
+ },
+ "EXPERIMENTAL ANALYSIS OF PERVIOUS CONCRETE INCORPORATING SILICA FUME": {
+  "found": true,
+  "id": "https://openalex.org/W7217534805",
+  "title": "EXPERIMENTAL ANALYSIS OF PERVIOUS CONCRETE INCORPORATING SILICA FUME",
+  "doi": null,
+  "authors": [
+   "Divyank V. More1 , Amol V. Gorle2 , Nilesh S. Biswal3 , Sachit M. Vitankar4"
+  ],
+  "date": "2026-04-18",
+  "venue": "International Journal of Engineering Research and Science & Technology",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://ijerst.org/index.php/ijerst/article/view/3087",
+  "locations": [
+   "https://ijerst.org/index.php/ijerst/article/view/3087"
+  ],
+  "oa": {
+   "is_oa": true,
+   "oa_status": "diamond",
+   "oa_url": "https://ijerst.org/index.php/ijerst/article/download/3087/2803",
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "The increasing use of impermeable pavements in urban areas has led to serious issues such as waterlogging, reduced groundwater recharge, and increased surface runoff. Pervious concrete offers an eco-friendly alternative by allowing rainwater to pass through its porous structure. This study examines the influence of different cementto-aggregate ratios and silica fume addition on the strength and permeability characteristics of pervious concrete. Experimental tests were carried out to determine compressive strength, void ratio, and hydraulic conductivity after different curing periods. The results revealed that pervious concrete provides excellent drainage performance, while the incorporation of silica fume enhances compressive strength without significantly affecting permeability. The study highlights the potential of pervious concrete as a sustainable pavement material suitable for low-volume traffic areas and urban drainage management.",
+  "lang": "en",
+  "cited": 0,
+  "probeUrl": "https://ijerst.org/index.php/ijerst/article/download/3087/2803",
+  "probe": [
+   200,
+   "https://ijerst.org/index.php/ijerst/article/download/3087/2803"
+  ],
+  "curlProbe": [
+   [
+    "https://ijerst.org/index.php/ijerst/article/view/3087",
+    200,
+    "https://ijerst.org/index.php/ijerst/article/view/3087"
+   ]
+  ]
+ },
+ "Densified Cement/Ultrafine Particle-based Materials": {
+  "found": true,
+  "id": "https://openalex.org/W2304925319",
+  "title": "Densified Cement/Ultrafine Particle-based Materials",
+  "doi": null,
+  "authors": [
+   "H. H. Beche"
+  ],
+  "date": "1981-01-01",
+  "venue": null,
+  "publisher": null,
+  "type": "article",
+  "landing": "http://ci.nii.ac.jp/naid/10005119350",
+  "locations": [
+   "http://ci.nii.ac.jp/naid/10005119350"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 159,
+  "probeUrl": "http://ci.nii.ac.jp/naid/10005119350",
+  "probe": [
+   500,
+   "http://ci.nii.ac.jp/naid/10005119350"
+  ],
+  "curlProbe": [
+   [
+    "http://ci.nii.ac.jp/naid/10005119350",
+    500,
+    "http://ci.nii.ac.jp/naid/10005119350"
+   ]
+  ]
+ },
+ "THE CHEMISTRY OF CEMENT AND CONCRETE. THIRD EDITION": {
+  "found": true,
+  "id": "https://openalex.org/W1607401957",
+  "title": "THE CHEMISTRY OF CEMENT AND CONCRETE. THIRD EDITION",
+  "doi": null,
+  "authors": [
+   "Frederick Measham Lea"
+  ],
+  "date": "1970-01-01",
+  "venue": "Edward Arnold eBooks",
+  "publisher": null,
+  "type": "book",
+  "landing": "http://fipak.areeo.ac.ir/site/catalogue/18309523",
+  "locations": [
+   "http://fipak.areeo.ac.ir/site/catalogue/18309523",
+   "https://trid.trb.org/view.aspx?id=94833"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "The chemistry of cement and concrete , The chemistry of cement and concrete , مرکز فناوری اطلاعات و اطلاع رسانی کشاورزی",
+  "lang": "en",
+  "cited": 2083,
+  "probeUrl": "http://fipak.areeo.ac.ir/site/catalogue/18309523",
+  "probe": [
+   500,
+   "http://fipak.areeo.ac.ir/site/catalogue/18309523"
+  ],
+  "curlProbe": [
+   [
+    "http://fipak.areeo.ac.ir/site/catalogue/18309523",
+    500,
+    "http://fipak.areeo.ac.ir/site/catalogue/18309523"
+   ],
+   [
+    "https://trid.trb.org/view.aspx?id=94833",
+    503,
+    "https://trid.trb.org/view.aspx?id=94833"
+   ]
+  ]
+ },
+ "Waste Materials As Potential Replacements for Highway Aggregates": {
+  "found": true,
+  "id": "https://openalex.org/W1531648425",
+  "title": "Waste Materials As Potential Replacements for Highway Aggregates",
+  "doi": null,
+  "authors": [
+   "Richard H. Miller",
+   "R J Collins"
+  ],
+  "date": "1976-11-01",
+  "venue": null,
+  "publisher": null,
+  "type": "book",
+  "landing": "https://trid.trb.org/view/46452",
+  "locations": [
+   "https://trid.trb.org/view/46452"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "This report documents and presents the results of a comprehensive survey of the technical and economic optential for making use of waste materials as alternative aggregates in highway construction and maintenance. The survey included an assessment of the availability of conventional aggregates to determine where competitive opportunities for the introduction of new materials are most likely to exist. Information was obtained from over 300 relevant documents and supplemented by numerous contacts with agencies and individuals in both the highway and waste management fields. Of an initial group of 34 waste products that were examined for use in highway aggregate production, 30 were judged to have some promise. Technical, economic, and environmental evaluations that were made through a system developed on the project showed iron blast furnace slag; fly ash, bottom ash and boiler slag from electric power generating stations; reclaimed paving material; and anthracite coal mine refuse to offer the best opportunities for further development.",
+  "lang": "en",
+  "cited": 36,
+  "probeUrl": "https://trid.trb.org/view/46452",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/46452"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/46452",
+    503,
+    "https://trid.trb.org/view/46452"
+   ]
+  ]
+ },
+ "PROMISING REPLACEMENTS FOR CONVENTIONAL AGGREGATES FOR HIGHWAY USE": {
+  "found": true,
+  "id": "https://openalex.org/W591864160",
+  "title": "PROMISING REPLACEMENTS FOR CONVENTIONAL AGGREGATES FOR HIGHWAY USE",
+  "doi": null,
+  "authors": [
+   "Charles R. Marek",
+   "M Herrin",
+   "Clyde E. Kesler",
+   "E J Barenberg"
+  ],
+  "date": "1972-01-01",
+  "venue": "National Cooperative Highway Research Program report",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/109694",
+  "locations": [
+   "https://trid.trb.org/view/109694"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "THIS REPORT REVIEWS THE CURRENT STATUS OF AVAILABILITY OF ACCEPTABLE AGGREGATES FOR HIGHWAY CONSTRUCTION, AND NOTES AREAS WHERE SHORTAGES NOW EXIST OR CAN BE EXPECTED TO OCCUR IN THE FORSEEABLE FUTURE. VARIOUS POSSIBLE WAYS FOR ALLEVIATING SHORTAGES, INCLUDING TECHNIQUES FOR BENEFITING EXISTING LOW-QUALITY NATURAL AGGREGATES, AND PROCESSES FOR MANUFACTURING SYNTHETIC AGGREGATES FROM VARIOUS SOURCE MATERIALS, INCLUDING WASTE MATERIALS, ARE SUGGESTED. THE RESEARCH EFFORT WAS CONFINED TO A WORKSHOP-CONFERENCE AND A SUPPLEMENTAL LITERATURE STUDY THAT PROVIDED A GOOD OVERVIEW OF THE AGGREGATE SITUATION, BOTH PRESENT AND FUTURE. THE TECHNOLOGIES FOR BENEFICIATING EXISTING AGGREGATES AND FOR MANUFACTURING SYNTHETIC AGGREGATES REMAIN TO BE DEVELOPED BY OTHERS. FOURTEEN PRINCIPAL AREAS FOR RESEARCH WERE IDENTIFIED IN THE STUDY. THE CONTENTS OF THIS REPORT WILL BE OF PARTICULAR INTEREST TO HIGHWAY MATERIALS ENGINEERS AND HIGHWAY RESEARCH AND DEVELOPMENT ENGINEERS, AGGREGATE PRODUCERS, AND OTHERS WHO ARE INTERESTED IN THE DEVELOPMENT OF NATURAL RESOURCES OR WHO ARE INVOLVED IN WASTE MANAGEMENT AND ARE SEEKING ECONOMICAL MEANS FOR THE DISPOSAL OF WASTE PRODUCTS.",
+  "lang": "en",
+  "cited": 13,
+  "probeUrl": "https://trid.trb.org/view/109694",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/109694"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/109694",
+    503,
+    "https://trid.trb.org/view/109694"
+   ]
+  ]
+ },
+ "LOOK AT PROCESSED RUBBLE-IT'S A VALUABLE SOURCE OF AGGREGATES": {
+  "found": true,
+  "id": "https://openalex.org/W1490110258",
+  "title": "LOOK AT PROCESSED RUBBLE-IT'S A VALUABLE SOURCE OF AGGREGATES",
+  "doi": null,
+  "authors": [
+   "Charles R. Marek",
+   "B M Gallaway",
+   "R E Long"
+  ],
+  "date": "1971-09-01",
+  "venue": null,
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/110543",
+  "locations": [
+   "https://trid.trb.org/view/110543"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "RECYCLING PAVEMENT AND STRUCTURAL CONCRETE RUBBLE FROM OBSOLETE HIGHWAYS, DRIVEWAYS, CURBS, GUTTERS, SIDEWALKS, PIERS, ABUTMENTS, AND CULVERTS IS VERY ECONOMICAL. HOW THE TEXAS HIGHWAY DEPARTMENT HAS DEMONSTRATED THE TECHNICAL AND ECONOMIC FEASIBILITY OF TRANSFORMING SOLID WASTE INTO A USEFUL BUILDING MATERIAL FOR A HIGHWAY IS DESCRIBED. PROBLEMS ARE DISCUSSED FOR (1) PROCESSING, (2) RUBBLE PREPARATION, (3) EMBANKMENT PREPARATION, (4) ASPHALT- STABILIZED BASE, (5) SURFACE MIXTURES, AND (6) ECONOMICS.",
+  "lang": "en",
+  "cited": 9,
+  "probeUrl": "https://trid.trb.org/view/110543",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/110543"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/110543",
+    503,
+    "https://trid.trb.org/view/110543"
+   ]
+  ]
+ },
+ "SYNTHETIC AGGREGATES FOR HIGHWAY CONSTRUCTION": {
+  "found": true,
+  "id": "https://openalex.org/W135325214",
+  "title": "SYNTHETIC AGGREGATES FOR HIGHWAY CONSTRUCTION",
+  "doi": null,
+  "authors": [
+   "F.F. Fondriest",
+   "Matthew J. Snyder"
+  ],
+  "date": "1964-01-01",
+  "venue": "National Cooperative Highway Research Program report",
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/110442",
+  "locations": [
+   "https://trid.trb.org/view/110442"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "A STUDY WAS MADE TO IDENTIFY EXISTING AND POTENTIAL MATERIALS SUITABLE FOR PRODUCING SYNTHETIC AGGREGATES, TO CONCEIVE NEW METHODS OF PRODUCING SUCH AGGREGATES, AND TO EVALUATE THE PRESENT AND FUTURE PROSPECTS FOR THEIR USE IN HIGHWAY CONSTRUCTION. A LARGE NUMBER OF EXISTING AND POTENTIAL SYNTHETIC AGGREGATES WERE IDENTIFIED. SEVERAL MANUFACTURED OR BY-PRODUCT MATERIALS, SUCH AS LIGHTWEIGHT AGGREGATES AND BLAST-FURNACE SLAG, CURRENTLY ARE USED AS AGGREGATES. OTHER BY-PRODUCT OR WASTE MATERIALS THAT MIGHT BE USED AFTER MINOR MECHANICAL PROCESSING INCLUDE A NUMBER OF CERAMIC WASTES, VARIOUS INDUSTRIAL SLAGS AND CLINKERS DEMOLITION WASTES, AND SCRAP IRON OR STEEL. POTENTIAL METHODS WERE CONSIDERED FOR PRODUCING NEW SYNTHETIC AGGREGATES- BY SINTERING OR FUSING SUCH FINE-GRAINED NATURAL MATERIAL AS SAND, CLAY, OR SOIL, OR SUCH WASTE MATERIALS AS STEEL-FURNACE DUSTS OR MINING WASTES, OR BY CHEMICAL OR THERMOCHEMICAL PROCESSING OF MIXTURES SUCH AS THOSE OF SAND AND LIME OR FLY ASH AND LIME. THE ANNUAL TOTAL CONSUMPTION OF AGGREGATES HAS NOW REACHED 1.5 BILLION TONS AND IS EXPECTED TO INCREASE AS MUCH AS 50 PERCENT IN THE NEXT TEN YEARS. THE MOST SIGNIFICANT FUTURE DEVELOPMENT MAY BE THE USE OF JOB-SITE MATERIALS FOR MAKING SYNTHETIC AGGREGATES IN VERSATILE AND PORTABLE PROCESSING EQUIPMENT OR THE ESTABLISHMENT OF A WIDESPREAD SYNTHETIC AGGREGATE INDUSTRY WHICH PROCESSES WIDELY AVAILABLE MATERIALS SUCH AS CLAYS AND SHALES.",
+  "lang": "en",
+  "cited": 9,
+  "probeUrl": "https://trid.trb.org/view/110442",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/110442"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/110442",
+    503,
+    "https://trid.trb.org/view/110442"
+   ]
+  ]
+ },
+ "THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING": {
+  "found": true,
+  "id": "https://openalex.org/W2593107953",
+  "title": "THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING",
+  "doi": null,
+  "authors": [
+   "Aab Musannif"
+  ],
+  "date": "1974-09-01",
+  "venue": null,
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/22439",
+  "locations": [
+   "https://trid.trb.org/view/22439"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 5,
+  "probeUrl": "https://trid.trb.org/view/22439",
+  "probe": [
+   503,
+   "https://trid.trb.org/view/22439"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/22439",
+    503,
+    "https://trid.trb.org/view/22439"
+   ]
+  ]
+ },
+ "AGGREGATES FROM WASTE MATERIALS": {
+  "found": true,
+  "id": "https://openalex.org/W2574868801",
+  "title": "AGGREGATES FROM WASTE MATERIALS",
+  "doi": null,
+  "authors": [
+   "W. Gutt"
+  ],
+  "date": "1972-08-01",
+  "venue": null,
+  "publisher": null,
+  "type": "article",
+  "landing": "https://trid.trb.org/view/106168",
+  "locations": [
+   "https://trid.trb.org/view/106168"
+  ],
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  },
+  "abstract": "",
+  "lang": "en",
+  "cited": 4,
+  "probeUrl": "https://trid.trb.org/view/106168",
+  "probe": [
+   null,
+   "The read operation timed out"
+  ],
+  "curlProbe": [
+   [
+    "https://trid.trb.org/view/106168",
+    503,
+    "https://trid.trb.org/view/106168"
+   ]
+  ]
+ }
+}
