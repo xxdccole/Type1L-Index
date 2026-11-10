@@ -1041,17 +1041,17 @@
         "Relevance: manual review of every lead lacking cement/concrete terms in title/venue plus front-matter/erratum/retraction screens"
       ],
       "leadsProcessed": 1255,
-      "verifiedAdded": 1110,
-      "idRange": "R367–R1476",
+      "verifiedAdded": 1109,
+      "idRange": "R367–R1476 (R428 retired before publication)",
       "outcome": {
-        "promoted": 1110,
+        "promoted": 1109,
         "matched-verified": 4,
-        "rejected": 137,
+        "rejected": 138,
         "candidate": 4
       },
       "rejectedByCategory": {
         "duplicate": 58,
-        "off-topic": 74,
+        "off-topic": 75,
         "not-a-real-source": 3,
         "retracted": 1,
         "relevance-not-established": 1
@@ -1133,7 +1133,10 @@
         "Geography from OpenAlex author-affiliation countries where available; otherwise unknown",
         "TRID (503), TU Delft (timeout), Deep Blue/Curtin (403), UPC (418) blocked landing pages; items with registered abstracts were promoted at abstract level, the rest left open"
       ],
-      "summary": "All 1255 open leads inspected: 1110 promoted (R367–R1476), 137 rejected, 4 merged as same-work duplicates, 4 left open (unreachable)."
+      "summary": "All 1255 open leads inspected: 1109 promoted (R367–R1476; R428 retired as off-topic before publication), 138 rejected, 4 merged as same-work duplicates, 4 left open (unreachable).",
+      "corrections": [
+        "R428 (\"Advancements in Removing Fluorine from Copper Concentrate\") withdrawn before publication: off-topic false positive; lead marked rejected; ID retired, not reused."
+      ]
     }
   ],
   "topics": [
@@ -2776,7 +2779,7 @@
     {
       "id": "binder-specialty",
       "name": "Binder · Rapid-set / expansive / shrinkage-compensating",
-      "resourceCount": 47,
+      "resourceCount": 46,
       "resourceIds": [
         "R140",
         "R141",
@@ -2815,7 +2818,6 @@
         "R425",
         "R426",
         "R427",
-        "R428",
         "R429",
         "R430",
         "R431",
@@ -2905,7 +2907,6 @@
         "R425",
         "R426",
         "R427",
-        "R428",
         "R429",
         "R430",
         "R431",
@@ -10827,13 +10828,13 @@
   "stats": {
     "topics": 59,
     "resourcesAtStart": 366,
-    "resourcesAfterPass": 1476,
-    "verifiedAdded": 1110,
+    "resourcesAfterPass": 1475,
+    "verifiedAdded": 1109,
     "candidatesTotal": 1282,
     "candidatesOpen": 4,
-    "candidatesPromoted": 1118,
+    "candidatesPromoted": 1117,
     "candidatesMatchedVerified": 23,
-    "candidatesRejected": 137,
+    "candidatesRejected": 138,
     "leadsProcessedThisPass": 1255,
     "previous": {
       "topics": 59,

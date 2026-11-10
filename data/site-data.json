@@ -7,7 +7,7 @@
     {
       "date": "Nov 10",
       "title": "Lead verification pass: candidate queue cleared",
-      "detail": "Checked every open candidate lead (1,255) against Crossref/OpenAlex/DataCite, doi.org and repository landing pages. Promoted 1110 verified sources R367–R1476; rejected 137 with reasons (off-topic, duplicates/superseded editions, front matter, retracted) and merged 4 same-work duplicates; 4 remain open because their only records were unreachable today. Most new records are DOI/abstract-level, not full-text reviews. Not exhaustive."
+      "detail": "Checked every open candidate lead (1,255) against Crossref/OpenAlex/DataCite, doi.org and repository landing pages. Promoted 1,109 verified sources (R367–R1476; R428 withdrawn before publication as off-topic); rejected 138 with reasons (off-topic, duplicates/superseded editions, front matter, retracted) and merged 4 same-work duplicates; 4 remain open because their only records were unreachable today. Most new records are DOI/abstract-level, not full-text reviews. Not exhaustive."
     },
     {
       "date": "Nov 10",
@@ -1231,7 +1231,6 @@
         "R425",
         "R426",
         "R427",
-        "R428",
         "R429",
         "R430",
         "R431",
@@ -9859,17 +9858,6 @@
       "type": "Paper",
       "date": "2019-03",
       "url": "https://doi.org/10.1016/j.mtadv.2019.100007",
-      "topics": [
-        "binder-specialty"
-      ]
-    },
-    {
-      "id": "R428",
-      "title": "Advancements in Removing Fluorine from Copper Concentrate",
-      "publisher": "Springer (Mining, Metallurgy & Exploration)",
-      "type": "Paper",
-      "date": "2023-08-02",
-      "url": "https://doi.org/10.1007/s42461-023-00820-3",
       "topics": [
         "binder-specialty"
       ]
@@ -22949,11 +22937,11 @@
     },
     {
       "date": "2026-11-10",
-      "entry": "Lead verification pass: all 1,255 open candidate leads inspected; 1110 promoted as R367–R1476, 137 rejected with reasons (off-topic 74, duplicate 58, not-a-real-source 3, retracted 1, relevance-not-established 1), 4 merged as same-work duplicates, 4 left open (unreachable). R1–R366 preserved; topic membership union maintained."
+      "entry": "Lead verification pass: all 1,255 open candidate leads inspected; 1,109 promoted as R367–R1476 (R428 withdrawn before publication: off-topic), 138 rejected with reasons (off-topic 75, duplicate 58, not-a-real-source 3, retracted 1, relevance-not-established 1), 4 merged as same-work duplicates, 4 left open (unreachable). R1–R366 preserved; topic membership union maintained."
     }
   ],
   "gaps": [
-    "Lead verification pass (2026-11-10): 1110 queue leads promoted on registry metadata (693 with abstracts) — they are verified to exist and to be on-topic, not full-text reviewed. 4 leads stay open: Theory and Experiments on the Mechanical Behaviour of Cracks; Densified Cement/Ultrafine Particle-based Materials; THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING; AGGREGATES FROM WASTE MATERIALS.",
+    "Lead verification pass (2026-11-10): 1,109 queue leads promoted on registry metadata (693 with abstracts) — they are verified to exist and to be on-topic, not full-text reviewed. 4 leads stay open: Theory and Experiments on the Mechanical Behaviour of Cracks; Densified Cement/Ultrafine Particle-based Materials; THE NIBBLER--A NEW CONCEPT IN CONCRETE BREAKING; AGGREGATES FROM WASTE MATERIALS.",
     "Pass 3 (2026-11-10) is a third batch, not complete coverage. Most journal records are DOI/abstract-level; ACI 318-25, EN 206-1:2026, ACI PRC-522-23 and ASTM C1897 normative texts not reviewed. Still open: Abrams 1918 primary text, CRCP design/performance sources, Talbot 1907 and other Illinois/Texas repository items (403 from this network), USACE ERDC Mather reports (reCAPTCHA), TU Delft repository (timeout).",
     "Pass 2 (2026-11-09) is a second batch, not complete coverage. Many pass-2 records are DOI/abstract-level (closed full text); access level is recorded per record in research/portable/verified-sources.jsonl. Still open: China GB 175 / India IS standards, ACI 544/237R/303R/207 texts, USACE/USBR RCC dam manuals, ASTM C91/C270/C618 current-edition reviews, refractory castables practice.",
     "Deep pass 1 is a first substantial batch, not complete coverage of any topic or of the internet. 585 unique OpenAlex/Crossref hits remain in the candidate queue for triage.",
