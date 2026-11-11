@@ -1,0 +1,344 @@
+0|binder-international|2022|475|article|A|Cement substitution with secondary materials can reduce annual global CO2 emissions by up to 1.3 gigatons|en
+1|binder-international|2017|378|article|A|Uptake of chloride and carbonate by Mg-Al and Ca-Al layered double hydroxides in simulated pore solutions of alkali-activated slag cement|en
+2|binder-international|2017|269|article|-|: A force field database for cementitious materials including validations, applications and opportunities|en
+3|binder-international|2018|182|review|-|Environmental perspectives of recycling various combustion ashes in cement production – A review|en
+4|binder-international|2013|156|article|A|Fracture and impact properties of short discrete jute fibre-reinforced cementitious composites|en
+5|binder-international|2020|137|article|A|A Review of Rheological Modeling of Cement Slurry in Oil Well Applications|en
+6|binder-international|2021|136|article|A|CO2 mineralization of demolished concrete wastes into a supplementary cementitious material – a new CCU approach for the cement industry|en
+7|binder-international|2018|57|article|A|Non-destructive chemical analysis of water and chlorine content in cement paste using near-infrared spectroscopy|en
+8|binder-international|2021|48|article|A|Effect of a Nitrite/Nitrate-Based Accelerator on the Strength Development and Hydrate Formation in Cold-Weather Cementitious Materials|en
+9|binder-international|2018|39|article|A|Long-term pozzolanic reaction of fly ash in hardened cement-based paste internally activated by natural injection of saturated Ca(OH)2 solut|en
+10|binder-international|2020|38|article|A|Long-term use of modern Portland cement concrete: The impact of Al-tobermorite formation|en
+11|binder-international|2019|32|article|A|Mechanical Degradation and Thermal Decomposition of Ethylene-Vinyl Acetate (EVA) Polymer-Modified Cement Mortar (PCM) Exposed to High-Temper|en
+12|binder-international|2023|19|article|-|A comparative study of alkanolamines and inorganic additives on the microstructure development of blast furnace slag blended cement at low c|en
+13|binder-international|2024|18|article|A|Comparative Analysis of Woody Biomass Fly Ash and Class F Fly Ash as Supplementary Cementitious Materials in Mortar|en
+14|binder-international|2022|17|article|A|In situ observation for the influence of hydraulic pressure on internal damage of cement-based materials|en
+15|binder-international|2021|16|article|A|Development of Flotation Device for Removing Unburnt Carbon in Fly Ash for Use in Hardened Cementitious Materials|en
+16|binder-international|2011|16|article|A|The Calcination Process in a System for Washing, Calcinating, and Converting Treated Municipal Solid Waste Incinerator Fly Ash into Raw Mate|en
+17|binder-international|2022|15|article|A|The Effect of Cementitious Materials on the Engineering Properties and Pore Structure of Concrete with Recycled Fine Aggregate|en
+18|binder-international|2019|15|article|A|Properties of Blast-Furnace Slag Cement Concrete Subjected to Accelerated Curing|en
+19|binder-international|2023|14|article|A|Terahertz (THz) Wave Imaging in Civil Engineering to Assess Self-Healing of Fiber-Reinforced Cementitious Composites (FRCC)|en
+20|binder-international|2022|11|article|A|Aquaphotomic Study of Effects of Different Mixing Waters on the Properties of Cement Mortar|en
+21|binder-international|2022|9|article|A|Effects of Gypsum and Limestone Powder on Fresh Properties and Compressive Strength of Concrete Containing Ground Granulated Blast Furnace S|en
+22|binder-international|2011|9|article|A|Pore Structure Model of Hydrates Comprising Various Cements and SCMs Based on Changes in Particle Size of Constituent Phases|en
+23|binder-specialty|2022|255|article|-|Recent progress and technical challenges in using calcium sulfoaluminate (CSA) cement|en
+24|binder-specialty|2019|192|article|-|Investigation on expansion effect of the expansive agents in ultra-high performance concrete|en
+25|binder-specialty|2018|140|article|-|Autogenous self-healing of cement with expansive minerals-I: Impact in early age crack healing|en
+26|binder-specialty|2020|117|article|-|Drying shrinkage, strength and microstructure of alkali-activated high-calcium fly ash using FGD-gypsum and dolomite as expansive additive|en
+27|binder-specialty|2016|114|article|A|Self-healing of drying shrinkage cracks in cement-based materials incorporating reactive MgO|en
+28|binder-specialty|2019|103|article|-|Shrinkage and creep of high-performance concrete based on calcium sulfoaluminate cement|en
+29|binder-specialty|2022|75|article|A|Influences of MgO and PVA Fiber on the Abrasion and Cracking Resistance, Pore Structure and Fractal Features of Hydraulic Concrete|en
+30|binder-specialty|2018|71|article|A|Early strength development in cement-treated sand using low-carbon rapid-hardening cements|en
+31|binder-specialty|2017|66|article|-|Chloride ingress in a belite-calcium sulfoaluminate cement matrix|en
+32|binder-specialty|2022|60|article|A|Water-to-cement ratio of calcium sulfoaluminate belite cements: Hydration, setting time, and strength development|en
+33|binder-well|2007|615|article|A|Degradation of Well Cement by CO 2 under Geologic Sequestration Conditions|en
+34|binder-white-masonry|2009|364|article|-|Experimental study of photocatalytic concrete products for air purification|en
+35|binder-white-masonry|2004|257|article|-|Hydraulic lime mortars for the restoration of historic masonry in Crete|en
+36|binder-white-masonry|2010|238|article|A|Study of Sticky Rice−Lime Mortar Technology for the Restoration of Historical Masonry Construction|en
+37|binder-white-masonry|2004|204|article|-|Strength development and lime reaction in mortars for repairing historic masonries|en
+38|binder-white-masonry|2019|195|review|A|TiO2-based Photocatalytic Cementitious Composites: Materials, Properties, Influential Parameters, and Assessment Techniques|en
+39|binder-white-masonry|2022|178|article|A|Influence of nano-TiO2, nano-Fe2O3, nanoclay and nano-CaCO3 on the properties of cement/geopolymer concrete|en
+40|binder-white-masonry|2013|167|article|-|Physical and chemical assessment of lime–metakaolin mortars: Influence of binder:aggregate ratio|en
+41|binder-white-masonry|2014|163|article|-|New natural hydraulic lime mortars – Physical and microstructural properties in different curing conditions|en
+42|binder-white-masonry|2013|161|article|-|Mechanical and mineralogical properties of natural hydraulic lime-metakaolin mortars in different curing conditions|en
+43|concrete-cellular|2000|994|article|-|Structure and properties of aerated concrete: a review|en
+44|concrete-cellular|2015|623|article|-|Mechanical, thermal insulation, thermal resistance and acoustic absorption properties of geopolymer foam concrete|en
+45|concrete-cellular|2016|219|article|-|Utilization of iron tailings as substitute in autoclaved aerated concrete: physico-mechanical and microstructure of hydration products|en
+46|concrete-cellular|2015|209|article|-|Preparation and properties of autoclaved aerated concrete using coal gangue and iron ore tailings|en
+47|concrete-cellular|2014|197|article|-|Properties of autoclaved aerated concrete incorporating rice husk ash as partial replacement for fine aggregate|en
+48|concrete-cellular|2004|154|article|-|Influence of air-cooled slag on physicochemical properties of autoclaved aerated concrete|en
+49|concrete-cellular|1979|153|article|-|Relations between structure and mechanical properties of autoclaved aerated concrete|en
+50|concrete-cellular|2016|149|article|-|Mechanical and hydration characteristics of autoclaved aerated concrete (AAC) containing iron-tailings: Effect of content and fineness|en
+51|concrete-cellular|2016|148|article|-|Effect of perlite waste addition on the properties of autoclaved aerated concrete|en
+52|concrete-cellular|2018|123|article|-|Utilization of municipal solid waste incineration bottom ash in autoclaved aerated concrete|en
+53|concrete-cellular|2016|119|article|-|Fabrication and characterization of self-ignition coal gangue autoclaved aerated concrete|en
+54|concrete-cellular|1995|114|article|-|Influence of quartz particle size on the chemical and mechanical properties of autoclaved aerated concrete (I) tobermorite formation|en
+55|concrete-cellular|2007|83|article|-|Influence of zeolite additive on properties of autoclaved aerated concrete|en
+56|concrete-cellular|2017|82|article|-|Sodium carbonate activated slag as cement replacement in autoclaved aerated concrete|en
+57|concrete-cellular|2022|79|article|-|Effects of red mud on workability and mechanical properties of autoclaved aerated concrete (AAC)|en
+58|concrete-cellular|1988|21|report|A|A review of autoclaved aerated concrete products|en
+59|concrete-cellular|1964|6|dissertation|-|A Rational Procedure For Proportioning Pre-formed Foam Cellular Concrete Mixes.|en
+60|concrete-heavyweight|2014|219|article|-|Radiation effects in concrete for nuclear power plants – Part I: Quantification of radiation exposure and radiation effects|en
+61|concrete-heavyweight|2022|175|review|A|Recent Trends in Advanced Radiation Shielding Concrete for Construction of Facilities: Materials and Properties|en
+62|concrete-heavyweight|2024|126|article|A|A comprehensive review of radiation shielding concrete: Properties, design, evaluation, and applications|en
+63|concrete-heavyweight|2019|93|article|-|Radiation shielding performance of heavy-weight concrete mixtures|en
+64|concrete-heavyweight|2019|86|article|A|Relation between microstructure, technical properties and neutron radiation shielding efficiency of concrete|en
+65|concrete-heavyweight|2020|76|article|-|Effect of nano zinc oxide and silica on mechanical, fluid transport and radiation attenuation properties of steel furnace slag heavyweight c|en
+66|concrete-mass-rcc|2008|121|article|-|The effects of supplementary cementing materials in modifying the heat of hydration of concrete|en
+67|concrete-mass-rcc|2016|116|article|A|Technical Progress on Researches for the Safety of High Concrete-Faced Rockfill Dams|en
+68|concrete-mass-rcc|2006|75|article|A|Evaluation of Temperature Prediction Methods for Mass Concrete Members|en
+69|concrete-mass-rcc|2024|34|article|A|Use of fiber-optic sensors to monitor concrete dams: recent breakthroughs and new opportunities.|en
+70|concrete-mass-rcc|2021|27|article|A|Structural Performance and Finite Element Modeling of Roller Compacted Concrete Dams: A Review|en
+71|concrete-mass-rcc|2019|22|article|A|Seepage Safety Assessment of Concrete Gravity Dam Based on Matter-Element Extension Model and FDA|en
+72|concrete-mass-rcc|2013|20|article|A|Investigating the possibility of constructing low cost roller compacted concrete dam|en
+73|concrete-shotcrete|1998|147|article|-|Accelerating admixtures for shotcrete|en
+74|concrete-shotcrete|2009|110|dissertation|A|Rheology of high performance shotcrete|en
+75|concrete-shotcrete|2018|83|article|A|Effect of polymer fibers recycled from waste tires on properties of wet-sprayed concrete|en
+76|concrete-shotcrete|2018|77|review|A|The Sustainability of Concrete in Sewer Tunnel—A Narrative Review of Acid Corrosion in the City of Edmonton, Canada|en
+77|concrete-shotcrete|2016|77|article|-|Influence of spraying on the early hydration of accelerated cement pastes|en
+78|concrete-shotcrete|2017|66|article|A|Pet Fiber Reinforced Wet-Mix Shotcrete with Walnut Shell as Replaced Aggregate|en
+79|concrete-shotcrete|2015|60|article|-|Enhanced long-term strength and durability of shotcrete with high-strength C12A7 mineral-based accelerator|en
+80|concrete-shotcrete|2015|57|article|-|Maturity method to predict the evolution of the properties of sprayed concrete|en
+81|concrete-shotcrete|2021|51|article|A|Environmentally friendly utilization of coal gangue as aggregates for shotcrete used in the construction of coal mine tunnel|en
+82|concrete-shotcrete|2020|38|article|A|Influence of shotcrete accelerators on the hydration of cement pastes and their impact on sulfate resistance|en
+83|concrete-shotcrete|2018|38|article|A|Effects of fibers on expansive shotcrete mixtures consisting of calcium sulfoaluminate cement, ordinary Portland cement, and calcium sulfate|en
+84|concrete-shotcrete|2013|32|dissertation|A|Characterization and control of wet-mix sprayed concrete with accelerators|en
+85|concrete-shotcrete|2016|30|article|-|High-temperature behavior of structural and non-structural shotcretes|en
+86|cross-supply-region|2019|3097|review|A|What would it take for renewably powered electrosynthesis to displace petrochemical processes?|en
+87|cross-supply-region|2020|2720|article|A|Global Carbon Budget 2020|en
+88|cross-supply-region|2018|2533|review|A|Net-zero emissions energy systems|en
+89|cross-supply-region|2022|2167|article|A|Global Carbon Budget 2022|en
+90|cross-supply-region|2023|1828|article|A|Global Carbon Budget 2023|en
+91|cross-supply-region|2018|1792|article|A|Global Carbon Budget 2018|en
+92|cross-supply-region|2019|1776|article|A|Global Carbon Budget 2019|en
+93|cross-supply-region|2020|1120|article|A|Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070|en
+94|cross-supply-region|2019|1115|article|A|Global CO 2 emissions from cement production, 1928–2018|en
+95|cross-supply-region|2012|1066|article|A|Trends and developments in green cement and concrete technology|en
+96|cross-supply-region|2013|904|article|A|Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854–2010|en
+97|cross-supply-region|2022|532|report|A|Mineral commodity summaries 2022|en
+98|current-2026|2026|58|dissertation|A|Durability of compressed and cement-stabilised building blocks|en
+99|current-2026|2026|9|article|A|Mechanical Performance, Statistical Optimization, and Environmental Impact of Roller-Compacted Concrete Reinforced with Waste and Industrial|en
+100|current-2026|2026|5|article|-|Optimizing gypsum content in Portland limestone cement with ground granulated blast furnace slag|en
+101|current-2026|2026|2|article|-|Nano-reinforced epoxy barrier coatings for durability of concrete structures|en
+102|current-2026|2026|2|article|A|Investigation of carbonation on the compressive strength development of Portland Limestone Cement (PLC) concrete|en
+103|current-2026|2026|2|article|-|The impact of Al2O3 and Multi-Wall Carbon nanotubes on the morphology of roller-compacted concrete|en
+104|current-2026|2026|2|article|A|Unveiling the synergistic effects of Ilmenite and Ferroboron on the radiation shielding properties of ultra-high-performance concrete|en
+105|current-2026|2026|2|article|-|Microstructure evolution and neutron-shielding performance of composite cementitious serpentine concrete exposed to high-temperature environ|en
+106|current-2026|2026|2|article|-|Rational design and adsorption mechanism of a multi-site retarder for oil well cement under 240 °C conditions|en
+107|current-2026|2026|1|article|A|Effects of abutment geometry, cement type and amount on cement extrusion in cement‑retained implant‑supported restorations: an in vitro stud|en
+108|current-2026|2026|1|article|A|Analysis of Radioactivity Levels in Finished Cement in Chongqing|en
+109|current-2026|2026|1|article|A|Comparison of alkali-silica reaction mitigation between supersulfated cement and Portland cement|en
+110|current-2026|2026|1|article|A|Ecotoxicological assessment of cement leachates from low-carbon cements in marine conditions|en
+111|current-2026|2026|1|article|-|Reactivity, hydration kinetics, and microstructure evolution of activated copper mine tailings as supplementary cementitious materials|en
+112|current-2026|2026|1|article|A|Effects of Calcination Protocol on Performance of Phosphorus Mining‐Derived Clays as Supplementary Cementitious Material|en
+113|current-2026|2026|1|article|A|Enhancing Early-Age Strength of Low-Clinker Limestone Calcined Clay Cement Using Sodium Carbonate and Chemical Accelerators|en
+114|current-2026|2026|1|article|A|Development and characterization of sustainable mortar using industrial iron waste as an alternative to sand with Portland limestone cement|en
+115|current-2026|2026|1|article|A|Enhancing acid resistance of sustainable Portland limestone cement mortar using industrial iron ore tailings|en
+116|current-2026|2026|1|article|-|Investigation of Portland limestone cement blended with biochar from downdraft gasification: Hydration kinetics, microstructure, rheology, a|en
+117|current-2026|2026|1|article|-|Revolutionising sustainable construction: a review of the properties and strength of alkali-activated concrete|en
+118|current-2026|2026|1|article|-|Mineral-blended polymeric microspheres as an alternative to air-entraining agents in roller compacted concrete pavements|en
+119|current-2026|2026|1|article|-|Effect of roller size and mass on initial compaction in roller-compacted concrete (RCC) pavements: a hertzian mechanics optimization framewo|en
+120|current-2026|2026|1|article|-|Effect of low-pressure CO₂ injection timing on foam stability and sustainability of foamed concrete|en
+121|current-2026|2026|1|article|A|Radiation shielding performance of antimony oxide-modified concrete for 6 MV medical X-ray applications|en
+122|current-2026|2026|1|article|-|Concrete block shielding for X-rays|en
+123|current-2026|2026|1|article|A|Synergistic enhancement and mechanism of mullite whiskers and halloysite nanotubes (HNTs) on the mechanical properties of oil well cement|en
+124|current-2026|2026|1|article|A|Valorization of kaolin waste via comparative calcination screening for alkali-activated binders in oil-well cementing|en
+125|current-2026|2026|0|article|A|Sustainable Cement Production Using Forest Biomass Ash: Insights into Alkaline Cements, Blended Cements and Hybrid Alkaline Cements|en
+126|current-2026|2026|0|book-chapter|A|Green Cement: The Emerging Horizon for India's Cement Industry|en
+127|current-2026|2026|0|article|A|Effects of Cementation Fabric on the Mechanical Behaviour of Bio‐Cemented Sands: Two Cementing Approaches in DEM Simulations|en
+128|current-2026|2026|0|article|A|The Spectral Fingerprint of Cement – The Key to Accurate Analysis of Complex Cements?|en
+129|current-2026|2026|0|article|A|Determination of limestone and gypsum contents in cements|en
+130|current-2026|2026|0|article|-|Spectral regression for cement-fraction quantification in lime–cement mortars|en
+131|current-2026|2026|0|article|A|Inferior Vena Cava Cement Migration with Pulmonary Cement Embolism: A Case Report|en
+132|current-2026|2026|0|article|A|Effects of Cement Type and Vent Hole Presence on Mass-Based Cement Removal Efficiency and Residual Cement Area in Implant Prostheses|en
+133|current-2026|2026|0|book-chapter|A|Digitalization and AI in Cementing|en
+134|current-2026|2026|0|article|A|Hydration and carbonation modelling of moderate-heat cement and Portland–slag cement|en
+135|current-2026|2026|0|article|A|A COMPARATIVE ANALYSIS OF THE FINANCIAL PERFORMANCE OF ULTRATECH CEMENT LIMITED AND SHREE CEMENT LIMITED|en
+136|current-2026|2026|0|article|A|The Role of Cement–Water Interaction on Chloride Ingress in Sustainable Cement-Based Systems|en
+137|current-2026|2026|0|dissertation|A|First principles simulation of cement for nuclear waste disposal|en
+138|current-2026|2026|0|article|A|Admixtures for low-carbon cements|en
+139|current-2026|2026|0|article|A|Curing fluid for hydrocarbon-based cement slurries used in remedial cementing in oil and gas wells|en
+140|current-2026|2026|0|article|A|Clumped isotopes in Pennsylvanian brachiopods and macropore cements: Timing, temperature, and tectonic drivers of cementation|en
+141|current-2026|2026|0|article|A|A Nonlinear Mesoscale Constitutive Model for Cement‐Bridge Damage in Permeable Cement‐Stabilized Aggregate Bases|en
+142|current-2026|2026|0|article|A|Comparative performance of raw and calcined limestone dust as partial Portland cement replacements in cement paste|en
+143|current-2026|2026|0|article|A|Surface Treatment for Concrete Durability: Progress and Perspective|en
+144|current-2026|2026|0|article|A|Multi-Criteria Decision Making For Concrete Durability: ARAS Method Implementation|en
+145|current-2026|2026|0|article|A|High recycled aggregate replacement in self-compacting concrete: Durability across carbonation, chloride transport and water ingress|en
+146|current-2026|2026|0|article|-|Long/short-chain silane co-modified nano-SiO2 for robust superhydrophobic epoxy coating with enhanced concrete durability|en
+147|current-2026|2026|0|article|A|Effects of Cement Replacement with GGBF Slag on Sleeper Concrete Durability in Desert Areas: An Experimental Investigation|en
+148|current-2026|2026|0|book-chapter|A|Durable and Sustainable Concrete with Spherical Nanocellulose|en
+149|current-2026|2026|0|article|A|Effects of Hydrocarbon on Concrete Strength and Durability|en
+150|current-2026|2026|0|book-chapter|-|Carbon fixation in concrete and durability|en
+151|current-2026|2026|0|article|A|Mechanisms of Improved Durability Properties in Concrete with Reclaimed Paint Addition|en
+152|current-2026|2026|0|article|A|Durability Performance Of Steel Slag and M-Sand Concrete|en
+153|current-2026|2026|0|article|A|Analysis and Study on the Effect of Carbonation on the Durability of Concrete Structures|en
+154|current-2026|2026|0|article|A|Natural Zeolites: Pathways to Green and Durable Cement and Concrete|en
+155|current-2026|2026|0|article|A|A comparative study on the mechanical properties and durability of ordinary concrete and red mud-based concrete|en
+156|current-2026|2026|0|book-chapter|-|Durability of concrete in thermal power plant environments: mechanisms, challenges, and solutions|en
+157|current-2026|2026|0|article|A|Durability Characteristics and Microstructural Properties of Concrete Reinforced With Coconut Fibre|en
+158|current-2026|2026|0|article|A|Durability of concrete according to performance concept – influence of the main cement constituents on material properties of concrete|en
+159|current-2026|2026|0|article|A|A STUDY ON GLASS FIBRE REINFORCED CONCRETE FOR ENHANCED STRENGTH AND DURABILITY|en
+160|current-2026|2026|0|article|A|Effects of microbial repairing and organism attachment on durability of marine concrete|en
+161|current-2026|2026|0|article|A|Practicality of clinker‐efficient binders with calcined clays in durable concretes|en
+162|current-2026|2026|0|article|A|Durability of concrete in supporting structures of the contact network of electrified railways|en
+163|current-2026|2026|0|article|A|DURABILITY OF CONCRETE MODIFIED WITH WASTE POWDER COATINGS: A SUSTAINABLE APPROACH|en
+164|current-2026|2026|0|article|A|Enhanced durability of recycled aggregate concrete with sugarcane bagasse biochar|en
+165|current-2026|2026|0|article|-|Investigating the role of pumice and metakaolin in the shrinkage and durability performance of concrete|en
+166|current-2026|2026|0|article|A|Evaluation of the effectiveness of glass waste powder in improving the durability of sand concretes|en
+167|current-2026|2026|0|article|A|Evaluating the Performance of Supplementary Cementitious Material and Alternative Supplementary Cementitious Material for Wisconsin Concrete|en
+168|current-2026|2026|0|standard|-|Specification for Blended Supplementary Cementitious Materials|en
+169|current-2026|2026|0|article|A|Bamboo ash as a sustainable supplementary cementitious material in concrete|en
+170|current-2026|2026|0|article|A|Tailings as low-carbon supplementary cementitious materials: A critical review|en
+171|current-2026|2026|0|article|A|Calcined nickel laterite leaching residue as a supplementary cementitious material|en
+172|current-2026|2026|0|article|A|Evaluation of mineral admixtures as supplementary cementitious materials for structural retrofitting|pt
+173|current-2026|2026|0|article|A|Feasible supplementary cementitious materials for sustainable and advanced 3D concrete printing|en
+174|current-2026|2026|0|article|A|Comparative Assessment of Calcined and Mechanically Activated Muscovite Clay as Supplementary Cementitious Material|en
+175|current-2026|2026|0|article|A|THE EFFECT OF SUPPLEMENTARY CEMENTITIOUS MATERIALS ON THE MECHANICAL AND DURABILITY PROPERTIES OF CONCRETE|en
+176|current-2026|2026|0|article|A|EVALUATION OF MECHANICAL AND DURABILITY PROPERTIES OF CONCRETE WITH INCREASED LEVELS OF SUPPLEMENTARY CEMENTITIOUS MATERIALS|en
+177|current-2026|2026|0|article|A|Assessment of Rice Husk Ash as a Supplementary Cementitious Material in Concrete|en
+178|current-2026|2026|0|article|A|Influence of andesite as a supplementary cementitious material on the properties of Portland limestone cement-based products|en
+179|current-2026|2026|0|article|-|CO2 mineralization in supplementary cementitious materials and its influence on concrete mechanical behavior|en
+180|current-2026|2026|0|article|A|Utilisation of GGBS and Fly Ash as Supplementary Cementitious Materials in Concrete: A Review of Properties and Sustainability|en
+181|current-2026|2026|0|article|A|A critical review of untreated waste concrete powder as a supplementary cementitious material for mortar production|en
+182|current-2026|2026|0|article|A|Influence of supplementary cementitious materials on microstructure and performance of starch-gelled ultra-lightweight concretes|en
+183|current-2026|2026|0|article|A|Insights into the fracture behavior of mortar produced with gold-tailings-based supplementary cementitious materials|en
+184|current-2026|2026|0|article|-|Aqueous Carbonation of Steel Slag: Characteristics and Properties of Steel Slag as Supplementary Cementitious Materials|en
+185|current-2026|2026|0|dissertation|-|A Multi Criteria Decision System for Sustainable Supplementary Cementitious Material Selection|en
+186|current-2026|2026|0|article|-|Predicting the compressive strength of supplementary cementitious materials with nano seeds using machine learning|en
+187|current-2026|2026|0|book-chapter|A|3D-Printable Limestone-Calcined Clay-Based Cementitious Materials|en
+188|current-2026|2026|0|article|A|Hydration and Mechanical Performance of Coal Gangue–Based Limestone Calcined Clay Cement|en
+189|current-2026|2026|0|article|-|Effect of APTES-modified metakaolin on rheology and hydration of limestone calcined clay cement (LC3)|en
+190|current-2026|2026|0|article|-|Microstructural development of limestone-calcined clay cement (LC3) with ethanol-diisopropanolamine addition|en
+191|current-2026|2026|0|article|-|Influence of calcined clay grade on chloride diffusion and phase assemblage in limestone calcined clay cement under multi-ion exposure|en
+192|current-2026|2026|0|article|A|A review of processing structure and property relationships in limestone calcined clay cement systems with implications for locally sourced |en
+193|current-2026|2026|0|article|A|Mechanical and Durability Properties of Concrete with Limestone Calcined Clay Cement: Assessing the Suitability of Tanzanian Kaolinite Clay|en
+194|current-2026|2026|0|article|A|A State-of-the-Art Review of Limestone Calcined Clay Cement (LC3): Mechanisms, Performance and Sustainable Applications|en
+195|current-2026|2026|0|article|A|PERFORMANCE OPTIMIZATION OF SUSTAINABLE RAMMED EARTH BLOCKS REINFORCED WITH JUTE AND LIMESTONE CALCINED CLAY CEMENT (LC3)|en
+196|current-2026|2026|0|article|A|Upcycling recycled carbon fibres into hybrid limestone calcined clay cement (LC3) composites for strengthening applications|en
+197|current-2026|2026|0|article|A|Limestone Calcined Clay Cement for Low-Carbon Coastal Concrete: A Simulated Strength, Chloride Resistance, and Carbon Assessment|en
+198|current-2026|2026|0|article|A|Working mechanism of biobased rheology-modifying admixtures in cementitious and limestone calcined clay systems|en
+199|current-2026|2026|0|article|-|Influence of NaOH-treated pine needle fibres on the performance of limestone calcined clay cement (LC3) mortar|en
+200|current-2026|2026|0|article|A|A data-driven framework for mix design optimization of limestone calcined clay cement concrete using machine learning and experimental valid|en
+201|current-2026|2026|0|article|A|Embodied Carbon and Compressive Strength Assessment of Limestone Calcined Clay Concrete Incorporating Thermally Activated Iraqi Kaolin|en
+202|current-2026|2026|0|article|-|Role of sodium tripolyphosphate as a sacrificial agent in enhancing the dispersion efficiency of PCE in limestone calcined clay cements (LC3|en
+203|current-2026|2026|0|article|-|Accelerating construction decarbonization: biochar-Limestone Calcined Clay Cement (LC3) synergy for carbon mitigation and performance enhanc|en
+204|current-2026|2026|0|book-chapter|A|Development of a Sustainable Slag-Modified Limestone Calcined Clay (LC) Based One-Part 3D-Printed Geopolymer Concrete|en
+205|current-2026|2026|0|article|-|Development of sustainable concrete containing limestone calcined clay and palm oil fuel ash through experimental, microstructural, and stat|en
+206|current-2026|2026|0|article|A|Continuous Determination of the Early-Age Hydration Kinetics of Limestone Calcined Clay Cements: The Influence of a C-S-H Seeding Admixture|en
+207|current-2026|2026|0|article|A|Bacterial Self-healing Concrete with Limestone Calcined Clay: Mechanical Properties, Durability, and Digital Image-Based Evaluation|en
+208|current-2026|2026|0|article|A|Evaluation of Limestone Calcined Clay Cement (LC³) as an alternative system to Class G Portland cement for oil well plug and abandonment ope|en
+209|current-2026|2026|0|book-chapter|A|Advancing low-carbon shotcrete: Novel accelerator solutions for Portland-limestone cement|en
+210|current-2026|2026|0|article|A|Synergistic effect of alkanolamines and nano-SiO2 on hydration and mechanical properties of Portland limestone cement|en
+211|current-2026|2026|0|report|A|Examining the Abrasion and Carbonation Resistance of Portland Limestone Cement (PLC) Systems for Industrial Floors|en
+212|current-2026|2026|0|article|A|The Influence of Palm Oil Fuel Ash (POFA) on the Mechanical Properties of Portland Limestone Cement Concrete|en
+213|current-2026|2026|0|article|-|Quantifying rheology and microstructure of hydrating Portland-Limestone Cement blends to address additive manufacturing needs|en
+214|current-2026|2026|0|article|A|Effect of Sawdust Ash on the Properties of Concrete Produced with Portland Limestone Cement Grades 32.5N and 42.5R|en
+215|current-2026|2026|0|article|-|Carbonation of portland limestone cement mortars with high supplementary cementitious material replacements|en
+216|current-2026|2026|0|article|A|Sustainable mix design for liquid radioactive waste with an extremely high boron concentration using alkali-activated Portland-limestone cem|en
+217|current-2026|2026|0|article|A|A Study on Strategies for Establishing Korean Portland Limestone Cement Standards Based on an Expert Survey|en
+218|current-2026|2026|0|dissertation|A|Fresh, Mechanical, and Durability Performance of Portland Limestone Cement Mortars with Low-Kaolinite Calcined Clay and Reclaimed Coal Ash|en
+219|current-2026|2026|0|article|A|Optimization of Fonio Husk Ash and Calcined Waste Treatment Sludge for Age-Dependent Compressive Strength of Portland Limestone Cement Concr|en
+220|current-2026|2026|0|article|A|Valorising industrial limestone-slurry waste into low-carbon Portland-limestone cement based aircrete: packing density, thermo-mechanical pe|en
+221|current-2026|2026|0|article|A|Repurposing Basaltic Laterite Waste as a Potential Supplementary Cementitious Material or Fine Aggregate in Portland-Limestone Cement–Based |en
+222|current-2026|2026|0|article|A|Stabilisation of Vermi-Remediated Crude Oil-Contaminated Lateritic Soil with Portland Limestone Cement for Road Subgrade Application in the |en
+223|current-2026|2026|0|article|A|Application of Rice Husk Ash-Derived Nano-Silica as a Partial Replacement of Portland Limestone Cement: Effects on Workability, Compressive |en
+224|current-2026|2026|0|article|-|Hydration of Ultrahigh-Performance Concrete Incorporating Portland Limestone Cement, Fly Ash, and Silica Fume Under Moisture and Steam Curin|en
+225|current-2026|2026|0|article|-|Autogenous deformation of alkali-activated slag and alkali-activated metakaolin paste and mortar: an interlaboratory study of RILEM TC 294-M|en
+226|current-2026|2026|0|article|A|Chemical and rheological mechanisms governing geopolymerization of alkali-activated aluminosilicates|en
+227|current-2026|2026|0|article|-|On the air-entraining of proteins in alkali-activated slag systems|en
+228|current-2026|2026|0|book-chapter|-|Alkali-activated materials for immobilization of organic radioactive waste|en
+229|current-2026|2026|0|article|A|Use of Magnetic Activated Carbon to Increase CO2 Absorption Capacity of Alkali-Activated Slag|en
+230|current-2026|2026|0|book-chapter|-|Immobilization of low- and intermediate-level radioactive wastes in alkali-activated cements|en
+231|current-2026|2026|0|article|A|Effect of GGBS on Mechanical Properties of Alkali-activated MSWIFA Vitrified Slags|zh
+232|current-2026|2026|0|article|A|Role of Sodium- and Potassium-Based Activators on the Engineering Properties of Low-Alkali-Activated Binders|en
+233|current-2026|2026|0|article|A|Shrinkage mitigation of alkali-activated slag materials using biochar|en
+234|current-2026|2026|0|article|A|Ex-situ replication of concrete pore solution: alkali-activated concrete|en
+235|current-2026|2026|0|article|A|Cement Hydration and Geopolymerization Interactions in Hybrid Alkali-Activated Binders: A Critical Review|en
+236|current-2026|2026|0|article|A|Data-Driven Optimization of Calcined Kaolin Waste for Sustainable Alkali-Activated Binders|en
+237|current-2026|2026|0|article|A|Effects of CO₂ treatment on the interlayer bonding in 3D-printed alkali-activated concrete|en
+238|current-2026|2026|0|article|A|Comprehensive Evaluation of Coal-Fired Bottom Slag as a Precursor for Alkali-Activated Materials|en
+239|current-2026|2026|0|article|A|Compression Casting of Alkali-Activated Mortars: Forming Mechanisms, Alkali Regulation, and Impact on Mechanical Performance|en
+240|current-2026|2026|0|article|A|Setting time of alkali-activated materials: Mechanisms, controlling factors, and retardation strategies|en
+241|current-2026|2026|0|article|A|Bleeding and rheological properties of alkali activated fly ash-slag at different temperatures|en
+242|current-2026|2026|0|article|A|Immobilization mechanism of Cr in alkali‐activated red mud based cementitious materials|en
+243|current-2026|2026|0|article|A|Investigation of coal mine overburden as a sustainable fine aggregate in alkali-activated concrete|en
+244|current-2026|2026|0|article|A|Modulus-regulated alkali-activated geopolymers for structural supercapacitors|en
+245|current-2026|2026|0|article|A|Alkali-Activated Clay Composites as Low-Carbon Materials for Sustainable Construction and Architectural Applications|en
+246|current-2026|2026|0|article|A|Evaluating post-fire residual impact resistance of alkali-activated slag systems|en
+247|current-2026|2026|0|article|-|Biomass incineration bottom ash–based alkali-activated binders modified with metakaolin|en
+248|current-2026|2026|0|article|A|Formation of Zeolite Phases in Alkali-Activated Binders and Their Role in the Immobilization of Toxic Elements|en
+249|current-2026|2026|0|book-chapter|A|Rice husk ash as an admixture for roller compacted concrete|en
+250|current-2026|2026|0|article|A|Effects of maximum aggregate grain size and gradation on roller compacted concrete pavements|en
+251|current-2026|2026|0|article|A|COMPARISON OF TESTING METHODS FOR ROLLER-COMPACTED CONCRETE AND ASSESSMENT OF THEIR EFFECTIVENESS|uk
+252|current-2026|2026|0|article|A|Comparative Mechanical and Durability Performance of Roller Compacted Concrete and Conventional Concrete in Burkina Faso|en
+253|current-2026|2026|0|article|A|Influence of calcium leaching on high-volume fly ash roller compacted concrete|en
+254|current-2026|2026|0|article|A|Deformation and Interlayer Bonding Performance of Roller Compacted Concrete with Different Strength Grades|en
+255|current-2026|2026|0|article|A|Comparative Mechanical and Durability Performance of Roller Compacted Concrete and Conventional Concrete in Burkina Faso|en
+256|current-2026|2026|0|article|A|Effect of Metakaolin and Crumb Rubber on the Properties of Roller-Compacted Concrete Containing PP Fibers|en
+257|current-2026|2026|0|article|A|Uniaxial Damage Mechanisms in Roller-Compacted Concrete Subjected to Freeze–Thaw Cycles|en
+258|current-2026|2026|0|article|A|Mechanical and durability performance of modified roller-compacted concrete: Experimental evaluation and predictive modeling|en
+259|current-2026|2026|0|article|A|Optimizing of concreting method in mass concrete structure using numerical analysis (roller compacted concrete gravity dam)|en
+260|current-2026|2026|0|article|A|Roller-Compacted Concrete for Pavements: A Critical Review of Its Structural Design, Construction, Monitoring, and Applications|en
+261|current-2026|2026|0|article|A|Evaluation of the durability performance of roller-compacted concrete incorporating recycled pavement materials|en
+262|current-2026|2026|0|book-chapter|A|The use of field instrumentation as an aid to determine the behaviour of roller compacted concrete in an arch gravity dam|en
+263|current-2026|2026|0|article|-|Impacts of TiO2 and Silica Fume on the Physical and Mechanical Properties of Roller-Compacted Concrete Pavement|en
+264|current-2026|2026|0|article|-|The Effect of Treating Recycled Aggregates with Cement Kiln Dust (CKD) on the Durability of Roller-Compacted Concrete|en
+265|current-2026|2026|0|article|A|Utilization of granite powder in roller‑compacted concrete: A comprehensive evaluation of mechanical properties, durability and microstructu|en
+266|current-2026|2026|0|article|A|A BIM-Enabled Framework for Structural Health Monitoring of Roller-Compacted Concrete Dams|en
+267|current-2026|2026|0|article|A|White-box modeling and reliability assessment of roller-compacted concrete for dam and pavement engineering applications|en
+268|current-2026|2026|0|article|A|Interfacial bonding behavior and microstructure of nano carbon black concrete and roller-compacted concrete composites for dam overwintering|en
+269|current-2026|2026|0|article|A|Analysis of the properties of roller-compacted concrete with recycled aggregate pavement under high temperatures|en
+270|current-2026|2026|0|article|A|Aerogel‐Modified Ultra‐Lightweight Foam Concrete|en
+271|current-2026|2026|0|article|A|Performance of Foamed Concrete Incorporating Modified Expanded Perlite|en
+272|current-2026|2026|0|article|A|Effect of Integral Waterproofing on Strength and Durability of Foamed Concrete|en
+273|current-2026|2026|0|article|A|Thermal Conductivity Coefficient of Foamed Concrete Reinforced with Polypropylene Fibers|en
+274|current-2026|2026|0|article|A|Effect of alkali on the formation and stability of foam in red mud-based foamed concrete|en
+275|current-2026|2026|0|article|A|Non-Autoclaved Lightweight Concretes Based on A Nano-Modified Dry Mix for Foam Concrete|en
+276|current-2026|2026|0|article|A|Pore structure refinement and property enhancement of foam concrete using cellulose nanofibril-stabilized foams|en
+277|current-2026|2026|0|article|A|Enhancing CO2 sequestration in foam concrete via biochar integration and CO2-entrained foaming|en
+278|current-2026|2026|0|article|A|Impact of Selected Installation Parameters on the Resistance of Plastic Anchors in Foamed Concrete Substrate|en
+279|current-2026|2026|0|article|-|Foam-mediated interfacial assembly of hydrophobic silica aerogels for insulating foamed concrete|en
+280|current-2026|2026|0|article|A|Investigating the properties of local minerals as a supplementary cementitious material for foamed concrete|en
+281|current-2026|2026|0|article|-|Effect of recycled concrete powder on air content in foam concrete produced using mixed foam method|en
+282|current-2026|2026|0|article|A|Valorization of Cashew Industry Waste into Anacardate-Based Green Foaming Agents for Foam Concrete Applications|en
+283|current-2026|2026|0|article|-|Behaviour of foam concrete produced with anionic and zwitterionic surfactants with foaming additives: An experimental approach|en
+284|current-2026|2026|0|article|A|Foamed Concrete Sealing Materials for Coal Seam Gas Drainage Boreholes: A Review|en
+285|current-2026|2026|0|article|A|Research on the properties and mechanisms of hydrophilic and hydrophobic nanoparticles modified foamed concrete|en
+286|current-2026|2026|0|article|A|Uniaxial Compressive Properties and Constitutive Model of Foamed Concrete Modified by Polymer and Fiber|en
+287|current-2026|2026|0|article|-|Durability and macrocell corrosion assessment of structural grade foam concrete|en
+288|current-2026|2026|0|article|A|Recent Advances in Nano-Modified Foamed Concrete: From Mechanical Properties to Multifunctionality|en
+289|current-2026|2026|0|article|-|Fracture characterisation of functionally graded lightweight foamed concrete|en
+290|current-2026|2026|0|article|A|Experimental and numerical analysis of foamed concrete as a damping interlayer in metro sub-track systems|en
+291|current-2026|2026|0|article|-|Enteromorpha prolifera polysaccharide as a novel bio-based foaming agent: Preparation, foaming performance, and properties of foam concrete|en
+292|current-2026|2026|0|article|A|AN EXPERIMENTAL STUDY ON PROPERTIES OF GLASS FIBER REINFORCED FOAMED CONCRETE|en
+293|current-2026|2026|0|article|A|The Reasons for Improving the Technological Properties of Foam Concrete Mixtures When Mixing with Melt Water|en
+294|current-2026|2026|0|article|-|Radiation-shielding concrete systems: an analytical review of material strategies, shielding efficiency, and engineering performance|en
+295|current-2026|2026|0|article|-|Review on radiation-shielding concrete: Advances in aggregate characterization, performance evaluation, and predictive modeling|en
+296|current-2026|2026|0|article|A|Influence of Iron and Brass Filling Replacement on the Efficiency of Concrete as Radiation Shield|en
+297|current-2026|2026|0|article|A|Performance Optimization of Radiation-Shielding Serpentine Concrete with Slurry-Coated Aggregates Using the Response Surface Methodology|en
+298|current-2026|2026|0|article|A|Advanced Concrete Materials for Infrastructure Sustainability: Electromagnetic Shielding, Energy Harvesting, and Radiation Protection Integr|en
+299|current-2026|2026|0|article|-|Surface electrical resistance measurements to evaluate radiation shielding performance of heavyweight concretes|en
+300|current-2026|2026|0|article|-|Theoretical assessment of Fe₂O₃-based concrete for enhanced ionizing radiation shielding|en
+301|current-2026|2026|0|article|A|Effect of mechanical loading on gas permeability and radiation shielding properties of concrete with low-clinker cement|en
+302|current-2026|2026|0|article|-|Physico-mechanical and radiation shielding properties of concrete incorporated with palm kernel shell ash and doum palm shell ash|en
+303|current-2026|2026|0|article|A|Use of Different Fine Aggregates in Ultra-High-Performance Concrete (UHPC) for Structural Radiation Shielding|en
+304|current-2026|2026|0|article|A|Design of Radiation Shielding in Radiotherapy Using Concrete Composites with Bismuth and Tungsten Heavy Metals|fa
+305|current-2026|2026|0|article|A|Post-explosion radiation shielding efficiency of improved reinforced concrete slabs subjected to intensive air explosions|en
+306|current-2026|2026|0|article|-|Photon radiation shielding performance of eco-friendly hematite-based hybrid heavyweight concrete as an alternative to lead|en
+307|current-2026|2026|0|article|A|IFMIF-DONES concrete neutron shielding benchmarks|en
+308|current-2026|2026|0|article|A|Over-burnt brick waste as a multifunctional SCM in concrete: Implications for antifungal activity, mechanical strength, durability, and radi|en
+309|current-2026|2026|0|article|A|Comparison of Carbon–Neutral Geopolymer and OPC Concrete for Nuclear Shielding Applications|en
+310|current-2026|2026|0|article|-|SYNERGISTIC EFFECTS OF MICRO AND NANO MAGNETITE ON THE MECHANICAL, PHYSICAL, AND RADIATION SHIELDING PROPERTIES OF REINFORCED HIGH-PERFORMAN|en
+311|current-2026|2026|0|article|A|Machine Learning–Enhanced Integrated Assessment of Thermal and Radiation Shielding Performance Degradation in GGBFS-Based Geopolymer Concret|en
+312|current-2026|2026|0|book-chapter|A|Fundamentals of Oil Well Cementing|en
+313|current-2026|2026|0|book-chapter|A|Introduction to Sustainable Oil Well Cementing|en
+314|current-2026|2026|0|article|A|Basalt Fiber Surface Modification through Polydopamine Hydrophilic Coating for Oil Well Cements|en
+315|current-2026|2026|0|book|A|Sustainable Oil Well Cementing: Materials, Methods, and Environmental Protection|en
+316|current-2026|2026|0|article|-|Geopolymer oil-well cement with controlled HPHT thickening time and enhanced elevated-temperature resistance|en
+317|current-2026|2026|0|article|-|Preparation of AFt seeds for enhanced early strength of oil well cement at 5 °C|en
+318|current-2026|2026|0|article|-|Microencapsulation-enabled controlled gas generation for shrinkage compensation and gas channeling mitigation in oil-well cement|en
+319|current-2026|2026|0|article|A|Sustainable cement blends with quartz-aluminum waste and silica-rich pozzolan for high-temperature oil well cementing|en
+320|current-2026|2026|0|article|A|Synergistic enhancement and mechanism of mullite whiskers and halloysite nanotubes (HNTs) on the mechanical properties of oil well cement|en
+321|current-2026|2026|0|article|A|Complementary Effects of Coal Fly Ash and Ash-Derived Zeolite on Oil Well Cement for Carbon Capture and Storage|en
+322|current-2026|2026|0|article|-|Will Different Crystal Forms of Al2O3 Fibers Affect Mechanical Properties of Oil-Well Cement?|en
+323|current-2026|2026|0|article|-|Mechanism of toughening and crack arrest induced by Eucommia bark powder in oil-well cement paste|en
+324|current-2026|2026|0|article|-|Research on self-repairing technology of oil well cement based on pH-sensitive microencapsulated water-absorbing resin|en
+325|current-2026|2026|0|article|A|Application of Nanomaterials and Machine Learning to Evaluate Compressive Strength of Oil Well Cement Based on Experimental Data|en
+326|current-2026|2026|0|article|A|The Effect of Partial Replacement of GGBS on the Rheological Properties of Oil Well Cement Slurries|en
+327|current-2026|2026|0|article|-|Metakaolin/graphite-modified oil-well cement composites with enhanced high-temperature strength and thermal conductivity for geothermal appl|en
+328|current-2026|2026|0|article|A|Performance assessment of graphene oxide, hydroxyethyl cellulose, and hydroxypropyl methylcellulose as fluid loss control additives in oil w|en
+329|current-2026|2026|0|article|A|Hybrid Nano-Modified Cementitious Systems for Enhanced Oil-Well Cement Performance Under HPHT Conditions|en
+330|current-2026|2026|0|article|-|Mechanism of multiscale morphological densification of oil well cement in retarding CO₂ corrosion under high temperature and high pressure c|en
+331|current-2026|2026|0|article|A|Silane-mediated organic–inorganic interfacial regulation improves deformation coordination and structural integrity of silica-rich oil well |en
+332|current-2026|2026|0|article|-|Effect of lateral chain structure of copolymer filtrate reducer on the properties of oil-well cement slurry and adsorption mechanism analysi|en
+333|current-2026|2026|0|article|-|Preparation and performance regulation of polyether-based synergistic hydrophobic association high-temperature suspension stabilizer for oil|en
+334|pll-mix|2012|164|article|-|Sulfate resistance of limestone cement concrete exposed to combined chloride and sulfate environment at low temperature|en
+335|pll-mix|2013|28|report|A|Performance of Portland Limestone Cements: Cements Designed to Be More Sustainable That Include up to 15% Limestone Addition|en
+336|pll-mix|2012|18|dissertation|A|Sulfate Resistance and Properties of Portland-limestone Cements|en
+337|pll-mix|2016|1|article|A|MAT-704: RESISTANCE OF CONCRETE INCORPORATING PORTLAND LIMESTONE CEMENT TO SULFURIC ACID|en
+338|pll-mix|2015|1|dissertation|A|Process analysis and energy efficiency improvement on Portland limestone cement grinding circuit|en
+339|pll-mix|2014|1|report|A|Effect of Portland Cement (Current ASTM C150/AASHTO M85) with Limestone and Process Addition (ASTM C465/AASHTO M327) on the Performance of C|en
+340|scm-natural|2011|226|article|-|Design of green concrete made of plant-derived aggregates and a pumice–lime binder|en
+341|scm-natural|2010|141|article|-|Comparative and semi-quantitative XRD analysis of Friedel’s salt originating from pozzolan and Portland cement|en
+342|scm-natural|2000|112|article|-|Effect of temperature on the physico-mechanical and mineralogical properties of Homra pozzolanic cement pastes|en
+343|scm-natural|2004|103|article|-|The physical and mechanical properties of composite cements manufactured with calcareous and clayey Greek diatomite mixtures|en

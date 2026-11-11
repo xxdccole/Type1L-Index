@@ -1,0 +1,402 @@
+[
+ {
+  "topic": "cross-supply-region",
+  "query": "cement industry regional production capacity trade",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "clinker import export cement market developing countries",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "aggregate supply shortage sand mining concrete",
+  "to": null,
+  "from": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "cement plant location kiln technology China India",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller compacted concrete dam lift joint permeability",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "adiabatic temperature rise mass concrete low heat cement",
+  "to": ":2010",
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "RCC dam thermal stress analysis",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller compacted concrete pavement durability freeze thaw",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "autoclaved aerated concrete tobermorite properties",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "foamed concrete thermal conductivity density",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "cellular concrete history Ytong autoclaved",
+  "to": ":1995",
+  "from": null,
+  "n": 2,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "foam concrete fly ash compressive strength drying shrinkage",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "barite concrete mechanical properties high temperature",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "steel slag aggregate heavyweight concrete gamma",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "concrete biological shield nuclear power plant aging irradiation",
+  "to": null,
+  "from": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "concrete structure collapse forensic investigation",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "bridge deck deterioration chloride field survey",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "parking structure deterioration repair case study",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "high alumina cement concrete failure roof beams",
+  "to": ":2000",
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "shrinkage compensating concrete type K expansive cement",
+  "to": null,
+  "from": null,
+  "n": 16,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "rapid hardening cement repair early strength calcium sulfoaluminate belite",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "expansive additive MgO CaO concrete restrained expansion",
+  "to": null,
+  "from": null,
+  "n": 16,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "lime mortar natural hydraulic lime masonry restoration",
+  "to": null,
+  "from": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "white cement concrete photocatalytic TiO2 self-cleaning",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "Portland cement lime mortar bond masonry unit",
+  "to": null,
+  "from": null,
+  "n": 12,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "query": "CEM III blast furnace cement durability Europe",
+  "to": null,
+  "from": null,
+  "n": 10,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "query": "Japanese cement JIS R 5210 portland",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "query": "composite cement CEM II/C CEM VI EN 197-5",
+  "to": null,
+  "from": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "binder-well",
+  "query": "oil well cement slurry gas migration additives",
+  "to": null,
+  "from": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "binder-well",
+  "query": "CO2 resistant well cement carbonation sequestration",
+  "to": null,
+  "from": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "scm-natural",
+  "query": "pumice pozzolan concrete alkali silica reaction",
+  "to": null,
+  "from": null,
+  "n": 10,
+  "errors": []
+ },
+ {
+  "topic": "scm-natural",
+  "query": "diatomaceous earth pozzolan cement",
+  "to": null,
+  "from": null,
+  "n": 16,
+  "errors": []
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "sprayed concrete tunnel lining accelerator alkali-free",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "shotcrete rebound early strength",
+  "to": null,
+  "from": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement concrete mixture proportioning strength",
+  "to": null,
+  "from": null,
+  "n": 9,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement scaling freeze thaw deicer",
+  "to": null,
+  "from": null,
+  "n": 12,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement pavement",
+  "to": null,
+  "from": null,
+  "n": 10,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement sulfate resistance thaumasite low temperature",
+  "to": null,
+  "from": null,
+  "n": 15,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement chloride carbonation",
+  "to": null,
+  "from": null,
+  "n": 2,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "query": "portland limestone cement Canada CSA A3000 GU",
+  "to": null,
+  "from": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "cement",
+  "to": null,
+  "from": "2026-09-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "concrete durability",
+  "to": null,
+  "from": "2026-09-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "supplementary cementitious material",
+  "to": null,
+  "from": "2026-09-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "limestone calcined clay",
+  "to": null,
+  "from": "2026-08-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "portland limestone cement",
+  "to": null,
+  "from": "2026-03-01",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "alkali activated",
+  "to": null,
+  "from": "2026-09-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "roller compacted concrete",
+  "to": null,
+  "from": "2026-01-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "foamed concrete",
+  "to": null,
+  "from": "2026-06-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "radiation shielding concrete",
+  "to": null,
+  "from": "2026-06-01",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "query": "oil well cement",
+  "to": null,
+  "from": "2026-06-01",
+  "n": 25,
+  "errors": []
+ }
+]

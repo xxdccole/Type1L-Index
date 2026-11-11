@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "Cement & Concrete Index research ledger",
   "created": "2026-11-08T18:35:00-06:00",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "campaignGoal": "Multi-pass historical+current source discovery across all 59 topics; portable metadata for future DB/context ingestion; not exhaustive completeness.",
   "policy": {
     "noPaywallBypass": true,
@@ -1137,13 +1137,1047 @@
       "corrections": [
         "R428 (\"Advancements in Removing Fluorine from Copper Concentrate\") withdrawn before publication: off-topic false positive; lead marked rejected; ID retired, not reused."
       ]
+    },
+    {
+      "id": "pass-2026-11-11",
+      "date": "2026-11-11",
+      "zone": "America/Chicago",
+      "kind": "daily-discovery+lead-verification",
+      "focusTopics": [
+        "cross-supply-region",
+        "concrete-mass-rcc",
+        "concrete-cellular",
+        "concrete-heavyweight",
+        "cross-failure-repair",
+        "binder-specialty",
+        "binder-white-masonry",
+        "binder-international",
+        "binder-well",
+        "scm-natural",
+        "concrete-shotcrete",
+        "scm-limestone",
+        "Type IL collection topics via Portland-limestone cement backfill (durability, strength, scm, intl, carbon, standards, apps)"
+      ],
+      "currentAwareness": true,
+      "status": "completed-unpublished (publisher to push)",
+      "repositories": [
+        "OpenAlex works API (fulltext search sorted by citations / relevance; title.search filter with period splits)",
+        "Crossref works API (per-DOI; no bibliographic search used)",
+        "DataCite API (Zenodo, UVA Libra)",
+        "doi.org resolver (HEAD)",
+        "OSTI ETDEWEB",
+        "ROSA P / NTL",
+        "CiNii Books",
+        "ACI International Concrete Abstracts Portal",
+        "TRID (unreachable directly; records via search index)",
+        "TU Delft repository (unreachable directly; record via search index)",
+        "DTIC/ERDC (403; via search index)",
+        "National Library of Australia catalogue (via search index)",
+        "Pascal-Francis (via search index)",
+        "Geopolymer Institute author copy"
+      ],
+      "periods": "1912–2026 (title.search queries split into pre-2000/2000s/post-2005 windows; current sweep 2026-01 → 2026-11-11, mostly ≥2026-06)",
+      "languages": [
+        "de",
+        "en",
+        "ja",
+        "ko"
+      ],
+      "apiQueries": [
+        {
+          "topic": "cross-supply-region",
+          "query": "cement industry regional production capacity trade",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-supply-region",
+          "query": "clinker import export cement market developing countries",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-supply-region",
+          "query": "aggregate supply shortage sand mining concrete",
+          "to": null,
+          "from": null,
+          "n": 17,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-supply-region",
+          "query": "cement plant location kiln technology China India",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "query": "roller compacted concrete dam lift joint permeability",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "query": "adiabatic temperature rise mass concrete low heat cement",
+          "to": ":2010",
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "query": "RCC dam thermal stress analysis",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "query": "roller compacted concrete pavement durability freeze thaw",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-cellular",
+          "query": "autoclaved aerated concrete tobermorite properties",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-cellular",
+          "query": "foamed concrete thermal conductivity density",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-cellular",
+          "query": "cellular concrete history Ytong autoclaved",
+          "to": ":1995",
+          "from": null,
+          "n": 2,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-cellular",
+          "query": "foam concrete fly ash compressive strength drying shrinkage",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "query": "barite concrete mechanical properties high temperature",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "query": "steel slag aggregate heavyweight concrete gamma",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "query": "concrete biological shield nuclear power plant aging irradiation",
+          "to": null,
+          "from": null,
+          "n": 17,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "query": "concrete structure collapse forensic investigation",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "query": "bridge deck deterioration chloride field survey",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "query": "parking structure deterioration repair case study",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "query": "high alumina cement concrete failure roof beams",
+          "to": ":2000",
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-specialty",
+          "query": "shrinkage compensating concrete type K expansive cement",
+          "to": null,
+          "from": null,
+          "n": 16,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-specialty",
+          "query": "rapid hardening cement repair early strength calcium sulfoaluminate belite",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-specialty",
+          "query": "expansive additive MgO CaO concrete restrained expansion",
+          "to": null,
+          "from": null,
+          "n": 16,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "query": "lime mortar natural hydraulic lime masonry restoration",
+          "to": null,
+          "from": null,
+          "n": 17,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "query": "white cement concrete photocatalytic TiO2 self-cleaning",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "query": "Portland cement lime mortar bond masonry unit",
+          "to": null,
+          "from": null,
+          "n": 12,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-international",
+          "query": "CEM III blast furnace cement durability Europe",
+          "to": null,
+          "from": null,
+          "n": 10,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-international",
+          "query": "Japanese cement JIS R 5210 portland",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-international",
+          "query": "composite cement CEM II/C CEM VI EN 197-5",
+          "to": null,
+          "from": null,
+          "n": 17,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-well",
+          "query": "oil well cement slurry gas migration additives",
+          "to": null,
+          "from": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "binder-well",
+          "query": "CO2 resistant well cement carbonation sequestration",
+          "to": null,
+          "from": null,
+          "n": 17,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "scm-natural",
+          "query": "pumice pozzolan concrete alkali silica reaction",
+          "to": null,
+          "from": null,
+          "n": 10,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "scm-natural",
+          "query": "diatomaceous earth pozzolan cement",
+          "to": null,
+          "from": null,
+          "n": 16,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-shotcrete",
+          "query": "sprayed concrete tunnel lining accelerator alkali-free",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-shotcrete",
+          "query": "shotcrete rebound early strength",
+          "to": null,
+          "from": null,
+          "n": 18,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement concrete mixture proportioning strength",
+          "to": null,
+          "from": null,
+          "n": 9,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement scaling freeze thaw deicer",
+          "to": null,
+          "from": null,
+          "n": 12,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement pavement",
+          "to": null,
+          "from": null,
+          "n": 10,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement sulfate resistance thaumasite low temperature",
+          "to": null,
+          "from": null,
+          "n": 15,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement chloride carbonation",
+          "to": null,
+          "from": null,
+          "n": 2,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "pll-mix",
+          "query": "portland limestone cement Canada CSA A3000 GU",
+          "to": null,
+          "from": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "cement",
+          "to": null,
+          "from": "2026-09-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "concrete durability",
+          "to": null,
+          "from": "2026-09-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "supplementary cementitious material",
+          "to": null,
+          "from": "2026-09-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "limestone calcined clay",
+          "to": null,
+          "from": "2026-08-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "portland limestone cement",
+          "to": null,
+          "from": "2026-03-01",
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "alkali activated",
+          "to": null,
+          "from": "2026-09-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "roller compacted concrete",
+          "to": null,
+          "from": "2026-01-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "foamed concrete",
+          "to": null,
+          "from": "2026-06-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "radiation shielding concrete",
+          "to": null,
+          "from": "2026-06-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "current-2026",
+          "query": "oil well cement",
+          "to": null,
+          "from": "2026-06-01",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest1"
+        },
+        {
+          "topic": "concrete-cellular",
+          "titleSearch": "autoclaved aerated concrete",
+          "period": ":1999",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-cellular",
+          "titleSearch": "autoclaved aerated concrete",
+          "period": "2000:2015",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-cellular",
+          "titleSearch": "foamed concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-cellular",
+          "titleSearch": "foam concrete",
+          "period": ":2012",
+          "n": 15,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-cellular",
+          "titleSearch": "cellular concrete",
+          "period": null,
+          "n": 23,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "shielding concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "heavyweight concrete",
+          "period": null,
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "barite concrete",
+          "period": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "irradiated concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "high-density concrete",
+          "period": null,
+          "n": 23,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "titleSearch": "roller compacted concrete",
+          "period": ":2005",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "titleSearch": "roller-compacted concrete",
+          "period": "2006:2020",
+          "n": 23,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "titleSearch": "mass concrete",
+          "period": ":2000",
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "titleSearch": "mass concrete",
+          "period": "2001:2018",
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-mass-rcc",
+          "titleSearch": "RCC dam",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "titleSearch": "concrete deterioration case study",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "titleSearch": "collapse reinforced concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "titleSearch": "concrete bridge deterioration",
+          "period": ":2005",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "titleSearch": "failure analysis concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-failure-repair",
+          "titleSearch": "high alumina cement",
+          "period": ":1995",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-specialty",
+          "titleSearch": "expansive cement",
+          "period": ":2000",
+          "n": 23,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-specialty",
+          "titleSearch": "shrinkage-compensating",
+          "period": null,
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-specialty",
+          "titleSearch": "expansive agent concrete",
+          "period": null,
+          "n": 22,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-specialty",
+          "titleSearch": "rapid hardening cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "titleSearch": "masonry cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "titleSearch": "white cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "titleSearch": "hydraulic lime mortar",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "titleSearch": "cement-lime mortar",
+          "period": null,
+          "n": 20,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-white-masonry",
+          "titleSearch": "portland cement plaster",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-international",
+          "titleSearch": "blast furnace cement",
+          "period": null,
+          "n": 23,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-international",
+          "titleSearch": "composite cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-international",
+          "titleSearch": "CEM II",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-international",
+          "titleSearch": "CEM III",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-well",
+          "titleSearch": "oil well cement",
+          "period": ":2005",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-well",
+          "titleSearch": "well cement",
+          "period": "2006:2020",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "binder-well",
+          "titleSearch": "geothermal cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-shotcrete",
+          "titleSearch": "shotcrete",
+          "period": ":2000",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-shotcrete",
+          "titleSearch": "sprayed concrete",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "scm-natural",
+          "titleSearch": "natural pozzolan",
+          "period": ":2005",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "scm-natural",
+          "titleSearch": "pumice cement",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "scm-natural",
+          "titleSearch": "volcanic ash cement",
+          "period": null,
+          "n": 21,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-supply-region",
+          "titleSearch": "cement industry",
+          "period": ":2005",
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-supply-region",
+          "titleSearch": "cement industry",
+          "period": "2006:2020",
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-supply-region",
+          "titleSearch": "cement production",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-supply-region",
+          "titleSearch": "aggregate resources",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "cross-supply-region",
+          "titleSearch": "sand mining",
+          "period": null,
+          "n": 25,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "scm-limestone",
+          "titleSearch": "limestone filler",
+          "period": ":2008",
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "scm-limestone",
+          "titleSearch": "limestone powder concrete",
+          "period": null,
+          "n": 24,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "concrete-heavyweight",
+          "titleSearch": "radiation shielding concrete",
+          "period": null,
+          "n": 8,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "pll-mix",
+          "titleSearch": "portland-limestone cement",
+          "period": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "pll-mix",
+          "titleSearch": "limestone cement",
+          "period": ":2010",
+          "n": 8,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        },
+        {
+          "topic": "pll-mix",
+          "titleSearch": "portland limestone cement concrete",
+          "period": null,
+          "n": 19,
+          "errors": [],
+          "harvest": "harvest2-titlesearch"
+        }
+      ],
+      "webQueries": [
+        "WebSearch/WebFetch: Walraven Reinhardt 1981 HERON (TU Delft)",
+        "WebSearch/WebFetch: Bache 1981 densified cement (OSTI ETDEWEB)",
+        "WebSearch: Nibbler concrete breaking 1974 (TRID/BRE)",
+        "WebSearch: Aggregates from waste materials 1972 (TRID/ERDC)",
+        "WebSearch: ACI 223R-10 / PRC-223-21",
+        "WebSearch: Ribar Scanlon 1984 plaster (DTIC/ERDC)",
+        "WebSearch: Londe Lino 1992 FSHD",
+        "WebSearch: Wittmann 1992 AAC proceedings",
+        "WebSearch: Morgan Wolsiefer silica fume shotcrete",
+        "WebSearch: Saricimen 1987 sewerage",
+        "WebSearch/WebFetch: Toward a Sustainable Cement Industry substudy 8 (OSTI)",
+        "WebSearch: Baron Douvre 1987 limestone filler",
+        "WebSearch: ACI 325.10R-95",
+        "WebSearch: CEM II/CEM III/A Zemente 2008 (TRID)",
+        "WebSearch: ACI PRC-223-21",
+        "curl: CiNii Books BA8570960X, BA21028963, BA06992924, BA16712194; ACI abstracts portal 11125; geopolymer.org Davidovits 1994 PDF",
+        "WebFetch: ROSA P dot/40309"
+      ],
+      "citationsFollowed": [],
+      "citationNote": "No backward/forward citation chase this pass (time spent on title.search backfill and no-DOI verification). Buck (1976) and PCI Journal reference lists were used only to confirm old-lead bibliographic details.",
+      "uniqueApiHits": {
+        "harvest1": 904,
+        "harvest2": 1209,
+        "newAfterDedupe": 1994
+      },
+      "triage": "Hits were screened by title/abstract; 148 selected as leads (all verified this pass). Screened-out hits (off-topic noise from citation-sorted search, near-duplicate modern studies, dental/medical \"cement\", energy-market \"aggregators\") were not queued as leads — see research/pass-2026-11-11/triage.json.",
+      "leadsProcessed": 152,
+      "oldLeadOutcomes": {
+        "1013": [
+          "promoted",
+          "R1477"
+        ],
+        "1247": [
+          "promoted",
+          "R1478"
+        ],
+        "1264": [
+          "promoted",
+          "R1479"
+        ],
+        "1263": [
+          "rejected",
+          "off-topic"
+        ]
+      },
+      "verifiedAdded": 147,
+      "idRange": "R1477–R1623",
+      "newLeadsRejected": 4,
+      "openLeadsAfterPass": 0,
+      "verificationStatus": {
+        "catalog_metadata": 14,
+        "landing_page_inspected": 4,
+        "doi_metadata": 81,
+        "abstract_metadata": 48
+      },
+      "topicsTouched": {
+        "cross-durability": 26,
+        "scm-limestone": 22,
+        "cross-environment-cost": 21,
+        "binder-blended": 20,
+        "cross-chemistry": 19,
+        "cross-mix": 15,
+        "binder-portland": 15,
+        "concrete-cellular": 15,
+        "cross-mechanics": 14,
+        "cross-failure-repair": 14,
+        "scm-slag": 12,
+        "binder-well": 12,
+        "concrete-heavyweight": 12,
+        "concrete-mass-rcc": 12,
+        "binder-international": 11,
+        "binder-white-masonry": 11,
+        "cross-supply-region": 11,
+        "concrete-shotcrete": 10,
+        "durability": 9,
+        "scm-natural": 9,
+        "binder-specialty": 8,
+        "cross-construction": 8,
+        "cross-tests-codes": 7,
+        "concrete-structural": 6,
+        "scm-flyash": 5,
+        "scm-clay": 5,
+        "scm-silica": 4,
+        "scm": 4,
+        "binder-lc3": 4,
+        "concrete-repair-grout-overlay": 3,
+        "binder-activated": 3,
+        "concrete-architectural": 3,
+        "concrete-pavement-pervious": 3,
+        "binder-cac-csa": 3,
+        "intl": 3,
+        "concrete-lightweight": 2,
+        "concrete-hpc": 2,
+        "strength": 2,
+        "concrete-fibers": 1,
+        "concrete-circular": 1,
+        "binder-magnesium-carbonatable": 1,
+        "mass": 1,
+        "carbon": 1,
+        "concrete-scc": 1,
+        "scm-emerging": 1,
+        "apps": 1,
+        "standards": 1
+      },
+      "corrections": [],
+      "gaps": [
+        "No citation chasing this pass",
+        "Most journal items DOI-level only (Elsevier abstracts absent from OpenAlex/Crossref)",
+        "ACI committee-report designations inferred from title/venue/year not confirmed (e.g. Roller Compacted Mass Concrete 1988; Preplaced Aggregate Concrete guide 1992)",
+        "BSI ordinary/rapid-hardening Portland cement record lacks designation and edition year in Crossref",
+        "TRID, TU Delft, DTIC, J-GLOBAL, SID unreachable directly"
+      ],
+      "nextSteps": [
+        "Next rotation head: cross-durability, cross-tests-codes, cross-environment-cost, standards, dot, carbon, fresh, strength (legacy Type IL topics need PLC-specific sources)",
+        "Citation chase from today's historical seeds (Robson 1962 HAC, ACI 325.10R-95, Callan 1953 shielding, Valore 1954 cellular concretes, Bache 1981)",
+        "Seek USACE/USBR RCC dam manuals and EM 1110-2 series via legal open repositories",
+        "Search regional cement market/supply data (USGS Mineral Commodity Summaries editions, CEMBUREAU, GCCA) for cross-supply-region"
+      ],
+      "summary": "Old queue cleared (3 promoted, 1 rejected). 148 new leads found and all verified the same day: 144 promoted, 4 rejected. 147 verified additions R1477–R1623."
     }
   ],
   "topics": [
     {
       "id": "standards",
       "name": "Standards and specifications",
-      "resourceCount": 44,
+      "resourceCount": 45,
       "resourceIds": [
         "R1",
         "R5",
@@ -1188,7 +2222,8 @@
         "R355",
         "R356",
         "R359",
-        "R366"
+        "R366",
+        "R1613"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
@@ -1198,13 +2233,14 @@
         "R205",
         "R206",
         "R207",
-        "R208"
+        "R208",
+        "R1613"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
@@ -1256,7 +2292,7 @@
     {
       "id": "carbon",
       "name": "Carbon, GWP and EPDs",
-      "resourceCount": 32,
+      "resourceCount": 33,
       "resourceIds": [
         "R4",
         "R26",
@@ -1289,7 +2325,8 @@
         "R269",
         "R272",
         "R316",
-        "R355"
+        "R355",
+        "R1587"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
@@ -1297,13 +2334,14 @@
       "verifiedAdditions": [
         "R204",
         "R205",
-        "R213"
+        "R213",
+        "R1587"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
@@ -1354,7 +2392,7 @@
     {
       "id": "strength",
       "name": "Strength, curing, cold weather",
-      "resourceCount": 31,
+      "resourceCount": 33,
       "resourceIds": [
         "R8",
         "R27",
@@ -1386,26 +2424,30 @@
         "R265",
         "R311",
         "R343",
-        "R344"
+        "R344",
+        "R1583",
+        "R1584"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
       "searches": [],
       "verifiedAdditions": [
         "R243",
-        "R251"
+        "R251",
+        "R1583",
+        "R1584"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "durability",
       "name": "Durability",
-      "resourceCount": 44,
+      "resourceCount": 53,
       "resourceIds": [
         "R1",
         "R13",
@@ -1450,7 +2492,16 @@
         "R202",
         "R254",
         "R263",
-        "R290"
+        "R290",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1586",
+        "R1590",
+        "R1601",
+        "R1611",
+        "R1612"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
@@ -1458,19 +2509,28 @@
       "verifiedAdditions": [
         "R211",
         "R241",
-        "R245"
+        "R245",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1586",
+        "R1590",
+        "R1601",
+        "R1611",
+        "R1612"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "scm",
       "name": "Use with SCMs",
-      "resourceCount": 32,
+      "resourceCount": 36,
       "resourceIds": [
         "R23",
         "R24",
@@ -1503,19 +2563,27 @@
         "R270",
         "R332",
         "R333",
-        "R340"
+        "R340",
+        "R1587",
+        "R1600",
+        "R1612",
+        "R1614"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
       "searches": [],
       "verifiedAdditions": [
-        "R209"
+        "R209",
+        "R1587",
+        "R1600",
+        "R1612",
+        "R1614"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
@@ -1557,7 +2625,7 @@
     {
       "id": "apps",
       "name": "Precast, floors, bridges",
-      "resourceCount": 25,
+      "resourceCount": 26,
       "resourceIds": [
         "R18",
         "R19",
@@ -1583,19 +2651,21 @@
         "R194",
         "R196",
         "R203",
-        "R292"
+        "R292",
+        "R1611"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
       "searches": [],
       "verifiedAdditions": [
-        "R237"
+        "R237",
+        "R1611"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
@@ -1700,7 +2770,7 @@
     {
       "id": "intl",
       "name": "Canada and Europe",
-      "resourceCount": 17,
+      "resourceCount": 20,
       "resourceIds": [
         "R15",
         "R58",
@@ -1718,7 +2788,10 @@
         "R188",
         "R265",
         "R355",
-        "R366"
+        "R366",
+        "R1580",
+        "R1583",
+        "R1592"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
@@ -1727,13 +2800,16 @@
         "R206",
         "R207",
         "R208",
-        "R219"
+        "R219",
+        "R1580",
+        "R1583",
+        "R1592"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
@@ -1913,7 +2989,7 @@
     {
       "id": "mass",
       "name": "Mass concrete and thermal control",
-      "resourceCount": 28,
+      "resourceCount": 29,
       "resourceIds": [
         "R1",
         "R31",
@@ -1942,25 +3018,27 @@
         "R128",
         "R153",
         "R210",
-        "R262"
+        "R262",
+        "R1537"
       ],
       "coverageStatus": "legacy_rich",
       "passStatus": "queued",
       "searches": [],
       "verifiedAdditions": [
-        "R210"
+        "R210",
+        "R1537"
       ],
       "candidates": [],
       "nextSteps": [
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "binder-portland",
       "name": "Binder · Portland I–V and air-entraining",
-      "resourceCount": 105,
+      "resourceCount": 120,
       "resourceIds": [
         "R28",
         "R140",
@@ -2066,7 +3144,22 @@
         "R1261",
         "R1304",
         "R1467",
-        "R1470"
+        "R1470",
+        "R1482",
+        "R1486",
+        "R1494",
+        "R1511",
+        "R1513",
+        "R1514",
+        "R1554",
+        "R1578",
+        "R1585",
+        "R1590",
+        "R1602",
+        "R1603",
+        "R1605",
+        "R1609",
+        "R1619"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass2",
@@ -2218,7 +3311,22 @@
         "R1261",
         "R1304",
         "R1467",
-        "R1470"
+        "R1470",
+        "R1482",
+        "R1486",
+        "R1494",
+        "R1511",
+        "R1513",
+        "R1514",
+        "R1554",
+        "R1578",
+        "R1585",
+        "R1590",
+        "R1602",
+        "R1603",
+        "R1605",
+        "R1609",
+        "R1619"
       ],
       "candidates": [],
       "nextSteps": [
@@ -2227,14 +3335,14 @@
         "PCA EB001/historic Portland cement manuals on HathiTrust/Internet Archive",
         "PCA RD/RX bulletin series"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
       "lastDeepPass": "pass-2026-11-09-deep2"
     },
     {
       "id": "binder-blended",
       "name": "Binder · IL / IS / IP / ternary and performance cements",
-      "resourceCount": 74,
+      "resourceCount": 94,
       "resourceIds": [
         "R28",
         "R37",
@@ -2309,7 +3417,27 @@
         "R1199",
         "R1200",
         "R1201",
-        "R1218"
+        "R1218",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1585",
+        "R1586",
+        "R1587",
+        "R1591",
+        "R1595",
+        "R1596",
+        "R1600",
+        "R1601",
+        "R1610",
+        "R1611",
+        "R1612",
+        "R1613",
+        "R1614"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -2426,7 +3554,27 @@
         "R1199",
         "R1200",
         "R1201",
-        "R1218"
+        "R1218",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1585",
+        "R1586",
+        "R1587",
+        "R1591",
+        "R1595",
+        "R1596",
+        "R1600",
+        "R1601",
+        "R1610",
+        "R1611",
+        "R1612",
+        "R1613",
+        "R1614"
       ],
       "candidates": [],
       "nextSteps": [
@@ -2434,14 +3582,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "binder-international",
       "name": "Binder · International CEM I–VI and regional classifications",
-      "resourceCount": 50,
+      "resourceCount": 61,
       "resourceIds": [
         "R58",
         "R149",
@@ -2492,10 +3640,21 @@
         "R1132",
         "R1133",
         "R1134",
-        "R1135"
+        "R1135",
+        "R1480",
+        "R1481",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1485",
+        "R1486",
+        "R1487",
+        "R1580",
+        "R1592",
+        "R1613"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "binder-international",
@@ -2541,6 +3700,62 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "CEM III blast furnace cement durability Europe",
+          "period": null,
+          "hits": 10,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "Japanese cement JIS R 5210 portland",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "composite cement CEM II/C CEM VI EN 197-5",
+          "period": null,
+          "hits": 17,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:blast furnace cement",
+          "period": null,
+          "hits": 23,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:composite cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:CEM II",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:CEM III",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -2589,24 +3804,33 @@
         "R1132",
         "R1133",
         "R1134",
-        "R1135"
+        "R1135",
+        "R1480",
+        "R1481",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1485",
+        "R1486",
+        "R1487",
+        "R1580",
+        "R1592",
+        "R1613"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "China GB 175-2023",
-        "India IS 269 / IS 1489 BIS catalogue",
-        "CSA A3001 edition history",
-        "Australia AS 3972"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "binder-cac-csa",
       "name": "Binder · Calcium aluminate / calcium sulfoaluminate",
-      "resourceCount": 58,
+      "resourceCount": 61,
       "resourceIds": [
         "R140",
         "R141",
@@ -2665,7 +3889,10 @@
         "R985",
         "R986",
         "R987",
-        "R1111"
+        "R1111",
+        "R1557",
+        "R1559",
+        "R1561"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -2764,7 +3991,10 @@
         "R985",
         "R986",
         "R987",
-        "R1111"
+        "R1111",
+        "R1557",
+        "R1559",
+        "R1561"
       ],
       "candidates": [],
       "nextSteps": [
@@ -2773,13 +4003,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: EN 14647 catalogue scope and CCR conversion/strength paper (DOI). CAC conversion and CSA systems remain distinct; structural approvals still limited."
     },
     {
       "id": "binder-specialty",
       "name": "Binder · Rapid-set / expansive / shrinkage-compensating",
-      "resourceCount": 46,
+      "resourceCount": 54,
       "resourceIds": [
         "R140",
         "R141",
@@ -2826,10 +4056,18 @@
         "R434",
         "R863",
         "R1281",
-        "R1309"
+        "R1309",
+        "R1488",
+        "R1489",
+        "R1490",
+        "R1491",
+        "R1492",
+        "R1493",
+        "R1494",
+        "R1602"
       ],
       "coverageStatus": "deepened_partial",
-      "passStatus": "deep_pass1_complete",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "tool": "OpenAlex+Crossref",
@@ -2870,6 +4108,62 @@
           "topic": "binder-specialty",
           "query": "ACI 223R shrinkage compensating concrete guide",
           "tool": "WebSearch"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "shrinkage compensating concrete type K expansive cement",
+          "period": null,
+          "hits": 16,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "rapid hardening cement repair early strength calcium sulfoaluminate belite",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "expansive additive MgO CaO concrete restrained expansion",
+          "period": null,
+          "hits": 16,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:expansive cement",
+          "period": ":2000",
+          "hits": 23,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:shrinkage-compensating",
+          "period": null,
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:expansive agent concrete",
+          "period": null,
+          "hits": 22,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:rapid hardening cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -2915,22 +4209,30 @@
         "R434",
         "R863",
         "R1281",
-        "R1309"
+        "R1309",
+        "R1488",
+        "R1489",
+        "R1490",
+        "R1491",
+        "R1492",
+        "R1493",
+        "R1494",
+        "R1602"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "Triage top candidate DOIs",
-        "Seek full normative text or free accepted manuscripts where legal",
-        "Backward/forward citation chase from verified seeds"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": "Deepened 2026-11-08: ACI PRC-223-21 preview plus ASTM C845 expansive and C1600 rapid-hardening catalogue records. Expansion needs restraint/curing design; rapid-hardening types are performance classes, not a single chemistry."
+      "lastTouched": "2026-11-11",
+      "notes": "Deepened 2026-11-08: ACI PRC-223-21 preview plus ASTM C845 expansive and C1600 rapid-hardening catalogue records. Expansion needs restraint/curing design; rapid-hardening types are performance classes, not a single chemistry.",
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "binder-white-masonry",
       "name": "Binder · White / colored / masonry / mortar / plastic",
-      "resourceCount": 46,
+      "resourceCount": 57,
       "resourceIds": [
         "R140",
         "R147",
@@ -2977,10 +4279,21 @@
         "R915",
         "R1162",
         "R1163",
-        "R1166"
+        "R1166",
+        "R1505",
+        "R1506",
+        "R1507",
+        "R1508",
+        "R1509",
+        "R1510",
+        "R1511",
+        "R1512",
+        "R1513",
+        "R1514",
+        "R1596"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "binder-white-masonry",
@@ -3026,6 +4339,70 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "lime mortar natural hydraulic lime masonry restoration",
+          "period": null,
+          "hits": 17,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "white cement concrete photocatalytic TiO2 self-cleaning",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "Portland cement lime mortar bond masonry unit",
+          "period": null,
+          "hits": 12,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:masonry cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:white cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:hydraulic lime mortar",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:cement-lime mortar",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:portland cement plaster",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -3072,23 +4449,33 @@
         "R915",
         "R1162",
         "R1163",
-        "R1166"
+        "R1166",
+        "R1505",
+        "R1506",
+        "R1507",
+        "R1508",
+        "R1509",
+        "R1510",
+        "R1511",
+        "R1512",
+        "R1513",
+        "R1514",
+        "R1596"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "ASTM C91/C1328/C1329 current catalogues",
-        "NCMA TEK mortar notes",
-        "Portland cement plaster/stucco (ASTM C926/C1063) guidance"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "binder-well",
       "name": "Binder · Oil-well and geothermal cement",
-      "resourceCount": 54,
+      "resourceCount": 66,
       "resourceIds": [
         "R140",
         "R144",
@@ -3143,10 +4530,22 @@
         "R481",
         "R600",
         "R1179",
-        "R1210"
+        "R1210",
+        "R1495",
+        "R1496",
+        "R1497",
+        "R1498",
+        "R1499",
+        "R1500",
+        "R1501",
+        "R1502",
+        "R1503",
+        "R1504",
+        "R1609",
+        "R1621"
       ],
       "coverageStatus": "deepened_partial",
-      "passStatus": "deep_pass1_complete",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "tool": "OpenAlex+Crossref",
@@ -3187,6 +4586,46 @@
           "topic": "binder-well",
           "query": "API Spec 10A well cements Class G H specification",
           "tool": "WebSearch"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "oil well cement slurry gas migration additives",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "CO2 resistant well cement carbonation sequestration",
+          "period": null,
+          "hits": 17,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:oil well cement",
+          "period": ":2005",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:well cement",
+          "period": "2006:2020",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:geothermal cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -3241,22 +4680,34 @@
         "R481",
         "R600",
         "R1179",
-        "R1210"
+        "R1210",
+        "R1495",
+        "R1496",
+        "R1497",
+        "R1498",
+        "R1499",
+        "R1500",
+        "R1501",
+        "R1502",
+        "R1503",
+        "R1504",
+        "R1609",
+        "R1621"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "Triage top candidate DOIs",
-        "Seek full normative text or free accepted manuscripts where legal",
-        "Backward/forward citation chase from verified seeds"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": "Deepened 2026-11-08: API Spec 10A 25th-ed catalogue record (Accuris). Full API/ISO normative text and geothermal case studies still queued."
+      "lastTouched": "2026-11-11",
+      "notes": "Deepened 2026-11-08: API Spec 10A 25th-ed catalogue record (Accuris). Full API/ISO normative text and geothermal case studies still queued.",
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "binder-activated",
       "name": "Binder · Alkali-activated / geopolymer",
-      "resourceCount": 83,
+      "resourceCount": 86,
       "resourceIds": [
         "R142",
         "R144",
@@ -3340,7 +4791,10 @@
         "R1387",
         "R1397",
         "R1427",
-        "R1437"
+        "R1437",
+        "R1501",
+        "R1573",
+        "R1615"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -3466,7 +4920,10 @@
         "R1387",
         "R1397",
         "R1427",
-        "R1437"
+        "R1437",
+        "R1501",
+        "R1573",
+        "R1615"
       ],
       "candidates": [],
       "nextSteps": [
@@ -3475,13 +4932,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: RILEM TC 224-AAM report DOI, Provis/van Deventer Annual Review DOI, Juenger alternative-binders review DOI, one-part AAM review DOI. Mostly DOI/metadata-level access."
     },
     {
       "id": "binder-lc3",
       "name": "Binder · Calcined-clay / limestone / LC3 low-clinker systems",
-      "resourceCount": 63,
+      "resourceCount": 67,
       "resourceIds": [
         "R129",
         "R143",
@@ -3545,7 +5002,11 @@
         "R1384",
         "R1385",
         "R1423",
-        "R1468"
+        "R1468",
+        "R1605",
+        "R1607",
+        "R1608",
+        "R1609"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -3647,7 +5108,11 @@
         "R1384",
         "R1385",
         "R1423",
-        "R1468"
+        "R1468",
+        "R1605",
+        "R1607",
+        "R1608",
+        "R1609"
       ],
       "candidates": [],
       "nextSteps": [
@@ -3656,13 +5121,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: Scrivener et al. CCR overview PDF inspected; Avet/Scrivener hydration and chloride-transport DOIs verified. Project CO2 claims remain conditional."
     },
     {
       "id": "binder-magnesium-carbonatable",
       "name": "Binder · Magnesium-based and carbonatable binders",
-      "resourceCount": 55,
+      "resourceCount": 56,
       "resourceIds": [
         "R145",
         "R146",
@@ -3718,7 +5183,8 @@
         "R975",
         "R1055",
         "R1312",
-        "R1383"
+        "R1383",
+        "R1493"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -3817,7 +5283,8 @@
         "R975",
         "R1055",
         "R1312",
-        "R1383"
+        "R1383",
+        "R1493"
       ],
       "candidates": [],
       "nextSteps": [
@@ -3826,13 +5293,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: Walling/Provis Chemical Reviews DOI (WRRO landing verified) and Juenger et al. alternative-binders review. Low-pH steel limits remain explicit."
     },
     {
       "id": "scm-slag",
       "name": "SCM / addition · Slag cement",
-      "resourceCount": 88,
+      "resourceCount": 100,
       "resourceIds": [
         "R167",
         "R24",
@@ -3921,7 +5388,19 @@
         "R1334",
         "R1351",
         "R1383",
-        "R1431"
+        "R1431",
+        "R1480",
+        "R1481",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1486",
+        "R1487",
+        "R1501",
+        "R1514",
+        "R1600",
+        "R1602",
+        "R1603"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -4050,7 +5529,19 @@
         "R1334",
         "R1351",
         "R1383",
-        "R1431"
+        "R1431",
+        "R1480",
+        "R1481",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1486",
+        "R1487",
+        "R1501",
+        "R1514",
+        "R1600",
+        "R1602",
+        "R1603"
       ],
       "candidates": [],
       "nextSteps": [
@@ -4059,13 +5550,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: ACI 233R-17 preview, FDOT/ROSA P low-slag durability report, ASTM C989 catalogue. Limited to iron BF slag cement per ACI 233 scope."
     },
     {
       "id": "scm-flyash",
       "name": "SCM / addition · Fly ash / coal ash",
-      "resourceCount": 77,
+      "resourceCount": 82,
       "resourceIds": [
         "R167",
         "R24",
@@ -4143,7 +5634,12 @@
         "R1272",
         "R1302",
         "R1370",
-        "R1442"
+        "R1442",
+        "R1501",
+        "R1518",
+        "R1576",
+        "R1614",
+        "R1621"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass2",
@@ -4266,7 +5762,12 @@
         "R1272",
         "R1302",
         "R1370",
-        "R1442"
+        "R1442",
+        "R1501",
+        "R1518",
+        "R1576",
+        "R1614",
+        "R1621"
       ],
       "candidates": [],
       "nextSteps": [
@@ -4275,14 +5776,14 @@
         "ACAA production/use surveys",
         "EPRI/ FHWA beneficiated ash reports"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
       "lastDeepPass": "pass-2026-11-09-deep2"
     },
     {
       "id": "scm-natural",
       "name": "SCM / addition · Natural pozzolans",
-      "resourceCount": 53,
+      "resourceCount": 62,
       "resourceIds": [
         "R167",
         "R24",
@@ -4336,10 +5837,19 @@
         "R1092",
         "R1093",
         "R1254",
-        "R1263"
+        "R1263",
+        "R1590",
+        "R1593",
+        "R1594",
+        "R1595",
+        "R1596",
+        "R1597",
+        "R1598",
+        "R1599",
+        "R1621"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "scm-natural",
@@ -4385,6 +5895,46 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "pumice pozzolan concrete alkali silica reaction",
+          "period": null,
+          "hits": 10,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "diatomaceous earth pozzolan cement",
+          "period": null,
+          "hits": 16,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:natural pozzolan",
+          "period": ":2005",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:pumice cement",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:volcanic ash cement",
+          "period": null,
+          "hits": 21,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -4437,23 +5987,31 @@
         "R1092",
         "R1093",
         "R1254",
-        "R1263"
+        "R1263",
+        "R1590",
+        "R1593",
+        "R1594",
+        "R1595",
+        "R1596",
+        "R1597",
+        "R1598",
+        "R1599",
+        "R1621"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "ASTM C618 Class N and C1709 qualification",
-        "USBR historic natural pozzolan dams (Friant, etc.)",
-        "US natural pozzolan producer data"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "scm-clay",
       "name": "SCM / addition · Calcined clay / metakaolin",
-      "resourceCount": 95,
+      "resourceCount": 100,
       "resourceIds": [
         "R167",
         "R24",
@@ -4549,7 +6107,12 @@
         "R1467",
         "R1468",
         "R1469",
-        "R1470"
+        "R1470",
+        "R1605",
+        "R1607",
+        "R1608",
+        "R1609",
+        "R1614"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass3",
@@ -4691,7 +6254,12 @@
         "R1467",
         "R1468",
         "R1469",
-        "R1470"
+        "R1470",
+        "R1605",
+        "R1607",
+        "R1608",
+        "R1609",
+        "R1614"
       ],
       "candidates": [],
       "nextSteps": [
@@ -4699,14 +6267,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "scm-silica",
       "name": "SCM / addition · Silica fume",
-      "resourceCount": 55,
+      "resourceCount": 59,
       "resourceIds": [
         "R167",
         "R24",
@@ -4762,7 +6330,11 @@
         "R1201",
         "R1202",
         "R1293",
-        "R1430"
+        "R1430",
+        "R1478",
+        "R1484",
+        "R1552",
+        "R1593"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -4860,7 +6432,11 @@
         "R1201",
         "R1202",
         "R1293",
-        "R1430"
+        "R1430",
+        "R1478",
+        "R1484",
+        "R1552",
+        "R1593"
       ],
       "candidates": [],
       "nextSteps": [
@@ -4869,13 +6445,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: ACI 234R-06 preview excerpt and silica-fume specification catalogue record. 2006 guide age and incomplete preview noted."
     },
     {
       "id": "scm-limestone",
       "name": "SCM / addition · Limestone fillers and inert fines",
-      "resourceCount": 51,
+      "resourceCount": 73,
       "resourceIds": [
         "R59",
         "R132",
@@ -4927,10 +6503,32 @@
         "R1056",
         "R1057",
         "R1129",
-        "R1324"
+        "R1324",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1585",
+        "R1586",
+        "R1587",
+        "R1588",
+        "R1589",
+        "R1590",
+        "R1591",
+        "R1592",
+        "R1600",
+        "R1601",
+        "R1610",
+        "R1611",
+        "R1612",
+        "R1613",
+        "R1614"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "scm-limestone",
@@ -4976,6 +6574,94 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement concrete mixture proportioning strength",
+          "period": null,
+          "hits": 9,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement scaling freeze thaw deicer",
+          "period": null,
+          "hits": 12,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement pavement",
+          "period": null,
+          "hits": 10,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement sulfate resistance thaumasite low temperature",
+          "period": null,
+          "hits": 15,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement chloride carbonation",
+          "period": null,
+          "hits": 2,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "portland limestone cement Canada CSA A3000 GU",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:limestone filler",
+          "period": ":2008",
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:limestone powder concrete",
+          "period": null,
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:portland-limestone cement",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:limestone cement",
+          "period": ":2010",
+          "hits": 8,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:portland limestone cement concrete",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -5024,22 +6710,44 @@
         "R1056",
         "R1057",
         "R1129",
-        "R1324"
+        "R1324",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1581",
+        "R1582",
+        "R1583",
+        "R1584",
+        "R1585",
+        "R1586",
+        "R1587",
+        "R1588",
+        "R1589",
+        "R1590",
+        "R1591",
+        "R1592",
+        "R1600",
+        "R1601",
+        "R1610",
+        "R1611",
+        "R1612",
+        "R1613",
+        "R1614"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "EN 197-1 LL/L TOC limits commentary",
-        "ASTM C1797 ground calcium carbonate catalogue"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "scm-emerging",
       "name": "SCM / addition · Emerging / alternative SCMs",
-      "resourceCount": 57,
+      "resourceCount": 58,
       "resourceIds": [
         "R185",
         "R269",
@@ -5097,7 +6805,8 @@
         "R1257",
         "R1261",
         "R1379",
-        "R1436"
+        "R1436",
+        "R1606"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -5199,7 +6908,8 @@
         "R1257",
         "R1261",
         "R1379",
-        "R1436"
+        "R1436",
+        "R1606"
       ],
       "candidates": [],
       "nextSteps": [
@@ -5208,13 +6918,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: ASTM C1866/C1866M-25 ground-glass pozzolan catalogue. Harvested ash, biomass ash and mine-residue SCMs remain largely candidate-queue only."
     },
     {
       "id": "concrete-structural",
       "name": "Concrete · Normal-weight / reinforced / prestressed",
-      "resourceCount": 144,
+      "resourceCount": 150,
       "resourceIds": [
         "R28",
         "R31",
@@ -5359,7 +7069,13 @@
         "R1441",
         "R1444",
         "R1445",
-        "R1476"
+        "R1476",
+        "R1477",
+        "R1490",
+        "R1556",
+        "R1558",
+        "R1563",
+        "R1564"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass3",
@@ -5549,7 +7265,13 @@
         "R1441",
         "R1444",
         "R1445",
-        "R1476"
+        "R1476",
+        "R1477",
+        "R1490",
+        "R1556",
+        "R1558",
+        "R1563",
+        "R1564"
       ],
       "candidates": [],
       "nextSteps": [
@@ -5557,14 +7279,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "concrete-hpc",
       "name": "Concrete · High-strength / HPC / UHPC",
-      "resourceCount": 88,
+      "resourceCount": 90,
       "resourceIds": [
         "R155",
         "R169",
@@ -5653,7 +7375,9 @@
         "R1450",
         "R1451",
         "R1452",
-        "R1453"
+        "R1453",
+        "R1478",
+        "R1593"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass3",
@@ -5788,7 +7512,9 @@
         "R1450",
         "R1451",
         "R1452",
-        "R1453"
+        "R1453",
+        "R1478",
+        "R1593"
       ],
       "candidates": [],
       "nextSteps": [
@@ -5796,14 +7522,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "concrete-scc",
       "name": "Concrete · Self-consolidating concrete",
-      "resourceCount": 55,
+      "resourceCount": 56,
       "resourceIds": [
         "R173",
         "R72",
@@ -5859,7 +7585,8 @@
         "R1154",
         "R1281",
         "R1326",
-        "R1349"
+        "R1349",
+        "R1589"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass2",
@@ -5962,7 +7689,8 @@
         "R1154",
         "R1281",
         "R1326",
-        "R1349"
+        "R1349",
+        "R1589"
       ],
       "candidates": [],
       "nextSteps": [
@@ -5971,14 +7699,14 @@
         "EFNARC/EN 206 Annex G",
         "ASTM C1611/C1621/C1610 catalogues"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
       "lastDeepPass": "pass-2026-11-09-deep2"
     },
     {
       "id": "concrete-fibers",
       "name": "Concrete · Fiber-reinforced concrete and composites",
-      "resourceCount": 68,
+      "resourceCount": 69,
       "resourceIds": [
         "R164",
         "R155",
@@ -6047,7 +7775,8 @@
         "R1397",
         "R1428",
         "R1444",
-        "R1445"
+        "R1445",
+        "R1478"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass2",
@@ -6163,7 +7892,8 @@
         "R1397",
         "R1428",
         "R1444",
-        "R1445"
+        "R1445",
+        "R1478"
       ],
       "candidates": [],
       "nextSteps": [
@@ -6172,14 +7902,14 @@
         "EN 14651 / ASTM C1609 / C1399",
         "fib Model Code FRC provisions"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
       "lastDeepPass": "pass-2026-11-09-deep2"
     },
     {
       "id": "concrete-lightweight",
       "name": "Concrete · Lightweight aggregate concrete",
-      "resourceCount": 66,
+      "resourceCount": 68,
       "resourceIds": [
         "R172",
         "R195",
@@ -6246,7 +7976,9 @@
         "R1074",
         "R1318",
         "R1349",
-        "R1363"
+        "R1363",
+        "R1477",
+        "R1594"
       ],
       "coverageStatus": "deepened_partial",
       "passStatus": "deep_pass1_complete",
@@ -6356,7 +8088,9 @@
         "R1074",
         "R1318",
         "R1349",
-        "R1363"
+        "R1363",
+        "R1477",
+        "R1594"
       ],
       "candidates": [],
       "nextSteps": [
@@ -6365,13 +8099,13 @@
         "Seek full normative text or free accepted manuscripts where legal",
         "Backward/forward citation chase from verified seeds"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "Deepened 2026-11-08: ACI PRC-213-14(23) preview for structural lightweight-aggregate concrete. Not interchangeable with foam/cellular fill."
     },
     {
       "id": "concrete-heavyweight",
       "name": "Concrete · Heavyweight / shielding / ballast",
-      "resourceCount": 33,
+      "resourceCount": 45,
       "resourceIds": [
         "R148",
         "R221",
@@ -6405,10 +8139,22 @@
         "R854",
         "R855",
         "R856",
-        "R859"
+        "R859",
+        "R1527",
+        "R1528",
+        "R1529",
+        "R1530",
+        "R1531",
+        "R1532",
+        "R1533",
+        "R1534",
+        "R1535",
+        "R1618",
+        "R1619",
+        "R1620"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "concrete-heavyweight",
@@ -6454,6 +8200,78 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "barite concrete mechanical properties high temperature",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "steel slag aggregate heavyweight concrete gamma",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "concrete biological shield nuclear power plant aging irradiation",
+          "period": null,
+          "hits": 17,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:shielding concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:heavyweight concrete",
+          "period": null,
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:barite concrete",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:irradiated concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:high-density concrete",
+          "period": null,
+          "hits": 23,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:radiation shielding concrete",
+          "period": null,
+          "hits": 8,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -6488,23 +8306,34 @@
         "R854",
         "R855",
         "R856",
-        "R859"
+        "R859",
+        "R1527",
+        "R1528",
+        "R1529",
+        "R1530",
+        "R1531",
+        "R1532",
+        "R1533",
+        "R1534",
+        "R1535",
+        "R1618",
+        "R1619",
+        "R1620"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "ACI 211 heavyweight proportioning draft status",
-        "ACI 349/NRC NUREG concrete shielding reports",
-        "ASTM C637/C638 aggregates"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "concrete-cellular",
       "name": "Concrete · Cellular / foamed / aerated",
-      "resourceCount": 31,
+      "resourceCount": 46,
       "resourceIds": [
         "R152",
         "R196",
@@ -6536,10 +8365,25 @@
         "R827",
         "R828",
         "R829",
-        "R1106"
+        "R1106",
+        "R1515",
+        "R1516",
+        "R1517",
+        "R1518",
+        "R1519",
+        "R1520",
+        "R1521",
+        "R1522",
+        "R1523",
+        "R1524",
+        "R1525",
+        "R1526",
+        "R1617",
+        "R1622",
+        "R1623"
       ],
       "coverageStatus": "deepened_partial",
-      "passStatus": "deep_pass1_complete",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "tool": "OpenAlex+Crossref",
@@ -6580,6 +8424,78 @@
           "topic": "concrete-cellular",
           "query": "ACI 526R autoclaved aerated concrete panels guide preview",
           "tool": "WebSearch"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "autoclaved aerated concrete tobermorite properties",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "foamed concrete thermal conductivity density",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "cellular concrete history Ytong autoclaved",
+          "period": ":1995",
+          "hits": 2,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "foam concrete fly ash compressive strength drying shrinkage",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:autoclaved aerated concrete",
+          "period": ":1999",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:autoclaved aerated concrete",
+          "period": "2000:2015",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:foamed concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:foam concrete",
+          "period": ":2012",
+          "hits": 15,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:cellular concrete",
+          "period": null,
+          "hits": 23,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -6612,22 +8528,37 @@
         "R827",
         "R828",
         "R829",
-        "R1106"
+        "R1106",
+        "R1515",
+        "R1516",
+        "R1517",
+        "R1518",
+        "R1519",
+        "R1520",
+        "R1521",
+        "R1522",
+        "R1523",
+        "R1524",
+        "R1525",
+        "R1526",
+        "R1617",
+        "R1622",
+        "R1623"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "Triage top candidate DOIs",
-        "Seek full normative text or free accepted manuscripts where legal",
-        "Backward/forward citation chase from verified seeds"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": "Deepened 2026-11-08: ACI 526R-19 AAC panel preview, ASTM C1693 catalogue, and foamed cellular backfill DOI record. AAC ≠ cast foamed fill."
+      "lastTouched": "2026-11-11",
+      "notes": "Deepened 2026-11-08: ACI 526R-19 AAC panel preview, ASTM C1693 catalogue, and foamed cellular backfill DOI record. AAC ≠ cast foamed fill.",
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "concrete-mass-rcc",
       "name": "Concrete · Mass concrete / RCC",
-      "resourceCount": 25,
+      "resourceCount": 37,
       "resourceIds": [
         "R110",
         "R153",
@@ -6653,10 +8584,22 @@
         "R956",
         "R957",
         "R958",
-        "R959"
+        "R959",
+        "R1536",
+        "R1537",
+        "R1538",
+        "R1539",
+        "R1540",
+        "R1541",
+        "R1542",
+        "R1543",
+        "R1544",
+        "R1545",
+        "R1546",
+        "R1616"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "deepened-pass2",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "topic": "concrete-mass-rcc",
@@ -6702,6 +8645,78 @@
             "OpenAlex",
             "Crossref"
           ]
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "roller compacted concrete dam lift joint permeability",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "adiabatic temperature rise mass concrete low heat cement",
+          "period": ":2010",
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "RCC dam thermal stress analysis",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "roller compacted concrete pavement durability freeze thaw",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:roller compacted concrete",
+          "period": ":2005",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:roller-compacted concrete",
+          "period": "2006:2020",
+          "hits": 23,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:mass concrete",
+          "period": ":2000",
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:mass concrete",
+          "period": "2001:2018",
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:RCC dam",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -6727,23 +8742,34 @@
         "R956",
         "R957",
         "R958",
-        "R959"
+        "R959",
+        "R1536",
+        "R1537",
+        "R1538",
+        "R1539",
+        "R1540",
+        "R1541",
+        "R1542",
+        "R1543",
+        "R1544",
+        "R1545",
+        "R1546",
+        "R1616"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "USACE EM 1110-2-2006 RCC",
-        "USBR RCC dam manuals and case histories",
-        "ACI 207.5R/327 previews"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
-      "lastDeepPass": "pass-2026-11-09-deep2"
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "concrete-pavement-pervious",
       "name": "Concrete · Paving / pervious",
-      "resourceCount": 62,
+      "resourceCount": 65,
       "resourceIds": [
         "R153",
         "R154",
@@ -6806,7 +8832,10 @@
         "R1434",
         "R1435",
         "R1436",
-        "R1437"
+        "R1437",
+        "R1540",
+        "R1541",
+        "R1616"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -6915,7 +8944,10 @@
         "R1434",
         "R1435",
         "R1436",
-        "R1437"
+        "R1437",
+        "R1540",
+        "R1541",
+        "R1616"
       ],
       "candidates": [],
       "nextSteps": [
@@ -6923,14 +8955,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "concrete-shotcrete",
       "name": "Concrete · Shotcrete",
-      "resourceCount": 51,
+      "resourceCount": 61,
       "resourceIds": [
         "R55",
         "R193",
@@ -6982,10 +9014,20 @@
         "R762",
         "R763",
         "R764",
-        "R765"
+        "R765",
+        "R1547",
+        "R1548",
+        "R1549",
+        "R1550",
+        "R1551",
+        "R1552",
+        "R1553",
+        "R1554",
+        "R1555",
+        "R1610"
       ],
       "coverageStatus": "deepened_partial",
-      "passStatus": "deep_pass1_complete",
+      "passStatus": "daily_pass_2026-11-11_backfill",
       "searches": [
         {
           "tool": "OpenAlex+Crossref",
@@ -7026,6 +9068,38 @@
           "topic": "concrete-shotcrete",
           "query": "ACI 506R guide to shotcrete PDF",
           "tool": "WebSearch"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "sprayed concrete tunnel lining accelerator alkali-free",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "shotcrete rebound early strength",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:shotcrete",
+          "period": ":2000",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:sprayed concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
         }
       ],
       "verifiedAdditions": [
@@ -7078,17 +9152,27 @@
         "R762",
         "R763",
         "R764",
-        "R765"
+        "R765",
+        "R1547",
+        "R1548",
+        "R1549",
+        "R1550",
+        "R1551",
+        "R1552",
+        "R1553",
+        "R1554",
+        "R1555",
+        "R1610"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "Triage top candidate DOIs",
-        "Seek full normative text or free accepted manuscripts where legal",
-        "Backward/forward citation chase from verified seeds"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": "Deepened 2026-11-08: ACI PRC-506-22 preview superseding 506R-16; FHWA sprayable UHPC TechNote for repair sprays. Dry/wet process distinctions retained."
+      "lastTouched": "2026-11-11",
+      "notes": "Deepened 2026-11-08: ACI PRC-506-22 preview superseding 506R-16; FHWA sprayable UHPC TechNote for repair sprays. Dry/wet process distinctions retained.",
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "concrete-precast-insitu-print",
@@ -7303,7 +9387,7 @@
     {
       "id": "concrete-circular",
       "name": "Concrete · Recycled / low-carbon / carbon-cured concrete",
-      "resourceCount": 60,
+      "resourceCount": 61,
       "resourceIds": [
         "R154",
         "R99",
@@ -7364,7 +9448,8 @@
         "R1463",
         "R1464",
         "R1465",
-        "R1467"
+        "R1467",
+        "R1479"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -7470,7 +9555,8 @@
         "R1463",
         "R1464",
         "R1465",
-        "R1467"
+        "R1467",
+        "R1479"
       ],
       "candidates": [],
       "nextSteps": [
@@ -7478,7 +9564,7 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
@@ -7677,7 +9763,7 @@
     {
       "id": "concrete-architectural",
       "name": "Concrete · Architectural / decorative / exposed aggregate",
-      "resourceCount": 45,
+      "resourceCount": 48,
       "resourceIds": [
         "R147",
         "R163",
@@ -7723,7 +9809,10 @@
         "R1170",
         "R1224",
         "R1226",
-        "R1227"
+        "R1227",
+        "R1507",
+        "R1508",
+        "R1509"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass2",
@@ -7813,7 +9902,10 @@
         "R1170",
         "R1224",
         "R1226",
-        "R1227"
+        "R1227",
+        "R1507",
+        "R1508",
+        "R1509"
       ],
       "candidates": [],
       "nextSteps": [
@@ -7822,14 +9914,14 @@
         "DIN 18217/German Sichtbeton guidance",
         "PCA architectural concrete historic manuals"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": " Pass 2: Crossref API rate-limited (HTTP 429) for most bibliographic queries; OpenAlex results used, Crossref per-DOI lookups used for verification.",
       "lastDeepPass": "pass-2026-11-09-deep2"
     },
     {
       "id": "concrete-repair-grout-overlay",
       "name": "Concrete · Repair mortars / grouts / overlays / cementitious composites",
-      "resourceCount": 68,
+      "resourceCount": 71,
       "resourceIds": [
         "R162",
         "R142",
@@ -7898,7 +9990,10 @@
         "R1416",
         "R1417",
         "R1418",
-        "R1419"
+        "R1419",
+        "R1492",
+        "R1507",
+        "R1548"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -8012,7 +10107,10 @@
         "R1416",
         "R1417",
         "R1418",
-        "R1419"
+        "R1419",
+        "R1492",
+        "R1507",
+        "R1548"
       ],
       "candidates": [],
       "nextSteps": [
@@ -8020,14 +10118,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "cross-chemistry",
       "name": "Cross-cutting · Chemistry / hydration / raw materials / manufacture",
-      "resourceCount": 193,
+      "resourceCount": 212,
       "resourceIds": [
         "R140",
         "R143",
@@ -8221,7 +10319,26 @@
         "R1450",
         "R1461",
         "R1469",
-        "R1470"
+        "R1470",
+        "R1480",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1486",
+        "R1489",
+        "R1493",
+        "R1497",
+        "R1514",
+        "R1522",
+        "R1547",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1586",
+        "R1589",
+        "R1603",
+        "R1605",
+        "R1619"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -8458,7 +10575,26 @@
         "R1450",
         "R1461",
         "R1469",
-        "R1470"
+        "R1470",
+        "R1480",
+        "R1482",
+        "R1483",
+        "R1484",
+        "R1486",
+        "R1489",
+        "R1493",
+        "R1497",
+        "R1514",
+        "R1522",
+        "R1547",
+        "R1578",
+        "R1579",
+        "R1580",
+        "R1586",
+        "R1589",
+        "R1603",
+        "R1605",
+        "R1619"
       ],
       "candidates": [],
       "nextSteps": [
@@ -8466,14 +10602,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "cross-mix",
       "name": "Cross-cutting · Mix design / aggregates / admixtures / compatibility",
-      "resourceCount": 191,
+      "resourceCount": 206,
       "resourceIds": [
         "R159",
         "R167",
@@ -8665,7 +10801,22 @@
         "R1462",
         "R1463",
         "R1464",
-        "R1465"
+        "R1465",
+        "R1478",
+        "R1479",
+        "R1528",
+        "R1529",
+        "R1535",
+        "R1542",
+        "R1553",
+        "R1554",
+        "R1567",
+        "R1571",
+        "R1573",
+        "R1575",
+        "R1577",
+        "R1604",
+        "R1618"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -8901,7 +11052,22 @@
         "R1462",
         "R1463",
         "R1464",
-        "R1465"
+        "R1465",
+        "R1478",
+        "R1479",
+        "R1528",
+        "R1529",
+        "R1535",
+        "R1542",
+        "R1553",
+        "R1554",
+        "R1567",
+        "R1571",
+        "R1573",
+        "R1575",
+        "R1577",
+        "R1604",
+        "R1618"
       ],
       "candidates": [],
       "nextSteps": [
@@ -8909,14 +11075,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "cross-construction",
       "name": "Cross-cutting · Production / transport / placement / finishing / curing",
-      "resourceCount": 89,
+      "resourceCount": 97,
       "resourceIds": [
         "R158",
         "R166",
@@ -9006,7 +11172,15 @@
         "R1463",
         "R1465",
         "R1473",
-        "R1474"
+        "R1474",
+        "R1512",
+        "R1521",
+        "R1537",
+        "R1548",
+        "R1560",
+        "R1584",
+        "R1612",
+        "R1616"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "deepened-pass3",
@@ -9141,7 +11315,15 @@
         "R1463",
         "R1465",
         "R1473",
-        "R1474"
+        "R1474",
+        "R1512",
+        "R1521",
+        "R1537",
+        "R1548",
+        "R1560",
+        "R1584",
+        "R1612",
+        "R1616"
       ],
       "candidates": [],
       "nextSteps": [
@@ -9149,14 +11331,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "cross-mechanics",
       "name": "Cross-cutting · Strength / shrinkage / creep / cracking / thermal behavior",
-      "resourceCount": 258,
+      "resourceCount": 272,
       "resourceIds": [
         "R156",
         "R157",
@@ -9415,7 +11597,21 @@
         "R1455",
         "R1456",
         "R1472",
-        "R1476"
+        "R1476",
+        "R1477",
+        "R1503",
+        "R1505",
+        "R1506",
+        "R1517",
+        "R1518",
+        "R1520",
+        "R1536",
+        "R1549",
+        "R1593",
+        "R1601",
+        "R1607",
+        "R1614",
+        "R1619"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "deepened-pass3",
@@ -9716,7 +11912,21 @@
         "R1455",
         "R1456",
         "R1472",
-        "R1476"
+        "R1476",
+        "R1477",
+        "R1503",
+        "R1505",
+        "R1506",
+        "R1517",
+        "R1518",
+        "R1520",
+        "R1536",
+        "R1549",
+        "R1593",
+        "R1601",
+        "R1607",
+        "R1614",
+        "R1619"
       ],
       "candidates": [],
       "nextSteps": [
@@ -9724,14 +11934,14 @@
         "Triage pass-3 candidate leads",
         "Seek full-text/primary documents for DOI-only records"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": "",
       "lastDeepPass": "2026-11-10"
     },
     {
       "id": "cross-durability",
       "name": "Cross-cutting · Durability / corrosion / exposure / service life",
-      "resourceCount": 207,
+      "resourceCount": 233,
       "resourceIds": [
         "R165",
         "R63",
@@ -9939,7 +12149,33 @@
         "R1435",
         "R1436",
         "R1449",
-        "R1469"
+        "R1469",
+        "R1481",
+        "R1495",
+        "R1496",
+        "R1501",
+        "R1519",
+        "R1556",
+        "R1558",
+        "R1562",
+        "R1563",
+        "R1564",
+        "R1565",
+        "R1566",
+        "R1567",
+        "R1581",
+        "R1582",
+        "R1586",
+        "R1590",
+        "R1591",
+        "R1601",
+        "R1602",
+        "R1603",
+        "R1605",
+        "R1607",
+        "R1611",
+        "R1612",
+        "R1617"
       ],
       "coverageStatus": "seeded_thin",
       "passStatus": "queued",
@@ -10136,20 +12372,46 @@
         "R1435",
         "R1436",
         "R1449",
-        "R1469"
+        "R1469",
+        "R1481",
+        "R1495",
+        "R1496",
+        "R1501",
+        "R1519",
+        "R1556",
+        "R1558",
+        "R1562",
+        "R1563",
+        "R1564",
+        "R1565",
+        "R1566",
+        "R1567",
+        "R1581",
+        "R1582",
+        "R1586",
+        "R1590",
+        "R1591",
+        "R1601",
+        "R1602",
+        "R1603",
+        "R1605",
+        "R1607",
+        "R1611",
+        "R1612",
+        "R1617"
       ],
       "candidates": [],
       "nextSteps": [
         "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "cross-tests-codes",
       "name": "Cross-cutting · Testing / specifications / codes / QA",
-      "resourceCount": 77,
+      "resourceCount": 84,
       "resourceIds": [
         "R149",
         "R150",
@@ -10227,7 +12489,14 @@
         "R1006",
         "R1185",
         "R1252",
-        "R1347"
+        "R1347",
+        "R1485",
+        "R1494",
+        "R1513",
+        "R1562",
+        "R1564",
+        "R1606",
+        "R1613"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "queued",
@@ -10292,20 +12561,27 @@
         "R1006",
         "R1185",
         "R1252",
-        "R1347"
+        "R1347",
+        "R1485",
+        "R1494",
+        "R1513",
+        "R1562",
+        "R1564",
+        "R1606",
+        "R1613"
       ],
       "candidates": [],
       "nextSteps": [
         "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "cross-failure-repair",
       "name": "Cross-cutting · Failures / field investigations / repairs / case studies",
-      "resourceCount": 30,
+      "resourceCount": 44,
       "resourceIds": [
         "R135",
         "R176",
@@ -10336,11 +12612,98 @@
         "R1356",
         "R1360",
         "R1401",
-        "R1438"
+        "R1438",
+        "R1498",
+        "R1535",
+        "R1556",
+        "R1557",
+        "R1558",
+        "R1559",
+        "R1560",
+        "R1561",
+        "R1562",
+        "R1563",
+        "R1564",
+        "R1565",
+        "R1566",
+        "R1567"
       ],
       "coverageStatus": "seeded_thin",
-      "passStatus": "queued",
-      "searches": [],
+      "passStatus": "daily_pass_2026-11-11_backfill",
+      "searches": [
+        {
+          "tool": "OpenAlex",
+          "query": "concrete structure collapse forensic investigation",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "bridge deck deterioration chloride field survey",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "parking structure deterioration repair case study",
+          "period": null,
+          "hits": 19,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "high alumina cement concrete failure roof beams",
+          "period": ":2000",
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:concrete deterioration case study",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:collapse reinforced concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:concrete bridge deterioration",
+          "period": ":2005",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:failure analysis concrete",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:high alumina cement",
+          "period": ":1995",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        }
+      ],
       "verifiedAdditions": [
         "R216",
         "R219",
@@ -10359,20 +12722,36 @@
         "R1356",
         "R1360",
         "R1401",
-        "R1438"
+        "R1438",
+        "R1498",
+        "R1535",
+        "R1556",
+        "R1557",
+        "R1558",
+        "R1559",
+        "R1560",
+        "R1561",
+        "R1562",
+        "R1563",
+        "R1564",
+        "R1565",
+        "R1566",
+        "R1567"
       ],
       "candidates": [],
       "nextSteps": [
-        "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
-        "Scheduled in globalNextQueue for subsequent daily deep passes"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": ""
+      "lastTouched": "2026-11-11",
+      "notes": "",
+      "lastDeepPass": "pass-2026-11-11"
     },
     {
       "id": "cross-environment-cost",
       "name": "Cross-cutting · Environment / LCA / cost",
-      "resourceCount": 91,
+      "resourceCount": 112,
       "resourceIds": [
         "R99",
         "R100",
@@ -10464,7 +12843,28 @@
         "R1457",
         "R1466",
         "R1467",
-        "R1468"
+        "R1468",
+        "R1485",
+        "R1487",
+        "R1495",
+        "R1496",
+        "R1563",
+        "R1565",
+        "R1568",
+        "R1569",
+        "R1570",
+        "R1571",
+        "R1572",
+        "R1573",
+        "R1574",
+        "R1576",
+        "R1577",
+        "R1587",
+        "R1588",
+        "R1592",
+        "R1604",
+        "R1608",
+        "R1610"
       ],
       "coverageStatus": "seeded_partial",
       "passStatus": "queued",
@@ -10551,20 +12951,41 @@
         "R1457",
         "R1466",
         "R1467",
-        "R1468"
+        "R1468",
+        "R1485",
+        "R1487",
+        "R1495",
+        "R1496",
+        "R1563",
+        "R1565",
+        "R1568",
+        "R1569",
+        "R1570",
+        "R1571",
+        "R1572",
+        "R1573",
+        "R1574",
+        "R1576",
+        "R1577",
+        "R1587",
+        "R1588",
+        "R1592",
+        "R1604",
+        "R1608",
+        "R1610"
       ],
       "candidates": [],
       "nextSteps": [
         "Seek full-text/primary documents for DOI/abstract-level records added by the lead verification pass",
         "Scheduled in globalNextQueue for subsequent daily deep passes"
       ],
-      "lastTouched": "2026-11-10",
+      "lastTouched": "2026-11-11",
       "notes": ""
     },
     {
       "id": "cross-supply-region",
       "name": "Cross-cutting · Availability / supply / regional practice",
-      "resourceCount": 7,
+      "resourceCount": 18,
       "resourceIds": [
         "R28",
         "R139",
@@ -10572,20 +12993,118 @@
         "R150",
         "R147",
         "R207",
-        "R366"
+        "R366",
+        "R1568",
+        "R1569",
+        "R1570",
+        "R1571",
+        "R1572",
+        "R1573",
+        "R1574",
+        "R1575",
+        "R1576",
+        "R1577",
+        "R1598"
       ],
       "coverageStatus": "seeded_partial",
-      "passStatus": "queued",
-      "searches": [],
+      "passStatus": "daily_pass_2026-11-11_backfill",
+      "searches": [
+        {
+          "tool": "OpenAlex",
+          "query": "cement industry regional production capacity trade",
+          "period": null,
+          "hits": 20,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "clinker import export cement market developing countries",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "aggregate supply shortage sand mining concrete",
+          "period": null,
+          "hits": 17,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "cement plant location kiln technology China India",
+          "period": null,
+          "hits": 18,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:cement industry",
+          "period": ":2005",
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:cement industry",
+          "period": "2006:2020",
+          "hits": 24,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:cement production",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:aggregate resources",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        },
+        {
+          "tool": "OpenAlex",
+          "query": "title.search:sand mining",
+          "period": null,
+          "hits": 25,
+          "date": "2026-11-11",
+          "pass": "pass-2026-11-11"
+        }
+      ],
       "verifiedAdditions": [
-        "R207"
+        "R207",
+        "R1568",
+        "R1569",
+        "R1570",
+        "R1571",
+        "R1572",
+        "R1573",
+        "R1574",
+        "R1575",
+        "R1576",
+        "R1577",
+        "R1598"
       ],
       "candidates": [],
       "nextSteps": [
-        "Scheduled in globalNextQueue for subsequent daily deep passes"
+        "Citation chase from 2026-11-11 seeds",
+        "Look for open institutional/government reports and older proceedings",
+        "Avoid repeating 2026-11-11 title.search queries (see ledger)"
       ],
-      "lastTouched": "2026-11-10",
-      "notes": ""
+      "lastTouched": "2026-11-11",
+      "notes": "",
+      "lastDeepPass": "pass-2026-11-11"
     }
   ],
   "globalNextQueue": [
@@ -10600,17 +13119,7 @@
       "priority": "medium"
     },
     {
-      "topicId": "cross-failure-repair",
-      "reason": "Scheduled multi-pass deep backfill after first binder/SCM/concrete cluster",
-      "priority": "medium"
-    },
-    {
       "topicId": "cross-environment-cost",
-      "reason": "Scheduled multi-pass deep backfill after first binder/SCM/concrete cluster",
-      "priority": "medium"
-    },
-    {
-      "topicId": "cross-supply-region",
       "reason": "Scheduled multi-pass deep backfill after first binder/SCM/concrete cluster",
       "priority": "medium"
     },
@@ -10705,27 +13214,12 @@
       "priority": "medium"
     },
     {
-      "topicId": "concrete-heavyweight",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
       "topicId": "binder-portland",
       "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
       "priority": "medium"
     },
     {
-      "topicId": "binder-white-masonry",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
       "topicId": "concrete-fibers",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
-      "topicId": "concrete-mass-rcc",
       "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
       "priority": "medium"
     },
@@ -10741,21 +13235,6 @@
     },
     {
       "topicId": "scm-flyash",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
-      "topicId": "scm-limestone",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
-      "topicId": "scm-natural",
-      "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
-      "priority": "medium"
-    },
-    {
-      "topicId": "binder-international",
       "reason": "Pass 3+ follow-ups listed in topic.nextSteps after pass 2",
       "priority": "medium"
     },
@@ -10823,55 +13302,108 @@
       "topicId": "cross-mechanics",
       "reason": "deepened in pass 3 (2026-11-10); revisit after remaining topics",
       "priority": "medium"
+    },
+    {
+      "topicId": "cross-failure-repair",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "cross-supply-region",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "concrete-heavyweight",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "binder-white-masonry",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "concrete-mass-rcc",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "scm-limestone",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "scm-natural",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
+    },
+    {
+      "topicId": "binder-international",
+      "reason": "Backfilled in pass-2026-11-11; rotate to end",
+      "priority": "medium"
     }
   ],
   "stats": {
     "topics": 59,
-    "resourcesAtStart": 366,
-    "resourcesAfterPass": 1475,
-    "verifiedAdded": 1109,
-    "candidatesTotal": 1282,
-    "candidatesOpen": 4,
-    "candidatesPromoted": 1117,
+    "resourcesAtStart": 1475,
+    "resourcesAfterPass": 1622,
+    "verifiedAdded": 147,
+    "candidatesTotal": 1430,
+    "candidatesOpen": 0,
+    "candidatesPromoted": 1264,
     "candidatesMatchedVerified": 23,
-    "candidatesRejected": 138,
-    "leadsProcessedThisPass": 1255,
+    "candidatesRejected": 143,
+    "leadsProcessedThisPass": 152,
     "previous": {
       "topics": 59,
-      "resourcesAtStart": 252,
-      "resourcesAfterPass": 366,
-      "verifiedAdded": 114,
-      "uniqueApiHits": 573,
+      "resourcesAtStart": 366,
+      "resourcesAfterPass": 1475,
+      "verifiedAdded": 1109,
       "candidatesTotal": 1282,
-      "candidatesOpen": 1255,
-      "candidatesPromoted": 8,
-      "candidatesMatchedVerified": 19,
-      "topicsDeepenedPass3": 12,
-      "topicsDeepenedTotal": 36,
-      "topicsQueuedNotYetDeepened": 23,
-      "membershipRepairs": 89,
+      "candidatesOpen": 4,
+      "candidatesPromoted": 1117,
+      "candidatesMatchedVerified": 23,
+      "candidatesRejected": 138,
+      "leadsProcessedThisPass": 1255,
       "previous": {
         "topics": 59,
-        "resourcesAtStart": 203,
-        "resourcesAfterPass": 252,
-        "verifiedAdded": 49,
-        "uniqueApiHits": 553,
-        "candidatesTotal": 958,
-        "candidatesOpen": 934,
-        "topicsDeepenedPass2": 12,
-        "topicsDeepenedTotal": 24,
-        "topicsQueuedNotYetDeepened": 35,
+        "resourcesAtStart": 252,
+        "resourcesAfterPass": 366,
+        "verifiedAdded": 114,
+        "uniqueApiHits": 573,
+        "candidatesTotal": 1282,
+        "candidatesOpen": 1255,
+        "candidatesPromoted": 8,
+        "candidatesMatchedVerified": 19,
+        "topicsDeepenedPass3": 12,
+        "topicsDeepenedTotal": 36,
+        "topicsQueuedNotYetDeepened": 23,
+        "membershipRepairs": 89,
         "previous": {
           "topics": 59,
-          "resourcesAtStart": 177,
-          "resourcesAfterPass": 203,
-          "verifiedAdded": 26,
-          "uniqueApiHits": 585,
-          "candidatesQueued": 568,
-          "topicsDeepened": 12,
-          "topicsQueued": 47
+          "resourcesAtStart": 203,
+          "resourcesAfterPass": 252,
+          "verifiedAdded": 49,
+          "uniqueApiHits": 553,
+          "candidatesTotal": 958,
+          "candidatesOpen": 934,
+          "topicsDeepenedPass2": 12,
+          "topicsDeepenedTotal": 24,
+          "topicsQueuedNotYetDeepened": 35,
+          "previous": {
+            "topics": 59,
+            "resourcesAtStart": 177,
+            "resourcesAfterPass": 203,
+            "verifiedAdded": 26,
+            "uniqueApiHits": 585,
+            "candidatesQueued": 568,
+            "topicsDeepened": 12,
+            "topicsQueued": 47
+          }
         }
       }
     }
-  }
+  },
+  "lastDeepPass": "pass-2026-11-11"
 }

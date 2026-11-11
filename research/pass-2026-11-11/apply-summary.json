@@ -1,0 +1,115 @@
+{
+ "n": 147,
+ "first": "R1477",
+ "last": "R1623",
+ "oldLeads": {
+  "1013": [
+   "promoted",
+   "R1477"
+  ],
+  "1247": [
+   "promoted",
+   "R1478"
+  ],
+  "1264": [
+   "promoted",
+   "R1479"
+  ],
+  "1263": [
+   "rejected",
+   "off-topic"
+  ]
+ },
+ "newLeads": 148,
+ "newPromoted": 144,
+ "newRejected": 4,
+ "candStatus": {
+  "promoted": 1264,
+  "matched-verified": 23,
+  "rejected": 143
+ },
+ "topics": {
+  "cross-durability": 26,
+  "scm-limestone": 22,
+  "cross-environment-cost": 21,
+  "binder-blended": 20,
+  "cross-chemistry": 19,
+  "cross-mix": 15,
+  "binder-portland": 15,
+  "concrete-cellular": 15,
+  "cross-mechanics": 14,
+  "cross-failure-repair": 14,
+  "scm-slag": 12,
+  "binder-well": 12,
+  "concrete-heavyweight": 12,
+  "concrete-mass-rcc": 12,
+  "binder-international": 11,
+  "binder-white-masonry": 11,
+  "cross-supply-region": 11,
+  "concrete-shotcrete": 10,
+  "durability": 9,
+  "scm-natural": 9,
+  "binder-specialty": 8,
+  "cross-construction": 8,
+  "cross-tests-codes": 7,
+  "concrete-structural": 6,
+  "scm-flyash": 5,
+  "scm-clay": 5,
+  "scm-silica": 4,
+  "scm": 4,
+  "binder-lc3": 4,
+  "concrete-repair-grout-overlay": 3,
+  "binder-activated": 3,
+  "concrete-architectural": 3,
+  "concrete-pavement-pervious": 3,
+  "binder-cac-csa": 3,
+  "intl": 3,
+  "concrete-lightweight": 2,
+  "concrete-hpc": 2,
+  "strength": 2,
+  "concrete-fibers": 1,
+  "concrete-circular": 1,
+  "binder-magnesium-carbonatable": 1,
+  "mass": 1,
+  "carbon": 1,
+  "concrete-scc": 1,
+  "scm-emerging": 1,
+  "apps": 1,
+  "standards": 1
+ },
+ "access": {
+  "catalog_metadata": 14,
+  "landing_page_inspected": 4,
+  "doi_metadata": 81,
+  "abstract_metadata": 48
+ },
+ "types": {
+  "Paper": 109,
+  "Conference paper": 1,
+  "Book": 7,
+  "Standard catalogue record": 3,
+  "Report": 7,
+  "Book chapter": 6,
+  "Review paper": 12,
+  "Proceedings": 1,
+  "Thesis": 1
+ },
+ "decades": {
+  "1910s": 1,
+  "1930s": 2,
+  "1950s": 4,
+  "1960s": 3,
+  "1970s": 9,
+  "1980s": 16,
+  "1990s": 26,
+  "2000s": 38,
+  "2010s": 19,
+  "2020s": 29
+ },
+ "languages": {
+  "en": 144,
+  "de": 1,
+  "ja": 1,
+  "ko": 1
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "pass": "pass-2026-11-11",
+ "harvest1": {
+  "queries": 50,
+  "apiHits": 904,
+  "newAfterDedupe": 840,
+  "dupOfExisting": 64,
+  "screenedByFilter": 344
+ },
+ "harvest2": {
+  "queries": 52,
+  "apiHits": 1209,
+  "newAfterDedupe": 1175,
+  "dupOfExisting": 34,
+  "listed": 1154
+ },
+ "selectedLeads": 148,
+ "promoted": 144,
+ "rejected": 4,
+ "screenedOut": "All other hits were screened out by title/abstract (off-topic: dental/biomedical cements, non-concrete aggregators, generic modelling; near-duplicate recent lab studies; items already in index or candidates). They were never queued as leads.",
+ "files": [
+  "listing.txt",
+  "filtered.txt",
+  "listing2.txt",
+  "selected.json",
+  "doi-verify.json",
+  "plan.json"
+ ]
+}

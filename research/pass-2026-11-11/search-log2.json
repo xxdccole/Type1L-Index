@@ -1,0 +1,366 @@
+[
+ {
+  "topic": "concrete-cellular",
+  "titleSearch": "autoclaved aerated concrete",
+  "period": ":1999",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "titleSearch": "autoclaved aerated concrete",
+  "period": "2000:2015",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "titleSearch": "foamed concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "titleSearch": "foam concrete",
+  "period": ":2012",
+  "n": 15,
+  "errors": []
+ },
+ {
+  "topic": "concrete-cellular",
+  "titleSearch": "cellular concrete",
+  "period": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "shielding concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "heavyweight concrete",
+  "period": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "barite concrete",
+  "period": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "irradiated concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "high-density concrete",
+  "period": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "titleSearch": "roller compacted concrete",
+  "period": ":2005",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "titleSearch": "roller-compacted concrete",
+  "period": "2006:2020",
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "titleSearch": "mass concrete",
+  "period": ":2000",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "titleSearch": "mass concrete",
+  "period": "2001:2018",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "titleSearch": "RCC dam",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "titleSearch": "concrete deterioration case study",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "titleSearch": "collapse reinforced concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "titleSearch": "concrete bridge deterioration",
+  "period": ":2005",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "titleSearch": "failure analysis concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-failure-repair",
+  "titleSearch": "high alumina cement",
+  "period": ":1995",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "titleSearch": "expansive cement",
+  "period": ":2000",
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "titleSearch": "shrinkage-compensating",
+  "period": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "titleSearch": "expansive agent concrete",
+  "period": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "binder-specialty",
+  "titleSearch": "rapid hardening cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "titleSearch": "masonry cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "titleSearch": "white cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "titleSearch": "hydraulic lime mortar",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "titleSearch": "cement-lime mortar",
+  "period": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "binder-white-masonry",
+  "titleSearch": "portland cement plaster",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "titleSearch": "blast furnace cement",
+  "period": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "titleSearch": "composite cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "titleSearch": "CEM II",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-international",
+  "titleSearch": "CEM III",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-well",
+  "titleSearch": "oil well cement",
+  "period": ":2005",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-well",
+  "titleSearch": "well cement",
+  "period": "2006:2020",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-well",
+  "titleSearch": "geothermal cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "titleSearch": "shotcrete",
+  "period": ":2000",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "titleSearch": "sprayed concrete",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-natural",
+  "titleSearch": "natural pozzolan",
+  "period": ":2005",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-natural",
+  "titleSearch": "pumice cement",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-natural",
+  "titleSearch": "volcanic ash cement",
+  "period": null,
+  "n": 21,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "titleSearch": "cement industry",
+  "period": ":2005",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "titleSearch": "cement industry",
+  "period": "2006:2020",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "titleSearch": "cement production",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "titleSearch": "aggregate resources",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-supply-region",
+  "titleSearch": "sand mining",
+  "period": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-limestone",
+  "titleSearch": "limestone filler",
+  "period": ":2008",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "scm-limestone",
+  "titleSearch": "limestone powder concrete",
+  "period": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "titleSearch": "radiation shielding concrete",
+  "period": null,
+  "n": 8,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "titleSearch": "portland-limestone cement",
+  "period": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "titleSearch": "limestone cement",
+  "period": ":2010",
+  "n": 8,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "titleSearch": "portland limestone cement concrete",
+  "period": null,
+  "n": 19,
+  "errors": []
+ }
+]

@@ -8,65 +8,65 @@ Coverage is foundational, not exhaustive. An empty topic is a documented gap, no
 
 ## Topics
 
-- [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 44 resources
+- [Standards and specifications](https://xxdccole.github.io/Type1L-Index/topics/standards/): 45 resources
 - [State DOT acceptance](https://xxdccole.github.io/Type1L-Index/topics/dot/): 27 resources
-- [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 32 resources
+- [Carbon, GWP and EPDs](https://xxdccole.github.io/Type1L-Index/topics/carbon/): 33 resources
 - [Fresh properties and admixtures](https://xxdccole.github.io/Type1L-Index/topics/fresh/): 26 resources
-- [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 31 resources
-- [Durability](https://xxdccole.github.io/Type1L-Index/topics/durability/): 44 resources
-- [Use with SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm/): 32 resources
+- [Strength, curing, cold weather](https://xxdccole.github.io/Type1L-Index/topics/strength/): 33 resources
+- [Durability](https://xxdccole.github.io/Type1L-Index/topics/durability/): 53 resources
+- [Use with SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm/): 36 resources
 - [Pavements](https://xxdccole.github.io/Type1L-Index/topics/pavement/): 17 resources
-- [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 25 resources
+- [Precast, floors, bridges](https://xxdccole.github.io/Type1L-Index/topics/apps/): 26 resources
 - [Mix design guidance](https://xxdccole.github.io/Type1L-Index/topics/mix/): 8 resources
 - [Field issues and finishing](https://xxdccole.github.io/Type1L-Index/topics/field/): 28 resources
 - [Supply, producers, adoption](https://xxdccole.github.io/Type1L-Index/topics/supply/): 12 resources
-- [Canada and Europe](https://xxdccole.github.io/Type1L-Index/topics/intl/): 17 resources
+- [Canada and Europe](https://xxdccole.github.io/Type1L-Index/topics/intl/): 20 resources
 - [Recent news](https://xxdccole.github.io/Type1L-Index/topics/news/): 16 resources
 - [Research gaps](https://xxdccole.github.io/Type1L-Index/topics/gaps/): 9 resources
 - [Training and guides](https://xxdccole.github.io/Type1L-Index/topics/guides/): 58 resources
 - [Microcracking and the interfacial transition zone](https://xxdccole.github.io/Type1L-Index/topics/microcracking/): 19 resources
-- [Mass concrete and thermal control](https://xxdccole.github.io/Type1L-Index/topics/mass/): 28 resources
-- [Binder · Portland I–V and air-entraining](https://xxdccole.github.io/Type1L-Index/topics/binder-portland/): 105 resources
-- [Binder · IL / IS / IP / ternary and performance cements](https://xxdccole.github.io/Type1L-Index/topics/binder-blended/): 74 resources
-- [Binder · International CEM I–VI and regional classifications](https://xxdccole.github.io/Type1L-Index/topics/binder-international/): 50 resources
-- [Binder · Calcium aluminate / calcium sulfoaluminate](https://xxdccole.github.io/Type1L-Index/topics/binder-cac-csa/): 58 resources
-- [Binder · Rapid-set / expansive / shrinkage-compensating](https://xxdccole.github.io/Type1L-Index/topics/binder-specialty/): 46 resources
-- [Binder · White / colored / masonry / mortar / plastic](https://xxdccole.github.io/Type1L-Index/topics/binder-white-masonry/): 46 resources
-- [Binder · Oil-well and geothermal cement](https://xxdccole.github.io/Type1L-Index/topics/binder-well/): 54 resources
-- [Binder · Alkali-activated / geopolymer](https://xxdccole.github.io/Type1L-Index/topics/binder-activated/): 83 resources
-- [Binder · Calcined-clay / limestone / LC3 low-clinker systems](https://xxdccole.github.io/Type1L-Index/topics/binder-lc3/): 63 resources
-- [Binder · Magnesium-based and carbonatable binders](https://xxdccole.github.io/Type1L-Index/topics/binder-magnesium-carbonatable/): 55 resources
-- [SCM / addition · Slag cement](https://xxdccole.github.io/Type1L-Index/topics/scm-slag/): 88 resources
-- [SCM / addition · Fly ash / coal ash](https://xxdccole.github.io/Type1L-Index/topics/scm-flyash/): 77 resources
-- [SCM / addition · Natural pozzolans](https://xxdccole.github.io/Type1L-Index/topics/scm-natural/): 53 resources
-- [SCM / addition · Calcined clay / metakaolin](https://xxdccole.github.io/Type1L-Index/topics/scm-clay/): 95 resources
-- [SCM / addition · Silica fume](https://xxdccole.github.io/Type1L-Index/topics/scm-silica/): 55 resources
-- [SCM / addition · Limestone fillers and inert fines](https://xxdccole.github.io/Type1L-Index/topics/scm-limestone/): 51 resources
-- [SCM / addition · Emerging / alternative SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm-emerging/): 57 resources
-- [Concrete · Normal-weight / reinforced / prestressed](https://xxdccole.github.io/Type1L-Index/topics/concrete-structural/): 144 resources
-- [Concrete · High-strength / HPC / UHPC](https://xxdccole.github.io/Type1L-Index/topics/concrete-hpc/): 88 resources
-- [Concrete · Self-consolidating concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-scc/): 55 resources
-- [Concrete · Fiber-reinforced concrete and composites](https://xxdccole.github.io/Type1L-Index/topics/concrete-fibers/): 68 resources
-- [Concrete · Lightweight aggregate concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-lightweight/): 66 resources
-- [Concrete · Heavyweight / shielding / ballast](https://xxdccole.github.io/Type1L-Index/topics/concrete-heavyweight/): 33 resources
-- [Concrete · Cellular / foamed / aerated](https://xxdccole.github.io/Type1L-Index/topics/concrete-cellular/): 31 resources
-- [Concrete · Mass concrete / RCC](https://xxdccole.github.io/Type1L-Index/topics/concrete-mass-rcc/): 25 resources
-- [Concrete · Paving / pervious](https://xxdccole.github.io/Type1L-Index/topics/concrete-pavement-pervious/): 62 resources
-- [Concrete · Shotcrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-shotcrete/): 51 resources
+- [Mass concrete and thermal control](https://xxdccole.github.io/Type1L-Index/topics/mass/): 29 resources
+- [Binder · Portland I–V and air-entraining](https://xxdccole.github.io/Type1L-Index/topics/binder-portland/): 120 resources
+- [Binder · IL / IS / IP / ternary and performance cements](https://xxdccole.github.io/Type1L-Index/topics/binder-blended/): 94 resources
+- [Binder · International CEM I–VI and regional classifications](https://xxdccole.github.io/Type1L-Index/topics/binder-international/): 61 resources
+- [Binder · Calcium aluminate / calcium sulfoaluminate](https://xxdccole.github.io/Type1L-Index/topics/binder-cac-csa/): 61 resources
+- [Binder · Rapid-set / expansive / shrinkage-compensating](https://xxdccole.github.io/Type1L-Index/topics/binder-specialty/): 54 resources
+- [Binder · White / colored / masonry / mortar / plastic](https://xxdccole.github.io/Type1L-Index/topics/binder-white-masonry/): 57 resources
+- [Binder · Oil-well and geothermal cement](https://xxdccole.github.io/Type1L-Index/topics/binder-well/): 66 resources
+- [Binder · Alkali-activated / geopolymer](https://xxdccole.github.io/Type1L-Index/topics/binder-activated/): 86 resources
+- [Binder · Calcined-clay / limestone / LC3 low-clinker systems](https://xxdccole.github.io/Type1L-Index/topics/binder-lc3/): 67 resources
+- [Binder · Magnesium-based and carbonatable binders](https://xxdccole.github.io/Type1L-Index/topics/binder-magnesium-carbonatable/): 56 resources
+- [SCM / addition · Slag cement](https://xxdccole.github.io/Type1L-Index/topics/scm-slag/): 100 resources
+- [SCM / addition · Fly ash / coal ash](https://xxdccole.github.io/Type1L-Index/topics/scm-flyash/): 82 resources
+- [SCM / addition · Natural pozzolans](https://xxdccole.github.io/Type1L-Index/topics/scm-natural/): 62 resources
+- [SCM / addition · Calcined clay / metakaolin](https://xxdccole.github.io/Type1L-Index/topics/scm-clay/): 100 resources
+- [SCM / addition · Silica fume](https://xxdccole.github.io/Type1L-Index/topics/scm-silica/): 59 resources
+- [SCM / addition · Limestone fillers and inert fines](https://xxdccole.github.io/Type1L-Index/topics/scm-limestone/): 73 resources
+- [SCM / addition · Emerging / alternative SCMs](https://xxdccole.github.io/Type1L-Index/topics/scm-emerging/): 58 resources
+- [Concrete · Normal-weight / reinforced / prestressed](https://xxdccole.github.io/Type1L-Index/topics/concrete-structural/): 150 resources
+- [Concrete · High-strength / HPC / UHPC](https://xxdccole.github.io/Type1L-Index/topics/concrete-hpc/): 90 resources
+- [Concrete · Self-consolidating concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-scc/): 56 resources
+- [Concrete · Fiber-reinforced concrete and composites](https://xxdccole.github.io/Type1L-Index/topics/concrete-fibers/): 69 resources
+- [Concrete · Lightweight aggregate concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-lightweight/): 68 resources
+- [Concrete · Heavyweight / shielding / ballast](https://xxdccole.github.io/Type1L-Index/topics/concrete-heavyweight/): 45 resources
+- [Concrete · Cellular / foamed / aerated](https://xxdccole.github.io/Type1L-Index/topics/concrete-cellular/): 46 resources
+- [Concrete · Mass concrete / RCC](https://xxdccole.github.io/Type1L-Index/topics/concrete-mass-rcc/): 37 resources
+- [Concrete · Paving / pervious](https://xxdccole.github.io/Type1L-Index/topics/concrete-pavement-pervious/): 65 resources
+- [Concrete · Shotcrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-shotcrete/): 61 resources
 - [Concrete · Precast / cast in situ / 3D printing](https://xxdccole.github.io/Type1L-Index/topics/concrete-precast-insitu-print/): 74 resources
-- [Concrete · Recycled / low-carbon / carbon-cured concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-circular/): 60 resources
+- [Concrete · Recycled / low-carbon / carbon-cured concrete](https://xxdccole.github.io/Type1L-Index/topics/concrete-circular/): 61 resources
 - [Concrete · Polymer / polymer-modified / refractory](https://xxdccole.github.io/Type1L-Index/topics/concrete-polymer-refractory/): 64 resources
-- [Concrete · Architectural / decorative / exposed aggregate](https://xxdccole.github.io/Type1L-Index/topics/concrete-architectural/): 45 resources
-- [Concrete · Repair mortars / grouts / overlays / cementitious composites](https://xxdccole.github.io/Type1L-Index/topics/concrete-repair-grout-overlay/): 68 resources
-- [Cross-cutting · Chemistry / hydration / raw materials / manufacture](https://xxdccole.github.io/Type1L-Index/topics/cross-chemistry/): 193 resources
-- [Cross-cutting · Mix design / aggregates / admixtures / compatibility](https://xxdccole.github.io/Type1L-Index/topics/cross-mix/): 191 resources
-- [Cross-cutting · Production / transport / placement / finishing / curing](https://xxdccole.github.io/Type1L-Index/topics/cross-construction/): 89 resources
-- [Cross-cutting · Strength / shrinkage / creep / cracking / thermal behavior](https://xxdccole.github.io/Type1L-Index/topics/cross-mechanics/): 258 resources
-- [Cross-cutting · Durability / corrosion / exposure / service life](https://xxdccole.github.io/Type1L-Index/topics/cross-durability/): 207 resources
-- [Cross-cutting · Testing / specifications / codes / QA](https://xxdccole.github.io/Type1L-Index/topics/cross-tests-codes/): 77 resources
-- [Cross-cutting · Failures / field investigations / repairs / case studies](https://xxdccole.github.io/Type1L-Index/topics/cross-failure-repair/): 30 resources
-- [Cross-cutting · Environment / LCA / cost](https://xxdccole.github.io/Type1L-Index/topics/cross-environment-cost/): 91 resources
-- [Cross-cutting · Availability / supply / regional practice](https://xxdccole.github.io/Type1L-Index/topics/cross-supply-region/): 7 resources
+- [Concrete · Architectural / decorative / exposed aggregate](https://xxdccole.github.io/Type1L-Index/topics/concrete-architectural/): 48 resources
+- [Concrete · Repair mortars / grouts / overlays / cementitious composites](https://xxdccole.github.io/Type1L-Index/topics/concrete-repair-grout-overlay/): 71 resources
+- [Cross-cutting · Chemistry / hydration / raw materials / manufacture](https://xxdccole.github.io/Type1L-Index/topics/cross-chemistry/): 212 resources
+- [Cross-cutting · Mix design / aggregates / admixtures / compatibility](https://xxdccole.github.io/Type1L-Index/topics/cross-mix/): 206 resources
+- [Cross-cutting · Production / transport / placement / finishing / curing](https://xxdccole.github.io/Type1L-Index/topics/cross-construction/): 97 resources
+- [Cross-cutting · Strength / shrinkage / creep / cracking / thermal behavior](https://xxdccole.github.io/Type1L-Index/topics/cross-mechanics/): 272 resources
+- [Cross-cutting · Durability / corrosion / exposure / service life](https://xxdccole.github.io/Type1L-Index/topics/cross-durability/): 233 resources
+- [Cross-cutting · Testing / specifications / codes / QA](https://xxdccole.github.io/Type1L-Index/topics/cross-tests-codes/): 84 resources
+- [Cross-cutting · Failures / field investigations / repairs / case studies](https://xxdccole.github.io/Type1L-Index/topics/cross-failure-repair/): 44 resources
+- [Cross-cutting · Environment / LCA / cost](https://xxdccole.github.io/Type1L-Index/topics/cross-environment-cost/): 112 resources
+- [Cross-cutting · Availability / supply / regional practice](https://xxdccole.github.io/Type1L-Index/topics/cross-supply-region/): 18 resources
 
 ## Data and feeds
 
