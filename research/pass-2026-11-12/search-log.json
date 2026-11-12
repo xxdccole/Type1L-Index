@@ -1,0 +1,766 @@
+[
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "alkali-silica reaction",
+  "period": ":1990",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "alkali-aggregate reaction",
+  "period": "1991:2010",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "delayed ettringite formation",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "freeze-thaw resistance concrete",
+  "period": ":2005",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "chloride diffusion concrete",
+  "period": ":2000",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "carbonation of concrete",
+  "period": ":2000",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "sulfate attack concrete",
+  "period": ":2000",
+  "language": null,
+  "n": 0,
+  "errors": [
+   "HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "corrosion of reinforcement concrete",
+  "period": ":1995",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "service life prediction concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "acid attack concrete",
+  "period": null,
+  "language": null,
+  "n": 0,
+  "errors": [
+   "HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "rapid chloride permeability",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "maturity method concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "nondestructive testing concrete",
+  "period": ":2005",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "ultrasonic pulse velocity concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "surface resistivity concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "round robin test concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-tests-codes",
+  "mode": "title.search",
+  "query": "precision of test method cement",
+  "period": null,
+  "language": null,
+  "n": 0,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "life cycle assessment concrete",
+  "period": ":2012",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "embodied carbon concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "cement kiln emissions",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "carbon capture cement plant",
+  "period": null,
+  "language": null,
+  "n": 21,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "alternative fuels cement kiln",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "cross-environment-cost",
+  "mode": "title.search",
+  "query": "energy consumption cement production",
+  "period": null,
+  "language": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "calcium aluminate cement",
+  "period": ":1995",
+  "language": null,
+  "n": 0,
+  "errors": [
+   "HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "calcium aluminate cement",
+  "period": "1996:2015",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "sulfoaluminate cement",
+  "period": ":2010",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "ettringite binder",
+  "period": null,
+  "language": null,
+  "n": 0,
+  "errors": [
+   "HTTP Error 429: Too Many Requests"
+  ]
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "belite calcium sulfoaluminate",
+  "period": null,
+  "language": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "binder-activated",
+  "mode": "title.search",
+  "query": "alkali-activated slag",
+  "period": ":2005",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-activated",
+  "mode": "title.search",
+  "query": "geopolymer",
+  "period": ":2007",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-activated",
+  "mode": "title.search",
+  "query": "alkali activated fly ash",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "binder-activated",
+  "mode": "title.search",
+  "query": "one-part geopolymer",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-activated",
+  "mode": "title.search",
+  "query": "alkali-activated concrete durability",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "mode": "title.search",
+  "query": "magnesium oxychloride cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "mode": "title.search",
+  "query": "magnesium phosphate cement",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "mode": "title.search",
+  "query": "Sorel cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "mode": "title.search",
+  "query": "carbonation curing concrete",
+  "period": null,
+  "language": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "mode": "title.search",
+  "query": "reactive magnesia",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-silica",
+  "mode": "title.search",
+  "query": "silica fume",
+  "period": ":1995",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-silica",
+  "mode": "title.search",
+  "query": "condensed silica fume",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "scm-silica",
+  "mode": "title.search",
+  "query": "rice husk ash",
+  "period": ":2010",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-silica",
+  "mode": "title.search",
+  "query": "nano-silica cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "waste glass pozzolan",
+  "period": null,
+  "language": null,
+  "n": 8,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "sugarcane bagasse ash",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "palm oil fuel ash",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "municipal solid waste incineration ash cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "red mud cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-emerging",
+  "mode": "title.search",
+  "query": "steel slag cementitious",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-slag",
+  "mode": "title.search",
+  "query": "blast-furnace slag",
+  "period": ":1985",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "scm-slag",
+  "mode": "title.search",
+  "query": "slag activity index",
+  "period": null,
+  "language": null,
+  "n": 15,
+  "errors": []
+ },
+ {
+  "topic": "scm-slag",
+  "mode": "title.search",
+  "query": "granulated slag cement",
+  "period": "1986:2005",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-lightweight",
+  "mode": "title.search",
+  "query": "lightweight aggregate concrete",
+  "period": ":1995",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-lightweight",
+  "mode": "title.search",
+  "query": "expanded clay aggregate",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-lightweight",
+  "mode": "title.search",
+  "query": "internal curing lightweight aggregate",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-lightweight",
+  "mode": "title.search",
+  "query": "pumice lightweight concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-lightweight",
+  "mode": "title.search",
+  "query": "sintered fly ash aggregate",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-lc3",
+  "mode": "title.search",
+  "query": "calcined clay limestone",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-lc3",
+  "mode": "title.search",
+  "query": "LC3",
+  "period": null,
+  "language": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "pll-std",
+  "mode": "search",
+  "query": "portland-limestone cement ASTM C595 Type IL specification",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "pll-std",
+  "mode": "search",
+  "query": "limestone content cement standard EN 197-1 CEM II/A-L CEM II/B-LL",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "pll-dot",
+  "mode": "search",
+  "query": "portland limestone cement state department of transportation field trial",
+  "period": null,
+  "language": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "pll-carbon",
+  "mode": "search",
+  "query": "portland limestone cement CO2 reduction environmental product declaration",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "pll-fresh",
+  "mode": "search",
+  "query": "limestone cement setting time workability water demand",
+  "period": null,
+  "language": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "pll-strength",
+  "mode": "search",
+  "query": "interground limestone cement fineness strength development",
+  "period": null,
+  "language": null,
+  "n": 17,
+  "errors": []
+ },
+ {
+  "topic": "lang-de",
+  "mode": "title.search",
+  "query": "Zement",
+  "period": ":2010",
+  "language": "de",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-de",
+  "mode": "title.search",
+  "query": "Beton",
+  "period": ":2010",
+  "language": "de",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-fr",
+  "mode": "title.search",
+  "query": "ciment",
+  "period": null,
+  "language": "fr",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-fr",
+  "mode": "title.search",
+  "query": "b\u00e9ton",
+  "period": null,
+  "language": "fr",
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "lang-es",
+  "mode": "title.search",
+  "query": "cemento",
+  "period": null,
+  "language": "es",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-es",
+  "mode": "title.search",
+  "query": "hormig\u00f3n",
+  "period": null,
+  "language": "es",
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "lang-pt",
+  "mode": "title.search",
+  "query": "cimento",
+  "period": null,
+  "language": "pt",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-pt",
+  "mode": "title.search",
+  "query": "concreto",
+  "period": null,
+  "language": "pt",
+  "n": 21,
+  "errors": []
+ },
+ {
+  "topic": "lang-ja",
+  "mode": "search",
+  "query": "cement concrete",
+  "period": null,
+  "language": "ja",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-zh",
+  "mode": "search",
+  "query": "cement concrete",
+  "period": null,
+  "language": "zh",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "cement",
+  "period": "2026-09-15:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "concrete",
+  "period": "2026-09-15:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "calcium sulfoaluminate",
+  "period": "2026-07-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "geopolymer concrete",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "magnesium cement",
+  "period": "2026-07-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "lightweight aggregate concrete",
+  "period": "2026-07-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "life cycle assessment concrete",
+  "period": "2026-08-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "alkali-silica reaction",
+  "period": "2026-07-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "silica fume",
+  "period": "2026-07-01:",
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "standard specification cement",
+  "period": "2026-01-01:",
+  "language": null,
+  "n": 21,
+  "errors": []
+ }
+]

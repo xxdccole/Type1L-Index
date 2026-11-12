@@ -1,0 +1,6 @@
+{'topic': 'cross-durability', 'mode': 'title.search', 'query': 'sulfate attack concrete', 'period': ':2000', 'language': None, 'n': 25, 'errors': [], 'retry': True}
+{'topic': 'cross-durability', 'mode': 'title.search', 'query': 'acid attack concrete', 'period': None, 'language': None, 'n': 25, 'errors': [], 'retry': True}
+{'topic': 'binder-cac-csa', 'mode': 'title.search', 'query': 'calcium aluminate cement', 'period': ':1995', 'language': None, 'n': 25, 'errors': [], 'retry': True}
+{'topic': 'binder-cac-csa', 'mode': 'title.search', 'query': 'ettringite binder', 'period': None, 'language': None, 'n': 25, 'errors': [], 'retry': True}
+seed refs 632
+kept 393

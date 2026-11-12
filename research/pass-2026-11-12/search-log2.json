@@ -1,0 +1,54 @@
+[
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "sulfate attack concrete",
+  "period": ":2000",
+  "language": null,
+  "n": 25,
+  "errors": [],
+  "retry": true
+ },
+ {
+  "topic": "cross-durability",
+  "mode": "title.search",
+  "query": "acid attack concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": [],
+  "retry": true
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "calcium aluminate cement",
+  "period": ":1995",
+  "language": null,
+  "n": 25,
+  "errors": [],
+  "retry": true
+ },
+ {
+  "topic": "binder-cac-csa",
+  "mode": "title.search",
+  "query": "ettringite binder",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": [],
+  "retry": true
+ },
+ {
+  "topic": "citation-chase",
+  "mode": "openalex referenced_works (backward)",
+  "query": "seeds: 79 records from pass-2026-11-11 dated <2005",
+  "period": null,
+  "language": null,
+  "n": 393,
+  "refsTotal": 632,
+  "refsFetched": 590,
+  "rule": "cited by >=2 seeds or published <1995",
+  "errors": []
+ }
+]
