@@ -148,7 +148,8 @@ home_html = (ROOT / "index.html").read_text(encoding="utf-8")
 n_res, n_top = len(data["resources"]), len(data["topics"])
 if f"{n_top} topics" not in home_html or f"{n_res} resources" not in home_html:
     errors.append("home page counts are not derived from site-data.json")
-if "Portland-Limestone Cement (PLC)" in home_html:
+_home_title = re.search(r"<title>(.*?)</title>", home_html, re.S)
+if _home_title and "Portland-Limestone Cement (PLC)" in _home_title.group(1):
     errors.append("home page still uses the Type IL-only document title")
 if "not an exhaustive catalogue" not in home_html:
     errors.append("home page is missing the non-exhaustive coverage note")

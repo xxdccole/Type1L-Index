@@ -1,0 +1,12 @@
+--- /tmp/check_site.orig.py	2026-11-13 06:36:11.975221361 -0600
++++ scripts/check_site.py	2026-11-13 06:36:11.983221338 -0600
+@@ -148,7 +148,8 @@
+ n_res, n_top = len(data["resources"]), len(data["topics"])
+ if f"{n_top} topics" not in home_html or f"{n_res} resources" not in home_html:
+     errors.append("home page counts are not derived from site-data.json")
+-if "Portland-Limestone Cement (PLC)" in home_html:
++_home_title = re.search(r"<title>(.*?)</title>", home_html, re.S)
++if _home_title and "Portland-Limestone Cement (PLC)" in _home_title.group(1):
+     errors.append("home page still uses the Type IL-only document title")
+ if "not an exhaustive catalogue" not in home_html:
+     errors.append("home page is missing the non-exhaustive coverage note")

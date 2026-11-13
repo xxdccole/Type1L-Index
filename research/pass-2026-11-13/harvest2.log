@@ -1,0 +1,15 @@
+seed refs 570
+kept back 442
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2114711884 (R1634)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 12, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2114711884 (R1634)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 6, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2135757527 (R1713)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 8, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2135757527 (R1713)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 1, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2061869571 (R1744)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 8, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2061869571 (R1744)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 6, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2162114997 (R1747)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 12, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2162114997 (R1747)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 6, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2044309764 (R1686)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 12, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W2044309764 (R1686)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 6, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W379512433 (R1704)', 'period': 'to_publication_date:2010-12-31', 'language': None, 'n': 7, 'errors': []}
+{'topic': 'citation-chase-fwd', 'mode': 'openalex cites (forward)', 'query': 'cites:W379512433 (R1704)', 'period': 'from_publication_date:2024-01-01,to_publication_date:2026-11-12', 'language': None, 'n': 2, 'errors': []}
+528

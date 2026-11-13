@@ -1,0 +1,902 @@
+[
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "portland cement clinker",
+  "period": ":1975",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "sulfate resisting portland cement",
+  "period": null,
+  "language": null,
+  "n": 18,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "low heat portland cement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "air-entrained concrete",
+  "period": ":1980",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "cement fineness",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "alite belite",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "binder-portland",
+  "mode": "title.search",
+  "query": "gypsum optimum cement",
+  "period": null,
+  "language": null,
+  "n": 5,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "fly ash concrete",
+  "period": ":1985",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "fly ash concrete",
+  "period": "1986:2000",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "high-volume fly ash",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "pulverized fuel ash",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "class C fly ash",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "scm-flyash",
+  "mode": "title.search",
+  "query": "fly ash pozzolanic reaction",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "steel fibre reinforced concrete",
+  "period": ":1995",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "fiber reinforced concrete",
+  "period": "1996:2010",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "polypropylene fibre concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "engineered cementitious composites",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "textile reinforced concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "basalt fiber concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-fibers",
+  "mode": "title.search",
+  "query": "glass fibre reinforced cement",
+  "period": ":2005",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-scc",
+  "mode": "title.search",
+  "query": "self-compacting concrete",
+  "period": ":2005",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-scc",
+  "mode": "title.search",
+  "query": "self-consolidating concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-scc",
+  "mode": "title.search",
+  "query": "self-compacting concrete rheology",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-scc",
+  "mode": "title.search",
+  "query": "viscosity modifying admixture",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-scc",
+  "mode": "title.search",
+  "query": "passing ability",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "architectural concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "exposed concrete surface",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "white concrete",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "pigmented concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "efflorescence",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-architectural",
+  "mode": "title.search",
+  "query": "fair-faced concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "polymer concrete",
+  "period": ":2000",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "polymer-modified mortar",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "polymer impregnated concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "refractory concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "refractory castable",
+  "period": ":2005",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-polymer-refractory",
+  "mode": "title.search",
+  "query": "latex modified concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "concrete pavement",
+  "period": ":1990",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "concrete pavement",
+  "period": "1991:2010",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "pervious concrete",
+  "period": ":2012",
+  "language": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "porous concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "dowel bar concrete pavement",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-pavement-pervious",
+  "mode": "title.search",
+  "query": "concrete pavement curling",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "concrete repair",
+  "period": ":2000",
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "repair mortar",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "cement grout",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "bonded overlay",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "cathodic protection reinforced concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-repair-grout-overlay",
+  "mode": "title.search",
+  "query": "patch repair concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "mode": "title.search",
+  "query": "precast concrete",
+  "period": ":1995",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "mode": "title.search",
+  "query": "steam curing concrete",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "mode": "title.search",
+  "query": "3D printed concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "mode": "title.search",
+  "query": "slipform",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-precast-insitu-print",
+  "mode": "title.search",
+  "query": "extrusion cementitious",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-circular",
+  "mode": "title.search",
+  "query": "recycled aggregate concrete",
+  "period": ":2005",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-circular",
+  "mode": "title.search",
+  "query": "recycled concrete aggregate",
+  "period": "2006:2015",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-circular",
+  "mode": "title.search",
+  "query": "demolition waste concrete",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "concrete-circular",
+  "mode": "title.search",
+  "query": "CO2 curing concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-circular",
+  "mode": "title.search",
+  "query": "crushed concrete fines",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-hpc",
+  "mode": "title.search",
+  "query": "high-strength concrete",
+  "period": ":1995",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "concrete-hpc",
+  "mode": "title.search",
+  "query": "high-performance concrete",
+  "period": "1990:2005",
+  "language": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "concrete-hpc",
+  "mode": "title.search",
+  "query": "ultra-high performance concrete",
+  "period": ":2012",
+  "language": null,
+  "n": 21,
+  "errors": []
+ },
+ {
+  "topic": "concrete-hpc",
+  "mode": "title.search",
+  "query": "reactive powder concrete",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "concrete-hpc",
+  "mode": "title.search",
+  "query": "autogenous shrinkage high-performance concrete",
+  "period": null,
+  "language": null,
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "pll-pavement",
+  "mode": "search",
+  "query": "portland limestone cement concrete pavement performance",
+  "period": null,
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "pll-mix",
+  "mode": "search",
+  "query": "portland limestone cement mix design proportioning",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "pll-field",
+  "mode": "search",
+  "query": "portland limestone cement finishing bleeding field experience",
+  "period": null,
+  "language": null,
+  "n": 21,
+  "errors": []
+ },
+ {
+  "topic": "pll-mass",
+  "mode": "search",
+  "query": "limestone cement heat of hydration mass concrete",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "pll-micro",
+  "mode": "search",
+  "query": "limestone filler interfacial transition zone microstructure",
+  "period": null,
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "pll-apps",
+  "mode": "search",
+  "query": "portland limestone cement precast bridge deck",
+  "period": null,
+  "language": null,
+  "n": 20,
+  "errors": []
+ },
+ {
+  "topic": "pll-ttl",
+  "mode": "title.search",
+  "query": "limestone cement",
+  "period": ":2000",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "pll-ttl",
+  "mode": "title.search",
+  "query": "limestone filler",
+  "period": "2001:2015",
+  "language": null,
+  "n": 22,
+  "errors": []
+ },
+ {
+  "topic": "lang-it",
+  "mode": "title.search",
+  "query": "calcestruzzo",
+  "period": null,
+  "language": "it",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-it",
+  "mode": "title.search",
+  "query": "cemento",
+  "period": null,
+  "language": "it",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-nl",
+  "mode": "title.search",
+  "query": "beton",
+  "period": null,
+  "language": "nl",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-ru",
+  "mode": "title.search",
+  "query": "\u0431\u0435\u0442\u043e\u043d",
+  "period": null,
+  "language": "ru",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-ru",
+  "mode": "title.search",
+  "query": "\u0446\u0435\u043c\u0435\u043d\u0442",
+  "period": null,
+  "language": "ru",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-pl",
+  "mode": "title.search",
+  "query": "beton",
+  "period": null,
+  "language": "pl",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-pl",
+  "mode": "title.search",
+  "query": "cement",
+  "period": null,
+  "language": "pl",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-cs",
+  "mode": "title.search",
+  "query": "beton",
+  "period": null,
+  "language": "cs",
+  "n": 23,
+  "errors": []
+ },
+ {
+  "topic": "lang-tr",
+  "mode": "title.search",
+  "query": "beton",
+  "period": null,
+  "language": "tr",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-tr",
+  "mode": "title.search",
+  "query": "\u00e7imento",
+  "period": null,
+  "language": "tr",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-ko",
+  "mode": "search",
+  "query": "concrete",
+  "period": null,
+  "language": "ko",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-de",
+  "mode": "title.search",
+  "query": "Betonstra\u00dfe",
+  "period": null,
+  "language": "de",
+  "n": 2,
+  "errors": []
+ },
+ {
+  "topic": "lang-de",
+  "mode": "title.search",
+  "query": "Zement",
+  "period": "2011:2026",
+  "language": "de",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-fr",
+  "mode": "title.search",
+  "query": "mortier",
+  "period": null,
+  "language": "fr",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-es",
+  "mode": "title.search",
+  "query": "mortero",
+  "period": null,
+  "language": "es",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "lang-ja",
+  "mode": "search",
+  "query": "concrete",
+  "period": "2000:2026",
+  "language": "ja",
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "portland cement clinker",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "fly ash concrete",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "fiber reinforced concrete",
+  "period": "2026-10-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "self-compacting concrete",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "concrete pavement",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "concrete repair",
+  "period": "2026-09-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "3D printing concrete",
+  "period": "2026-10-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "recycled aggregate concrete",
+  "period": "2026-10-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "ultra-high performance concrete",
+  "period": "2026-10-01:",
+  "language": null,
+  "n": 24,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "polymer concrete",
+  "period": "2026-08-01:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "portland limestone cement",
+  "period": "2026-08-01:",
+  "language": null,
+  "n": 19,
+  "errors": []
+ },
+ {
+  "topic": "current-2026",
+  "mode": "search",
+  "query": "concrete",
+  "period": "2026-10-20:",
+  "language": null,
+  "n": 25,
+  "errors": []
+ }
+]

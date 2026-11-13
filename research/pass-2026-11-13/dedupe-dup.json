@@ -1,0 +1,562 @@
+[
+[
+"https://doi.org/10.6028/jres.017.014",
+"existing R879"
+],
+[
+"https://doi.org/10.6028/jres.021.021",
+"existing R872"
+],
+[
+"https://doi.org/10.6028/jres.020.036",
+"existing R882"
+],
+[
+"https://doi.org/10.3390/fractalfract5030079",
+"existing R1108"
+],
+[
+"https://doi.org/10.3989/mc.2016.05515",
+"existing R885"
+],
+[
+"https://doi.org/10.1016/0008-8846(82)90019-9",
+"existing R1880"
+],
+[
+"https://doi.org/10.14359/6991",
+"existing R1688"
+],
+[
+"https://doi.org/10.1680/iicep.1967.8472",
+"existing R1693"
+],
+[
+"https://doi.org/10.14359/8435",
+"existing R1695"
+],
+[
+"https://doi.org/10.1680/iicep.1980.2377",
+"existing R1885"
+],
+[
+"https://doi.org/10.1016/0958-9465(95)00005-w",
+"existing R1878"
+],
+[
+"https://doi.org/10.1016/s0958-9465(96)00046-7",
+"existing R225"
+],
+[
+"https://doi.org/10.3151/jact.1.215",
+"existing R1265"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2020.106038",
+"existing R1271"
+],
+[
+"https://doi.org/10.3151/jact.1.5",
+"existing R234"
+],
+[
+"https://doi.org/10.1680/stco.2000.1.1.3",
+"existing R235"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2004.07.001",
+"existing R1036"
+],
+[
+"https://doi.org/10.1016/j.cscm.2022.e01143",
+"existing R1048"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2020.106040",
+"existing R1214"
+],
+[
+"https://doi.org/10.1590/1517-7076-rmat-2022-0149",
+"existing R1163"
+],
+[
+"https://doi.org/10.3390/su151914623",
+"existing R1143"
+],
+[
+"https://doi.org/10.3151/coj1975.27.5_22",
+"existing R1540"
+],
+[
+"https://doi.org/10.1016/0008-8846(93)90090-v",
+"existing R1662"
+],
+[
+"https://openalex.org/w1557382973",
+"existing-title R228"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2009.10.025",
+"existing R296"
+],
+[
+"https://doi.org/10.1016/0008-8846(93)90030-d",
+"existing R1748"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2008.03.007",
+"existing R319"
+],
+[
+"https://doi.org/10.37099/mtu.dc.etds/270",
+"existing R320"
+],
+[
+"https://doi.org/10.1061/(asce)mt.1943-5533.0000462",
+"existing R1658"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2019.02.017",
+"existing R303"
+],
+[
+"https://doi.org/10.1016/j.compositesa.2019.105533",
+"existing R1471"
+],
+[
+"https://doi.org/10.3390/ma10111314",
+"existing R1295"
+],
+[
+"https://doi.org/10.1016/j.engstruct.2021.112380",
+"existing R1296"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2004.10.025",
+"existing R312"
+],
+[
+"https://doi.org/10.1016/j.buildenv.2005.07.033",
+"existing R1456"
+],
+[
+"https://doi.org/10.1007/bf02472036",
+"existing R1672"
+],
+[
+"https://doi.org/10.1061/%28asce%29",
+"existing-title R1283"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2014.04.117",
+"existing R314"
+],
+[
+"https://doi.org/10.1016/j.jclepro.2015.08.057",
+"existing R315"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2011.12.074",
+"existing R1454"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2008.06.007",
+"existing R1455"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2009.09.005",
+"existing R313"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2008.03.006",
+"existing R1458"
+],
+[
+"https://doi.org/10.1007/s40069-013-0032-5",
+"existing R1459"
+],
+[
+"https://doi.org/10.14359/4015",
+"existing R1883"
+],
+[
+"https://doi.org/10.1016/0008-8846(94)90022-1",
+"existing R284"
+],
+[
+"https://doi.org/10.1016/s0958-9465(02)00081-1",
+"existing R290"
+],
+[
+"https://doi.org/10.1016/s0008-8846(99)00103-9",
+"existing R1640"
+],
+[
+"https://doi.org/10.1016/0008-8846(95)00144-2",
+"existing R285"
+],
+[
+"https://doi.org/10.1016/0008-8846(95)00143-z",
+"existing R1450"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2008.02.001",
+"existing R1724"
+],
+[
+"https://doi.org/10.21041/ra.v16i1.975",
+"existing R101"
+],
+[
+"https://doi.org/10.5703/1288284315335",
+"existing R1844"
+],
+[
+"https://doi.org/10.1016/j.asej.2017.04.005",
+"existing R1842"
+],
+[
+"https://doi.org/10.11575/prism/50716",
+"existing R887"
+],
+[
+"https://doi.org/10.18702/acf.2023.9.1.1",
+"existing R1132"
+],
+[
+"https://doi.org/10.1038/s41598-026-72788-1",
+"existing R1808"
+],
+[
+"https://doi.org/10.5399/osu/1150",
+"existing R1845"
+],
+[
+"https://doi.org/10.14359/51749080",
+"existing R50"
+],
+[
+"https://doi.org/10.1080/21650373.2026.2736140",
+"existing R65"
+],
+[
+"https://doi.org/10.17706/ijmse.2017.5.2.79-86",
+"existing R73"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2017.05.013",
+"existing R1033"
+],
+[
+"https://doi.org/10.21809/rilemtechlett.2021.134",
+"existing R548"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2020.121293",
+"existing R1219"
+],
+[
+"https://doi.org/10.3151/jact.4.357",
+"existing R1035"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2021.122271",
+"existing R552"
+],
+[
+"https://doi.org/10.3390/solids4010003",
+"existing R531"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2018.06.075",
+"existing R244"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2016.05.007",
+"existing R122"
+],
+[
+"https://doi.org/10.3390/min13020186",
+"existing R894"
+],
+[
+"https://doi.org/10.33915/etd.1284",
+"existing R963"
+],
+[
+"https://doi.org/10.1590/0366-69132021673812929",
+"existing R391"
+],
+[
+"https://doi.org/10.33915/etd.4486",
+"existing R961"
+],
+[
+"https://doi.org/10.1016/s0958-9465(98)00020-1",
+"existing R1579"
+],
+[
+"https://doi.org/10.1016/s0008-8846(00)00402-6",
+"existing R1837"
+],
+[
+"https://doi.org/10.1016/s0008-8846(99)00100-3",
+"existing R1582"
+],
+[
+"https://doi.org/10.1016/s0958-9465(98)00031-6",
+"existing R1686"
+],
+[
+"https://doi.org/10.1016/s0958-9465(00)00019-6",
+"existing R1590"
+],
+[
+"https://doi.org/10.1016/0008-8846(95)00163-8",
+"existing R1591"
+],
+[
+"https://doi.org/10.1016/0958-9465(91)90016-b",
+"existing R1585"
+],
+[
+"https://doi.org/10.1016/s0008-8846(01)00491-4",
+"existing R242"
+],
+[
+"https://doi.org/10.1016/s0008-8846(02)01087-6",
+"existing R1588"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2006.09.003",
+"existing R1589"
+],
+[
+"https://doi.org/10.1016/s0958-9465(01)00056-7",
+"existing R256"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2007.08.003",
+"existing R1054"
+],
+[
+"https://doi.org/10.22227/1997-0935.2014.2.125-130",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.22227/1997-0935.2013.8.97-103",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.24866/2227-6858/2024-4/115-129",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.33622/0869-7019.2022.03.31-36",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.14529/build210106",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.71031/qhsi.2025.v1.i1.005",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.32683/0536-1052-2024-790-10-65-75",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.48081/paqm4593",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.1134/s023408791903002x",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w75360681",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.22227/1997-0935.2012.5.120-127",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.32683/0536-1052-2026-814-10-64-73",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.18720/spbpu/3/2026/vr/vr26-4332",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.61907/cia.2026.83.31.001",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7161215220",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7220887642",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.62724/202540702",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.71031/qhsi.2025.v1.i4.008",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7140063263",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7161216456",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.18411/trnio-01-2024-669",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.71031/qhsi.2026.v1.i3.001",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.18720/spbpu/3/2026/vr/vr26-5024",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.5281/zenodo.21018591",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.61907/cia.2025.61.84.001",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7216602033",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.54251/2616-6429.2025.02.18nu",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.54251/2616-6429.2025.02.012nu",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.54251/2616-6429.2025.02.0007nu",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.52684/2312-3702-2025-51-1-106-110",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.61907/cia.2025.13.78.001",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7140065961",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.18356/22202331-2024-1-9",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7112198053",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.5281/zenodo.7884076",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7215190972",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7113421382",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7113756821",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w3190511324",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7111802522",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7112462211",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w7113120437",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w2994165189",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w2747127148",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w2960804781",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://openalex.org/w2990033250",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.1007/bf02480524",
+"existing R1820"
+],
+[
+"https://doi.org/10.1007/bf02472917",
+"existing R1822"
+],
+[
+"https://doi.org/10.36306/konjes.1744206",
+"existing R1432"
+],
+[
+"https://doi.org/10.14359/51751742",
+"existing R66"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2026.148252",
+"existing R1612"
+],
+[
+"https://doi.org/10.14359/51750729",
+"existing R126"
+],
+[
+"https://doi.org/10.1016/j.nxmate.2026.103790",
+"existing R1609"
+],
+[
+"https://doi.org/10.1061/jmcee7.mteng-23139",
+"existing R127"
+],
+[
+"https://doi.org/10.70909/aca.2026.sn3370",
+"candidate (948, 'rejected')"
+]
+]
