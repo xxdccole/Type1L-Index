@@ -1,0 +1,742 @@
+[
+[
+"https://doi.org/10.1016/j.conbuildmat.2016.12.212",
+"existing R922"
+],
+[
+"https://doi.org/10.1016/j.cscm.2017.03.004",
+"existing R230"
+],
+[
+"https://doi.org/10.1680/iicep.1976.3485",
+"existing R2102"
+],
+[
+"https://openalex.org/w3152040120",
+"existing-title R945"
+],
+[
+"https://doi.org/10.1201/9781482271294-55",
+"existing R945"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2004.05.041",
+"existing R306"
+],
+[
+"https://doi.org/10.3390/ma15062173",
+"existing R841"
+],
+[
+"https://doi.org/10.1007/s13369-015-1868-6",
+"existing R1533"
+],
+[
+"https://doi.org/10.1038/s41598-023-44978-8",
+"existing R853"
+],
+[
+"https://doi.org/10.1016/j.jmrt.2022.06.145",
+"existing R835"
+],
+[
+"https://doi.org/10.1038/s41598-024-76402-0",
+"existing R833"
+],
+[
+"https://doi.org/10.1016/j.rinma.2021.100177",
+"existing R847"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2003.11.005",
+"existing R1519"
+],
+[
+"https://doi.org/10.1016/0262-5075(80)90029-9",
+"existing R804"
+],
+[
+"https://doi.org/10.3390/ma12081322",
+"existing R400"
+],
+[
+"https://doi.org/10.1016/0008-8846(92)90129-j",
+"existing R1493"
+],
+[
+"https://doi.org/10.1016/0008-8846(74)90043-x",
+"existing R1489"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2015.01.066",
+"existing R399"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2018.11.012",
+"existing R417"
+],
+[
+"https://doi.org/10.1016/0008-8846(91)90065-p",
+"existing R424"
+],
+[
+"https://doi.org/10.14359/51664020",
+"existing R409"
+],
+[
+"https://doi.org/10.14359/7593",
+"existing R408"
+],
+[
+"https://doi.org/10.3403/30304852",
+"candidate-title (1298, 'rejected')"
+],
+[
+"https://doi.org/10.1111/j.1151-2916.1957.tb12595.x",
+"existing R978"
+],
+[
+"https://doi.org/10.1016/s0886-7798(01)00065-7",
+"existing R757"
+],
+[
+"https://doi.org/10.1201/9780203023389-14",
+"existing R736"
+],
+[
+"https://doi.org/10.1155/2019/3156264",
+"existing R735"
+],
+[
+"https://doi.org/10.1038/s41598-025-17837-x",
+"existing R750"
+],
+[
+"https://openalex.org/w3116556199",
+"candidate-title (446, 'matched-verified')"
+],
+[
+"https://doi.org/10.14288/1.0050144",
+"existing R724"
+],
+[
+"https://doi.org/10.1007/s12205-014-0452-z",
+"existing R1162"
+],
+[
+"https://doi.org/10.1016/s0950-0618(02)00005-3",
+"existing R1509"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2004.10.041",
+"existing R1510"
+],
+[
+"https://doi.org/10.1080/15583058.2023.2256259",
+"existing R1077"
+],
+[
+"https://doi.org/10.3390/ma14216679",
+"existing R453"
+],
+[
+"https://doi.org/10.3390/ma16175792",
+"existing R456"
+],
+[
+"https://doi.org/10.17159/2309-8775/2022/v64n4a1",
+"existing R1083"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2008.02.005",
+"existing R248"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2014.06.010",
+"existing R1059"
+],
+[
+"https://doi.org/10.1016/0008-8846(93)90076-l",
+"existing R1596"
+],
+[
+"https://doi.org/10.1016/j.ijsbe.2017.07.004",
+"existing R1261"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2014.09.081",
+"existing R1091"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2020.103615",
+"existing R471"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2004.02.007",
+"existing R2134"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2012.11.054",
+"existing R1087"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2019.06.123",
+"existing R547"
+],
+[
+"https://doi.org/10.1016/j.jobe.2023.107794",
+"existing R1468"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2021.106553",
+"existing R1216"
+],
+[
+"https://doi.org/10.3390/ma12091374",
+"existing R2436"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2021.122271",
+"existing R552"
+],
+[
+"https://doi.org/10.3390/constrmater6040052",
+"existing R1607"
+],
+[
+"https://doi.org/10.18130/b67r-ka27",
+"existing R1614"
+],
+[
+"https://doi.org/10.6028/nist.ir.6295",
+"existing R288"
+],
+[
+"https://doi.org/10.3390/su10040931",
+"existing R1140"
+],
+[
+"https://doi.org/10.1016/0008-8846(96)00148-2",
+"existing R261"
+],
+[
+"https://doi.org/10.1016/s0008-8846(99)00231-8",
+"existing R262"
+],
+[
+"https://doi.org/10.1016/s0958-9465(00)00092-5",
+"existing R264"
+],
+[
+"https://doi.org/10.1016/1065-7355(94)90007-8",
+"existing R1679"
+],
+[
+"https://doi.org/10.1016/0008-8846(85)90056-0",
+"existing R1882"
+],
+[
+"https://openalex.org/w2382795866",
+"existing-title R1212"
+],
+[
+"https://doi.org/10.1016/c2013-0-19325-7",
+"existing-title R1666"
+],
+[
+"https://openalex.org/w1607401957",
+"candidate-title (1258, 'promoted')"
+],
+[
+"https://doi.org/10.1016/b978-0-7506-6256-7.x5007-3",
+"existing R1666"
+],
+[
+"https://doi.org/10.1016/0008-8846(85)90113-9",
+"existing R1674"
+],
+[
+"https://doi.org/10.1038/scientificamerican0464-80",
+"existing R2004"
+],
+[
+"https://openalex.org/w599911318",
+"candidate-title (1365, 'promoted')"
+],
+[
+"https://doi.org/10.1016/0008-8846(86)90075-x",
+"existing R420"
+],
+[
+"https://doi.org/10.1016/0008-8846(73)90056-2",
+"existing R1670"
+],
+[
+"https://doi.org/10.1061/(asce)0733-9399(1989)115:8(1691)",
+"existing R1673"
+],
+[
+"https://doi.org/10.14359/3827",
+"existing R1997"
+],
+[
+"https://doi.org/10.1016/0008-8846(74)90003-9",
+"existing R421"
+],
+[
+"https://doi.org/10.14359/7298",
+"existing R1491"
+],
+[
+"https://doi.org/10.1016/0008-8846(75)90072-1",
+"existing R422"
+],
+[
+"https://doi.org/10.1107/s0567740870002443",
+"existing-title R1971"
+],
+[
+"https://doi.org/10.14359/15231",
+"existing R1691"
+],
+[
+"https://doi.org/10.1016/0008-8846(72)90026-9",
+"existing R1520"
+],
+[
+"https://doi.org/10.1680/adcr.1989.2.6.73",
+"existing R212"
+],
+[
+"https://doi.org/10.1016/0008-8846(85)90142-5",
+"existing R870"
+],
+[
+"https://doi.org/10.1680/macr.1969.21.66.3",
+"existing R874"
+],
+[
+"https://openalex.org/w421669417",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.3151/coj1975.23.3_29",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.1016/0369-5816(65)90025-6",
+"existing-title R1529"
+],
+[
+"https://doi.org/10.3151/coj1975.23.3_17",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.3151/coj1975.19.11_4",
+"candidate-title (233, 'rejected')"
+],
+[
+"https://doi.org/10.14359/11733",
+"existing R1529"
+],
+[
+"https://doi.org/10.1520/stp691-eb",
+"existing-title R843"
+],
+[
+"https://doi.org/10.6028/jres.017.014",
+"existing R879"
+],
+[
+"https://doi.org/10.14359/16023",
+"existing R1683"
+],
+[
+"https://doi.org/10.1002/jctb.5010120906",
+"existing R1996"
+],
+[
+"https://doi.org/10.1016/s0008-8846(00)00213-1",
+"existing R2553"
+],
+[
+"https://doi.org/10.1016/0008-8846(83)90052-2",
+"existing R1987"
+],
+[
+"https://doi.org/10.1016/0008-8846(88)90014-2",
+"existing R2548"
+],
+[
+"https://doi.org/10.1016/0008-8846(80)90032-0",
+"existing R1947"
+],
+[
+"https://doi.org/10.1016/0008-8846(89)90004-5",
+"existing R1965"
+],
+[
+"https://doi.org/10.1016/0008-8846(83)90111-4",
+"existing R1977"
+],
+[
+"https://doi.org/10.2113/gsecongeo.46.3.311",
+"existing R1598"
+],
+[
+"https://doi.org/10.1680/macr.1963.15.45.131",
+"existing R2052"
+],
+[
+"https://doi.org/10.1016/0008-8846(76)90127-7",
+"existing R2059"
+],
+[
+"https://doi.org/10.1016/0008-8846(76)90007-7",
+"existing R347"
+],
+[
+"https://doi.org/10.1007/bf02486267",
+"existing R348"
+],
+[
+"https://doi.org/10.14359/10919",
+"existing R1483"
+],
+[
+"https://doi.org/10.1061/jsdeag.0003623",
+"existing R1932"
+],
+[
+"https://doi.org/10.1016/0008-8846(81)90111-3",
+"existing R1669"
+],
+[
+"https://doi.org/10.1680/aric.13179",
+"existing R1741"
+],
+[
+"https://doi.org/10.1016/0008-8846(86)90044-x",
+"existing R1684"
+],
+[
+"https://doi.org/10.1680/adcr.1987.1.1.35",
+"existing R1696"
+],
+[
+"https://doi.org/10.1680/adcr.1989.2.8.147",
+"existing R1702"
+],
+[
+"https://doi.org/10.14359/2599",
+"existing R1711"
+],
+[
+"https://doi.org/10.1111/j.1151-2916.1965.tb14786.x",
+"existing R1710"
+],
+[
+"https://doi.org/10.1680/adcr.1989.2.5.21",
+"existing R1717"
+],
+[
+"https://doi.org/10.1016/0008-8846(85)90044-4",
+"existing R1682"
+],
+[
+"https://doi.org/10.1680/macr.1988.40.144.177",
+"existing R1690"
+],
+[
+"https://doi.org/10.14359/8435",
+"existing R1695"
+],
+[
+"https://doi.org/10.1680/iicep.1967.8472",
+"existing R1693"
+],
+[
+"https://doi.org/10.1016/0008-8846(81)90017-x",
+"existing R1981"
+],
+[
+"https://doi.org/10.1016/0008-8846(82)90101-6",
+"existing R1825"
+],
+[
+"https://doi.org/10.14359/15302",
+"existing R1665"
+],
+[
+"https://doi.org/10.14359/15304",
+"existing-title R1665"
+],
+[
+"https://doi.org/10.1016/0008-8846(81)90033-8",
+"existing R1939"
+],
+[
+"https://doi.org/10.1520/cca10258j",
+"existing R1556"
+],
+[
+"https://doi.org/10.6028/nbs.ir.80-2012",
+"existing R1714"
+],
+[
+"https://doi.org/10.1680/macr.1975.27.91.59",
+"existing R1557"
+],
+[
+"https://doi.org/10.1016/0148-9062(89)90530-5",
+"existing R1548"
+],
+[
+"https://doi.org/10.1680/macr.1989.41.147.51",
+"existing R1667"
+],
+[
+"https://openalex.org/w639154859",
+"existing-title R1526"
+],
+[
+"https://doi.org/10.14359/804",
+"existing R2541"
+],
+[
+"https://doi.org/10.14359/6991",
+"existing R1688"
+],
+[
+"https://doi.org/10.14359/11022",
+"existing R1689"
+],
+[
+"https://doi.org/10.14359/1848",
+"existing R1697"
+],
+[
+"https://doi.org/10.1680/iicep.1980.2377",
+"existing R1885"
+],
+[
+"https://doi.org/10.14359/11441",
+"existing R1729"
+],
+[
+"https://doi.org/10.14359/9886",
+"existing R647"
+],
+[
+"https://doi.org/10.1016/s0958-9465(98)00020-1",
+"existing R1579"
+],
+[
+"https://doi.org/10.1016/s0958-9465(98)00031-6",
+"existing R1686"
+],
+[
+"https://doi.org/10.1016/0008-8846(76)90099-5",
+"existing R1028"
+],
+[
+"https://doi.org/10.1016/0040-6031(88)87515-4",
+"existing R1982"
+],
+[
+"https://openalex.org/w2336539488",
+"candidate-title (1398, 'promoted')"
+],
+[
+"https://doi.org/10.1520/jte11684j",
+"existing R1701"
+],
+[
+"https://doi.org/10.1201/9781482296631-9",
+"existing R1704"
+],
+[
+"https://doi.org/10.1007/bf02472036",
+"existing R1672"
+],
+[
+"https://doi.org/10.1016/0008-8846(78)90056-x",
+"existing R1675"
+],
+[
+"https://openalex.org/w1517230398",
+"existing-title R1683"
+],
+[
+"https://doi.org/10.1016/0008-8846(81)90030-2",
+"existing R1694"
+],
+[
+"https://doi.org/10.1520/stp39404s",
+"existing R1703"
+],
+[
+"https://openalex.org/w1531648425",
+"existing-title R1462"
+],
+[
+"https://doi.org/10.1520/stp39406s",
+"existing R1712"
+],
+[
+"https://doi.org/10.1007/978-1-4615-8312-7_14",
+"existing R2089"
+],
+[
+"https://doi.org/10.14359/8781",
+"existing R1680"
+],
+[
+"https://doi.org/10.14359/11795",
+"existing R1523"
+],
+[
+"https://doi.org/10.1016/0262-5075(79)90004-6",
+"existing R767"
+],
+[
+"https://doi.org/10.14359/11794",
+"existing R1524"
+],
+[
+"https://doi.org/10.1038/184057a0b",
+"existing R2023"
+],
+[
+"https://doi.org/10.1680/iicep.1974.4055",
+"existing R2093"
+],
+[
+"https://doi.org/10.1680/macr.1960.12.34.27",
+"existing R2094"
+],
+[
+"https://doi.org/10.6028/nbs.mono.45",
+"existing R1719"
+],
+[
+"https://doi.org/10.14359/7489",
+"existing R1720"
+],
+[
+"https://doi.org/10.1016/0008-8846(75)90004-6",
+"existing R1700"
+],
+[
+"https://doi.org/10.14359/8598",
+"existing R2022"
+],
+[
+"https://doi.org/10.1016/0008-8846(85)90116-4",
+"existing R2030"
+],
+[
+"https://doi.org/10.1016/0008-8846(75)90025-3",
+"existing R2041"
+],
+[
+"https://doi.org/10.1016/0008-8846(75)90026-5",
+"existing R2054"
+],
+[
+"https://doi.org/10.14359/8788",
+"existing R2055"
+],
+[
+"https://doi.org/10.1180/minmag.1978.042.322.27",
+"existing R2097"
+],
+[
+"https://doi.org/10.1016/0016-0032(48)90024-6",
+"existing-title R1683"
+],
+[
+"https://doi.org/10.14359/8445",
+"existing R2107"
+],
+[
+"https://doi.org/10.1016/j.rser.2012.07.019",
+"existing R1284"
+],
+[
+"https://doi.org/10.1007/s10853-006-0401-4",
+"existing R2116"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2012.09.006",
+"existing R267"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2010.09.013",
+"existing R266"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2005.07.001",
+"existing R2255"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2011.03.019",
+"existing R1568"
+],
+[
+"https://doi.org/10.1061/%28asce%29",
+"existing-title R1283"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2011.07.007",
+"existing R2545"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2024.136141",
+"existing R2136"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2023.134760",
+"existing R2142"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2005.09.006",
+"existing R1528"
+],
+[
+"https://doi.org/10.1016/j.jobe.2024.110800",
+"existing R223"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2011.07.007",
+"existing R2173"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2024.136906",
+"existing R553"
+],
+[
+"https://doi.org/10.1016/j.cemconres.2007.04.002",
+"existing R2123"
+],
+[
+"https://doi.org/10.1021/es800049r",
+"existing R1496"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2009.04.006",
+"existing R1515"
+],
+[
+"https://doi.org/10.1016/j.conbuildmat.2011.05.005",
+"existing R2302"
+],
+[
+"https://doi.org/10.1038/s41598-024-61688-x",
+"existing R2140"
+],
+[
+"https://doi.org/10.1016/j.cemconcomp.2012.01.004",
+"existing R1779"
+]
+]

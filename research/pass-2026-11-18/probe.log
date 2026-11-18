@@ -1,0 +1,85 @@
+Counter({'fail': 32, 'skipped-host': 32, 'ok': 20})
+96 fail 000 https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/c 0.0
+100 fail 500 http://cement.org/bookstore/supporting/cd100/EB001Frt.pd 0.0
+102 fail 500 http://hdl.handle.net/2142/4277 0.0
+103 skipped-host  0
+111 fail 500 http://resolver.tudelft.nl/uuid:746aba89-3566-4ade-9931- 0.0
+112 skipped-host  0
+116 fail 500 http://infoscience.epfl.ch/record/27670 0.0
+118 skipped-host  0
+123 skipped-host  0
+155 skipped-host  0
+160 ok 200 https://nrc-publications.canada.ca/eng/view/object/?id=4 1.0
+167 skipped-host  0
+170 skipped-host  0
+174 fail 500 http://bibciv.ucla.edu.ve/cgi-win/be_alex.exe?Acceso=T07 0.0
+178 ok 200 https://www.concrete.org/publications/internationalconcr 1.0
+179 skipped-host  0
+186 skipped-host  0
+191 ok 200 https://www.concrete.org/publications/internationalconcr 0.75
+193 skipped-host  0
+196 skipped-host  0
+197 skipped-host  0
+198 skipped-host  0
+202 skipped-host  0
+219 skipped-host  0
+281 skipped-host  0
+347 skipped-host  0
+357 skipped-host  0
+395 fail 500 http://extras.springer.com/2007/978-1-4020-6250-6/docume 0.0
+471 skipped-host  0
+472 ok 200 https://library.nusaputra.ac.id/index.php?p=show_detail& 1.0
+473 fail 429 https://mediatum.ub.tum.de/1255059 0.0
+478 ok 200 https://repositorio.usp.br/item/000923678 1.0
+480 ok 200 https://www.redalyc.org/articulo.oa?id=361233550004 1.0
+482 ok 200 https://revistas.unal.edu.co/index.php/dyna/article/view 1.0
+483 fail 500 http://hdl.handle.net/10171/17515 0.0
+484 fail 500 http://hdl.handle.net/10486/13323 0.0
+488 ok 200 https://ajsr.aut.ac.ir/article_2601.html 1.0
+489 fail 500 http://www.ijear.org/vol4/spl2/ec0044.pdf 0.0
+491 skipped-host  0
+492 skipped-host  0
+493 skipped-host  0
+494 fail 200 https://hal.science/tel-05014604v1 0.0
+495 fail 500 http://infoscience.epfl.ch/record/64190 0.0
+496 fail 500 http://www.theses.fr/1992ORLE2001 0.0
+497 skipped-host  0
+498 fail 500 http://www.theses.fr/1995ISAL0092 0.0
+499 fail 500 http://casopis-gradjevinar.hr/assets/Uploads/JCE-61-2009 0.0
+502 fail 500 http://www.casopis-gradjevinar.hr/assets/Uploads/JCE-56- 0.0
+512 ok 200 https://ojs3.mtak.hu/index.php/vedelemtudomany/article/v 1.0
+513 ok 200 https://digilib.unrika.ac.id/index.php?p=show_detail&id= 1.0
+514 fail 500 http://library.polsri.ac.id/index.php?p=show_detail&id=9 0.0
+515 fail 500 http://katalog.pustaka.unand.ac.id//index.php?p=show_det 0.0
+517 ok 200 https://library.itats.ac.id/index.php?p=show_detail&id=1 1.0
+518 fail 403 https://www.neliti.com/publications/130866/pengujian-kua 0.0
+520 skipped-host  0
+521 fail 203 https://pubmed.ncbi.nlm.nih.gov/5288060/ 0.0
+522 skipped-host  0
+528 ok 200 https://repositorio.usp.br/item/000878402 1.0
+530 fail 500 http://hdl.handle.net/10183/21839 0.0
+532 ok 200 https://repositorio.usp.br/item/001132158 1.0
+534 fail 200 https://solacolu.chim.upb.ro/p276-284w.pdf 0.0
+535 fail 500 http://solacolu.chim.upb.ro/pag_219_228web.pdf 0.0
+536 fail 500 http://solacolu.chim.upb.ro/pg17-24web.pdf 0.0
+537 fail 403 https://ibn.idsi.md/vizualizare_articol/111617 0.0
+542 ok 200 https://jeen.fei.tuke.sk/index.php/jeen/article/view/423 1.0
+545 fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:naturvardsverket 0.0
+546 ok 200 https://lup.lub.lu.se/search/publication/1273812 1.0
+547 fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133 0.0
+548 ok 200 https://lup.lub.lu.se/search/publication/1300142 1.0
+549 ok 200 https://lup.lub.lu.se/search/publication/633736 1.0
+550 fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194 0.0
+551 fail 200 https://cyberleninka.ru/article/n/vysokoprochnyy-samoupl 0.0
+560 skipped-host  0
+561 skipped-host  0
+562 skipped-host  0
+564 skipped-host  0
+565 skipped-host  0
+566 skipped-host  0
+577 ok 200 https://digitalcommons.usf.edu/etd/2542/ 1.0
+578 fail 403 https://rosap.ntl.bts.gov/view/dot/49997 0.0
+589 skipped-host  0
+594 fail 500 http://ntlsearch.bts.gov/ntl/md.do?id=46499 0.0
+603 ok 200 https://digitalcommons.unl.edu/ndor/25/ 1.0
+614 ok 200 https://publications.iowa.gov/54279/1/PCC2_ocr_red_.pdf 0.88

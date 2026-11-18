@@ -1,0 +1,512 @@
+[
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller-compacted concrete [page 2]",
+  "period": ":2000",
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "roller compacted concrete [page 2]",
+  "period": "2001:2026",
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "mass concrete [page 2]",
+  "period": ":1990",
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "mass concrete [page 2]",
+  "period": "1991:2026",
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "concrete dam [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "thermal cracking massive concrete [page 2]",
+  "period": null,
+  "n": 5
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "pipe cooling concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "hydration heat temperature rise concrete [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "cemented material dam [page 2]",
+  "period": null,
+  "n": 9
+ },
+ {
+  "topic": "concrete-mass-rcc",
+  "query": "delayed ettringite formation [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "heavyweight concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "radiation shielding concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "barite concrete [page 2]",
+  "period": null,
+  "n": 22
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "magnetite concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "neutron shielding concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "nuclear concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "high density concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "concrete-heavyweight",
+  "query": "gamma ray attenuation concrete [page 2]",
+  "period": null,
+  "n": 16
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "foamed concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "aerated concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "cellular concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "lightweight foamed concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-cellular",
+  "query": "tobermorite autoclaved [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "expansive cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "shrinkage compensating concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "rapid hardening cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "calcium aluminate cement [page 2]",
+  "period": ":2000",
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "ultrafine cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "quick setting cement [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "supersulfated cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "dental cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-specialty",
+  "query": "sorel cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "shotcrete [page 2]",
+  "period": ":1995",
+  "n": 24
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "shotcrete [page 2]",
+  "period": "1996:2012",
+  "n": 25
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "sprayed concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "accelerator shotcrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "tunnel lining shotcrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "dry-mix shotcrete [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "concrete-shotcrete",
+  "query": "gunite [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "masonry cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "white portland cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "lime mortar [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "historic mortar [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "masonry mortar [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "hydraulic lime [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-white-masonry",
+  "query": "Roman concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-well",
+  "query": "oil well cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-well",
+  "query": "well cementing [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "binder-well",
+  "query": "cement slurry [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-well",
+  "query": "geothermal well cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement India [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement Africa [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement Brazil [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement Japan [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement industry China [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement Australia [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-international",
+  "query": "cement Mexico [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "natural pozzolan [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "volcanic ash cement [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "scm-natural",
+  "query": "pumice concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "rice husk ash [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "zeolite cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "diatomite cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "trass [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "bagasse ash [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-natural",
+  "query": "palm oil fuel ash [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-clay",
+  "query": "metakaolin [page 2]",
+  "period": ":2008",
+  "n": 25
+ },
+ {
+  "topic": "scm-clay",
+  "query": "metakaolin [page 2]",
+  "period": "2009:2026",
+  "n": 25
+ },
+ {
+  "topic": "scm-clay",
+  "query": "calcined clay [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-clay",
+  "query": "calcined clay cement durability [page 2]",
+  "period": null,
+  "n": 11
+ },
+ {
+  "topic": "scm-clay",
+  "query": "kaolinite thermal activation [page 2]",
+  "period": null,
+  "n": 2
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "cement market [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "cement plant fuel alternative [page 2]",
+  "period": null,
+  "n": 10
+ },
+ {
+  "topic": "cross-supply-region",
+  "query": "cement demand [page 2]",
+  "period": null,
+  "n": 22
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "concrete failure investigation [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "structural collapse concrete [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "forensic concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-failure-repair",
+  "query": "concrete deterioration case study [page 2]",
+  "period": null,
+  "n": 16
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete placing [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete pumping [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "cross-construction",
+  "query": "formwork pressure concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "cross-construction",
+  "query": "hot weather concreting [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-construction",
+  "query": "cold weather concreting [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete curing [page 2]",
+  "period": ":2000",
+  "n": 25
+ },
+ {
+  "topic": "cross-construction",
+  "query": "concrete finishing [page 2]",
+  "period": null,
+  "n": 25
+ }
+]

@@ -1,0 +1,90 @@
+p2 concrete-mass-rcc roller-compacted concrete 25
+p2 concrete-mass-rcc roller compacted concrete 25
+p2 concrete-mass-rcc mass concrete 25
+p2 concrete-mass-rcc mass concrete 25
+p2 concrete-mass-rcc concrete dam 25
+p2 concrete-mass-rcc thermal cracking massive concrete 5
+p2 concrete-mass-rcc pipe cooling concrete 25
+p2 concrete-mass-rcc hydration heat temperature rise concrete 0
+p2 concrete-mass-rcc cemented material dam 9
+p2 concrete-mass-rcc delayed ettringite formation 25
+p2 concrete-heavyweight heavyweight concrete 25
+p2 concrete-heavyweight radiation shielding concrete 25
+p2 concrete-heavyweight barite concrete 22
+p2 concrete-heavyweight magnetite concrete 24
+p2 concrete-heavyweight neutron shielding concrete 25
+p2 concrete-heavyweight nuclear concrete 24
+p2 concrete-heavyweight high density concrete 24
+p2 concrete-heavyweight gamma ray attenuation concrete 16
+p2 concrete-cellular foamed concrete 25
+p2 concrete-cellular aerated concrete 25
+p2 concrete-cellular cellular concrete 25
+p2 concrete-cellular lightweight foamed concrete 25
+p2 concrete-cellular tobermorite autoclaved 0
+p2 binder-specialty expansive cement 25
+p2 binder-specialty shrinkage compensating concrete 25
+p2 binder-specialty rapid hardening cement 25
+p2 binder-specialty calcium aluminate cement 25
+p2 binder-specialty ultrafine cement 25
+p2 binder-specialty quick setting cement 0
+p2 binder-specialty supersulfated cement 25
+p2 binder-specialty dental cement 25
+p2 binder-specialty sorel cement 25
+p2 concrete-shotcrete shotcrete 24
+p2 concrete-shotcrete shotcrete 25
+p2 concrete-shotcrete sprayed concrete 25
+p2 concrete-shotcrete accelerator shotcrete 25
+p2 concrete-shotcrete tunnel lining shotcrete 25
+p2 concrete-shotcrete dry-mix shotcrete 23
+p2 concrete-shotcrete gunite 25
+p2 binder-white-masonry masonry cement 25
+p2 binder-white-masonry white portland cement 25
+p2 binder-white-masonry lime mortar 25
+p2 binder-white-masonry historic mortar 25
+p2 binder-white-masonry masonry mortar 24
+p2 binder-white-masonry hydraulic lime 25
+p2 binder-white-masonry Roman concrete 25
+p2 binder-well oil well cement 25
+p2 binder-well well cementing 23
+p2 binder-well cement slurry 25
+p2 binder-well geothermal well cement 25
+p2 binder-international cement India 25
+p2 binder-international cement Africa 25
+p2 binder-international cement Brazil 25
+p2 binder-international cement Japan 25
+p2 binder-international cement industry China 25
+p2 binder-international cement Australia 25
+p2 binder-international cement Mexico 25
+p2 scm-natural natural pozzolan 25
+p2 scm-natural volcanic ash cement 24
+p2 scm-natural pumice concrete 25
+p2 scm-natural rice husk ash 25
+p2 scm-natural zeolite cement 25
+p2 scm-natural diatomite cement 25
+p2 scm-natural trass 25
+p2 scm-natural bagasse ash 25
+p2 scm-natural palm oil fuel ash 25
+p2 scm-clay metakaolin 25
+p2 scm-clay metakaolin 25
+p2 scm-clay calcined clay 25
+p2 scm-clay calcined clay cement durability 11
+p2 scm-clay kaolinite thermal activation 2
+p2 cross-supply-region cement market 24
+p2 cross-supply-region cement plant fuel alternative 10
+p2 cross-supply-region cement demand 22
+p2 cross-failure-repair concrete failure investigation 25
+p2 cross-failure-repair structural collapse concrete 0
+p2 cross-failure-repair forensic concrete 25
+p2 cross-failure-repair concrete deterioration case study 16
+p2 cross-construction concrete placing 25
+p2 cross-construction concrete pumping 24
+p2 cross-construction formwork pressure concrete 24
+p2 cross-construction hot weather concreting 25
+p2 cross-construction cold weather concreting 23
+p2 cross-construction concrete curing 25
+p2 cross-construction concrete finishing 25
+seeds 628
+refs 1196
+backward 684
+forward 231
+2813

@@ -1,0 +1,102 @@
+[
+ {
+  "idx": 137,
+  "key": "https://doi.org/10.14359/6684",
+  "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=6684",
+  "title": "Pozzolanic and Cementitious Byproducts as Mineral Admixtures for Concrete - A Critical Review",
+  "doi": "https://doi.org/10.14359/6684",
+  "status": "ok",
+  "http": "200 https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=6684",
+  "match": 1.0
+ },
+ {
+  "idx": 284,
+  "key": "https://doi.org/10.14359/6616",
+  "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6616",
+  "title": "The Effects of Nuclear Radiation on the Mechanical Properties of Concrete",
+  "doi": "https://doi.org/10.14359/6616",
+  "status": "ok",
+  "http": "200 https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6616",
+  "match": 1.0
+ },
+ {
+  "idx": 368,
+  "key": "https://doi.org/10.14359/17303",
+  "url": "https://ci.nii.ac.jp/naid/80013280729",
+  "title": "Horizontal Construction Joints in Cast-In-Place Reinforced Concrete",
+  "doi": "https://doi.org/10.14359/17303",
+  "status": "fail",
+  "http": "202 https://cir.nii.ac.jp/crid/1571698601416836992",
+  "match": 0.0
+ },
+ {
+  "idx": 485,
+  "key": "https://doi.org/10.22060/ceej.2017.12224.5151",
+  "url": "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+  "title": "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading",
+  "doi": "https://doi.org/10.22060/ceej.2017.12224.5151",
+  "status": "fail",
+  "http": "200 https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+  "match": 0.0
+ },
+ {
+  "idx": 486,
+  "key": "https://doi.org/10.22091/cer.2024.10881.1559",
+  "url": "https://doaj.org/article/a838a09c84104d3a8eeeecefe809034f",
+  "title": "Experimental Investigation of the Effect of Mold Type and Mold Oil on the Physical Characteristics of Self-Compacting Concrete",
+  "doi": "https://doi.org/10.22091/cer.2024.10881.1559",
+  "status": "fail",
+  "http": "403 https://doaj.org/article/a838a09c84104d3a8eeeecefe809034f",
+  "match": 0.125
+ },
+ {
+  "idx": 487,
+  "key": "https://doi.org/10.22071/gsj.2016.42136",
+  "url": "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+  "title": "A Criterion for Selection of Natural Aggregates in Concrete",
+  "doi": "https://doi.org/10.22071/gsj.2016.42136",
+  "status": "fail",
+  "http": "200 https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+  "match": 0.0
+ },
+ {
+  "idx": 519,
+  "key": "https://doi.org/10.32502/jbearing.v5i4.1681",
+  "url": "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+  "title": "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON",
+  "doi": "https://doi.org/10.32502/jbearing.v5i4.1681",
+  "status": "fail",
+  "http": "403 https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+  "match": 0.0
+ },
+ {
+  "idx": 563,
+  "key": "https://doi.org/10.16198/j.cnki.1009-640x.2016.04.011",
+  "url": "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+  "title": "Impacts of bentonite and cement mixing ratio on deformation characteristics of plastic concrete",
+  "doi": "https://doi.org/10.16198/j.cnki.1009-640x.2016.04.011",
+  "status": "fail",
+  "http": "403 https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+  "match": 0.0
+ },
+ {
+  "idx": 573,
+  "key": "https://doi.org/10.3303/cet1335117",
+  "url": "https://www.cetjournal.it/index.php/cet/article/view/CET1335117",
+  "title": "CO2 Emission Reduction in the Cement Industry",
+  "doi": "https://doi.org/10.3303/cet1335117",
+  "status": "ok",
+  "http": "200 https://www.cetjournal.it/index.php/cet/article/view/CET1335117",
+  "match": 1.0
+ },
+ {
+  "idx": 606,
+  "key": "https://doi.org/10.6135/ijprt.org.tw/2010.3(5).228",
+  "url": "https://trid.trb.org/view/987334",
+  "title": "Use of Low-CO2 Portland Limestone Cement for Pavement Construction in Canada",
+  "doi": "https://doi.org/10.6135/ijprt.org.tw/2010.3(5).228",
+  "status": "fail",
+  "http": "000 https://trid.trb.org/view/987334",
+  "match": 0.0
+ }
+]
