@@ -1,0 +1,590 @@
+[
+ {
+  "topic": "concrete-lightweight",
+  "query": "lightweight concrete [page 2]",
+  "period": ":2000",
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "lightweight concrete [page 2]",
+  "period": "2001:2026",
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "expanded shale [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "expanded perlite concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "scoria aggregate [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "oil palm shell concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "polystyrene concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "cenosphere [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "lightweight self-compacting concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "artificial lightweight aggregate [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "no-fines concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-lightweight",
+  "query": "vermiculite concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "high alumina cement [page 2]",
+  "period": "1996:2026",
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "aluminous cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "monocalcium aluminate [page 2]",
+  "period": null,
+  "n": 10
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "ye'elimite [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "calcium sulfoaluminate [page 2]",
+  "period": "2016:2026",
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "sulfoaluminate clinker [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "ettringite formation expansion [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "binder-cac-csa",
+  "query": "calcium aluminate cement hydration [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "limestone calcined clay [page 2]",
+  "period": "2023:2026",
+  "n": 25
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "LC3 concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "ternary limestone metakaolin [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "calcined clay carbonation [page 2]",
+  "period": null,
+  "n": 6
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "calcined clay chloride [page 2]",
+  "period": null,
+  "n": 18
+ },
+ {
+  "topic": "binder-lc3",
+  "query": "low grade calcined clay [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "magnesium oxysulfate cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "magnesium potassium phosphate [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "MgO cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "CO2 curing [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "accelerated carbonation curing [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "wollastonite carbonation [page 2]",
+  "period": null,
+  "n": 20
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "calcium silicate carbonation [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-magnesium-carbonatable",
+  "query": "magnesia cement [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "scm-silica",
+  "query": "microsilica [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-silica",
+  "query": "silica fume [page 2]",
+  "period": ":2000",
+  "n": 25
+ },
+ {
+  "topic": "scm-silica",
+  "query": "silica fume [page 2]",
+  "period": "2001:2026",
+  "n": 25
+ },
+ {
+  "topic": "scm-silica",
+  "query": "nano silica concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-silica",
+  "query": "colloidal silica cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-silica",
+  "query": "densified silica fume [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "scm-silica",
+  "query": "silica fume mortar [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "slag cement [page 2]",
+  "period": ":1990",
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "slag cement [page 2]",
+  "period": "1991:2026",
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "ground granulated blast furnace slag [page 2]",
+  "period": ":2005",
+  "n": 23
+ },
+ {
+  "topic": "scm-slag",
+  "query": "ground granulated blast furnace slag [page 2]",
+  "period": "2006:2026",
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "GGBS concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "slag hydration [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "scm-slag",
+  "query": "copper slag concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-slag",
+  "query": "slag concrete durability [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "scm-slag",
+  "query": "steel slag aggregate [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "ferronickel slag [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "waste glass concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "coal gangue cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "phosphogypsum cement [page 2]",
+  "period": null,
+  "n": 23
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "ceramic waste powder [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "recycled concrete powder [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "biochar cement [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "sewage sludge ash [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "marble powder concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "scm-emerging",
+  "query": "eggshell powder [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-blended",
+  "query": "blended cement [page 2]",
+  "period": ":1995",
+  "n": 25
+ },
+ {
+  "topic": "binder-blended",
+  "query": "blended cement [page 2]",
+  "period": "1996:2026",
+  "n": 21
+ },
+ {
+  "topic": "binder-blended",
+  "query": "ternary blended [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "binder-blended",
+  "query": "portland pozzolan cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-blended",
+  "query": "composite cement [page 2]",
+  "period": ":2010",
+  "n": 25
+ },
+ {
+  "topic": "binder-blended",
+  "query": "multi-component cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "binder-blended",
+  "query": "blended cement hydration [page 2]",
+  "period": null,
+  "n": 21
+ },
+ {
+  "topic": "binder-blended",
+  "query": "pozzolanic cement [page 2]",
+  "period": ":1990",
+  "n": 19
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "reinforced concrete beams [page 2]",
+  "period": ":1990",
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "prestressed concrete [page 2]",
+  "period": ":1980",
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "punching shear [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "reinforced concrete columns confinement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "bond reinforcing bars concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "creep of concrete [page 2]",
+  "period": null,
+  "n": 24
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "precast concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "post-tensioned concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "reinforced concrete shear walls [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "concrete-structural",
+  "query": "high strength concrete columns [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "rebound hammer [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "concrete core strength [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "chloride migration test [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "water permeability concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "freeze-thaw test [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "Eurocode 2 [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "ACI 318 [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "building code concrete [page 2]",
+  "period": null,
+  "n": 22
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "slump test [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "specimen size compressive strength concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-tests-codes",
+  "query": "acceptance testing concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "cement industry CO2 [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "clinker substitution [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "environmental product declaration [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "carbon footprint concrete [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "CO2 uptake carbonation concrete [page 2]",
+  "period": null,
+  "n": 0
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "cement decarbonization [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "waste heat recovery cement [page 2]",
+  "period": null,
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "concrete recycling [page 2]",
+  "period": ":2005",
+  "n": 25
+ },
+ {
+  "topic": "cross-environment-cost",
+  "query": "cost analysis concrete [page 2]",
+  "period": null,
+  "n": 24
+ }
+]

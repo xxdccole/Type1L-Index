@@ -1,0 +1,22 @@
+[
+ {
+  "idx": "482",
+  "key": "https://doi.org/10.18720/mce.75.4",
+  "url": "https://engstroy.spbstu.ru/article/2017.75.4/",
+  "title": "Cвойства центрифугированного бетона опор линий электропередач",
+  "doi": "https://doi.org/10.18720/mce.75.4",
+  "status": "ok",
+  "http": "200 https://engstroy.spbstu.ru/article/2017.75.4/",
+  "match": "1.0"
+ },
+ {
+  "idx": "489",
+  "key": "https://doi.org/10.18400/td.12199",
+  "url": "https://dergipark.org.tr/tr/pub/tekderg/article/155419",
+  "title": "Sarılmış Betonarme Kesitlerde Moment-Eğrilik İlişkisi Analitik Bir İrdeleme",
+  "doi": "https://doi.org/10.18400/td.12199",
+  "status": "ok",
+  "http": "200 https://dergipark.org.tr/tr/pub/tekderg/article/155419",
+  "match": "1.0"
+ }
+]

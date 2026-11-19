@@ -1,0 +1,96 @@
+Counter({'fail': 58, 'ok': 28, 'skipped-host': 9})
+0 ok 200 https://ci.nii.ac.jp/ncid/BB19117784 1.0
+97 fail 200 https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/c 0.0
+101 fail 404 https://www.cement.org/bookstore/supporting/cd100/EB001F 1.0
+104 ok 200 https://lup.lub.lu.se/search/publication/1272935 1.0
+109 ok 200 https://ci.nii.ac.jp/ncid/BA01428594 1.0
+114 fail 403 https://www.sciencedirect.com/science/book/9780815513735 0.17
+117 fail 202 https://cir.nii.ac.jp/crid/1573950399118825344 0.0
+123 ok 200 https://ci.nii.ac.jp/ncid/BA09883663 1.0
+133 fail 202 https://cir.nii.ac.jp/crid/1571980074056924288 0.0
+137 fail 202 https://cir.nii.ac.jp/crid/1573950398991739776 0.0
+138 ok 200 https://ci.nii.ac.jp/ncid/BA04388984 1.0
+153 fail 202 https://cir.nii.ac.jp/crid/1573950398992673664 0.0
+154 skipped-host  0
+157 fail 200 https://ri.diva-portal.org/smash/record.jsf?pid=diva2:96 0.0
+166 skipped-host  0
+167 skipped-host  0
+175 skipped-host  0
+178 fail 202 https://cir.nii.ac.jp/crid/1570572699263573248 0.0
+200 ok 200 https://ci.nii.ac.jp/ncid/BB2014775X 1.0
+202 fail 202 https://cir.nii.ac.jp/crid/1571135649372256128 0.0
+203 ok 200 https://ci.nii.ac.jp/ncid/BA11359465 1.0
+282 fail 000 https://fipak.areeo.ac.ir/site/catalogue/18325476 0.0
+286 ok 200 https://ci.nii.ac.jp/ncid/BA06996277 1.0
+295 fail 200 https://infoscience.epfl.ch/lucky-search?index=legacy-id 0.0
+325 fail 200 https://www.concrete.org/securedsignin.aspx?returnurl=/p 0.33
+326 fail 500 https://hdl.handle.net/10068/668026 0.0
+331 fail 403 https://rosap.ntl.bts.gov/view/dot/26387 0.0
+335 ok 200 https://ci.nii.ac.jp/ncid/BB03244705 1.0
+393 fail 200 https://dk.upce.cz/handle/10195/48740 0.0
+394 fail 200 https://dspace.vut.cz/handle/11012/69186 0.0
+395 fail 200 https://dspace.cvut.cz/handle/10467/83466 0.0
+397 fail 200 https://dk.upce.cz/handle/10195/60270 0.0
+398 fail 200 https://dspace.vut.cz/handle/11012/35402 0.0
+399 ok 200 https://orbit.dtu.dk/en/publications/nogle-plasticitetst 1.0
+402 ok 200 https://vbn.aau.dk/da/publications/vinterst%C3%B8bning-a 1.0
+403 ok 200 https://orbit.dtu.dk/en/publications/impr%C3%A6gneringsm 1.0
+404 fail 200 https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_Jo 0.0
+405 ok 200 https://orbit.dtu.dk/en/publications/holdbarhed-af-fiber 1.0
+408 fail 200 https://publications.rwth-aachen.de/record/69184 0.0
+417 ok 200 https://docta.ucm.es/entities/publication/894ae7fe-355e- 1.0
+418 fail 502 https://www.redalyc.org/articulo.oa?id=361233555001 0.0
+419 fail 404 https://dspace.ucuenca.edu.ec/handle/123456789/2389 0.0
+420 fail 403 https://www.theseus.fi/handle/10024/912533 0.0
+421 fail 403 https://www.theseus.fi/handle/10024/915746 0.0
+422 fail 403 https://www.theseus.fi/handle/10024/919313 0.0
+423 fail 200 https://trepo.tuni.fi/handle/10024/236701 0.0
+424 fail 200 https://trepo.tuni.fi/handle/10024/238997 0.0
+425 fail 403 https://www.theseus.fi/handle/10024/883278 0.0
+426 fail 200 https://trepo.tuni.fi/handle/10024/226710 0.0
+428 fail 000 https://thesesups.ups-tlse.fr/1849/1/2012TOU30204.pdf 0.0
+430 fail 500 https://hdl.handle.net/10068/789357 0.0
+432 ok 200 https://re.public.polimi.it/handle/11311/567704 1.0
+433 fail 404 https://re.public.polimi.it/handle/11311/505633 0.0
+435 ok 200 https://aisberg.unibg.it/handle/10446/57260 1.0
+437 fail 202 https://cir.nii.ac.jp/crid/1573105974525476736 0.0
+439 fail 200 https://data.jci-net.or.jp/data_pdf/27/027-01-1022.pdf 0.0
+441 fail 202 https://cir.nii.ac.jp/crid/1573668924520573056 0.0
+442 fail 200 https://data.jci-net.or.jp/data_pdf/24/024-01-1010.pdf 0.0
+443 ok 200 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NOD 1.0
+447 ok 200 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciS 1.0
+450 skipped-host  0
+452 fail 404 https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elk 0.0
+457 skipped-host  0
+458 fail 200 https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6 0.0
+459 fail 200 https://nva.sikt.no/registration/019938405f83-5e5eb799-8 0.0
+460 fail 200 https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3 0.0
+461 fail 200 https://nva.sikt.no/registration/019933e9aca3-02e61ac4-0 0.0
+462 fail 200 https://www.diva-portal.org/smash/record.jsf?pid=diva2:4 0.0
+463 fail 200 https://nva.sikt.no/registration/019909babaed-bb7487e7-0 0.0
+464 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.b 0.0
+466 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.b 0.0
+467 fail 403 https://yadda.icm.edu.pl/baztech/element/bwmeta1.element 0.0
+468 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.b 0.0
+469 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.b 0.0
+470 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.b 0.0
+472 ok 200 https://repositorio.usp.br/item/000747896 1.0
+484 fail 200 https://dergipark.org.tr/en/download/article-file/236278 0.57
+485 ok 200 https://dergipark.org.tr/en/pub/ogummf/article/325286 1.0
+488 ok 200 https://avesis.uludag.edu.tr/publication/details/8e8efdb 1.0
+491 skipped-host  0
+492 skipped-host  0
+493 fail 403 https://doaj.org/article/007a9f363892471da29db11c337615a 0.0
+495 fail 403 https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eec 0.0
+501 fail 403 https://rosap.ntl.bts.gov/view/dot/14219 0.0
+504 skipped-host  0
+511 ok 200 https://kuscholarworks.ku.edu/entities/publication/354f9 1.0
+512 fail 403 https://rosap.ntl.bts.gov/view/dot/49997 0.0
+513 fail 403 https://www.ideals.illinois.edu/items/47589 0.0
+515 fail 403 https://repositories.lib.utexas.edu/handle/2152/31324 0.0
+516 ok 200 https://digital.lib.washington.edu/researchworks/items/5 1.0
+521 ok 200 https://utoronto.scholaris.ca/items/7179126f-52a3-4257-a 1.0
+526 ok 200 https://repository.tudelft.nl/record/uuid:93af1749-0b97- 1.0
+527 ok 200 https://repository.tudelft.nl/record/uuid:5a1e445b-36a7- 1.0
+528 ok 200 https://repository.tudelft.nl/record/uuid:df0fdbfa-5cde- 1.0
+529 ok 200 https://repository.tudelft.nl/record/uuid:e54870ba-7db7- 1.0

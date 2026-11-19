@@ -1,0 +1,830 @@
+[
+ {
+  "idx": 0,
+  "url": "https://ci.nii.ac.jp/ncid/BB19117784",
+  "title": "Recommendations for design and construction of High Performance Fiber Reinforced Cement Composites with Multiple Fine Cracks(HPFRCC)",
+  "http": "200 https://ci.nii.ac.jp/ncid/BB19117784",
+  "match": 1.0,
+  "size": 29256,
+  "status": "ok"
+ },
+ {
+  "idx": 97,
+  "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=676659",
+  "title": "PROPERTIES OF CONCRETE. 4TH AND FINAL EDITION",
+  "http": "200 https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=676659",
+  "match": 0.0,
+  "size": 11616,
+  "status": "fail"
+ },
+ {
+  "idx": 101,
+  "url": "https://cement.org/bookstore/supporting/cd100/EB001Frt.pdf",
+  "title": "Design and Control of Concrete Mixtures",
+  "http": "404 https://www.cement.org/bookstore/supporting/cd100/EB001Frt.pdf",
+  "match": 1.0,
+  "size": 43904,
+  "status": "fail"
+ },
+ {
+  "idx": 104,
+  "url": "https://lup.lub.lu.se/record/1272935",
+  "title": "Crack growth and development of fracture zones in plain concrete and similar materials",
+  "http": "200 https://lup.lub.lu.se/search/publication/1272935",
+  "match": 1.0,
+  "size": 15480,
+  "status": "ok"
+ },
+ {
+  "idx": 109,
+  "url": "https://ci.nii.ac.jp/ncid/BA01428594",
+  "title": "Chemistry and Technology of Lime and Limestone",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA01428594",
+  "match": 1.0,
+  "size": 31201,
+  "status": "ok"
+ },
+ {
+  "idx": 114,
+  "url": "https://www.sciencedirect.com/science/book/9780815513735",
+  "title": "Concrete admixtures handbook : properties, science, and technology",
+  "http": "403 https://www.sciencedirect.com/science/book/9780815513735",
+  "match": 0.16666666666666666,
+  "size": 120912,
+  "status": "fail"
+ },
+ {
+  "idx": 117,
+  "url": "https://ci.nii.ac.jp/naid/10005339903",
+  "title": "The Properties of Fresh Concrete",
+  "http": "202 https://cir.nii.ac.jp/crid/1573950399118825344",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 123,
+  "url": "https://ci.nii.ac.jp/ncid/BA09883663",
+  "title": "Materials science of concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA09883663",
+  "match": 1.0,
+  "size": 57684,
+  "status": "ok"
+ },
+ {
+  "idx": 133,
+  "url": "https://ci.nii.ac.jp/naid/10003275955",
+  "title": "MATURITY COMPUTER FOR CONTROLLED CURING AND HARDENING OF CONCRETE",
+  "http": "202 https://cir.nii.ac.jp/crid/1571980074056924288",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 137,
+  "url": "https://ci.nii.ac.jp/naid/10004174117",
+  "title": "The Response of Reinforced Concrete to In-Plane Shear and Normal Stresses",
+  "http": "202 https://cir.nii.ac.jp/crid/1573950398991739776",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 138,
+  "url": "https://ci.nii.ac.jp/ncid/BA04388984",
+  "title": "Fly Ash in Cement and Concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA04388984",
+  "match": 1.0,
+  "size": 26304,
+  "status": "ok"
+ },
+ {
+  "idx": 153,
+  "url": "https://ci.nii.ac.jp/naid/10004005526",
+  "title": "Structures and Physical Properties of Cement Paste",
+  "http": "202 https://cir.nii.ac.jp/crid/1573950398992673664",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 154,
+  "url": "https://trid.trb.org/view/98137",
+  "title": "STEEL CORROSION IN CONCRETE -- HOW DOES IT OCCUR?",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 157,
+  "url": "https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-2816",
+  "title": "Plain concrete at early ages",
+  "http": "200 https://ri.diva-portal.org/smash/record.jsf?pid=diva2:960421",
+  "match": 0.0,
+  "size": 2070,
+  "status": "fail"
+ },
+ {
+  "idx": 166,
+  "url": "https://trid.trb.org/view.aspx?id=280156",
+  "title": "A REVIEW OF CARBONATION IN REINFORCED CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 167,
+  "url": "https://trid.trb.org/view.aspx?id=171158",
+  "title": "RAPID DETERMINATION OF THE CHLORIDE PERMEABILITY OF CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 175,
+  "url": "https://trid.trb.org/view/1167775",
+  "title": "High Reactivity Metakaolin (HRM): A New Generation Mineral Admixture for High Performance Concrete",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 178,
+  "url": "https://ci.nii.ac.jp/naid/10004745984",
+  "title": "LA PHASE LIQUIDE DU CIMENT HYDRATE",
+  "http": "202 https://cir.nii.ac.jp/crid/1570572699263573248",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 200,
+  "url": "https://ci.nii.ac.jp/ncid/BB2014775X",
+  "title": "\u00dcber die Grundlagen des Verbundes zwischen Stahl und Beton",
+  "http": "200 https://ci.nii.ac.jp/ncid/BB2014775X",
+  "match": 1.0,
+  "size": 26773,
+  "status": "ok"
+ },
+ {
+  "idx": 202,
+  "url": "https://ci.nii.ac.jp/naid/10005124963",
+  "title": "Rice Hush Ash-A Unique Supplementary Cementing Material",
+  "http": "202 https://cir.nii.ac.jp/crid/1571135649372256128",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 203,
+  "url": "https://ci.nii.ac.jp/ncid/BA11359465",
+  "title": "Composition and properties of concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA11359465",
+  "match": 1.0,
+  "size": 40751,
+  "status": "ok"
+ },
+ {
+  "idx": 282,
+  "url": "https://fipak.areeo.ac.ir/site/catalogue/18325476",
+  "title": "Creep of plain and structural concrete",
+  "http": "000 https://fipak.areeo.ac.ir/site/catalogue/18325476",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 286,
+  "url": "https://ci.nii.ac.jp/ncid/BA06996277",
+  "title": "Mathematical modeling of creep and shrinkage of concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA06996277",
+  "match": 1.0,
+  "size": 38834,
+  "status": "ok"
+ },
+ {
+  "idx": 295,
+  "url": "https://infoscience.epfl.ch/record/27670",
+  "title": "Creep and shrinkage in concrete structures",
+  "http": "200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=27670",
+  "match": 0.0,
+  "size": 17920,
+  "status": "fail"
+ },
+ {
+  "idx": 325,
+  "url": "https://www.concrete.org/publications/getarticle.aspx?m=ojs&pubID=51683017",
+  "title": "\"BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE (ACI 318-11) AND COMMENTARY\"",
+  "http": "200 https://www.concrete.org/securedsignin.aspx?returnurl=/publications/getarticle/m/ojs/pubID/51683017",
+  "match": 0.3333333333333333,
+  "size": 57928,
+  "status": "fail"
+ },
+ {
+  "idx": 326,
+  "url": "https://hdl.handle.net/10068/668026",
+  "title": "CONCISE EUROCODE FOR THE DESIGN OF CONCRETE BUILDINGS. BASED ON BSI PUBLICATION DD ENV 1992-1-1: 1992. EUROCODE 2: DESIGN OF CONCRETE STRUCTURES. PART 1: GENERAL RULES AND RULES FOR BUILDINGS",
+  "http": "500 https://hdl.handle.net/10068/668026",
+  "match": 0.0,
+  "size": 2565,
+  "status": "fail"
+ },
+ {
+  "idx": 331,
+  "url": "https://rosap.ntl.bts.gov/view/dot/26387",
+  "title": "Ultra-High Performance Concrete: A State-of-the-Art Report for the Bridge Community",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/26387",
+  "match": 0.0,
+  "size": 269,
+  "status": "fail"
+ },
+ {
+  "idx": 335,
+  "url": "https://ci.nii.ac.jp/ncid/BB03244705",
+  "title": "Notes on ACI 318-08, building code requirements for structural concrete : with design applications",
+  "http": "200 https://ci.nii.ac.jp/ncid/BB03244705",
+  "match": 1.0,
+  "size": 27978,
+  "status": "ok"
+ },
+ {
+  "idx": 393,
+  "url": "https://hdl.handle.net/10195/48740",
+  "title": "Vyu\u017eit\u00ed alkalicky aktivovan\u00fdch beton\u016f u mal\u00fdch mostn\u00edch objekt\u016f, v\u010detn\u011b pou\u017eit\u00ed u mal\u00fdch integrovan\u00fdch most\u016f",
+  "http": "200 https://dk.upce.cz/handle/10195/48740",
+  "match": 0.0,
+  "size": 2331,
+  "status": "fail"
+ },
+ {
+  "idx": 394,
+  "url": "https://dspace.vutbr.cz/handle/11012/69186",
+  "title": "Experiment\u00e1ln\u00ed stanoven\u00ed faktor\u016f ovliv\u0148uj\u00edc\u00edch statick\u00fd modul pru\u017enosti betonu s vyu\u017eit\u00edm nedestruktivn\u00edch zku\u0161ebn\u00edch metod",
+  "http": "200 https://dspace.vut.cz/handle/11012/69186",
+  "match": 0.0,
+  "size": 2070,
+  "status": "fail"
+ },
+ {
+  "idx": 395,
+  "url": "https://hdl.handle.net/10467/83466",
+  "title": "EXPERIMENT\u00c1LN\u00cd OV\u011a\u0158OV\u00c1N\u00cd PRVK\u016e Z TEXTILN\u00cdHO BETONU",
+  "http": "200 https://dspace.cvut.cz/handle/10467/83466",
+  "match": 0.0,
+  "size": 602,
+  "status": "fail"
+ },
+ {
+  "idx": 397,
+  "url": "https://hdl.handle.net/10195/60270",
+  "title": "Experiment\u00e1ln\u00ed porovn\u00e1n\u00ed metod destruktivn\u00edho a nedestruktivn\u00edho zkou\u0161en\u00ed beton\u016f a vl\u00e1knobeton\u016f",
+  "http": "200 https://dk.upce.cz/handle/10195/60270",
+  "match": 0.0,
+  "size": 2331,
+  "status": "fail"
+ },
+ {
+  "idx": 398,
+  "url": "https://dspace.vutbr.cz/handle/11012/35402",
+  "title": "Studium mo\u017enost\u00ed vyu\u017eit\u00ed kameniva z recyklovan\u00fdch beton\u016f pro v\u00fdrobu konstruk\u010dn\u00edch beton\u016f",
+  "http": "200 https://dspace.vut.cz/handle/11012/35402",
+  "match": 0.0,
+  "size": 2070,
+  "status": "fail"
+ },
+ {
+  "idx": 399,
+  "url": "https://orbit.dtu.dk/en/publications/nogle-plasticitetsteoretiske-beregninger-af-beton-og-jernbeton(7da3901f-1294-4226-86d1-4cb082182019)/export.html",
+  "title": "Nogle plasticitetsteoretiske beregninger af beton og jernbeton",
+  "http": "200 https://orbit.dtu.dk/en/publications/nogle-plasticitetsteoretiske-beregninger-af-beton-og-jernbeton/",
+  "match": 1.0,
+  "size": 16671,
+  "status": "ok"
+ },
+ {
+  "idx": 402,
+  "url": "https://vbn.aau.dk/da/publications/vinterst%C3%B8bning-af-beton-2",
+  "title": "Vinterst\u00f8bning af beton",
+  "http": "200 https://vbn.aau.dk/da/publications/vinterst%C3%B8bning-af-beton-2/",
+  "match": 1.0,
+  "size": 22100,
+  "status": "ok"
+ },
+ {
+  "idx": 403,
+  "url": "https://orbit.dtu.dk/en/publications/c897da69-57b6-4410-b374-698aff09c78d",
+  "title": "Impr\u00e6gneringsmidlers indvirkning p\u00e5 betons holdbarhed:Del 2: Unders\u00f8gelse af effekten af impr\u00e6gnering p\u00e5 kloridindtr\u00e6ngning i beton udsat for varierende kloridbelastning",
+  "http": "200 https://orbit.dtu.dk/en/publications/impr%C3%A6gneringsmidlers-indvirkning-p%C3%A5-betons-holdbarhed-del-2-under/",
+  "match": 1.0,
+  "size": 25950,
+  "status": "ok"
+ },
+ {
+  "idx": 404,
+  "url": "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+  "title": "Numerisk modellering af formfyldning ved st\u00f8bning i selvkompakterende beton",
+  "http": "200 https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+  "match": 0.0,
+  "size": 3610714,
+  "status": "fail"
+ },
+ {
+  "idx": 405,
+  "url": "https://orbit.dtu.dk/en/publications/holdbarhed-af-fiberarmeret-beton-eksperimentelle-undersoegelser(2cd9dd95-9961-49e6-b84a-d5b96825a5ae)/export.html",
+  "title": "Holdbarhed af fiberarmeret beton: Eksperimentelle unders\u00f8gelser",
+  "http": "200 https://orbit.dtu.dk/en/publications/holdbarhed-af-fiberarmeret-beton-eksperimentelle-unders%C3%B8gelser/",
+  "match": 1.0,
+  "size": 30876,
+  "status": "ok"
+ },
+ {
+  "idx": 408,
+  "url": "https://publications.rwth-aachen.de/record/69184",
+  "title": "Die Konsistenz von Zementleim, M\u00f6rtel und Beton und ihre zeitliche Ver\u00e4nderung",
+  "http": "200 https://publications.rwth-aachen.de/record/69184",
+  "match": 0.0,
+  "size": 131,
+  "status": "fail"
+ },
+ {
+  "idx": 417,
+  "url": "https://eprints.ucm.es/id/eprint/36531/1/T36973.pdf",
+  "title": "Valorizaci\u00f3n de residuos de construcci\u00f3n y demolici\u00f3n como puzolanas alternativas para cementos eco-eficientes",
+  "http": "200 https://docta.ucm.es/entities/publication/894ae7fe-355e-4a04-bf1a-12b67039aeb6",
+  "match": 1.0,
+  "size": 39579,
+  "status": "ok"
+ },
+ {
+  "idx": 418,
+  "url": "https://www.redalyc.org/articulo.oa?id=361233555001",
+  "title": "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOG\u00cdA DE PASTAS DE CEMENTO PORTlAND",
+  "http": "502 https://www.redalyc.org/articulo.oa?id=361233555001",
+  "match": 0.0,
+  "size": 360,
+  "status": "fail"
+ },
+ {
+  "idx": 419,
+  "url": "https://dspace.ucuenca.edu.ec/handle/123456789/2389",
+  "title": "Evaluaci\u00f3n del uso de arcillas y puzolanas en la etapa de molienda de acabado para la fabricaci\u00f3n de Cemento Portland Puzol\u00e1nico tipo IP",
+  "http": "404 https://dspace.ucuenca.edu.ec/handle/123456789/2389",
+  "match": 0.0,
+  "size": 128,
+  "status": "fail"
+ },
+ {
+  "idx": 420,
+  "url": "https://www.theseus.fi/handle/10024/912533",
+  "title": "L\u00e4p\u00e4isev\u00e4 betoni",
+  "http": "403 https://www.theseus.fi/handle/10024/912533",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 421,
+  "url": "https://www.theseus.fi/handle/10024/915746",
+  "title": "Tarjouslaskentaty\u00f6kalu PainavaPinta Oy:lle : Betoni- ja muottity\u00f6n urakkamenekkilaskuri",
+  "http": "403 https://www.theseus.fi/handle/10024/915746",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 422,
+  "url": "https://www.theseus.fi/handle/10024/919313",
+  "title": "V\u00e4h\u00e4hiilinen betoni voimalinjaelementtien tuotannossa Betroc Oy:ll\u00e4",
+  "http": "403 https://www.theseus.fi/handle/10024/919313",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 423,
+  "url": "https://trepo.tuni.fi/handle/10024/236701",
+  "title": "Ter\u00e4s\u2013betoni-liittov\u00e4lipohjan hiilijalanj\u00e4ljen pienent\u00e4minen",
+  "http": "200 https://trepo.tuni.fi/handle/10024/236701",
+  "match": 0.0,
+  "size": 2526,
+  "status": "fail"
+ },
+ {
+  "idx": 424,
+  "url": "https://trepo.tuni.fi/handle/10024/238997",
+  "title": "Rakennusmateriaalien uudelleenk\u00e4ytt\u00f6 Suomessa: Betoni, puu, tiili ja ter\u00e4s",
+  "http": "200 https://trepo.tuni.fi/handle/10024/238997",
+  "match": 0.0,
+  "size": 2526,
+  "status": "fail"
+ },
+ {
+  "idx": 425,
+  "url": "https://www.theseus.fi/handle/10024/883278",
+  "title": "Metropolia ja v\u00e4h\u00e4hiilinen betoni",
+  "http": "403 https://www.theseus.fi/handle/10024/883278",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 426,
+  "url": "https://trepo.tuni.fi/handle/10024/226710",
+  "title": "Siltarakenteiden korjaaminen: Betoni- ja ter\u00e4ssiltojen vertailu",
+  "http": "200 https://trepo.tuni.fi/handle/10024/226710",
+  "match": 0.0,
+  "size": 2526,
+  "status": "fail"
+ },
+ {
+  "idx": 428,
+  "url": "https://thesesups.ups-tlse.fr/1849/1/2012TOU30204.pdf",
+  "title": "Comportement au jeune \u00e2ge des structures en b\u00e9ton arm\u00e9 \u00e0 base de liants compos\u00e9s aux laitiers",
+  "http": "000 https://thesesups.ups-tlse.fr/1849/1/2012TOU30204.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 430,
+  "url": "https://hdl.handle.net/10068/789357",
+  "title": "Influence de la nature du liant et de la temp\u00e9rature sur le transport des chlorures dans les mat\u00e9riaux cimentaires",
+  "http": "500 https://hdl.handle.net/10068/789357",
+  "match": 0.0,
+  "size": 2565,
+  "status": "fail"
+ },
+ {
+  "idx": 432,
+  "url": "https://hdl.handle.net/11311/567704",
+  "title": "Tecnologia dei materiali: leganti e calcestruzzo",
+  "http": "200 https://re.public.polimi.it/handle/11311/567704",
+  "match": 1.0,
+  "size": 19057,
+  "status": "ok"
+ },
+ {
+  "idx": 433,
+  "url": "https://hdl.handle.net/11311/505633",
+  "title": "Tecnologia dei materiali: leganti e calcestruzzo - Nuova edizione",
+  "http": "404 https://re.public.polimi.it/handle/11311/505633",
+  "match": 0.0,
+  "size": 8983,
+  "status": "fail"
+ },
+ {
+  "idx": 435,
+  "url": "https://hdl.handle.net/10446/57260",
+  "title": "Qualificazione dei nuovi leganti per il confezionamento di calcestruzzi in relazione alla protezione delle armature in acciaio",
+  "http": "200 https://aisberg.unibg.it/handle/10446/57260",
+  "match": 1.0,
+  "size": 21404,
+  "status": "ok"
+ },
+ {
+  "idx": 437,
+  "url": "https://ci.nii.ac.jp/naid/10008220940",
+  "title": "EFFECTS OF PROPERTIES OF FLY ASH ON FLUIDITY OF PASTE",
+  "http": "202 https://cir.nii.ac.jp/crid/1573105974525476736",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 439,
+  "url": "https://data.jci-net.or.jp/data_pdf/27/027-01-1022.pdf",
+  "title": "1022 A STUDY OF FLY ASH-CEMENT HYDRATION BY RIETVELD ANALYSIS AND SELECTIVE DISSOLUTION",
+  "http": "200 https://data.jci-net.or.jp/data_pdf/27/027-01-1022.pdf",
+  "match": 0.0,
+  "size": 68085,
+  "status": "fail"
+ },
+ {
+  "idx": 441,
+  "url": "https://ci.nii.ac.jp/naid/10009868500",
+  "title": "FUNDAMENTAL STUDY ON REACTION BETWEEN FLY ASH AND CALCIUM HYDROXIDE",
+  "http": "202 https://cir.nii.ac.jp/crid/1573668924520573056",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 442,
+  "url": "https://data.jci-net.or.jp/data_pdf/24/024-01-1010.pdf",
+  "title": "1010 EXPERIMENTAL STUDY ON ACCELERATION OF POZZOLANICREACTION OF FLY ASH",
+  "http": "200 https://data.jci-net.or.jp/data_pdf/24/024-01-1010.pdf",
+  "match": 0.0,
+  "size": 86650,
+  "status": "fail"
+ },
+ {
+  "idx": 443,
+  "url": "https://www.dbpia.co.kr/Article/NODE01536306",
+  "title": "Lea's Chemistry of Cement and Concrete, 4th Edition",
+  "http": "200 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01536306",
+  "match": 1.0,
+  "size": 178486,
+  "status": "ok"
+ },
+ {
+  "idx": 447,
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002421186",
+  "title": "The Cement Industry in Ethiopia",
+  "http": "200 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002421186",
+  "match": 1.0,
+  "size": 40520,
+  "status": "ok"
+ },
+ {
+  "idx": 450,
+  "url": "https://trid.trb.org/view/72936",
+  "title": "SLAG/FLY ASH CEMENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 452,
+  "url": "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+  "title": "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)",
+  "http": "404 https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+  "match": 0.0,
+  "size": 163,
+  "status": "fail"
+ },
+ {
+  "idx": 457,
+  "url": "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+  "title": "Bergkrossmaterial som ballast i Betong",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 458,
+  "url": "https://hdl.handle.net/11250/242300",
+  "title": "Stabilitet av betongdammer - Ruhetens p\u00e5virkning p\u00e5 skj\u00e6rkapasiteten mellom betong og berg",
+  "http": "200 https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+  "match": 0.0,
+  "size": 2502,
+  "status": "fail"
+ },
+ {
+  "idx": 459,
+  "url": "https://hdl.handle.net/11250/194017",
+  "title": "Volumendringer og risstendens i betong = volum changes and cracking tendency in concrete",
+  "http": "200 https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+  "match": 0.0,
+  "size": 2502,
+  "status": "fail"
+ },
+ {
+  "idx": 460,
+  "url": "https://hdl.handle.net/11250/2421933",
+  "title": "Kloriddiffusjon i betong. Vurdering av aldringseffekten ved felteksponering : COIN P4 Operational service life design, SP 4.1 Service life modelling",
+  "http": "200 https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+  "match": 0.0,
+  "size": 2502,
+  "status": "fail"
+ },
+ {
+  "idx": 461,
+  "url": "https://hdl.handle.net/11250/2415888",
+  "title": "Betong i bygninger - konsekvenser for inneklima. Forprosjekt",
+  "http": "200 https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+  "match": 0.0,
+  "size": 2502,
+  "status": "fail"
+ },
+ {
+  "idx": 462,
+  "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+  "title": "Kompletterande dynamisk provning av kontinuerliga plattstrimlor av betong med armering av varierande seghet",
+  "http": "200 https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+  "match": 0.0,
+  "size": 2070,
+  "status": "fail"
+ },
+ {
+  "idx": 463,
+  "url": "https://hdl.handle.net/11250/2468074",
+  "title": "Forskjeller i milj\u00f8p\u00e5virkninger gjennom livsl\u00f8pet til Ullerud Helsebygg som f\u00f8lge av valg mellom b\u00e6rende konstruksjon i massivtre eller st\u00e5l og betong.",
+  "http": "200 https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+  "match": 0.0,
+  "size": 2502,
+  "status": "fail"
+ },
+ {
+  "idx": 464,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+  "title": "Ocena wytrzyma\u0142o\u015bci betonu na \u015bciskanie w konstrukcjach na podstawie badania odwiert\u00f3w rdzeniowych w \u015bwietle nowej normy europejskiej EN 13791:2007",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 466,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+  "title": "Tradycyjne i wsp\u00f3\u0142czesne domieszki do betonu zmniejszaj\u0105ce ilo\u015b\u0107 wody zarobowej",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 467,
+  "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+  "title": "Nowe dodatki mineralne do betonu",
+  "http": "403 https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 468,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+  "title": "Odpady ceramiki sanitarnej jako kruszywo do betonu",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 469,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+  "title": "Ocena zagro\u017cenia korozj\u0105 zbrojenia konstrukcji \u017celbetowych. Cz. 1 - badania w\u0142a\u015bciwo\u015bci ochronnych betonu",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 470,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0077-0054",
+  "title": "Nowa norma PN-EN 15037-1 Prefabrykaty z betonu. Belkowo-pustakowe systemy stropowe. Cz.1: Belki",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0077-0054",
+  "match": 0.0,
+  "size": 2483,
+  "status": "fail"
+ },
+ {
+  "idx": 472,
+  "url": "https://bdpi.usp.br/item/000747896",
+  "title": "Reciclagem do entulho de constru\u00e7\u00e3o civil, para utiliza\u00e7\u00e3o como agregado de argamassas e concretos",
+  "http": "200 https://repositorio.usp.br/item/000747896",
+  "match": 1.0,
+  "size": 20703,
+  "status": "ok"
+ },
+ {
+  "idx": 484,
+  "url": "https://dergipark.org.tr/en/download/article-file/236278",
+  "title": "BETONARME B\u0130NALARIN DEPREM SONRASI AC\u0130L HASAR DE\u011eERLEND\u0130RMELER\u0130",
+  "http": "200 https://dergipark.org.tr/en/download/article-file/236278",
+  "match": 0.5714285714285714,
+  "size": 249595,
+  "status": "fail"
+ },
+ {
+  "idx": 485,
+  "url": "https://dergipark.org.tr/en/pub/ogummf/article/325286",
+  "title": "Betonarme Binalarda Perdelerin Davran\u0131\u015fa Etkileri",
+  "http": "200 https://dergipark.org.tr/en/pub/ogummf/article/325286",
+  "match": 1.0,
+  "size": 42941,
+  "status": "ok"
+ },
+ {
+  "idx": 488,
+  "url": "https://avesis.uludag.edu.tr/publication/details/8e8efdb8-db7b-4390-ab94-bdd9b3d7b80a/oai",
+  "title": "Betonarme yap\u0131lar\u0131n hesap ve tasar\u0131m\u0131",
+  "http": "200 https://avesis.uludag.edu.tr/publication/details/8e8efdb8-db7b-4390-ab94-bdd9b3d7b80a/oai",
+  "match": 1.0,
+  "size": 10277,
+  "status": "ok"
+ },
+ {
+  "idx": 491,
+  "url": "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+  "title": "Research on Hydration of Steel Slag Cement Activatedwith Waterglass",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 492,
+  "url": "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 493,
+  "url": "https://doaj.org/article/007a9f363892471da29db11c337615aa",
+  "title": "Experimental Study on Grouting Material of Red Mud\u2013blast Furnace Slag\u2013steel Slag Ternary System",
+  "http": "403 https://doaj.org/article/007a9f363892471da29db11c337615aa",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 495,
+  "url": "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+  "title": "Drying Shrinkage Characteristics of Magnesium Slag Composite Admixture Concrete",
+  "http": "403 https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+  "match": 0.0,
+  "size": 948,
+  "status": "fail"
+ },
+ {
+  "idx": 501,
+  "url": "https://rosap.ntl.bts.gov/view/dot/14219",
+  "title": "Portland-cement concrete rheology and workability: final report",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/14219",
+  "match": 0.0,
+  "size": 269,
+  "status": "fail"
+ },
+ {
+  "idx": 504,
+  "url": "https://trid.trb.org/view/572808",
+  "title": "THE USE OF LIMESTONE IN PORTLAND CEMENT: A STATE-OF-THE-ART REVIEW",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 511,
+  "url": "https://hdl.handle.net/1808/19944",
+  "title": "Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Free Shrinkage, Mixture Optimization, and Concrete Production",
+  "http": "200 https://kuscholarworks.ku.edu/entities/publication/354f907b-4e25-4016-aede-1cb1fd391359",
+  "match": 1.0,
+  "size": 69666,
+  "status": "ok"
+ },
+ {
+  "idx": 512,
+  "url": "https://rosap.ntl.bts.gov/view/dot/49997",
+  "title": "PORTLAND CEMENT CONCRETE OVERLAYS: STATE OF THE TECHNOLOGY SYNTHESIS",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/49997",
+  "match": 0.0,
+  "size": 269,
+  "status": "fail"
+ },
+ {
+  "idx": 513,
+  "url": "https://hdl.handle.net/2142/47549",
+  "title": "Effect of Portland Cement (Current ASTM C150/AASHTO M85) with Limestone and Process Addition (ASTM C465/AASHTO M327) on the Performance of Concrete for Pavement and Bridge Decks",
+  "http": "403 https://www.ideals.illinois.edu/items/47589",
+  "match": 0.0,
+  "size": 89,
+  "status": "fail"
+ },
+ {
+  "idx": 515,
+  "url": "https://hdl.handle.net/2152/31324",
+  "title": "Effect of Portland cement concrete characteristics and constituents on thermal expansion",
+  "http": "403 https://repositories.lib.utexas.edu/handle/2152/31324",
+  "match": 0.0,
+  "size": 838,
+  "status": "fail"
+ },
+ {
+  "idx": 516,
+  "url": "https://hdl.handle.net/1773/52752",
+  "title": "High-Early Strength Concrete for Rapid Bridge Deck Repair and Rehabilitation",
+  "http": "200 https://digital.lib.washington.edu/researchworks/items/5f96ba45-a82c-4304-a910-ac5c0061a230",
+  "match": 1.0,
+  "size": 30171,
+  "status": "ok"
+ },
+ {
+  "idx": 521,
+  "url": "https://hdl.handle.net/1807/32924",
+  "title": "Sulfate Resistance and Properties of Portland-limestone Cements",
+  "http": "200 https://utoronto.scholaris.ca/items/7179126f-52a3-4257-a60d-100de28fac73",
+  "match": 1.0,
+  "size": 38500,
+  "status": "ok"
+ },
+ {
+  "idx": 526,
+  "url": "https://resolver.tudelft.nl/uuid:93af1749-0b97-416a-ba27-907ae4921a7f",
+  "title": "Using particle packing technology for sustainable concrete mixture design",
+  "http": "200 https://repository.tudelft.nl/record/uuid:93af1749-0b97-416a-ba27-907ae4921a7f",
+  "match": 1.0,
+  "size": 16479,
+  "status": "ok"
+ },
+ {
+  "idx": 527,
+  "url": "https://resolver.tudelft.nl/uuid:5a1e445b-36a7-4f27-a89a-d48372d2a45c",
+  "title": "Design of ecological concrete by particle packing optimization",
+  "http": "200 https://repository.tudelft.nl/record/uuid:5a1e445b-36a7-4f27-a89a-d48372d2a45c",
+  "match": 1.0,
+  "size": 15570,
+  "status": "ok"
+ },
+ {
+  "idx": 528,
+  "url": "https://resolver.tudelft.nl/uuid:df0fdbfa-5cde-4c80-9e2a-1a9008a90e44",
+  "title": "The use of particle packing models to design ecological concrete",
+  "http": "200 https://repository.tudelft.nl/record/uuid:df0fdbfa-5cde-4c80-9e2a-1a9008a90e44",
+  "match": 1.0,
+  "size": 16350,
+  "status": "ok"
+ },
+ {
+  "idx": 529,
+  "url": "https://resolver.tudelft.nl/uuid:e54870ba-7db7-41cd-86f1-97c485500b34",
+  "title": "Computational Modelling of Particle Packing in Concrete",
+  "http": "200 https://repository.tudelft.nl/record/uuid:e54870ba-7db7-41cd-86f1-97c485500b34",
+  "match": 1.0,
+  "size": 17134,
+  "status": "ok"
+ }
+]

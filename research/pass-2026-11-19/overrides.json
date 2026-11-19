@@ -1,0 +1,207 @@
+{
+"104": {
+"type": "Thesis",
+"publisher": "Lund University, Division of Building Materials (LTH)",
+"note": "Landing-page DC metadata: doctoral thesis, Lund University, 1981."
+},
+"399": {
+"publisher": "Technical University of Denmark (DTU Orbit record)"
+},
+"402": {
+"publisher": "SBI forlag (Aalborg University research portal record)"
+},
+"403": {
+"publisher": "Technical University of Denmark, Department of Civil Engineering"
+},
+"405": {
+"publisher": "Technical University of Denmark (DTU Orbit record)"
+},
+"432": {
+"type": "Book",
+"publisher": "CittàStudiEdizioni, Milano (Politecnico di Milano IRIS record)",
+"note": "Landing page lists a monograph (1996); OpenAlex's host label 'Virtual Community of Pathological Anatomy' is wrong and was not used."
+},
+"435": {
+"type": "Book chapter",
+"publisher": "Imready (University of Bergamo Aisberg record)"
+},
+"443": {
+"publisher": "Korean Society of Civil Engineers (대한토목학회지, via DBpia)",
+"date": "2010-10",
+"lang": "ko",
+"edition": "Item about the 4th edition of Lea's Chemistry of Cement and Concrete (P. C. Hewlett, ed.); the DBpia record is a KSCE magazine article, not the book itself, which was not inspected.",
+"note": "DBpia citation metadata: KSCE journal 대한토목학회지, 2010/10, authors Peter C. Hewlett and 김용직."
+},
+"447": {
+"publisher": "Korean Society for Energy (Journal of Energy Engineering, via KCI)"
+},
+"485": {
+"publisher": "Eskişehir Osmangazi University (Journal of Engineering and Architecture Faculty)",
+"date": "2010-06-30"
+},
+"488": {
+"type": "Book",
+"publisher": "Birsen Yayınevi (Bursa Uludağ University AVESIS record)",
+"date": "2021",
+"note": "AVESIS lists 2021; OpenAlex lists 2019 (page date used; edition not stated)."
+},
+"511": {
+"type": "Report",
+"publisher": "University of Kansas (KU ScholarWorks)",
+"date": "2008-11",
+"authors": [
+"Will D. Lindquist",
+"David Darwin",
+"JoAnn Browning"
+],
+"note": "Authors from the landing page (OpenAlex lists only the first author)."
+},
+"516": {
+"type": "Thesis",
+"publisher": "University of Washington (ResearchWorks)",
+"date": "2025-01-23",
+"note": "Repository date 2025-01-23; OpenAlex lists 2024 (page date used)."
+},
+"521": {
+"type": "Thesis",
+"publisher": "University of Toronto (TSpace)",
+"date": "2012-09-04"
+},
+"526": {
+"publisher": "TU Delft Research Repository"
+},
+"527": {
+"type": "Thesis",
+"publisher": "TU Delft Research Repository"
+},
+"528": {
+"publisher": "TU Delft Research Repository"
+},
+"529": {
+"type": "Thesis",
+"publisher": "TU Delft Research Repository"
+},
+"482": {
+"publisher": "Magazine of Civil Engineering (engstroy.spbstu.ru)",
+"date": "2017",
+"lang": "ru",
+"note": "Article page citation metadata: Magazine of Civil Engineering vol 75 no 7, pp 37–51 (2017), DOI 10.18720/MCE.75.4 printed on the page."
+},
+"489": {
+"publisher": "Teknik Dergi (DergiPark)",
+"date": "1998-09-01",
+"authors": [
+"Uğur Ersoy",
+"Güney Özcebe"
+],
+"lang": "tr",
+"note": "Article page citation metadata: Teknik Dergi vol 9 no 44, 1998-09-01, ISSN 1300-3453; authors Uğur Ersoy and Güney Özcebe; DOI 10.18400/td.12199 printed by OpenAlex."
+},
+"0": {
+"type": "Book",
+"publisher": "Japan Society of Civil Engineers (Concrete Committee)",
+"date": "2008",
+"authors": [
+"Keitetsu Rokugo (editor)",
+"Japan Society of Civil Engineers, Concrete Committee"
+],
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: title, editor (Keitetsu Rokugo), JSCE Concrete Committee sub-committee as issuing body, 2008. Book itself not inspected.",
+"desc": "Japan Society of Civil Engineers recommendations (2008) for the design and construction of high-performance fibre-reinforced cement composites with multiple fine cracks (HPFRCC); catalogue record only, content not reviewed."
+},
+"109": {
+"type": "Book",
+"publisher": "Wiley",
+"date": "1980",
+"authors": [
+"Robert S. Boynton"
+],
+"access": "catalog_metadata",
+"edition": "2nd ed. (CiNii record of the c1980 edition); OpenAlex dates the work 1966 (1st ed.).",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: Robert S. Boynton, Wiley, c1980, 2nd ed. Book itself not inspected.",
+"desc": "R. S. Boynton's monograph on the chemistry and technology of lime and limestone (2nd ed., Wiley, 1980); catalogue record only, content not reviewed."
+},
+"123": {
+"type": "Book",
+"publisher": "American Ceramic Society",
+"date": "1989",
+"authors": [
+"Jan P. Skalny (editor)"
+],
+"access": "catalog_metadata",
+"edition": "Multi-volume series (CiNii lists v. 1–7, c1989-); volume-level contents not reviewed.",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: edited by Jan P. Skalny, American Ceramic Society, c1989-, v. 1–7 (CiNii also lists S. Mindess and F. Young as creators).",
+"desc": "Multi-volume series Materials Science of Concrete (American Ceramic Society, from 1989; ed. J. P. Skalny); catalogue record only, content not reviewed."
+},
+"138": {
+"type": "Book",
+"publisher": "Portland Cement Association",
+"date": "1987",
+"authors": [
+"Richard Helmuth"
+],
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: Richard Helmuth, Portland Cement Association, c1987, pbk.",
+"desc": "Portland Cement Association monograph by Richard Helmuth on fly ash in cement and concrete (1987); catalogue record only, content not reviewed."
+},
+"200": {
+"type": "Book",
+"publisher": "W. Ernst (Deutscher Ausschuss für Stahlbeton, Heft 138)",
+"date": "1961",
+"authors": [
+"Gallus Rehm"
+],
+"lang": "de",
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: Gallus Rehm, Deutscher Ausschuss für Stahlbeton Heft 138, W. Ernst, 1961."
+},
+"203": {
+"type": "Book",
+"publisher": "McGraw-Hill (civil engineering series)",
+"date": "1956",
+"authors": [
+"George Earl Troxell",
+"Harmer E. Davis"
+],
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: George Earl Troxell and Harmer E. Davis, McGraw-Hill, 1956 (OpenAlex also lists J. W. Kelly, a co-author of later editions; CiNii record used).",
+"desc": "Troxell & Davis textbook on the composition and properties of concrete (McGraw-Hill, 1956); catalogue record only, content not reviewed."
+},
+"286": {
+"type": "Book",
+"publisher": "Wiley",
+"date": "1988",
+"authors": [
+"Zdeněk P. Bažant (editor)"
+],
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: edited by Zdeněk P. Bažant in collaboration with RILEM; RILEM International Symposium on Creep and Shrinkage of Concrete — Mathematical Modeling; Wiley, 1988.",
+"desc": "Proceedings volume of the RILEM symposium on mathematical modelling of creep and shrinkage of concrete (ed. Z. P. Bažant, Wiley, 1988); catalogue record only, content not reviewed."
+},
+"335": {
+"type": "Book",
+"publisher": "Portland Cement Association",
+"date": "2008",
+"authors": [
+"Mahmoud E. Kamara (editor)",
+"Lawrence C. Novak (editor)",
+"Basile G. Rabbat (editor)"
+],
+"access": "catalog_metadata",
+"note": "Library catalogue record (CiNii Books, NII) read 2026-11-19: edited by M. E. Kamara, L. C. Novak and B. G. Rabbat, Portland Cement Association, 2008.",
+"desc": "Portland Cement Association handbook of notes on ACI 318-08 building code requirements, with design applications (2008); catalogue record only, content not reviewed."
+},
+"417": {
+"type": "Thesis",
+"publisher": "Universidad Complutense de Madrid (Docta Complutense)",
+"date": "2016-03-31",
+"lang": "es",
+"url": "https://docta.ucm.es/entities/publication/894ae7fe-355e-4a04-bf1a-12b67039aeb6",
+"note": "The OpenAlex PDF link (eprints.ucm.es) now redirects to the Docta Complutense record, whose citation metadata were read (author, Universidad Complutense de Madrid, 2016-03-31)."
+},
+"472": {
+"publisher": "Universidade de São Paulo (ReP USP record)",
+"date": "1997",
+"lang": "pt"
+}
+}

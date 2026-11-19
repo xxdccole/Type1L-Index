@@ -1,0 +1,104 @@
+p2 concrete-lightweight lightweight concrete 25
+p2 concrete-lightweight lightweight concrete 25
+p2 concrete-lightweight expanded shale 25
+p2 concrete-lightweight expanded perlite concrete 25
+p2 concrete-lightweight scoria aggregate 25
+p2 concrete-lightweight oil palm shell concrete 25
+p2 concrete-lightweight polystyrene concrete 25
+p2 concrete-lightweight cenosphere 25
+p2 concrete-lightweight lightweight self-compacting concrete 25
+p2 concrete-lightweight artificial lightweight aggregate 25
+p2 concrete-lightweight no-fines concrete 25
+p2 concrete-lightweight vermiculite concrete 25
+p2 binder-cac-csa high alumina cement 25
+p2 binder-cac-csa aluminous cement 25
+p2 binder-cac-csa monocalcium aluminate 10
+p2 binder-cac-csa ye'elimite 25
+p2 binder-cac-csa calcium sulfoaluminate 25
+p2 binder-cac-csa sulfoaluminate clinker 25
+p2 binder-cac-csa ettringite formation expansion 24
+p2 binder-cac-csa calcium aluminate cement hydration 25
+p2 binder-lc3 limestone calcined clay 25
+p2 binder-lc3 LC3 concrete 25
+p2 binder-lc3 ternary limestone metakaolin 0
+p2 binder-lc3 calcined clay carbonation 6
+p2 binder-lc3 calcined clay chloride 18
+p2 binder-lc3 low grade calcined clay 25
+p2 binder-magnesium-carbonatable magnesium oxysulfate cement 25
+p2 binder-magnesium-carbonatable magnesium potassium phosphate 25
+p2 binder-magnesium-carbonatable MgO cement 25
+p2 binder-magnesium-carbonatable CO2 curing 25
+p2 binder-magnesium-carbonatable accelerated carbonation curing 25
+p2 binder-magnesium-carbonatable wollastonite carbonation 20
+p2 binder-magnesium-carbonatable calcium silicate carbonation 25
+p2 binder-magnesium-carbonatable magnesia cement 24
+p2 scm-silica microsilica 25
+p2 scm-silica silica fume 25
+p2 scm-silica silica fume 25
+p2 scm-silica nano silica concrete 25
+p2 scm-silica colloidal silica cement 25
+p2 scm-silica densified silica fume 0
+p2 scm-silica silica fume mortar 25
+p2 scm-slag slag cement 25
+p2 scm-slag slag cement 25
+p2 scm-slag ground granulated blast furnace slag 23
+p2 scm-slag ground granulated blast furnace slag 25
+p2 scm-slag GGBS concrete 25
+p2 scm-slag slag hydration 23
+p2 scm-slag copper slag concrete 25
+p2 scm-slag slag concrete durability 23
+p2 scm-slag steel slag aggregate 25
+p2 scm-emerging ferronickel slag 25
+p2 scm-emerging waste glass concrete 24
+p2 scm-emerging coal gangue cement 25
+p2 scm-emerging phosphogypsum cement 23
+p2 scm-emerging ceramic waste powder 25
+p2 scm-emerging recycled concrete powder 25
+p2 scm-emerging biochar cement 24
+p2 scm-emerging sewage sludge ash 25
+p2 scm-emerging marble powder concrete 24
+p2 scm-emerging eggshell powder 25
+p2 binder-blended blended cement 25
+p2 binder-blended blended cement 21
+p2 binder-blended ternary blended 24
+p2 binder-blended portland pozzolan cement 25
+p2 binder-blended composite cement 25
+p2 binder-blended multi-component cement 25
+p2 binder-blended blended cement hydration 21
+p2 binder-blended pozzolanic cement 19
+p2 concrete-structural reinforced concrete beams 25
+p2 concrete-structural prestressed concrete 25
+p2 concrete-structural punching shear 24
+p2 concrete-structural reinforced concrete columns confinement 25
+p2 concrete-structural bond reinforcing bars concrete 25
+p2 concrete-structural creep of concrete 24
+p2 concrete-structural precast concrete 25
+p2 concrete-structural post-tensioned concrete 25
+p2 concrete-structural reinforced concrete shear walls 25
+p2 concrete-structural high strength concrete columns 25
+p2 cross-tests-codes rebound hammer 25
+p2 cross-tests-codes concrete core strength 25
+p2 cross-tests-codes chloride migration test 25
+p2 cross-tests-codes water permeability concrete 25
+p2 cross-tests-codes freeze-thaw test 25
+p2 cross-tests-codes Eurocode 2 25
+p2 cross-tests-codes ACI 318 25
+p2 cross-tests-codes building code concrete 22
+p2 cross-tests-codes slump test 25
+p2 cross-tests-codes specimen size compressive strength concrete 25
+p2 cross-tests-codes acceptance testing concrete 25
+p2 cross-environment-cost cement industry CO2 25
+p2 cross-environment-cost clinker substitution 25
+p2 cross-environment-cost environmental product declaration 25
+p2 cross-environment-cost carbon footprint concrete 25
+p2 cross-environment-cost CO2 uptake carbonation concrete 0
+p2 cross-environment-cost cement decarbonization 25
+p2 cross-environment-cost waste heat recovery cement 25
+p2 cross-environment-cost concrete recycling 25
+p2 cross-environment-cost cost analysis concrete 24
+seeds 1240
+refs 2929
+backward 1710
+nov18 seeds 460 ['R2716', 'R2717', 'R2635', 'R2718', 'R2636', 'R2719', 'R2720', 'R2637', 'R2984', 'R2721']
+forward 258
+4263
