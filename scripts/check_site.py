@@ -248,6 +248,13 @@ else:
             dest = item.get("matchedTo")
             if dest not in resource_ids:
                 errors.append(f"matched-verified queue line does not point at an indexed resource: {dest!r}")
+        elif status == "retry":
+            # Qualified but unavailable: looks real and on-topic but could not be inspected yet.
+            # Still unverified, so it must say why and must not already be an index resource.
+            if not str(item.get("retryReason") or "").strip():
+                errors.append(f"retry queue line has no retryReason: {item.get('title')!r}")
+            if url and url in resource_urls:
+                errors.append(f"retry lead URL is also an index resource: {item.get('url')}")
         elif status == "rejected":
             # Closed after inspection; must say why. A duplicate may point at the indexed record.
             if not str(item.get("rejectReason") or "").strip():

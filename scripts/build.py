@@ -35,6 +35,7 @@ PARTIAL_DATE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 FULL_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 NOTES_PATH = ROOT / "data" / "resource-notes.json"
+REVIEW_PATH = ROOT / "research" / "review-retry.jsonl"
 # Original topic ids. Their takeaways describe Type IL practice and stay labeled that way.
 TYPE_IL_TOPICS = frozenset({
     "standards", "dot", "carbon", "fresh", "strength", "durability", "scm",
@@ -455,10 +456,11 @@ class Site:
 
     def footer(self, prefix):
         d = self.d
+        review = f' · <a href="{prefix}review/">Leads to review</a>' if REVIEW_PATH.exists() else ""
         return f"""<footer class="site-footer">
 <div class="wrap">
 <p>{e(d['title'])}. Last updated {time_el(d['lastUpdated'], True)}.</p>
-<p><a href="{prefix}feed-daily.xml">Daily digest feed</a> · <a href="{prefix}feed-weekly.xml">Weekly digest feed</a> · <a href="{prefix}feed.xml">Newest resources feed</a> · <a href="{prefix}data/site-data.json">Data (JSON)</a> · <a href="{prefix}data/resource-notes.json">Source notes (JSON)</a></p>
+<p><a href="{prefix}feed-daily.xml">Daily digest feed</a> · <a href="{prefix}feed-weekly.xml">Weekly digest feed</a> · <a href="{prefix}feed.xml">Newest resources feed</a> · <a href="{prefix}data/site-data.json">Data (JSON)</a> · <a href="{prefix}data/resource-notes.json">Source notes (JSON)</a>{review}</p>
 <p><a href="#top">Back to top</a></p>
 </div>
 </footer>
@@ -692,6 +694,48 @@ class Site:
 </html>
 """
 
+    # ------------------------------------------------------------------ leads to review
+    def review_page(self, items):
+        """Qualified-but-unavailable leads (research/review-retry.jsonl). Unverified, not index resources."""
+        prefix, url = "../", f"{self.base}review/"
+        title = self.doc_title("Leads to review")
+        desc = (f"{len(items)} qualified leads that look real and on-topic but could not be inspected yet. "
+                "They are unverified and are not counted as index resources.")
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "url": url, "name": title, "description": desc,
+              "isPartOf": {"@id": self.base + "#website"}}
+        groups = collections.OrderedDict()
+        for it in sorted(items, key=lambda x: (x.get("reviewTopicName") or "~", (x.get("title") or "").lower())):
+            groups.setdefault(it.get("reviewTopicName") or "Unassigned", []).append(it)
+        body = []
+        for name, rows in groups.items():
+            lis = []
+            for it in rows:
+                link = it.get("bestUrl") or it.get("url") or ""
+                t = e(it.get("title") or "")
+                head = f'<a href="{e(link)}" rel="noopener">{t}</a>' if link.startswith("http") else t
+                by = ", ".join(x for x in [", ".join((it.get("authors") or [])[:3]), it.get("venue") or "", str(it.get("year") or "")] if x)
+                state = "Ready to promote" if it.get("retryOutcome") == "promotable" else "Waiting for retry"
+                lis.append(f'<li><p>{head}</p><p class="meta"><span>{e(by)}</span><span class="chip">{e(state)}</span>'
+                           f'<span>Last tried {e(it.get("lastTried") or "")}</span><span>{e(str(it.get("attempts") or 0))} attempts</span></p>'
+                           f'<p class="meta">{e(it.get("retryReason") or "")}</p></li>')
+            body.append(f'<h2 class="h3like">{e(name)}</h2><ul class="linked-resources">{"".join(lis)}</ul>')
+        return self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld) + f"""<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead slim" id="top">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <span>Leads to review</span></nav>
+<h1>Leads to review</h1>
+<p class="meta-line">{len(items)} leads · unverified, not index resources · Last updated {time_el(self.d['lastUpdated'], True)}</p>
+</div>
+</header>
+<main id="main"><div id="content"><section><div class="wrap">
+<p class="evidence-note">Each lead looks real and on-topic, but its page or record could not be opened yet. The daily run retries each one and promotes it once it can be inspected.</p>
+{"".join(body)}
+</div></section></div></main>
+{self.footer(prefix)}</body>
+</html>
+"""
+
     # ------------------------------------------------------------------ sitemap, llms.txt
     def sitemap(self):
         d = self.d
@@ -851,6 +895,9 @@ def main():
                 shutil.rmtree(child)
     for t in d["topics"]:
         write(f"topics/{t['id']}/index.html", s.topic_page(t))
+    if REVIEW_PATH.exists():
+        items = [json.loads(x) for x in REVIEW_PATH.read_text(encoding="utf-8").splitlines() if x.strip()]
+        write("review/index.html", s.review_page(items))
     sm, urls = s.sitemap()
     write("sitemap.xml", sm)
     write("llms.txt", s.llms())

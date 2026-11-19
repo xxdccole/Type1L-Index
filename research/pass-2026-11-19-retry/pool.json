@@ -1,0 +1,5974 @@
+[
+ {
+  "title": "PROPERTIES OF CONCRETE. 4TH AND FINAL EDITION",
+  "year": 1968,
+  "authors": [
+   "Adam M. Neville"
+  ],
+  "venue": "Virtual Defense Library (Ministerio de Defensa)",
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W837698353",
+  "doi": null,
+  "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=676659",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=676659"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 46,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 96,
+    "probe": "fail 000 https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=676659 match=0.0"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3378,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3378
+  ],
+  "inIndex": null,
+  "priorAttempts": 3
+ },
+ {
+  "title": "THE AIR REQUIREMENT OF FROST RESISTANT CONCRETE",
+  "year": 1949,
+  "authors": [
+   "T. C. Powers",
+   "T F Willis"
+  ],
+  "venue": "Highway Research Board Proceedings",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W130964102",
+  "doi": null,
+  "url": "http://pubsindex.trb.org/view.aspx?id=101611",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://pubsindex.trb.org/view.aspx?id=101611"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 55,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Materials science of concrete",
+  "year": 1989,
+  "authors": [
+   "Jan P. Skalny",
+   "Sidney Mindess",
+   "Francis Young"
+  ],
+  "venue": "American Ceramic Society eBooks",
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1969733453",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA09883663",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA09883663"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 56,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 112,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18"
+  ],
+  "inIndex": [
+   "R3534"
+  ],
+  "priorAttempts": 2
+ },
+ {
+  "title": "Mathematical modeling of creep and shrinkage of concrete",
+  "year": 1988,
+  "authors": [
+   "Zdeněk P. Bažant"
+  ],
+  "venue": "Wiley eBooks",
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W589297430",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA06996277",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA06996277"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 58,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": [
+   "R3538"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "Creep and shrinkage in concrete structures",
+  "year": 1982,
+  "authors": [
+   "Z.P. Bazant",
+   "Folker H. Wittmann"
+  ],
+  "venue": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1606210544",
+  "doi": null,
+  "url": "http://infoscience.epfl.ch/record/27670",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://infoscience.epfl.ch/record/27670",
+   "https://infoscience.epfl.ch/record/27670"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 61,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 116,
+    "probe": "fail 500 http://infoscience.epfl.ch/record/27670 match=0.0"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3393,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3393
+  ],
+  "inIndex": null,
+  "priorAttempts": 3
+ },
+ {
+  "title": "Structures and Physical Properties of Cement Paste",
+  "year": 1968,
+  "authors": [
+   "George Verbeck"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2975111520",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10004005526",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10004005526"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 68,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3384,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3384
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "STEEL CORROSION IN CONCRETE -- HOW DOES IT OCCUR?",
+  "year": 1967,
+  "authors": [
+   "D. A. Hausmann"
+  ],
+  "venue": "Cailiao baohu",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W188005340",
+  "doi": null,
+  "url": "https://trid.trb.org/view/98137",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/98137"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 69,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3385,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3385
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "Corrosion of reinforcement in concrete construction",
+  "year": 1983,
+  "authors": [
+   "Alan P. Crane"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1505126734",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA03856103",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA03856103"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 74,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": [
+   "R1938"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "A REVIEW OF CARBONATION IN REINFORCED CONCRETE",
+  "year": 1987,
+  "authors": [
+   "L J Parrott"
+  ],
+  "venue": null,
+  "type": "review",
+  "language": "en",
+  "openalexId": "https://openalex.org/W75070030",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=280156",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=280156"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 85,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3387,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3387
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "CONCRETE CORROSION - CONCRETE PROTECTION",
+  "year": 1972,
+  "authors": [
+   "A D Imre"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W3146438253",
+  "doi": null,
+  "url": "https://trid.trb.org/view/41749",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/41749"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 118,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "LA PHASE LIQUIDE DU CIMENT HYDRATE",
+  "year": 1973,
+  "authors": [
+   "Patrick Longuet",
+   "L Burglen",
+   "A Zelwer"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W3164646433",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10004745984",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10004745984"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 132,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 493,
+    "probe": "skipped-host "
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3390,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3390
+  ],
+  "inIndex": null,
+  "priorAttempts": 3
+ },
+ {
+  "title": "Pore structure and permeability of cementitious materials",
+  "year": 1989,
+  "authors": [
+   "Lawrence R. Roberts",
+   "Cambridge Instrument Co.",
+   "Jan P. Skalny",
+   "Columbia Co."
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1602964621",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA08035443",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA08035443"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 139,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 186,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "EFFECTIVENESS OF MINERAL ADMIXTURES IN PREVENTING EXCESSIVE EXPANSION OF CONCRETE DUE TO ALKALI-AGGREGATE REACTION",
+  "year": 1959,
+  "authors": [
+   "L. Pepper",
+   "Bryant Mather"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1597017542",
+  "doi": null,
+  "url": "https://trid.trb.org/view/107075",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/107075"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 166,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "The technology of cement and concrete",
+  "year": 1955,
+  "authors": [
+   "Robert F. Blanks",
+   "Henry L. Kennedy"
+  ],
+  "venue": "University of Michigan Library Repository",
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W598562282",
+  "doi": null,
+  "url": "http://hdl.handle.net/2027/uva.x001612206",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://hdl.handle.net/2027/uva.x001612206"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 171,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Damages in concrete railway sleepers in Finland",
+  "year": 1987,
+  "authors": [
+   "P Tepponen",
+   "Bengt Eriksson"
+  ],
+  "venue": "Nordic Concrete Research/Nordic concrete research",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2500370925",
+  "doi": null,
+  "url": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7630167",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7630167"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 187,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "MECHANISM OF SEAWATER ATTACK ON CEMENT PASTES",
+  "year": 1970,
+  "authors": [
+   "G.L. Kalousek",
+   "E J Benton"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W567989216",
+  "doi": null,
+  "url": "https://trid.trb.org/view/96574",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/96574"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 192,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "DETERIORATION DUE TO CORROSION IN REINFORCED CONCRETE",
+  "year": 1980,
+  "authors": [
+   "L. H. Everett",
+   "K. W. J. Treadaway"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W818936414",
+  "doi": null,
+  "url": "https://trid.trb.org/view/165106",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/165106"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 197,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "MORPHOLOGY OF CALCIUM HYDROXIDE IN CEMENT PASTE",
+  "year": 1966,
+  "authors": [
+   "Hans Henrik Bache",
+   "Gunnar M. Idorn",
+   "P Nepper-christensen",
+   "J Neilsen"
+  ],
+  "venue": "Highway Research Board Special Report",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W579408057",
+  "doi": null,
+  "url": "http://pubsindex.trb.org/view.aspx?id=101450",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://pubsindex.trb.org/view.aspx?id=101450"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 198,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CHEMICAL AND MECHANICAL PROPERTIES OF ALKALI-ACTIVATED BLAST FURNACE SLAG (F-CONCRETE)",
+  "year": 1982,
+  "authors": [
+   "Heikki Kukko",
+   "Risto Mannonen"
+  ],
+  "venue": "Nordic Concrete Research/Nordic concrete research",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W412444273",
+  "doi": null,
+  "url": "https://trid.trb.org/view/196484",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/196484"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 199,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "STUDIES RELATING TO THE TESTING OF FLY ASH FOR USE IN CONCRETE",
+  "year": 1956,
+  "authors": [
+   "R H Brink",
+   "Woodrow J. Halstead"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W562678067",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=95750",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=95750"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 204,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Creep and Shrinkage of Concrete: Mathematical Modeling",
+  "year": 1986,
+  "authors": [
+   "Zdeněk P. Bažant"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2611264005",
+  "doi": null,
+  "url": "https://www.scholars.northwestern.edu/en/publications/creep-and-shrinkage-of-concrete-mathematical-modeling",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://www.scholars.northwestern.edu/en/publications/creep-and-shrinkage-of-concrete-mathematical-modeling"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 208,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "THE USE OF FLY ASH, SILICA FUME, SLAG AND OTHER MINERAL BY-PRODUCTS IN CONCRETE",
+  "year": 1983,
+  "authors": [
+   "V. M. Malhotra"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W612343753",
+  "doi": null,
+  "url": "https://trid.trb.org/view/191681",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/191681"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 215,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "THE GLASS CONTENT OF SLAG AND HYDRAULIC ACTIVITY",
+  "year": 1983,
+  "authors": [
+   "Ke Daugherty",
+   "Bahruddin bin Saad",
+   "C Weirich",
+   "Alexis N.R. Eberendu"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W3193850149",
+  "doi": null,
+  "url": "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 222,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "ALKALI-ACTIVATED SLAG",
+  "year": 1988,
+  "authors": [
+   "Ronny Andersson",
+   "H-E Gram",
+   "Jan Małolepszy",
+   "J. Deja"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W594626900",
+  "doi": null,
+  "url": "https://trid.trb.org/view/352975",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/352975"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 223,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "BUREAU OF RECLAMATION EXPERIENCES WITH FLY ASH AND OTHER POZZOLANS IN CONCRETE",
+  "year": 1973,
+  "authors": [
+   "Elfert"
+  ],
+  "venue": "International Conference on Multimedia Information Networking and Security",
+  "type": "conference-paper",
+  "language": "en",
+  "openalexId": "https://openalex.org/W81015697",
+  "doi": null,
+  "url": "https://trid.trb.org/view/133484",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/133484"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 226,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "TESTS USED BY THE BUREAU OF RECLAMATION FOR IDENTIFYING REACTIVE CONCRETE AGGREGATES",
+  "year": 1948,
+  "authors": [
+   "R C Mielenz",
+   "Leslie P. Witte"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W199412567",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=101603",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=101603"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 228,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "BETON AUS AUFBEREITETEM ALTBETON - TECHNOLOGIE UND EIGENSCHAFTEN",
+  "year": 1984,
+  "authors": [
+   "Karlhans Wesche",
+   "R. Schulz"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "de",
+  "openalexId": "https://openalex.org/W652121695",
+  "doi": null,
+  "url": "https://trid.trb.org/view/1036058",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/1036058"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 239,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "HOW CHLORIDES AFFECT CONCRETE USED WITH REINFORCING STEEL",
+  "year": 1968,
+  "authors": [
+   "R F Stratfull"
+  ],
+  "venue": "Cailiao baohu",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W603402389",
+  "doi": null,
+  "url": "https://trid.trb.org/view/95643",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/95643"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 243,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "The Long Term Creep of the Wylfa P.V. Concrete for Loading Ages up to 12 1/2 Years",
+  "year": 1975,
+  "authors": [
+   "Roger D. Browne",
+   "P B Bamforth"
+  ],
+  "venue": "NCSU Libraries Repository (North Carolina State University Libraries)",
+  "type": "conference-paper",
+  "language": "en",
+  "openalexId": "https://openalex.org/W3197318796",
+  "doi": null,
+  "url": "http://www.lib.ncsu.edu/resolver/1840.20/28318",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://www.lib.ncsu.edu/resolver/1840.20/28318"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 256,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CONDITION SURVEY OF PRESTRESSED CONCRETE BRIDGES",
+  "year": 1989,
+  "authors": [
+   "Vladimir Novokshchenov"
+  ],
+  "venue": "ACI Concrete International",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W594385819",
+  "doi": null,
+  "url": "https://trid.trb.org/view/301546",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/301546"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 257,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "LIMITATIONS TO FLY ASH USE IN BLENDED CEMENTS",
+  "year": 1976,
+  "authors": [
+   "Paul Wencil Brown",
+   "R.L. Berger",
+   "James Roger Clifton",
+   "Geoffrey Frohnsdorff"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W361180934",
+  "doi": null,
+  "url": "https://trid.trb.org/view/59757",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/59757"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 261,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "INVESTIGATION OF PORTLAND BLAST-FURNACE SLAG CEMENTS",
+  "year": 1965,
+  "authors": [
+   "Bryant Mather"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2149460055",
+  "doi": null,
+  "url": "https://trid.trb.org/view/95597",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/95597"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 268,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Evaluating a 50 year Old Concrete Bridge",
+  "year": 1988,
+  "authors": [
+   "Aavanti C. Shroff"
+  ],
+  "venue": "ACI Concrete International",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2994269565",
+  "doi": null,
+  "url": "https://trid.trb.org/view/326168",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/326168"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 269,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "BEITRAG ZUR KLAERUNG DES ZUSAMMENHANGES VON KRIECHEN UND RELAXATION BEI NORMALBETON",
+  "year": 1972,
+  "authors": [
+   "Ferdinand S. Rostásy",
+   "K.T. Teichen",
+   "H Engelke"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "de",
+  "openalexId": "https://openalex.org/W1579481526",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=1064632",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=1064632"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 271,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "The frost resistance of cement paste as influenced by surface-active agents",
+  "year": 1958,
+  "authors": [
+   "Ulf Danielsson",
+   "Anders Wastesson"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2898059400",
+  "doi": null,
+  "url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:960426",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://www.diva-portal.org/smash/record.jsf?pid=diva2:960426"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 273,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "EFFECTS OF COMBINING TWO OR MORE ADMIXTURES IN CONCRETE",
+  "year": 1971,
+  "authors": [
+   "C E Lovewell",
+   "E. Hyland"
+  ],
+  "venue": "Highway Research Record",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W836148448",
+  "doi": null,
+  "url": "https://trid.trb.org/view/102475",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/102475"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 274,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Corrosion-Inhibiting Properties of Portland and Portland-Pozzolan Cement Concretes",
+  "year": 1976,
+  "authors": [
+   "Torbjorn J. Larsen",
+   "W H McDaniel",
+   "R P Brown",
+   "Jose Luis Curiel-Sosa"
+  ],
+  "venue": "Transportation Research Record Journal of the Transportation Research Board",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1511543348",
+  "doi": null,
+  "url": "https://trid.trb.org/view/1262278",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/1262278"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 275,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "AN ANALYSIS OF DRYING SHRINKAGE DATA FOR PORTLAND CEMENT MORTAR AND CONCRETE",
+  "year": 1967,
+  "authors": [
+   "A L Stockett",
+   "Andreas M. Schneider",
+   "F J Mardulier"
+  ],
+  "venue": "Journal: Materials",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W398569161",
+  "doi": null,
+  "url": "https://trid.trb.org/view/101815",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/101815"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 276,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Die Binding von Chlorid bei der Zementerhartung",
+  "year": 1969,
+  "authors": [
+   "R. Richartz"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "de",
+  "openalexId": "https://openalex.org/W3116259327",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10005124810",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10005124810"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 277,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+  "year": 1983,
+  "authors": [
+   "P Poitevin",
+   "M Regourd"
+  ],
+  "venue": "ANN ITBTP",
+  "type": "article",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W607926276",
+  "doi": null,
+  "url": "https://trid.trb.org/view/1038773",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/1038773"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 283,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CARBONATION IN REINFORCED CONCRETE: A BIBLIOGRAPHY",
+  "year": 1987,
+  "authors": [
+   "L J Parrott"
+  ],
+  "venue": "OpenGrey (Institut de l'Information Scientifique et Technique)",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W606883442",
+  "doi": null,
+  "url": "http://hdl.handle.net/10068/666217",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://hdl.handle.net/10068/666217"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 286,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "INFLUENCE OF WATER-REDUCING AND AIR-ENTRAINING ADMIXTURES ON THE WATER-REQUIREMENT, AIR CONTENT, STRENGTH, MODULUS, OF ELASTICITY, SHRINKAGE AND FROST-RESISTANCE OF CONCRETE",
+  "year": 1967,
+  "authors": [
+   "Birger Warris"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W638902281",
+  "doi": null,
+  "url": "https://trid.trb.org/view/101643",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/101643"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 287,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "REPAIR OF CONCRETE PAVEMENTS USING SYNTHETIC RESINS",
+  "year": 1976,
+  "authors": [
+   "R K Ghosh",
+   "Y R Phull",
+   "Chandra Shekhar Pant"
+  ],
+  "venue": "Journal of the Indian Roads Congress",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W586509968",
+  "doi": null,
+  "url": "https://trid.trb.org/view/73813",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/73813"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 290,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "DRYING OF CONCRETE. INFLUENCE OF THE COMPOSITION",
+  "year": 1976,
+  "authors": [
+   "Lars‐Olof Nilsson"
+  ],
+  "venue": "Nordisk Betong",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W594932786",
+  "doi": null,
+  "url": "https://trid.trb.org/view/46154",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://trid.trb.org/view/46154"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 292,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Textilní beton se zaměřením na duktilitu",
+  "year": 2021,
+  "authors": [
+   "Petr Hájek"
+  ],
+  "venue": "Czech Technical University Digital Library (Czech Technical University in Prague)",
+  "type": "dissertation",
+  "language": "cs",
+  "openalexId": "https://openalex.org/W3163093800",
+  "doi": null,
+  "url": "http://hdl.handle.net/10467/93550",
+  "alt": [],
+  "topic": "lang-cs::beton",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://hdl.handle.net/10467/93550"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 740,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Beton pro vodonepropustné betonové konstrukce",
+  "year": 2020,
+  "authors": [
+   "Zdeněk Hlavsa"
+  ],
+  "venue": "Cvut DSpace (Czech Technical University)",
+  "type": "dissertation",
+  "language": "cs",
+  "openalexId": "https://openalex.org/W3109655755",
+  "doi": null,
+  "url": "http://hdl.handle.net/10467/88563",
+  "alt": [],
+  "topic": "lang-cs::beton",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://hdl.handle.net/10467/88563"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 742,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Duurzaamheid van beton met alkali-geactiveerde slak uit de jaren 50 - Het Purdocement",
+  "year": 2011,
+  "authors": [
+   "Maarten Vanooteghem"
+  ],
+  "venue": "Submitted in <b>2011</b>",
+  "type": "article",
+  "language": "nl",
+  "openalexId": "https://openalex.org/W3118773678",
+  "doi": null,
+  "url": "https://lib.ugent.be/nl/catalog/rug01:001805488",
+  "alt": [],
+  "topic": "lang-nl::beton",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "https://lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 804,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Use of Innovative Concrete Mixes for Improved Constructability and Sustainability of Bridge Decks",
+  "year": 2013,
+  "authors": [
+   "Pankaj Narayan Shrestha",
+   "Amber Harley",
+   "Benjamin Pendergrass",
+   "David Darwin",
+   "JoAnn Browning"
+  ],
+  "venue": "KU ScholarWorks (University of Kansas)",
+  "type": "report",
+  "language": "en",
+  "openalexId": "https://openalex.org/W578862064",
+  "doi": null,
+  "url": "http://hdl.handle.net/1808/27377",
+  "alt": [],
+  "topic": "pll-apps::portland limestone cement precast bridge deck",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://hdl.handle.net/1808/27377"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 840,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   }
+  ],
+  "seen": [
+   "2026-11-13"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Portland-cement concrete rheology and workability: final report",
+  "year": 2001,
+  "authors": [
+   "G. Sam Wong",
+   "Anju Alexander",
+   "Richard Haskins",
+   "Toy S. Poole",
+   "Phillip G. Malone",
+   "Lillian D. Wakeley"
+  ],
+  "venue": "ROSA P",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1513298217",
+  "doi": null,
+  "url": "http://ntlsearch.bts.gov/ntl/md.do?id=46499",
+  "alt": [],
+  "topic": "pll-field::portland limestone cement finishing bleeding field experience",
+  "firstSeen": "2026-11-13",
+  "urlsTried": [
+   "http://ntlsearch.bts.gov/ntl/md.do?id=46499",
+   "https://rosap.ntl.bts.gov/view/dot/14219"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-13",
+    "listingIdx": 845,
+    "probe": "not inspectable on 2026-11-13 (TRID 503, CiNii 202/500, JS-only DSpace/Primo, ROSA P 403)"
+   },
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 594,
+    "probe": "fail 500 http://ntlsearch.bts.gov/ntl/md.do?id=46499 match=0.0"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3440,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-13",
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3440
+  ],
+  "inIndex": null,
+  "priorAttempts": 3
+ },
+ {
+  "title": "Design and Control of Concrete Mixtures",
+  "year": 1991,
+  "authors": [
+   "Steven H. Kosmatka",
+   "Beatrix Kerkhoff",
+   "William C. Panarese"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1574815534",
+  "doi": null,
+  "url": "http://cement.org/bookstore/supporting/cd100/EB001Frt.pdf",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://cement.org/bookstore/supporting/cd100/EB001Frt.pdf",
+   "https://cement.org/bookstore/supporting/cd100/EB001Frt.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 100,
+    "probe": "fail 500 http://cement.org/bookstore/supporting/cd100/EB001Frt.pdf match=0.0"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3379,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 404 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3379
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "A study of the failure of concrete under combined compressive stresses",
+  "year": 1928,
+  "authors": [
+   "F. E. Richart",
+   "Anton Brandtzæg",
+   "Rex Lenoi Brown"
+  ],
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "type": "report",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1525778042",
+  "doi": null,
+  "url": "http://hdl.handle.net/2142/4277",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://hdl.handle.net/2142/4277"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 102,
+    "probe": "fail 500 http://hdl.handle.net/2142/4277 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Plasticity in reinforced concrete",
+  "year": 1982,
+  "authors": [
+   "Wai‐Fah Chen"
+  ],
+  "venue": null,
+  "type": "other",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1481929702",
+  "doi": null,
+  "url": "http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=225355",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=225355"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 103,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": [
+   "R2639"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "Smeared Crack Approach and Fracture Localization in Concrete",
+  "year": 1985,
+  "authors": [
+   "J.G. Rots",
+   "P. Nauta",
+   "G.M.A. Kuster",
+   "Johan Blaauwendraad"
+  ],
+  "venue": "Research Repository (Delft University of Technology)",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2145976396",
+  "doi": null,
+  "url": "http://resolver.tudelft.nl/uuid:746aba89-3566-4ade-9931-d6bbae0c05ea",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://resolver.tudelft.nl/uuid:746aba89-3566-4ade-9931-d6bbae0c05ea"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 111,
+    "probe": "fail 500 http://resolver.tudelft.nl/uuid:746aba89-3566-4ade-9931-d6bbae0c05ea match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Fly Ash in Cement and Concrete",
+  "year": 1987,
+  "authors": [
+   "R Helmuth"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W88167688",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/ncid/BA04388984",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/ncid/BA04388984"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 118,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": [
+   "R3535"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "PROPERTIES OF CONCRETE, 3RD EDITION",
+  "year": 1981,
+  "authors": [
+   "Adam M. Neville"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W165638785",
+  "doi": null,
+  "url": "https://trid.trb.org/view/175163",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/175163"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 123,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "DESIGN OF CONCRETE MIXTURES",
+  "year": 1928,
+  "authors": [
+   "Roy W. Crum"
+  ],
+  "venue": "Highway Research Board Proceedings",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W423885903",
+  "doi": null,
+  "url": "https://trid.trb.org/view/102229",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/102229"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 155,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "TIME TO CORROSION OF REINFORCING STEEL IN CONCRETE SLABS",
+  "year": 1974,
+  "authors": [
+   "Kenneth C. Clear"
+  ],
+  "venue": "Transportation Research Record Journal of the Transportation Research Board",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2249595267",
+  "doi": null,
+  "url": "https://trid.trb.org/view/139874",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/139874"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 167,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "The non-evaporable water content of hardened Portland cement paste : its significance for concrete research and its method of determination",
+  "year": 1949,
+  "authors": [
+   "T. C. Powers"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W3213824017",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10020739198",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10020739198"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 170,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Fundamentals of high strength high performance concrete",
+  "year": 1996,
+  "authors": [
+   "Edward G. Nawy"
+  ],
+  "venue": "UCLA Biblioteca de Ingenieria Civil",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W588316838",
+  "doi": null,
+  "url": "http://bibciv.ucla.edu.ve/cgi-win/be_alex.exe?Acceso=T070400006663/0&Nombrebd=bicvucla",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://bibciv.ucla.edu.ve/cgi-win/be_alex.exe?Acceso=T070400006663/0&Nombrebd=bicvucla"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 174,
+    "probe": "fail 500 http://bibciv.ucla.edu.ve/cgi-win/be_alex.exe?Acceso=T070400006663/0&Nombrebd=bicvucla match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Hydration of pozzolanic cements",
+  "year": 1980,
+  "authors": [
+   "Kazuya Takemoto"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2981707082",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10025641264/",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10025641264/"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 179,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "INVESTIGATION OF PRESTRESSED CONCRETE RAILWAY TIE DISTRESS",
+  "year": 1995,
+  "authors": [
+   "Richard Childs Mielenz",
+   "Stella L. Marusin",
+   "William G. Hime",
+   "Z T Jugovic"
+  ],
+  "venue": "ACI Concrete International",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W647544373",
+  "doi": null,
+  "url": "https://trid.trb.org/view/483563",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/483563"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 193,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "DRYING SHRINKAGE OF CONCRETE AS AFFECTED BY MANY FACTORS",
+  "year": 1938,
+  "authors": [
+   "Roy W. Carlson"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W639368276",
+  "doi": null,
+  "url": "https://trid.trb.org/view/95702",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/95702"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 196,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Admixtures for Concrete",
+  "year": 1984,
+  "authors": [
+   "D. D. Higgins"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W570941529",
+  "doi": null,
+  "url": "https://trid.trb.org/view/207497",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/207497"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 197,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "PREHISTORY OF CONCRETE",
+  "year": 1991,
+  "authors": [
+   "Ryszard Malinowski",
+   "Yosef Garfınkel"
+  ],
+  "venue": "ACI Concrete International",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W199202420",
+  "doi": null,
+  "url": "https://trid.trb.org/view/351981",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/351981"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 198,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Highway Materials, Soils, and Concretes",
+  "year": 1980,
+  "authors": [
+   "Harold N. Atkins"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1579673602",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA84202453",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA84202453"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 202,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Identification of parameters of concrete damage plasticity constitutive model",
+  "year": 2005,
+  "authors": [
+   "Tomasz Jankowiak",
+   "Tomasz Łodygowski"
+  ],
+  "venue": "Foundations of Civil and Environmental Engineering",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W1036427860",
+  "doi": null,
+  "url": "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+  "alt": [],
+  "topic": "citation-chase-fwd",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 219,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Concrete radiation shielding : nuclear physics, concrete properties, design and construction",
+  "year": 1989,
+  "authors": [
+   "M. F. Kaplan"
+  ],
+  "venue": "Longman Scientific & Technical eBooks",
+  "type": "book",
+  "language": "en",
+  "openalexId": "https://openalex.org/W619032398",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BA07683448",
+  "alt": [],
+  "topic": "concrete-heavyweight",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BA07683448"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 281,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "MATURITY COMPUTER FOR CONTROLLED CURING AND HARDENING OF CONCRETE",
+  "year": 1977,
+  "authors": [
+   "Per Freiesleben Hansen",
+   "Erik J. Pedersen"
+  ],
+  "venue": "Nordisk Betong",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W103508092",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10003275955",
+  "alt": [],
+  "topic": "cross-construction",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10003275955"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 347,
+    "probe": "skipped-host "
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3382,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3382
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "A DISCUSSION OF CEMENT HYDRATION IN RELATION TO THE CURING OF CONCRETE",
+  "year": 1948,
+  "authors": [
+   "T. C. Powers"
+  ],
+  "venue": "Highway Research Board Proceedings",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W21547215",
+  "doi": null,
+  "url": "https://trid.trb.org/view/102345",
+  "alt": [],
+  "topic": "cross-construction",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/102345"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 357,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "IS THERE A MARKET FOR SELF-HEALING CEMENT- BASED MATERIALS?",
+  "year": 2007,
+  "authors": [
+   "Klaas van Breugel"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W2189404826",
+  "doi": null,
+  "url": "http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+  "alt": [],
+  "topic": "cross-supply-region",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 395,
+    "probe": "fail 500 http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Über die Grundlagen des Verbundes zwischen Stahl und Beton",
+  "year": 1961,
+  "authors": [
+   "Gallus Rehm"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "de",
+  "openalexId": "https://openalex.org/W2344245023",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/BB2014775X",
+  "alt": [],
+  "topic": "lang-de",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/BB2014775X"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 471,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": [
+   "R3536"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "A1 Änderung zu DIN 1045-1 Tragwerke aus Beton, Stahlbeton und Spannbeton (Gelbdruck-Phase)",
+  "year": 2007,
+  "authors": [
+   "Konrad Zilch",
+   "Raphael Methner"
+  ],
+  "venue": "Bauingenieur",
+  "type": "article",
+  "language": "de",
+  "openalexId": "https://openalex.org/W2754534775",
+  "doi": null,
+  "url": "https://mediatum.ub.tum.de/1255059",
+  "alt": [],
+  "topic": "lang-de",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://mediatum.ub.tum.de/1255059"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 473,
+    "probe": "fail 429 https://mediatum.ub.tum.de/1255059 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Instrucción de hormigón estructural E.H.E.",
+  "year": 1999,
+  "authors": [
+   "A. García-Valcarce"
+  ],
+  "venue": "Depósito Académico Digital Universidad de Navarra (University of Navarra)",
+  "type": "article",
+  "language": "es",
+  "openalexId": "https://openalex.org/W161163979",
+  "doi": null,
+  "url": "http://hdl.handle.net/10171/17515",
+  "alt": [],
+  "topic": "lang-es",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://hdl.handle.net/10171/17515"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 483,
+    "probe": "fail 500 http://hdl.handle.net/10171/17515 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Cementos de escorias activadas alcalinamente influencia de las variables y modelización del proceso",
+  "year": 2000,
+  "authors": [
+   "Fernández Jiménez",
+   "Ana María"
+  ],
+  "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "type": "dissertation",
+  "language": "es",
+  "openalexId": "https://openalex.org/W1572404929",
+  "doi": null,
+  "url": "http://hdl.handle.net/10486/13323",
+  "alt": [],
+  "topic": "lang-es",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://hdl.handle.net/10486/13323"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 484,
+    "probe": "fail 500 http://hdl.handle.net/10486/13323 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Thermal Behaviour of Concrete",
+  "year": 2014,
+  "authors": [
+   "Prathipati Padma Rao",
+   "Sajja Chandra Sekhar"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "fa",
+  "openalexId": "https://openalex.org/W2183114529",
+  "doi": null,
+  "url": "http://www.ijear.org/vol4/spl2/ec0044.pdf",
+  "alt": [],
+  "topic": "lang-fa",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.ijear.org/vol4/spl2/ec0044.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 489,
+    "probe": "fail 500 http://www.ijear.org/vol4/spl2/ec0044.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "THERMAL TREATMENT OF CONCRETE",
+  "year": 1967,
+  "authors": [
+   "José Calleja"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "fa",
+  "openalexId": "https://openalex.org/W2575603595",
+  "doi": null,
+  "url": "https://trid.trb.org/view/97440",
+  "alt": [],
+  "topic": "lang-fa",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/97440"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 491,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "APPLICATION DE LA MECANIQUE DE L'ENDOMMAGEMENT AU COMPORTEMENT NON LINEAIRE ET A LA RUPTURE DU BETON DE STRUCTURE",
+  "year": 1984,
+  "authors": [
+   "Jacky Mazars"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W8472698",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=1032710",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=1032710"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 492,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Phénomènes unilatéraux dans un matériau endommageable : Modélisation et application à l'analyse de structures en béton.",
+  "year": 1991,
+  "authors": [
+   "Christian La Borderie"
+  ],
+  "venue": "HAL",
+  "type": "dissertation",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W132107242",
+  "doi": null,
+  "url": "https://hal.science/tel-05014604v1",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://hal.science/tel-05014604v1"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 494,
+    "probe": "fail 200 https://hal.science/tel-05014604v1 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CARACTERISATION DES PATES DE CIMENT ET DES BETONS - METHODES, ANALYSE, INTERPRETATIONS",
+  "year": 1994,
+  "authors": [
+   "Véronique Baroghel-Bouny"
+  ],
+  "venue": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "type": "article",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W580517167",
+  "doi": null,
+  "url": "http://infoscience.epfl.ch/record/64190",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://infoscience.epfl.ch/record/64190"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 495,
+    "probe": "fail 500 http://infoscience.epfl.ch/record/64190 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Durabilite du beton : caracterisation et modelisation des processus physiques et chimiques de degradation du ciment",
+  "year": 1992,
+  "authors": [
+   "F. Adenot"
+  ],
+  "venue": null,
+  "type": "dissertation",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W205789551",
+  "doi": null,
+  "url": "http://www.theses.fr/1992ORLE2001",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.theses.fr/1992ORLE2001"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 496,
+    "probe": "fail 500 http://www.theses.fr/1992ORLE2001 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Nouveau guide du béton et de ses constituants",
+  "year": 1998,
+  "authors": [
+   "Georges Dreux"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W3014311889",
+  "doi": null,
+  "url": "https://data.bnf.fr/en/temp-work/b1f12ae531c132bf9f2d034303941037/",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://data.bnf.fr/en/temp-work/b1f12ae531c132bf9f2d034303941037/"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 497,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Effet de hautes températures (20-600°C) sur le béton : cas particulier du béton a hautes performances",
+  "year": 1995,
+  "authors": [
+   "Albert N. Noumowe"
+  ],
+  "venue": null,
+  "type": "dissertation",
+  "language": "fr",
+  "openalexId": "https://openalex.org/W169493789",
+  "doi": null,
+  "url": "http://www.theses.fr/1995ISAL0092",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.theses.fr/1995ISAL0092"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 498,
+    "probe": "fail 500 http://www.theses.fr/1995ISAL0092 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Upotreba reciklirane opeke kao agregata za beton",
+  "year": 2009,
+  "authors": [
+   "Ivana Kesegić",
+   "Dubravka Bjegović",
+   "Ivanka Netinger Grubeša"
+  ],
+  "venue": "Journal of the Croatian Association of Civil Engineers",
+  "type": "article",
+  "language": "hr",
+  "openalexId": "https://openalex.org/W395311675",
+  "doi": null,
+  "url": "http://casopis-gradjevinar.hr/assets/Uploads/JCE-61-2009-01-02.pdf",
+  "alt": [],
+  "topic": "lang-hr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://casopis-gradjevinar.hr/assets/Uploads/JCE-61-2009-01-02.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 499,
+    "probe": "fail 500 http://casopis-gradjevinar.hr/assets/Uploads/JCE-61-2009-01-02.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Mehanizam djelovanja vibracija na plastični svježi beton",
+  "year": 2004,
+  "authors": [
+   "Petar Krstulović",
+   "Sandra Juradin"
+  ],
+  "venue": "Journal of the Croatian Association of Civil Engineers",
+  "type": "article",
+  "language": "hr",
+  "openalexId": "https://openalex.org/W1422827644",
+  "doi": null,
+  "url": "http://www.casopis-gradjevinar.hr/assets/Uploads/JCE-56-2004-10-02.pdf",
+  "alt": [],
+  "topic": "lang-hr",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.casopis-gradjevinar.hr/assets/Uploads/JCE-56-2004-10-02.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 502,
+    "probe": "fail 500 http://www.casopis-gradjevinar.hr/assets/Uploads/JCE-56-2004-10-02.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Perancangan Struktur Beton Bertulang (Berdasarkan SNI 2847:2013)",
+  "year": 2016,
+  "authors": [
+   "Agus Setiawan"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "id",
+  "openalexId": "https://openalex.org/W3006325568",
+  "doi": null,
+  "url": "http://library.polsri.ac.id/index.php?p=show_detail&id=9338&keywords=",
+  "alt": [],
+  "topic": "lang-id",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://library.polsri.ac.id/index.php?p=show_detail&id=9338&keywords="
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 514,
+    "probe": "fail 500 http://library.polsri.ac.id/index.php?p=show_detail&id=9338&keywords= match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Balok Dan Pelat Beton Bertulang",
+  "year": 2010,
+  "authors": [
+   "Ali Asroni"
+  ],
+  "venue": "Andalas University Repository (Andalas University)",
+  "type": "article",
+  "language": "id",
+  "openalexId": "https://openalex.org/W2992421190",
+  "doi": null,
+  "url": "http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+  "alt": [],
+  "topic": "lang-id",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 515,
+    "probe": "fail 500 http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "PENGUJIAN KUAT TARIK LENTUR BETON DENGAN VARIASI KUAT TEKAN BETON",
+  "year": 2015,
+  "authors": [
+   "Fanto Pardomuan Pane",
+   "H. Tanudjaja",
+   "Reky S. Windah"
+  ],
+  "venue": "JURNAL SIPIL STATIK",
+  "type": "article",
+  "language": "id",
+  "openalexId": "https://openalex.org/W1639139088",
+  "doi": null,
+  "url": "https://www.neliti.com/publications/130866/pengujian-kuat-tarik-lentur-beton-dengan-variasi-kuat-tekan-beton",
+  "alt": [],
+  "topic": "lang-id",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://www.neliti.com/publications/130866/pengujian-kuat-tarik-lentur-beton-dengan-variasi-kuat-tekan-beton"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 518,
+    "probe": "fail 403 https://www.neliti.com/publications/130866/pengujian-kuat-tarik-lentur-beton-dengan-variasi-kuat-tekan-beton match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Microscopy for the Quality Control of Cement",
+  "year": 1980,
+  "authors": [
+   "Yoshiko Ono"
+  ],
+  "venue": "小野田研究報告",
+  "type": "article",
+  "language": "ja",
+  "openalexId": "https://openalex.org/W594007617",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/naid/40000329676",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/naid/40000329676"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 520,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "[Influences of vibration on the film thickness of cement].",
+  "year": 1971,
+  "authors": [
+   "F Nishimura",
+   "T Miyaji",
+   "Satoru Nomoto"
+  ],
+  "venue": "PubMed",
+  "type": "article",
+  "language": "ja",
+  "openalexId": "https://openalex.org/W2463199488",
+  "doi": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/5288060",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://pubmed.ncbi.nlm.nih.gov/5288060"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 521,
+    "probe": "fail 203 https://pubmed.ncbi.nlm.nih.gov/5288060/ match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "セメントコンクリート = Cement and concrete",
+  "year": 1948,
+  "authors": [
+   "日本セメント技術協会",
+   "セメント協会"
+  ],
+  "venue": null,
+  "type": "book",
+  "language": "ja",
+  "openalexId": "https://openalex.org/W2967610620",
+  "doi": null,
+  "url": "http://ci.nii.ac.jp/ncid/AN00131505",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://ci.nii.ac.jp/ncid/AN00131505"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 522,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Avaliação de propriedades mecânicas de concretos produzidos com agregados reciclados de resíduos de construção e demolição",
+  "year": 2001,
+  "authors": [
+   "Mônica Batista Leite"
+  ],
+  "venue": "Americanae (AECID Library)",
+  "type": "dissertation",
+  "language": "pt",
+  "openalexId": "https://openalex.org/W1506591921",
+  "doi": null,
+  "url": "http://hdl.handle.net/10183/21839",
+  "alt": [],
+  "topic": "lang-pt",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://hdl.handle.net/10183/21839"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 530,
+    "probe": "fail 500 http://hdl.handle.net/10183/21839 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOSETTING PLASTIC IN CONCRETE",
+  "year": 2013,
+  "authors": [
+   "M Mohammadian",
+   "Akbar Khodaparast Haghi"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "ro",
+  "openalexId": "https://openalex.org/W2559897777",
+  "doi": null,
+  "url": "https://solacolu.chim.upb.ro/p276-284w.pdf",
+  "alt": [],
+  "topic": "lang-ro",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://solacolu.chim.upb.ro/p276-284w.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 534,
+    "probe": "fail 200 https://solacolu.chim.upb.ro/p276-284w.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CERCETAREA EXPERIMENTALĂ, COMPONENTĂ ESENŢIALĂ ÎN APLICAREA DIFERITELOR METODE DE STABILIRE A DURATEI DE SERVICIU A CONSTRUCŢIILOR DIN BETON EXPERIMENTAL RESEARCH, ESSENTIAL COMPONENT IN THE APPLICATION OF DIFFERENT METHODS TO ESTABLISH THE SERVICE LIFE DESIGN OF CONCRETE STRUCTURES",
+  "year": 2011,
+  "authors": [
+   "Dan Georgescu",
+   "Adelina Apostu",
+   "Radu Gavrilescu"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "ro",
+  "openalexId": "https://openalex.org/W2555549008",
+  "doi": null,
+  "url": "http://solacolu.chim.upb.ro/pag_219_228web.pdf",
+  "alt": [],
+  "topic": "lang-ro",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://solacolu.chim.upb.ro/pag_219_228web.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 535,
+    "probe": "fail 500 http://solacolu.chim.upb.ro/pag_219_228web.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "MODEL EXPERIMENTAL DE RECICLARE A UNUI DEŞEU DIN INDUSTRIA HÂRTIEI CA MATERIE PRIMĂ SECUNDARĂ ÎN BETON AN EXPERIMENTAL MODEL OF WASTE RECYCLING FROM PAPER INDUSTRY AS SECONDARY RAW MATERIAL IN CONCRETE",
+  "year": 2014,
+  "authors": [
+   "Maria Gheorghe",
+   "Nastasia Saca",
+   "Lidia Radu",
+   "Rachila Ieremie"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "ro",
+  "openalexId": "https://openalex.org/W2184446387",
+  "doi": null,
+  "url": "http://solacolu.chim.upb.ro/pg17-24web.pdf",
+  "alt": [],
+  "topic": "lang-ro",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://solacolu.chim.upb.ro/pg17-24web.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 536,
+    "probe": "fail 500 http://solacolu.chim.upb.ro/pg17-24web.pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Influenţa coroziunii elementelor din beton asupra stabilităţii construcţiilor",
+  "year": 2012,
+  "authors": [
+   "Croitoru Gheorghe",
+   "Lvovschi Evgheni"
+  ],
+  "venue": null,
+  "type": "article",
+  "language": "ro",
+  "openalexId": "https://openalex.org/W3215983692",
+  "doi": null,
+  "url": "https://ibn.idsi.md/vizualizare_articol/111617",
+  "alt": [],
+  "topic": "lang-ro",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ibn.idsi.md/vizualizare_articol/111617"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 537,
+    "probe": "fail 403 https://ibn.idsi.md/vizualizare_articol/111617 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Klimatneutral betong genom kravställning : Hinder och möjligheter",
+  "year": 2021,
+  "authors": [
+   "Sirje Pädam",
+   "Daniel Balian",
+   "Stefan Uppenberg",
+   "Eva Wadström"
+  ],
+  "venue": "DiVA (Digitala Vetenskapliga Arkivet)",
+  "type": "report",
+  "language": "sv",
+  "openalexId": "https://openalex.org/W3210452902",
+  "doi": null,
+  "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:naturvardsverket:diva-8931",
+  "alt": [],
+  "topic": "lang-sv",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://urn.kb.se/resolve?urn=urn:nbn:se:naturvardsverket:diva-8931"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 545,
+    "probe": "fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:naturvardsverket:diva-8931 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Mognadsutveckling i ung betong : temperaturkänslighet, hållfasthet och värmeutveckling",
+  "year": 1995,
+  "authors": [
+   "Katarina Ekerfors"
+  ],
+  "venue": "DiVA (Luleå University of Technology)",
+  "type": "dissertation",
+  "language": "sv",
+  "openalexId": "https://openalex.org/W2785859252",
+  "doi": null,
+  "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+  "alt": [],
+  "topic": "lang-sv",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 547,
+    "probe": "fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Återvägen : råd och vägledning för återvinning av krossad betong som ballast i gator och vägar",
+  "year": 1999,
+  "authors": [
+   "Krister Ydrevik"
+  ],
+  "venue": "DiVA (Digitala Vetenskapliga Arkivet)",
+  "type": "report",
+  "language": "sv",
+  "openalexId": "https://openalex.org/W581120083",
+  "doi": null,
+  "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+  "alt": [],
+  "topic": "lang-sv",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 550,
+    "probe": "fail 500 http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194 match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Высокопрочный самоуплотняющийся бетон с использованием щебня фракции 5 - 10",
+  "year": 2012,
+  "authors": [
+   "А. П. Приходько",
+   "Н В Шпирько",
+   "T. V. Ulchenko",
+   "Ю. Г. Берегий",
+   "Д Н Шпирько"
+  ],
+  "venue": "CyberLeninK (CyberLeninka)",
+  "type": "article",
+  "language": "uk",
+  "openalexId": "https://openalex.org/W2591408418",
+  "doi": null,
+  "url": "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+  "alt": [],
+  "topic": "lang-uk",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 551,
+    "probe": "fail 200 https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf match=0.0"
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "ENVIRONMENTAL IMPACT ASSESSMENT OF CEMENT-CONCRETE SYSTEM",
+  "year": 2000,
+  "authors": [
+   "刘顺妮"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W995879805",
+  "doi": null,
+  "url": "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 560,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "NUMERICAL METHOD AND RANDOM ANALYSIS OF CEMENT CONCRETE EXPANSION",
+  "year": 2000,
+  "authors": [
+   "管昌生"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W933935797",
+  "doi": null,
+  "url": "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 561,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Interracial Interaction of Aggregate-Cement Paste in Concrete",
+  "year": 2015,
+  "authors": [
+   "Kong",
+   "Lijuan",
+   "Du",
+   "Yuanbo"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W3139775076",
+  "doi": null,
+  "url": "http://www.cqvip.com/QK/84253X/201501/664200285.html",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 562,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Utilization of Concrete Waste Aggregates Using Geopolymer Cement",
+  "year": 2010,
+  "authors": [
+   "Sotya",
+   "Astutiningsih",
+   "Henki",
+   "Wibowo Wibowo",
+   "Ashadi Ashadi",
+   "Hendra Hendra",
+   "Widhatra",
+   "Kresnadya",
+   "Desha",
+   "Rousstia",
+   "Maria Fragaki",
+   "Elizabeth ELIZABETH"
+  ],
+  "venue": "Journal of Civil Engineering and Architecture",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W3147412689",
+  "doi": null,
+  "url": "http://www.cqvip.com/QK/89595X/201006/36318831.html",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 564,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Influence on the performance of road cement concrete of coarse aggregate content",
+  "year": 2015,
+  "authors": [
+   "Zhao Guo-nin"
+  ],
+  "venue": "山东交通科技",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W2374382333",
+  "doi": null,
+  "url": "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 565,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "STRENGTH EFFECT OF F MINERAL ADMIXTURE ON CEMENT CONCRETE",
+  "year": 1990,
+  "authors": [
+   "冯乃谦",
+   "李桂枝"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": "article",
+  "language": "zh",
+  "openalexId": "https://openalex.org/W917126567",
+  "doi": null,
+  "url": "http://www.cqvip.com/QK/84253X/199001/4001628659.html",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "http://www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 566,
+    "probe": "skipped-host "
+   }
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "PORTLAND CEMENT CONCRETE OVERLAYS: STATE OF THE TECHNOLOGY SYNTHESIS",
+  "year": 2002,
+  "authors": [
+   "Kurt D. Smith",
+   "Hetian Yu",
+   "D G Peshkin"
+  ],
+  "venue": "ROSA P",
+  "type": "article",
+  "language": "en",
+  "openalexId": "https://openalex.org/W132758550",
+  "doi": null,
+  "url": "https://rosap.ntl.bts.gov/view/dot/49997",
+  "alt": [],
+  "topic": "pll-dot",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://rosap.ntl.bts.gov/view/dot/49997"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 578,
+    "probe": "fail 403 https://rosap.ntl.bts.gov/view/dot/49997 match=0.0"
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3442,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3442
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "THE USE OF LIMESTONE IN PORTLAND CEMENT: A STATE-OF-THE-ART REVIEW",
+  "year": 1996,
+  "authors": [
+   "Rachel J. Detwiler",
+   "PD Tennis"
+  ],
+  "venue": null,
+  "type": "review",
+  "language": "en",
+  "openalexId": "https://openalex.org/W601316214",
+  "doi": null,
+  "url": "https://trid.trb.org/view/572808",
+  "alt": [],
+  "topic": "pll-fresh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/572808"
+  ],
+  "sources": [
+   {
+    "kind": "dropped-nodoi",
+    "pass_": "pass-2026-11-18",
+    "listingIdx": 589,
+    "probe": "skipped-host "
+   },
+   {
+    "kind": "candidate",
+    "candIdx": 3441,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "seen": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "candIdx": [
+   3441
+  ],
+  "inIndex": null,
+  "priorAttempts": 2
+ },
+ {
+  "title": "Horizontal Construction Joints in Cast-In-Place Reinforced Concrete",
+  "year": 1974,
+  "authors": [
+   "Thomas Paulay",
+   "R. Park",
+   "M H Phillips"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2255102590",
+  "doi": "10.14359/17303",
+  "url": "https://ci.nii.ac.jp/naid/80013280729",
+  "alt": [],
+  "topic": "cross-construction",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/80013280729"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2661,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 404); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2661
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading",
+  "year": 2017,
+  "authors": [
+   "Hooshang Dabbagh",
+   "Kasra Amoorezaei",
+   "Soodeh Akbarpour",
+   "K. Babamuradi"
+  ],
+  "venue": "نشریه مهندسی عمران امیرکبیر",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2738936772",
+  "doi": "10.22060/ceej.2017.12224.5151",
+  "url": "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+  "alt": [],
+  "topic": "lang-fa",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2728,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 302); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2728
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Experimental Investigation of the Effect of Mold Type and Mold Oil on the Physical Characteristics of Self-Compacting Concrete",
+  "year": 2024,
+  "authors": [
+   "Neda Azizi",
+   "Mahdi Sharifi",
+   "Mohamad Reza Shokrzadeh"
+  ],
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7128064697",
+  "doi": "10.22091/cer.2024.10881.1559",
+  "url": "https://doaj.org/article/a838a09c84104d3a8eeeecefe809034f",
+  "alt": [],
+  "topic": "lang-fa",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://doaj.org/article/a838a09c84104d3a8eeeecefe809034f"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2729,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 302); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2729
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "A Criterion for Selection of Natural Aggregates in Concrete",
+  "year": 2015,
+  "authors": [
+   "Javad Sharifi",
+   "Mohammad Reza Nikudel"
+  ],
+  "venue": "فصلنامه علمی-پژوهشی علوم زمین",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2603472591",
+  "doi": "10.22071/gsj.2016.42136",
+  "url": "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+  "alt": [],
+  "topic": "lang-fa",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2730,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 302); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2730
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON",
+  "year": 2018,
+  "authors": [
+   "Mira Setiawati",
+   "Muhammad Imaduddin"
+  ],
+  "venue": "Prosiding Semnastek",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2905579206",
+  "doi": "10.32502/jbearing.v5i4.1681",
+  "url": "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+  "alt": [],
+  "topic": "lang-id",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2738,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 404); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2738
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Impacts of bentonite and cement mixing ratio on deformation characteristics of plastic concrete",
+  "year": 2016,
+  "authors": [
+   "JIAO Kai",
+   "党发宁",
+   "Kai-jun Xie"
+  ],
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7213271991",
+  "doi": "10.16198/j.cnki.1009-640x.2016.04.011",
+  "url": "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2751,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 302); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2751
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Use of Low-CO2 Portland Limestone Cement for Pavement Construction in Canada",
+  "year": 2010,
+  "authors": [
+   "M. D. A. Thomas",
+   "Kevin Cail",
+   "Bruce G. Blair",
+   "Anik Delagrave",
+   "Pierre Masson",
+   "Kenneth G. Kazanis"
+  ],
+  "venue": "International Journal of Pavement Research and Technology",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1549811631",
+  "doi": "10.6135/ijprt.org.tw/2010.3(5).228",
+  "url": "https://trid.trb.org/view/987334",
+  "alt": [],
+  "topic": "pll-pavement",
+  "firstSeen": "2026-11-18",
+  "urlsTried": [
+   "https://trid.trb.org/view/987334"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 2785,
+    "pass_": "pass-2026-11-18",
+    "rejectReason": "unverified: DOI not registered at Crossref/DataCite on 2026-11-18 (doi.org 302); no inspectable record; the OpenAlex landing page could not be inspected (404/403/202 or title not found), so nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   2785
+  ],
+  "seen": [
+   "2026-11-18"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Concrete admixtures handbook : properties, science, and technology",
+  "year": 1995,
+  "authors": [
+   "V.S. Ramachandran"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2955344674",
+  "doi": null,
+  "url": "https://www.sciencedirect.com/science/book/9780815513735",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.sciencedirect.com/science/book/9780815513735"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3380,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3380
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": [
+   "R2645"
+  ],
+  "priorAttempts": 1
+ },
+ {
+  "title": "The Properties of Fresh Concrete",
+  "year": 1968,
+  "authors": [
+   "T. C. Powers"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W3023724041",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10005339903",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10005339903"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3381,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3381
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "The Response of Reinforced Concrete to In-Plane Shear and Normal Stresses",
+  "year": 1982,
+  "authors": [
+   "Frank J. Vecchio"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2973525051",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10004174117",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10004174117"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3383,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3383
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Plain concrete at early ages",
+  "year": 1980,
+  "authors": [
+   "Jan Byfors"
+  ],
+  "venue": "DiVA (Digitala Vetenskapliga Arkivet)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2896180980",
+  "doi": null,
+  "url": "https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-2816",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-2816"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3386,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3386
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "RAPID DETERMINATION OF THE CHLORIDE PERMEABILITY OF CONCRETE",
+  "year": 1981,
+  "authors": [
+   "David Whiting"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W3095336",
+  "doi": null,
+  "url": "https://trid.trb.org/view.aspx?id=171158",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trid.trb.org/view.aspx?id=171158"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3388,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3388
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "High Reactivity Metakaolin (HRM): A New Generation Mineral Admixture for High Performance Concrete",
+  "year": 1994,
+  "authors": [
+   "Michael A. Caldarone",
+   "Karen A. Gruber",
+   "Ronald G. Burg"
+  ],
+  "venue": "ACI Concrete International",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W203315777",
+  "doi": null,
+  "url": "https://trid.trb.org/view/1167775",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trid.trb.org/view/1167775"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3389,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3389
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Rice Hush Ash-A Unique Supplementary Cementing Material",
+  "year": 1992,
+  "authors": [
+   "P.K. Mehta"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2473526636",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10005124963",
+  "alt": [],
+  "topic": "citation-chase",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10005124963"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3391,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3391
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Creep of plain and structural concrete",
+  "year": 1983,
+  "authors": [
+   "Adam M. Neville",
+   "Walter H. Dilger",
+   "J. J. Brooks"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2037634305",
+  "doi": null,
+  "url": "https://fipak.areeo.ac.ir/site/catalogue/18325476",
+  "alt": [],
+  "topic": "concrete-structural",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://fipak.areeo.ac.ir/site/catalogue/18325476"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3392,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 000 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3392
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "\"BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE (ACI 318-11) AND COMMENTARY\"",
+  "year": 2011,
+  "authors": [
+   "Randall W. Poston",
+   "Basile G. Rabbat",
+   "Sergio M. Alcocer",
+   "Neal S. Anderson",
+   "Florian Barth",
+   "Kenneth B. Bondy",
+   "Dean A. Browning",
+   "Ned M. Cleland",
+   "W. Gene Corley",
+   "Charles W. Dolan"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2337892068",
+  "doi": null,
+  "url": "https://www.concrete.org/publications/getarticle.aspx?m=ojs&pubID=51683017",
+  "alt": [],
+  "topic": "cross-tests-codes",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.concrete.org/publications/getarticle.aspx?m=ojs&pubID=51683017"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3394,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3394
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "CONCISE EUROCODE FOR THE DESIGN OF CONCRETE BUILDINGS. BASED ON BSI PUBLICATION DD ENV 1992-1-1: 1992. EUROCODE 2: DESIGN OF CONCRETE STRUCTURES. PART 1: GENERAL RULES AND RULES FOR BUILDINGS",
+  "year": 1993,
+  "authors": [
+   "Andrew W. Beeby",
+   "Rangachari Narayanan"
+  ],
+  "venue": "OpenGrey (Institut de l'Information Scientifique et Technique)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W575599949",
+  "doi": null,
+  "url": "https://hdl.handle.net/10068/668026",
+  "alt": [],
+  "topic": "cross-tests-codes",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/10068/668026"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3395,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 500 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3395
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Ultra-High Performance Concrete: A State-of-the-Art Report for the Bridge Community",
+  "year": 2013,
+  "authors": [
+   "Henry G. Russell",
+   "Benjamin A. Graybeal"
+  ],
+  "venue": "ROSA P",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W148023564",
+  "doi": null,
+  "url": "https://rosap.ntl.bts.gov/view/dot/26387",
+  "alt": [],
+  "topic": "cross-tests-codes",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://rosap.ntl.bts.gov/view/dot/26387"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3396,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3396
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Využití alkalicky aktivovaných betonů u malých mostních objektů, včetně použití u malých integrovaných mostů",
+  "year": 2012,
+  "authors": [
+   "Lenka Tišlerová"
+  ],
+  "venue": "Digital library - University of Pardubice (University of Pardubice)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2320398746",
+  "doi": null,
+  "url": "https://hdl.handle.net/10195/48740",
+  "alt": [],
+  "topic": "lang-cs",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/10195/48740"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3397,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3397
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Experimentální stanovení faktorů ovlivňujících statický modul pružnosti betonu s využitím nedestruktivních zkušebních metod",
+  "year": 2016,
+  "authors": [
+   "Dalibor Kocáb"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2732707441",
+  "doi": null,
+  "url": "https://dspace.vutbr.cz/handle/11012/69186",
+  "alt": [],
+  "topic": "lang-cs",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://dspace.vutbr.cz/handle/11012/69186"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3398,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3398
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "EXPERIMENTÁLNÍ OVĚŘOVÁNÍ PRVKŮ Z TEXTILNÍHO BETONU",
+  "year": 2019,
+  "authors": [
+   "Tomáš Bittner"
+  ],
+  "venue": "Czech Technical University Digital Library (Czech Technical University in Prague)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2968066980",
+  "doi": null,
+  "url": "https://hdl.handle.net/10467/83466",
+  "alt": [],
+  "topic": "lang-cs",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/10467/83466"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3399,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3399
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Experimentální porovnání metod destruktivního a nedestruktivního zkoušení betonů a vláknobetonů",
+  "year": 2015,
+  "authors": [
+   "Leos Jirovsky"
+  ],
+  "venue": "Digitální knihovna Univerzity Pardubice (Univerzity Pardubice)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2586119962",
+  "doi": null,
+  "url": "https://hdl.handle.net/10195/60270",
+  "alt": [],
+  "topic": "lang-cs",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/10195/60270"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3400,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3400
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Studium možností využití kameniva z recyklovaných betonů pro výrobu konstrukčních betonů",
+  "year": 2014,
+  "authors": [
+   "Eva Skriňáková"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W3184063332",
+  "doi": null,
+  "url": "https://dspace.vutbr.cz/handle/11012/35402",
+  "alt": [],
+  "topic": "lang-cs",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://dspace.vutbr.cz/handle/11012/35402"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3401,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3401
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Numerisk modellering af formfyldning ved støbning i selvkompakterende beton",
+  "year": 2012,
+  "authors": [
+   "Jon Spangenberg",
+   "Mette Rica Geiker",
+   "Jesper Henri Hattel",
+   "Henrik Stang"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2594166133",
+  "doi": null,
+  "url": "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+  "alt": [],
+  "topic": "lang-da",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3402,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3402
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Die Konsistenz von Zementleim, Mörtel und Beton und ihre zeitliche Veränderung",
+  "year": 1985,
+  "authors": [
+   "Jürgen Krell"
+  ],
+  "venue": "RWTH Publications (RWTH Aachen)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2589433458",
+  "doi": null,
+  "url": "https://publications.rwth-aachen.de/record/69184",
+  "alt": [],
+  "topic": "lang-de",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://publications.rwth-aachen.de/record/69184"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3403,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3403
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOGÍA DE PASTAS DE CEMENTO PORTlAND",
+  "year": 2014,
+  "authors": [
+   "Viviana Fátima Rahhal",
+   "C. Pedrajas",
+   "Edgardo F. Irassar",
+   "Rafael Talero"
+  ],
+  "venue": "Redalyc (Universidad Autónoma del Estado de México)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2171777524",
+  "doi": null,
+  "url": "https://www.redalyc.org/articulo.oa?id=361233555001",
+  "alt": [],
+  "topic": "lang-es",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.redalyc.org/articulo.oa?id=361233555001"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3404,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 502 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3404
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Evaluación del uso de arcillas y puzolanas en la etapa de molienda de acabado para la fabricación de Cemento Portland Puzolánico tipo IP",
+  "year": 2012,
+  "authors": [
+   "Andrés Esteban Delgado Vallejo",
+   "César Antonio Negrete Martínez"
+  ],
+  "venue": "Repositorio Institucional (Universidad de Cuenca)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W45253227",
+  "doi": null,
+  "url": "https://dspace.ucuenca.edu.ec/handle/123456789/2389",
+  "alt": [],
+  "topic": "lang-es",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://dspace.ucuenca.edu.ec/handle/123456789/2389"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3405,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 404 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3405
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Läpäisevä betoni",
+  "year": 2026,
+  "authors": [
+   "Maged Al-ameri"
+  ],
+  "venue": "Theseus (Ammattikorkeakoulujen)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7139672032",
+  "doi": null,
+  "url": "https://www.theseus.fi/handle/10024/912533",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.theseus.fi/handle/10024/912533"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3406,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3406
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Tarjouslaskentatyökalu PainavaPinta Oy:lle : Betoni- ja muottityön urakkamenekkilaskuri",
+  "year": 2026,
+  "authors": [
+   "Miina Kivimäki"
+  ],
+  "venue": "Theseus (Ammattikorkeakoulujen)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7159748926",
+  "doi": null,
+  "url": "https://www.theseus.fi/handle/10024/915746",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.theseus.fi/handle/10024/915746"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3407,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3407
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Vähähiilinen betoni voimalinjaelementtien tuotannossa Betroc Oy:llä",
+  "year": 2026,
+  "authors": [
+   "Juho Hakala"
+  ],
+  "venue": "Theseus (Ammattikorkeakoulujen)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7162166039",
+  "doi": null,
+  "url": "https://www.theseus.fi/handle/10024/919313",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.theseus.fi/handle/10024/919313"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3408,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3408
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Teräs–betoni-liittovälipohjan hiilijalanjäljen pienentäminen",
+  "year": 2026,
+  "authors": [
+   "Walter Wigilant"
+  ],
+  "venue": "Tampere University Institutional Repository (Tampere University)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7163099644",
+  "doi": null,
+  "url": "https://trepo.tuni.fi/handle/10024/236701",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trepo.tuni.fi/handle/10024/236701"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3409,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3409
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Rakennusmateriaalien uudelleenkäyttö Suomessa: Betoni, puu, tiili ja teräs",
+  "year": 2026,
+  "authors": [
+   "Justus Leppäaho"
+  ],
+  "venue": "Tampere University Institutional Repository (Tampere University)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7168063038",
+  "doi": null,
+  "url": "https://trepo.tuni.fi/handle/10024/238997",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trepo.tuni.fi/handle/10024/238997"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3410,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3410
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Metropolia ja vähähiilinen betoni",
+  "year": 2025,
+  "authors": [
+   "Albina Spahiu"
+  ],
+  "venue": "Theseus (Ammattikorkeakoulujen)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7127204375",
+  "doi": null,
+  "url": "https://www.theseus.fi/handle/10024/883278",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.theseus.fi/handle/10024/883278"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3411,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3411
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Siltarakenteiden korjaaminen: Betoni- ja terässiltojen vertailu",
+  "year": 2025,
+  "authors": [
+   "Riku Räisänen"
+  ],
+  "venue": "Tampere University Institutional Repository (Tampere University)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7133032464",
+  "doi": null,
+  "url": "https://trepo.tuni.fi/handle/10024/226710",
+  "alt": [],
+  "topic": "lang-fi",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trepo.tuni.fi/handle/10024/226710"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3412,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3412
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Comportement au jeune âge des structures en béton armé à base de liants composés aux laitiers",
+  "year": 2012,
+  "authors": [
+   "Batian Kolani"
+  ],
+  "venue": "Thèses en ligne de l'Université Toulouse III (Université Toulouse III)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W51995527",
+  "doi": null,
+  "url": "https://thesesups.ups-tlse.fr/1849/1/2012TOU30204.pdf",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://thesesups.ups-tlse.fr/1849/1/2012TOU30204.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3413,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 000 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3413
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Influence de la nature du liant et de la température sur le transport des chlorures dans les matériaux cimentaires",
+  "year": 2006,
+  "authors": [
+   "Than Son Nguyen"
+  ],
+  "venue": "OpenGrey (Institut de l'Information Scientifique et Technique)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1605224939",
+  "doi": null,
+  "url": "https://hdl.handle.net/10068/789357",
+  "alt": [],
+  "topic": "lang-fr",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/10068/789357"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3414,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 500 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3414
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Tecnologia dei materiali: leganti e calcestruzzo - Nuova edizione",
+  "year": 2000,
+  "authors": [
+   "L.Bertolini Lbertolini",
+   "P.Pedeferri Ppedeferri"
+  ],
+  "venue": "Virtual Community of Pathological Anatomy (University of Castilla La Mancha)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2594904230",
+  "doi": null,
+  "url": "https://hdl.handle.net/11311/505633",
+  "alt": [],
+  "topic": "lang-it",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11311/505633"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3415,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 404 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3415
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "EFFECTS OF PROPERTIES OF FLY ASH ON FLUIDITY OF PASTE",
+  "year": 2002,
+  "authors": [
+   "Pipat Termkhajornkit",
+   "Toyoharu NAWA",
+   "Hiroshi Ohnuma"
+  ],
+  "venue": "Cement Science and Concrete Technology",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W612583206",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10008220940",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10008220940"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3416,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3416
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "1022 A STUDY OF FLY ASH-CEMENT HYDRATION BY RIETVELD ANALYSIS AND SELECTIVE DISSOLUTION",
+  "year": 2005,
+  "authors": [
+   "Pipat Termkhajornkit",
+   "豊春 名和",
+   "清文 胡桃澤"
+  ],
+  "venue": "コンクリート工学年次論文集",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W642046813",
+  "doi": null,
+  "url": "https://data.jci-net.or.jp/data_pdf/27/027-01-1022.pdf",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://data.jci-net.or.jp/data_pdf/27/027-01-1022.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3417,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3417
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "FUNDAMENTAL STUDY ON REACTION BETWEEN FLY ASH AND CALCIUM HYDROXIDE",
+  "year": 1997,
+  "authors": [
+   "Tatsuhiko SAEKI",
+   "Shigeyoshi Nagataki"
+  ],
+  "venue": "Cement Science and Concrete Technology",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2276504023",
+  "doi": null,
+  "url": "https://ci.nii.ac.jp/naid/10009868500",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://ci.nii.ac.jp/naid/10009868500"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3418,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 202 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3418
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "1010 EXPERIMENTAL STUDY ON ACCELERATION OF POZZOLANICREACTION OF FLY ASH",
+  "year": 2002,
+  "authors": [
+   "Paweena Jariyathitipong",
+   "研至 河合",
+   "良一 佐藤",
+   "茂 土田"
+  ],
+  "venue": "コンクリート工学年次論文集",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2158387923",
+  "doi": null,
+  "url": "https://data.jci-net.or.jp/data_pdf/24/024-01-1010.pdf",
+  "alt": [],
+  "topic": "lang-ja",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://data.jci-net.or.jp/data_pdf/24/024-01-1010.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3419,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3419
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "SLAG/FLY ASH CEMENTS",
+  "year": 1977,
+  "authors": [
+   "Micheal A. Smith",
+   "G. J. Osborne"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W562939467",
+  "doi": null,
+  "url": "https://trid.trb.org/view/72936",
+  "alt": [],
+  "topic": "lang-nl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://trid.trb.org/view/72936"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3420,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (trid.trb.org) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3420
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)",
+  "year": 2007,
+  "authors": [
+   "Elke Knapen"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2236099524",
+  "doi": null,
+  "url": "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+  "alt": [],
+  "topic": "lang-nl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3421,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 404 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3421
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Bergkrossmaterial som ballast i Betong",
+  "year": 2008,
+  "authors": [
+   "Björn Lagerblad",
+   "Mikael Westerholm",
+   "Leif Fjällberg",
+   "Hans-Erik Gram"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W585294144",
+  "doi": null,
+  "url": "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3422,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (www.researchgate.net) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3422
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Stabilitet av betongdammer - Ruhetens påvirkning på skjærkapasiteten mellom betong og berg",
+  "year": 2012,
+  "authors": [
+   "Simen Alexander Liahagen"
+  ],
+  "venue": "NORA - Norwegian Open Research Archives",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W340010154",
+  "doi": null,
+  "url": "https://hdl.handle.net/11250/242300",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11250/242300"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3423,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3423
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Volumendringer og risstendens i betong = volum changes and cracking tendency in concrete",
+  "year": 2009,
+  "authors": [
+   "Øyvind Bjæntegaard"
+  ],
+  "venue": "NORA - Norwegian Open Research Archives",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2502134435",
+  "doi": null,
+  "url": "https://hdl.handle.net/11250/194017",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11250/194017"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3424,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3424
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Kloriddiffusjon i betong. Vurdering av aldringseffekten ved felteksponering : COIN P4 Operational service life design, SP 4.1 Service life modelling",
+  "year": 2009,
+  "authors": [
+   "Ola Skjølsvold"
+  ],
+  "venue": "BIBSYS Brage (BIBSYS (Norway))",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2593446748",
+  "doi": null,
+  "url": "https://hdl.handle.net/11250/2421933",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11250/2421933"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3425,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3425
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Betong i bygninger - konsekvenser for inneklima. Forprosjekt",
+  "year": 1996,
+  "authors": [
+   "Peter Blom",
+   "Harald Justnes",
+   "Finn Olav Levy"
+  ],
+  "venue": "BIBSYS Brage (BIBSYS (Norway))",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2581398212",
+  "doi": null,
+  "url": "https://hdl.handle.net/11250/2415888",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11250/2415888"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3426,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3426
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Kompletterande dynamisk provning av kontinuerliga plattstrimlor av betong med armering av varierande seghet",
+  "year": 2003,
+  "authors": [
+   "Anders Ansell",
+   "Göran Svedbjörk"
+  ],
+  "venue": null,
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1491251870",
+  "doi": null,
+  "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3427,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3427
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Forskjeller i miljøpåvirkninger gjennom livsløpet til Ullerud Helsebygg som følge av valg mellom bærende konstruksjon i massivtre eller stål og betong.",
+  "year": 2017,
+  "authors": [
+   "Ida Marie Strekerud"
+  ],
+  "venue": "BIBSYS Brage (BIBSYS (Norway))",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2770108356",
+  "doi": null,
+  "url": "https://hdl.handle.net/11250/2468074",
+  "alt": [],
+  "topic": "lang-no",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/11250/2468074"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3428,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3428
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Ocena wytrzymałości betonu na ściskanie w konstrukcjach na podstawie badania odwiertów rdzeniowych w świetle nowej normy europejskiej EN 13791:2007",
+  "year": 2008,
+  "authors": [
+   "Andrzej Moczko"
+  ],
+  "venue": "Budownictwo, Technologie, Architektura",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1491959663",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3429,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3429
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Tradycyjne i współczesne domieszki do betonu zmniejszające ilość wody zarobowej",
+  "year": 2000,
+  "authors": [
+   "L. Kucharska"
+  ],
+  "venue": "Cement Wapno Beton",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1535796158",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3430,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3430
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Nowe dodatki mineralne do betonu",
+  "year": 2011,
+  "authors": [
+   "Marta Kosior‐Kazberuk"
+  ],
+  "venue": "Budownictwo i Inżynieria Środowiska",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1482816913",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3431,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3431
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Odpady ceramiki sanitarnej jako kruszywo do betonu",
+  "year": 2011,
+  "authors": [
+   "Anna Halicka",
+   "Bartosz Zegardło"
+  ],
+  "venue": "Przegląd Budowlany",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1001658298",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3432,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3432
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Ocena zagrożenia korozją zbrojenia konstrukcji żelbetowych. Cz. 1 - badania właściwości ochronnych betonu",
+  "year": 2012,
+  "authors": [
+   "A. Zybura",
+   "M. Jaśniok",
+   "T. Jaśniok"
+  ],
+  "venue": "Przegląd Budowlany",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W760476743",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3433,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3433
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Nowa norma PN-EN 15037-1 Prefabrykaty z betonu. Belkowo-pustakowe systemy stropowe. Cz.1: Belki",
+  "year": 2011,
+  "authors": [
+   "Andrzej Cholewicki",
+   "J. Szulc"
+  ],
+  "venue": "MATERIAŁY BUDOWLANE",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W1482067121",
+  "doi": null,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0077-0054",
+  "alt": [],
+  "topic": "lang-pl",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0077-0054"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3434,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3434
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "BETONARME BİNALARIN DEPREM SONRASI ACİL HASAR DEĞERLENDİRMELERİ",
+  "year": 2008,
+  "authors": [
+   "İsa Öner Yüksel"
+  ],
+  "venue": "Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2894782484",
+  "doi": null,
+  "url": "https://dergipark.org.tr/en/download/article-file/236278",
+  "alt": [],
+  "topic": "lang-tr",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://dergipark.org.tr/en/download/article-file/236278"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3435,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 200 but title not found on the page (JS-only page or PDF) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3435
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Research on Hydration of Steel Slag Cement Activatedwith Waterglass",
+  "year": 2001,
+  "authors": [
+   "胡曙光"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W919977396",
+  "doi": null,
+  "url": "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3436,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (oversea.cnki.net) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3436
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "year": 2001,
+  "authors": [
+   "陈友治"
+  ],
+  "venue": "Journal of Wuhan University of Technology-Mater Sci Ed",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2258488303",
+  "doi": null,
+  "url": "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3437,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; host not inspectable from the box (www.cqvip.com) on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3437
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Experimental Study on Grouting Material of Red Mud–blast Furnace Slag–steel Slag Ternary System",
+  "year": 2021,
+  "authors": [
+   "Zhaofeng LI",
+   "Chao LIU",
+   "WANG Chuan",
+   "Jian Zhang",
+   "Yansheng WANG",
+   "Yifan GAO"
+  ],
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7162843139",
+  "doi": null,
+  "url": "https://doaj.org/article/007a9f363892471da29db11c337615aa",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3438,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3438
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Drying Shrinkage Characteristics of Magnesium Slag Composite Admixture Concrete",
+  "year": 2016,
+  "authors": [
+   "崔自治",
+   "Shanshan Li",
+   "张城 Zhang Cheng",
+   "Dongdong CHEN"
+  ],
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W7162820792",
+  "doi": null,
+  "url": "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+  "alt": [],
+  "topic": "lang-zh",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3439,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3439
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Effect of Portland Cement (Current ASTM C150/AASHTO M85) with Limestone and Process Addition (ASTM C465/AASHTO M327) on the Performance of Concrete for Pavement and Bridge Decks",
+  "year": 2014,
+  "authors": [
+   "Mohsen A. Issa"
+  ],
+  "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W428386108",
+  "doi": null,
+  "url": "https://hdl.handle.net/2142/47549",
+  "alt": [],
+  "topic": "pll-field",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/2142/47549"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3443,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3443
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ },
+ {
+  "title": "Effect of Portland cement concrete characteristics and constituents on thermal expansion",
+  "year": 2014,
+  "authors": [
+   "Sarwar Siddiqui"
+  ],
+  "venue": "Texas ScholarWorks (Texas Digital Library)",
+  "type": null,
+  "language": null,
+  "openalexId": "https://openalex.org/W2405372175",
+  "doi": null,
+  "url": "https://hdl.handle.net/2152/31324",
+  "alt": [],
+  "topic": "pll-field",
+  "firstSeen": "2026-11-19",
+  "urlsTried": [
+   "https://hdl.handle.net/2152/31324"
+  ],
+  "sources": [
+   {
+    "kind": "candidate",
+    "candIdx": 3444,
+    "pass_": "pass-2026-11-19",
+    "rejectReason": "unverifiable: no DOI; landing page HTTP 403 on 2026-11-19; nothing could be verified"
+   }
+  ],
+  "candIdx": [
+   3444
+  ],
+  "seen": [
+   "2026-11-19"
+  ],
+  "inIndex": null,
+  "priorAttempts": 1
+ }
+]

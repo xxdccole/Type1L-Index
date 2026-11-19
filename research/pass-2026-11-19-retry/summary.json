@@ -1,0 +1,59 @@
+{
+ "poolUnique": 170,
+ "retryTotal": 163,
+ "fromRejected": 73,
+ "newQualifiedAdded": 90,
+ "promotable": 97,
+ "stillUnavailable": 66,
+ "excluded": [
+  [
+   "Materials science of concrete",
+   "R3534"
+  ],
+  [
+   "Mathematical modeling of creep and shrinkage of concrete",
+   "R3538"
+  ],
+  [
+   "Fly Ash in Cement and Concrete",
+   "R3535"
+  ],
+  [
+   "Über die Grundlagen des Verbundes zwischen Stahl und Beton",
+   "R3536"
+  ],
+  [
+   "[Influences of vibration on the film thickness of cement].",
+   "off-topic"
+  ],
+  [
+   "セメントコンクリート = Cement and concrete",
+   "not-a-real-source"
+  ],
+  [
+   "Ultra-High Performance Concrete: A State-of-the-Art Report for the Bri",
+   "R155"
+  ]
+ ],
+ "candStatus": {
+  "promoted": 3201,
+  "matched-verified": 23,
+  "rejected": 148,
+  "retry": 163
+ },
+ "rejectedByCategory": {
+  "duplicate": 67,
+  "off-topic": 76,
+  "not-a-real-source": 3,
+  "retracted": 1,
+  "relevance-not-established": 1
+ },
+ "candLines": 3535,
+ "routes": {
+  "openlibrary-edition": 3,
+  "wayback": 52,
+  "direct": 23,
+  "cinii-opensearch": 13,
+  "openlibrary": 6
+ }
+}
