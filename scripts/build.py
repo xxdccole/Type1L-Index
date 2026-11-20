@@ -36,6 +36,7 @@ FULL_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 NOTES_PATH = ROOT / "data" / "resource-notes.json"
 REVIEW_PATH = ROOT / "research" / "review-retry.jsonl"
+REACTIONS_PATH = ROOT / "data" / "reactions.json"
 # Original topic ids. Their takeaways describe Type IL practice and stay labeled that way.
 TYPE_IL_TOPICS = frozenset({
     "standards", "dot", "carbon", "fresh", "strength", "durability", "scm",
@@ -457,6 +458,8 @@ class Site:
     def footer(self, prefix):
         d = self.d
         review = f' · <a href="{prefix}review/">Leads to review</a>' if REVIEW_PATH.exists() else ""
+        if REACTIONS_PATH.exists():
+            review += f' · <a href="{prefix}reactions/">Reaction stoichiometry</a> · <a href="{prefix}calculator/">Batch calculator</a>'
         return f"""<footer class="site-footer">
 <div class="wrap">
 <p>{e(d['title'])}. Last updated {time_el(d['lastUpdated'], True)}.</p>
@@ -736,6 +739,182 @@ class Site:
 </html>
 """
 
+    # ------------------------------------------------------------------ reaction table and batch calculator
+    def rx_src_links(self, ids, srcs, prefix):
+        out = []
+        for sid in ids:
+            s = srcs.get(sid, {})
+            if sid in self.res:
+                out.append(f'<a href="{prefix}#r-{e(sid)}">{e(sid)}</a>')
+            elif s.get("url"):
+                out.append(f'<a href="{e(s["url"])}" rel="noopener" title="Candidate source, not an index resource">{e(sid)}</a>')
+            else:
+                out.append(e(sid))
+        return ", ".join(out)
+
+    @staticmethod
+    def rx_val(v, digits=4):
+        """A {value, basis} record as text; null stays 'unknown'."""
+        if not v or v.get("value") is None:
+            return '<span class="rx-unk">unknown</span>'
+        x = v["value"]
+        txt = f"{x:.{digits}g}" if isinstance(x, float) else str(x)
+        tag = {"sourced": "S", "derived": "D"}.get(v.get("basis"), "?")
+        return f'{e(txt)} <abbr class="rx-b" title="{e(v.get("basis") or "")}">{tag}</abbr>'
+
+    def reactions_page(self, rx):
+        prefix, url = "../", f"{self.base}reactions/"
+        title = self.doc_title("Cement reaction stoichiometry table")
+        n, c = len(rx["reactions"]), rx["counts"]
+        desc = (f"{n} idealised cement, SCM and binder reactions with balanced equations, water and CH per gram, heats, "
+                "molar volumes and chemical shrinkage. Every number is sourced or derived; gaps stay unknown.")
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "url": url, "name": title, "description": desc,
+              "isPartOf": {"@id": self.base + "#website"}}
+        srcs = rx["sources"]
+        rows, details, fams = [], [], collections.OrderedDict()
+        for r in rx["reactions"]:
+            fams.setdefault(r["family"], []).append(r)
+        for fam, rs in fams.items():
+            rows.append(f'<tr class="rx-fam"><th colspan="7" scope="colgroup">{e(fam)}</th></tr>')
+            for r in rs:
+                heats = "<br>".join(f'{self.rx_val(h, 4)} <span class="meta">({self.rx_src_links(h.get("sources") or [], srcs, prefix)})</span>'
+                                    for h in (r.get("heat") or [])) or '<span class="rx-unk">unknown</span>'
+                rows.append(f'<tr id="{e(r["id"])}"><th scope="row"><a href="#{e(r["id"])}-d">{e(r["id"])}</a></th><td>{e(r["name"])}<br><code>{e(r["equationCement"])}</code></td>'
+                            f'<td class="num">{self.rx_val(r.get("waterConsumedPerGram"))}</td><td class="num">{self.rx_val(r.get("chPerGram"))}</td>'
+                            f'<td class="num">{heats}</td><td class="num">{self.rx_val(r.get("chemicalShrinkage"))}</td>'
+                            f'<td>{self.rx_src_links(r.get("sources") or [], srcs, prefix)}</td></tr>')
+                sp = "".join(f'<tr><td>{e(s["side"])}</td><td class="num">{e(str(s["coef"]))}</td><td>{e(s["label"])}</td>'
+                             f'<td class="num">{self.rx_val(s.get("molarMass"), 5)}</td><td class="num">{self.rx_val(s.get("massPerGramKey"))}</td>'
+                             f'<td class="num">{self.rx_val(s.get("molarVolume"))}</td><td class="num">{self.rx_val(s.get("density"))}</td></tr>'
+                             for s in r.get("species") or [])
+                alts = "".join(f'<li><code>{e(a["formula"])}</code>: Ca/Si {e(str(a.get("CaSi")) if a.get("CaSi") is not None else "unknown")}, '
+                               f'H/Si {e(str(a.get("HSi")) if a.get("HSi") is not None else "unknown")}. {e(a.get("note") or "")} '
+                               f'({self.rx_src_links(a.get("sources") or [], srcs, prefix)})</li>' for a in r.get("cshAlternatives") or [])
+                notes = [x.get("note") for x in [r.get("waterConsumedPerGram"), r.get("chPerGram"), r.get("chemicalShrinkage")] + (r.get("heat") or []) if x and x.get("note")]
+                if r.get("heatNote"):
+                    notes.append(r["heatNote"])
+                details.append(f'<details id="{e(r["id"])}-d"><summary><strong>{e(r["id"])}</strong> {e(r["name"])}</summary>'
+                               f'<p><code>{e(r["equationChemical"])}</code><br><code>{e(r["equationCement"])}</code> '
+                               f'<span class="meta">(scheme: {e(r.get("schemeBasis") or "")}; per gram of {e(r.get("keyPhaseLabel") or "")})</span></p>'
+                               + (f'<p>C-S-H: {e(r["cshStoichiometry"])}</p>' if r.get("cshStoichiometry") else "")
+                               + (f'<ul>{alts}</ul>' if alts else "")
+                               + f'<div class="table-scroll"><table><thead><tr><th>Side</th><th>Coef.</th><th>Species</th><th>M (g/mol)</th><th>g per g key phase</th><th>V (cm³/mol)</th><th>ρ (g/cm³)</th></tr></thead><tbody>{sp}</tbody></table></div>'
+                               + "".join(f'<p class="meta">{e(x)}</p>' for x in notes)
+                               + f'<p class="meta">Conditions: {e(r.get("conditions") or "")}</p></details>')
+        slist = "".join(f'<li id="src-{e(k)}"><strong>{e(k)}</strong>{" (index resource)" if k in self.res else " (candidate source, not an index resource)"}: '
+                        f'{e(v.get("authors") or "")}{", " if v.get("authors") else ""}{e(str(v.get("year") or ""))}. '
+                        + (f'<a href="{e(v["url"])}" rel="noopener">{e(v.get("title") or v["url"])}</a>' if v.get("url") else e(v.get("title") or ""))
+                        + f'. <span class="meta">Used for: {e(v.get("used_for") or "")}</span></li>' for k, v in srcs.items())
+        return self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld) + f"""<body>
+<style>.rx-b{{font-size:.75em;opacity:.7;text-decoration:none}}.rx-unk{{opacity:.6;font-style:italic}}.rx-fam th{{text-align:left;padding-top:1em}}details{{margin:.5em 0}}code{{white-space:normal}}</style>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead slim" id="top">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <span>Reaction stoichiometry</span></nav>
+<h1>Cement reaction stoichiometry</h1>
+<p class="meta-line">{n} reactions · {c["sourcedValues"]} sourced, {c["derivedValues"]} derived, {c["unknownValues"]} unknown values · <a href="{prefix}calculator/">Batch calculator</a> · <a href="{prefix}data/reactions.json">Data (JSON)</a></p>
+</div>
+</header>
+<main id="main"><div id="content"><section><div class="wrap">
+<p class="notice"><strong>Not a substitute for testing or thermodynamic modelling.</strong> {e(rx["disclaimer"])}</p>
+<p class="evidence-note">S = sourced (the value appears in the cited source, which was opened and read). D = derived (calculated here from sourced values and CIAAW atomic weights). Unknown means no inspected source gave the value; nothing is filled in by assumption. Per-gram values are per gram of the key reactant. Water is positive when consumed. CH is positive when produced and negative when consumed. Chemical shrinkage is positive for a volume loss. Coverage is a working set of common reactions, not an exhaustive list.</p>
+<div class="table-scroll"><table>
+<thead><tr><th scope="col">ID</th><th scope="col">Reaction (cement notation)</th><th scope="col">Water (g/g)</th><th scope="col">CH (g/g)</th><th scope="col">Heat (J/g)</th><th scope="col">Chem. shrinkage (cm³/g)</th><th scope="col">Sources</th></tr></thead>
+<tbody>{"".join(rows)}</tbody></table></div>
+<h2>Reaction details</h2>
+{"".join(details)}
+<h2>Sources</h2>
+<p class="evidence-note">R numbers link to resources in this index. Candidate sources were used for values but have not been added to the index; they are listed in <code>research/reactions-candidates.jsonl</code>.</p>
+<ul>{slist}</ul>
+</div></section></div></main>
+{self.footer(prefix)}</body>
+</html>
+"""
+
+    def calculator_page(self, rx):
+        prefix, url = "../", f"{self.base}calculator/"
+        title = self.doc_title("Cement batch reaction calculator")
+        desc = ("Client-side estimate of cement phases, bound water, CH balance, AFt/AFm, C-S-H, heat, chemical shrinkage and "
+                "Powers porosity for a batch with SCMs. Not a substitute for testing.")
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "url": url, "name": title, "description": desc,
+              "isPartOf": {"@id": self.base + "#website"}}
+        srcs = rx["sources"]
+        L = lambda *ids: self.rx_src_links(list(ids), srcs, prefix)
+
+        def fld(i, label, val="", step="any", ph=""):
+            return (f'<label for="{i}">{e(label)}<input id="{i}" name="{i}" type="number" step="{step}" inputmode="decimal"'
+                    f'{f" value={chr(34)}{e(val)}{chr(34)}" if val != "" else ""}{f" placeholder={chr(34)}{e(ph)}{chr(34)}" if ph else ""}></label>')
+
+        def scm(t, label, extra=""):
+            comp = "".join(f'<label>{o} %<input name="{o}" type="number" step="any" inputmode="decimal"></label>' for o in ["SiO2", "Al2O3", "Fe2O3", "CaO", "MgO", "SO3"])
+            al = ('<label>Alumina product<select name="alProduct"><option value="stratlingite">Strätlingite (RX18)</option>'
+                  '<option value="C4AH13">C4AH13 (RX20)</option></select></label>') if t != "slag" else ""
+            body = (f'<label>Mass kg<input name="mass" type="number" step="any" min="0" inputmode="decimal"></label>'
+                    f'<label>Degree of reaction (0–1)<input name="degree" type="number" step="any" min="0" max="1" inputmode="decimal"></label>'
+                    f'<label>Density g/cm³<input name="rho" type="number" step="any" inputmode="decimal"></label>'
+                    f'<label>Heat J/g reacted<input name="heat" type="number" step="any" inputmode="decimal"></label>')
+            if t != "limestone":
+                body += comp + al + extra
+            return f'<fieldset class="scm" data-scm="{t}"><legend>{e(label)}</legend><div class="grid">{body}</div><p class="meta scm-src"></p></fieldset>'
+
+        slag_extra = ('<label>Product Ca/Si<input name="slagCaSi" type="number" step="any"></label>'
+                      '<label>Product H/Si<input name="slagHSi" type="number" step="any"></label>'
+                      '<label>Product density g/cm³<input name="slagRhoProduct" type="number" step="any"></label>')
+        return self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld) + f"""<body>
+<style>#calc-form fieldset{{border:1px solid currentColor;border-radius:4px;margin:1em 0;padding:.5em 1em}}#calc-form .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.4em 1em}}#calc-form label{{display:flex;flex-direction:column;font-size:.9em}}#calc-form input,#calc-form select{{font:inherit;padding:.2em}}#calc-form label.inline{{display:inline-flex;flex-direction:row;align-items:center;gap:.4em;margin-right:1.5em}}#calc-form input[type=radio],#calc-form input[type=checkbox]{{width:auto;height:auto;margin:0}}#calc-form .grid>div>label{{margin:0}}.calc-warn{{border:2px solid currentColor;padding:.75em 1em}}</style>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead slim" id="top">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <a href="{prefix}reactions/">Reaction stoichiometry</a> <span aria-hidden="true">›</span> <span>Batch calculator</span></nav>
+<h1>Cement batch reaction calculator</h1>
+<p class="meta-line">Runs in your browser; nothing is sent anywhere · <a href="{prefix}reactions/">Reaction table</a></p>
+</div>
+</header>
+<main id="main"><div id="content"><section><div class="wrap">
+<div class="notice calc-warn" role="note"><p><strong>Estimate only. Not a substitute for testing, for calorimetry or thermogravimetry, or for thermodynamic modelling (GEMS with Cemdata18).</strong> It uses idealised end-state reactions, a Bogue calculation that is known to misstate real phase contents, and a fixed reaction order. Use it for orientation and for comparing mixes, not for specification, compliance or structural decisions.</p></div>
+<noscript><p class="notice">This calculator needs JavaScript. The formulas below can be applied by hand.</p></noscript>
+<form id="calc-form" novalidate>
+<fieldset><legend>Cement composition</legend>
+<p><label class="inline"><input type="radio" name="cmode" value="oxides" checked> Oxide analysis (modified Bogue, ASTM C150)</label> <label class="inline"><input type="radio" name="cmode" value="phases"> Phase composition</label></p>
+<div id="oxideBox"><div class="grid">{fld("CaO", "CaO %", "63.07")}{fld("SiO2", "SiO2 %", "21.16")}{fld("Al2O3", "Al2O3 %", "5.87")}{fld("Fe2O3", "Fe2O3 %", "2.21")}{fld("SO3", "SO3 %", "3.29")}{fld("MgO", "MgO %", "1.56")}{fld("fCaO", "Free CaO %", "0")}{fld("CO2", "CO2 % (limestone)", "0")}{fld("Na2O", "Na2O %")}{fld("K2O", "K2O %")}{fld("periclase", "Periclase, % of cement", "", ph="0")}
+<label for="sulfForm">Sulfate form<select id="sulfForm"><option value="gypsum">Gypsum</option><option value="hemihydrate">Hemihydrate</option><option value="anhydrite">Anhydrite</option></select></label>
+<label class="inline"><input type="checkbox" id="subFL" checked> Subtract free CaO before Bogue</label></div>
+<p class="meta">Example values: Huang &amp; Feldman cement ({L("R1882")}, Table I). Replace them with your mill certificate.</p></div>
+<div id="phaseBox" hidden><div class="grid">{fld("pC3S", "C3S %")}{fld("pC2S", "C2S %")}{fld("pC3A", "C3A %")}{fld("pC4AF", "C4AF %")}{fld("pSulf", "Calcium sulfate %")}{fld("pLs", "Limestone %")}{fld("pFCaO", "Free CaO %")}{fld("pMgO", "Periclase %")}</div></div>
+<div class="grid">{fld("lsReact", "Fraction of limestone that reacts (0–1)", "", ph="0")}{fld("cshCaSi", "C-S-H Ca/Si", "", ph="1.7")}{fld("cshHSi", "C-S-H H/Si", "", ph="4.0")}{fld("cshRho", "C-S-H density g/cm³", "", ph="2.11")}</div>
+</fieldset>
+<fieldset><legend>Supplementary materials</legend>
+<p class="meta">Leave a mass empty for materials that are not in the batch. Empty composition, density and heat fields use the default shown as a placeholder; where there is no sourced default the field stays empty and the quantity is excluded, with a warning.</p>
+{scm("silicaFume", "Silica fume")}{scm("flyAshF", "Fly ash, Class F")}{scm("flyAshC", "Fly ash, Class C")}{scm("slag", "Slag (GGBFS)", slag_extra)}{scm("metakaolin", "Metakaolin / calcined clay")}{scm("naturalPozzolan", "Natural pozzolan")}{scm("limestone", "Limestone filler (interground or added)")}
+</fieldset>
+<fieldset><legend>Batch and hydration</legend><div class="grid">{fld("cKg", "Cement kg", "350")}
+<label for="wmode">Water given as<select id="wmode"><option value="wcm">w/cm ratio</option><option value="kg">Water kg</option></select></label>
+<div id="wcmBox">{fld("wcm", "w/cm", "0.45")}</div><div id="wKgBox" hidden>{fld("wKg", "Water kg")}</div>
+<label for="curing">Curing<select id="curing"><option value="sealed">Sealed</option><option value="saturated">Saturated</option></select></label></div>
+<p><label class="inline"><input type="radio" name="hmode" value="alpha" checked> Degree of hydration</label> <label class="inline"><input type="radio" name="hmode" value="age"> From age (Avrami, room temperature)</label></p>
+<div class="grid"><div id="alphaBox">{fld("alpha", "Degree of hydration α (0–1)", "0.7")}</div><div id="ageBox" hidden>{fld("age", "Age, days", "28")}</div></div>
+</fieldset>
+<p><button type="submit">Calculate</button></p>
+</form>
+<div id="results" aria-live="polite"></div>
+<h2>How it calculates</h2>
+<ol>
+<li><strong>Phases.</strong> Modified Bogue per ASTM C150 as given in {L("R880")} (Eqs. 5–8): C3S = 4.071C − 7.600S − 6.718A − 1.430F − 2.852SO3 − 5.188CO2; C2S = 2.867S − 0.7544·C3S; C3A = 2.650A − 1.692F; C4AF = 3.043F. Free CaO is subtracted from CaO first when the box is ticked, as Lerch &amp; Bogue did ({L("R210")}). <em>Simplification:</em> the alternative form for A/F below 0.64 is not implemented; the calculator warns instead. Limestone is CO2 × 100.09/44.01.</li>
+<li><strong>Degree of hydration.</strong> Either one α for every phase, or per-phase α = 1 − exp(−a(t − b)^c) with Tennis &amp; Jennings' constants ({L("R3883")}). <em>Simplification:</em> those constants are for one cement at room temperature.</li>
+<li><strong>Reactions and order.</strong> Silicates: RX01–RX02 with C-S-H C1.7SH4 by default. Sulfate goes to C3A then C4AF as ettringite (RX03, RX07). Leftover aluminate converts ettringite to monosulfate (RX04, RX08). When the limestone that reacts is available, monocarbonate forms instead (RX15). Beyond that it forms hydrogarnet (RX05, RX09). Free lime and periclase follow RX12–RX13. SCMs then consume CH: silica to C1.1SH3.9 (RX17), alumina to strätlingite or C4AH13 (RX18, RX20), slag per the Bentz scheme (RX22). <em>Simplification:</em> the order is fixed and every reaction runs to the stated degree; real systems form mixed and partly crystalline phases.</li>
+<li><strong>CH balance.</strong> CH from cement minus CH demanded by SCMs. If demand exceeds supply, the SCM reactions are scaled down and a warning is shown.</li>
+<li><strong>Water.</strong> Bound water is the stoichiometric water in the saturated hydrates as written; free water is the batch water minus that. Powers' 0.23 g/g non-evaporable water is shown for comparison (NEW-BENTZ-2009).</li>
+<li><strong>Heat.</strong> Q∞ = Σ (phase fraction × heat of complete hydration): C3S 120, β-C2S 62, C3A 207, C4AF 100 cal/g; 149 cal/g SO3 for sulfoaluminate; CaO 278.6 and MgO 203 cal/g ({L("R210")}); × 4.184 J/cal. SCM heats are per gram reacted: silica fume 780 J/g, slag 800 J/g (NEW-BENTZ-2005); others have no sourced default. Q(α) = Σ (fraction × heat × α of that phase).</li>
+<li><strong>Chemical shrinkage.</strong> Σ V(reactants incl. water) − Σ V(products), with molar volumes from {L("R334")} and NEW-BENTZ-2005. Phases without a sourced volume are left out on both sides.</li>
+<li><strong>Powers porosity.</strong> p = (w/c)/(w/c + 1/3.15); capillary water = p − 1.32(1−p)α; chemical shrinkage = 0.20(1−p)α; gel water = 0.60(1−p)α; gel solids = 1.52(1−p)α; unreacted cement = (1−p)(1−α). SCMs and limestone are treated as inert filler that scales these fractions by (1 − V_filler) (NEW-BENTZ-2009). <em>Simplification:</em> SCM reaction products are not included in the Powers volumes.</li>
+</ol>
+<h2>Checks against published values</h2>
+<p class="evidence-note">The script <code>tests/calculator.test.js</code> (run with Node) checks the code against: the Bogue phases of the {L("R1882")} cement (within 0.05 %); the Bogue phases and computed heats of Lerch &amp; Bogue's clinkers 4, 5, 15 and 17 ({L("R210")}, within 1.5 % and 1 cal/g); and Powers results from NEW-BENTZ-2009 (zero porosity at w/c 0.356, 8.7 % capillary porosity at w/c 0.42 sealed, and zero-porosity w/cm for 5–25 % limestone). CH contents against {L("R1882")} are a plausibility check only.</p>
+</div></section></div></main>
+{self.footer(prefix)}<script src="{prefix}js/calculator.js" defer></script></body>
+</html>
+"""
+
     # ------------------------------------------------------------------ sitemap, llms.txt
     def sitemap(self):
         d = self.d
@@ -898,6 +1077,10 @@ def main():
     if REVIEW_PATH.exists():
         items = [json.loads(x) for x in REVIEW_PATH.read_text(encoding="utf-8").splitlines() if x.strip()]
         write("review/index.html", s.review_page(items))
+    if REACTIONS_PATH.exists():
+        rx = json.loads(REACTIONS_PATH.read_text(encoding="utf-8"))
+        write("reactions/index.html", s.reactions_page(rx))
+        write("calculator/index.html", s.calculator_page(rx))
     sm, urls = s.sitemap()
     write("sitemap.xml", sm)
     write("llms.txt", s.llms())

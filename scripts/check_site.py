@@ -76,7 +76,52 @@ pages = {}
 for f in sorted([ROOT / "index.html"] + list((ROOT / "topics").glob("*/index.html"))):
     pages[f] = parse(f)
 
-for f, p in pages.items():
+# Reaction table and calculator pages: same page checks, but they are not in the sitemap count.
+extra_pages = {}
+rx_path = ROOT / "data/reactions.json"
+if rx_path.exists():
+    for f in (ROOT / "reactions/index.html", ROOT / "calculator/index.html"):
+        if f.exists():
+            extra_pages[f] = parse(f)
+        else:
+            errors.append(f"{f.relative_to(ROOT).as_posix()} is missing although data/reactions.json exists")
+    rx = json.loads(rx_path.read_text(encoding="utf-8"))
+    rx_ids = [r["id"] for r in rx["reactions"]]
+    if len(rx_ids) != len(set(rx_ids)):
+        errors.append("data/reactions.json has duplicate reaction ids")
+    if rx.get("counts", {}).get("reactions") != len(rx_ids):
+        errors.append("data/reactions.json counts.reactions does not match the reactions list")
+
+    def _rx_values(o):
+        if isinstance(o, dict):
+            if "basis" in o and "value" in o:
+                yield o
+            for v in o.values():
+                yield from _rx_values(v)
+        elif isinstance(o, list):
+            for v in o:
+                yield from _rx_values(v)
+
+    for r in rx["reactions"]:
+        for v in _rx_values(r):
+            if v["value"] is not None and v["basis"] not in ("sourced", "derived"):
+                errors.append(f"{r['id']}: value {v['value']!r} is neither sourced nor derived")
+            if v["value"] is not None and not v.get("sources"):
+                errors.append(f"{r['id']}: value {v['value']!r} has no source")
+            for s in v.get("sources") or []:
+                if s not in rx["sources"]:
+                    errors.append(f"{r['id']}: unknown source {s!r}")
+        for s in r.get("sources") or []:
+            if s not in rx["sources"]:
+                errors.append(f"{r['id']}: unknown source {s!r}")
+    resource_ids_rx = {x["id"] for x in json.loads((ROOT / "data/site-data.json").read_text(encoding="utf-8"))["resources"]}
+    for sid, s in rx["sources"].items():
+        if s.get("kind") == "index" and sid not in resource_ids_rx:
+            errors.append(f"data/reactions.json cites {sid} as an index resource, but it is not in site-data.json")
+        if s.get("kind") != "index" and re.fullmatch(r"R\d+", sid):
+            errors.append(f"data/reactions.json gives candidate source {sid} an R number")
+
+for f, p in list(pages.items()) + list(extra_pages.items()):
     rel = f.relative_to(ROOT).as_posix()
     where = rel
     if p.h1 != 1:
@@ -279,6 +324,8 @@ else:
         errors.append(f"research ledger marks topics finished: {finished}")
 
 print(f"checked {len(pages)} pages")
+if extra_pages:
+    print(f"checked {len(extra_pages)} reaction pages (not in the sitemap)")
 if errors:
     print("PROBLEMS:")
     for x in errors:
