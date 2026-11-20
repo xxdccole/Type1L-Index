@@ -1,0 +1,176 @@
+{
+"114": [
+"concrete-scc",
+"concrete-fibers"
+],
+"115": [
+"concrete-fibers"
+],
+"116": [
+"concrete-structural"
+],
+"117": [
+"concrete-fibers"
+],
+"118": [
+"concrete-circular"
+],
+"119": [
+"cross-durability"
+],
+"120": [
+"cross-durability"
+],
+"121": [
+"binder-activated",
+"concrete-structural"
+],
+"122": [
+"concrete-circular"
+],
+"123": [
+"concrete-fibers",
+"cross-durability"
+],
+"124": [
+"concrete-structural"
+],
+"125": [
+"concrete-precast-insitu-print",
+"concrete-architectural"
+],
+"126": [
+"concrete-lightweight",
+"concrete-fibers"
+],
+"127": [
+"concrete-structural"
+],
+"162": [
+"concrete-hpc",
+"cross-mix"
+],
+"163": [
+"concrete-structural",
+"cross-mechanics"
+],
+"164": [
+"cross-failure-repair",
+"concrete-repair-grout-overlay"
+],
+"165": [
+"binder-activated"
+],
+"166": [
+"cross-failure-repair",
+"concrete-repair-grout-overlay"
+],
+"167": [
+"concrete-structural",
+"cross-mechanics"
+],
+"168": [
+"concrete-circular"
+],
+"169": [
+"binder-activated",
+"cross-durability"
+],
+"171": [
+"cross-failure-repair",
+"concrete-repair-grout-overlay"
+],
+"172": [
+"cross-failure-repair",
+"concrete-repair-grout-overlay"
+],
+"173": [
+"cross-durability"
+],
+"174": [
+"concrete-structural",
+"cross-mechanics"
+],
+"175": [
+"cross-durability"
+],
+"259": [
+"cross-mix"
+],
+"361": [
+"concrete-fibers",
+"cross-mix"
+],
+"355": [
+"binder-lc3",
+"scm-clay"
+],
+"364": [
+"binder-lc3",
+"scm-clay"
+],
+"400": [
+"cross-durability"
+],
+"414": [
+"binder-activated",
+"cross-durability"
+],
+"426": [
+"binder-activated",
+"cross-durability"
+],
+"416": [
+"concrete-polymer-refractory",
+"cross-durability"
+],
+"264": [
+"binder-activated",
+"concrete-cellular"
+],
+"262": [
+"cross-durability"
+],
+"266": [
+"concrete-circular",
+"cross-mix"
+],
+"269": [
+"concrete-circular"
+],
+"270": [
+"cross-mechanics"
+],
+"271": [
+"scm-flyash",
+"cross-chemistry"
+],
+"274": [
+"concrete-lightweight"
+],
+"276": [
+"scm-flyash",
+"cross-chemistry"
+],
+"240": [
+"cross-durability",
+"concrete-structural"
+],
+"244": [
+"cross-durability",
+"concrete-structural"
+],
+"304": [
+"binder-well"
+],
+"339": [
+"cross-mechanics"
+],
+"338": [
+"cross-tests-codes"
+],
+"336": [
+"cross-environment-cost",
+"concrete-structural"
+]
+}

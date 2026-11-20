@@ -1,0 +1,2901 @@
+[
+ {
+  "title": "ALKALI-ACTIVATED SLAG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/352975 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/352975",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W594626900",
+   "https://trid.trb.org/view/352975",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/352975",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=ALKALI-ACTIVATED%20SLAG",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AALKALI-ACTIVATED%20SLAG",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=ALKALI-ACTIVATED%20SLAG"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/352975"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cementos de escorias activadas alcalinamente influencia de las variables y modelización del proceso",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240706054320/https://repositorio.uam.es/handle/10486/13323",
+   "original": "https://repositorio.uam.es/handle/10486/13323",
+   "snapshot": "20240706054320",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Puertas Maroto, Francisca",
+     "Universidad Autónoma de Madrid.\n  \n        Facultad de Ciencias",
+     "Universidad Autónoma de Madrid.\n  \n        Departamento de Química Inorgánica"
+    ],
+    "DC.creator": [
+     "Fernández Jiménez, Ana María"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2014-02-18T09:48:39Z"
+    ],
+    "DCTERMS.issued": [
+     "2000"
+    ],
+    "DC.identifier": [
+     "http://hdl.handle.net/10486/13323"
+    ],
+    "DC.description": [
+     "Tesis doctoral inédita de la Universidad Autónoma de Madrid. Facultad de Ciencias, Departamento de Química Inorgánica. Fecha de lectura: 19-07-2000"
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.subject": [
+     "Cemento - Tesis doctorales"
+    ],
+    "DC.title": [
+     "Cementos de escorias activadas alcalinamente: influencia de las variables y modelización del proceso"
+    ],
+    "DC.type": [
+     "doctoralThesis"
+    ],
+    "DC.rights": [
+     "openAccess"
+    ],
+    "html_title": [
+     "Cementos de escorias activadas alcalinamente: influencia de las variables y modelización del proceso"
+    ]
+   },
+   "snippet": "cementos de escorias activadas alcalinamente influencia de las variables y modelizacion del proceso uam uam biblioteca unified search engine scientific production portal uam research data repository xmlui mirage2 page structure togglenavigation espanol english english espanol english log in xmlui mirage2 page structure togglenavigation javascript is disabled for your browser some features of this site may not work without it search biblos e archivo search biblos e archivo this collection advanced search browse all of biblos e archivo communities collections by issue date authors titles subject",
+   "evidenceFile": "ev/cementosdeescoriasactivadasalcalinamente-wb.html"
+  },
+  "log": [
+   "handle API -> ['https://repositorio.uam.es/handle/10486/13323']",
+   "direct https://hdl.handle.net/10486/13323 -> 404 match=0.00",
+   "direct https://repositorio.uam.es/bitstream/10486/13323/1/62990_fernandez_jimenez_ana_maria.pdf -> 200 match=0.00",
+   "direct https://repositorio.uam.es/handle/10486/13323 -> 404 match=0.00",
+   "wayback none for hdl.handle.net/10486/13323",
+   "wayback none for repositorio.uam.es/bitstream/10486/13323/1/62990_fernandez_jimenez_ana_maria.pdf",
+   "wayback https://web.archive.org/web/20240706054320id_/https://repositorio.uam.es/handle/10486/13323 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1572404929",
+   "https://hdl.handle.net/api/handles/10486/13323",
+   "https://hdl.handle.net/10486/13323",
+   "https://repositorio.uam.es/bitstream/10486/13323/1/62990_fernandez_jimenez_ana_maria.pdf",
+   "https://repositorio.uam.es/handle/10486/13323",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10486/13323",
+   "https://archive.org/wayback/available?url=repositorio.uam.es/bitstream/10486/13323/1/62990_fernandez_jimenez_ana_maria.pdf",
+   "https://archive.org/wayback/available?url=repositorio.uam.es/handle/10486/13323",
+   "https://web.archive.org/web/20240706054320id_/https://repositorio.uam.es/handle/10486/13323"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10486/13323",
+   "https://repositorio.uam.es/bitstream/10486/13323/1/62990_fernandez_jimenez_ana_maria.pdf",
+   "https://repositorio.uam.es/handle/10486/13323"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Duurzaamheid van beton met alkali-geactiveerde slak uit de jaren 50 - Het Purdocement",
+  "result": null,
+  "log": [
+   "direct https://lib.ugent.be/nl/catalog/rug01:001805488 -> 200 match=0.00",
+   "wayback none for lib.ugent.be/nl/catalog/rug01:001805488",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3118773678",
+   "https://lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://archive.org/wayback/available?url=lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADuurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement"
+  ],
+  "urls": [
+   "https://lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/3df3a3fdfbea4521c584ecbef61dcad84f4f546d",
+   "doi": null,
+   "meta": {
+    "paperId": "3df3a3fdfbea4521c584ecbef61dcad84f4f546d",
+    "externalIds": {
+     "MAG": "2378154177",
+     "CorpusId": 138393482
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/3df3a3fdfbea4521c584ecbef61dcad84f4f546d",
+    "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+    "venue": "",
+    "year": 2001,
+    "authors": [
+     {
+      "authorId": "115949486",
+      "name": "Xin-Cheng Pu"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010 -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 3df3a3fdfbea4521c584ecbef61dcad84f4f546d"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2258488303",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "http://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Research on Hydration of Steel Slag Cement Activatedwith Waterglass",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200101/3000725676.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "wayback none for www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W919977396",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AResearch%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "http://www.cqvip.com/QK/84253X/200101/3000725676.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Utilization of Concrete Waste Aggregates Using Geopolymer Cement",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/89595X/201006/36318831.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/89595X/201006/36318831.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3147412689",
+   "https://www.cqvip.com/QK/89595X/201006/36318831.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89595X/201006/36318831.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AUtilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Využití alkalicky aktivovaných betonů u malých mostních objektů, včetně použití u malých integrovaných mostů",
+  "result": {
+   "route": "dspace7-rest",
+   "url": "https://hdl.handle.net/10195/48740",
+   "apiUrl": "https://dk.upce.cz/server/api/pid/find?id=hdl:10195/48740",
+   "landing": "https://dk.upce.cz/handle/10195/48740",
+   "meta": {
+    "dc.contributor.advisor": [
+     "Pokorný, Jiří"
+    ],
+    "dc.contributor.author": [
+     "Tišlerová, Lenka"
+    ],
+    "dc.date.accepted": [
+     "2012"
+    ],
+    "dc.date.accessioned": [
+     "2012-11-11T19:23:25Z"
+    ],
+    "dc.date.available": [
+     "2012-11-11T19:23:25Z"
+    ],
+    "dc.date.issued": [
+     "2012"
+    ],
+    "dc.description.abstract-translated": [
+     "The aim of this work is to present and summarize general available information about little and integrated bridges, and it is focused on an option of using new alkaliactivated materials for these bridges. The practical part deals with the comparison of qualities of alkali-activated selfcompacted slag concrete and common self-compacted concrete on small laboratory samples and beams in size of 200 x 300 x 3000 mm."
+    ],
+    "dc.description.defence": [
+     "Prezentace dizertační práce. Posudky oponentů. Odpovědi na připomínky oponentů. Rozprava.\r\nTajné hlasování. Vyhlášení výsledku obhajoby DP."
+    ],
+    "dc.description.department": [
+     "Katedra dopravního stavitelství"
+    ],
+    "dc.description.grade": [
+     "Dokončená práce s úspěšnou obhajobou"
+    ],
+    "dc.identifier": [
+     "Univerzitní knihovna (studovna)"
+    ],
+    "dc.identifier.signature": [
+     "D27773"
+    ],
+    "dc.identifier.stag": [
+     "19885"
+    ],
+    "dc.identifier.uri": [
+     "https://hdl.handle.net/10195/48740"
+    ],
+    "dc.language.iso": [
+     "cze"
+    ],
+    "dc.publisher": [
+     "Univerzita Pardubice"
+    ],
+    "dc.subject": [
+     "integrované mosty",
+     "alkalicky aktivované materiály",
+     "pojiva",
+     "beton",
+     "integral bridge",
+     "alkali activated materials",
+     "binder",
+     "concrete"
+    ],
+    "dc.thesis.degree-discipline": [
+     "Dopravní prostředky a infrastruktura"
+    ],
+    "dc.thesis.degree-grantor": [
+     "Univerzita Pardubice. Dopravní fakulta Jana Pernera"
+    ],
+    "dc.thesis.degree-name": [
+     "Ph.D."
+    ],
+    "dc.thesis.degree-program": [
+     "Technika a technologie v dopravě a spojích"
+    ],
+    "dc.title": [
+     "Využití alkalicky aktivovaných betonů u malých mostních objektů, včetně použití u malých integrovaných mostů"
+    ],
+    "dc.title.alternative": [
+     "Utilization of alkali activated concretes for small bridge objects including small integrated bridges"
+    ],
+    "dc.type": [
+     "disertační práce"
+    ],
+    "abstract": "Cílem této disertační práce je souhrn obecných dostupných informací o malých a integrovaných mostech, se zaměřením na možnost využití nových alkalicky aktivovaných materiálů, pro tyto mosty. Experimentální část je zaměřena na porovnání vlastností alkalicky aktivovaných samozhutnitelných struskových betonů s klasickými samozhutnitelnými betony na malých laboratorních vzorcích a na trámech rozměrů 200 x 300 x 3000 mm."
+   },
+   "evidenceFile": "ev/vyuzitialkalickyaktivovanychbetonuumalyc-dspace.json"
+  },
+  "log": [
+   "handle API -> ['https://dk.upce.cz/handle/10195/48740']",
+   "handle API -> ['https://dk.upce.cz/handle/10195/48740']",
+   "direct https://hdl.handle.net/10195/48740 -> 200 match=0.00",
+   "direct https://hdl.handle.net/10195/48740 -> 200 match=0.00",
+   "direct https://dk.upce.cz/handle/10195/48740 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10195/48740",
+   "wayback none for hdl.handle.net/10195/48740",
+   "wayback https://web.archive.org/web/20261017230645id_/https://dk.upce.cz/handle/10195/48740 -> 200 match=0.00",
+   "dspace7 rest https://dk.upce.cz/server/api/pid/find?id=hdl:10195/48740: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2320398746",
+   "https://hdl.handle.net/api/handles/10195/48740",
+   "https://hdl.handle.net/api/handles/10195/48740",
+   "https://hdl.handle.net/10195/48740",
+   "https://hdl.handle.net/10195/48740",
+   "https://dk.upce.cz/handle/10195/48740",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10195/48740",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10195/48740",
+   "https://archive.org/wayback/available?url=dk.upce.cz/handle/10195/48740",
+   "https://web.archive.org/web/20261017230645id_/https://dk.upce.cz/handle/10195/48740",
+   "https://dk.upce.cz/server/api/pid/find?id=hdl:10195/48740"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10195/48740",
+   "http://hdl.handle.net/10195/48740",
+   "https://dk.upce.cz/handle/10195/48740"
+  ],
+  "doi": null
+ },
+ {
+  "title": "NUMERICAL METHOD AND RANDOM ANALYSIS OF CEMENT CONCRETE EXPANSION",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200001/4000713898.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "wayback none for www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W933935797",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "http://www.cqvip.com/QK/84253X/200001/4000713898.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/0a884b83817e64983097b5ef27f2f4d51a39daba",
+   "doi": "10.22060/ceej.2017.12224.5151",
+   "meta": {
+    "paperId": "0a884b83817e64983097b5ef27f2f4d51a39daba",
+    "externalIds": {
+     "MAG": "2738936772",
+     "DOI": "10.22060/ceej.2017.12224.5151",
+     "CorpusId": 56074872
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/0a884b83817e64983097b5ef27f2f4d51a39daba",
+    "title": "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading",
+    "venue": "",
+    "year": 2017,
+    "authors": [
+     {
+      "authorId": "2563574852",
+      "name": "H. Dabbagh"
+     },
+     {
+      "authorId": "114931915",
+      "name": "K. Amoorezaei"
+     },
+     {
+      "authorId": "102146445",
+      "name": "S. Akbarpour"
+     },
+     {
+      "authorId": "113266838",
+      "name": "K. Babamuradi"
+     }
+    ]
+   }
+  },
+  "log": [
+   "doi.org 500; crossref none; datacite none",
+   "direct https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260414123158id_/https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 0a884b83817e64983097b5ef27f2f4d51a39daba"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2738936772",
+   "https://api.crossref.org/works/10.22060/ceej.2017.12224.5151",
+   "https://api.datacite.org/dois/10.22060/ceej.2017.12224.5151",
+   "https://doi.org/10.22060/ceej.2017.12224.5151",
+   "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://archive.org/wayback/available?url=ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://web.archive.org/web/20260414123158id_/https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACompressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loadin",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading"
+  ],
+  "urls": [
+   "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf"
+  ],
+  "doi": "10.22060/ceej.2017.12224.5151"
+ },
+ {
+  "title": "EXPERIMENTÁLNÍ OVĚŘOVÁNÍ PRVKŮ Z TEXTILNÍHO BETONU",
+  "result": {
+   "route": "dspace7-rest",
+   "url": "https://hdl.handle.net/10467/83466",
+   "apiUrl": "https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/83466",
+   "landing": "https://dspace.cvut.cz/handle/10467/83466",
+   "meta": {
+    "dc.contributor.advisor": [
+     "Vokáč, Miroslav"
+    ],
+    "dc.contributor.author": [
+     "Bittner, Tomáš"
+    ],
+    "dc.contributor.referee": [
+     "Podolka, Luboš"
+    ],
+    "dc.date.accessioned": [
+     "2019-06-20T13:19:12Z"
+    ],
+    "dc.date.available": [
+     "2019-06-20T13:19:12Z"
+    ],
+    "dc.date.issued": [
+     "2019-06-08"
+    ],
+    "dc.identifier": [
+     "KOS-360303575205"
+    ],
+    "dc.identifier.uri": [
+     "http://hdl.handle.net/10467/83466"
+    ],
+    "dc.publisher": [
+     "České vysoké učení technické v Praze",
+     "Czech Technical University in Prague"
+    ],
+    "dc.subject": [
+     "Textilní beton",
+     "textilní výztuž",
+     "pevnost",
+     "odolnost",
+     "jemnozrnná matrice",
+     "tkanina",
+     "vlákna",
+     "roving",
+     "Textile Reinforced Concrete",
+     "Textile Reinforcement",
+     "Strengths",
+     "Durability",
+     "Fine-grained Matrix",
+     "Woven Fabric",
+     "Fibres",
+     "Roving"
+    ],
+    "dc.title": [
+     "EXPERIMENTÁLNÍ OVĚŘOVÁNÍ PRVKŮ Z TEXTILNÍHO BETONU",
+     "EXPERIMENTAL VERIFICATION OF TEXTILE REINFORCED CONCRETE (TRC) ELEMENTS"
+    ],
+    "dc.type": [
+     "doctoral thesis"
+    ],
+    "person.identifier.orcid": [
+     "0000-0002-4991-823X"
+    ],
+    "abstract": "Textilní beton (TRC = Textile Reinforced Concrete) se v posledním desetiletí objevil jako nový, vysoce atraktivní a únosný kompozitní materiál na bázi cementu. Skládá se ze dvou hlavních částí. Především se jedná o již zmiňovaný cementový kompozit velmi často na bázi vysokohodnotného betonu (vždy se však musí jednat o beton jemnozrnný s Dmax ≤ 4 mm) a textilní výztuže (skleněné, uhlíkové, čedičové aj.), někdy se také užívá výraz nekonvenční výztuž. Výsledkem spojení těchto dvou komponent je materiál, který poskytuje vysokou pevnost v tlaku a ohybu, houževnatost, tažnost, absorbuje velké množství energie a je nesmírně odolný proti agresivním a degradačním vlivům prostředí, a to dokonce i při výrobě velmi tenkých a subtilních konstrukcí. Vzhledem k možnostem výroby textilií, které umožňují utkat i geometricky složité tkaniny (2D či 3D), a vlastnostem betonové matrice, lze vyrobit širokou škálu prvků, a to i neobvyklých či složitých tvarů. V současné době však stále neexistuje soubor normativních předpisů, kterými by se produkce prvků či konstrukcí TRC řídila. Disertační práce popisuje TRC kompozit z pohledu jeho dílčích složek, tj. vlastností jako je pevnost v tlaku, tahu, tahu za ohybu, modulu pružnosti, odolnosti vůči agresivnímu prostředí, ale také z hledisek technologických, výrobních a užitných. Textile Reinforced Concrete is a relative new, very attractive and especially highly loadbearing cement-based composite material revealed in the last decade. It is consisted of two"
+   },
+   "evidenceFile": "ev/experimentalnioverovaniprvkuztextilnihob-dspace.json"
+  },
+  "log": [
+   "handle API -> ['https://dspace.cvut.cz/handle/10467/83466']",
+   "handle API -> ['https://dspace.cvut.cz/handle/10467/83466']",
+   "direct https://hdl.handle.net/10467/83466 -> 200 match=0.00",
+   "direct https://hdl.handle.net/10467/83466 -> 200 match=0.00",
+   "direct https://dspace.cvut.cz/handle/10467/83466 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10467/83466",
+   "wayback none for hdl.handle.net/10467/83466",
+   "wayback https://web.archive.org/web/20261031124754id_/https://dspace.cvut.cz/handle/10467/83466 -> 200 match=0.00",
+   "dspace7 rest https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/83466: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2968066980",
+   "https://hdl.handle.net/api/handles/10467/83466",
+   "https://hdl.handle.net/api/handles/10467/83466",
+   "https://hdl.handle.net/10467/83466",
+   "https://hdl.handle.net/10467/83466",
+   "https://dspace.cvut.cz/handle/10467/83466",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10467/83466",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10467/83466",
+   "https://archive.org/wayback/available?url=dspace.cvut.cz/handle/10467/83466",
+   "https://web.archive.org/web/20261031124754id_/https://dspace.cvut.cz/handle/10467/83466",
+   "https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/83466"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10467/83466",
+   "http://hdl.handle.net/10467/83466",
+   "https://dspace.cvut.cz/handle/10467/83466"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Identification of parameters of concrete damage plasticity constitutive model",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1036427860",
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AIdentification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Stabilitet av betongdammer - Ruhetens påvirkning på skjærkapasiteten mellom betong og berg",
+  "result": {
+   "route": "nva-api",
+   "url": "https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+   "apiUrl": "https://api.nva.unit.no/publication/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+   "meta": {
+    "title": "Stabilitet av betongdammer - Ruhetens påvirkning på skjærkapasiteten mellom betong og berg",
+    "author": [
+     "Leif Lia",
+     "Olav Jørstad",
+     "Gabriel Sas",
+     "Simen Alexander Liahagen"
+    ],
+    "date": {
+     "type": "PublicationDate",
+     "year": "2012"
+    },
+    "language": "http://lexvo.org/id/iso639-3/nor",
+    "abstract": "Skjærkapasiteten mellom betong og fundament i dammer beregnes i dag ofte med det lineære Mohr-Coulomb-kriteriet. Dette er et empirisk kriteriet som er forholdsvis enkelt å benytte mye på grunn av dets enkle oppbygning og få parametere. Et stort antall forsøk har imidlertid vist at det er faktorer Mohr-Coulomb-kriteriet ikke fanger opp. En av disse faktorene er ruheten i grenseflaten mellom betongen og fundamentet, som antas å påvirke skjærkapasiteten betraktelig. Det foreligger derfor et behov for en større vitenskapelig forståelse av ruhetens påvirkning på skjærkapasiteten.Hensikten med denne oppgaven var å undersøke om kalibrerte tredimensjonale beregningsmodeller kan benyttes til å estimere skjærkapasiteten for en vilkårlig ruhet i grenseflaten mellom betong og fundament. For å få en bedre forståelse av ruhetens påvirkning på skjærkapasiteten skulle det gjennomføres skjærforsøk i sammenheng med tredimensjonale simuleringer av samme forsøk. De numeriske simuleringene lot seg imidlertid ikke gjennomføre, men denne oppgavens resultater fra litteraturstudie og skjærforsøk vil kunne være grunnlag for senere numeriske simuleringer innenfor relevant forskning.Oppgavens problemstilling er som følgende:Kan kalibrerte tredimensjonale beregningsmodeller benyttes til å estimere skjærkapasiteten for en vilkårlig ruhet i grenseflaten mellom betong og fundament? Hvilke faktorer påvirker skjærkapasiteten mellom betong og berg? Hvordan påvirker ruheten og vinkelen på ujevnhetene skjærkapas",
+    "instanceType": "DegreeMaster",
+    "publisher": null,
+    "series": null,
+    "seriesNumber": null,
+    "handle": "https://hdl.handle.net/11250/242300"
+   },
+   "evidenceFile": "ev/stabilitetavbetongdammerruhetenspavirkni-nva.json"
+  },
+  "log": [
+   "handle API -> ['https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7']",
+   "handle API -> ['https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7']",
+   "direct https://hdl.handle.net/11250/242300 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11250/242300 -> 200 match=0.00",
+   "direct https://brage.bibsys.no/xmlui/handle/11250/242300 -> 000 match=0.00",
+   "direct https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/11250/242300",
+   "wayback none for hdl.handle.net/11250/242300",
+   "wayback none for brage.bibsys.no/xmlui/handle/11250/242300",
+   "wayback none for nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+   "nva api: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W340010154",
+   "https://hdl.handle.net/api/handles/11250/242300",
+   "https://hdl.handle.net/api/handles/11250/242300",
+   "https://hdl.handle.net/11250/242300",
+   "https://hdl.handle.net/11250/242300",
+   "https://brage.bibsys.no/xmlui/handle/11250/242300",
+   "https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/242300",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/242300",
+   "https://archive.org/wayback/available?url=brage.bibsys.no/xmlui/handle/11250/242300",
+   "https://archive.org/wayback/available?url=nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7",
+   "https://api.nva.unit.no/publication/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7"
+  ],
+  "urls": [
+   "https://hdl.handle.net/11250/242300",
+   "http://hdl.handle.net/11250/242300",
+   "https://brage.bibsys.no/xmlui/handle/11250/242300",
+   "https://nva.sikt.no/registration/0198e8de55d2-58ae43e3-6609-45e4-a39b-d38116850bc7"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Balok Dan Pelat Beton Bertulang",
+  "result": null,
+  "log": [
+   "direct https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646 -> 000 match=0.00",
+   "wayback none for katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2992421190",
+   "https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "https://archive.org/wayback/available?url=katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Balok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ABalok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Balok%20Dan%20Pelat%20Beton%20Bertulang"
+  ],
+  "urls": [
+   "http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "doi": null
+ },
+ {
+  "title": "BETONARME BİNALARIN DEPREM SONRASI ACİL HASAR DEĞERLENDİRMELERİ",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20190309020126/http://dergipark.gov.tr:80/erciyesfen/issue/25577/269794",
+   "original": "http://dergipark.gov.tr/erciyesfen/issue/25577/269794",
+   "snapshot": "20190309020126",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.Title": [
+     "BETONARME BİNALARIN DEPREM SONRASI ACİL HASAR DEĞERLENDİRMELERİ"
+    ],
+    "DC.Description": [
+     "Betonarme binalarda deprem sonrası acil hasar değerlendirme ilkeleri tek başına bir bina için performans değerlendirme ilkelerinden oldukça farklıdır. Hasar tespiti ve özellikle kullanılabilirlik araştırmaları depremin hemen ardından gelen çok sayıda çağrı ile başlayıp kısa sürede ve genellikle acil bir durumda yapılması gereken bir is olarak nitelendirilir. Bu işlemlerin hızlı bir şekilde elde edilen bilgiler ve bunların değerlendirilmesiyle sonuçlandırılması gerekir. Deprem sonrası ilk hasar tespit ve değerlendirmelerin bilinçli bir şekilde yapılması ve incelemeye konu bina hakkında verilen kararın uygunluğu söz konusu acil tespiti yapan yapı mühendisinin bilgi, beceri ve deneyimi ile doğru orantılıdır. Üstelik gözlenen hasarın iyi değerlendirilmesi, yapı performansının daha iyi anlaşılmasına ve uygun maliyetli bir iyileştirme tasarımı yapılmasına da yardım edecektir. Yapısal hasarların sınıflandırılması ve tek bir nedene dayandırılması çok zor ve bazen de olanaksızdır. Bu çalışmada, hasar sınıflandırmadaki zorluklara rağmen, yapısal hasarları sınıflandırmaya ve sık gözlenen yapısal hasar nedenlerini açıklamaya yönelik bir girişim yapılmıştır. Deprem sonrası acil hasar tespit ve kullanılabilirlik araştırmasının ilkeleri açıklanmıştır. Sık görülen yapısal hasarlar üzerinden bunları değerlendirme esasları açıklanmıştır. Ayrıca, bir deprem sonrasında acil inceleme ve araştırmaların sistematik bir şekilde yapılabilmesi için deprem öncesinden bazı organizasyonların yapılması gereği de vurgulanmıştır."
+    ],
+    "DC.Source": [
+     "Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi"
+    ],
+    "DC.Source.ISSN": [
+     "1012-2354"
+    ],
+    "DC.Source.Issue": [
+     "1"
+    ],
+    "DC.Source.URI": [
+     "http://dergipark.gov.tr/erciyesfen"
+    ],
+    "DC.Source.Volume": [
+     "24"
+    ],
+    "DC.Type": [
+     "Text.Serial.Journal"
+    ],
+    "DC.Type.articleType": [
+     "Makale"
+    ],
+    "DC.Creator.PersonalName": [
+     "İsa YÜKSEL"
+    ],
+    "DC.Identifier": [
+     "269794"
+    ],
+    "DC.Identifier.pageNumber": [
+     "260-276"
+    ],
+    "DC.Identifier.URI": [
+     "http://dergipark.gov.tr/erciyesfen/269794"
+    ],
+    "DC.Language": [
+     "scheme=\"ISO639-1\""
+    ],
+    "citation_journal_title": [
+     "Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi"
+    ],
+    "citation_author": [
+     "İsa YÜKSEL"
+    ],
+    "citation_title": [
+     "BETONARME BİNALARIN DEPREM SONRASI ACİL HASAR DEĞERLENDİRMELERİ"
+    ],
+    "citation_publication_date": [
+     "2008-02-01"
+    ],
+    "citation_volume": [
+     "24"
+    ],
+    "citation_issue": [
+     "1"
+    ],
+    "citation_firstpage": [
+     "260"
+    ],
+    "citation_lastpage": [
+     "276"
+    ],
+    "citation_abstract_html_url": [
+     "http://dergipark.gov.tr/erciyesfen/269794"
+    ],
+    "citation_keywords": [
+     "Betonarme bina, Birinci kademe değerlendirme, Deprem, Hasar tespit"
+    ],
+    "citation_pdf_url": [
+     "http://dergipark.gov.tr/download/article-file/236278"
+    ],
+    "html_title": [
+     "Makale » DergiPark"
+    ]
+   },
+   "snippet": "betonarme binalarin deprem sonrasi acil hasar degerlendirmeleri post earthquake emergency damage assesments of reinforced concrete buildings isa yuksel 1 217 2475 oz tr en betonarme binalarda deprem sonrası acil hasar degerlendirme ilkeleri tek basına bir bina icin performans degerlendirme ilkelerinden oldukca farklıdır hasar tespiti ve ozellikle kullanılabilirlik arastırmaları depremin hemen ardından gelen cok sayıda cagrı ile baslayıp kısa surede ve genellikle acil bir durumda yapılması gereken bir is olarak nitelendirilir bu islemlerin hızlı bir sekilde elde edilen bilgiler ve bunların dege",
+   "evidenceFile": "ev/betonarmebinalarindepremsonrasiacilhasar-wb.html"
+  },
+  "log": [
+   "direct https://dergipark.org.tr/en/download/article-file/236278 -> 200 match=0.57",
+   "direct https://dergipark.gov.tr/erciyesfen/issue/25577/269794 -> 000 match=0.00",
+   "wayback none for dergipark.org.tr/en/download/article-file/236278",
+   "wayback https://web.archive.org/web/20190309020126id_/http://dergipark.gov.tr:80/erciyesfen/issue/25577/269794 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2894782484",
+   "https://dergipark.org.tr/en/download/article-file/236278",
+   "https://dergipark.gov.tr/erciyesfen/issue/25577/269794",
+   "https://archive.org/wayback/available?url=dergipark.org.tr/en/download/article-file/236278",
+   "https://archive.org/wayback/available?url=dergipark.gov.tr/erciyesfen/issue/25577/269794",
+   "https://web.archive.org/web/20190309020126id_/http://dergipark.gov.tr:80/erciyesfen/issue/25577/269794"
+  ],
+  "urls": [
+   "https://dergipark.org.tr/en/download/article-file/236278",
+   "http://dergipark.gov.tr/erciyesfen/issue/25577/269794"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CERCETAREA EXPERIMENTALĂ, COMPONENTĂ ESENŢIALĂ ÎN APLICAREA DIFERITELOR METODE DE STABILIRE A DURATEI DE SERVICIU A CONSTRUCŢIILOR DIN BETON EXPERIMENTAL RESEARCH, ESSENTIAL COMPONENT IN THE APPLICATION OF DIFFERENT METHODS TO ESTABLISH THE SERVICE LIFE DESIGN OF CONCRETE STRUCTURES",
+  "result": null,
+  "log": [
+   "direct https://solacolu.chim.upb.ro/pag_219_228web.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20250925140228id_/https://solacolu.chim.upb.ro/pag_219_228web.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2555549008",
+   "https://solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://web.archive.org/web/20250925140228id_/https://solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONSTRUC%C5%A2IILOR%20DIN%20BETON%20EXPERIMENTAL%20RESEARCH%2C%20ESSENTIAL%20COMPONENT%20IN%20THE%20APPLICATI",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONSTRUC%C5%A2IILOR%20DIN%20BETON%20EXPERIMENTAL%20RESEARCH%2C%20ESSENTIAL%20COMPONENT%20IN%20THE%20APPLICATI"
+  ],
+  "urls": [
+   "http://solacolu.chim.upb.ro/pag_219_228web.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Evaluating a 50 year Old Concrete Bridge",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/326168 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/326168",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2994269565",
+   "https://trid.trb.org/view/326168",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/326168",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AEvaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/326168"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Kompletterande dynamisk provning av kontinuerliga plattstrimlor av betong med armering av varierande seghet",
+  "result": {
+   "route": "diva-mods",
+   "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "apiUrl": "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:496392]&fileName=export.xml",
+   "meta": {
+    "title": "Kompletterande dynamisk provning av kontinuerliga plattstrimlor av betong med armering av varierande seghet",
+    "subTitle": null,
+    "author": [
+     "Anders Ansell",
+     "Göran Svedbjörk"
+    ],
+    "dateIssued": [
+     "2003"
+    ],
+    "publisher": [
+     "KTH Byggvetenskap"
+    ],
+    "genre": [
+     "report"
+    ],
+    "language": [
+     "swe"
+    ],
+    "series": [
+     "Teknisk rapport"
+    ],
+    "urn": [],
+    "abstract": ""
+   },
+   "evidenceFile": "ev/kompletterandedynamiskprovningavkontinue-diva.xml"
+  },
+  "log": [
+   "direct https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392 -> 200 match=0.00",
+   "direct https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392 -> 200 match=0.00",
+   "wayback none for www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "wayback none for www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "diva mods: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1491251870",
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "https://archive.org/wayback/available?url=www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "https://archive.org/wayback/available?url=www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:496392]&fileName=export.xml"
+  ],
+  "urls": [
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496392",
+   "http://www.diva-portal.org/smash/record.jsf?pid=diva2:496392"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influence on the performance of road cement concrete of coarse aggregate content",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032 -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2374382333",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInfluence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Läpäisevä betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7139672032",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=L%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AL%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=L%C3%A4p%C3%A4isev%C3%A4%20betoni"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "REPAIR OF CONCRETE PAVEMENTS USING SYNTHETIC RESINS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/73813 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/73813",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W586509968",
+   "https://trid.trb.org/view/73813",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/73813",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AREPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/73813"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOSETTING PLASTIC IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://solacolu.chim.upb.ro/p276-284w.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260402172326id_/https://solacolu.chim.upb.ro/p276-284w.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2559897777",
+   "https://solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://web.archive.org/web/20260402172326id_/https://solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLA",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE"
+  ],
+  "urls": [
+   "https://solacolu.chim.upb.ro/p276-284w.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Återvägen : råd och vägledning för återvinning av krossad betong som ballast i gator och vägar",
+  "result": {
+   "route": "diva-mods",
+   "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:669903",
+   "apiUrl": "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:669903]&fileName=export.xml",
+   "meta": {
+    "title": "Återvägen",
+    "subTitle": "råd och vägledning för återvinning av krossad betong som ballast i gator och vägar",
+    "author": [
+     "Krister Ydrevik"
+    ],
+    "dateIssued": [
+     "1999"
+    ],
+    "publisher": [
+     "Statens väg- och transportforskningsinstitut"
+    ],
+    "genre": [
+     "report"
+    ],
+    "language": [
+     "swe"
+    ],
+    "series": [
+     "VTI notat"
+    ],
+    "urn": [],
+    "abstract": ""
+   },
+   "evidenceFile": "ev/atervagenradochvagledningforatervinninga-diva.xml"
+  },
+  "log": [
+   "direct https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194 -> 200 match=0.00",
+   "direct https://www.diva-portal.org/smash/record.jsf?pid=diva2:669903 -> 200 match=0.00",
+   "wayback none for urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+   "wayback none for www.diva-portal.org/smash/record.jsf?pid=diva2:669903",
+   "urn.kb.se -> https://vti.diva-portal.org/smash/record.jsf?pid=diva2:669903",
+   "diva mods: 0.18"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W581120083",
+   "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:669903",
+   "https://archive.org/wayback/available?url=urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+   "https://archive.org/wayback/available?url=www.diva-portal.org/smash/record.jsf?pid=diva2:669903",
+   "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+   "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:669903]&fileName=export.xml"
+  ],
+  "urls": [
+   "http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-1194",
+   "http://www.diva-portal.org/smash/record.jsf?pid=diva2:669903"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Numerisk modellering af formfyldning ved støbning i selvkompakterende beton",
+  "result": null,
+  "log": [
+   "direct https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260414170701id_/https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2594166133",
+   "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://archive.org/wayback/available?url=backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://web.archive.org/web/20260414170701id_/https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANumerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton"
+  ],
+  "urls": [
+   "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Высокопрочный самоуплотняющийся бетон с использованием щебня фракции 5 - 10",
+  "result": null,
+  "log": [
+   "direct https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf -> 200 match=0.14",
+   "wayback none for cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2591408418",
+   "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "https://archive.org/wayback/available?url=cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010"
+  ],
+  "urls": [
+   "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "IS THERE A MARKET FOR SELF-HEALING CEMENT- BASED MATERIALS?",
+  "result": null,
+  "log": [
+   "direct https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2189404826",
+   "https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://archive.org/wayback/available?url=extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AIS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F"
+  ],
+  "urls": [
+   "http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Interracial Interaction of Aggregate-Cement Paste in Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/201501/664200285.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/201501/664200285.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3139775076",
+   "https://www.cqvip.com/QK/84253X/201501/664200285.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/201501/664200285.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInterracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/dc1d5dae83388ba43c6cf1c5625ef24e40efb123",
+   "doi": null,
+   "meta": {
+    "paperId": "dc1d5dae83388ba43c6cf1c5625ef24e40efb123",
+    "externalIds": {
+     "MAG": "2236099524",
+     "CorpusId": 138198012
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/dc1d5dae83388ba43c6cf1c5625ef24e40efb123",
+    "title": "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)",
+    "venue": "",
+    "year": 2007,
+    "authors": [
+     {
+      "authorId": "52409336",
+      "name": "E. Knapen"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20170814155028id_/https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf -> 200 match=0.12",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit dc1d5dae83388ba43c6cf1c5625ef24e40efb123"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2236099524",
+   "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://archive.org/wayback/available?url=lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://web.archive.org/web/20170814155028id_/https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosbare%20polymeren%29",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMicrostructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosbare%20polymeren%29"
+  ],
+  "urls": [
+   "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Beton pro vodonepropustné betonové konstrukce",
+  "result": {
+   "route": "dspace7-rest",
+   "url": "https://hdl.handle.net/10467/88563",
+   "apiUrl": "https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/88563",
+   "landing": "https://dspace.cvut.cz/handle/10467/88563",
+   "meta": {
+    "dc.contributor.advisor": [
+     "Vítek, Jan"
+    ],
+    "dc.contributor.author": [
+     "Hlavsa, Zdeněk"
+    ],
+    "dc.contributor.referee": [
+     "Veselý Vladimír"
+    ],
+    "dc.date.accessioned": [
+     "2020-06-23T22:53:19Z"
+    ],
+    "dc.date.available": [
+     "2020-06-23T22:53:19Z"
+    ],
+    "dc.date.issued": [
+     "2020-06-23"
+    ],
+    "dc.identifier": [
+     "KOS-982514810805"
+    ],
+    "dc.identifier.uri": [
+     "http://hdl.handle.net/10467/88563"
+    ],
+    "dc.publisher": [
+     "České vysoké učení technické v Praze",
+     "Czech Technical University in Prague"
+    ],
+    "dc.subject": [
+     "vodonepropustné betonové konstrukce",
+     "vodonepropustnost",
+     "trhliny",
+     "mechanické vlastnosti",
+     "hydratační teplo",
+     "smrštění",
+     "šířka trhliny",
+     "watertight concrete structures",
+     "watertightness",
+     "cracks",
+     "mechanical properties",
+     "heat of hydration",
+     "shrinkage",
+     "crack width"
+    ],
+    "dc.title": [
+     "Beton pro vodonepropustné betonové konstrukce",
+     "Concree for watertight concrete structures"
+    ],
+    "dc.type": [
+     "master thesis"
+    ],
+    "abstract": "Předložená diplomová práce se zabývá betony pro vodonepropustné betonové konstrukce. Na začátku uvádí základní typy vodonepropustných betonových konstrukcí a oblasti jejich použití. Následně se práce zaměřuje na konstrukce tzv. \"bílých van\" a prezentuje předpisy a dokumenty, které se zabývají návrhem a posouzením těchto konstrukcí. Rešeršní část je zakončena shrnutím nejdůležitější aspektů, které hrají roli ve vodonepropustnosti betonových konstrukcí. Důraz je kladen zejména na složení betonu a jeho vliv na tvorbu trhlin v konstrukci. V druhé části práce je předložen rozsáhlý experiment, jehož cílem je porovnat pět různých betonových směsí z hlediska vlastností, které ovlivňují vodonepropustnost a tvorbu trhlin. Hlavní části experimentu je stanovení vývoje mechanických vlastností a měření vývinu hydratačního tepla a smrštění betonu. Práce je zakončena krátkou teoretickou částí, která aplikuje zjištěné vlastnosti betonových směsí z experimentální části ve výpočtu posuzující vznik a šířku trhlin modelové konstrukce stěny. This diploma thesis deals with concrete for watertight concrete structures. The first part presents the basic types of watertight concrete structures and areas of their use. Then, the thesis focuses on structures also called \"Weise Wannen\" and presents regulations and documents which deal with the design and assessment of this kind of structure. The research part also summarizes the most important aspects which take part in the watertightness of concrete struc"
+   },
+   "evidenceFile": "ev/betonprovodonepropustnebetonovekonstrukc-dspace.json"
+  },
+  "log": [
+   "handle API -> ['https://dspace.cvut.cz/handle/10467/88563']",
+   "direct https://hdl.handle.net/10467/88563 -> 200 match=0.00",
+   "direct https://dspace.cvut.cz/handle/10467/88563 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10467/88563",
+   "wayback https://web.archive.org/web/20261030132943id_/https://dspace.cvut.cz/handle/10467/88563 -> 200 match=0.00",
+   "dspace7 rest https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/88563: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3109655755",
+   "https://hdl.handle.net/api/handles/10467/88563",
+   "https://hdl.handle.net/10467/88563",
+   "https://dspace.cvut.cz/handle/10467/88563",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10467/88563",
+   "https://archive.org/wayback/available?url=dspace.cvut.cz/handle/10467/88563",
+   "https://web.archive.org/web/20261030132943id_/https://dspace.cvut.cz/handle/10467/88563",
+   "https://dspace.cvut.cz/server/api/pid/find?id=hdl:10467/88563"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10467/88563",
+   "https://dspace.cvut.cz/handle/10467/88563"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CARBONATION IN REINFORCED CONCRETE: A BIBLIOGRAPHY",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/666217 -> 500 match=0.00",
+   "direct https://trid.trb.org/view/281728 -> 000 match=0.00",
+   "wayback none for hdl.handle.net/10068/666217",
+   "wayback none for trid.trb.org/view/281728",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W606883442",
+   "https://hdl.handle.net/api/handles/10068/666217",
+   "https://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/666217",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/281728",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728"
+  ],
+  "doi": null
+ },
+ {
+  "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+   "doi": null,
+   "meta": {
+    "paperId": "5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+    "externalIds": {
+     "MAG": "607926276",
+     "CorpusId": 92886676
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+    "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+    "venue": "",
+    "year": 1983,
+    "authors": [
+     {
+      "authorId": "2094616785",
+      "name": "P. Poitevin"
+     },
+     {
+      "authorId": "117935419",
+      "name": "M. Regourd"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1038773 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1038773",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 5a842a8fdff0df44e73d5dd32d9db90f51ab8614"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W607926276",
+   "https://trid.trb.org/view/1038773",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1038773",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=DURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=DURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1038773"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HOW CHLORIDES AFFECT CONCRETE USED WITH REINFORCING STEEL",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/8c0ef6a01b78d0a483dfb896b22ecc8425d2cc7d",
+   "doi": null,
+   "meta": {
+    "paperId": "8c0ef6a01b78d0a483dfb896b22ecc8425d2cc7d",
+    "externalIds": {
+     "MAG": "603402389",
+     "CorpusId": 137129686
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/8c0ef6a01b78d0a483dfb896b22ecc8425d2cc7d",
+    "title": "HOW CHLORIDES AFFECT CONCRETE USED WITH REINFORCING STEEL",
+    "venue": "",
+    "year": 1968,
+    "authors": [
+     {
+      "authorId": "95744289",
+      "name": "R. F. Stratfull"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/95643 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95643",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 8c0ef6a01b78d0a483dfb896b22ecc8425d2cc7d"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W603402389",
+   "https://trid.trb.org/view/95643",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95643",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95643"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influenţa coroziunii elementelor din beton asupra stabilităţii construcţiilor",
+  "result": null,
+  "log": [
+   "direct https://ibn.idsi.md/vizualizare_articol/111617 -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617 -> 200 match=1.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3215983692",
+   "https://ibn.idsi.md/vizualizare_articol/111617",
+   "https://archive.org/wayback/available?url=ibn.idsi.md/vizualizare_articol/111617",
+   "https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInfluen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor"
+  ],
+  "urls": [
+   "https://ibn.idsi.md/vizualizare_articol/111617"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Kloriddiffusjon i betong. Vurdering av aldringseffekten ved felteksponering : COIN P4 Operational service life design, SP 4.1 Service life modelling",
+  "result": {
+   "route": "nva-api",
+   "url": "https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+   "apiUrl": "https://api.nva.unit.no/publication/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+   "meta": {
+    "title": "Kloriddiffusjon i betong. Vurdering av aldringseffekten ved felteksponering : COIN P4 Operational service life design, SP 4.1 Service life modelling",
+    "author": [
+     "Ola Skjølsvold"
+    ],
+    "date": {
+     "type": "PublicationDate",
+     "year": "2009"
+    },
+    "language": "http://lexvo.org/id/iso639-3/nob",
+    "abstract": "Kloriddiffusjonskoeffisienten for betong som er eksponert i marint miljø reduseres over tid på grunn av modning og aldring (tetting av overflatesjiktet) av betongen. Aldringsutviklingen beskrives av α, β og γ\n\nβ: beskriver reduksjon av potensiell diffusjonskoeffisient (D_p) på grunn av økt modenhet\nα: beskriver reduksjon av oppnådd diffusjonskoeffisient (D_a) på grunn av økt modenhet og aldring ved eksponering\nγ: beskriver forholdet mellom D_p og D_a\n\nDet finnes begrenset datamateriale for beregning av  β og γ. Når det gjelder α finnes betydelig mengder data av varierende kvalitet. I foreliggende rapport er det foretatt en vurdering av tidsavhengigheten for diffusjonskoeffisienten for betong med ulik sammensetning og eksponering. Oppgaven er begrenset til vurdering av a, det vil si den utvikling som skjer etter at betongen er eksponert mot klorider i felt. Det er foretatt en gjennomgang og vurdering av kvaliteten for tilgjengelige data. Troverdige datasett er benyttet til beregning av α. Verdiene er sortert etter type betong (lettbetong og normaldensitetsbetong), type bindemiddel (silika- og flygeasketilsetning) og eksponering (neddykket, tidevannssone og i luft). \nTidsavhengigheten er mye mindre for betong med ren portlandsement enn for betong som er tilsatt silikastøv og/eller flygeaske/slagg. Det foreligger lite langtidsdata, men det som finnes tyder på at aldringseffekten avtar eller opphører for lengre eksponering enn 5 - 10 år.\n\n",
+    "instanceType": "ReportResearch",
+    "publisher": null,
+    "series": null,
+    "seriesNumber": "11",
+    "handle": "https://hdl.handle.net/11250/2421933"
+   },
+   "evidenceFile": "ev/kloriddiffusjonibetongvurderingavaldring-nva.json"
+  },
+  "log": [
+   "handle API -> ['https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f']",
+   "handle API -> ['https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f']",
+   "direct https://hdl.handle.net/11250/2421933 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11250/2421933 -> 200 match=0.00",
+   "direct https://brage.bibsys.no/xmlui/handle/11250/2421933 -> 000 match=0.00",
+   "direct https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f -> 200 match=0.00",
+   "wayback none for hdl.handle.net/11250/2421933",
+   "wayback none for hdl.handle.net/11250/2421933",
+   "wayback none for brage.bibsys.no/xmlui/handle/11250/2421933",
+   "wayback none for nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+   "nva api: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2593446748",
+   "https://hdl.handle.net/api/handles/11250/2421933",
+   "https://hdl.handle.net/api/handles/11250/2421933",
+   "https://hdl.handle.net/11250/2421933",
+   "https://hdl.handle.net/11250/2421933",
+   "https://brage.bibsys.no/xmlui/handle/11250/2421933",
+   "https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2421933",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2421933",
+   "https://archive.org/wayback/available?url=brage.bibsys.no/xmlui/handle/11250/2421933",
+   "https://archive.org/wayback/available?url=nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f",
+   "https://api.nva.unit.no/publication/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f"
+  ],
+  "urls": [
+   "https://hdl.handle.net/11250/2421933",
+   "http://hdl.handle.net/11250/2421933",
+   "https://brage.bibsys.no/xmlui/handle/11250/2421933",
+   "https://nva.sikt.no/registration/0198cc76b96c-c85aa520-3815-4c4d-ac54-db8cdd23648f"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Ocena zagrożenia korozją zbrojenia konstrukcji żelbetowych. Cz. 1 - badania właściwości ochronnych betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W760476743",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOcena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "doi": null
+ },
+ {
+  "title": "The frost resistance of cement paste as influenced by surface-active agents",
+  "result": {
+   "route": "diva-mods",
+   "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:960426",
+   "apiUrl": "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:960426]&fileName=export.xml",
+   "meta": {
+    "title": "The frost resistance of cement paste as influenced by surface-active agents",
+    "subTitle": null,
+    "author": [
+     "Ulf Danielsson",
+     "Anders Wastesson"
+    ],
+    "dateIssued": [
+     "1958"
+    ],
+    "publisher": [
+     "Svenska forskningsinstitutet för cement och betong vid Kungl. Tekniska högskolan"
+    ],
+    "genre": [
+     "report"
+    ],
+    "language": [
+     "eng"
+    ],
+    "series": [
+     "CBI Handlingar"
+    ],
+    "urn": [],
+    "abstract": ""
+   },
+   "evidenceFile": "ev/thefrostresistanceofcementpasteasinfluen-diva.xml"
+  },
+  "log": [
+   "direct https://www.diva-portal.org/smash/record.jsf?pid=diva2:960426 -> 200 match=0.00",
+   "wayback none for www.diva-portal.org/smash/record.jsf?pid=diva2:960426",
+   "diva mods: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2898059400",
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:960426",
+   "https://archive.org/wayback/available?url=www.diva-portal.org/smash/record.jsf?pid=diva2:960426",
+   "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:960426]&fileName=export.xml"
+  ],
+  "urls": [
+   "http://www.diva-portal.org/smash/record.jsf?pid=diva2:960426"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Betong i bygninger - konsekvenser for inneklima. Forprosjekt",
+  "result": {
+   "route": "nva-api",
+   "url": "https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+   "apiUrl": "https://api.nva.unit.no/publication/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+   "meta": {
+    "title": "Betong i bygninger - konsekvenser for inneklima. Forprosjekt",
+    "author": [
+     "Peter Blom",
+     "Harald Justnes",
+     "Finn Levy"
+    ],
+    "date": {
+     "type": "PublicationDate",
+     "year": "1996"
+    },
+    "language": "http://lexvo.org/id/iso639-3/nob",
+    "abstract": "",
+    "instanceType": "ReportResearch",
+    "publisher": null,
+    "series": null,
+    "seriesNumber": "193",
+    "handle": "https://hdl.handle.net/11250/2415888"
+   },
+   "evidenceFile": "ev/betongibygningerkonsekvenserforinneklima-nva.json"
+  },
+  "log": [
+   "handle API -> ['https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9']",
+   "handle API -> ['https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9']",
+   "direct https://hdl.handle.net/11250/2415888 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11250/2415888 -> 200 match=0.00",
+   "direct https://brage.bibsys.no/xmlui/bitstream/11250/2415888/1/Prosjektrapport193.pdf -> 000 match=0.00",
+   "direct https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/11250/2415888",
+   "wayback none for hdl.handle.net/11250/2415888",
+   "wayback none for brage.bibsys.no/xmlui/bitstream/11250/2415888/1/Prosjektrapport193.pdf",
+   "wayback none for nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+   "nva api: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2581398212",
+   "https://hdl.handle.net/api/handles/11250/2415888",
+   "https://hdl.handle.net/api/handles/11250/2415888",
+   "https://hdl.handle.net/11250/2415888",
+   "https://hdl.handle.net/11250/2415888",
+   "https://brage.bibsys.no/xmlui/bitstream/11250/2415888/1/Prosjektrapport193.pdf",
+   "https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2415888",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2415888",
+   "https://archive.org/wayback/available?url=brage.bibsys.no/xmlui/bitstream/11250/2415888/1/Prosjektrapport193.pdf",
+   "https://archive.org/wayback/available?url=nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9",
+   "https://api.nva.unit.no/publication/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9"
+  ],
+  "urls": [
+   "https://hdl.handle.net/11250/2415888",
+   "http://hdl.handle.net/11250/2415888",
+   "https://brage.bibsys.no/xmlui/bitstream/11250/2415888/1/Prosjektrapport193.pdf",
+   "https://nva.sikt.no/registration/019933e9aca3-02e61ac4-09fc-4d0e-a1dc-975bf0a83ab9"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ENVIRONMENTAL IMPACT ASSESSMENT OF CEMENT-CONCRETE SYSTEM",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200004/4000713766.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "wayback none for www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W995879805",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "http://www.cqvip.com/QK/84253X/200004/4000713766.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Forskjeller i miljøpåvirkninger gjennom livsløpet til Ullerud Helsebygg som følge av valg mellom bærende konstruksjon i massivtre eller stål og betong.",
+  "result": {
+   "route": "nva-api",
+   "url": "https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+   "apiUrl": "https://api.nva.unit.no/publication/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+   "meta": {
+    "title": "Forskjeller i miljøpåvirkninger gjennom livsløpet til Ullerud Helsebygg som følge av valg mellom bærende konstruksjon i massivtre eller stål og betong.",
+    "author": [
+     "Hans Fredrik Hoen",
+     "Ole Jørgen Hanssen",
+     "Ida Marie Strekerud"
+    ],
+    "date": {
+     "type": "PublicationDate",
+     "year": "2017"
+    },
+    "language": "http://lexvo.org/id/iso639-3/nob",
+    "abstract": "Global oppvarming og befolkningsvekst medfører et behov for byggeløsninger tilpasset disse utfordringene. Spørsmålet er hvordan dette kan løses på best mulig måte. Bygninger er komplekse systemer med lang levetid sammenlignet med andre produkter og produktsystemer. Det er nødvendig å forstå hvordan de ulike bygningskomponentene virker sammen for å kunne redusere en bygnings klimapåvirkning. Men det er også viktig å løfte oppmerksomheten til å inkludere bygningers samlede effekter på miljø og økosystemer, slik at disse kan ivaretas på en god måte for våre kommende generasjoner. Det er helt sentralt å kunne danne et mest mulig korrekt bilde av bygningers klima- og miljøpåvirkning for finne alternative byggeløsninger med færrest mulig påvirkninger på våre omgivelser. Det er en del norske eksempler på større, fleretasjes bygninger med massivtre som bærende konstruksjon fra de siste årene. Byggeteknikken har vist seg å være konkurransedyktig på pris og kan dermed regnes som et reelt alternativ i enkelte tilfeller ved prosjektering av nybygg. I tillegg åpner anbudsreglene for vektlegging av ulike forhold, slik som pris, miljøpåvirkninger og byggetid er eksempler på. Ved å benytte livsløpsanalyse til å analysere og dokumentere forskjeller i miljøpåvirkninger fra ulike byggeløsninger, kan det bidra til at det i større grad tas miljøstrategiske valg. Denne studien har tatt utgangspunkt i Ullerud Helsebygg i Frogn Kommune og tilhørende anbudsgrunnlag fra prosjekteringen. Materialet omf",
+    "instanceType": "DegreeMaster",
+    "publisher": null,
+    "series": null,
+    "seriesNumber": null,
+    "handle": "https://hdl.handle.net/11250/2468074"
+   },
+   "evidenceFile": "ev/forskjellerimiljøpavirkningergjennomlivs-nva.json"
+  },
+  "log": [
+   "handle API -> ['https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a']",
+   "handle API -> ['https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a']",
+   "direct https://hdl.handle.net/11250/2468074 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11250/2468074 -> 200 match=0.00",
+   "direct https://brage.bibsys.no/xmlui/handle/11250/2468074 -> 000 match=0.00",
+   "direct https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a -> 200 match=0.00",
+   "wayback none for hdl.handle.net/11250/2468074",
+   "wayback none for hdl.handle.net/11250/2468074",
+   "wayback none for brage.bibsys.no/xmlui/handle/11250/2468074",
+   "wayback none for nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+   "nva api: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2770108356",
+   "https://hdl.handle.net/api/handles/11250/2468074",
+   "https://hdl.handle.net/api/handles/11250/2468074",
+   "https://hdl.handle.net/11250/2468074",
+   "https://hdl.handle.net/11250/2468074",
+   "https://brage.bibsys.no/xmlui/handle/11250/2468074",
+   "https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2468074",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/2468074",
+   "https://archive.org/wayback/available?url=brage.bibsys.no/xmlui/handle/11250/2468074",
+   "https://archive.org/wayback/available?url=nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a",
+   "https://api.nva.unit.no/publication/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a"
+  ],
+  "urls": [
+   "https://hdl.handle.net/11250/2468074",
+   "http://hdl.handle.net/11250/2468074",
+   "https://brage.bibsys.no/xmlui/handle/11250/2468074",
+   "https://nva.sikt.no/registration/019909babaed-bb7487e7-037c-4f1e-96de-0ce688ffa44a"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Metropolia ja vähähiilinen betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/883278",
+   "wayback none for www.theseus.fi/handle/10024/883278",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7127204375",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMetropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/883278",
+   "http://www.theseus.fi/handle/10024/883278"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Vähähiilinen betoni voimalinjaelementtien tuotannossa Betroc Oy:llä",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162166039",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AV%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A Criterion for Selection of Natural Aggregates in Concrete",
+  "result": null,
+  "log": [
+   "doi.org 500; crossref none; datacite none",
+   "direct https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2603472591",
+   "https://api.crossref.org/works/10.22071/gsj.2016.42136",
+   "https://api.datacite.org/dois/10.22071/gsj.2016.42136",
+   "https://doi.org/10.22071/gsj.2016.42136",
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://archive.org/wayback/available?url=www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AA%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete"
+  ],
+  "urls": [
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf"
+  ],
+  "doi": "10.22071/gsj.2016.42136"
+ },
+ {
+  "title": "Bergkrossmaterial som ballast i Betong",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W585294144",
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Bergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ABergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Bergkrossmaterial%20som%20ballast%20i%20Betong"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Nowe dodatki mineralne do betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1482816913",
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Nowe%20dodatki%20mineralne%20do%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANowe%20dodatki%20mineralne%20do%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Nowe%20dodatki%20mineralne%20do%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tradycyjne i współczesne domieszki do betonu zmniejszające ilość wody zarobowej",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1535796158",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Mognadsutveckling i ung betong : temperaturkänslighet, hållfasthet och värmeutveckling",
+  "result": {
+   "route": "diva-mods",
+   "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:990130",
+   "apiUrl": "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:990130]&fileName=export.xml",
+   "meta": {
+    "title": "Mognadsutveckling i ung betong",
+    "subTitle": "temperaturkänslighet, hållfasthet och värmeutveckling",
+    "author": [
+     "Katarina Ekerfors"
+    ],
+    "dateIssued": [
+     "1995"
+    ],
+    "publisher": [
+     "Luleå tekniska universitet"
+    ],
+    "genre": [
+     "monographLicentiateThesis"
+    ],
+    "language": [
+     "swe"
+    ],
+    "series": [
+     "Licentiate thesis / Luleå University of Technology"
+    ],
+    "urn": [],
+    "abstract": ""
+   },
+   "evidenceFile": "ev/mognadsutvecklingiungbetongtemperaturkan-diva.xml"
+  },
+  "log": [
+   "direct https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133 -> 200 match=0.00",
+   "direct https://www.diva-portal.org/smash/record.jsf?pid=diva2:990130 -> 200 match=0.00",
+   "wayback none for urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+   "wayback none for www.diva-portal.org/smash/record.jsf?pid=diva2:990130",
+   "urn.kb.se -> https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:990130",
+   "diva mods: 0.53"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2785859252",
+   "https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+   "https://www.diva-portal.org/smash/record.jsf?pid=diva2:990130",
+   "https://archive.org/wayback/available?url=urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+   "https://archive.org/wayback/available?url=www.diva-portal.org/smash/record.jsf?pid=diva2:990130",
+   "https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+   "https://www.diva-portal.org/smash/references?referenceFormat=MODS&pids=[diva2:990130]&fileName=export.xml"
+  ],
+  "urls": [
+   "http://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-17133",
+   "http://www.diva-portal.org/smash/record.jsf?pid=diva2:990130"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tarjouslaskentatyökalu PainavaPinta Oy:lle : Betoni- ja muottityön urakkamenekkilaskuri",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7159748926",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THERMAL TREATMENT OF CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/97440 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/97440",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2575603595",
+   "https://trid.trb.org/view/97440",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/97440",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=THERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATHERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=THERMAL%20TREATMENT%20OF%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/97440"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Effet de hautes températures (20-600°C) sur le béton : cas particulier du béton a hautes performances",
+  "result": {
+   "route": "thesesfr-api",
+   "url": "https://theses.fr/1995ISAL0092",
+   "apiUrl": "https://theses.fr/api/v1/theses/these/1995ISAL0092",
+   "meta": {
+    "titrePrincipal": "Effet de hautes températures (20-600°C) sur le béton : cas particulier du béton a hautes performances",
+    "titres": {
+     "en": "= High temperatures effect (20-600°C) on concrete : Particular case of high performance concrete",
+     "fr": "Effet de hautes températures (20-600°C) sur le béton : cas particulier du béton a hautes performances"
+    },
+    "auteurs": [
+     {
+      "ppn": "074009842",
+      "nom": "Noumowe",
+      "prenom": "Albert"
+     }
+    ],
+    "directeurs": [
+     {
+      "ppn": "087686716",
+      "nom": "Clastres",
+      "prenom": "Pierre"
+     }
+    ],
+    "dateSoutenance": "01/01/1995",
+    "discipline": "Génie civil",
+    "langues": [
+     "fr"
+    ],
+    "status": "soutenue"
+   },
+   "evidenceFile": "ev/effetdehautestemperatures20600csurlebeto-thesesfr.json"
+  },
+  "log": [
+   "direct https://www.theses.fr/1995ISAL0092 -> 503 match=0.00",
+   "wayback https://web.archive.org/web/20240416201537id_/https://theses.fr/1995ISAL0092 -> 200 match=0.00",
+   "theses.fr https://theses.fr/api/v1/theses/these/1995ISAL0092 -> json"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W169493789",
+   "https://www.theses.fr/1995ISAL0092",
+   "https://archive.org/wayback/available?url=www.theses.fr/1995ISAL0092",
+   "https://web.archive.org/web/20240416201537id_/https://theses.fr/1995ISAL0092",
+   "https://theses.fr/api/v1/theses/these/1995ISAL0092"
+  ],
+  "urls": [
+   "http://www.theses.fr/1995ISAL0092"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Experimentální stanovení faktorů ovlivňujících statický modul pružnosti betonu s využitím nedestruktivních zkušebních metod",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20221209223722/https://dspace.vutbr.cz/handle/11012/69186",
+   "original": "https://dspace.vutbr.cz/handle/11012/69186",
+   "snapshot": "20221209223722",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Cikrle, Petr",
+     "Bílek,, Vlastimil",
+     "Pazdera, Luboš"
+    ],
+    "DC.creator": [
+     "Kocáb, Dalibor"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2021-11-22T23:19:06Z"
+    ],
+    "DCTERMS.available": [
+     "2021-11-22T23:19:06Z"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "KOCÁB, D. Experimentální stanovení faktorů ovlivňujících statický modul pružnosti betonu s využitím nedestruktivních zkušebních metod [online]. Brno: Vysoké učení technické v Brně. Fakulta stavební. ."
+    ],
+    "DC.identifier": [
+     "105578",
+     "http://hdl.handle.net/11012/69186"
+    ],
+    "DCTERMS.abstract": [
+     "Disertační práce se zabývá jednou z nejdůležitějších charakteristik ztvrdlého betonu, kterou je modul pružnosti. Klade si za cíl postihnout a popsat důležité faktory, které výslednou hodnotu modulu pružnosti betonu ovlivňují, především pak ty, které je možné při výstavbě ovlivnit. Dalším cílem je nalézt možnosti zjištění statické hodnoty modulu pružnosti betonu pomocí nedestruktivních metod (především ultrazvuková impulzová metoda, rezonanční metoda a využití elektronických tvrdoměrů), tedy zjistit možnosti vytvoření kalibračních vztahů pro NDT určení modulu pružnosti.",
+     "The Ph.D. thesis deals with one of the most important characteristics of hardened concrete; i.e. the modulus of elasticity. The thesis aims to describe and evaluate the important factors that affect the final value of concrete modulus of elasticity, especially those that can be influenced during construction. Another aim is to find ways to determine the static modulus of elasticity of concrete by non-destructive means (primarily ultrasonic pulse method, resonance method and use of electronic rebound hammers), thus to determine the possibility of creating calibration curve for NDT determination of the modulus of elasticity."
+    ],
+    "DC.language": [
+     "cs"
+    ],
+    "DC.publisher": [
+     "Vysoké učení technické v Brně. Fakulta stavební"
+    ],
+    "DC.rights": [
+     "Standardní licenční smlouva - přístup k plnému textu bez omezení"
+    ],
+    "DC.subject": [
+     "Modul pružnosti",
+     "beton",
+     "dynamický modul pružnosti",
+     "statický modul pružnosti",
+     "technologický vliv",
+     "zkušební vliv",
+     "ultrazvuková impulzová metoda",
+     "rezonanční metoda",
+     "kalibrační vztah",
+     "Modulus of elasticity",
+     "concrete",
+     "dynamic modulus of elasticity",
+     "static modulus of elasticity",
+     "technological influence",
+     "test influence",
+     "ultrasonic pulse method",
+     "resonance method",
+     "calibration curve"
+    ],
+    "DC.title": [
+     "Experimentální stanovení faktorů ovlivňujících statický modul pružnosti betonu s využitím nedestruktivních zkušebních metod"
+    ],
+    "DCTERMS.alternative": [
+     "Experimental determination of factors affecting the static modulus of elasticity of concrete using non-destructive testing methods"
+    ],
+    "DC.type": [
+     "Text",
+     "doctoralThesis",
+     "dizertační práce"
+    ],
+    "DC.description": [
+     "P"
+    ],
+    "html_title": [
+     "Experimentální stanovení faktorů ovlivňujících statický modul pružnosti betonu s využitím nedestruktivních zkušebních metod | BUT Digital library"
+    ]
+   },
+   "snippet": "experimentalni stanoveni faktoru ovlivnujicich staticky modul pruznosti betonu s vyuzitim nedestruktivnich zkusebnich metod but digital library toggle navigation cestina english русскии deutsch francais polski украінська cestina cestina english русскии deutsch francais polski украінська login toggle navigation view item repository home zaverecne prace dizertacni prace fakulta stavebni 2015 view item repository home zaverecne prace dizertacni prace fakulta stavebni 2015 view item javascript is disabled for your browser some features of this site may not work without it experimentalni stanoveni ",
+   "evidenceFile": "ev/experimentalnistanovenifaktoruovlivnujic-wb.html"
+  },
+  "log": [
+   "direct https://dspace.vutbr.cz/handle/11012/69186 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20221209223722id_/https://dspace.vutbr.cz/handle/11012/69186 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2732707441",
+   "https://dspace.vutbr.cz/handle/11012/69186",
+   "https://archive.org/wayback/available?url=dspace.vutbr.cz/handle/11012/69186",
+   "https://web.archive.org/web/20221209223722id_/https://dspace.vutbr.cz/handle/11012/69186"
+  ],
+  "urls": [
+   "https://dspace.vutbr.cz/handle/11012/69186"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Impacts of bentonite and cement mixing ratio on deformation characteristics of plastic concrete",
+  "result": null,
+  "log": [
+   "doi.org 200; crossref none; datacite none",
+   "direct https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a -> 403 match=0.00",
+   "wayback none for doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "doaj api: None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7213271991",
+   "https://api.crossref.org/works/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://api.datacite.org/dois/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doi.org/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://archive.org/wayback/available?url=doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://doaj.org/api/articles/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AImpacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete"
+  ],
+  "urls": [
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "doi": "10.16198/j.cnki.1009-640x.2016.04.011"
+ },
+ {
+  "title": "The Long Term Creep of the Wylfa P.V. Concrete for Loading Ages up to 12 1/2 Years",
+  "result": null,
+  "log": [
+   "direct https://www.lib.ncsu.edu/resolver/1840.20/28318 -> 200 match=0.12",
+   "direct https://repository.lib.ncsu.edu/handle/1840.20/28318 -> 200 match=0.12",
+   "wayback none for www.lib.ncsu.edu/resolver/1840.20/28318",
+   "wayback none for repository.lib.ncsu.edu/handle/1840.20/28318",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3197318796",
+   "https://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318",
+   "https://archive.org/wayback/available?url=www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://archive.org/wayback/available?url=repository.lib.ncsu.edu/handle/1840.20/28318",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AThe%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years"
+  ],
+  "urls": [
+   "http://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Thermal Behaviour of Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.ijear.org/vol4/spl2/ec0044.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20190828043526id_/http://ijear.org:80/vol4/spl2/ec0044.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: none"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2183114529",
+   "https://www.ijear.org/vol4/spl2/ec0044.pdf",
+   "https://archive.org/wayback/available?url=www.ijear.org/vol4/spl2/ec0044.pdf",
+   "https://web.archive.org/web/20190828043526id_/http://ijear.org:80/vol4/spl2/ec0044.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Thermal%20Behaviour%20of%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AThermal%20Behaviour%20of%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Thermal%20Behaviour%20of%20Concrete"
+  ],
+  "urls": [
+   "http://www.ijear.org/vol4/spl2/ec0044.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Volumendringer og risstendens i betong = volum changes and cracking tendency in concrete",
+  "result": {
+   "route": "nva-api",
+   "url": "https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+   "apiUrl": "https://api.nva.unit.no/publication/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+   "meta": {
+    "title": "Volumendringer og risstendens i betong = volum changes and cracking tendency in concrete",
+    "author": [
+     "Øyvind Bjæntegaard"
+    ],
+    "date": {
+     "type": "PublicationDate",
+     "year": "2009"
+    },
+    "language": "http://lexvo.org/id/iso639-3/nob",
+    "abstract": "",
+    "instanceType": "ReportResearch",
+    "publisher": null,
+    "series": "Teknologirapport",
+    "seriesNumber": "2565",
+    "handle": "https://hdl.handle.net/11250/194017"
+   },
+   "evidenceFile": "ev/volumendringerogrisstendensibetongvolumc-nva.json"
+  },
+  "log": [
+   "handle API -> ['https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d']",
+   "handle API -> ['https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d']",
+   "direct https://hdl.handle.net/11250/194017 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11250/194017 -> 200 match=0.00",
+   "direct https://brage.bibsys.no/xmlui/handle/11250/194017 -> 000 match=0.00",
+   "direct https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d -> 200 match=0.00",
+   "wayback none for hdl.handle.net/11250/194017",
+   "wayback none for hdl.handle.net/11250/194017",
+   "wayback none for brage.bibsys.no/xmlui/handle/11250/194017",
+   "wayback none for nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+   "nva api: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2502134435",
+   "https://hdl.handle.net/api/handles/11250/194017",
+   "https://hdl.handle.net/api/handles/11250/194017",
+   "https://hdl.handle.net/11250/194017",
+   "https://hdl.handle.net/11250/194017",
+   "https://brage.bibsys.no/xmlui/handle/11250/194017",
+   "https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/194017",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11250/194017",
+   "https://archive.org/wayback/available?url=brage.bibsys.no/xmlui/handle/11250/194017",
+   "https://archive.org/wayback/available?url=nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d",
+   "https://api.nva.unit.no/publication/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d"
+  ],
+  "urls": [
+   "https://hdl.handle.net/11250/194017",
+   "http://hdl.handle.net/11250/194017",
+   "https://brage.bibsys.no/xmlui/handle/11250/194017",
+   "https://nva.sikt.no/registration/019938405f83-5e5eb799-8762-4542-86a1-9bfb7fc13f8d"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Experimentální porovnání metod destruktivního a nedestruktivního zkoušení betonů a vláknobetonů",
+  "result": {
+   "route": "dspace7-rest",
+   "url": "https://hdl.handle.net/10195/60270",
+   "apiUrl": "https://dk.upce.cz/server/api/pid/find?id=hdl:10195/60270",
+   "landing": "https://dk.upce.cz/handle/10195/60270",
+   "meta": {
+    "dc.contributor.advisor": [
+     "Suchánek, Vladimír"
+    ],
+    "dc.contributor.author": [
+     "Jirovský, Leoš"
+    ],
+    "dc.contributor.referee": [
+     "Kocáb, Dalibor"
+    ],
+    "dc.date.accepted": [
+     "2015"
+    ],
+    "dc.date.accessioned": [
+     "2015-08-10T07:38:52Z"
+    ],
+    "dc.date.available": [
+     "2015-08-10T07:38:52Z"
+    ],
+    "dc.date.embargo": [
+     "2015-05-22"
+    ],
+    "dc.date.issued": [
+     "2015"
+    ],
+    "dc.description.abstract-translated": [
+     "This bachelor thesis focuses on theory and practical methods of non-destructive and destructive testing of concrete, polypropylene fiber-reinforced concrete and steel fiber-reinforced concrete. Performed non-destructive tests are ultrasonic impulse testing method and the hardness testing method. The results are evaluated using calibration functions and compared."
+    ],
+    "dc.description.defence": [
+     "Uchazeč prezentoval komisi hlavní výsledky a závěry své diplomové práce. Po prezentaci diplomové práce zodpověděl dotazy vedoucího a oponenta diplomové práce. V diskusi o diplomové práci podrobně zodpověděl všechny dotazy členů komise.\r\nStudent odpovídal na otázky z posudků."
+    ],
+    "dc.description.department": [
+     "Katedra dopravního stavitelství"
+    ],
+    "dc.description.grade": [
+     "Dokončená práce s úspěšnou obhajobou"
+    ],
+    "dc.identifier": [
+     "Univerzitní knihovna (studovna)"
+    ],
+    "dc.identifier.signature": [
+     "D32629"
+    ],
+    "dc.identifier.stag": [
+     "28600"
+    ],
+    "dc.identifier.uri": [
+     "https://hdl.handle.net/10195/60270"
+    ],
+    "dc.language.iso": [
+     "cze"
+    ],
+    "dc.publisher": [
+     "Univerzita Pardubice"
+    ],
+    "dc.subject": [
+     "concrete",
+     "fibre-reinforced concrete",
+     "steel fibre-reinforced concrete",
+     "nondestructive testing",
+     "destructive testing",
+     "beton",
+     "vláknobeton",
+     "drátkobeton",
+     "nedestruktivní zkoušení",
+     "destruktivní zkoušení"
+    ],
+    "dc.thesis.degree-discipline": [
+     "Dopravní stavitelství"
+    ],
+    "dc.thesis.degree-grantor": [
+     "Univerzita Pardubice. Dopravní fakulta Jana Pernera"
+    ],
+    "dc.thesis.degree-name": [
+     "Bc."
+    ],
+    "dc.thesis.degree-program": [
+     "Stavební inženýrství"
+    ],
+    "dc.title": [
+     "Experimentální porovnání metod destruktivního a nedestruktivního zkoušení betonů a vláknobetonů"
+    ],
+    "dc.title.alternative": [
+     "Experimental Comparison of Methods of Destructive and Non-destructive Testing of Concrete and Fiber-reinforced Concrete"
+    ],
+    "dc.type": [
+     "bakalářská práce"
+    ],
+    "abstract": "Práce je věnována teorii a zkoušení prostého betonu, vláknobetonu s polypropylénovými vlákny a drátkobetonu nedestruktivními a destruktivními metodami. Jako nedestruktivní metody zkoušení byly zvoleny ultrazvuková impulzová metoda a metoda odrazového tvrdoměru, které byly doplněny destruktivními zkouškami. Získané výsledky jednotlivých záměsí jsou vyhodnoceny pomocí kalibračních vztahů a vzájemně porovnány."
+   },
+   "evidenceFile": "ev/experimentalniporovnanimetoddestruktivni-dspace.json"
+  },
+  "log": [
+   "handle API -> ['https://dk.upce.cz/handle/10195/60270']",
+   "handle API -> ['https://dk.upce.cz/handle/10195/60270']",
+   "direct https://hdl.handle.net/10195/60270 -> 200 match=0.00",
+   "direct https://hdl.handle.net/10195/60270 -> 200 match=0.00",
+   "direct https://dk.upce.cz/handle/10195/60270 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10195/60270",
+   "wayback none for hdl.handle.net/10195/60270",
+   "wayback https://web.archive.org/web/20261012105451id_/https://dk.upce.cz/handle/10195/60270 -> 000 match=0.00",
+   "dspace7 rest https://dk.upce.cz/server/api/pid/find?id=hdl:10195/60270: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2586119962",
+   "https://hdl.handle.net/api/handles/10195/60270",
+   "https://hdl.handle.net/api/handles/10195/60270",
+   "https://hdl.handle.net/10195/60270",
+   "https://hdl.handle.net/10195/60270",
+   "https://dk.upce.cz/handle/10195/60270",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10195/60270",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10195/60270",
+   "https://archive.org/wayback/available?url=dk.upce.cz/handle/10195/60270",
+   "https://web.archive.org/web/20261012105451id_/https://dk.upce.cz/handle/10195/60270",
+   "https://dk.upce.cz/server/api/pid/find?id=hdl:10195/60270"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10195/60270",
+   "http://hdl.handle.net/10195/60270",
+   "https://dk.upce.cz/handle/10195/60270"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Instrucción de hormigón estructural E.H.E.",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240710163736/https://dadun.unav.edu/handle/10171/17515",
+   "original": "https://dadun.unav.edu/handle/10171/17515",
+   "snapshot": "20240710163736",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "García-Valcarce, A. (Antonio)"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2011-04-06T08:16:10Z"
+    ],
+    "DCTERMS.available": [
+     "2011-04-06T08:16:10Z"
+    ],
+    "DCTERMS.issued": [
+     "1999"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "García Valcarce, Antonio. \"\"Instrucción de hormigón estructural E.H.E.\"\". Revista de Edificación, 30 (1999): 59-62"
+    ],
+    "DC.identifier": [
+     "0213-8948",
+     "https://hdl.handle.net/10171/17515",
+     "10.15581/020.30.34807"
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.publisher": [
+     "Departamento de Edificación; Servicio de Publicaciones de la Universidad de Navarra"
+    ],
+    "DC.rights": [
+     "info:eu-repo/semantics/openAccess",
+     "info:eu-repo/semantics/openAccess"
+    ],
+    "DC.subject": [
+     "Materias Investigacion::Arquitectura",
+     "Materiales",
+     "Normas"
+    ],
+    "DC.title": [
+     "Instrucción de hormigón estructural E.H.E."
+    ],
+    "DC.type": [
+     "info:eu-repo/semantics/article"
+    ],
+    "citation_keywords": [
+     "Materias Investigacion::Arquitectura; Materiales; Normas; info:eu-repo/semantics/article"
+    ],
+    "citation_title": [
+     "Instrucción de hormigón estructural E.H.E."
+    ],
+    "citation_issn": [
+     "0213-8948"
+    ],
+    "citation_publisher": [
+     "Departamento de Edificación; Servicio de Publicaciones de la Universidad de Navarra"
+    ],
+    "citation_language": [
+     "spa"
+    ],
+    "citation_author": [
+     "García-Valcarce, A. (Antonio)"
+    ],
+    "citation_pdf_url": [
+     "https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf"
+    ],
+    "citation_date": [
+     "1999"
+    ],
+    "citation_abstract_html_url": [
+     "https://dadun.unav.edu/handle/10171/17515"
+    ],
+    "html_title": [
+     "DADUN: Instrucción de hormigón estructural E.H.E."
+    ]
+   },
+   "snippet": "instruccion de hormigon estructural e h e skip navigation espanol my dadun biblioteca dadun dadun search advanced search subject search my dadun lists communities and collections author title subject services my dadun receive email updates subscribe stats request permission to a publisher documents correction request documents upload request download files what you need to know unav open access institutional policy dadun policies publishers policies sherpa romeo dulcinea how to deposit documents doctoral thesis open access guide statistics help dadun unav es 948425600 ext 802461 biblioteca esp",
+   "evidenceFile": "ev/instrucciondehormigonestructuralehe-wb.html"
+  },
+  "log": [
+   "handle API -> ['https://dadun.unav.edu/handle/10171/17515']",
+   "direct https://hdl.handle.net/10171/17515 -> 403 match=0.00",
+   "direct https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf -> 403 match=0.00",
+   "direct https://dadun.unav.edu/handle/10171/17515 -> 403 match=0.00",
+   "wayback none for hdl.handle.net/10171/17515",
+   "wayback https://web.archive.org/web/20231202171422id_/https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20240710163736id_/https://dadun.unav.edu/handle/10171/17515 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W161163979",
+   "https://hdl.handle.net/api/handles/10171/17515",
+   "https://hdl.handle.net/10171/17515",
+   "https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf",
+   "https://dadun.unav.edu/handle/10171/17515",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10171/17515",
+   "https://archive.org/wayback/available?url=dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf",
+   "https://web.archive.org/web/20231202171422id_/https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf",
+   "https://archive.org/wayback/available?url=dadun.unav.edu/handle/10171/17515",
+   "https://web.archive.org/web/20240710163736id_/https://dadun.unav.edu/handle/10171/17515"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10171/17515",
+   "https://dadun.unav.edu/bitstream/10171/17515/1/RE_Vol%2030_08.pdf",
+   "https://dadun.unav.edu/handle/10171/17515"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Ocena wytrzymałości betonu na ściskanie w konstrukcjach na podstawie badania odwiertów rdzeniowych w świetle nowej normy europejskiej EN 13791:2007",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/ca41e6b089ac4a27db49f411764188a8cec947e6",
+   "doi": null,
+   "meta": {
+    "paperId": "ca41e6b089ac4a27db49f411764188a8cec947e6",
+    "externalIds": {
+     "MAG": "1491959663",
+     "CorpusId": 128515005
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/ca41e6b089ac4a27db49f411764188a8cec947e6",
+    "title": "Ocena wytrzymałości betonu na ściskanie w konstrukcjach na podstawie badania odwiertów rdzeniowych w świetle nowej normy europejskiej EN 13791:2007",
+    "venue": "",
+    "year": 2008,
+    "authors": [
+     {
+      "authorId": "95315419",
+      "name": "A. Moczko"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit ca41e6b089ac4a27db49f411764188a8cec947e6"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1491959663",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791%3A2007",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOcena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791%3A2007"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Use of Low-CO2 Portland Limestone Cement for Pavement Construction in Canada",
+  "result": null,
+  "log": [
+   "doi.org 302; crossref none; datacite none",
+   "direct https://trid.trb.org/view/987334 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/987334",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1549811631",
+   "https://api.crossref.org/works/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://api.datacite.org/dois/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://doi.org/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://trid.trb.org/view/987334",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/987334",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AUse%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/987334"
+  ],
+  "doi": "10.6135/ijprt.org.tw/2010.3(5).228"
+ },
+ {
+  "title": "MODEL EXPERIMENTAL DE RECICLARE A UNUI DEŞEU DIN INDUSTRIA HÂRTIEI CA MATERIE PRIMĂ SECUNDARĂ ÎN BETON AN EXPERIMENTAL MODEL OF WASTE RECYCLING FROM PAPER INDUSTRY AS SECONDARY RAW MATERIAL IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://solacolu.chim.upb.ro/pg17-24web.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260402172706id_/https://solacolu.chim.upb.ro/pg17-24web.pdf -> 200 match=0.00",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2184446387",
+   "https://solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://web.archive.org/web/20260402172706id_/https://solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20PAPER%20INDUSTRY%20AS%20SECONDARY%20RAW%20MATERIAL%20IN%20CONCRET",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20M",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20PAPER%20INDUSTRY%20AS%20SECONDARY%20RAW%20MATERIAL%20IN%20CONCRET"
+  ],
+  "urls": [
+   "http://solacolu.chim.upb.ro/pg17-24web.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Odpady ceramiki sanitarnej jako kruszywo do betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1001658298",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOdpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON",
+  "result": null,
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660 -> 403 match=0.00",
+   "direct https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20240711161630id_/https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660 -> 200 match=0.00",
+   "wayback none for jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2905579206",
+   "https://api.crossref.org/works/10.32502/jbearing.v5i4.1681",
+   "https://api.datacite.org/dois/10.32502/jbearing.v5i4.1681",
+   "https://doi.org/10.32502/jbearing.v5i4.1681",
+   "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "https://archive.org/wayback/available?url=jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://web.archive.org/web/20240711161630id_/https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://archive.org/wayback/available?url=jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON"
+  ],
+  "urls": [
+   "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404"
+  ],
+  "doi": "10.32502/jbearing.v5i4.1681"
+ },
+ {
+  "title": "STRENGTH EFFECT OF F MINERAL ADMIXTURE ON CEMENT CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/199001/4001628659.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W917126567",
+   "https://www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STUDIES RELATING TO THE TESTING OF FLY ASH FOR USE IN CONCRETE",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/b16a928e7ab84cf2d72c0be4b80f14aff9d53e93",
+   "doi": null,
+   "meta": {
+    "paperId": "b16a928e7ab84cf2d72c0be4b80f14aff9d53e93",
+    "externalIds": {
+     "MAG": "562678067",
+     "CorpusId": 137676716
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/b16a928e7ab84cf2d72c0be4b80f14aff9d53e93",
+    "title": "STUDIES RELATING TO THE TESTING OF FLY ASH FOR USE IN CONCRETE",
+    "venue": "",
+    "year": 1956,
+    "authors": [
+     {
+      "authorId": "88622720",
+      "name": "R. Brink"
+     },
+     {
+      "authorId": "91036614",
+      "name": "W. J. Halstead"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=95750 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=95750",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit b16a928e7ab84cf2d72c0be4b80f14aff9d53e93"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W562678067",
+   "https://trid.trb.org/view.aspx?id=95750",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=95750",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=95750"
+  ],
+  "doi": null
+ },
+ {
+  "title": "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOGÍA DE PASTAS DE CEMENTO PORTlAND",
+  "result": {
+   "route": "direct",
+   "url": "https://www.redalyc.org/articulo.oa?id=361233555001",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "En este trabajo se analizó la influencia de tres puzolanas naturales españolas de distinto carácter químico, incorporadas a dos cementos portland de composición mineralógica diferente (alto C3A y bajo C3S y viceversa), con distintos porcentajes de reemplazo. Todas las determinaciones se realizaron a una temperatura de 25°C y en el momento correspondiente al período latente de su hidratación. Los resultados mostraron una mayor tensión de corte en cemento de bajo C3A y alto C3S; sin embargo una mayor recuperación de dicha tensión en el cemento de alto C3A y bajo C3S. En las mezclas, la tensión de corte aumentó con el aumento de la proporción de alúmina reactiva, para un determinado porcentaje de reemplazo, con ambos cementos. En el momento de detención del rotor, el aumento de la tensión fue mayor para las mezclas con el cemento de alto C3A. Con el aumento del porcentaje de reemplazo, la tensión de corte aumentó con las puzolanas A y C; mientras que, con la puzolana O disminuyó debido posiblemente a su baja adsorción.",
+     "In this paper the influence of three spanish natural pozzolans of different chemical character were analyzed on two portland cements with very different mineralogical composition (with opposite C3A and C3S content) and with different replacement percentages. All determinations were made at 25°C and just at the dormant periods of their hydration. The results showed that the cement with low C3A and high C3S, had higher shear stress than the cement with high C3A and low C3S; but its recovery was lower. In the pastes with natural pozzolans, the shear stress increased when the proportion of reactive alumina was higher for a particular replacement percentage. At the time the rotor stopped, the shear stress increase was more significant in the case of cement mixtures with high C3A. Finally as the shear stress increased, with higher percentage replacement for the pozzolans A and C; while for the pozzolan O it decreased, possibly due to its low adsorption.",
+     "Neste trabalho foi analisada a influência de três pozolanas naturais espanholas de diferente carácter químico, agregada a dois cimentos portland de diferente composição mineralógica (alto - baixo C3A e C3S e vice-versa) com diferentes porcentagens de substituição. Todas as determinações foram realizadas a uma temperatura de 25°C e a um tempo correspondente ao período de latência de hidratação. Os resultados mostraram o aumento da tensão de cisalhamento no cimento de alto C3A e baixo C3S, mas maior recuperação da tensão no cimento de baixo C3A e alto C3S. Nas misturas com as pozolanas naturais, a tensão de cisalhamento aumentou com o aumento da proporção de alumina reactiva para uma percentagem de substituição particular, com qualquer cimento. No momento de paragem do rotor, a tensão de cisalhamento aumentou mais no caso das misturas com cimento de alto C3A. Com aumento da substituição, a tensão de cisalhamento aumentou nas misturas com as pozolanas A e C; mas com a pozolana O diminuiu, possivelmente devido à sua baixa adsorção."
+    ],
+    "og:title": [
+     "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOGÍA DE PASTAS DE CEMENTO PORTlAND"
+    ],
+    "citation_abstract_html_url": [
+     "https://www.redalyc.org/articulo.oa?id=361233555001"
+    ],
+    "citation_author": [
+     "Viviana F. Rahhal",
+     "César Pedrajas",
+     "Fabián Irassar",
+     "Rafael Talero"
+    ],
+    "citation_publication_date": [
+     "2014"
+    ],
+    "citation_journal_title": [
+     "Concreto y Cemento. Investigación y Desarrollo"
+    ],
+    "citation_issn": [
+     "2007-3011",
+     "2395-809X"
+    ],
+    "citation_volume": [
+     "5"
+    ],
+    "citation_issue": [
+     "2"
+    ],
+    "citation_title": [
+     "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOGÍA DE PASTAS DE CEMENTO PORTlAND"
+    ],
+    "citation_firstpage": [
+     "2"
+    ],
+    "citation_lastpage": [
+     "11"
+    ],
+    "citation_publisher": [
+     "Instituto Mexicano del Cemento y del Concreto, A.C."
+    ],
+    "citation_pdf_url": [
+     "https://www.redalyc.org/pdf/3612/361233555001.pdf"
+    ],
+    "citation_language": [
+     "Español"
+    ],
+    "citation_keywords": [
+     "Reología, pastas de cemento, puzolanas naturales, Reology, cement pastes, natural pozzolans, Reologia, pastas de cimento, pozolanas naturais"
+    ],
+    "html_title": [
+     "EFECTO DE PUZOLANAS NATURALES SOBRE LA REOLOLOGÍA DE PASTAS DE CEMENTO PORTlAND"
+    ]
+   },
+   "evidenceFile": "ev/efectodepuzolanasnaturalessobrelareololo-redalyc.html"
+  },
+  "log": [
+   "direct https://www.redalyc.org/articulo.oa?id=361233555001 -> 200 match=1.00",
+   "wayback https://web.archive.org/web/20240726224032id_/https://www.redalyc.org/articulo.oa?id=361233555001 -> 200 match=1.00",
+   "redalyc 200 title-sim 1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2171777524",
+   "https://www.redalyc.org/articulo.oa?id=361233555001",
+   "https://archive.org/wayback/available?url=www.redalyc.org/articulo.oa?id=361233555001",
+   "https://web.archive.org/web/20240726224032id_/https://www.redalyc.org/articulo.oa?id=361233555001",
+   "https://www.redalyc.org/articulo.oa?id=361233555001"
+  ],
+  "urls": [
+   "https://www.redalyc.org/articulo.oa?id=361233555001"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Drying Shrinkage Characteristics of Magnesium Slag Composite Admixture Concrete",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece -> 403 match=0.00",
+   "wayback none for doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "doaj api: None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162820792",
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://archive.org/wayback/available?url=doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://doaj.org/api/articles/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADrying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete"
+  ],
+  "urls": [
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Experimental Study on Grouting Material of Red Mud–blast Furnace Slag–steel Slag Ternary System",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/007a9f363892471da29db11c337615aa -> 403 match=0.00",
+   "wayback none for doaj.org/article/007a9f363892471da29db11c337615aa",
+   "doaj api: None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162843139",
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa",
+   "https://archive.org/wayback/available?url=doaj.org/article/007a9f363892471da29db11c337615aa",
+   "https://doaj.org/api/articles/007a9f363892471da29db11c337615aa",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AExperimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System"
+  ],
+  "urls": [
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE GLASS CONTENT OF SLAG AND HYDRAULIC ACTIVITY",
+  "result": null,
+  "log": [
+   "direct https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081 -> 000 match=0.00",
+   "wayback none for pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3193850149",
+   "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "https://archive.org/wayback/available?url=pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATHE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY"
+  ],
+  "urls": [
+   "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "doi": null
+ }
+]

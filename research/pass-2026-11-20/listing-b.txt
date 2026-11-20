@@ -1,0 +1,28 @@
+400|concrete-architectural|2017|108|arti|-|en|Chloride threshold value to initiate reinforcement corrosion in simulated concrete pore solutions: The influen|Construction and Building Ma|doi
+401|concrete-architectural|2005|105|arti|-|en|Durability and simulated ageing of new matrix glass fibre reinforced concrete|Cement and Concrete Composit|doi
+402|concrete-architectural|2020|104|arti|A|en|Experimental and modelling study of mixture design optimisation of glass fibre-reinforced concrete with combin|Journal of Materials Researc|doi
+403|concrete-architectural|2015|98|arti|-|en|Corrosion products of carbonation induced corrosion in existing reinforced concrete facades|Cement and Concrete Research|doi
+404|concrete-architectural|2018|95|arti|-|en|Structural distress in glass fibre-reinforced concrete under loading and exposure to aggressive environments|Construction and Building Ma|doi
+405|concrete-architectural|2016|88|arti|-|en|An energy and carbon footprint assessment upon the usage of hemp-lime concrete and recycled-PET façades for of|Journal of Cleaner Productio|doi
+406|concrete-architectural|2018|81|arti|-|en|Life cycle assessment (LCA) of double-skin façade (DSF) system with fiber-reinforced concrete for sustainable |Building and Environment|doi
+407|concrete-architectural|2016|76|arti|-|en|Methodology for service life prediction of architectural concrete facades|Construction and Building Ma|doi
+408|concrete-architectural|2019|74|arti|A|en|Environmental Impact of Textile Reinforced Concrete Facades Compared to Conventional Solutions—LCA Case Study|Materials|doi
+409|concrete-architectural|2019|70|arti|-|en|Numerical and experimental investigation of precast concrete facade integrated with solar photovoltaic panels|Applied Energy|doi
+410|concrete-architectural|2020|68|arti|A|en|Life cycle greenhouse gas emission and cost analysis of prefabricated concrete building façade elements|Journal of Industrial Ecolog|doi
+411|concrete-architectural|2020|67|arti|-|en|Modeling of hygrothermal behavior for green facade's concrete wall exposed to nordic climate using artificial |Journal of Building Engineer|doi
+412|concrete-architectural|2018|53|arti|A|en|Composite Behaviour of Textile Reinforced Reactive Powder Concrete Sandwich Façade Elements|International Journal of Con|doi
+413|concrete-architectural|2023|51|arti|A|en|Cracking behaviour of textile-reinforced concrete with varying concrete cover and textile surface finish|Composite Structures|doi
+414|concrete-polymer-refractory|2017|380|arti|-|en|Sulfuric acid resistance of fly ash based geopolymer concrete|Construction and Building Ma|doi
+415|concrete-polymer-refractory|2011|265|arti|-|en|Spinel-containing alumina-based refractory castables|Ceramics International|doi
+416|concrete-polymer-refractory|2001|228|arti|-|en|Chemical and microbiological tests to simulate sulfuric acid corrosion of polymer-modified concrete|Cement and Concrete Research|doi
+417|concrete-polymer-refractory|2020|199|arti|-|en|Mechanical and interface bonding properties of epoxy resin reinforced Portland cement repairing mortar|Construction and Building Ma|doi
+418|concrete-polymer-refractory|2004|179|arti|-|en|Study of the modulus of elasticity of polymer concrete compounds and comparative assessment of polymer concret|Cement and Concrete Research|doi
+419|concrete-polymer-refractory|2019|160|arti|-|en|Unsaturated polyester resin concrete: A review|Construction and Building Ma|doi
+420|concrete-polymer-refractory|2012|160|arti|-|en|Nano-bonded refractory castables|Ceramics International|doi
+421|concrete-polymer-refractory|1996|158|arti|-|en|Precast use of polymer concrete using unsaturated polyester resin based on recycled PET waste|Construction and Building Ma|doi
+422|concrete-polymer-refractory|2021|155|arti|-|en|Epoxy, polyester and vinyl ester based polymer concrete: a review|Innovative Infrastructure So|doi
+423|concrete-polymer-refractory|2015|153|book|-|en|Refractory castable engineering||nodoi
+424|concrete-polymer-refractory|2011|150|arti|-|en|Performance of lunar sulfur concrete in lunar environments|Construction and Building Ma|doi
+425|concrete-polymer-refractory|2000|140|arti|-|en|Investigation of vibration damping on polymer concrete with polyester resin|Cement and Concrete Research|doi
+426|concrete-polymer-refractory|2020|133|arti|-|en|Performance of FA-based geopolymer concretes exposed to acetic and sulfuric acids|Construction and Building Ma|doi
+427|concrete-polymer-refractory|2016|133|arti|A|en|Construction by Contour Crafting using sulfur concrete with planetary applications|Rapid Prototyping Journal|doi

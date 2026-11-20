@@ -1,0 +1,1206 @@
+[
+ {
+  "title": "Physical Properties of Cement Paste",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1570854174228726144",
+   "match": 1.0,
+   "meta": {
+    "title": "Physical properties of cement paste",
+    "dc:creator": [
+     "POWERS T. C."
+    ],
+    "prism:publicationName": "Proc. Of 4^<th> Int'l Symposium on the Chemistry of Cement",
+    "prism:publicationDate": "1960",
+    "prism:startingPage": "577",
+    "prism:endingPage": "613",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "10004106298"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/10014912219 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/10014912219",
+   "cinii opensearch: 10 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3001752165",
+   "https://ci.nii.ac.jp/naid/10014912219",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10014912219",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Physical%20Properties%20of%20Cement%20Paste"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/10014912219"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement with interground additives. Capabilities and environmental relief, Part 1.",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2775402806",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20with%20interground%20additives",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201."
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900"
+  ],
+  "doi": null
+ },
+ {
+  "title": "The Mechanism of Carbonation of Mortar and the Dependence of Carbonation on Pore Structure",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1572824499663754880",
+   "match": 1.0,
+   "meta": {
+    "title": "The Mechanism of Carbonation of Mortar and the Dependence of Carbonation on Pore Structure",
+    "dc:creator": [
+     "YING-YU L."
+    ],
+    "prism:publicationName": "Precceding of Katharine and Bryant Mather International Conference on Concrete Durability",
+    "prism:publicationDate": "1987",
+    "prism:startingPage": "1915",
+    "prism:endingPage": "1943",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "10010349795"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/10010349795 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/10010349795",
+   "cinii opensearch: 6 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3036034574",
+   "https://ci.nii.ac.jp/naid/10010349795",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10010349795",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=The%20Mechanism%20of%20Carbonation%20of%20Mortar%20and%20the%20Dependence%20of%20Carbonation%20on%20Pore%20Structure"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/10010349795"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FRACTURE OF PLAIN CONCRETE",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260402201930/https://trid.trb.org/view.aspx?id=26076",
+   "original": "https://trid.trb.org/view.aspx?id=26076",
+   "snapshot": "20260402201930",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1972-11-00"
+    ],
+    "citation_title": [
+     "FRACTURE OF PLAIN CONCRETE"
+    ],
+    "citation_author": [
+     "Walsh, P F"
+    ],
+    "citation_publication_date": [
+     "1972/11/00"
+    ],
+    "citation_journal_title": [
+     "Indian Concrete Journal"
+    ],
+    "citation_issn": [
+     "0019-4565"
+    ],
+    "citation_volume": [
+     "46"
+    ],
+    "citation_issue": [
+     "11"
+    ],
+    "html_title": [
+     "FRACTURE OF PLAIN CONCRETE - TRID"
+    ]
+   },
+   "snippet": "fracture of plain concrete trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database fracture of plain concrete the application of linear fracture mechanics to the crack propagation load of pre cracked concrete specimens is shown to depend upon the size of the specimen the results of twenty four tests on crack",
+   "evidenceFile": "ev/fractureofplainconcrete-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=26076 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260402201930id_/https://trid.trb.org/view.aspx?id=26076 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W184679396",
+   "https://trid.trb.org/view.aspx?id=26076",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=26076",
+   "https://web.archive.org/web/20260402201930id_/https://trid.trb.org/view.aspx?id=26076"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=26076"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Mechanism of shrinkage and reversible creep of hardened cement paste",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1570291224962773632",
+   "match": 1.0,
+   "meta": {
+    "title": "Mechanism of Shrinkage and Reversible Creep of hardened cement Paste",
+    "dc:creator": [
+     "POWERS T. C."
+    ],
+    "prism:publicationName": "Proc. Int. Symp. Concr., London, 1965",
+    "prism:publicationDate": "1965",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "10014912385"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/10019784743 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/10019784743",
+   "cinii opensearch: 10 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3044061357",
+   "https://ci.nii.ac.jp/naid/10019784743",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10019784743",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Mechanism%20of%20shrinkage%20and%20reversible%20creep%20of%20hardened%20cement%20paste"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/10019784743"
+  ],
+  "doi": null
+ },
+ {
+  "title": "SEISMIC DESIGN AND PERFORMANCE OF PRECAST CONCRETE SEGMENTAL BRIDGE COLUMNS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=643318 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=643318",
+   "cinii opensearch: 1 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W191644584",
+   "https://trid.trb.org/view.aspx?id=643318",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=643318",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://openlibrary.org/search.json?limit=10&title=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=643318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "TENSILE AND TENSILE FATIGUE BEHAVIOUR OF CONCRETE; EXPERIMENTS, MODELLING AND ANALYSES",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=366922 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=366922",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W600090434",
+   "https://trid.trb.org/view.aspx?id=366922",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=366922",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://openlibrary.org/search.json?limit=10&title=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=366922"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THEORY OF VOLUME CHANGES IN HARDENED PORTLAND-CEMENT PASTE DURING FREEZING",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240411022231/https://pubsindex.trb.org/view.aspx?id=102368",
+   "original": "https://pubsindex.trb.org/view.aspx?id=102368",
+   "snapshot": "20240411022231",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1953-01-01"
+    ],
+    "citation_title": [
+     "THEORY OF VOLUME CHANGES IN HARDENED PORTLAND-CEMENT PASTE DURING FREEZING"
+    ],
+    "citation_author": [
+     "Powers, T C",
+     "Helmuth, R A"
+    ],
+    "citation_publication_date": [
+     "1953"
+    ],
+    "citation_journal_title": [
+     "Highway Research Board Proceedings"
+    ],
+    "citation_volume": [
+     "32"
+    ],
+    "html_title": [
+     "THEORY OF VOLUME CHANGES IN HARDENED PORTLAND-CEMENT PASTE DURING FREEZING - TRB Publications Index"
+    ]
+   },
+   "snippet": "theory of volume changes in hardened portland cement paste during freezing trb publications index home mytrb contact us directory e newsletter follow us rss about trb annual meeting calendar committees panels programs projects publications resources databases trb pubsindex home recently published recently added advanced search new search last search search history site help rss feeds submit publication about tris resources documentation training materials trid trid coverage trid serials transportation research board trb research in progress trt transportation research thesaurus international t",
+   "evidenceFile": "ev/theoryofvolumechangesinhardenedportlandc-wb.html"
+  },
+  "log": [
+   "direct https://pubsindex.trb.org/view.aspx?id=102368 -> 000 match=0.00",
+   "direct https://pubsindex.trb.org/view.aspx?id=102368 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20240411022231id_/https://pubsindex.trb.org/view.aspx?id=102368 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W72948437",
+   "https://pubsindex.trb.org/view.aspx?id=102368",
+   "https://pubsindex.trb.org/view.aspx?id=102368",
+   "https://archive.org/wayback/available?url=pubsindex.trb.org/view.aspx?id=102368",
+   "https://web.archive.org/web/20240411022231id_/https://pubsindex.trb.org/view.aspx?id=102368"
+  ],
+  "urls": [
+   "https://pubsindex.trb.org/view.aspx?id=102368",
+   "http://pubsindex.trb.org/view.aspx?id=102368"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Fatigue of concrete",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/5008",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Fatigue of concrete"
+    ],
+    "dc.creator": [
+     "Lloyd, John P.",
+     "Lott, James L.",
+     "Kesler, Clyde Ervin"
+    ],
+    "dc.date.issued": [
+     "1968"
+    ],
+    "dc.subject": [
+     "Concrete -- Fatigue"
+    ],
+    "dc.date.accessioned": [
+     "2008-03-31T17:18:48Z"
+    ],
+    "dc.publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "dc.relation.ispartof": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 499"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.type.genre": [
+     "Technical Report"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/4381"
+    ],
+    "dc.relation.hasversion": [
+     "http://hdl.handle.net/10111/UIUC:Archive/engineeringexperv00000i00499"
+    ],
+    "dc.rights": [
+     "Copyright 1968 Board of Trustees University of Illinois."
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/4381",
+     "https://hdl.handle.net/2142/4381"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/5008/bitstreams/19610/data.pdf"
+    ],
+    "citation_title": [
+     "Fatigue of concrete"
+    ],
+    "citation_author": [
+     "Lloyd, John P.",
+     "Lott, James L.",
+     "Kesler, Clyde Ervin"
+    ],
+    "citation_publication_date": [
+     "1968"
+    ],
+    "citation_keywords": [
+     "Concrete -- Fatigue"
+    ],
+    "citation_online_date": [
+     "2008-03-31T17:18:48Z"
+    ],
+    "citation_publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "citation_journal_title": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 499"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Fatigue of concrete | IDEALS"
+    ]
+   },
+   "snippet": "fatigue of concrete ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search university of illinois urbana champaign academic units grainger college of engineering engineering experiment station bulletins engineering experiment station fatigue of concrete withdraw loading fatigue of concrete lloyd john p lott james l kesler clyde ervin loading permalink https hdl handle net 2",
+   "evidenceFile": "ev/fatigueofconcrete-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/5008']",
+   "handle API -> ['https://www.ideals.illinois.edu/items/5008']",
+   "direct https://hdl.handle.net/2142/4381 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1158071967",
+   "https://hdl.handle.net/api/handles/2142/4381",
+   "https://hdl.handle.net/api/handles/2142/4381",
+   "https://hdl.handle.net/2142/4381"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2142/4381",
+   "http://hdl.handle.net/2142/4381",
+   "https://www.ideals.illinois.edu/items/5008/bitstreams/19610/data.pdf",
+   "https://www.ideals.illinois.edu/handle/2142/4381",
+   "https://www.ideals.illinois.edu/items/5008"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete ; a report of an investigation conducted by the Engineering Experiment Station, University of Illinois in cooperation with the Public Roads Administration, Federal Works Agency and the Division of Highways, State of Illinois",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/5245",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete ; a report of an investigation conducted by the Engineering Experiment Station, University of Illinois in cooperation with the Public Roads Administration, Federal Works Agency and the Division of Highways, State of Illinois"
+    ],
+    "dc.creator": [
+     "Jensen, Vernon Peter"
+    ],
+    "dc.contributor": [
+     "Illinois. Division of Highways",
+     "United States. Bureau of Public Roads"
+    ],
+    "dc.date.issued": [
+     "1943"
+    ],
+    "dc.subject": [
+     "Reinforced concrete -- Testing.",
+     "Girders.",
+     "Strains and stresses."
+    ],
+    "dc.date.accessioned": [
+     "2008-03-31T17:26:24Z"
+    ],
+    "dc.publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "dc.relation.ispartof": [
+     "University of Illinois (Urbana-Champaign campus). Engineering Experiment Station. Bulletin ; no. 345",
+     "University of Illinois bulletin ; v. 40, no. 44"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.type.genre": [
+     "Technical Report"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/4399"
+    ],
+    "dc.relation.hasversion": [
+     "http://hdl.handle.net/10111/UIUC:Archive/engineeringexperv00000i00345"
+    ],
+    "dc.rights": [
+     "Copyright 1943 Board of Trustees University of Illinois."
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/4399",
+     "https://hdl.handle.net/2142/4399"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/5245/bitstreams/20558/data.pdf"
+    ],
+    "citation_title": [
+     "Ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete ; a report of an investigation conducted by the Engineering Experiment Station, University of Illinois in cooperation with the Public Roads Administration, Federal Works Agency and the Division of Highways, State of Illinois"
+    ],
+    "citation_author": [
+     "Jensen, Vernon Peter"
+    ],
+    "citation_publication_date": [
+     "1943"
+    ],
+    "citation_keywords": [
+     "Reinforced concrete -- Testing.",
+     "Girders.",
+     "Strains and stresses."
+    ],
+    "citation_online_date": [
+     "2008-03-31T17:26:24Z"
+    ],
+    "citation_publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "citation_journal_title": [
+     "University of Illinois (Urbana-Champaign campus). Engineering Experiment Station. Bulletin ; no. 345",
+     "University of Illinois bulletin ; v. 40, no. 44"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete ; a report of an investigation conducted by the Engineering Experiment Station, University of Illinois in cooperation with the Public Roads Administration, Federal Works Agency and the Division of Highways, State of Illinois | IDEALS"
+    ]
+   },
+   "snippet": "ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete a report of an investigation conducted by the engineering experiment station university of illinois in cooperation with the public roads administration federal works agency and the division of highways state of illinois ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search univers",
+   "evidenceFile": "ev/ultimatestrengthofreinforcedconcretebeam-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/5245']",
+   "handle API -> ['https://www.ideals.illinois.edu/items/5245']",
+   "direct https://hdl.handle.net/2142/4399 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1171900432",
+   "https://hdl.handle.net/api/handles/2142/4399",
+   "https://hdl.handle.net/api/handles/2142/4399",
+   "https://hdl.handle.net/2142/4399"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2142/4399",
+   "http://hdl.handle.net/2142/4399",
+   "https://www.ideals.illinois.edu/items/5245/bitstreams/20558/data.pdf",
+   "https://www.ideals.illinois.edu/bitstream/2142/4399/1/engineeringexperv00000i00345_tei.xml",
+   "https://www.ideals.illinois.edu/items/5245"
+  ],
+  "doi": null
+ },
+ {
+  "title": "AGGREGATE ABSORPTION FACTOR AS AN INDICATOR OF THE FREEZE- THAW DURABILITY OF STRUCTURAL LIGHTWEIGHT CONCRETE",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260415103307/https://rosap.ntl.bts.gov/view/dot/84514",
+   "original": "https://rosap.ntl.bts.gov/view/dot/84514",
+   "snapshot": "20260415103307",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "DOT ROSA P"
+    ],
+    "description": [
+     "The purpose of this phase of investigation was twofold. 1. Correlation of freeze-thaw research results at the Texas Transportation Institute with ASTM Standard freeze-thaw results. 2. Develop preliminary durability acceptance criteria for concrete using synthetic aggregates based on freeze-thaw test. 1.2 Background- The research reported herein represents a portion of a study undertaken in cooperation with the Texas Highway Department and U. S. Bureau of Public Roads."
+    ],
+    "citation_title": [
+     "Aggregate Absorption Factor as an Indicator of the Freeze-Thaw Durability of Structural Lightweight Concrete"
+    ],
+    "citation_author": [
+     "Ledbetter, W. B.",
+     "Buth, Eugene C."
+    ],
+    "citation_keywords": [
+     "Absorption",
+     "Artificial aggregates",
+     "Coarse aggregates",
+     "Concrete",
+     "Durability",
+     "Freeze thaw durability",
+     "Freeze thaw tests",
+     "Lightweight concrete"
+    ],
+    "citation_publication_date": [
+     "1967/02/01"
+    ],
+    "citation_fulltext_html_url": [
+     "http://rosap.ntl.bts.gov/view/dot/84514"
+    ],
+    "citation_pdf_url": [
+     "http://rosap.ntl.bts.gov/view/dot/84514/dot_84514_DS1.pdf"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_abstract": [
+     "The purpose of this phase of investigation was twofold. 1. Correlation of freeze-thaw research results at the Texas Transportation Institute with ASTM Standard freeze-thaw results. 2. Develop preliminary durability acceptance criteria for concrete using synthetic aggregates based on freeze-thaw test. 1.2 Background- The research reported herein represents a portion of a study undertaken in cooperation with the Texas Highway Department and U. S. Bureau of Public Roads."
+    ],
+    "html_title": [
+     "Aggregate Absorption Factor as an Indicator of the Freeze-Thaw Durability of Structural Lightweight Concrete"
+    ]
+   },
+   "snippet": "aggregate absorption factor as an indicator of the freeze thaw durability of structural lightweight concrete skip to main content an official website of the united states government here s how you know official websites use gov a gov website belongs to an official government organization in the united states secure gov websites use https a lock or https means you ve safely connected to the gov website share sensitive information only on official secure websites united states department of transportation national transportation library bureau of transportation statistics menu close home collect",
+   "evidenceFile": "ev/aggregateabsorptionfactorasanindicatorof-wb.html"
+  },
+  "log": [
+   "direct https://rosap.ntl.bts.gov/view/dot/84514 -> 403 match=0.00",
+   "direct https://rosap.ntl.bts.gov/view/dot/84514/dot_84514_DS1.pdf -> 200 match=0.50",
+   "direct https://d2dtl5nnlpfr0r.cloudfront.net/tti.tamu.edu/documents/81-3.pdf -> 200 match=0.50",
+   "wayback https://web.archive.org/web/20260415103307id_/https://rosap.ntl.bts.gov/view/dot/84514 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W564888624",
+   "https://rosap.ntl.bts.gov/view/dot/84514",
+   "https://rosap.ntl.bts.gov/view/dot/84514/dot_84514_DS1.pdf",
+   "https://d2dtl5nnlpfr0r.cloudfront.net/tti.tamu.edu/documents/81-3.pdf",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/84514",
+   "https://web.archive.org/web/20260415103307id_/https://rosap.ntl.bts.gov/view/dot/84514"
+  ],
+  "urls": [
+   "https://rosap.ntl.bts.gov/view/dot/84514",
+   "https://rosap.ntl.bts.gov/view/dot/84514/dot_84514_DS1.pdf",
+   "http://d2dtl5nnlpfr0r.cloudfront.net/tti.tamu.edu/documents/81-3.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "RESISTANCE OF CONCRETE SURFACES TO SCALING ACTION OF ICE-REMOVAL AGENTS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20251204205155/https://trid.trb.org/View/101854",
+   "original": "https://trid.trb.org/view/101854",
+   "snapshot": "20251204205155",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1956-00-00"
+    ],
+    "citation_title": [
+     "RESISTANCE OF CONCRETE SURFACES TO SCALING ACTION OF ICE-REMOVAL AGENTS"
+    ],
+    "citation_author": [
+     "Timms, Albert G"
+    ],
+    "citation_publication_date": [
+     "1956/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Board Bulletin"
+    ],
+    "citation_issue": [
+     "128"
+    ],
+    "html_title": [
+     "RESISTANCE OF CONCRETE SURFACES TO SCALING ACTION OF ICE-REMOVAL AGENTS - TRID"
+    ]
+   },
+   "snippet": "resistance of concrete surfaces to scaling action of ice removal agents trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database resistance of concrete surfaces to scaling action of ice removal agents this report is a resume to date of investigations conducted to test materials and procedures for protecting c",
+   "evidenceFile": "ev/resistanceofconcretesurfacestoscalingact-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/101854 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20251204205155id_/https://trid.trb.org/View/101854 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W561166257",
+   "https://trid.trb.org/view/101854",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/101854",
+   "https://web.archive.org/web/20251204205155id_/https://trid.trb.org/View/101854"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/101854"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260221191021/https://theses.fr/1996ARTO0003",
+   "original": "https://www.theses.fr/1996ARTO0003",
+   "snapshot": "20260221191021",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats | Theses.fr"
+    ],
+    "description": [
+     "En France, actuellement, seule une faible partie des produits de démolition (10 à 15%) est recyclée sous forme de granulats ; les contraintes d'ordre économique, politique et écologique de ces dernières années ont rendu toutefois leur recyclage de plus en plus nécessaire. Comme pour la majorité des déchets valorisés, les granulats recyclés issus de produits de démolition trouvent essentiellement des débouchés dans le domaine routier, mais une meilleure connaissance du comportement des bétons incluant de tels granulats peut contribuer au développement de cette application. Lors de la fabrication des bétons, l'origine très particulière et hétérogène de ces granulats demande une étude portant sur la variation de leur comportement et de leurs caractéristiques. Les granulats recyclés élaborés industriellement, sont ainsi caractérisés et leur hétérogénéité est mise en évidence. Des bétons de résitance caractéristique égale à 25 MPa sont ensuite élaborés. Différentes compositions avec des pourcentages variables de granulats recyclés sont présentés. Le comportement du béton frais ainsi que les performances des bétons durcis sont évalués. Leur durabilité est caractérisée par des essais de perméabilité et des variations dimensionnelles. Les résultats obtenus montrent que malgré l'hétérogénéité des granulats recyclés, s'ils sont bien formulés, les bétons obtenus présentent, comme les bétons faits à partir de granulats naturels, des résitances mécaniques homogènes et croissantes en fonction du rapport Eau/Ciment utilisé."
+    ],
+    "DC.type": [
+     "thesis"
+    ],
+    "citation_dissertation_name": [
+     "thesis"
+    ],
+    "DC.title": [
+     "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats"
+    ],
+    "citation_title": [
+     "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats"
+    ],
+    "DC.description.abstract": [
+     "En France, actuellement, seule une faible partie des produits de démolition (10 à 15%) est recyclée sous forme de granulats ; les contraintes d'ordre économique, politique et écologique de ces dernières années ont rendu toutefois leur recyclage de plus en plus nécessaire. Comme pour la majorité des déchets valorisés, les granulats recyclés issus de produits de démolition trouvent essentiellement des débouchés dans le domaine routier, mais une meilleure connaissance du comportement des bétons incluant de tels granulats peut contribuer au développement de cette application. Lors de la fabrication des bétons, l'origine très particulière et hétérogène de ces granulats demande une étude portant sur la variation de leur comportement et de leurs caractéristiques. Les granulats recyclés élaborés industriellement, sont ainsi caractérisés et leur hétérogénéité est mise en évidence. Des bétons de résitance caractéristique égale à 25 MPa sont ensuite élaborés. Différentes compositions avec des pourcentages variables de granulats recyclés sont présentés. Le comportement du béton frais ainsi que les performances des bétons durcis sont évalués. Leur durabilité est caractérisée par des essais de perméabilité et des variations dimensionnelles. Les résultats obtenus montrent que malgré l'hétérogénéité des granulats recyclés, s'ils sont bien formulés, les bétons obtenus présentent, comme les bétons faits à partir de granulats naturels, des résitances mécaniques homogènes et croissantes en fonction du rapport Eau/Ciment utilisé."
+    ],
+    "citation_abstract": [
+     "En France, actuellement, seule une faible partie des produits de démolition (10 à 15%) est recyclée sous forme de granulats ; les contraintes d'ordre économique, politique et écologique de ces dernières années ont rendu toutefois leur recyclage de plus en plus nécessaire. Comme pour la majorité des déchets valorisés, les granulats recyclés issus de produits de démolition trouvent essentiellement des débouchés dans le domaine routier, mais une meilleure connaissance du comportement des bétons incluant de tels granulats peut contribuer au développement de cette application. Lors de la fabrication des bétons, l'origine très particulière et hétérogène de ces granulats demande une étude portant sur la variation de leur comportement et de leurs caractéristiques. Les granulats recyclés élaborés industriellement, sont ainsi caractérisés et leur hétérogénéité est mise en évidence. Des bétons de résitance caractéristique égale à 25 MPa sont ensuite élaborés. Différentes compositions avec des pourcentages variables de granulats recyclés sont présentés. Le comportement du béton frais ainsi que les performances des bétons durcis sont évalués. Leur durabilité est caractérisée par des essais de perméabilité et des variations dimensionnelles. Les résultats obtenus montrent que malgré l'hétérogénéité des granulats recyclés, s'ils sont bien formulés, les bétons obtenus présentent, comme les bétons faits à partir de granulats naturels, des résitances mécaniques homogènes et croissantes en fonction du rapport Eau/Ciment utilisé."
+    ],
+    "DC.subject": [
+     "Béton -- Essais, Granulats, Recherche, Déchets (matériaux de construction),"
+    ],
+    "citation_keywords": [
+     "Béton -- Essais, Granulats, Recherche, Déchets (matériaux de construction),"
+    ],
+    "DC.creator": [
+     "Mirian Quebaud"
+    ],
+    "citation_author": [
+     "Mirian Quebaud"
+    ],
+    "DC.contributor": [
+     "François Buyle-Bodin"
+    ],
+    "DC.publisher": [
+     "Artois"
+    ],
+    "citation_dissertation_institution": [
+     "Artois"
+    ],
+    "DC.date": [
+     "01/01/1996"
+    ],
+    "citation_publication_date": [
+     "01/01/1996"
+    ],
+    "html_title": [
+     "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats | Theses.fr"
+    ]
+   },
+   "snippet": "caracterisation des granulats recycles etude de la composition et du comportement de betons incluant ces granulats theses fr aller directement a la barre de recherche le moteur de recherche des theses francaises les theses les personnes liees aux theses rechercher des theses rechercher des theses desactiver l aide a la saisie recherche avancee recherche avancee caracterisation des granulats recycles etude de la composition et du comportement de betons incluant ces granulats fr en auteur autrice mirian quebaud direction francois buyle bodin type these de doctorat discipline s genie civil date s",
+   "evidenceFile": "ev/caracterisationdesgranulatsrecyclesetude-wb.html"
+  },
+  "log": [
+   "direct https://www.theses.fr/1996ARTO0003 -> 000 match=0.00",
+   "direct https://www.theses.fr/1996ARTO0003 -> 503 match=0.00",
+   "wayback https://web.archive.org/web/20260221191021id_/https://theses.fr/1996ARTO0003 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2610987539",
+   "https://www.theses.fr/1996ARTO0003",
+   "https://www.theses.fr/1996ARTO0003",
+   "https://archive.org/wayback/available?url=www.theses.fr/1996ARTO0003",
+   "https://web.archive.org/web/20260221191021id_/https://theses.fr/1996ARTO0003"
+  ],
+  "urls": [
+   "https://www.theses.fr/1996ARTO0003",
+   "http://www.theses.fr/1996ARTO0003"
+  ],
+  "doi": null
+ },
+ {
+  "title": "高強度真鍮メッキ直鋼繊維の引抜性状に対する超高性能コンクリートの影響 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3000716741",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E9%AB%98%E5%BC%B7%E5%BA%A6%E7%9C%9F%E9%8D%AE%E3%83%A1%E3%83%83%E3%82%AD%E7%9B%B4%E9%8B%BC%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%BC%95%E6%8A%9C%E6%80%A7%E7%8A%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%B6%85%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://openlibrary.org/search.json?limit=10&title=%E9%AB%98%E5%BC%B7%E5%BA%A6%E7%9C%9F%E9%8D%AE%E3%83%A1%E3%83%83%E3%82%AD%E7%9B%B4%E9%8B%BC%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%BC%95%E6%8A%9C%E6%80%A7%E7%8A%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%B6%85%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E9%AB%98%E5%BC%B7%E5%BA%A6%E7%9C%9F%E9%8D%AE%E3%83%A1%E3%83%83%E3%82%AD%E7%9B%B4%E9%8B%BC%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%BC%95%E6%8A%9C%E6%80%A7%E7%8A%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%B6%85%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E9%AB%98%E5%BC%B7%E5%BA%A6%E7%9C%9F%E9%8D%AE%E3%83%A1%E3%83%83%E3%82%AD%E7%9B%B4%E9%8B%BC%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%BC%95%E6%8A%9C%E6%80%A7%E7%8A%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%B6%85%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E9%AB%98%E5%BC%B7%E5%BA%A6%E7%9C%9F%E9%8D%AE%E3%83%A1%E3%83%83%E3%82%AD%E7%9B%B4%E9%8B%BC%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%BC%95%E6%8A%9C%E6%80%A7%E7%8A%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%B6%85%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "RILEM TC 154-EMC「金属腐食を測定する電気化学的手法」 コンクリートの電気抵抗率に関する現場測定試験方法",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3200241007",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ARILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840"
+  ],
+  "doi": null
+ },
+ {
+  "title": "コンクリート構造物の環境設計, Task Group 3.3 of fib commission 3: fib state-of-art report bulletin 28, Environmental Design[FIB(The International Federation for Structural Concrete, 2004)](材料施工,文献抄録)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1570009752378378880",
+   "match": 1.0,
+   "meta": {
+    "title": "コンクリート構造物の環境設計, Task Group 3.3 of fib commission 3: fib state-of-art report bulletin 28, Environmental Design[FIB(The International Federation for Structural Concrete, 2004)](材料施工,文献抄録)",
+    "dc:creator": [
+     "田村 雅紀"
+    ],
+    "dc:publisher": "日本建築学会",
+    "prism:publicationName": "建築雑誌",
+    "prism:publicationDate": "2005-05-20",
+    "prism:number": "1533",
+    "prism:startingPage": "66",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110006349184"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://www.aij.or.jp/paper/detail.html?productId=91162"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110006349184 -> 202 match=0.00",
+   "direct https://ci.nii.ac.jp/naid/110006349184 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110006349184",
+   "wayback none for ci.nii.ac.jp/naid/110006349184",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W642998970",
+   "https://ci.nii.ac.jp/naid/110006349184",
+   "https://ci.nii.ac.jp/naid/110006349184",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110006349184",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110006349184",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E6%A7%8B%E9%80%A0%E7%89%A9%E3%81%AE%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88%2C%20Task%20Group%203.3%20of%20fib%20commission%203%3A%20fib%20state-of-art%20report%20bulletin%2028%2C%20Environmental%20Design%5BFIB%28The%20International%20Federation%20for%20Structural%20Concrete%2C%202004%29%5D%28%E6%9D%90%E6%96%99%E6%96%BD%E5%B7%A5%2C%E6%96%87%E7%8C%AE%E6%8A%84%E9%8C%B2%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110006349184",
+   "http://ci.nii.ac.jp/naid/110006349184"
+  ],
+  "doi": null
+ },
+ {
+  "title": "鉄筋コンクリート片持梁形式の壁の繰返し挙動 1 実験結果",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3210829852",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://openlibrary.org/search.json?limit=10&title=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20230104031504/https://www.repositorio.ufal.br/handle/riufal/389",
+   "original": "https://repositorio.ufal.br/handle/riufal/389",
+   "snapshot": "20230104031504",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Gomes, Paulo César Correia",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4761514Z6&dataRevisao=null",
+     "Carneiro, Arnaldo Manoel Pereira",
+     "http://lattes.cnpq.br/9191655335324358",
+     "Lima, Flávio Barboza de",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4793519U0&dataRevisao=null"
+    ],
+    "DC.creator": [
+     "Cavalcanti, Diogo Jatobá de Holanda",
+     "http://lattes.cnpq.br/4458326922112821"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2015-08-25T18:21:21Z"
+    ],
+    "DCTERMS.available": [
+     "2007-03-15",
+     "2015-08-25T18:21:21Z"
+    ],
+    "DCTERMS.issued": [
+     "2006-06-02"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "CAVALCANTI, Diogo Jatobá de Holanda. Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais. 2006. 141 f. Dissertação (Mestrado em Engenharia Civil) - Centro de Tecnologia, Programa de Pós-Graduação em Engenharia Civil,  Universidade Federal de Alagoas, Maceió, 2006."
+    ],
+    "DC.identifier": [
+     "http://repositorio.ufal.br/handle/riufal/389"
+    ],
+    "DCTERMS.abstract": [
+     "The Self-compacting concrete (SCC) is already in use in several countries\r\nand represents one of the biggest advances in concrete technology in the last\r\ndecades. Its name is related to the growth of productivity, the improvement on\r\nconstructive environment and the contribution of sustainable concrete technology\r\nthat is characterized as an environment-friendly material, obtained with high\r\nvolumes of industrial waste. As its development is characterized mainly by its\r\nproperties in its fresh stage, the studies of its mechanical properties, such as\r\ncompressive strength (fc), diametral compressive strength or traction strength (ft),\r\nand the modulus of elasticity (Ec), as its evolution and relations between each other\r\nhave been little developed. The c.p s molding procedures with SCC is only\r\nmodified, since the self-compacting concrete doesn t need any vibration. Within\r\nthat focus, a SCC added with marble and the filler RSMG is produced, and its\r\nmechanical properties are determined and compared with a conventional concrete\r\nof reference and others SCC. The c.p. molding is also analyzed in order to verify its\r\ncompactibility.The study prove that the best way to fill the mold, is similar to the one\r\nused for the reference conventional concrete, except the process of vibration.\r\nEquations of the evolution of fc and relations between fc x ft e fc x Ec to SCC are also\r\naccomplished and compared with the ones presented for conventional concrete.\r\nThe results proved that the equations used of conventional concrete are accepted\r\nfor the SCC."
+    ],
+    "DC.description": [
+     "Fundação de Amparo a Pesquisa do Estado de Alagoas",
+     "O concreto auto-adensável (CAA) já é utilizado em vários países e representa um dos maiores avanços na tecnologia do concreto das últimas décadas. Seu nome está  relacionado com o aumento na produtividade, melhora do ambiente construtivo e contribuição da tecnologia sustentável do concreto, sendo caracterizado como um material ambientalmente amigável, e podendo ser obtido com altos volumes de resíduos industriais. Como seu desempenho está mais associado às suas propriedades no estado fresco, estudos de propriedades mecânicas, como: resistências à compressão (fc) e à tração (ft) e o módulo de deformação longitudinal (Ec), assim como sua evolução e relações entre as mesmas, têm sido pouco desenvolvidos. Dos procedimentos que antecedem a determinação das propriedades mecânicas do concreto, a moldagem dos c.p. com CAA é a única modificada, pois, o adensamento do concreto não necessita de vibração. Dentro deste enfoque, um concreto auto-adensável com a adição mineral do resíduo de serragem de mármore e granito (RSMG) é produzido, e suas propriedades mecânicas são determinadas e comparadas com as de um concreto convencional e de outros CAA. Diferentes métodos de moldagem em c.p cilíndricos com o CAA também são analisados, a fim de verificar sua auto-adensabilidade. O estudo comprova que a melhor forma de preenchimento dos moldes com CAA é semelhante ao adotado para concretos convencionais, a menos do processo de vibração. Equações de evolução de fc e relações fc x ft e fc x Ec para CAA também são obtidas e comparadas com as apresentadas para concreto convencional. Os resultados comprovam que as relações usadas para concreto convencional são aceitas para o CAA."
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.language": [
+     "por"
+    ],
+    "DC.publisher": [
+     "Universidade Federal de Alagoas",
+     "BR",
+     "Programa de Pós-Graduação em Engenharia Civil",
+     "UFAL"
+    ],
+    "DC.rights": [
+     "Acesso Aberto"
+    ],
+    "DC.subject": [
+     "Self-compacting concrete (SCC)",
+     "filler",
+     "mechanical properties.",
+     "Concreto auto-adensável",
+     "resíduo (filer)",
+     "propriedades mecânicas",
+     "CNPQ::ENGENHARIAS::ENGENHARIA CIVIL::ESTRUTURAS"
+    ],
+    "DC.title": [
+     "Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais"
+    ],
+    "DC.type": [
+     "Dissertação"
+    ],
+    "citation_keywords": [
+     "Self-compacting concrete (SCC); filler; mechanical properties.; Concreto auto-adensável; resíduo (filer); propriedades mecânicas; Dissertação"
+    ],
+    "citation_title": [
+     "Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais"
+    ],
+    "citation_publisher": [
+     "Universidade Federal de Alagoas"
+    ],
+    "citation_author": [
+     "Cavalcanti, Diogo Jatobá de Holanda"
+    ],
+    "citation_pdf_url": [
+     "http://www.repositorio.ufal.br/jspui/bitstream/riufal/389/1/Programa%20de%20P%c3%b3s-Gradua%c3%a7%c3%a3o%20em%20Engenharia%20Civil.pdf"
+    ],
+    "citation_date": [
+     "2006-06-02"
+    ],
+    "citation_abstract_html_url": [
+     "http://www.repositorio.ufal.br/jspui/handle/riufal/389"
+    ],
+    "html_title": [
+     ": Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais"
+    ]
+   },
+   "snippet": "contribuicao ao estudo de propriedades do concreto autoadensavel visando sua aplicacao em elementos estruturais skip navigation portal do governo brasileiro atualize sua barra de governo pagina inicial navegar comunidades e colecoes navegar nos itens por data do documento autores orientadores titulo assunto tipo do documento cnpq departamento programas tipo de acesso ajuda documentos uteis termo de autorizacao resolucao riufal entrar em meu espaco receber atualizacoes por e mail editar perfil e mail ri sibi ufal br horario 8h as 17h fone 3214 1660 atencao 1 as producoes academicas devem ser en",
+   "evidenceFile": "ev/contribuicaoaoestudodepropriedadesdoconc-wb.html"
+  },
+  "log": [
+   "direct https://repositorio.ufal.br/handle/riufal/389 -> 000 match=0.00",
+   "direct https://repositorio.ufal.br/handle/riufal/389 -> 000 match=0.00",
+   "direct https://www.repositorio.ufal.br/jspui/bitstream/riufal/389/1/Programa%20de%20P%c3%b3s-Gradua%c3%a7%c3%a3o%20em%20Engenharia%20Civil.pdf -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20230104031504id_/https://www.repositorio.ufal.br/handle/riufal/389 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2626904231",
+   "https://repositorio.ufal.br/handle/riufal/389",
+   "https://repositorio.ufal.br/handle/riufal/389",
+   "https://www.repositorio.ufal.br/jspui/bitstream/riufal/389/1/Programa%20de%20P%c3%b3s-Gradua%c3%a7%c3%a3o%20em%20Engenharia%20Civil.pdf",
+   "https://archive.org/wayback/available?url=repositorio.ufal.br/handle/riufal/389",
+   "https://web.archive.org/web/20230104031504id_/https://www.repositorio.ufal.br/handle/riufal/389"
+  ],
+  "urls": [
+   "https://repositorio.ufal.br/handle/riufal/389",
+   "http://repositorio.ufal.br/handle/riufal/389",
+   "http://www.repositorio.ufal.br/jspui/bitstream/riufal/389/1/Programa%20de%20P%c3%b3s-Gradua%c3%a7%c3%a3o%20em%20Engenharia%20Civil.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Estudo de traço de concreto permeável com adição de casca de arroz destinado à pavimentação de áreas públicas urbanas",
+  "result": null,
+  "log": [
+   "direct https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 000 match=0.00",
+   "direct https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3096403882",
+   "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://archive.org/wayback/available?url=www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://archive.org/wayback/available?url=www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://openlibrary.org/search.json?limit=10&title=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AEstudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas"
+  ],
+  "urls": [
+   "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542"
+  ],
+  "doi": null
+ },
+ {
+  "title": "用ANSYS Solid 65单元分析混凝土组合构件复杂应力",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90571X/2003006/8087629.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/90571X/2003006/8087629.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "wayback none for www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2339099228",
+   "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "http://www.cqvip.com/QK/90571X/2003006/8087629.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "《高层建筑混凝土结构技术规程（JGJ3—2002）》的学习体会",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/qk/97803X/200305/8539963.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/qk/97803X/200305/8539963.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/97803X/200305/8539963.html",
+   "wayback none for www.cqvip.com/qk/97803X/200305/8539963.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1584324994",
+   "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://openlibrary.org/search.json?limit=10&title=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A"
+  ],
+  "urls": [
+   "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+   "http://www.cqvip.com/qk/97803X/200305/8539963.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "高性能混凝土（HPC）配合比设计新法——全计算法",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/qk/90326X/200002/4166829.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/qk/90326X/200002/4166829.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/90326X/200002/4166829.html",
+   "wayback none for www.cqvip.com/qk/90326X/200002/4166829.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W176111392",
+   "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95"
+  ],
+  "urls": [
+   "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+   "http://www.cqvip.com/qk/90326X/200002/4166829.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纤维增强复合材料(FRP)约束混凝土矩形柱应力-应变关系的研究",
+  "result": null,
+  "log": [
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml -> 000 match=0.00",
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml -> 000 match=0.00",
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml -> 000 match=0.00",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1541572977",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6"
+  ],
+  "urls": [
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FRP材料加固混凝土结构应用的新领域——嵌入式（NSM）加固法",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/92047X/200404/9636503.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/92047X/200404/9636503.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/92047X/200404/9636503.html",
+   "wayback none for www.cqvip.com/QK/92047X/200404/9636503.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1605063232",
+   "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+   "http://www.cqvip.com/QK/92047X/200404/9636503.html"
+  ],
+  "doi": null
+ }
+]

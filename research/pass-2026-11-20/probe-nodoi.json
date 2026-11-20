@@ -1,0 +1,293 @@
+[
+ {
+  "idx": 19,
+  "url": "https://ci.nii.ac.jp/naid/10014912219",
+  "title": "Physical Properties of Cement Paste",
+  "http": "202 https://cir.nii.ac.jp/crid/1571135649892977536",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 23,
+  "url": "https://ci.nii.ac.jp/ncid/BA72979113",
+  "title": "Advances in concrete technology",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA72979113",
+  "match": 1.0,
+  "size": 1911,
+  "status": "ok"
+ },
+ {
+  "idx": 26,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+  "title": "Cement with interground additives. Capabilities and environmental relief, Part 1.",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 27,
+  "url": "https://docs.lib.purdue.edu/dissertations/AAI7306035",
+  "title": "THE NATURE OF THE PASTE-AGGREGATE INTERFACE",
+  "http": "200 https://docs.lib.purdue.edu/dissertations/AAI7306035/",
+  "match": 1.0,
+  "size": 902,
+  "status": "ok"
+ },
+ {
+  "idx": 50,
+  "url": "https://ci.nii.ac.jp/naid/10010349795",
+  "title": "The Mechanism of Carbonation of Mortar and the Dependence of Carbonation on Pore Structure",
+  "http": "202 https://cir.nii.ac.jp/crid/1572824499663754880",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 54,
+  "url": "https://resolver.tudelft.nl/uuid:2f8a3f72-1a25-4aa6-bc25-872df6fa32d4",
+  "title": "Simulation of hydration and formation of structure in hardening cement-based materials",
+  "http": "200 https://repository.tudelft.nl/record/uuid:2f8a3f72-1a25-4aa6-bc25-872df6fa32d4",
+  "match": 1.0,
+  "size": 2147,
+  "status": "ok"
+ },
+ {
+  "idx": 65,
+  "url": "https://trid.trb.org/view.aspx?id=26076",
+  "title": "FRACTURE OF PLAIN CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 68,
+  "url": "https://nrc-publications.canada.ca/eng/view/object/?id=2dcb526a-49a9-47f0-8722-cf559c9826f6",
+  "title": "Applications of differential thermal analysis in cement chemistry",
+  "http": "200 https://nrc-publications.canada.ca/eng/view/object/?id=2dcb526a-49a9-47f0-8722-cf559c9826f6",
+  "match": 1.0,
+  "size": 1653,
+  "status": "ok"
+ },
+ {
+  "idx": 70,
+  "url": "https://ci.nii.ac.jp/naid/10019784743",
+  "title": "Mechanism of shrinkage and reversible creep of hardened cement paste",
+  "http": "202 https://cir.nii.ac.jp/crid/1570009750539198720",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 82,
+  "url": "https://ci.nii.ac.jp/ncid/BA13194650",
+  "title": "Fly ash, silica fume, slag & other mineral by-products in concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA13194650",
+  "match": 1.0,
+  "size": 3397,
+  "status": "ok"
+ },
+ {
+  "idx": 109,
+  "url": "https://resolver.tudelft.nl/uuid:07a817aa-cba1-4c93-bbed-40a5645cf0f1",
+  "title": "Performance-based design of self-compacting fibre reinforced concrete",
+  "http": "200 https://repository.tudelft.nl/record/uuid:07a817aa-cba1-4c93-bbed-40a5645cf0f1",
+  "match": 1.0,
+  "size": 8856,
+  "status": "ok"
+ },
+ {
+  "idx": 147,
+  "url": "https://ntlsearch.bts.gov/ntl/md.do?id=61575",
+  "title": "Bond behavior of reinforcing steel in ultra-high performance concrete.",
+  "http": "200 https://ntlsearch.bts.gov/ntl/md.do?id=61575",
+  "match": 1.0,
+  "size": 1617,
+  "status": "ok"
+ },
+ {
+  "idx": 186,
+  "url": "https://trid.trb.org/view.aspx?id=643318",
+  "title": "SEISMIC DESIGN AND PERFORMANCE OF PRECAST CONCRETE SEGMENTAL BRIDGE COLUMNS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 251,
+  "url": "https://resolver.tudelft.nl/uuid:fa87147b-8201-47ed-83d7-b812b09c5fbb",
+  "title": "Local approach to fatigue of concrete",
+  "http": "200 https://repository.tudelft.nl/record/uuid:fa87147b-8201-47ed-83d7-b812b09c5fbb",
+  "match": 1.0,
+  "size": 2008,
+  "status": "ok"
+ },
+ {
+  "idx": 260,
+  "url": "https://trid.trb.org/view.aspx?id=366922",
+  "title": "TENSILE AND TENSILE FATIGUE BEHAVIOUR OF CONCRETE; EXPERIMENTS, MODELLING AND ANALYSES",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 262,
+  "url": "https://pubsindex.trb.org/view.aspx?id=102368",
+  "title": "THEORY OF VOLUME CHANGES IN HARDENED PORTLAND-CEMENT PASTE DURING FREEZING",
+  "http": "000 https://pubsindex.trb.org/view.aspx?id=102368",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 278,
+  "url": "https://hdl.handle.net/2142/4381",
+  "title": "Fatigue of concrete",
+  "http": "403 https://www.ideals.illinois.edu/items/5008",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 281,
+  "url": "https://hdl.handle.net/2142/4399",
+  "title": "Ultimate strength of reinforced concrete beams as related to the plasticity ratio of concrete ; a report of an investigation conducted by the Engineering Experiment Station, University of Illinois in cooperation with the Public Roads Administration, Federal Works Agency and the Division of Highways, State of Illinois",
+  "http": "403 https://www.ideals.illinois.edu/items/5245",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 283,
+  "url": "https://rosap.ntl.bts.gov/view/dot/84514",
+  "title": "AGGREGATE ABSORPTION FACTOR AS AN INDICATOR OF THE FREEZE- THAW DURABILITY OF STRUCTURAL LIGHTWEIGHT CONCRETE",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/84514",
+  "match": 0.0,
+  "size": 215,
+  "status": "fail"
+ },
+ {
+  "idx": 285,
+  "url": "https://trid.trb.org/view/101854",
+  "title": "RESISTANCE OF CONCRETE SURFACES TO SCALING ACTION OF ICE-REMOVAL AGENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 324,
+  "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=1958449",
+  "title": "Hormigón autocompactante: Criterios para su utilización",
+  "http": "200 https://dialnet.unirioja.es/servlet/articulo?codigo=1958449",
+  "match": 1.0,
+  "size": 1224,
+  "status": "ok"
+ },
+ {
+  "idx": 330,
+  "url": "https://www.theses.fr/1996ARTO0003",
+  "title": "Caractérisation des granulats recyclés, étude de la composition et du comportement de bétons incluant ces granulats",
+  "http": "301 https://theses.fr/1996ARTO0003",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 334,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0",
+  "title": "高強度真鍮メッキ直鋼繊維の引抜性状に対する超高性能コンクリートの影響 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201302289144245959&rel=0",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 335,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+  "title": "RILEM TC 154-EMC「金属腐食を測定する電気化学的手法」 コンクリートの電気抵抗率に関する現場測定試験方法",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 336,
+  "url": "https://ci.nii.ac.jp/naid/110006349184",
+  "title": "コンクリート構造物の環境設計, Task Group 3.3 of fib commission 3: fib state-of-art report bulletin 28, Environmental Design[FIB(The International Federation for Structural Concrete, 2004)](材料施工,文献抄録)",
+  "http": "202 https://cir.nii.ac.jp/crid/1570009752378378880",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 337,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+  "title": "鉄筋コンクリート片持梁形式の壁の繰返し挙動 1 実験結果",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 338,
+  "url": "https://ci.nii.ac.jp/ncid/BN03535145",
+  "title": "コンクリート標準示方書(昭和61年制定) : 改訂資料",
+  "http": "200 https://ci.nii.ac.jp/ncid/BN03535145",
+  "match": 1.0,
+  "size": 2580,
+  "status": "ok"
+ },
+ {
+  "idx": 340,
+  "url": "https://hdl.handle.net/10183/35615",
+  "title": "Uso de concreto permeável na drenagem urbana : análise da viabilidade técnica e do impacto ambiental",
+  "http": "200 https://lume.ufrgs.br/handle/10183/35615",
+  "match": 1.0,
+  "size": 7355,
+  "status": "ok"
+ },
+ {
+  "idx": 342,
+  "url": "https://repositorio.ufal.br/handle/riufal/389",
+  "title": "Contribuição ao estudo de propriedades do concreto autoadensável visando sua aplicação em elementos estruturais",
+  "http": "000 https://repositorio.ufal.br/handle/riufal/389",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 345,
+  "url": "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+  "title": "Estudo de traço de concreto permeável com adição de casca de arroz destinado à pavimentação de áreas públicas urbanas",
+  "http": "000 https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 346,
+  "url": "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+  "title": "用ANSYS Solid 65单元分析混凝土组合构件复杂应力",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 347,
+  "url": "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+  "title": "《高层建筑混凝土结构技术规程（JGJ3—2002）》的学习体会",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 348,
+  "url": "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+  "title": "高性能混凝土（HPC）配合比设计新法——全计算法",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 350,
+  "url": "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+  "title": "纤维增强复合材料(FRP)约束混凝土矩形柱应力-应变关系的研究",
+  "http": "000 https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 351,
+  "url": "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+  "title": "FRP材料加固混凝土结构应用的新领域——嵌入式（NSM）加固法",
+  "status": "skipped-host"
+ }
+]
