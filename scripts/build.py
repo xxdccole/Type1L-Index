@@ -455,6 +455,33 @@ class Site:
 </head>
 """
 
+    def site_nav(self, prefix):
+        """Top bar on every page. Section targets live on the home page.
+
+        `prefix` is the same relative prefix other header and footer links use
+        ("" at the root, "../" one level down, "../../" on topic pages).
+        The existing bar does not mark the current item, so these links do not either.
+        """
+        items = [
+            ("#whats-new", "What's new"),
+            ("#topics", "Topics"),
+            ("#issues", "Key issues"),
+            ("#resources", "Resources"),
+            ("#gaps", "Research gaps"),
+            ("#changelog", "Change log"),
+            ("#subscribe", "Get updates"),
+        ]
+        if REACTIONS_PATH.exists():
+            items.extend((("reactions/", "Reactions"), ("calculator/", "Calculator")))
+        links = "\n".join(f'<a href="{prefix}{href}">{label}</a>' for href, label in items)
+        return (
+            '<nav class="site-nav" id="section-nav" aria-label="Sections">\n'
+            '<div class="wrap">\n'
+            f"{links}\n"
+            "</div>\n"
+            "</nav>\n"
+        )
+
     def footer(self, prefix):
         d = self.d
         review = f' · <a href="{prefix}review/">Leads to review</a>' if REVIEW_PATH.exists() else ""
@@ -582,18 +609,7 @@ class Site:
 <p id="meta" class="meta-line">Last updated {time_el(d['lastUpdated'], True)} · {n_top} topics · {n_res} resources · <a href="#subscribe">Get updates</a></p>
 </div>
 </header>
-<nav class="site-nav" id="section-nav" aria-label="Sections">
-<div class="wrap">
-<a href="#whats-new">What's new</a>
-<a href="#topics">Topics</a>
-<a href="#issues">Key issues</a>
-<a href="#resources">Resources</a>
-<a href="#gaps">Research gaps</a>
-<a href="#changelog">Change log</a>
-<a href="#subscribe">Get updates</a>
-</div>
-</nav>
-<main id="main">
+{self.site_nav(prefix)}<main id="main">
 <div id="content">
 <section id="whats-new" tabindex="-1" aria-labelledby="whats-new-heading"><div class="wrap"><h2 id="whats-new-heading">What's new</h2><div id="whats-new-list">{news}</div></div></section>
 <section id="topics" tabindex="-1" aria-labelledby="topics-heading"><div class="wrap"><h2 id="topics-heading">Topics</h2>
@@ -684,7 +700,7 @@ class Site:
 <p class="meta-line">{'Coverage gap · no dedicated source indexed yet' if cnt == 0 else str(cnt) + (' resource' if cnt == 1 else ' resources')} · Last updated {time_el(d['lastUpdated'], True)}</p>
 </div>
 </header>
-<main id="main"><div id="content">
+{self.site_nav(prefix)}<main id="main"><div id="content">
 <section aria-labelledby="takeaways-heading"><div class="wrap">
 {('<h2 id="takeaways-heading">Key points</h2>' + tk) if tk else '<h2 id="takeaways-heading" class="sr-only">Key points</h2>'}
 <h2 class="h3like">Resources</h2>
@@ -731,7 +747,7 @@ class Site:
 <p class="meta-line">{len(items)} leads · unverified, not index resources · Last updated {time_el(self.d['lastUpdated'], True)}</p>
 </div>
 </header>
-<main id="main"><div id="content"><section><div class="wrap">
+{self.site_nav(prefix)}<main id="main"><div id="content"><section><div class="wrap">
 <p class="evidence-note">Each lead looks real and on-topic, but its page or record could not be opened yet. The daily run retries each one and promotes it once it can be inspected.</p>
 {"".join(body)}
 </div></section></div></main>
@@ -815,7 +831,7 @@ class Site:
 <p class="meta-line">{n} reactions · {c["sourcedValues"]} sourced, {c["derivedValues"]} derived, {c["unknownValues"]} unknown values · <a href="{prefix}calculator/">Batch calculator</a> · <a href="{prefix}data/reactions.json">Data (JSON)</a></p>
 </div>
 </header>
-<main id="main"><div id="content"><section><div class="wrap">
+{self.site_nav(prefix)}<main id="main"><div id="content"><section><div class="wrap">
 <p class="notice"><strong>Not a substitute for testing or thermodynamic modelling.</strong> {e(rx["disclaimer"])}</p>
 <p class="evidence-note">S = sourced (the value appears in the cited source, which was opened and read). D = derived (calculated here from sourced values and CIAAW atomic weights). Unknown means no inspected source gave the value; nothing is filled in by assumption. Per-gram values are per gram of the key reactant. Water is positive when consumed. CH is positive when produced and negative when consumed. Chemical shrinkage is positive for a volume loss. Coverage is a working set of common reactions, not an exhaustive list.</p>
 <div class="table-scroll"><table>
@@ -870,7 +886,7 @@ class Site:
 <p class="meta-line">Runs in your browser; nothing is sent anywhere · <a href="{prefix}reactions/">Reaction table</a></p>
 </div>
 </header>
-<main id="main"><div id="content"><section><div class="wrap">
+{self.site_nav(prefix)}<main id="main"><div id="content"><section><div class="wrap">
 <div class="notice calc-warn" role="note"><p><strong>Estimate only. Not a substitute for testing, for calorimetry or thermogravimetry, or for thermodynamic modelling (GEMS with Cemdata18).</strong> It uses idealised end-state reactions, a Bogue calculation that is known to misstate real phase contents, and a fixed reaction order. Use it for orientation and for comparing mixes, not for specification, compliance or structural decisions.</p></div>
 <noscript><p class="notice">This calculator needs JavaScript. The formulas below can be applied by hand.</p></noscript>
 <form id="calc-form" novalidate>
