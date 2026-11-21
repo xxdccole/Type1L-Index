@@ -1,0 +1,273 @@
+0|apps|1991|1096|book|-|en|Prestressed Concrete Structures||nodoi|
+1|apps|2020|601|arti|-|en|Durability deterioration of concrete under marine environment from material to structure: A critical review|Journal of Building Engineerin|doi|
+2|apps|1998|572|arti|A|en|A plastic-damage concrete model for earthquake analysis of dams|Earthquake Engineering & Struc|doi|
+3|apps|2007|528|arti|-|en|Factors influencing chloride transport in concrete structures exposed to marine environments|Cement and Concrete Composites|doi|
+4|apps|2011|419|arti|-|en|Interpretation of concrete dam behaviour with artificial neural network and multiple linear regression models|Engineering Structures|doi|
+5|apps|2019|352|arti|A|en|Development of a bridge maintenance system for prestressed concrete bridges using 3D digital twin model|Structure and Infrastructure E|doi|
+6|apps|2009|321|arti|-|en|Prediction of time dependent chloride transport in concrete structures exposed to a marine environment|Cement and Concrete Research|doi|
+7|apps|2005|298|arti|-|en|Automated detection of cracks in buried concrete pipe images|Automation in Construction|doi|
+8|carbon|2018|713|arti|-|en|Making Concrete Change Innovation in Low-carbon Cement and Concrete||nodoi|
+9|carbon|2018|397|arti|-|en|Life cycle assessment of geopolymer concrete|Construction and Building Mate|doi|
+10|carbon|2005|389|arti|-|en|Carbon dioxide emissions and climate change: policy implications for the cement industry|Environmental Science & Policy|doi|
+11|carbon|2016|371|arti|-|en|A closed-loop life cycle assessment of recycled aggregate concrete utilization in China|Waste Management|doi|
+12|carbon|2023|358|arti|A|en|Advancements in low-carbon concrete as a construction material for the sustainable built environment|Developments in the Built Envi|doi|
+13|carbon|2015|343|book|-|en|Life cycle assessment (LCA) of alkali-activated cements and concretes|Elsevier eBooks|doi|
+14|carbon|2016|342|arti|-|en|Life cycle assessment (LCA) applied to the manufacturing of common and ecological concrete: A review|Construction and Building Mate|doi|
+15|carbon|2019|330|arti|-|en|A review of life cycle assessment of recycled aggregate concrete|Construction and Building Mate|doi|
+16|citation-chase|1990|46|book|A|en|Carboaluminate Reactions as Influenced by Limestone Additions||doi|6
+17|citation-chase|1994|36|book|-|en|Mineral admixtures in cement and concrete|Advanced Cement Based Material|doi|3
+18|citation-chase|1975|1597|book|A|en|Principles of Pavement Design|Wiley eBooks|doi|2
+19|citation-chase|1975|218|book|-|en|Freezing Effects in Concrete|Special publication - Royal So|doi|2
+20|citation-chase|1997|112|arti|-|en|ETTRINGITE FORMATION IN LOW C3A PORTLAND CEMENT EXPOSED TO SODIUM SULFATE SOLUTION|Cement and Concrete Research|doi|2
+21|citation-chase|2000|109|arti|-|en|The formation of thaumasite in a cement:lime:sand mortar exposed to cold magnesium and potassium sulfate solutions|Cement and Concrete Composites|doi|2
+22|citation-chase|1998|106|conf|-|en|Role of Pozzolanic and Cementious Material in Sustainable Development of the Concrete Industry|CANMET/ACI International Confe|doi|2
+23|citation-chase|1994|104|book|-|en|Mineral admixtures in cement and concrete|Cement and Concrete Research|doi|2
+24|citation-chase|2003|69|arti|-|en|Use of mineral admixtures to prevent thaumasite formation in limestone cement mortar|Cement and Concrete Composites|doi|2
+25|citation-chase|1999|58|arti|-|en|Durability of the hydrated limestone-silica fume Portland cement mortars under sulphate attack|Cement and Concrete Research|doi|2
+26|citation-chase|1996|40|arti|A|en|Durability of concrete with addition of limestone powder|Magazine of Concrete Research|doi|2
+27|citation-chase|1994|34|arti|-|en|A new approach in evaluation of filler effect in cement I. Effect on strength and workability of mortar and concrete|Cement and Concrete Research|doi|2
+28|citation-chase|1990|31|book|A|en|Effects of Carbonate Additions on Heat of Hydration and Sulfate Resistance of Portland Cements||doi|2
+29|citation-chase|1997|24|arti|-|en|The effects of varying gypsum content on thaumasite formation in a cement:Lime:Sand mortar at 5 °C|Cement and Concrete Research|doi|2
+30|citation-chase|1991|14|book|A|en|LIMESTONE FILLER FOR CONCRETE, FRENCH RESEARCH AND PRACTICE|CRC Press eBooks|doi|2
+31|citation-chase|1991|3|book|-|en|Carbonate additions to cement, STP 1064|Cement and Concrete Composites|doi|2
+32|citation-chase|1972|252|arti|A|en|Crystallization Pressure of Salts in Stone and Concrete|Geological Society of America |doi|1
+33|citation-chase|1957|178|arti|A|en|STUDIES OF 'SALT' SCALING OF CONCRETE|Highway Research Record|nodoi|1
+34|citation-chase|1989|158|arti|A|en|The Performance of Concrete in Bridges: a Survey of 200 Highway Bridges|OpenGrey (Institut de l'Inform|nodoi|1
+35|citation-chase|1986|154|stan|-|en|Testing concrete: Recommendations for measurement of velocity of ultrasonic pulses in concrete|BSI Standards|doi|1
+36|citation-chase|1974|152|arti|A|en|Drainage of highway and airfield pavements|UCLA Biblioteca de Ingenieria |nodoi|1
+37|citation-chase|1989|150|arti|A|en|Near surface characteristics of concrete: intrinsic permeability|Magazine of Concrete Research|doi|1
+38|citation-chase|1987|120|arti|-|en|Early-age Bond Strength in Reinforced Concrete|ACI Materials Journal|doi|1
+39|citation-chase|1974|115|arti|A|en|A review of the geological factors influencing the mechanical properties of road surface aggregates|Quarterly Journal of Engineeri|doi|1
+40|citation-chase|1979|110|arti|-|en|Rheological properties of cement mixes: II. Zeta potential and preliminary viscosity studies|Cement and Concrete Research|doi|1
+41|citation-chase|1941|104|arti|A|en|Hydrothermal and X-ray studies of the garnet-hydrogarnet series and the relationship of the series to hydration products|Journal of research of the Nat|doi|1
+42|citation-chase|1979|98|arti|-|en|Rheological properties of cement mixes: III. The effects of mixing procedures on viscometric properties of mixes contain|Cement and Concrete Research|doi|1
+43|citation-chase|1979|97|arti|-|en|Thixotropic behaviour of cement pastes|Cement and Concrete Research|doi|1
+44|citation-chase|1979|92|arti|A|en|Influence of specific surface and concentration of solids upon the flow behaviour of cement pastes|Magazine of Concrete Research|doi|1
+45|citation-chase|1966|88|book|-|en|FREEZING AND THAWING OF CONCRETE-MECHANISMS AND CONTROL||nodoi|1
+46|citation-chase|1975|88|arti|A|en|Phase Transitions of Adsorbates: VI, Effect of Deicing Agents on the Freezing of Cement Paste*|Journal of the American Cerami|doi|1
+47|citation-chase|1976|87|arti|-|en|THE DESIGN OF CONCRETE BLOCK ROADS||nodoi|1
+48|citation-chase|1951|83|arti|A|en|Influence Charts for Concrete Pavements|Transactions of the American S|doi|1
+49|citation-chase|1973|76|arti|A|en|FINITE-ELEMENT ANALYSIS OF CONCRETE SLABS AND ITS IMPLICATIONS FOR RIGID PAVEMENT DESIGN|Highway Research Record|nodoi|1
+50|citation-chase|1940|72|arti|-|en|Autogenous volume change of concrete||nodoi|1
+51|citation-chase|1969|64|arti|A|en|IDENTIFICATION OF FROST-SUSCEPTIBLE PARTICLES IN CONCRETE AGGREGATES|National Cooperative Highway R|nodoi|1
+52|citation-chase|1969|62|arti|-|en|X-ray diffraction studies on the transformation of kaolinite into metakaolin: I. Variability of interlayer spacings|American Mineralogist|nodoi|1
+53|citation-chase|1974|58|arti|-|en|The role of rock and clast fabric in the physical performance of crushed-rock aggregate|Engineering Geology|doi|1
+54|citation-chase|1980|53|arti|A|en|Influence of specific surface and concentration of solids upon flow behaviour of cement pastes|Magazine of Concrete Research|doi|1
+55|citation-chase|1978|50|arti|-|en|Particulate admixture for enhanced freeze-thaw resistance of concrete|Cement and Concrete Research|doi|1
+56|citation-chase|1989|42|arti|A|en|Evaluation of Test Methods for Measuring the Bond Strength of Portland Cement Based Repair Materials to Concrete|Cement Concrete and Aggregates|doi|1
+57|citation-chase|1976|40|arti|-|en|Effect of Surfactant on the Viscosity of Portland Cement-Water Dispersions|Product R&D|doi|1
+58|citation-chase|1964|35|arti|A|en|EFFECTS OF SEA WATER ON CONCRETE||nodoi|1
+59|citation-chase|1986|34|arti|-|en|Recycled Concrete As Aggregate|ACI Concrete International|nodoi|1
+60|citation-chase|1975|34|book|-|en|Deicer Scaling Mechanisms in Concrete|Special publication - Royal So|doi|1
+61|citation-chase|1934|33|arti|-|en|Portland Cement Pastes Influence of Composition on Volume Constancy and Salt Resistance|Industrial & Engineering Chemi|doi|1
+62|citation-chase|1966|33|arti|A|en|IDENTIFICATION AND OCCURRENCE OF THAUMASITE IN CONCRETE A DISCUSSION FOR THE 1965 HRB SYMPOSIUM ON AGGRESSIVE FLUIDS|Highway Research Record|nodoi|1
+63|citation-chase|1976|32|book|-|en|Blast furnace and steel slag|Resources Policy|doi|1
+64|citation-chase|1989|31|book|-|en|Fly ash, silica fume, slag, and natural pozzolans in concrete : proceedings, third international conference, Trondheim, |American Concrete Institute eB|nodoi|1
+65|citation-chase|1986|23|book|-|en|Fly ash, silica fume, slag, and natural pozzolans in concrete : proceedings, second international conference, Madrid, Sp|American Concrete Institute eB|nodoi|1
+66|citation-chase|1964|23|revi|A|en|A CRITICAL REVIEW OF LITERATURE TREATING METHODS OF IDENTIFYING AGGREGATES SUBJECT TO DESTRUCTIVE VOLUME CHANGE WHEN FRO|Highway Research Board Special|nodoi|1
+67|citation-chase|1978|22|arti|-|en|On the combined effect of water solubles lignosulfonates and carbonates on portland cement and clinker pastes 1. Physica|Cement and Concrete Research|doi|1
+68|citation-chase|1966|22|arti|A|en|ANALYSIS OF DISCONTINOUS ORTHOTROPIC PAVEMENT SLABS SUBJECTED TO COMBINED LOADS|Highway Research Record|nodoi|1
+69|citation-chase|1982|22|book|A|en|Resurfacing With Portland Cement Concrete||nodoi|1
+70|citation-chase|1982|21|book|-|en|LONGTIME STUDY OF CONCRETE DURABILITY IN SULFATE SOILS|Special publication - Royal So|doi|1
+71|citation-chase|1979|20|arti|A|en|THE BEHAVIOUR OF A CONCRETE BLOCK PAVEMENT.|Proceedings of the Institution|doi|1
+72|citation-chase|1988|17|arti|A|en|HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY|Transportation Research Record|nodoi|1
+73|citation-chase|1987|13|conf|-|en|Concrete Durability: From Basic Research to Practical Reality|Katharine and Bryant Mather In|doi|1
+74|citation-chase|1944|13|arti|A|en|FACTORS AFFECTING THE THERMAL EXPANSION OF CONCRETE AGGREGATE MATERIALS||nodoi|1
+75|citation-chase|1978|11|arti|-|en|Consistency, setting, and strength gain characteristics of a “low porosity” Portland cement paste|Cement and Concrete Research|doi|1
+76|citation-chase|1964|11|arti|A|en|A DURABILITY TEST FOR AGGREGATES|Highway Research Record|nodoi|1
+77|citation-chase|1975|10|arti|A|en|EXPANSIVE CEMENT CONCRETE-MICROMECHANICAL MODELS FOR FREE AND RESTRAINED EXPANSION||nodoi|1
+78|citation-chase|1978|10|arti|A|fr|ETTRINGITE ET THAUMASITE DANS LE MORTIER DE LA DIGUE DU LARGE DU PORT DE CHERBOURG|ANN ITBTP|nodoi|1
+79|citation-chase|1965|9|arti|A|en|A 10-YEAR REPORT ON PERFORMANCE OF BONDED CONCRETE RESURFACINGS|Highway Research Record|nodoi|1
+80|citation-chase|1968|7|book|-|en|1. Contributions of Thorbergur Thorvaldson to Cement and Concrete Research|University of Toronto Press eB|doi|1
+81|citation-chase|1980|7|arti|A|en|AN EXPERIMENTAL INVESTIGATION OF THE BEHAVIOUR OF A CONCRETE BLOCK PAVEMENT WITH A SAND SUB-BASE.|Proceedings of the Institution|doi|1
+82|citation-chase|1988|7|arti|A|en|Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Concrete Rep||nodoi|1
+83|citation-chase|1988|6|arti|-|en|Pullout Tests on Straight Deformed Bars Embedded in Super Plasticized Concrete|ACI Materials Journal|doi|1
+84|citation-chase|1972|6|arti|A|en|CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY||nodoi|1
+85|citation-chase|1975|6|arti|A|en|Durability of Concrete Construction — 50 Years of Progress|Journal of the Construction Di|doi|1
+86|citation-chase-fwd|2007|1416|arti|-|en|The calcium silicate hydrates|Cement and Concrete Research|doi|
+87|citation-chase-fwd|2003|1334|arti|-|en|The effect of two types of C-S-H on the elasticity of cement-based materials: Results from nanoindentation and micromech|Cement and Concrete Research|doi|
+88|citation-chase-fwd|2007|1158|arti|-|en|Thermodynamic modelling of the effect of temperature on the hydration and porosity of Portland cement|Cement and Concrete Research|doi|
+89|citation-chase-fwd|2008|1145|arti|-|en|Refinements to colloid model of C-S-H in cement: CM-II|Cement and Concrete Research|doi|
+90|citation-chase-fwd|1992|985|arti|A|en|Strength and Ductility of Confined Concrete|Journal of Structural Engineer|doi|
+91|citation-chase-fwd|1985|853|arti|A|en|Seismic Damage Analysis of Reinforced Concrete Buildings|Journal of Structural Engineer|doi|
+92|citation-chase-fwd|2009|852|arti|-|en|Early hydration and setting of Portland cement monitored by IR, SEM and Vicat techniques|Cement and Concrete Research|doi|
+93|citation-chase-fwd|2003|736|arti|-|en|About the dynamic strength enhancement of concrete-like materials in a split Hopkinson pressure bar test|International Journal of Solid|doi|
+94|citation-chase-fwd|2005|580|arti|-|en|Local impact effects of hard missiles on concrete targets|International Journal of Impac|doi|
+95|citation-chase-fwd|1994|542|arti|-|en|Strength and Ductility of Concrete Columns Externally Reinforced With Fiber Composite Straps|ACI Structural Journal|doi|
+96|citation-chase-fwd|1999|510|arti|A|en|Confinement Model for High-Strength Concrete|Journal of Structural Engineer|doi|
+97|citation-chase-fwd|2010|479|arti|-|en|Concrete with recycled concrete aggregate and crushed clay bricks|Construction and Building Mate|doi|
+98|citation-chase-fwd|2008|461|arti|-|en|Modelling of compressive behaviour of concrete-like materials at high strain rate|International Journal of Solid|doi|
+99|citation-chase-fwd|2009|404|arti|-|en|Copper slag as sand replacement for high performance concrete|Cement and Concrete Composites|doi|
+100|citation-chase-fwd|2009|362|arti|-|en|Influence of various amounts of limestone powder on performance of Portland limestone cement concretes|Cement and Concrete Composites|doi|
+101|citation-chase-fwd|2009|347|arti|-|en|Interaction of polycarboxylate-based superplasticizers with cements containing different C3A amounts|Cement and Concrete Composites|doi|
+102|citation-chase-fwd|2006|334|arti|-|en|The effect of curing conditions on compressive strength of ultra high strength concrete with high volume mineral admixtu|Building and Environment|doi|
+103|citation-chase-fwd|2009|323|arti|A|en|New Mixture Proportioning Method for Concrete Made with Coarse Recycled Concrete Aggregate|Journal of Materials in Civil |doi|
+104|citation-chase-fwd|2009|246|arti|-|en|Effects of LOI of ground bagasse ash on the compressive strength and sulfate resistance of mortars|Construction and Building Mate|doi|
+105|citation-chase-fwd|2009|241|arti|-|en|Effect of the length of the side chains of comb-like copolymer dispersants on dispersion and rheological properties of c|Journal of Colloid and Interfa|doi|
+106|citation-chase-fwd|2009|230|arti|-|en|Microstructural development of early age hydration shells around cement grains|Cement and Concrete Research|doi|
+107|citation-chase-fwd|2009|217|arti|-|en|Performance of high strength concrete made with copper slag as a fine aggregate|Construction and Building Mate|doi|
+108|citation-chase-fwd|2025|173|arti|-|en|Green and low-carbon matrices for Engineered/Strain-Hardening Cementitious Composites (ECC/SHCC): Toward sustainable and|Journal of Cleaner Production|doi|
+109|citation-chase-fwd|2010|162|arti|-|en|Improvement of the early-age reactivity of fly ash and blast furnace slag cementitious systems using limestone filler|Materials and Structures|doi|
+110|citation-chase-fwd|2007|160|arti|-|en|The microstructure of dispersed and non-dispersed fresh cement pastes — New insight by cryo-microscopy|Cement and Concrete Research|doi|
+111|citation-chase-fwd|2009|143|arti|-|en|Durability of concrete containing a natural pozzolan as defined by a performance-based approach|Construction and Building Mate|doi|
+112|citation-chase-fwd|2025|135|arti|-|en|We use 30 billion tonnes of concrete each year — here’s how to make it sustainable|Nature|doi|
+113|citation-chase-fwd|2025|127|arti|-|en|3D Printed Concrete for Sustainable Construction: A Review of Mechanical Properties and Environmental Impact|Archives of Computational Meth|doi|
+114|citation-chase-fwd|2010|127|arti|-|en|Compressive strength and hydration with age of cement pastes containing dune sand powder|Construction and Building Mate|doi|
+115|citation-chase-fwd|2025|123|arti|A|en|Enhancing Concrete Sustainability: A Critical Review of the Performance of Recycled Concrete Aggregates (RCAs) in Struct|Buildings|doi|
+116|current-2026|2026|1|arti|A|en|Innovative Electrochemical Synthesis of Portland Cement Precursor (Ca(OH)2) with Machine Learning-Enabled Predictive Ins|Hydrogen|doi|
+117|current-2026|2026|0|arti|A|en|Performance of recycled aggregate concrete under combined carbonation-based treatments|Magazine of Concrete Research|doi|
+118|current-2026|2026|0|arti|-|en|Reinforcement efficiency of surface-modified bamboo fiber in high-volume recycled concrete powder mortar: Interfacial bo|Industrial Crops and Products|doi|
+119|current-2026|2026|0|arti|A|en|Evaluasi Kinerja Perkuatan Balok T Beton Bertulang Berbasis HFRP dan CFRP Melalui Pemodelan Elemen Hingga|Journal of Infrastructure and |doi|
+120|current-2026|2026|0|book|A|en|Augmented Reality Applied to Euclides Vaz’s Statuary Affected in Its Public Context: A Case Study on Sculpture Displacem|Springer eBooks|doi|
+121|current-2026|2026|0|arti|A|en|Effect of interface humidity on the thermal transfer efficiency between rock mass and geothermal well cement|Geothermal Energy|doi|
+122|current-2026|2026|0|arti|A|en|High-Temperature Damage Recovery of Waste Glass Cementitious Materials: Thermodynamic Prediction and Experimental Valida|ACS Sustainable Chemistry & En|doi|
+123|current-2026|2026|0|arti|A|en|Creep Behavior of Limestone Calcined Clay Cement Concrete under Axial Compression|Journal of Materials in Civil |doi|
+124|current-2026|2026|0|arti|-|en|Transformation of Ca-Mg-Al layered double hydroxides in high-strength engineered cementitious composites (HS-ECC) with c|Composite Structures|doi|
+125|current-2026|2026|0|arti|A|en|A multiscale-multiphysical model framework for strength development analysis of LC3 concrete|Materials and Structures|doi|
+126|current-2026|2026|0|arti|A|es|La durabilidad de hormigones de arcilla calcinada y caliza ante corrosión por cloruros|Revista Ciencia y Construcción|nodoi|
+127|current-2026|2026|0|book|A|en|Biochar and Wastewater in Low Carbon Cementitious Materials: From Residues to Decisions in OPC and LC3 Systems||doi|
+128|current-2026|2026|0|arti|-|en|Performance of LC3 mortars with cement contents below 50%: Effects of reactive MgO and red mud|Construction and Building Mate|doi|
+129|current-2026|2026|0|arti|A|en|Mechanical performance of embedded polymer optical fibers versus equivalent holes in cementitious mortars|Discover Concrete and Cement|doi|
+130|current-2026|2026|0|arti|A|en|Early Hydration Recovery of Slag-Limestone Blended Cement by Spray Pyrolysis-based C-S-H Seeds: Multiscale Evidence from|Developments in the Built Envi|doi|
+131|current-2026|2026|0|arti|A|en|Feasible supplementary cementitious materials for sustainable and advanced 3D concrete printing|Low-carbon Materials and Green|doi|
+132|current-2026|2026|0|arti|A|en|Data-Driven Optimization of Calcined Kaolin Waste for Sustainable Alkali-Activated Binders|ACS Applied Engineering Materi|doi|
+133|current-2026|2026|0|arti|A|en|Mechanisms of mechanochemical activation of serpentine and its hydration kinetics in Portland cement|Case Studies in Construction M|doi|
+134|current-2026|2026|0|diss|A|en|Analysis of thermohydraulic spalling in low-clinker blended cement concrete|Repository KITopen (Karlsruhe |doi|
+135|current-2026|2026|0|arti|-|en|Hydration and properties of cementitious 3D printable inks with a lower environmental impact|Materials and Structures|doi|
+136|current-2026|2026|0|arti|-|en|Influence of Hardened Cement Paste on Recycled Fine Aggregate and Concrete Performance: A Critical Review|Journal of Building Engineerin|doi|
+137|current-2026|2026|0|arti|A|en|Multi-Performance Assessment of Portland Composite Cement Mortar with Class F Fly Ash|Inżynieria Mineralna|doi|
+138|current-2026|2026|0|arti|A|en|Thermal degradation and strength recovery of phosphorus slag-based cementitious materials: a comparison between Portland|Developments in the Built Envi|doi|
+139|current-2026|2026|0|arti|A|en|Life cycle assessment of cement-bonded composite boards with municipal waste wood|npj Materials Sustainability|doi|
+140|current-2026|2026|0|arti|A|en|Optimization of Fonio Husk Ash and Calcined Waste Treatment Sludge for Age-Dependent Compressive Strength of Portland Li|Infrastructures|doi|
+141|current-2026|2026|0|arti|A|en|Repurposing Basaltic Laterite Waste as a Potential Supplementary Cementitious Material or Fine Aggregate in Portland-Lim|Journal of Materials in Civil |doi|
+142|current-2026|2026|0|arti|-|en|Hydration of Ultrahigh-Performance Concrete Incorporating Portland Limestone Cement, Fly Ash, and Silica Fume Under Mois|International Journal of Civil|doi|
+143|current-2026|2026|0|arti|A|en|Potential use of Triassic basalts and Middle Cretaceous limestone as cementitious components in Portland cement|Estudios Geológicos|doi|
+144|current-2026|2026|0|arti|A|en|Influence of CaCO 3 polymorphs from mussel shell and limestone on the hydration of low‐carbon cements|ce/papers|doi|
+145|current-2026|2026|0|arti|A|en|A review of processing structure and property relationships in limestone calcined clay cement systems with implications |Discover Concrete and Cement|doi|
+146|dot|2009|30|repo|A|en|Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Spec|KU ScholarWorks (University of|nodoi|
+147|dot|1985|27|repo|A|en|Selection and Use of Fly Ash for Highway Concrete|Purdue e-Pubs (Purdue Universi|doi|
+148|dot|1999|19|repo|-|en|Deterioration of Iowa highway concrete pavements: a petrographic study||doi|
+149|dot|1993|7|repo|A|en|Highway concrete (HWYCON) expert system user reference and enhancement guide||doi|
+150|dot|1988|5|repo|A|en|Fly Ash Concrete for Highway Use|Purdue e-Pubs (Purdue Universi|doi|
+151|dot|1981|4|arti|A|en|QUALITY CONTROL OF HIGHWAY CONCRETE CONTAINING FLY ASH|ROSA P|nodoi|
+152|dot|2017|3|arti|A|en|Development of a Specification for Low-Cracking Bridge Deck Concrete in Virginia|Transportation Research Record|doi|
+153|dot|1995|2|arti|A|en|Performance of Pyrament Cement Concrete in a Highway Bridge Deck|UKnowledge (University of Kent|doi|
+154|durability|1997|856|arti|-|en|Permeability study of cracked concrete|Cement and Concrete Research|doi|
+155|durability|2003|748|arti|-|en|Permeability and self-healing of cracked concrete as a function of temperature and crack width|Cement and Concrete Research|doi|
+156|durability|2012|368|arti|-|en|Strength, permeability and shrinkage cracking of silica fume and metakaolin concretes|Construction and Building Mate|doi|
+157|durability|2018|364|arti|-|en|Sustainable geopolymer concrete using ground granulated blast furnace slag and rice husk ash: Strength and permeability |Journal of Cleaner Production|doi|
+158|durability|2008|349|arti|-|en|Service life prediction of concrete wharves with early-aged crack: Probabilistic approach for chloride diffusion|Structural Safety|doi|
+159|durability|1989|345|arti|-|en|The determination of the permeability of concrete to oxygen by the Cembureau method—a recommendation|Materials and Structures|doi|
+160|durability|2001|343|arti|-|en|The effect of hybrid fibers and expansive agent on the shrinkage and permeability of high-performance concrete|Cement and Concrete Research|doi|
+161|durability|2015|335|arti|-|en|Strength, permeability and microstructure of self-compacting concrete containing rice husk ash|Biosystems Engineering|doi|
+162|field|2006|581|arti|-|en|Performance of glass powder as a pozzolanic material in concrete: A field trial on concrete slabs|Cement and Concrete Research|doi|
+163|field|2017|447|arti|-|en|Design of geopolymer concrete with GGBFS at ambient curing condition using Taguchi method|Construction and Building Mate|doi|
+164|field|2011|381|arti|-|en|The influence of curing conditions on the mechanical performance of concrete made with recycled concrete waste|Cement and Concrete Composites|doi|
+165|field|2003|373|diss|A|en|Autogenous Deformation and Internal Curing of Concrete|Research Repository (Delft Uni|nodoi|
+166|field|2010|365|arti|-|en|Super absorbing polymers as an internal curing agent for mitigation of early-age cracking of high-performance concrete b|Construction and Building Mate|doi|
+167|field|2012|358|arti|-|en|Effects of dosage of alkali-activated solution and curing conditions on the properties and durability of alkali-activate|Construction and Building Mate|doi|
+168|field|2001|348|arti|-|en|Strength and durability recovery of fire-damaged concrete after post-fire-curing|Cement and Concrete Research|doi|
+169|field|2019|244|arti|-|en|First UK field application and performance of microcapsule-based self-healing concrete|Construction and Building Mate|doi|
+170|fresh|2006|769|arti|-|en|Influence of polypropylene fiber geometry on plastic shrinkage cracking in concrete|Cement and Concrete Research|doi|
+171|fresh|2001|731|arti|-|en|The influence of mineral admixtures on the rheology of cement paste and concrete|Cement and Concrete Research|doi|
+172|fresh|2018|572|arti|A|en|Workability and mechanical properties of alkali-activated fly ash-slag concrete cured at ambient temperature|Construction and Building Mate|doi|
+173|fresh|2011|456|arti|-|en|Rheology as a tool in concrete science: The use of rheographs and workability boxes|Cement and Concrete Research|doi|
+174|fresh|2011|376|arti|-|en|The effect of superplasticisers on the workability and compressive strength of concrete made with fine recycled concrete|Construction and Building Mate|doi|
+175|fresh|1999|368|arti|-|en|Interaction between cement and chemical admixture from the point of cement hydration, absorption behaviour of admixture,|Cement and Concrete Research|doi|
+176|fresh|2016|365|arti|-|en|The effect of Colloidal Nano-silica on workability, mechanical and durability properties of High Performance Concrete wi|Construction and Building Mate|doi|
+177|fresh|2004|343|arti|-|en|Contribution of hybrid fibers on the properties of the high-strength lightweight concrete having good workability|Cement and Concrete Research|doi|
+178|intl|2015|1751|arti|-|en|Reduced carbon emission estimates from fossil fuel combustion and cement production in China|Nature|doi|
+179|intl|2008|518|arti|A|en|China: Emissions pattern of the world leader in CO2 emissions from fossil fuel consumption and cement production|Geophysical Research Letters|doi|
+180|intl|2010|395|arti|-|en|An inventory of primary air pollutants and CO2 emissions from cement production in China, 1990–2020|Atmospheric Environment|doi|
+181|intl|2014|257|arti|-|en|Pollutants generated by cement production in China, their impacts, and the potential for environmental improvement|Journal of Cleaner Production|doi|
+182|intl|2014|217|arti|-|en|Factory-level measurements on CO2 emission factors of cement production in China|Renewable and Sustainable Ener|doi|
+183|intl|2014|180|arti|-|en|The life cycle inventory study of cement manufacture in China|Journal of Cleaner Production|doi|
+184|intl|2018|175|arti|-|en|Empirical assessing cement CO2 emissions based on China's economic and social development during 2001–2030|The Science of The Total Envir|doi|
+185|intl|2011|171|arti|-|en|A hydrothermal origin for isotopically anomalous cap dolostone cements from south China|Nature|doi|
+186|lang-de|1927|1|arti|-|de|Der heutige Stand der Festigkeitsprüfung von Zement nach Normen und deren Wert für die Praxis der Beton- und Eisenbeton-|DORA Empa (Swiss Federal Labor|nodoi|
+187|lang-de|1975|1|arti|A|de|STAHLFASERBEWEHRTE BETONFAHRBAHN IM HOCHEINBAU|Tiefbau|nodoi|
+188|lang-de|1979|0|arti|A|de|DIE AUTOBAHN GENF - LAUSANNE. DECKENERNEUERUNG AUF DER BETONFAHRBAHN IM ABSCHNITT GENF|ST U VERKEHR|nodoi|
+189|lang-es|2018|25|arti|A|es|Optimización de las propiedades de durabilidad del hormigón que contiene ceniza, utilizando el enfoque Taguchi y análisi|Revista de la construcción|doi|
+190|lang-es|2008|22|diss|A|es|La influencia de las cenizas volantes como sustituto parcial del cemento Pórtland en la durabilidad del hormigón|UPM Digital Archive (Technical|doi|
+191|lang-es|2010|19|diss|A|es|Predicción de la durabilidad del hormigón armado a partir de indicadores de corrosión: aplicación de la resistividad elé|UPM Digital Archive (Technical|doi|
+192|lang-es|2008|17|diss|A|es|Durabilidad del hormigón con fibras de polipropileno|RECERCAT (Consorci de Serveis |nodoi|
+193|lang-es|2008|13|diss|A|es|Durabilidad del hormigón con fibras de acero|RECERCAT (Consorci de Serveis |nodoi|
+194|lang-es|2008|12|arti|A|es|DESEMPEÑO DEL CEMENTO PÓRTLAND ADICIONADO CON CALIZAS DE DIFERENTES GRADOS DE PUREZA|DYNA|nodoi|
+195|lang-fr|2013|32|diss|A|fr|Valorisation et caractérisation de la durabilité d’un matériau routier et d’un béton à base de sédiments de dragage|theses.fr (ABES)|doi|
+196|lang-fr|2007|19|diss|A|fr|Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et mi|OpenGrey (Institut de l'Inform|nodoi|
+197|lang-fr|2014|14|arti|-|fr|Valorisation des boues de papeterie comme matières premières secondaires dans les mortiers de ciment Portland : incidenc|HAL|nodoi|
+198|lang-fr|1988|10|diss|A|fr|CONTRIBUTION A L'ETUDE DU ROLE DE FIBRES DISPERSEES ANISOTROPIQUEMENT DANS LE MORTIER DE CIMENT SUR LES LOIS DE COMPORTE||nodoi|
+199|lang-fr|1980|10|arti|-|fr|Loi de resistance en compression simple des pates pures de ciment portland conservees dans l'eau|Cement and Concrete Research|doi|
+200|lang-fr|1978|9|arti|-|fr|Resistance a la compression simple des pates pures de ciment durcies, temps de durcissement superieur a quatre ans|Cement and Concrete Research|doi|
+201|lang-id|2013|34|arti|A|id|PENGARUH PEMANFAATAN ABU AMPAS TEBU SEBAGAI SUBSTITUSI PARSIAL SEMEN DALAM CAMPURAN BETON DITINJAU TERHADAP KUAT TARIK L|JURNAL SIPIL STATIK|nodoi|
+202|lang-id|2017|32|arti|A|id|PENGARUH AIR LAUT TERHADAP KEKUATAN TEKAN BETON YANG TERBUAT DARI BERBAGAI MERK SEMEN YANG ADA DI KOTA MALANG|BANGUNAN|doi|
+203|lang-id|2020|23|arti|A|id|KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI SEBAGIAN SEMEN|RADIAL : Jurnal Peradaban Sain|doi|
+204|lang-id|2019|23|arti|A|id|PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER||nodoi|
+205|lang-id|2014|22|arti|A|id|PENGEMBANGAN DISAIN TUNGKU BAHAN BAKAR KAYU RENDAH POLUSI DENGAN MENGGUNAKAN DINDING BETON SEMEN|ROTASI|doi|
+206|lang-id|2016|21|arti|A|id|PENGUJIAN KUAT TEKAN MORTAR DAN BETON RINGAN DENGAN MENGGUNAKAN AGREGAT RINGAN BATU APUNG DAN ABU SEKAM PADI SEBAGAI SUB|JURNAL SIPIL STATIK|nodoi|
+207|lang-ja|2001|16|book|-|ja|セメント硬化体研究委員会報告書 = Report of committee on properties and micro structure of hardened cement||nodoi|
+208|lang-ja|2006|13|arti|-|ja|1004 X線回折/リートベルト法によるセメントペーストの水和反応解析(セメント)|コンクリート工学年次論文集|nodoi|
+209|lang-ja|2004|12|arti|-|ja|1013 高炉セメント硬化体の相組成と強度発現性(混和材料)|コンクリート工学年次論文集|nodoi|
+210|lang-ja|1982|12|arti|-|ja|セメント硬化体の細孔分布とイオンの拡散 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター||nodoi|
+211|lang-ja|2016|11|arti|-|ja|リン酸石膏の処分とカルシウムルーピングプロセスによるセメント工場のCO 2 捕獲との間の相乗効果の最適化|Energy & Fuels|nodoi|
+212|lang-ja|2003|8|arti|-|ja|間隙相量を増大したセメントの流動性に及ぼすC_3_A量およびセッコウの影響|Institutional Repositories Dat|nodoi|
+213|lang-ko|2009|9|diss|-|ko|Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinforced ceme||nodoi|
+214|lang-ko|2017|6|arti|A|ko|Pore and Efflorescence Characteristics of Alkali Activated Slag-Red Mud Cement Mortar depending on Red Mud Content|Journal of the Korea Institute|doi|
+215|lang-ko|2013|6|arti|A|ko|A Study on the Improvement of Early-age Compressive Strength of Smart BFS Powder Added Cement Mortar|Journal of the Korea institute|doi|
+216|lang-ko|2012|6|arti|A|ko|Effect of Recycled Aggregates Powder on the Properties of Zero Cement Mortar Using the Recycled Fine Aggregates and Fly-|Journal of the Korea Institute|doi|
+217|lang-ko|2009|6|arti|A|ko|Physical Properties of Basalt Chopped Fiber Reinforced Cement Composite|Journal of the Korea Academia-|doi|
+218|lang-ko|2015|5|arti|A|ko|Properties of Cement Paste Containing High Volume γ-C2S and MgO Subjected to CO2Curing|Journal of the Korea Institute|doi|
+219|lang-pt|2007|92|diss|A|pt|Modelagem de propriedades mecânicas e de durabilidade de concretos produzidos com agregados reciclados, considerando-se |Digital Library of Theses and |doi|
+220|lang-pt|2017|36|arti|A|pt|Viabilidade do emprego de cinza de casca de arroz natural em concreto estrutural (parte II): durabilidade|Ambiente Construído|doi|
+221|lang-pt|2011|35|arti|A|pt|Concretos com cinza do bagaço da cana-de-açúcar: avaliação da durabilidade por meio de ensaios de carbonatação e abrasão|Ambiente Construído|doi|
+222|lang-pt|2021|33|arti|A|pt|A importância da segregação do agregado reciclado na resistência e na durabilidade do concreto estrutural|Ambiente Construído|doi|
+223|lang-pt|1993|20|diss|-|pt|Caracterização da microestrutura do concreto: fases e interfaces; aspectos de durabilidade e de microfissuração.|Digital Library of Theses and |doi|
+224|lang-pt|2013|15|diss|A|pt|Influência do metacaulim na durabilidade de concretos usuais de mercado sujeitos à carbonatação acelerada|Americanae (AECID Library)|nodoi|
+225|lang-zh|2023|3|arti|A|zh|活性MgO 含量对水泥强度及水化产物的影响分析|Architectural Design and Appli|doi|
+226|lang-zh|2020|3|arti|A|zh|纳米SiO 2 改性聚合物水泥基复合材料早期微观结构及性能|Fuhe cailiao xuebao|doi|
+227|mix|2014|426|arti|-|en|Mechanical and durability properties of high volume fly ash (HVFA) concrete containing calcium carbonate (CaCO3) nanopar|Construction and Building Mate|doi|
+228|mix|2003|415|arti|-|en|Influence of aggregate size, water cement ratio and age on the microstructure of the interfacial transition zone|Cement and Concrete Research|doi|
+229|mix|2004|406|arti|A|en|HIGH PERFORMANCE, HIGH-VOLUME FLY ASH CONCRETE FOR SUSTAINABLE DEVELOPMENT||nodoi|
+230|mix|2010|402|arti|A|en|A Coupled Nanoindentation/SEM‐EDS Study on Low Water/Cement Ratio Portland Cement Paste: Evidence for C–S–H/Ca(OH) 2 Nan|Journal of the American Cerami|doi|
+231|mix|2017|374|arti|-|en|Effect of incorporation of high volume of recycled concrete aggregates and fly ash on the strength and global warming po|Journal of Cleaner Production|doi|
+232|mix|2008|364|arti|-|en|Durability properties of high volume fly ash self compacting concretes|Cement and Concrete Composites|doi|
+233|mix|2007|356|arti|-|en|A method for mix-design of fiber-reinforced self-compacting concrete|Cement and Concrete Research|doi|
+234|mix|2014|351|arti|-|en|A study on the effect of nano silica on compressive strength of high volume fly ash mortars and concretes|Materials & Design (1980-2015)|doi|
+235|pavement|1926|482|arti|A|en|STRESSES IN CONCRETE PAVEMENTS COMPUTED BY THEORETICAL ANALYSIS|Public roads|nodoi|
+236|pavement|2020|159|arti|-|en|Environmental and economic benefits of steel, glass, and polypropylene fiber reinforced cement composite application in |Composites Communications|doi|
+237|pavement|2013|156|arti|-|en|Effect of nano-particles on durability of fiber-reinforced concrete pavement|Construction and Building Mate|doi|
+238|pavement|2018|130|arti|-|en|Compressive strength and durability properties of roller-compacted concrete pavement containing electric arc furnace sla|Construction and Building Mate|doi|
+239|pavement|1940|126|arti|A|en|Design of Dowels in Transverse Joints of Concrete Pavements|Transactions of the American S|doi|
+240|pavement|1978|121|arti|A|en|FINITE-ELEMENT ANALYSIS OF JOINTED OR CRACKED CONCRETE PAVEMENTS|Transportation Research Record|nodoi|
+241|pavement|2015|114|arti|-|en|Strength, durability, and environmental properties of concrete utilizing recycled tire particles for pavement applicatio|Construction and Building Mate|doi|
+242|pavement|2019|99|arti|A|en|Mechanical properties and durability of roller compacted concrete pavement (RCCP) – a review|Road Materials and Pavement De|doi|
+243|scm|2013|812|arti|-|en|Setting and mechanical properties of alkali-activated fly ash/slag concrete manufactured at room temperature|Construction and Building Mate|doi|
+244|scm|2009|639|arti|-|en|Properties of sustainable concrete containing fly ash, slag and recycled concrete aggregate|Construction and Building Mate|doi|
+245|scm|2009|599|arti|-|en|Comparison of test methods to assess pozzolanic activity|Cement and Concrete Composites|doi|
+246|scm|2020|549|arti|-|en|Properties of fresh and hardened fly ash/slag based geopolymer concrete: A review|Journal of Cleaner Production|doi|
+247|scm|2011|418|arti|-|en|The implementation of wood waste ash as a partial cement replacement material in the production of structural grade conc|Resources Conservation and Rec|doi|
+248|scm|2003|409|arti|-|en|Properties of concrete incorporating fly ash and ground granulated blast-furnace slag|Cement and Concrete Composites|doi|
+249|scm|2013|400|book|-|en|Cement Replacement Materials: Properties, Durability, Sustainability|Springer geochemistry/mineralo|doi|
+250|scm|2021|384|arti|-|en|Biomass ashes from agricultural wastes as supplementary cementitious materials or aggregate replacement in cement/geopol|Journal of Building Engineerin|doi|
+251|standards|2017|56|arti|-|en|Significance of performance based specifications in the qualification and characterization of blended cement using volca|Construction and Building Mate|doi|
+252|standards|2013|4|book|A|en|Performance-Based Specification for Geopolymer Cement Binders and Supporting Laboratory Data||doi|
+253|standards|2013|3|arti|A|en|Economical Concrete Mix Design Utilizing Blended Cements, Performance-Based Specifications, and Pay Factors||nodoi|
+254|standards|2025|2|arti|A|en|Life-Cycle Analysis of Proposed Performance-Based Specifications for Structural Concrete and Portland Cement Concrete Pa|Journal of Transportation Engi|doi|
+255|standards|2025|1|repo|A|en|Performance of Portland and Portland-Limestone Cements in ASTM C452 and ASTM C1012 Testing||doi|
+256|standards|2023|1|arti|A|en|Effect of salty water on performance of cement-based materials|International Research Journal|doi|
+257|strength|2016|637|arti|-|en|Flexural strength and elastic modulus of ambient-cured blended low-calcium fly ash geopolymer concrete|Construction and Building Mate|doi|
+258|strength|2020|454|arti|-|en|Machine learning-based prediction for compressive and flexural strengths of steel fiber-reinforced concrete|Construction and Building Mate|doi|
+259|strength|2016|416|stan|A|en|Test Method for Compressive Strength of Hydraulic Cement Mortars (Using 2-in. or [50-mm] Cube Specimens)|ASTM Standards|doi|
+260|strength|2006|390|arti|-|en|The effects of high temperature on compressive and flexural strengths of ordinary and high-performance concrete|Fire Safety Journal|doi|
+261|strength|1999|376|arti|A|en|Flexural Strength of Concrete Beams with Corroding Reinforcement|ACI Structural Journal|doi|
+262|strength|2021|364|stan|A|en|Test Method for Flexural Strength of Hydraulic-Cement Mortars|ASTM Standards|doi|
+263|strength|2009|362|arti|-|en|Assessment of fibre orientation in ultra high performance fibre reinforced concrete and its effect on flexural strength|Materials and Structures|doi|
+264|strength|2009|317|arti|-|en|Use of steel fibres recovered from waste tyres as reinforcement in concrete: Pull-out behaviour, compressive and flexura|Waste Management|doi|
+265|supply|2015|139|arti|A|en|THE EFFECT OF GREEN SUPPLY CHAIN MANAGEMENT PRACTICES ON ENVIRONMENTAL PERFORMANCE AND COMPETITIVE ADVANTAGE: A CASE STU|Technological and Economic Dev|doi|
+266|supply|2015|121|arti|-|en|Energy consumption assessment in a cement production plant|Sustainable Energy Technologie|doi|
+267|supply|2009|115|arti|-|en|Assessment of polycyclic aromatic hydrocarbons (PAHs) in soil of a Natural Reserve (Isola delle Femmine) (Italy) located|Journal of Hazardous Materials|doi|
+268|supply|2018|112|arti|A|en|Fuzzy DEMATEL-based green supply chain management performance: Application in cement industry|Industrial Management & Data S|doi|
+269|supply|2020|111|arti|A|en|Roadmap for Decarbonization of the Building and Construction Industry—A Supply Chain Analysis Including Primary Producti|Energies|doi|
+270|supply|2011|106|arti|-|en|Resource productivity enhancement as means for promoting cleaner production: analysis of co-incineration in cement plant|Journal of Cleaner Production|doi|
+271|supply|2022|102|arti|-|en|Environmental impact assessment of post-combustion CO2 capture technologies applied to cement production plants|Journal of Environmental Manag|doi|
+272|supply|2020|100|arti|-|en|Carbon emissions reduction and financial effects of a cap and tax system on an operating supply chain in the cement sect|Journal of Cleaner Production|doi|

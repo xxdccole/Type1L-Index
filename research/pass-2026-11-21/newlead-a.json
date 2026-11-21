@@ -1,0 +1,2000 @@
+[
+ {
+  "title": "STUDIES OF 'SALT' SCALING OF CONCRETE",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260510151553/https://trid.trb.org/View/101892",
+   "original": "https://trid.trb.org/view/101892",
+   "snapshot": "20260510151553",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1957-00-00"
+    ],
+    "citation_title": [
+     "STUDIES OF 'SALT' SCALING OF CONCRETE"
+    ],
+    "citation_author": [
+     "Verbeck, George J",
+     "Klieger, Paul"
+    ],
+    "citation_publication_date": [
+     "1957/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Board Bulletin"
+    ],
+    "citation_issue": [
+     "150"
+    ],
+    "html_title": [
+     "STUDIES OF 'SALT' SCALING OF CONCRETE - TRID"
+    ]
+   },
+   "snippet": "studies of salt scaling of concrete trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database studies of salt scaling of concrete the service record of air entrained concrete pavements exposed to de icing salts is excellent however the mechanism by which de icers cause or accelerate surface scaling of non air ",
+   "evidenceFile": "ev/studiesofsaltscalingofconcrete-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/101892 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260510151553id_/https://trid.trb.org/View/101892 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W767658818",
+   "https://trid.trb.org/view/101892",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/101892",
+   "https://web.archive.org/web/20260510151553id_/https://trid.trb.org/View/101892"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/101892"
+  ],
+  "doi": null
+ },
+ {
+  "title": "The Performance of Concrete in Bridges: a Survey of 200 Highway Bridges",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/663104 -> 500 match=0.00",
+   "direct https://hdl.handle.net/10068/663104 -> 500 match=0.00",
+   "direct https://openlibrary.org/books/OL20887839M/The_performance_of_concrete_in_bridges -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10068/663104",
+   "wayback none for hdl.handle.net/10068/663104",
+   "wayback none for openlibrary.org/books/OL20887839M/The_performance_of_concrete_in_bridges"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W151547216",
+   "https://hdl.handle.net/api/handles/10068/663104",
+   "https://hdl.handle.net/api/handles/10068/663104",
+   "https://hdl.handle.net/10068/663104",
+   "https://hdl.handle.net/10068/663104",
+   "https://openlibrary.org/books/OL20887839M/The_performance_of_concrete_in_bridges",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/663104",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/663104",
+   "https://archive.org/wayback/available?url=openlibrary.org/books/OL20887839M/The_performance_of_concrete_in_bridges"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10068/663104",
+   "http://hdl.handle.net/10068/663104",
+   "https://openlibrary.org/books/OL20887839M/The_performance_of_concrete_in_bridges"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE DESIGN OF CONCRETE BLOCK ROADS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260314133629/https://trid.trb.org/View/43889",
+   "original": "https://trid.trb.org/view/43889",
+   "snapshot": "20260314133629",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1976-05-00"
+    ],
+    "citation_title": [
+     "THE DESIGN OF CONCRETE BLOCK ROADS"
+    ],
+    "citation_author": [
+     "Knapton, J"
+    ],
+    "citation_publication_date": [
+     "1976/05/00"
+    ],
+    "html_title": [
+     "THE DESIGN OF CONCRETE BLOCK ROADS - TRID"
+    ]
+   },
+   "snippet": "design of concrete block roads trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database the design of concrete block roads tests to determine the load spreading ability of concrete block paving have been made with a variety of blocks laid in stretcher bond and in herringbone pattern the results confirm the ob",
+   "evidenceFile": "ev/thedesignofconcreteblockroads-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/43889 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260314133629id_/https://trid.trb.org/View/43889 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2569827480",
+   "https://trid.trb.org/view/43889",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/43889",
+   "https://web.archive.org/web/20260314133629id_/https://trid.trb.org/View/43889"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/43889"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FINITE-ELEMENT ANALYSIS OF CONCRETE SLABS AND ITS IMPLICATIONS FOR RIGID PAVEMENT DESIGN",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260313172934/https://trid.trb.org/View/103610",
+   "original": "https://trid.trb.org/view/103610",
+   "snapshot": "20260313172934",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1973-00-00"
+    ],
+    "citation_title": [
+     "FINITE-ELEMENT ANALYSIS OF CONCRETE SLABS AND ITS IMPLICATIONS FOR RIGID PAVEMENT DESIGN"
+    ],
+    "citation_author": [
+     "Huang, Y H",
+     "Wang, S T"
+    ],
+    "citation_publication_date": [
+     "1973/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Record"
+    ],
+    "citation_conference_title": [
+     "52nd Annual Meeting of the Highway Research Board"
+    ],
+    "citation_isbn": [
+     "0309022509"
+    ],
+    "citation_issue": [
+     "466"
+    ],
+    "html_title": [
+     "FINITE-ELEMENT ANALYSIS OF CONCRETE SLABS AND ITS IMPLICATIONS FOR RIGID PAVEMENT DESIGN - TRID"
+    ]
+   },
+   "snippet": "finite element analysis of concrete slabs and its implications for rigid pavement design trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database finite element analysis of concrete slabs and its implications for rigid pavement design a finite element method programmed for a high speed computer was developed ",
+   "evidenceFile": "ev/finiteelementanalysisofconcreteslabsandi-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/103610 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260313172934id_/https://trid.trb.org/View/103610 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2245280237",
+   "https://trid.trb.org/view/103610",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/103610",
+   "https://web.archive.org/web/20260313172934id_/https://trid.trb.org/View/103610"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/103610"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Autogenous volume change of concrete",
+  "result": null,
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/10004005240 -> 202 match=0.00",
+   "direct https://ci.nii.ac.jp/naid/10004005240 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/10004005240",
+   "wayback none for ci.nii.ac.jp/naid/10004005240"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2369859073",
+   "https://ci.nii.ac.jp/naid/10004005240",
+   "https://ci.nii.ac.jp/naid/10004005240",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10004005240",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10004005240"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/10004005240",
+   "http://ci.nii.ac.jp/naid/10004005240"
+  ],
+  "doi": null
+ },
+ {
+  "title": "IDENTIFICATION OF FROST-SUSCEPTIBLE PARTICLES IN CONCRETE AGGREGATES",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20251209104528/https://trid.trb.org/View/107132",
+   "original": "https://trid.trb.org/view/107132",
+   "snapshot": "20251209104528",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1969-00-00"
+    ],
+    "citation_title": [
+     "IDENTIFICATION OF FROST-SUSCEPTIBLE PARTICLES IN CONCRETE AGGREGATES"
+    ],
+    "citation_author": [
+     "Larson, T D",
+     "Cady, P D"
+    ],
+    "citation_publication_date": [
+     "1969/00/00"
+    ],
+    "citation_journal_title": [
+     "NCHRP Report"
+    ],
+    "citation_issn": [
+     "0077-5614"
+    ],
+    "citation_issue": [
+     "66"
+    ],
+    "html_title": [
+     "IDENTIFICATION OF FROST-SUSCEPTIBLE PARTICLES IN CONCRETE AGGREGATES - TRID"
+    ]
+   },
+   "snippet": "identification of frost susceptible particles in concrete aggregates trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database identification of frost susceptible particles in concrete aggregates aggregate test methods to identify frost susceptible particles in concrete aggregates are evaluated two approaches ",
+   "evidenceFile": "ev/identificationoffrostsusceptibleparticle-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/107132 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20251209104528id_/https://trid.trb.org/View/107132 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W588141026",
+   "https://trid.trb.org/view/107132",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/107132",
+   "https://web.archive.org/web/20251209104528id_/https://trid.trb.org/View/107132"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/107132"
+  ],
+  "doi": null
+ },
+ {
+  "title": "X-ray diffraction studies on the transformation of kaolinite into metakaolin: I. Variability of interlayer spacings",
+  "result": null,
+  "log": [
+   "direct https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of -> 403 match=0.00",
+   "wayback none for pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2910228067",
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+   "https://archive.org/wayback/available?url=pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "urls": [
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "doi": null
+ },
+ {
+  "title": "EFFECTS OF SEA WATER ON CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://apps.dtic.mil/sti/pdfs/AD0739563.pdf -> 200 match=0.00",
+   "direct https://trid.trb.org/view/1305882 -> 000 match=0.00",
+   "wayback none for apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+   "wayback none for trid.trb.org/view/1305882"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1520593058",
+   "https://apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+   "https://trid.trb.org/view/1305882",
+   "https://archive.org/wayback/available?url=apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1305882"
+  ],
+  "urls": [
+   "https://apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+   "https://trid.trb.org/view/1305882"
+  ],
+  "doi": null
+ },
+ {
+  "title": "IDENTIFICATION AND OCCURRENCE OF THAUMASITE IN CONCRETE A DISCUSSION FOR THE 1965 HRB SYMPOSIUM ON AGGRESSIVE FLUIDS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20251209043131/https://trid.trb.org/View/101459",
+   "original": "https://trid.trb.org/view/101459",
+   "snapshot": "20251209043131",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1966-00-00"
+    ],
+    "citation_title": [
+     "IDENTIFICATION AND OCCURRENCE OF THAUMASITE IN CONCRETE A DISCUSSION FOR THE 1965 HRB SYMPOSIUM ON AGGRESSIVE FLUIDS"
+    ],
+    "citation_author": [
+     "Erlin, Bernard",
+     "Stark, David C"
+    ],
+    "citation_publication_date": [
+     "1966/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Record"
+    ],
+    "citation_issue": [
+     "113"
+    ],
+    "html_title": [
+     "IDENTIFICATION AND OCCURRENCE OF THAUMASITE IN CONCRETE A DISCUSSION FOR THE 1965 HRB SYMPOSIUM ON AGGRESSIVE FLUIDS - TRID"
+    ]
+   },
+   "snippet": "identification and occurrence of thaumasite in concrete a discussion for the 1965 hrb symposium on aggressive fluids trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database identification and occurrence of thaumasite in concrete a discussion for the 1965 hrb symposium on aggressive fluids four interesting ca",
+   "evidenceFile": "ev/identificationandoccurrenceofthaumasitei-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/101459 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20251209043131id_/https://trid.trb.org/View/101459 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W589361813",
+   "https://trid.trb.org/view/101459",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/101459",
+   "https://web.archive.org/web/20251209043131id_/https://trid.trb.org/View/101459"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/101459"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A CRITICAL REVIEW OF LITERATURE TREATING METHODS OF IDENTIFYING AGGREGATES SUBJECT TO DESTRUCTIVE VOLUME CHANGE WHEN FROZEN IN CONCRETE AND A PROPOSED PROGRAM OF RESEARCH",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240411010829/https://pubsindex.trb.org/view.aspx?id=107015",
+   "original": "https://pubsindex.trb.org/view.aspx?id=107015",
+   "snapshot": "20240411010829",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1964-01-01"
+    ],
+    "citation_title": [
+     "A CRITICAL REVIEW OF LITERATURE TREATING METHODS OF IDENTIFYING AGGREGATES SUBJECT TO DESTRUCTIVE VOLUME CHANGE WHEN FROZEN IN CONCRETE AND A PROPOSED PROGRAM OF RESEARCH"
+    ],
+    "citation_author": [
+     "Larson, T",
+     "Cady, P",
+     "Franzen, M",
+     "Reed, J"
+    ],
+    "citation_publication_date": [
+     "1964"
+    ],
+    "citation_journal_title": [
+     "Highway Research Board Special Report"
+    ],
+    "citation_issue": [
+     "80"
+    ],
+    "html_title": [
+     "A CRITICAL REVIEW OF LITERATURE TREATING METHODS OF IDENTIFYING AGGREGATES SUBJECT TO DESTRUCTIVE VOLUME CHANGE WHEN FROZEN IN CONCRETE AND A PROPOSED PROGRAM OF RESEARCH - TRB Publications Index"
+    ]
+   },
+   "snippet": "critical review of literature treating methods of identifying aggregates subject to destructive volume change when frozen in concrete and a proposed program of research trb publications index home mytrb contact us directory e newsletter follow us rss about trb annual meeting calendar committees panels programs projects publications resources databases trb pubsindex home recently published recently added advanced search new search last search search history site help rss feeds submit publication about tris resources documentation training materials trid trid coverage trid serials transportation",
+   "evidenceFile": "ev/acriticalreviewofliteraturetreatingmetho-wb.html"
+  },
+  "log": [
+   "direct https://pubsindex.trb.org/view.aspx?id=107015 -> 000 match=0.00",
+   "direct https://pubsindex.trb.org/view.aspx?id=107015 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20240411010829id_/https://pubsindex.trb.org/view.aspx?id=107015 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W564486728",
+   "https://pubsindex.trb.org/view.aspx?id=107015",
+   "https://pubsindex.trb.org/view.aspx?id=107015",
+   "https://archive.org/wayback/available?url=pubsindex.trb.org/view.aspx?id=107015",
+   "https://web.archive.org/web/20240411010829id_/https://pubsindex.trb.org/view.aspx?id=107015"
+  ],
+  "urls": [
+   "https://pubsindex.trb.org/view.aspx?id=107015",
+   "http://pubsindex.trb.org/view.aspx?id=107015"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ANALYSIS OF DISCONTINOUS ORTHOTROPIC PAVEMENT SLABS SUBJECTED TO COMBINED LOADS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260416180334/https://trid.trb.org/View/104461",
+   "original": "https://trid.trb.org/view/104461",
+   "snapshot": "20260416180334",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1966-00-00"
+    ],
+    "citation_title": [
+     "ANALYSIS OF DISCONTINOUS ORTHOTROPIC PAVEMENT SLABS SUBJECTED TO COMBINED LOADS"
+    ],
+    "citation_author": [
+     "Hudson, W Ronald",
+     "Matlock, Hudson"
+    ],
+    "citation_publication_date": [
+     "1966/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Record"
+    ],
+    "citation_issue": [
+     "131"
+    ],
+    "html_title": [
+     "ANALYSIS OF DISCONTINOUS ORTHOTROPIC PAVEMENT SLABS SUBJECTED TO COMBINED LOADS - TRID"
+    ]
+   },
+   "snippet": "analysis of discontinous orthotropic pavement slabs subjected to combined loads trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database analysis of discontinous orthotropic pavement slabs subjected to combined loads a method of solving for the deflected shape of freely discontinuous orthotropic plates and pa",
+   "evidenceFile": "ev/analysisofdiscontinousorthotropicpavemen-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/104461 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260416180334id_/https://trid.trb.org/View/104461 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W581979313",
+   "https://trid.trb.org/view/104461",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/104461",
+   "https://web.archive.org/web/20260416180334id_/https://trid.trb.org/View/104461"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/104461"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Resurfacing With Portland Cement Concrete",
+  "result": null,
+  "log": [
+   "direct https://openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete -> 200 match=0.20",
+   "wayback none for openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W574930803",
+   "https://openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete",
+   "https://archive.org/wayback/available?url=openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete"
+  ],
+  "urls": [
+   "https://openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY",
+  "result": null,
+  "log": [
+   "direct https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00",
+   "direct https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2165101860",
+   "https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf"
+  ],
+  "urls": [
+   "https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "http://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FACTORS AFFECTING THE THERMAL EXPANSION OF CONCRETE AGGREGATE MATERIALS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260616122610/https://trid.trb.org/View/107062",
+   "original": "https://trid.trb.org/view/107062",
+   "snapshot": "20260616122610",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1944-00-00"
+    ],
+    "citation_title": [
+     "FACTORS AFFECTING THE THERMAL EXPANSION OF CONCRETE AGGREGATE MATERIALS"
+    ],
+    "citation_author": [
+     "Parsons, W H",
+     "Johnson, W H"
+    ],
+    "citation_publication_date": [
+     "1944/00/00"
+    ],
+    "citation_journal_title": [
+     "Am Concrete Inst Journal & Proceedings"
+    ],
+    "html_title": [
+     "FACTORS AFFECTING THE THERMAL EXPANSION OF CONCRETE AGGREGATE MATERIALS - TRID"
+    ]
+   },
+   "snippet": "factors affecting the thermal expansion of concrete aggregate materials trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database factors affecting the thermal expansion of concrete aggregate materials results of thermal expansion determinations made on 137 specimens of aggregate material and single crystals b",
+   "evidenceFile": "ev/factorsaffectingthethermalexpansionofcon-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/107062 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260616122610id_/https://trid.trb.org/View/107062 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W593688229",
+   "https://trid.trb.org/view/107062",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/107062",
+   "https://web.archive.org/web/20260616122610id_/https://trid.trb.org/View/107062"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/107062"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A DURABILITY TEST FOR AGGREGATES",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20250908004354/https://trid.trb.org/View/110439",
+   "original": "https://trid.trb.org/view/110439",
+   "snapshot": "20250908004354",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1964-00-00"
+    ],
+    "citation_title": [
+     "A DURABILITY TEST FOR AGGREGATES"
+    ],
+    "citation_author": [
+     "Hveem, F N",
+     "Smith, Travis W"
+    ],
+    "citation_publication_date": [
+     "1964/00/00"
+    ],
+    "citation_journal_title": [
+     "Highway Research Record"
+    ],
+    "citation_issue": [
+     "62"
+    ],
+    "html_title": [
+     "A DURABILITY TEST FOR AGGREGATES - TRID"
+    ]
+   },
+   "snippet": "durability test for aggregates trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database a durability test for aggregates a laboratory quality control test has been developed to measure the mechanical durability of california aggregates in terms of a durability index the degradation test was developed to measu",
+   "evidenceFile": "ev/adurabilitytestforaggregates-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/110439 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20250908004354id_/https://trid.trb.org/View/110439 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W246207739",
+   "https://trid.trb.org/view/110439",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/110439",
+   "https://web.archive.org/web/20250908004354id_/https://trid.trb.org/View/110439"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/110439"
+  ],
+  "doi": null
+ },
+ {
+  "title": "EXPANSIVE CEMENT CONCRETE-MICROMECHANICAL MODELS FOR FREE AND RESTRAINED EXPANSION",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20251117024317/https://trid.trb.org/View/29453",
+   "original": "https://trid.trb.org/view/29453",
+   "snapshot": "20251117024317",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1975-01-00"
+    ],
+    "citation_title": [
+     "EXPANSIVE CEMENT CONCRETE-MICROMECHANICAL MODELS FOR FREE AND RESTRAINED EXPANSION"
+    ],
+    "citation_author": [
+     "Richards, C W",
+     "Helmuth, R A"
+    ],
+    "citation_publication_date": [
+     "1975/01/00"
+    ],
+    "citation_technical_report_number": [
+     "CE-TR-191           Final Rpt."
+    ],
+    "html_title": [
+     "EXPANSIVE CEMENT CONCRETE-MICROMECHANICAL MODELS FOR FREE AND RESTRAINED EXPANSION - TRID"
+    ]
+   },
+   "snippet": "expansive cement concrete micromechanical models for free and restrained expansion trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database expansive cement concrete micromechanical models for free and restrained expansion a micromechanical model of the expansive process in sulfoaluminate expansive cement has",
+   "evidenceFile": "ev/expansivecementconcretemicromechanicalmo-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/29453 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20251117024317id_/https://trid.trb.org/View/29453 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W576781556",
+   "https://trid.trb.org/view/29453",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/29453",
+   "https://web.archive.org/web/20251117024317id_/https://trid.trb.org/View/29453"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/29453"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ETTRINGITE ET THAUMASITE DANS LE MORTIER DE LA DIGUE DU LARGE DU PORT DE CHERBOURG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1059081 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1059081"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W658077121",
+   "https://trid.trb.org/view/1059081",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1059081"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1059081"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A 10-YEAR REPORT ON PERFORMANCE OF BONDED CONCRETE RESURFACINGS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/95307 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95307"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W632010855",
+   "https://trid.trb.org/view/95307",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95307"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95307"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Concrete Repair Materials.",
+  "result": null,
+  "log": [
+   "direct https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf -> 200 match=0.12",
+   "wayback https://web.archive.org/web/20200325003659id_/https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W228961897",
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+   "https://archive.org/wayback/available?url=apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+   "https://web.archive.org/web/20200325003659id_/https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf"
+  ],
+  "urls": [
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1078067 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1078067"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W589110579",
+   "https://trid.trb.org/view/1078067",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1078067"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1078067"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Specifications, and Resistance to Chloride Ion Penetration",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240708184616/https://kuscholarworks.ku.edu/handle/1808/19853",
+   "original": "https://kuscholarworks.ku.edu/handle/1808/19853",
+   "snapshot": "20240708184616",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "McLeod, Heather A. K.",
+     "Darwin, David",
+     "Browning, JoAnn"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2016-01-29T21:00:27Z"
+    ],
+    "DCTERMS.available": [
+     "2016-01-29T21:00:27Z"
+    ],
+    "DCTERMS.issued": [
+     "2008-09"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "McLeod, H. A.K., Darwin, D., and Browning, J. P., \"Development and Construction of Low-Cacking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Specifications, and Resistance to Chloride Ion Penetration\" SM Report No. 94, University of Kansas Center for Research, Inc., Lawrence, Kansas, September 2009, 848 pp."
+    ],
+    "DC.identifier": [
+     "http://hdl.handle.net/1808/19853",
+     "https://orcid.org/0000-0001-5039-3525"
+    ],
+    "DCTERMS.abstract": [
+     "The development, construction, and evaluation of Low-Cracking High- Performance Concrete (LC-HPC) bridge decks are described based on laboratory test results and experiences gained through the construction of 14 LC-HPC bridge decks. The study is divided into three parts covering (1) an evaluation of the chloride penetration into concrete using long-term salt-ponding tests, (2) a comprehensive discussion of specifications for LC-HPC construction and standard practices in Kansas, and (3) the description of the construction and the preliminary evaluation of LC-HPC bridge decks in Kansas. This report emphasizes the construction process; a companion report provides a detailed discussion of the influence of material properties on the performance of LC-HPC bridge decks.\r\nThe first portion of the study involves evaluating the effect of paste content, curing period, water-cement (w/c) ratio, cement type and fineness, mineral admixtures (ground granulated blast furnace slag and silica fume), a shrinkage reducing admixture (SRA), and standard DOT bridge deck mixtures on chloride penetration into solid concrete, tested in accordance with AASHTO T 259. The evaluation includes a total of 33 individual concrete batches and 123 test specimens. The results indicate that for concrete containing only portland cement, reductions in paste content result in increased permeability. A reduced paste content and increased w/c ratio result in increased permeability, whereas the presence of mineral admixtures (ground granulated blast furnace slag and silica fume) and longer curing periods result in decreased permeability. Concrete made with medium or coarse ground Type II cement has greater permeability than concrete made with Type I/II cement. It is not clear how the presence of an SRA affects concrete permeability. LC-HPC mixtures have lower permeability than standard DOT mixtures.\r\nThe second portion of the study describes the specifications for the LC-HPC and Control bridge decks in Kansas. The focus is on the construction methods, including the evolution of the specifications over time.\r\nThe third portion of the study details the development and construction of 14 LC-HPC and 12 conventional Control bridge decks built in Kansas. The design details, construction experiences, and lessons learned from the LC-HPC bridge decks are described in detail, and an overview of the materials is presented; the design and construction data for each Control deck is provided; and initial crack survey results are evaluated for various construction-related parameters. The results indicate that that successful LC-HPC bridge deck construction is repeatable and that clear and consistent communication between the contractor, owner, and testing personnel is vital for successful construction of LC-HPC decks. Preliminary evaluation of cracking indicates that at early ages, LC-HPC decks are performing better than the Control decks, as well as earlier monolithic decks in Kansas."
+    ],
+    "DC.publisher": [
+     "University of Kansas Center for Research, Inc."
+    ],
+    "DC.relation": [
+     "SM Report;94"
+    ],
+    "DCTERMS.isVersionOf": [
+     "https://iri.ku.edu/reports"
+    ],
+    "DC.subject": [
+     "Bridge decks",
+     "Cement fineness",
+     "Chloride penetration",
+     "Concrete mix design",
+     "Concrete pumping",
+     "Construction methods",
+     "Cracking",
+     "Curing",
+     "Durability",
+     "Finishing",
+     "High-performance concrete",
+     "Permeability",
+     "Salt-ponding",
+     "Shrinkage reducing admixture",
+     "Slag",
+     "Silica fume",
+     "Temperature control"
+    ],
+    "DC.title": [
+     "Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Specifications, and Resistance to Chloride Ion Penetration"
+    ],
+    "DC.type": [
+     "Technical Report"
+    ],
+    "DC.rights": [
+     "openAccess"
+    ],
+    "html_title": [
+     "Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Specifications, and Resistance to Chloride Ion Penetration"
+    ]
+   },
+   "snippet": "development and construction of low cracking high performance concrete lc hpc bridge decks construction methods specifications and resistance to chloride ion penetration ku scholarworks myku email enroll pay ku directory toggle navigation login toggle navigation view item ku scholarworks engineering infrastructure research institute scholarly works view item ku scholarworks engineering infrastructure research institute scholarly works view item javascript is disabled for your browser some features of this site may not work without it development and construction of low cracking high performanc",
+   "evidenceFile": "ev/developmentandconstructionoflowcrackingh-wb.html"
+  },
+  "log": [
+   "handle API -> ['https://kuscholarworks.ku.edu/handle/1808/19853']",
+   "handle API -> ['https://kuscholarworks.ku.edu/handle/1808/19853']",
+   "handle API -> ['https://kuscholarworks.ku.edu/handle/1808/5579']",
+   "direct https://hdl.handle.net/1808/19853 -> 403 match=0.00",
+   "direct https://hdl.handle.net/1808/19853 -> 403 match=0.00",
+   "direct https://hdl.handle.net/1808/5579 -> 403 match=0.00",
+   "direct https://kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf -> 403 match=0.00",
+   "direct https://kuscholarworks.ku.edu/handle/1808/19853 -> 403 match=0.00",
+   "direct https://kuscholarworks.ku.edu/handle/1808/5579 -> 403 match=0.00",
+   "wayback none for hdl.handle.net/1808/19853",
+   "wayback none for hdl.handle.net/1808/19853",
+   "wayback none for hdl.handle.net/1808/5579",
+   "wayback https://web.archive.org/web/20260406185919id_/https://kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20240708184616id_/https://kuscholarworks.ku.edu/handle/1808/19853 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W138482982",
+   "https://hdl.handle.net/api/handles/1808/19853",
+   "https://hdl.handle.net/api/handles/1808/19853",
+   "https://hdl.handle.net/api/handles/1808/5579",
+   "https://hdl.handle.net/1808/19853",
+   "https://hdl.handle.net/1808/19853",
+   "https://hdl.handle.net/1808/5579",
+   "https://kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf",
+   "https://kuscholarworks.ku.edu/handle/1808/19853",
+   "https://kuscholarworks.ku.edu/handle/1808/5579",
+   "https://archive.org/wayback/available?url=hdl.handle.net/1808/19853",
+   "https://archive.org/wayback/available?url=hdl.handle.net/1808/19853",
+   "https://archive.org/wayback/available?url=hdl.handle.net/1808/5579",
+   "https://archive.org/wayback/available?url=kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf",
+   "https://web.archive.org/web/20260406185919id_/https://kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf",
+   "https://archive.org/wayback/available?url=kuscholarworks.ku.edu/handle/1808/19853",
+   "https://web.archive.org/web/20240708184616id_/https://kuscholarworks.ku.edu/handle/1808/19853"
+  ],
+  "urls": [
+   "https://hdl.handle.net/1808/19853",
+   "http://hdl.handle.net/1808/19853",
+   "https://hdl.handle.net/1808/5579",
+   "https://kuscholarworks.ku.edu/bitstream/1808/19853/1/SM94.pdf",
+   "https://kuscholarworks.ku.edu/handle/1808/19853",
+   "https://kuscholarworks.ku.edu/handle/1808/5579"
+  ],
+  "doi": null
+ },
+ {
+  "title": "QUALITY CONTROL OF HIGHWAY CONCRETE CONTAINING FLY ASH",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260511020425/https://rosap.ntl.bts.gov/view/dot/18916",
+   "original": "https://rosap.ntl.bts.gov/view/dot/18916",
+   "snapshot": "20260511020425",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "DOT ROSA P"
+    ],
+    "description": [
+     "This report is essentially a synthesis of pertinent information concerning the use of fly ash as an ingredient in concrete for highway construction. It has been prepared to provide a basis for an adequate response by the Department of Highways and Transportation to requirements of the Resource Conservation and Recovery Act and the Environmental Protection Agency pertaining to the use of this by-product in concrete purchased with federal funds. Special attention is given to the quality control and acceptance problems associated with highway usage of fly ash concrete, with emphasis on problems relating to air entrainment. References to the background literature that established the suitability of fly ash as a pozzolan and its use in concrete are The requirements for fly ash as set forth in ASTM Specification C618 are reviewed and the- characteristics to be expected from concrete containing fly ash are discussed. It is recommended that the Virginia Department of Highways and Transportation permit the use of fly ash in concrete at the option of the contractor with prior approval by the state. It is also recommended that suitable specifications for this use be prepared following the guidelines previously recommended by the Concrete Research Advisory Committee."
+    ],
+    "citation_title": [
+     "Quality control of highway concrete containing fly ash."
+    ],
+    "citation_author": [
+     "Halstead, Woodrow J"
+    ],
+    "citation_keywords": [
+     "Concrete--Additions",
+     "Fly ash"
+    ],
+    "citation_publication_date": [
+     "1981/01/01"
+    ],
+    "citation_fulltext_html_url": [
+     "http://rosap.ntl.bts.gov/view/dot/18916"
+    ],
+    "citation_pdf_url": [
+     "http://rosap.ntl.bts.gov/view/dot/18916/dot_18916_DS1.pdf"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_abstract": [
+     "This report is essentially a synthesis of pertinent information concerning the use of fly ash as an ingredient in concrete for highway construction. It has been prepared to provide a basis for an adequate response by the Department of Highways and Transportation to requirements of the Resource Conservation and Recovery Act and the Environmental Protection Agency pertaining to the use of this by-product in concrete purchased with federal funds. Special attention is given to the quality control and acceptance problems associated with highway usage of fly ash concrete, with emphasis on problems relating to air entrainment. References to the background literature that established the suitability of fly ash as a pozzolan and its use in concrete are The requirements for fly ash as set forth in ASTM Specification C618 are reviewed and the- characteristics to be expected from concrete containing fly ash are discussed. It is recommended that the Virginia Department of Highways and Transportation permit the use of fly ash in concrete at the option of the contractor with prior approval by the state. It is also recommended that suitable specifications for this use be prepared following the guidelines previously recommended by the Concrete Research Advisory Committee."
+    ],
+    "html_title": [
+     "Quality control of highway concrete containing fly ash."
+    ]
+   },
+   "snippet": "quality control of highway concrete containing fly ash skip to main content an official website of the united states government here s how you know official websites use gov a gov website belongs to an official government organization in the united states secure gov websites use https a lock or https means you ve safely connected to the gov website share sensitive information only on official secure websites united states department of transportation national transportation library bureau of transportation statistics menu close home collections recent additions public access submit content hel",
+   "evidenceFile": "ev/qualitycontrolofhighwayconcretecontainin-wb.html"
+  },
+  "log": [
+   "direct https://rosap.ntl.bts.gov/view/dot/18916 -> 403 match=0.00",
+   "direct https://rosap.ntl.bts.gov/view/dot/18916/dot_18916_DS1.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260511020425id_/https://rosap.ntl.bts.gov/view/dot/18916 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W631230624",
+   "https://rosap.ntl.bts.gov/view/dot/18916",
+   "https://rosap.ntl.bts.gov/view/dot/18916/dot_18916_DS1.pdf",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/18916",
+   "https://web.archive.org/web/20260511020425id_/https://rosap.ntl.bts.gov/view/dot/18916"
+  ],
+  "urls": [
+   "https://rosap.ntl.bts.gov/view/dot/18916",
+   "https://rosap.ntl.bts.gov/view/dot/18916/dot_18916_DS1.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Der heutige Stand der Festigkeitsprüfung von Zement nach Normen und deren Wert für die Praxis der Beton- und Eisenbeton-Bauweise",
+  "result": null,
+  "log": [
+   "direct https://www.dora.lib4ri.ch/empa/item/empa:30261 -> 200 match=0.00",
+   "wayback none for www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7233638520",
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261",
+   "https://archive.org/wayback/available?url=www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "urls": [
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STAHLFASERBEWEHRTE BETONFAHRBAHN IM HOCHEINBAU",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20201026075843/https://trid.trb.org/view/1064287",
+   "original": "https://trid.trb.org/view/1064287",
+   "snapshot": "20201026075843",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1975-00-00"
+    ],
+    "citation_title": [
+     "STAHLFASERBEWEHRTE BETONFAHRBAHN IM HOCHEINBAU"
+    ],
+    "citation_author": [
+     "Bayer, E"
+    ],
+    "citation_publication_date": [
+     "1975/00/00"
+    ],
+    "citation_journal_title": [
+     "Tiefbau"
+    ],
+    "citation_volume": [
+     "17"
+    ],
+    "citation_issue": [
+     "10"
+    ],
+    "html_title": [
+     "STAHLFASERBEWEHRTE BETONFAHRBAHN IM HOCHEINBAU"
+    ]
+   },
+   "snippet": "stahlfaserbewehrte betonfahrbahn im hocheinbau toggle navigation menu site contents about trb annual meeting calendar committees panels programs projects publications resources databases subscribe connect with trb home mytrb contact us directory e newsletter follow us rss home trid view record trid the tris and itrd database stahlfaserbewehrte betonfahrbahn im hocheinbau es wird der hocheinbau einer faserbewehrten betondecke im staate iowa usa im herbst 1973 beschrieben auf einer vorhandenen 3 8 km langen und 21 5 cm dicken betondecke wurde eine 5 0 bzw 7 5 cm dicke neue fahrbahndecke aufgebra",
+   "evidenceFile": "ev/stahlfaserbewehrtebetonfahrbahnimhochein-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1064287 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20201026075843id_/https://trid.trb.org/view/1064287 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W755095770",
+   "https://trid.trb.org/view/1064287",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1064287",
+   "https://web.archive.org/web/20201026075843id_/https://trid.trb.org/view/1064287"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1064287"
+  ],
+  "doi": null
+ },
+ {
+  "title": "DIE AUTOBAHN GENF - LAUSANNE. DECKENERNEUERUNG AUF DER BETONFAHRBAHN IM ABSCHNITT GENF",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20250211053238/https://trid.trb.org/View/1051402",
+   "original": "https://trid.trb.org/view/1051402",
+   "snapshot": "20250211053238",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1979-00-00"
+    ],
+    "citation_title": [
+     "DIE AUTOBAHN GENF - LAUSANNE. DECKENERNEUERUNG AUF DER BETONFAHRBAHN IM ABSCHNITT GENF"
+    ],
+    "citation_author": [
+     "PALLI, P"
+    ],
+    "citation_publication_date": [
+     "1979/00/00"
+    ],
+    "citation_journal_title": [
+     "ST U VERKEHR"
+    ],
+    "citation_issn": [
+     "0039-2189"
+    ],
+    "citation_volume": [
+     "65"
+    ],
+    "citation_issue": [
+     "6"
+    ],
+    "html_title": [
+     "DIE AUTOBAHN GENF - LAUSANNE. DECKENERNEUERUNG AUF DER BETONFAHRBAHN IM ABSCHNITT GENF - TRID"
+    ]
+   },
+   "snippet": "autobahn genf lausanne deckenerneuerung auf der betonfahrbahn im abschnitt genf trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database die autobahn genf lausanne deckenerneuerung auf der betonfahrbahn im abschnitt genf der genannte abschnitt zeigte nach 10jaehriger liegezeit tiefe spurrillen in der hauptfah",
+   "evidenceFile": "ev/dieautobahngenflausannedeckenerneuerunga-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1051402 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20250211053238id_/https://trid.trb.org/View/1051402 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W590024440",
+   "https://trid.trb.org/view/1051402",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1051402",
+   "https://web.archive.org/web/20250211053238id_/https://trid.trb.org/View/1051402"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1051402"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Durabilidad del hormigón con fibras de polipropileno",
+  "result": {
+   "route": "direct",
+   "url": "https://dialnet.unirioja.es/servlet/libro?codigo=833091",
+   "http": "200",
+   "match": 0.75,
+   "meta": {
+    "description": [
+     "Información del libro Durabilidad del hormigón con fibras de poliprolipeno"
+    ],
+    "citation_title": [
+     "Durabilidad del hormigón con fibras de poliprolipeno"
+    ],
+    "citation_author": [
+     "Pablo Pujadas Alvarez",
+     "Antonio Aguado de Cea",
+     "Marc Vandewalle"
+    ],
+    "citation_publisher": [
+     "Universidad Politécnica de Cataluña / Universitat Politècnica de Catalunya"
+    ],
+    "citation_date": [
+     "2009"
+    ],
+    "citation_isbn": [
+     "978-84-87691-57-7"
+    ],
+    "DC.title": [
+     "Durabilidad del hormigón con fibras de poliprolipeno"
+    ],
+    "DC.creator": [
+     "Pujadas Alvarez, Pablo",
+     "Aguado de Cea, Antonio",
+     "Vandewalle, Marc"
+    ],
+    "DC.subject": [
+     "Tecnologías"
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.date": [
+     "2009"
+    ],
+    "DC.type": [
+     "http://purl.org/dc/dcmitype/Text"
+    ],
+    "DC.publisher": [
+     "Universidad Politécnica de Cataluña / Universitat Politècnica de Catalunya"
+    ],
+    "DC.identifier": [
+     "978-84-87691-57-7"
+    ],
+    "og:title": [
+     "Durabilidad del hormigón con fibras de poliprolipeno"
+    ],
+    "html_title": [
+     "Durabilidad del hormigón con fibras de poliprolipeno - Dialnet"
+    ]
+   },
+   "snippet": "durabilidad del hormigon con fibras de poliprolipeno dialnet ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda ir al conteni d o b uscar r evistas t esis co n gresos m etricas ayuda cambiar idioma idioma catala deutsch english espanol euskara francais galego italiano portugues romana cambiar durabilidad del hormigon con fibras de poliprolipeno informacion general autores pablo pujadas alvarez antonio aguado de cea marc vandewalle editores universidad politecnica de cataluna universitat politecnica de ",
+   "evidenceFile": "ev/durabilidaddelhormigonconfibrasdepolipro-d3.html"
+  },
+  "log": [
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/6554']",
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/6554']",
+   "direct https://hdl.handle.net/2099.1/6554 -> 418 match=0.00",
+   "direct https://hdl.handle.net/2099.1/6554 -> 418 match=0.00",
+   "direct https://dialnet.unirioja.es/servlet/libro?codigo=833091 -> 200 match=0.75"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1535640886",
+   "https://hdl.handle.net/api/handles/2099.1/6554",
+   "https://hdl.handle.net/api/handles/2099.1/6554",
+   "https://hdl.handle.net/2099.1/6554",
+   "https://hdl.handle.net/2099.1/6554",
+   "https://dialnet.unirioja.es/servlet/libro?codigo=833091"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2099.1/6554",
+   "http://hdl.handle.net/2099.1/6554",
+   "https://dialnet.unirioja.es/servlet/libro?codigo=833091",
+   "https://upcommons.upc.edu/handle/2099.1/6554"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Durabilidad del hormigón con fibras de acero",
+  "result": {
+   "route": "direct",
+   "url": "https://dialnet.unirioja.es/servlet/libro?codigo=833089",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Información del libro Durabilidad del hormigón con fibras de acero"
+    ],
+    "citation_title": [
+     "Durabilidad del hormigón con fibras de acero"
+    ],
+    "citation_author": [
+     "Ana Blanco Alvarez",
+     "Antonio Aguado de Cea",
+     "Marc Vandewalle"
+    ],
+    "citation_publisher": [
+     "Universidad Politécnica de Cataluña / Universitat Politècnica de Catalunya"
+    ],
+    "citation_date": [
+     "2009"
+    ],
+    "citation_isbn": [
+     "978-84-87691-58-4"
+    ],
+    "DC.title": [
+     "Durabilidad del hormigón con fibras de acero"
+    ],
+    "DC.creator": [
+     "Blanco Alvarez, Ana",
+     "Aguado de Cea, Antonio",
+     "Vandewalle, Marc"
+    ],
+    "DC.subject": [
+     "Tecnologías"
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.date": [
+     "2009"
+    ],
+    "DC.type": [
+     "http://purl.org/dc/dcmitype/Text"
+    ],
+    "DC.publisher": [
+     "Universidad Politécnica de Cataluña / Universitat Politècnica de Catalunya"
+    ],
+    "DC.identifier": [
+     "978-84-87691-58-4"
+    ],
+    "og:title": [
+     "Durabilidad del hormigón con fibras de acero"
+    ],
+    "html_title": [
+     "Durabilidad del hormigón con fibras de acero - Dialnet"
+    ]
+   },
+   "snippet": "durabilidad del hormigon con fibras de acero dialnet ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda ir al conteni d o b uscar r evistas t esis co n gresos m etricas ayuda cambiar idioma idioma catala deutsch english espanol euskara francais galego italiano portugues romana cambiar durabilidad del hormigon con fibras de acero informacion general autores ana blanco alvarez antonio aguado de cea marc vandewalle editores universidad politecnica de cataluna universitat politecnica de catalunya ano de pu",
+   "evidenceFile": "ev/durabilidaddelhormigonconfibrasdeacero-d3.html"
+  },
+  "log": [
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/6557']",
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/6557']",
+   "direct https://hdl.handle.net/2099.1/6557 -> 418 match=0.00",
+   "direct https://hdl.handle.net/2099.1/6557 -> 418 match=0.00",
+   "direct https://dialnet.unirioja.es/servlet/libro?codigo=833089 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1922230944",
+   "https://hdl.handle.net/api/handles/2099.1/6557",
+   "https://hdl.handle.net/api/handles/2099.1/6557",
+   "https://hdl.handle.net/2099.1/6557",
+   "https://hdl.handle.net/2099.1/6557",
+   "https://dialnet.unirioja.es/servlet/libro?codigo=833089"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2099.1/6557",
+   "http://hdl.handle.net/2099.1/6557",
+   "https://dialnet.unirioja.es/servlet/libro?codigo=833089",
+   "https://upcommons.upc.edu/handle/2099.1/6557"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240704051711/https://theses.fr/2007DIJOS006",
+   "original": "http://www.theses.fr/2007DIJOS006",
+   "snapshot": "20240704051711",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland | Theses.fr"
+    ],
+    "description": [
+     "Ce travail est consacré à l'influence de la température sur l'hydratation du ciment Portland entre 5 et 45°C. Les effets de la température sur l'évolution de la résistance à la compression ont été corrélés au degré d'hydratation et à la microstructure des hydrates. On montre que l'origine des effets de la température est liée à l'hydratation du silicate tricalcique du ciment (C3S). L'hydratation initiale de C3S est d’autant plus rapide que la température est élevée mais elle est plus ralentie dès que l'hydratation est limitée par la diffusion de l’eau et des ions à travers la couche d’hydrates (C-S-H) formée autour des grains au jeune âge. Dans ces conditions, la barrière est plus dense; ceci a comme conséquence une évolution plus lente de l’hydratation à long terme. La température change également la densité et la répartition de C-S-H aussi donnant une plus grande porosité de matériau à température plus élevée. Ces phénomènes sont responsables de la résistance finale inférieure."
+    ],
+    "DC.type": [
+     "thesis"
+    ],
+    "citation_dissertation_name": [
+     "thesis"
+    ],
+    "DC.title": [
+     "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland"
+    ],
+    "citation_title": [
+     "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland"
+    ],
+    "DC.description.abstract": [
+     "Ce travail est consacré à l'influence de la température sur l'hydratation du ciment Portland entre 5 et 45°C. Les effets de la température sur l'évolution de la résistance à la compression ont été corrélés au degré d'hydratation et à la microstructure des hydrates. On montre que l'origine des effets de la température est liée à l'hydratation du silicate tricalcique du ciment (C3S). L'hydratation initiale de C3S est d’autant plus rapide que la température est élevée mais elle est plus ralentie dès que l'hydratation est limitée par la diffusion de l’eau et des ions à travers la couche d’hydrates (C-S-H) formée autour des grains au jeune âge. Dans ces conditions, la barrière est plus dense; ceci a comme conséquence une évolution plus lente de l’hydratation à long terme. La température change également la densité et la répartition de C-S-H aussi donnant une plus grande porosité de matériau à température plus élevée. Ces phénomènes sont responsables de la résistance finale inférieure."
+    ],
+    "citation_abstract": [
+     "Ce travail est consacré à l'influence de la température sur l'hydratation du ciment Portland entre 5 et 45°C. Les effets de la température sur l'évolution de la résistance à la compression ont été corrélés au degré d'hydratation et à la microstructure des hydrates. On montre que l'origine des effets de la température est liée à l'hydratation du silicate tricalcique du ciment (C3S). L'hydratation initiale de C3S est d’autant plus rapide que la température est élevée mais elle est plus ralentie dès que l'hydratation est limitée par la diffusion de l’eau et des ions à travers la couche d’hydrates (C-S-H) formée autour des grains au jeune âge. Dans ces conditions, la barrière est plus dense; ceci a comme conséquence une évolution plus lente de l’hydratation à long terme. La température change également la densité et la répartition de C-S-H aussi donnant une plus grande porosité de matériau à température plus élevée. Ces phénomènes sont responsables de la résistance finale inférieure."
+    ],
+    "DC.subject": [
+     "Rhéologie, Hydratation, Ciment Portland,"
+    ],
+    "citation_keywords": [
+     "Rhéologie, Hydratation, Ciment Portland,"
+    ],
+    "DC.creator": [
+     "Maciej Zajac"
+    ],
+    "citation_author": [
+     "Maciej Zajac"
+    ],
+    "DC.contributor": [
+     "André Nonat"
+    ],
+    "DC.publisher": [
+     "Dijon"
+    ],
+    "citation_dissertation_institution": [
+     "Dijon"
+    ],
+    "DC.date": [
+     "01/01/2007"
+    ],
+    "citation_publication_date": [
+     "01/01/2007"
+    ],
+    "html_title": [
+     "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland | Theses.fr"
+    ]
+   },
+   "snippet": "etude des relations entre vitesse d hydratation texturation des hydrates et resistance mecanique finale des pates et micro mortiers de ciment portland theses fr aller directement a la barre de recherche le moteur de recherche des theses francaises les theses les personnes liees aux theses rechercher des theses rechercher des theses desactiver l aide a la saisie recherche avancee recherche avancee etude des relations entre vitesse d hydratation texturation des hydrates et resistance mecanique finale des pates et micro mortiers de ciment portland fr en auteur autrice maciej zajac direction andre",
+   "evidenceFile": "ev/etudedesrelationsentrevitessedhydratatio-wb.html"
+  },
+  "log": [
+   "handle API -> none",
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/795140 -> 500 match=0.00",
+   "direct https://hdl.handle.net/10068/795140 -> 500 match=0.00",
+   "direct https://www.theses.fr/2007DIJOS006 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10068/795140",
+   "wayback none for hdl.handle.net/10068/795140",
+   "wayback https://web.archive.org/web/20240704051711id_/https://theses.fr/2007DIJOS006 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W5299861",
+   "https://hdl.handle.net/api/handles/10068/795140",
+   "https://hdl.handle.net/api/handles/10068/795140",
+   "https://hdl.handle.net/10068/795140",
+   "https://hdl.handle.net/10068/795140",
+   "https://www.theses.fr/2007DIJOS006",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/795140",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/795140",
+   "https://archive.org/wayback/available?url=www.theses.fr/2007DIJOS006",
+   "https://web.archive.org/web/20240704051711id_/https://theses.fr/2007DIJOS006"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10068/795140",
+   "http://hdl.handle.net/10068/795140",
+   "http://www.theses.fr/2007DIJOS006"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Valorisation des boues de papeterie comme matières premières secondaires dans les mortiers de ciment Portland : incidence des conditions d’incinération sur la résistance mécanique des mortiers .",
+  "result": null,
+  "log": [
+   "direct https://hal.science/hal-04799890 -> 200 match=0.00",
+   "wayback none for hal.science/hal-04799890"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W4404680568",
+   "https://hal.science/hal-04799890",
+   "https://archive.org/wayback/available?url=hal.science/hal-04799890"
+  ],
+  "urls": [
+   "https://hal.science/hal-04799890"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CONTRIBUTION A L'ETUDE DU ROLE DE FIBRES DISPERSEES ANISOTROPIQUEMENT DANS LE MORTIER DE CIMENT SUR LES LOIS DE COMPORTEMENT, LES CRITERES DE RESISTANCE ET LA FISSURATION DU MATERIAU",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1022136 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1022136"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W78003020",
+   "https://trid.trb.org/view/1022136",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1022136"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1022136"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENGARUH PEMANFAATAN ABU AMPAS TEBU SEBAGAI SUBSTITUSI PARSIAL SEMEN DALAM CAMPURAN BETON DITINJAU TERHADAP KUAT TARIK LENTUR DAN MODULUS ELASTISITAS",
+  "result": {
+   "route": "direct",
+   "url": "https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Abu ampas tebu (AAT) yang berasal dari PT. PG Tulangpohula Gorontalo merupakan limbah yang memiliki kandungan silikat sebesar 68,5 %. Penelitian terhadap AAT dilakukan sebagai bahan substitusi parsia…"
+    ],
+    "DC.identifier": [
+     "https://media.neliti.com/media/publications/140472-ID-pengaruh-pemanfaatan-abu-ampas-tebu-seba.pdf"
+    ],
+    "DC.type": [
+     "Journal:eArticle"
+    ],
+    "DC.date": [
+     "2013"
+    ],
+    "DC.title": [
+     "Pengaruh Pemanfaatan Abu Ampas Tebu Sebagai Substitusi Parsial Semen Dalam Campuran Beton Ditinjau Terhadap Kuat Tarik Lentur Dan Modulus Elastisitas"
+    ],
+    "DC.description": [
+     "Abu ampas tebu (AAT) yang berasal dari PT. PG Tulangpohula Gorontalo merupakan limbah yang memiliki kandungan silikat sebesar 68,5 %. Penelitian terhadap AAT dilakukan sebagai bahan substitusi parsial semen dengan prosentase secara berturut-turut 0%, 5%, 10%, 15%, 20%, 25% terhadap berat semen. Penelitian ini bertujuan untuk mengetahui pengaruh AAT terhadap kuat tarik lentur dan modulus elastisitas. Penggunaan air untuk campuran beton dalam penelitian ini dibuat sama untuk setiap prosentase AAT. Hasil penelitian menunjukkan semakin tinggi prosentase AAT maka semakin rendah workability beton segar. Penggunaan AAT tidak mempengaruhi peningkatan kuat tarik lentur tetapi memberi peningkatan pada modulus elastistas dan kuat tekan. Modulus elastisitas beton dengan AAT lebih besar dari beton tanpa AAT kecuali pada prosentase 15%. Kuat tekan yang diperoleh melebihi kuat tekan yang direncanakan dan peningkatan terbesar terjadi pada Prosentase 5%. secara keseluruhan AAT dapat dimanfaatkan sebagai bahan substitusi parsial semen dalam campuran beton dengan prosentase optimum pada prosentase 5% berdasarkan kekuatan dan workabilitynya."
+    ],
+    "DC.language": [
+     "id"
+    ],
+    "DC.creator": [
+     "Rompas, G. P. (Gerry)",
+     "Pangouw, J. D. (Jorry)",
+     "Pandaleke, R. (Ronny)",
+     "Mangare, J. B. (Jantje)"
+    ],
+    "DC.subject": [
+     "Indonesia",
+     "kuat tarik lentur",
+     "modulus elastisitas",
+     "ampas tebu",
+     "prosentase optimum"
+    ],
+    "DC.publisher": [
+     "Sam Ratulangi University"
+    ],
+    "DC.source": [
+     "Jurnal Sipil Statik"
+    ],
+    "DC.relation.ispartof": [
+     "Jurnal Sipil Statik"
+    ],
+    "DC.source.uri": [
+     "https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu"
+    ],
+    "DC.source.issn": [
+     "2337-6732"
+    ],
+    "DC.source.issue": [
+     "2"
+    ],
+    "DC.source.volume": [
+     "1"
+    ],
+    "DC.citation.volume": [
+     "1"
+    ],
+    "DC.citation.issue": [
+     "2"
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.rights": [
+     "(c) Jurnal Sipil Statik, 2013"
+    ],
+    "citation_title": [
+     "Pengaruh Pemanfaatan Abu Ampas Tebu Sebagai Substitusi Parsial Semen Dalam Campuran Beton Ditinjau Terhadap Kuat Tarik Lentur Dan Modulus Elastisitas"
+    ],
+    "citation_publication_date": [
+     "2013"
+    ],
+    "citation_pdf_url": [
+     "https://media.neliti.com/media/publications/140472-ID-pengaruh-pemanfaatan-abu-ampas-tebu-seba.pdf"
+    ],
+    "citation_language": [
+     "id"
+    ],
+    "citation_author": [
+     "Gerry Phillip Rompas",
+     "Jorry D. Pangouw",
+     "Ronny Pandaleke",
+     "Jantje B. Mangare"
+    ],
+    "citation_journal_title": [
+     "Jurnal Sipil Statik"
+    ],
+    "citation_issn": [
+     "2337-6732"
+    ],
+    "citation_volume": [
+     "1"
+    ],
+    "citation_issue": [
+     "2"
+    ],
+    "citation_firstpage": [
+     "140472"
+    ],
+    "citation_publisher": [
+     "Sam Ratulangi University"
+    ],
+    "og:title": [
+     "Pengaruh Pemanfaatan Abu Ampas Tebu Sebagai Substitusi Parsial Semen Dalam Campuran Beton Ditinjau Terhadap Kuat Tarik Lentur Dan Modulus Elastisitas"
+    ],
+    "html_title": [
+     "Pengaruh Pemanfaatan Abu Ampas Tebu Sebagai Substitusi Parsial Semen Dalam Campuran Beton Ditinjau Terhadap Kuat Tarik Lentur Dan Modulus Elastisitas - Neliti"
+    ]
+   },
+   "snippet": "pengaruh pemanfaatan abu ampas tebu sebagai substitusi parsial semen dalam campuran beton ditinjau terhadap kuat tarik lentur dan modulus elastisitas neliti advertisement jurnal sipil statik none content show all recent browse by year browse by volume about aims and scope editorial board peer review publication submission instructions policies contact more for authors for reviewers choose your language english us bahasa indonesia sign in submit article menu jurnal sipil statik none sign in en english us bahasa indonesia jurnal sipil statik none jurnal sipil statik none content show all recent ",
+   "evidenceFile": "ev/pengaruhpemanfaatanabuampastebusebagaisu-d1.html"
+  },
+  "log": [
+   "direct https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1545717442",
+   "https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu"
+  ],
+  "urls": [
+   "https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER",
+  "result": null,
+  "log": [
+   "direct https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600 -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20240909060752id_/https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600 -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2997452885",
+   "https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+   "https://archive.org/wayback/available?url=jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+   "https://web.archive.org/web/20240909060752id_/https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600"
+  ],
+  "urls": [
+   "https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENGUJIAN KUAT TEKAN MORTAR DAN BETON RINGAN DENGAN MENGGUNAKAN AGREGAT RINGAN BATU APUNG DAN ABU SEKAM PADI SEBAGAI SUBSTITUSI PARSIAL SEMEN",
+  "result": {
+   "route": "direct",
+   "url": "https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Beton sebagai bahan konstruksi untuk bangunan sipil paling banyak digunakan saat ini. Hal tersebut dikarenakan beton memiliki beberapa kelebihan dibandingkan dengan bahan yang lain diantaranya harga …"
+    ],
+    "DC.identifier": [
+     "https://media.neliti.com/media/publications/140034-ID-pengujian-kuat-tekan-mortar-dan-beton-ri.pdf"
+    ],
+    "DC.type": [
+     "Journal:eArticle"
+    ],
+    "DC.date": [
+     "2016"
+    ],
+    "DC.title": [
+     "Pengujian Kuat Tekan Mortar Dan Beton Ringan Dengan Menggunakan Agregat Ringan Batu Apung Dan Abu Sekam Padi Sebagai Substitusi Parsial Semen"
+    ],
+    "DC.description": [
+     "Beton sebagai bahan konstruksi untuk bangunan sipil paling banyak digunakan saat ini. Hal tersebut dikarenakan beton memiliki beberapa kelebihan dibandingkan dengan bahan yang lain diantaranya harga relatif murah, mudah dibentuk, kemampuan menahan kuat tekan yang tinggi, serta ketahanan yang baik terhadap cuaca dan lingkungan. Namun penggunaan beton juga memiliki kekurangan yaitu berat struktur yang besar akibat beban dari beton itu sendiri dan beban-beban lain. Untuk mengatasinya digunakan beton ringan untuk keperluan beton non-struktural. Pada umumnya beton ringan sama seperti beton normal hanya saja agregatnya diganti dengan agregat ringan.  Penelitian ini mengenai “Pengujian Kuat Tekan Mortar dan Beton Ringan Batu Apung dan Abu Sekam Padi Sebagai Substitusi Parsial Semen”. Pengujian bertujuan untuk mengetahui pengaruh dari penggantian batu apung sebagai agregat kasar (beton), agregat halus (mortar), dan ASP sebagai substitusi parsial semen. Penelitian dilakukan dengan tiga variasi ASP yaitu 10%, 15%, dan 20% dari berat semen. Benda uji beton berbentuk silinder dengan ukuran 100/200 mm dan mortar 50x50x50 mm. Benda uji untuk masing-masing variasi berjumlah 4 untuk beton dan 5 untuk mortar, pengujian dilakukan pada umur 7 hari, 14 hari, dan 28 hari.  Dari pengujian yang dilakukan diperoleh berat isi maksimum 1616,894 kg/m3 untuk beton dan 1388,64 kg/m3 untuk mortar, dengan kuat tekan maksimum pada umur 28 hari yaitu 14,05 MPa untuk beton pada ASP 0% dan 14,61 MPa untuk mortar pada ASP 15%. Penggunaan ASP pada beton menurunkan kuat tekan beton karena makin banyak kandungan ASP dalam campuran beton maka nilai FAS akan semakin besar disebabkan adanya penambahan air pada saat pencampuran."
+    ],
+    "DC.language": [
+     "id"
+    ],
+    "DC.creator": [
+     "Lomboan, F. O. (Felisa)",
+     "Kumaat, E. J. (Ellen)",
+     "Windah, R. S. (Reky)"
+    ],
+    "DC.subject": [
+     "Indonesia",
+     "mortar",
+     "kuat tekan",
+     "beton ringan",
+     "batu apung",
+     "abu sekam padi",
+     "substitusi parsial semen"
+    ],
+    "DC.publisher": [
+     "Universitas Sam Ratulangi"
+    ],
+    "DC.source": [
+     "Jurnal Sipil Statik"
+    ],
+    "DC.relation.ispartof": [
+     "Jurnal Sipil Statik"
+    ],
+    "DC.source.uri": [
+     "https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b"
+    ],
+    "DC.source.issn": [
+     "2337-6732"
+    ],
+    "DC.source.issue": [
+     "4"
+    ],
+    "DC.source.volume": [
+     "4"
+    ],
+    "DC.citation.volume": [
+     "4"
+    ],
+    "DC.citation.issue": [
+     "4"
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.rights": [
+     "(c) Jurnal Sipil Statik, 2016"
+    ],
+    "citation_title": [
+     "Pengujian Kuat Tekan Mortar Dan Beton Ringan Dengan Menggunakan Agregat Ringan Batu Apung Dan Abu Sekam Padi Sebagai Substitusi Parsial Semen"
+    ],
+    "citation_publication_date": [
+     "2016"
+    ],
+    "citation_pdf_url": [
+     "https://media.neliti.com/media/publications/140034-ID-pengujian-kuat-tekan-mortar-dan-beton-ri.pdf"
+    ],
+    "citation_language": [
+     "id"
+    ],
+    "citation_author": [
+     "Felisa Octaviani Lomboan",
+     "Ellen J. Kumaat",
+     "Reky S. Windah"
+    ],
+    "citation_journal_title": [
+     "Jurnal Sipil Statik"
+    ],
+    "citation_issn": [
+     "2337-6732"
+    ],
+    "citation_volume": [
+     "4"
+    ],
+    "citation_issue": [
+     "4"
+    ],
+    "citation_firstpage": [
+     "140034"
+    ],
+    "citation_publisher": [
+     "Universitas Sam Ratulangi"
+    ],
+    "og:title": [
+     "Pengujian Kuat Tekan Mortar Dan Beton Ringan Dengan Menggunakan Agregat Ringan Batu Apung Dan Abu Sekam Padi Sebagai Substitusi Parsial Semen"
+    ],
+    "html_title": [
+     "Pengujian Kuat Tekan Mortar Dan Beton Ringan Dengan Menggunakan Agregat Ringan Batu Apung Dan Abu Sekam Padi Sebagai Substitusi Parsial Semen - Neliti"
+    ]
+   },
+   "snippet": "pengujian kuat tekan mortar dan beton ringan dengan menggunakan agregat ringan batu apung dan abu sekam padi sebagai substitusi parsial semen neliti advertisement jurnal sipil statik none konten lihat semua paling baru cari berdasarkan tahun cari berdasarkan volume tentang kami tujuan dan ruang lingkup editorial board peer review publikasi instruksi pengiriman kebijakan hubungi kami lihat lebih untuk penulis untuk reviewer choose your language english us bahasa indonesia masuk kirim artikel menu jurnal sipil statik none masuk id english us bahasa indonesia jurnal sipil statik none jurnal sipil",
+   "evidenceFile": "ev/pengujiankuattekanmortardanbetonringande-d1.html"
+  },
+  "log": [
+   "direct https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2404033907",
+   "https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b"
+  ],
+  "urls": [
+   "https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1004 X線回折/リートベルト法によるセメントペーストの水和反応解析(セメント)",
+  "result": null,
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009696102 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009696102"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W109242181",
+   "https://ci.nii.ac.jp/naid/110009696102",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009696102"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009696102"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1013 高炉セメント硬化体の相組成と強度発現性(混和材料)",
+  "result": null,
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009694871 -> 202 match=0.00",
+   "direct https://ci.nii.ac.jp/naid/110009694871 -> 202 match=0.00",
+   "direct https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256 -> 200 match=0.33",
+   "wayback none for ci.nii.ac.jp/naid/110009694871",
+   "wayback none for ci.nii.ac.jp/naid/110009694871",
+   "wayback https://web.archive.org/web/20240915121406id_/https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256 -> 200 match=0.33"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W46088385",
+   "https://ci.nii.ac.jp/naid/110009694871",
+   "https://ci.nii.ac.jp/naid/110009694871",
+   "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009694871",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009694871",
+   "https://archive.org/wayback/available?url=t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256",
+   "https://web.archive.org/web/20240915121406id_/https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009694871",
+   "http://ci.nii.ac.jp/naid/110009694871",
+   "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388256"
+  ],
+  "doi": null
+ },
+ {
+  "title": "セメント硬化体の細孔分布とイオンの拡散",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3007760114",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "リン酸石膏の処分とカルシウムルーピングプロセスによるセメント工場のCO 2 捕獲との間の相乗効果の最適化",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3119642474",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "doi": null
+ },
+ {
+  "title": "間隙相量を増大したセメントの流動性に及ぼすC_3_A量およびセッコウの影響",
+  "result": {
+   "route": "direct",
+   "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "Description": [
+     "間隙相量を増大したセメントの流動性に及ぼすC<sub>3</sub>A量およびセッコウの影響,"
+    ],
+    "DC.language": [
+     "ja"
+    ],
+    "DC.creator": [
+     "丸屋英二",
+     "大崎雅史",
+     "坂井悦郎",
+     "大門正機"
+    ],
+    "citation_author": [
+     "丸屋英二",
+     "大崎雅史",
+     "坂井悦郎",
+     "大門正機"
+    ],
+    "DC.title": [
+     "間隙相量を増大したセメントの流動性に及ぼすC<sub>3</sub>A量およびセッコウの影響"
+    ],
+    "citation_title": [
+     "間隙相量を増大したセメントの流動性に及ぼすC<sub>3</sub>A量およびセッコウの影響"
+    ],
+    "DC.date": [
+     "2003"
+    ],
+    "citation_publication_date": [
+     "2003"
+    ],
+    "citation_issue": [
+     "No. 57"
+    ],
+    "citation_journal_title": [
+     "Cement Science and Concrete Technology"
+    ],
+    "citation_abstract_html_url": [
+     "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228"
+    ],
+    "citation_keywords": [
+     ";"
+    ],
+    "citation_firstpage": [
+     "38"
+    ],
+    "citation_lastpage": [
+     "44"
+    ],
+    "html_title": [
+     "間隙相量を増大したセメントの流動性に及ぼすC<sub>3</sub>A量およびセッコウの影響 | T2R2 東京科学大学リサーチリポジトリ"
+    ]
+   },
+   "snippet": "間隙相量を増大したセメントの流動性に及ほすc sub 3 sub a量およひセッコウの影響 t2r2 東京科学大学リサーチリホシトリ 重要 t2r2 starsearchの停止と後継システムについて english home 各種検索 研究業績検索 論文 著書検索 詳細検索 特許検索 詳細検索 研究ハイライト検索 詳細検索 研究者検索 組織 担当から絞り込む サホート よくあるこ質問 faq t2r2登録申請 学位論文登録について 組織単位テータ出力について 学内限定 サホート 問合せ t2r2について t2r2とは 運用指針 リーフレット 本文ファイルの公開について 関連リンク 東京科学大学 東京科学大学starサーチ 国立情報学研究所 学術機関リホシトリ構築連携支援事業 home ヘルフ 論文 著書情報 タイトル 和文 間隙相量を増大したセメントの流動性に及ほすc 3 a量およひセッコウの影響 英文 著者 和文 丸屋英二 大崎雅史 坂井悦郎 大門正機 英文 eiji maruya 大崎雅史 etsuo sakai masaki daimon 言語 japanese 掲載誌 書名 和文 cement science and concrete technology 英文 巻 号 ヘーシ no 57 pp 38 44 出版年月 2003年 出版者 和文 英文 会議名称 和文 英文 開",
+   "evidenceFile": "ev/間隙相量を増大したセメントの流動性に及ほすc3a量およひセッコウの影響-d1.html"
+  },
+  "log": [
+   "direct https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7208570190",
+   "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228"
+  ],
+  "urls": [
+   "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228",
+   "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinforced cement composites = 이미지 프로세싱 기반 섬유 분포 특성 평가 및 섬유 분포 특성이 시멘트 복합체의 인장거동에 미치는 영향",
+  "result": null,
+  "log": [
+   "direct https://koasas.kaist.ac.kr/handle/10203/30654 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20261013002039id_/https://koasas.kaist.ac.kr/handle/10203/30654 -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3026310669",
+   "https://koasas.kaist.ac.kr/handle/10203/30654",
+   "https://archive.org/wayback/available?url=koasas.kaist.ac.kr/handle/10203/30654",
+   "https://web.archive.org/web/20261013002039id_/https://koasas.kaist.ac.kr/handle/10203/30654"
+  ],
+  "urls": [
+   "https://koasas.kaist.ac.kr/handle/10203/30654"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH PERFORMANCE, HIGH-VOLUME FLY ASH CONCRETE FOR SUSTAINABLE DEVELOPMENT",
+  "result": null,
+  "log": [
+   "direct https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 404 match=0.00",
+   "direct https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 404 match=0.00",
+   "direct https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606 -> 429 match=0.00",
+   "wayback https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 200 match=0.14",
+   "wayback https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 200 match=0.14",
+   "wayback none for citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2241361961",
+   "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606",
+   "https://archive.org/wayback/available?url=web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://archive.org/wayback/available?url=web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://archive.org/wayback/available?url=citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "urls": [
+   "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STRESSES IN CONCRETE PAVEMENTS COMPUTED BY THEORETICAL ANALYSIS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20250114190030/https://trid.trb.org/view/97833",
+   "original": "https://trid.trb.org/view/97833",
+   "snapshot": "20250114190030",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1926-04-00"
+    ],
+    "citation_title": [
+     "STRESSES IN CONCRETE PAVEMENTS COMPUTED BY THEORETICAL ANALYSIS"
+    ],
+    "citation_author": [
+     "WESTERGAARD, H M"
+    ],
+    "citation_publication_date": [
+     "1926/04/00"
+    ],
+    "citation_journal_title": [
+     "Public Roads"
+    ],
+    "citation_issn": [
+     "0033-3735"
+    ],
+    "html_title": [
+     "STRESSES IN CONCRETE PAVEMENTS COMPUTED BY THEORETICAL ANALYSIS - TRID"
+    ]
+   },
+   "snippet": "stresses in concrete pavements computed by theoretical analysis trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database stresses in concrete pavements computed by theoretical analysis from assumptions of the conditions of loading support etc of concrete road slabs which conform closely to the actual conditio",
+   "evidenceFile": "ev/stressesinconcretepavementscomputedbythe-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/97833 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20250114190030id_/https://trid.trb.org/view/97833 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W143290841",
+   "https://trid.trb.org/view/97833",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/97833",
+   "https://web.archive.org/web/20250114190030id_/https://trid.trb.org/view/97833"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/97833"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FINITE-ELEMENT ANALYSIS OF JOINTED OR CRACKED CONCRETE PAVEMENTS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/86120 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/86120"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1111245226",
+   "https://trid.trb.org/view/86120",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/86120"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/86120"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Economical Concrete Mix Design Utilizing Blended Cements, Performance-Based Specifications, and Pay Factors",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260214174407/https://rosap.ntl.bts.gov/view/dot/25944",
+   "original": "https://rosap.ntl.bts.gov/view/dot/25944",
+   "snapshot": "20260214174407",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "DOT ROSA P"
+    ],
+    "description": [
+     "This report showcases several new approaches of using materials science and structural mechanics to accomplish sustainable design of concrete materials. The topics addressed include blended cements, fiber-reinforced concrete (FRC), internal curing with lightweight aggregate, and statistical process control (SPC). Materials, methodologies, and test methods to enhance the performance and durability of concrete are addressed. Properties of pozzolans, blended cements, fly ashes, and other materials, along with proposed categories of highperformance concrete (HPC) mixtures using high-volume fly ash are briefly described. Early-age cracking and drying shrinkage are addressed in detail, as they both reduce load-carrying capacity and accelerate deterioration, resulting in increased maintenance costs and reduced service life. New developments in HPC materials using FRC are proposed, and it is shown that considerable cost savings can be realized by using fiber concrete mixtures. Internal curing techniques as a means of improving the quality of concrete using pre-soaked lightweight aggregate as an internal water supply were studied. The superior results of internally cured samples with lightweight aggregates, especially sintered bottom ash, indicate a great potential for using them in hot-weather concreting or when external curing is not possible. A new method for statistical data processing of concrete strength data also is presented. Technical tools were developed to improve performance-based specifications and statistical process control methods using cumulative sum (CUSUM) and exponentially weighted moving average (EWMA). Both of these approaches allow for process control and quality control (QC) monitoring of the materials. This report concludes with specifications for quality assurance (QA) and introduces quality measures as criteria for reducing the costs."
+    ],
+    "citation_title": [
+     "Economical concrete mix design utilizing blended cements, performance-based specifications, and pay factors."
+    ],
+    "citation_author": [
+     "Bakhshi, Mehdi",
+     "Laungrungrong, Busaba",
+     "Bonakdar, Aboozar",
+     "Mobasher, Barzin",
+     "Borror, Connie M.",
+     "Montgomery, Douglas C."
+    ],
+    "citation_keywords": [
+     "Blended cement",
+     "Fiber reinforced concrete",
+     "Concrete curing",
+     "Admixtures",
+     "Mix design",
+     "Durability",
+     "Performance based specifications"
+    ],
+    "citation_publication_date": [
+     "2013/05/01"
+    ],
+    "citation_fulltext_html_url": [
+     "http://rosap.ntl.bts.gov/view/dot/25944"
+    ],
+    "citation_pdf_url": [
+     "http://rosap.ntl.bts.gov/view/dot/25944/dot_25944_DS1.pdf"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_abstract": [
+     "This report showcases several new approaches of using materials science and structural mechanics to accomplish sustainable design of concrete materials. The topics addressed include blended cements, fiber-reinforced concrete (FRC), internal curing with lightweight aggregate, and statistical process control (SPC). Materials, methodologies, and test methods to enhance the performance and durability of concrete are addressed. Properties of pozzolans, blended cements, fly ashes, and other materials, along with proposed categories of highperformance concrete (HPC) mixtures using high-volume fly ash are briefly described. Early-age cracking and drying shrinkage are addressed in detail, as they both reduce load-carrying capacity and accelerate deterioration, resulting in increased maintenance costs and reduced service life. New developments in HPC materials using FRC are proposed, and it is shown that considerable cost savings can be realized by using fiber concrete mixtures. Internal curing techniques as a means of improving the quality of concrete using pre-soaked lightweight aggregate as an internal water supply were studied. The superior results of internally cured samples with lightweight aggregates, especially sintered bottom ash, indicate a great potential for using them in hot-weather concreting or when external curing is not possible. A new method for statistical data processing of concrete strength data also is presented. Technical tools were developed to improve performance-based specifications and statistical process control methods using cumulative sum (CUSUM) and exponentially weighted moving average (EWMA). Both of these approaches allow for process control and quality control (QC) monitoring of the materials. This report concludes with specifications for quality assurance (QA) and introduces quality measures as criteria for reducing the costs."
+    ],
+    "html_title": [
+     "Economical concrete mix design utilizing blended cements, performance-based specifications, and pay factors."
+    ]
+   },
+   "snippet": "economical concrete mix design utilizing blended cements performance based specifications and pay factors skip to main content an official website of the united states government here s how you know official websites use gov a gov website belongs to an official government organization in the united states secure gov websites use https a lock or https means you ve safely connected to the gov website share sensitive information only on official secure websites united states department of transportation national transportation library bureau of transportation statistics menu close home collection",
+   "evidenceFile": "ev/economicalconcretemixdesignutilizingblen-wb.html"
+  },
+  "log": [
+   "direct https://rosap.ntl.bts.gov/view/dot/25944 -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260214174407id_/https://rosap.ntl.bts.gov/view/dot/25944 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W620627296",
+   "https://rosap.ntl.bts.gov/view/dot/25944",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/25944",
+   "https://web.archive.org/web/20260214174407id_/https://rosap.ntl.bts.gov/view/dot/25944"
+  ],
+  "urls": [
+   "https://rosap.ntl.bts.gov/view/dot/25944"
+  ],
+  "doi": null
+ }
+]

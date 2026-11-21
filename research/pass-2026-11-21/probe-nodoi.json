@@ -1,0 +1,437 @@
+[
+ {
+  "idx": 0,
+  "url": "https://ci.nii.ac.jp/ncid/BA1148279X",
+  "title": "Prestressed Concrete Structures",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA1148279X",
+  "match": 1.0,
+  "size": 2765,
+  "status": "ok"
+ },
+ {
+  "idx": 8,
+  "url": "https://apo.org.au/node/176386",
+  "title": "Making Concrete Change Innovation in Low-carbon Cement and Concrete",
+  "http": "200 https://apo.org.au/node/176386",
+  "match": 1.0,
+  "size": 3830,
+  "status": "ok"
+ },
+ {
+  "idx": 33,
+  "url": "https://trid.trb.org/view/101892",
+  "title": "STUDIES OF 'SALT' SCALING OF CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 34,
+  "url": "https://hdl.handle.net/10068/663104",
+  "title": "The Performance of Concrete in Bridges: a Survey of 200 Highway Bridges",
+  "http": "500 https://hdl.handle.net/10068/663104",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 45,
+  "url": "https://ci.nii.ac.jp/ncid/BA22695420",
+  "title": "FREEZING AND THAWING OF CONCRETE-MECHANISMS AND CONTROL",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA22695420",
+  "match": 1.0,
+  "size": 2684,
+  "status": "ok"
+ },
+ {
+  "idx": 47,
+  "url": "https://trid.trb.org/view/43889",
+  "title": "THE DESIGN OF CONCRETE BLOCK ROADS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 49,
+  "url": "https://trid.trb.org/view/103610",
+  "title": "FINITE-ELEMENT ANALYSIS OF CONCRETE SLABS AND ITS IMPLICATIONS FOR RIGID PAVEMENT DESIGN",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 50,
+  "url": "https://ci.nii.ac.jp/naid/10004005240",
+  "title": "Autogenous volume change of concrete",
+  "http": "202 https://cir.nii.ac.jp/crid/1572261549132304512",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 51,
+  "url": "https://trid.trb.org/view/107132",
+  "title": "IDENTIFICATION OF FROST-SUSCEPTIBLE PARTICLES IN CONCRETE AGGREGATES",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 52,
+  "url": "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+  "title": "X-ray diffraction studies on the transformation of kaolinite into metakaolin: I. Variability of interlayer spacings",
+  "http": "403 https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+  "match": 0.0,
+  "size": 55,
+  "status": "fail"
+ },
+ {
+  "idx": 58,
+  "url": "https://apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+  "title": "EFFECTS OF SEA WATER ON CONCRETE",
+  "http": "403 https://apps.dtic.mil/sti/pdfs/AD0739563.pdf",
+  "match": 0.0,
+  "size": 108,
+  "status": "fail"
+ },
+ {
+  "idx": 59,
+  "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=9495",
+  "title": "Recycled Concrete As Aggregate",
+  "http": "200 https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=9495",
+  "match": 1.0,
+  "size": 7028,
+  "status": "ok"
+ },
+ {
+  "idx": 62,
+  "url": "https://trid.trb.org/view/101459",
+  "title": "IDENTIFICATION AND OCCURRENCE OF THAUMASITE IN CONCRETE A DISCUSSION FOR THE 1965 HRB SYMPOSIUM ON AGGRESSIVE FLUIDS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 64,
+  "url": "https://ci.nii.ac.jp/ncid/BA07182624",
+  "title": "Fly ash, silica fume, slag, and natural pozzolans in concrete : proceedings, third international conference, Trondheim, Norway, 1989",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA07182624",
+  "match": 1.0,
+  "size": 3299,
+  "status": "ok"
+ },
+ {
+  "idx": 65,
+  "url": "https://ci.nii.ac.jp/ncid/BA03619673",
+  "title": "Fly ash, silica fume, slag, and natural pozzolans in concrete : proceedings, second international conference, Madrid, Spain, 1986",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA03619673",
+  "match": 1.0,
+  "size": 3463,
+  "status": "ok"
+ },
+ {
+  "idx": 66,
+  "url": "https://pubsindex.trb.org/view.aspx?id=107015",
+  "title": "A CRITICAL REVIEW OF LITERATURE TREATING METHODS OF IDENTIFYING AGGREGATES SUBJECT TO DESTRUCTIVE VOLUME CHANGE WHEN FROZEN IN CONCRETE AND A PROPOSED PROGRAM OF RESEARCH",
+  "http": "000 https://pubsindex.trb.org/view.aspx?id=107015",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 68,
+  "url": "https://trid.trb.org/view/104461",
+  "title": "ANALYSIS OF DISCONTINOUS ORTHOTROPIC PAVEMENT SLABS SUBJECTED TO COMBINED LOADS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 69,
+  "url": "https://openlibrary.org/books/OL3513339M/Resurfacing_with_portland_cement_concrete",
+  "title": "Resurfacing With Portland Cement Concrete",
+  "http": "200 https://openlibrary.org/verify_human?next=/books/OL3513339M/Resurfacing_with_portland_cement_concrete",
+  "match": 0.2,
+  "size": 1842,
+  "status": "fail"
+ },
+ {
+  "idx": 72,
+  "url": "https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+  "title": "HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+  "match": 0.0,
+  "size": 235,
+  "status": "fail"
+ },
+ {
+  "idx": 74,
+  "url": "https://trid.trb.org/view/107062",
+  "title": "FACTORS AFFECTING THE THERMAL EXPANSION OF CONCRETE AGGREGATE MATERIALS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 76,
+  "url": "https://trid.trb.org/view/110439",
+  "title": "A DURABILITY TEST FOR AGGREGATES",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 77,
+  "url": "https://trid.trb.org/view/29453",
+  "title": "EXPANSIVE CEMENT CONCRETE-MICROMECHANICAL MODELS FOR FREE AND RESTRAINED EXPANSION",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 78,
+  "url": "https://trid.trb.org/view/1059081",
+  "title": "ETTRINGITE ET THAUMASITE DANS LE MORTIER DE LA DIGUE DU LARGE DU PORT DE CHERBOURG",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 79,
+  "url": "https://trid.trb.org/view/95307",
+  "title": "A 10-YEAR REPORT ON PERFORMANCE OF BONDED CONCRETE RESURFACINGS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 82,
+  "url": "https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+  "title": "Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Concrete Repair Materials.",
+  "http": "403 https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+  "match": 0.0,
+  "size": 108,
+  "status": "fail"
+ },
+ {
+  "idx": 84,
+  "url": "https://trid.trb.org/view/1078067",
+  "title": "CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 126,
+  "url": "https://rcc.cujae.edu.cu/index.php/rcc/article/view/354",
+  "title": "La durabilidad de hormigones de arcilla calcinada y caliza ante corrosión por cloruros",
+  "http": "200 https://rcc.cujae.edu.cu/index.php/rcc/article/view/354",
+  "match": 1.0,
+  "size": 7037,
+  "status": "ok"
+ },
+ {
+  "idx": 146,
+  "url": "https://hdl.handle.net/1808/19853",
+  "title": "Development and Construction of Low-Cracking High-Performance Concrete (LC-HPC) Bridge Decks: Construction Methods, Specifications, and Resistance to Chloride Ion Penetration",
+  "http": "200 https://kuscholarworks.ku.edu/entities/publication/841eec91-7d85-40f9-a0ae-7961d311109b",
+  "match": 0.0,
+  "size": 253,
+  "status": "fail"
+ },
+ {
+  "idx": 151,
+  "url": "https://rosap.ntl.bts.gov/view/dot/18916",
+  "title": "QUALITY CONTROL OF HIGHWAY CONCRETE CONTAINING FLY ASH",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/18916",
+  "match": 0.0,
+  "size": 217,
+  "status": "fail"
+ },
+ {
+  "idx": 165,
+  "url": "https://resolver.tudelft.nl/uuid:1a1efc2d-a638-4787-b543-5bd643a39a4b",
+  "title": "Autogenous Deformation and Internal Curing of Concrete",
+  "http": "200 https://repository.tudelft.nl/record/uuid:1a1efc2d-a638-4787-b543-5bd643a39a4b",
+  "match": 1.0,
+  "size": 4127,
+  "status": "ok"
+ },
+ {
+  "idx": 186,
+  "url": "https://www.dora.lib4ri.ch/empa/item/empa:30261",
+  "title": "Der heutige Stand der Festigkeitsprüfung von Zement nach Normen und deren Wert für die Praxis der Beton- und Eisenbeton-Bauweise",
+  "http": "200 https://www.dora.lib4ri.ch/empa/item/empa:30261",
+  "match": 0.0,
+  "size": 7,
+  "status": "fail"
+ },
+ {
+  "idx": 187,
+  "url": "https://trid.trb.org/view/1064287",
+  "title": "STAHLFASERBEWEHRTE BETONFAHRBAHN IM HOCHEINBAU",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 188,
+  "url": "https://trid.trb.org/view/1051402",
+  "title": "DIE AUTOBAHN GENF - LAUSANNE. DECKENERNEUERUNG AUF DER BETONFAHRBAHN IM ABSCHNITT GENF",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 192,
+  "url": "https://hdl.handle.net/2099.1/6554",
+  "title": "Durabilidad del hormigón con fibras de polipropileno",
+  "http": "418 https://upcommons.upc.edu/handle/2099.1/6554",
+  "match": 0.0,
+  "size": 620,
+  "status": "fail"
+ },
+ {
+  "idx": 193,
+  "url": "https://hdl.handle.net/2099.1/6557",
+  "title": "Durabilidad del hormigón con fibras de acero",
+  "http": "418 https://upcommons.upc.edu/handle/2099.1/6557",
+  "match": 0.0,
+  "size": 620,
+  "status": "fail"
+ },
+ {
+  "idx": 194,
+  "url": "https://revistas.unal.edu.co/index.php/dyna/article/view/1778",
+  "title": "DESEMPEÑO DEL CEMENTO PÓRTLAND ADICIONADO CON CALIZAS DE DIFERENTES GRADOS DE PUREZA",
+  "http": "200 https://revistas.unal.edu.co/index.php/dyna/article/view/1778",
+  "match": 1.0,
+  "size": 6014,
+  "status": "ok"
+ },
+ {
+  "idx": 196,
+  "url": "https://hdl.handle.net/10068/795140",
+  "title": "Etude des relations entre vitesse d'hydratation, texturation des hydrates et résistance mécanique finale des pâtes et micro-mortiers de ciment Portland",
+  "http": "500 https://hdl.handle.net/10068/795140",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 197,
+  "url": "https://hal.science/hal-04799890",
+  "title": "Valorisation des boues de papeterie comme matières premières secondaires dans les mortiers de ciment Portland : incidence des conditions d’incinération sur la résistance mécanique des mortiers .",
+  "http": "200 https://hal.science/hal-04799890",
+  "match": 0.0,
+  "size": 1403,
+  "status": "fail"
+ },
+ {
+  "idx": 198,
+  "url": "https://trid.trb.org/view/1022136",
+  "title": "CONTRIBUTION A L'ETUDE DU ROLE DE FIBRES DISPERSEES ANISOTROPIQUEMENT DANS LE MORTIER DE CIMENT SUR LES LOIS DE COMPORTEMENT, LES CRITERES DE RESISTANCE ET LA FISSURATION DU MATERIAU",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 201,
+  "url": "https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu",
+  "title": "PENGARUH PEMANFAATAN ABU AMPAS TEBU SEBAGAI SUBSTITUSI PARSIAL SEMEN DALAM CAMPURAN BETON DITINJAU TERHADAP KUAT TARIK LENTUR DAN MODULUS ELASTISITAS",
+  "http": "403 https://www.neliti.com/publications/140472/pengaruh-pemanfaatan-abu-ampas-tebu-sebagai-substitusi-parsial-semen-dalam-campu",
+  "match": 0.0,
+  "size": 539,
+  "status": "fail"
+ },
+ {
+  "idx": 204,
+  "url": "https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+  "title": "PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER",
+  "http": "404 https://jurnal.unimed.ac.id/2012/index.php/eb/id/article/download/16142/12600",
+  "match": 0.0,
+  "size": 2044,
+  "status": "fail"
+ },
+ {
+  "idx": 206,
+  "url": "https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b",
+  "title": "PENGUJIAN KUAT TEKAN MORTAR DAN BETON RINGAN DENGAN MENGGUNAKAN AGREGAT RINGAN BATU APUNG DAN ABU SEKAM PADI SEBAGAI SUBSTITUSI PARSIAL SEMEN",
+  "http": "403 https://www.neliti.com/id/publications/140034/pengujian-kuat-tekan-mortar-dan-beton-ringan-dengan-menggunakan-agregat-ringan-b",
+  "match": 0.0,
+  "size": 539,
+  "status": "fail"
+ },
+ {
+  "idx": 207,
+  "url": "https://ci.nii.ac.jp/ncid/BA80588111",
+  "title": "セメント硬化体研究委員会報告書 = Report of committee on properties and micro structure of hardened cement",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA80588111",
+  "match": 1.0,
+  "size": 1896,
+  "status": "ok"
+ },
+ {
+  "idx": 208,
+  "url": "https://ci.nii.ac.jp/naid/110009696102",
+  "title": "1004 X線回折/リートベルト法によるセメントペーストの水和反応解析(セメント)",
+  "http": "202 https://cir.nii.ac.jp/crid/1521136281168616064",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 209,
+  "url": "https://ci.nii.ac.jp/naid/110009694871",
+  "title": "1013 高炉セメント硬化体の相組成と強度発現性(混和材料)",
+  "http": "202 https://cir.nii.ac.jp/crid/1523388080984568320",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 210,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+  "title": "セメント硬化体の細孔分布とイオンの拡散 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 211,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+  "title": "リン酸石膏の処分とカルシウムルーピングプロセスによるセメント工場のCO 2 捕獲との間の相乗効果の最適化",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 212,
+  "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228",
+  "title": "間隙相量を増大したセメントの流動性に及ぼすC_3_A量およびセッコウの影響",
+  "http": "200 https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100388228",
+  "match": 0.0,
+  "size": 660,
+  "status": "fail"
+ },
+ {
+  "idx": 213,
+  "url": "https://koasas.kaist.ac.kr/handle/10203/30654",
+  "title": "Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinforced cement composites = 이미지 프로세싱 기반 섬유 분포 특성 평가 및 섬유 분포 특성이 시멘트 복합체의 인장거동에 미치는 영향",
+  "http": "200 https://koasas.kaist.ac.kr/handle/10203/30654",
+  "match": 0.0,
+  "size": 75,
+  "status": "fail"
+ },
+ {
+  "idx": 224,
+  "url": "https://repositorio.bc.ufg.br/tede/handle/tede/4376",
+  "title": "Influência do metacaulim na durabilidade de concretos usuais de mercado sujeitos à carbonatação acelerada",
+  "http": "200 https://repositorio.bc.ufg.br/tede/items/78935db8-5ced-4e3f-bd96-e592b364534e",
+  "match": 1.0,
+  "size": 4824,
+  "status": "ok"
+ },
+ {
+  "idx": 229,
+  "url": "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+  "title": "HIGH PERFORMANCE, HIGH-VOLUME FLY ASH CONCRETE FOR SUSTAINABLE DEVELOPMENT",
+  "http": "404 https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+  "match": 0.0,
+  "size": 70,
+  "status": "fail"
+ },
+ {
+  "idx": 235,
+  "url": "https://trid.trb.org/view/97833",
+  "title": "STRESSES IN CONCRETE PAVEMENTS COMPUTED BY THEORETICAL ANALYSIS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 240,
+  "url": "https://trid.trb.org/view/86120",
+  "title": "FINITE-ELEMENT ANALYSIS OF JOINTED OR CRACKED CONCRETE PAVEMENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 253,
+  "url": "https://rosap.ntl.bts.gov/view/dot/25944",
+  "title": "Economical Concrete Mix Design Utilizing Blended Cements, Performance-Based Specifications, and Pay Factors",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/25944",
+  "match": 0.0,
+  "size": 215,
+  "status": "fail"
+ }
+]
