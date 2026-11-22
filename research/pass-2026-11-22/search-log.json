@@ -1,0 +1,1041 @@
+{
+ "log": [
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "microcracks in concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "interfacial transition zone cracking",
+   "period": null,
+   "language": null,
+   "n": 7,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "drying shrinkage microcracking cement paste",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "acoustic emission concrete cracking",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "X-ray microtomography cement paste cracks",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "title.search",
+   "query": "thermal microcracking aggregate cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "microcracking",
+   "mode": "search",
+   "query": "microcracking concrete early investigation",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "mass concrete temperature control",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "thermal cracking of massive concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "heat of hydration concrete dam",
+   "period": null,
+   "language": null,
+   "n": 6,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "mass concrete foundation placement",
+   "period": null,
+   "language": null,
+   "n": 3,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "adiabatic temperature rise concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "title.search",
+   "query": "delayed ettringite formation mass concrete",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "search",
+   "query": "mass concrete heat generation cement type",
+   "period": ":1975",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "ordinary portland cement clinker phases",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "alite belite hydration kinetics",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "portland cement Bogue composition",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "cement fineness strength development",
+   "period": null,
+   "language": null,
+   "n": 17,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "cement sulfate optimum gypsum",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "clinker microstructure kiln",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "title.search",
+   "query": "portland cement history manufacture",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "binder-portland",
+   "mode": "search",
+   "query": "portland cement chemistry compounds",
+   "period": ":1950",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "steel fibre reinforced concrete flexural",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "polypropylene fibre concrete cracking",
+   "period": null,
+   "language": null,
+   "n": 16,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "fibre reinforced concrete fire spalling",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "fibre-matrix bond pullout concrete",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "macro synthetic fibers concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "glass fibre reinforced cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "title.search",
+   "query": "basalt fibre concrete",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "fly ash cement pozzolanic reaction",
+   "period": null,
+   "language": null,
+   "n": 21,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "class C fly ash concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "fly ash alkali-silica reaction mitigation",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "fly ash classification standard",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "high-calcium fly ash cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "title.search",
+   "query": "fly ash carbon content air entrainment",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "scm-flyash",
+   "mode": "search",
+   "query": "fly ash in concrete early use",
+   "period": ":1975",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "high performance concrete durability",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "ultra-high performance concrete mix design",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "high strength concrete autogenous shrinkage",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "HPC bridge decks",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "ultra-high performance concrete bridge connections",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "title.search",
+   "query": "high-strength concrete columns",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "metakaolin concrete properties",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay pozzolan reactivity",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay limestone cement durability",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined shale cement",
+   "period": null,
+   "language": null,
+   "n": 14,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay field trial concrete",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "concrete construction scheduling formwork",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "concrete pour sequence",
+   "period": null,
+   "language": null,
+   "n": 6,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "formwork pressure self-consolidating",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "concrete maturity method",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "concrete placing in cold weather",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "cross-construction",
+   "mode": "title.search",
+   "query": "construction joints concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "title.search",
+   "query": "concrete structure failure investigation",
+   "period": null,
+   "language": null,
+   "n": 8,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "title.search",
+   "query": "concrete forensic engineering",
+   "period": null,
+   "language": null,
+   "n": 12,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "title.search",
+   "query": "concrete bridge collapse cause",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "title.search",
+   "query": "reinforcement corrosion repair patch",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "title.search",
+   "query": "concrete structure condition assessment",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "cement industry regional market",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "cement imports tariff",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "cement production capacity country",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "regional aggregate availability concrete",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "cement industry United States history",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "title.search",
+   "query": "Midwest cement plant",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "heavyweight concrete radiation shielding",
+   "period": null,
+   "language": null,
+   "n": 18,
+   "errors": []
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "magnetite concrete density",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": []
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "high density concrete gamma",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": []
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "nuclear shielding concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "mortar cement lime masonry",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "masonry mortar strength bond",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "coloured concrete pigment",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "plastering mortar cement",
+   "period": null,
+   "language": null,
+   "n": 18,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "roller compacted concrete dam",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "roller compacted concrete pavement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "RCC mix design",
+   "period": null,
+   "language": null,
+   "n": 10,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "rollcrete cementitious content",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "RCC lift joint",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "mass",
+   "mode": "search",
+   "query": "concrete dam construction temperature history",
+   "period": ":1960",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-hpc",
+   "mode": "search",
+   "query": "high strength concrete early research",
+   "period": ":1990",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "search",
+   "query": "masonry mortar tests history",
+   "period": ":1960",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "cross-failure-repair",
+   "mode": "search",
+   "query": "concrete failures causes early reports",
+   "period": ":1960",
+   "language": null,
+   "n": 21,
+   "errors": []
+  },
+  {
+   "topic": "cross-supply-region",
+   "mode": "search",
+   "query": "cement industry survey report",
+   "period": ":1970",
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "search",
+   "query": "roller compacted concrete early dams",
+   "period": ":1995",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "concrete-fibers",
+   "mode": "search",
+   "query": "fibre reinforced concrete early investigations",
+   "period": ":1985",
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "search",
+   "query": "pozzolanic clays burnt",
+   "period": ":1970",
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "hormig\u00f3n armado fisuraci\u00f3n",
+   "period": null,
+   "language": "es",
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "concreto massa temperatura",
+   "period": null,
+   "language": "pt",
+   "n": 6,
+   "errors": []
+  },
+  {
+   "topic": "lang-de",
+   "mode": "title.search",
+   "query": "Flugasche Beton",
+   "period": null,
+   "language": "de",
+   "n": 8,
+   "errors": []
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "b\u00e9ton fibr\u00e9",
+   "period": null,
+   "language": "fr",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-ja",
+   "mode": "title.search",
+   "query": "\u30b3\u30f3\u30af\u30ea\u30fc\u30c8 \u3072\u3073\u5272\u308c",
+   "period": null,
+   "language": "ja",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u7c89\u7164\u7070 \u6df7\u51dd\u571f",
+   "period": null,
+   "language": "zh",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "cemento blanco",
+   "period": null,
+   "language": "es",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "argamassa de assentamento",
+   "period": null,
+   "language": "pt",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-de",
+   "mode": "title.search",
+   "query": "Massenbeton",
+   "period": null,
+   "language": "de",
+   "n": 16,
+   "errors": []
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "ciment portland clinker",
+   "period": null,
+   "language": "fr",
+   "n": 12,
+   "errors": []
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u0431\u0435\u0442\u043e\u043d \u0446\u0435\u043c\u0435\u043d\u0442",
+   "period": null,
+   "language": "ru",
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "lang-ko",
+   "mode": "title.search",
+   "query": "\ucf58\ud06c\ub9ac\ud2b8 \uade0\uc5f4",
+   "period": null,
+   "language": "ko",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-id",
+   "mode": "title.search",
+   "query": "beton serat",
+   "period": null,
+   "language": "id",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-it",
+   "mode": "title.search",
+   "query": "calcestruzzo cemento",
+   "period": null,
+   "language": "it",
+   "n": 6,
+   "errors": []
+  },
+  {
+   "topic": "lang-pl",
+   "mode": "title.search",
+   "query": "beton cement",
+   "period": null,
+   "language": "pl",
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete",
+   "period": "2026-11-21:",
+   "language": null,
+   "n": 11,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "cement",
+   "period": "2026-11-21:",
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "fly ash concrete",
+   "period": "2026-11-01:",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "calcined clay",
+   "period": "2026-11-01:",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "fibre reinforced concrete",
+   "period": "2026-11-01:",
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "mass concrete",
+   "period": "2026-10-01:",
+   "language": null,
+   "n": 25,
+   "errors": []
+  }
+ ],
+ "skippedRepeats": [
+  [
+   "concrete-hpc",
+   "reactive powder concrete",
+   null,
+   null
+  ],
+  [
+   "scm-clay",
+   "kaolinite thermal activation",
+   null,
+   null
+  ],
+  [
+   "cross-failure-repair",
+   "concrete deterioration case study",
+   null,
+   null
+  ],
+  [
+   "concrete-heavyweight",
+   "barite concrete",
+   null,
+   null
+  ],
+  [
+   "binder-white-masonry",
+   "white portland cement",
+   null,
+   null
+  ],
+  [
+   "binder-white-masonry",
+   "masonry cement",
+   null,
+   null
+  ]
+ ],
+ "chase": {
+  "seeds": 1549,
+  "seedsInOpenAlex": 1548,
+  "refs": 4157,
+  "refsFetched": 3984,
+  "backwardKept": 2368,
+  "forwardSeeds": [
+   "R1438",
+   "R1664",
+   "R1442",
+   "R3691",
+   "R285",
+   "R3228",
+   "R186",
+   "R1265",
+   "R1194",
+   "R3230",
+   "R1578",
+   "R1569",
+   "R1568",
+   "R2254",
+   "R3749",
+   "R1302",
+   "R264",
+   "R2218",
+   "R267",
+   "R2720",
+   "R2117",
+   "R3143",
+   "R1635",
+   "R3144",
+   "R1443",
+   "R4191",
+   "R4105",
+   "R4106",
+   "R4108",
+   "R4107",
+   "R4109",
+   "R4110",
+   "R4168",
+   "R4111",
+   "R4229"
+  ],
+  "forwardKept": 241
+ }
+}

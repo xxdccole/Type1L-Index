@@ -1,0 +1,1665 @@
+[
+ {
+  "title": "Chemically-bonded cementitious materials based on metakaolin",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2213467414",
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Chemically-bonded%20cementitious%20materials%20based%20on%20metakaolin",
+   "https://openlibrary.org/search.json?limit=10&title=Chemically-bonded%20cementitious%20materials%20based%20on%20metakaolin",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Chemically-bonded%20cementitious%20materials%20based%20on%20metakaolin",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AChemically-bonded%20cementitious%20materials%20based%20on%20metakaolin",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Chemically-bonded%20cementitious%20materials%20based%20on%20metakaolin"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Failure of plain and spirally reinforced concrete in compression",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/5270",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Failure of plain and spirally reinforced concrete in compression"
+    ],
+    "dc.creator": [
+     "Richart, Frank Erwin",
+     "Brandtzæg, Anton",
+     "Brown, Rex Lenoi"
+    ],
+    "dc.date.issued": [
+     "1929"
+    ],
+    "dc.subject": [
+     "Reinforced concrete."
+    ],
+    "dc.date.accessioned": [
+     "2008-03-31T17:27:14Z"
+    ],
+    "dc.publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "dc.relation.ispartof": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 190"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.type.genre": [
+     "Technical Report"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/4073"
+    ],
+    "dc.relation.hasversion": [
+     "http://hdl.handle.net/10111/UIUC:Archive/engineeringexperv00000i00190"
+    ],
+    "dc.rights": [
+     "Copyright 1929 Board of Trustees University of Illinois."
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/4073",
+     "https://hdl.handle.net/2142/4073"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/5270/bitstreams/20658/data.pdf"
+    ],
+    "citation_title": [
+     "Failure of plain and spirally reinforced concrete in compression"
+    ],
+    "citation_author": [
+     "Richart, Frank Erwin",
+     "Brandtzæg, Anton",
+     "Brown, Rex Lenoi"
+    ],
+    "citation_publication_date": [
+     "1929"
+    ],
+    "citation_keywords": [
+     "Reinforced concrete."
+    ],
+    "citation_online_date": [
+     "2008-03-31T17:27:14Z"
+    ],
+    "citation_publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "citation_journal_title": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 190"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Failure of plain and spirally reinforced concrete in compression | IDEALS"
+    ]
+   },
+   "snippet": "failure of plain and spirally reinforced concrete in compression ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search university of illinois urbana champaign academic units grainger college of engineering engineering experiment station bulletins engineering experiment station failure of plain and spirally reinforced concrete in compression withdraw loading failure of plai",
+   "evidenceFile": "ev/failureofplainandspirallyreinforcedconcr-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/5270']",
+   "direct https://hdl.handle.net/2142/4073 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1517072473",
+   "https://hdl.handle.net/api/handles/2142/4073",
+   "https://hdl.handle.net/2142/4073"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2142/4073",
+   "https://www.ideals.illinois.edu/handle/2142/4073",
+   "https://www.ideals.illinois.edu/items/5270"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Making Concrete \"Greener\" with Fly Ash",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20250206203103/https://trid.trb.org/view/504169",
+   "original": "https://trid.trb.org/view/504169",
+   "snapshot": "20250206203103",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "CO"
+    ],
+    "publication_date": [
+     "1999-05-00"
+    ],
+    "citation_title": [
+     "MAKING CONCRETE \"GREENER\" WITH FLY ASH"
+    ],
+    "citation_author": [
+     "Malhotra, V M"
+    ],
+    "citation_publication_date": [
+     "1999/05/00"
+    ],
+    "citation_journal_title": [
+     "Concrete International"
+    ],
+    "citation_issn": [
+     "0162-4075"
+    ],
+    "citation_volume": [
+     "21"
+    ],
+    "citation_issue": [
+     "5"
+    ],
+    "html_title": [
+     "MAKING CONCRETE \"GREENER\" WITH FLY ASH - TRID"
+    ]
+   },
+   "snippet": "making concrete greener with fly ash trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database making concrete greener with fly ash environmental issues will play a leading role in the sustainable development of the cement and concrete industry in the 21st century the world earth summits in rio de janeiro braz",
+   "evidenceFile": "ev/makingconcretegreenerwithflyash-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/504169 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20250206203103id_/https://trid.trb.org/view/504169 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2110758498",
+   "https://trid.trb.org/view/504169",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/504169",
+   "https://web.archive.org/web/20250206203103id_/https://trid.trb.org/view/504169"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/504169"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH PERFORMANCE HIGH VOLUME FLY ASH CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/721753 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/721753",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2112904804",
+   "https://trid.trb.org/view/721753",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/721753",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=HIGH%20PERFORMANCE%20HIGH%20VOLUME%20FLY%20ASH%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=HIGH%20PERFORMANCE%20HIGH%20VOLUME%20FLY%20ASH%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=HIGH%20PERFORMANCE%20HIGH%20VOLUME%20FLY%20ASH%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHIGH%20PERFORMANCE%20HIGH%20VOLUME%20FLY%20ASH%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=HIGH%20PERFORMANCE%20HIGH%20VOLUME%20FLY%20ASH%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/721753"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Fire Performance of High-Strength Concrete: A Report of the State-of-the-Art",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/5d2846513ef2f30fd35ff418cd84877fef6ee3b2",
+   "doi": "10.6028/nist.ir.5934",
+   "meta": {
+    "paperId": "5d2846513ef2f30fd35ff418cd84877fef6ee3b2",
+    "externalIds": {
+     "MAG": "2792201094",
+     "DOI": "10.6028/nist.ir.5934",
+     "CorpusId": 139841877
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/5d2846513ef2f30fd35ff418cd84877fef6ee3b2",
+    "title": "Fire Performance of High-Strength Concrete: A Report of the State-of-the-Art",
+    "venue": "",
+    "year": 2018,
+    "authors": [
+     {
+      "authorId": "47114356",
+      "name": "L. Phan"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete -> 200 match=0.00",
+   "direct https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.477.845 -> 429 match=0.00",
+   "wayback none for openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+   "wayback none for citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.477.845",
+   "cinii opensearch: 3 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 5d2846513ef2f30fd35ff418cd84877fef6ee3b2"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2792201094",
+   "https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+   "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.477.845",
+   "https://archive.org/wayback/available?url=openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+   "https://archive.org/wayback/available?url=citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.477.845",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Fire%20Performance%20of%20High-Strength%20Concrete%3A%20A%20Report%20of%20the%20State-of-the-Art",
+   "https://openlibrary.org/search.json?limit=10&title=Fire%20Performance%20of%20High-Strength%20Concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Fire%20Performance%20of%20High-Strength%20Concrete%3A%20A%20Report%20of%20the%20State-of-the-Art",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFire%20Performance%20of%20High-Strength%20Concrete%3A%20A%20Report%20of%20the%20State-of-the-Art",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Fire%20Performance%20of%20High-Strength%20Concrete%3A%20A%20Report%20of%20the%20State-of-the-Art"
+  ],
+  "urls": [
+   "https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.477.845"
+  ],
+  "doi": null
+ },
+ {
+  "title": "High-Performance Concrete Defined For Highway Structures",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1571417126671734784",
+   "match": 1.0,
+   "meta": {
+    "title": "High-Performance Concrete Defined for Highway Structures",
+    "dc:creator": [
+     "GOODSPEED C. H."
+    ],
+    "prism:publicationName": "Concrete International",
+    "prism:publicationDate": "1996",
+    "prism:volume": "18",
+    "prism:number": "2",
+    "prism:startingPage": "62",
+    "prism:endingPage": "67",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "80008807993"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/483569 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/483569",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2188177001",
+   "https://trid.trb.org/view/483569",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/483569",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=High-Performance%20Concrete%20Defined%20For%20Highway%20Structures"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/483569"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Activación alcalina de metacaolín: desarrollo de nuevos materiales cementantes",
+  "result": {
+   "route": "dspace7-rest",
+   "url": "https://hdl.handle.net/10486/667803",
+   "apiUrl": "https://repositorio.uam.es/server/api/pid/find?id=hdl:10486/667803",
+   "landing": "https://repositorio.uam.es/handle/10486/667803",
+   "meta": {
+    "dc.contributor.advisor": [
+     "Blanco Varela, María Teresa"
+    ],
+    "dc.contributor.author": [
+     "Granizo Fernández, María Luz"
+    ],
+    "dc.contributor.externals": [
+     "CSIC. Instituto de Ciencias de la Construcción Eduardo Torroja (IETcc)"
+    ],
+    "dc.contributor.other": [
+     "Departamento de Química Física Aplicada",
+     "Facultad de Ciencias"
+    ],
+    "dc.date.accessioned": [
+     "2015-09-04T09:04:46Z"
+    ],
+    "dc.date.available": [
+     "2015-09-04T09:04:46Z"
+    ],
+    "dc.date.issued": [
+     "1998-11-27"
+    ],
+    "dc.description": [
+     "Tesis doctoral inédita leída en la Universidad Autónoma de Madrid, Facultad de Ciencias, Departamento de Química Física Aplicada. Fecha de lectura: 27-11-1998"
+    ],
+    "dc.identifier.uri": [
+     "http://hdl.handle.net/10486/667803"
+    ],
+    "dc.language.iso": [
+     "spa"
+    ],
+    "dc.subject.eciencia": [
+     "Química"
+    ],
+    "dc.subject.other": [
+     "Cemento-Tesis doctorales"
+    ],
+    "dc.title": [
+     "Activación alcalina de metacaolín: desarrollo de nuevos materiales cementantes"
+    ],
+    "dc.type": [
+     "doctoral thesis"
+    ],
+    "abstract": ""
+   },
+   "evidenceFile": "ev/activacionalcalinademetacaolindesarrollo-dspace.json"
+  },
+  "log": [
+   "handle API -> ['https://repositorio.uam.es/handle/10486/667803']",
+   "handle API -> ['https://repositorio.uam.es/handle/10486/667803']",
+   "direct https://hdl.handle.net/10486/667803 -> 404 match=0.00",
+   "direct https://hdl.handle.net/10486/667803 -> 404 match=0.00",
+   "direct https://repositorio.uam.es/bitstream/10486/667803/1/granizo_fernandez__ma_luz.pdf -> 404 match=0.00",
+   "direct https://repositorio.uam.es/handle/10486/667803 -> 404 match=0.00",
+   "wayback none for hdl.handle.net/10486/667803",
+   "wayback none for hdl.handle.net/10486/667803",
+   "wayback none for repositorio.uam.es/bitstream/10486/667803/1/granizo_fernandez__ma_luz.pdf",
+   "wayback https://web.archive.org/web/20260909222250id_/https://repositorio.uam.es/handle/10486/667803 -> 200 match=0.00",
+   "dspace7 rest https://repositorio.uam.es/server/api/pid/find?id=hdl:10486/667803: 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2224259310",
+   "https://hdl.handle.net/api/handles/10486/667803",
+   "https://hdl.handle.net/api/handles/10486/667803",
+   "https://hdl.handle.net/10486/667803",
+   "https://hdl.handle.net/10486/667803",
+   "https://repositorio.uam.es/bitstream/10486/667803/1/granizo_fernandez__ma_luz.pdf",
+   "https://repositorio.uam.es/handle/10486/667803",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10486/667803",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10486/667803",
+   "https://archive.org/wayback/available?url=repositorio.uam.es/bitstream/10486/667803/1/granizo_fernandez__ma_luz.pdf",
+   "https://archive.org/wayback/available?url=repositorio.uam.es/handle/10486/667803",
+   "https://web.archive.org/web/20260909222250id_/https://repositorio.uam.es/handle/10486/667803",
+   "https://repositorio.uam.es/server/api/pid/find?id=hdl:10486/667803"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10486/667803",
+   "http://hdl.handle.net/10486/667803",
+   "https://repositorio.uam.es/bitstream/10486/667803/1/granizo_fernandez__ma_luz.pdf",
+   "https://repositorio.uam.es/handle/10486/667803"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE INFLUENCE OF PULVERIZED-FUEL ASH UPON THE HYDRATION CHARACTERISTICS AND CERTAIN PHYSICAL PROPERTIES OF A PORTLAND CEMENT PASTE",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1570291224609273344",
+   "match": 1.0,
+   "meta": {
+    "title": "The influence of pulverized-fuel ash upon the hydration characteristics and certain physical properties of a Portland cement paste",
+    "dc:creator": [
+     "DALZIEL J. A."
+    ],
+    "prism:publicationName": "Cement and Concrete Association technicall report",
+    "prism:publicationDate": "1986",
+    "prism:volume": "560",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "10007799071"
+     }
+    ]
+   }
+  },
+  "log": [
+   "handle API -> none",
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/638843 -> 500 match=0.00",
+   "direct https://hdl.handle.net/10068/638843 -> 500 match=0.00",
+   "direct https://trid.trb.org/view/278642 -> 000 match=0.00",
+   "wayback none for hdl.handle.net/10068/638843",
+   "wayback none for hdl.handle.net/10068/638843",
+   "wayback none for trid.trb.org/view/278642",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W635981024",
+   "https://hdl.handle.net/api/handles/10068/638843",
+   "https://hdl.handle.net/api/handles/10068/638843",
+   "https://hdl.handle.net/10068/638843",
+   "https://hdl.handle.net/10068/638843",
+   "https://trid.trb.org/view/278642",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/638843",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/638843",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/278642",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=THE%20INFLUENCE%20OF%20PULVERIZED-FUEL%20ASH%20UPON%20THE%20HYDRATION%20CHARACTERISTICS%20AND%20CERTAIN%20PHYSICAL%20PROPERTIES%20OF%20A%20PORTLAND%20CEMENT%20PASTE"
+  ],
+  "urls": [
+   "https://hdl.handle.net/10068/638843",
+   "http://hdl.handle.net/10068/638843",
+   "https://trid.trb.org/view/278642"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Low-Calcium fly ash-based geopolymer concrete: Long-term properties",
+  "result": null,
+  "log": [
+   "handle API -> ['https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752']",
+   "handle API -> ['https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752']",
+   "direct https://hdl.handle.net/20.500.11937/34322 -> 403 match=0.00",
+   "direct https://hdl.handle.net/20.500.11937/34322 -> 403 match=0.00",
+   "direct https://www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf -> 200 match=0.00",
+   "direct https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752 -> 403 match=0.00",
+   "wayback none for hdl.handle.net/20.500.11937/34322",
+   "wayback none for hdl.handle.net/20.500.11937/34322",
+   "wayback https://web.archive.org/web/20250820003159id_/http://www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf -> 200 match=0.00",
+   "wayback none for curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752",
+   "dspace7 rest https://curate.curtin.edu.au/server/api/pid/find?id=hdl:20.500.11937/34322: None",
+   "dspace7 rest https://curate.curtin.edu.au/server/api/pid/find?id=hdl:20.500.11937/34322: None",
+   "cinii opensearch: 2 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2294449953",
+   "https://hdl.handle.net/api/handles/20.500.11937/34322",
+   "https://hdl.handle.net/api/handles/20.500.11937/34322",
+   "https://hdl.handle.net/20.500.11937/34322",
+   "https://hdl.handle.net/20.500.11937/34322",
+   "https://www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf",
+   "https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752",
+   "https://archive.org/wayback/available?url=hdl.handle.net/20.500.11937/34322",
+   "https://archive.org/wayback/available?url=hdl.handle.net/20.500.11937/34322",
+   "https://archive.org/wayback/available?url=www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf",
+   "https://web.archive.org/web/20250820003159id_/http://www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf",
+   "https://archive.org/wayback/available?url=curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752",
+   "https://curate.curtin.edu.au/server/api/pid/find?id=hdl:20.500.11937/34322",
+   "https://curate.curtin.edu.au/server/api/pid/find?id=hdl:20.500.11937/34322",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Low-Calcium%20fly%20ash-based%20geopolymer%20concrete%3A%20Long-term%20properties",
+   "https://openlibrary.org/search.json?limit=10&title=Low-Calcium%20fly%20ash-based%20geopolymer%20concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Low-Calcium%20fly%20ash-based%20geopolymer%20concrete%3A%20Long-term%20properties",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ALow-Calcium%20fly%20ash-based%20geopolymer%20concrete%3A%20Long-term%20properties",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Low-Calcium%20fly%20ash-based%20geopolymer%20concrete%3A%20Long-term%20properties"
+  ],
+  "urls": [
+   "https://hdl.handle.net/20.500.11937/34322",
+   "http://hdl.handle.net/20.500.11937/34322",
+   "https://www.geopolymer.org/dl/?get=curtin_flyash_GC-2.pdf",
+   "https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Preliminary report on portland cement materials in Illinois",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/42842",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Preliminary report on portland cement materials in Illinois"
+    ],
+    "dc.creator": [
+     "Lamar, John Everts",
+     "Machin, J.S.",
+     "Voskuil, W.H.",
+     "Willman, H.B."
+    ],
+    "dc.date.issued": [
+     "1956"
+    ],
+    "dc.subject": [
+     "Portland cement.",
+     "Cement industries"
+    ],
+    "dc.date.accessioned": [
+     "2013-03-29T20:14:43Z"
+    ],
+    "dc.coverage.spatial": [
+     "Illinois."
+    ],
+    "dc.publisher": [
+     "Urbana,"
+    ],
+    "dc.relation.ispartof": [
+     "Report of investigations no. 195"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/42898"
+    ],
+    "dc.relation.hasversion": [
+     "http://hdl.handle.net/10111/UIUCOCA:preliminaryrepor195lama",
+     "http://www.archive.org/details/preliminaryrepor195lama"
+    ],
+    "dc.rights": [
+     "Public domain. Illinois state government document.",
+     "Copyright 1956 Board of Trustees University of Illinois."
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/42898",
+     "https://hdl.handle.net/2142/42898"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/42842/bitstreams/128669/data.pdf"
+    ],
+    "citation_title": [
+     "Preliminary report on portland cement materials in Illinois"
+    ],
+    "citation_author": [
+     "Lamar, John Everts",
+     "Machin, J.S.",
+     "Voskuil, W.H.",
+     "Willman, H.B."
+    ],
+    "citation_publication_date": [
+     "1956"
+    ],
+    "citation_keywords": [
+     "Portland cement.",
+     "Cement industries"
+    ],
+    "citation_online_date": [
+     "2013-03-29T20:14:43Z"
+    ],
+    "citation_publisher": [
+     "Urbana,"
+    ],
+    "citation_journal_title": [
+     "Report of investigations no. 195"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Preliminary report on portland cement materials in Illinois | IDEALS"
+    ]
+   },
+   "snippet": "preliminary report on portland cement materials in illinois ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search university of illinois urbana champaign academic units prairie research institute illinois state geological survey isgs report of investigations illinois state geological survey preliminary report on portland cement materials in illinois withdraw loading prelim",
+   "evidenceFile": "ev/preliminaryreportonportlandcementmateria-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/42842']",
+   "direct https://hdl.handle.net/2142/42898 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7220791828",
+   "https://hdl.handle.net/api/handles/2142/42898",
+   "https://hdl.handle.net/2142/42898"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2142/42898",
+   "https://www.ideals.illinois.edu/items/42842/bitstreams/128669/data.pdf",
+   "https://www.ideals.illinois.edu/items/42842"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Handbuch Flugasche im Beton: Grundlagen der Herstellung und Verwendung",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240909115031/https://publications.rwth-aachen.de/record/49215",
+   "original": "https://publications.rwth-aachen.de/record/49215",
+   "snapshot": "20240909115031",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Lutze, Dietmar; vom Berg, Wolfgang; Dohrmann, N.; Heinz, D.; Hohberg, Inga; Hugot, A.; Mengede, M.; Pierkes, Roland; Schneider, E.; Wiens, Udo"
+    ],
+    "html_title": [
+     "Handbuch Flugasche im Beton : Grundlagen der Herstellung und Verwendung - RWTH Publications"
+    ]
+   },
+   "snippet": "handbuch flugasche im beton grundlagen der herstellung und verwendung rwth publications h1 h2 h3 h4 h5 h6 rwth publications english deutsch guest login search submit personalize your alerts your baskets your searches your personal authority record help information references 0 discussion 0 files http join2 wiki gsi de foswiki pub main artwork join2 logo100x88 png handbuch flugasche im beton grundlagen der herstellung und verwendung lutze dietmar editor vom berg wolfgang editor dohrmann n editor heinz d editor hohberg inga editor hugot a editor mengede m editor pierkes roland editor schneider e",
+   "evidenceFile": "ev/handbuchflugascheimbetongrundlagenderher-wb.html"
+  },
+  "log": [
+   "direct https://publications.rwth-aachen.de/record/49215 -> 200 match=0.00",
+   "direct https://publications.rwth-aachen.de/record/49215 -> 200 match=0.00",
+   "direct https://mediatum.ub.tum.de/1274653 -> 429 match=0.00",
+   "wayback https://web.archive.org/web/20240909115031id_/https://publications.rwth-aachen.de/record/49215 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W609418186",
+   "https://publications.rwth-aachen.de/record/49215",
+   "https://publications.rwth-aachen.de/record/49215",
+   "https://mediatum.ub.tum.de/1274653",
+   "https://archive.org/wayback/available?url=publications.rwth-aachen.de/record/49215",
+   "https://web.archive.org/web/20240909115031id_/https://publications.rwth-aachen.de/record/49215"
+  ],
+  "urls": [
+   "https://publications.rwth-aachen.de/record/49215",
+   "http://publications.rwth-aachen.de/record/49215",
+   "https://mediatum.ub.tum.de/1274653"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Einfluss von Flugasche auf den Frost-Tausalz-Widerstand von Beton : ergänzende Untersuchungen für Selbstverdichtende Betone mit hohem Flugaschegehalt",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20251207161402/https://publications.rwth-aachen.de/record/47774",
+   "original": "https://publications.rwth-aachen.de/record/47774",
+   "snapshot": "20251207161402",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Brameshuber, Wolfgang; Bohnemann, Carsten; Uebachs, Stephan"
+    ],
+    "html_title": [
+     "Einfluss von Flugasche auf den Frost-Tausalz-Widerstand von Beton : ergänzende Untersuchungen für Selbstverdichtende Betone mit hohem Flugaschegehalt - RWTH Publications"
+    ]
+   },
+   "snippet": "einfluss von flugasche auf den frost tausalz widerstand von beton erganzende untersuchungen fur selbstverdichtende betone mit hohem flugaschegehalt rwth publications h1 h2 h3 h4 h5 h6 rwth publications english deutsch guest login search submit personalize your alerts your baskets your searches your personal authority record help information references 0 discussion 0 files http join2 wiki gsi de foswiki pub main artwork join2 logo100x88 png einfluss von flugasche auf den frost tausalz widerstand von beton erganzende untersuchungen fur selbstverdichtende betone mit hohem flugaschegehalt the infl",
+   "evidenceFile": "ev/einflussvonflugascheaufdenfrosttausalzwi-wb.html"
+  },
+  "log": [
+   "direct https://publications.rwth-aachen.de/record/47774 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20251207161402id_/https://publications.rwth-aachen.de/record/47774 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2948971567",
+   "https://publications.rwth-aachen.de/record/47774",
+   "https://archive.org/wayback/available?url=publications.rwth-aachen.de/record/47774",
+   "https://web.archive.org/web/20251207161402id_/https://publications.rwth-aachen.de/record/47774"
+  ],
+  "urls": [
+   "https://publications.rwth-aachen.de/record/47774"
+  ],
+  "doi": null
+ },
+ {
+  "title": "UNTERSUCHUNGEN VON MASSENBETON IN DER TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/5a42e24cfde4fe0be30595520ea11adec5a4cf41",
+   "doi": null,
+   "meta": {
+    "paperId": "5a42e24cfde4fe0be30595520ea11adec5a4cf41",
+    "externalIds": {
+     "MAG": "592266944",
+     "CorpusId": 106544325
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/5a42e24cfde4fe0be30595520ea11adec5a4cf41",
+    "title": "UNTERSUCHUNGEN VON MASSENBETON IN DER TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+    "venue": "",
+    "year": 1990,
+    "authors": [
+     {
+      "authorId": "91805478",
+      "name": "K. Schoeppel"
+     },
+     {
+      "authorId": "2102149082",
+      "name": "R. Breitenbuecher"
+     },
+     {
+      "authorId": "91499616",
+      "name": "R. Springenschmid"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1011737 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1011737",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 5a42e24cfde4fe0be30595520ea11adec5a4cf41"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W592266944",
+   "https://trid.trb.org/view/1011737",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1011737",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=UNTERSUCHUNGEN%20VON%20MASSENBETON%20IN%20DER%20TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+   "https://openlibrary.org/search.json?limit=10&title=UNTERSUCHUNGEN%20VON%20MASSENBETON%20IN%20DER%20TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=UNTERSUCHUNGEN%20VON%20MASSENBETON%20IN%20DER%20TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AUNTERSUCHUNGEN%20VON%20MASSENBETON%20IN%20DER%20TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=UNTERSUCHUNGEN%20VON%20MASSENBETON%20IN%20DER%20TEMPERATURSPANNUNGS-PRUEFMASCHINE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1011737"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Estudio de compuestos cementíceos reforzados con fibras vegetales: Evaluación previa del comportamiento de un panel de cemento blanco con adición de meta-caolín reforzado con un textil no-tejido de fibras largas de lino y cáñamo",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20241106081529/https://upcommons.upc.edu/handle/2099.1/25365",
+   "original": "https://upcommons.upc.edu/handle/2099.1/25365",
+   "snapshot": "20241106081529",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Zamora i Mestre, Joan-Lluís",
+     "Fernández Carrasco, Lucía",
+     "Claramunt Blanes, Josep",
+     "Universitat Politècnica de Catalunya. Departament d'Enginyeria de la Construcció",
+     "Universitat Politècnica de Catalunya. Departament d'Estructures a l'Arquitectura",
+     "Universitat Politècnica de Catalunya. Departament de Construccions Arquitectòniques I"
+    ],
+    "DC.creator": [
+     "Llerena Encalada, Ana"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2015-02-26T17:31:46Z"
+    ],
+    "DCTERMS.available": [
+     "2015-02-26T17:31:46Z"
+    ],
+    "DCTERMS.issued": [
+     "2014-12"
+    ],
+    "DC.identifier": [
+     "http://hdl.handle.net/2099.1/25365"
+    ],
+    "DCTERMS.abstract": [
+     "Hoy en día todos los materiales de construcción están en\r\ncontinua investigación, en busca de mejorar sus prestaciones.\r\nSin duda el cemento y los materiales de construcción generados\r\na partir de él, han estado en continua evolución. Una de ellas\r\nse dio hace pocas décadas, cuando en un afán por sustituir las\r\nfibras dañinas de asbesto en los fibrocementos se empezó la\r\nbúsqueda de nuevas alternativas.\r\nEs así como se da la inserción de las fibras de acero, fibras de\r\nvidrio resistentes a los álcalis, fibras de PVA, fibras de carbono,\r\netc. Demostrando que mejoraban el rendimiento del material en\r\ncuanto a ductilidad, resistencia a flexión, resistencia a tracción,\r\ndureza, resistencia al impacto y capacidad de absorción de\r\nenergía.\r\nSin embargo, hoy en día existen nuevos criterios a ser\r\nconsiderados, tales como: sostenibilidad, disponibilidad en\r\nel medio, reciclabilidad, bajo consumo de energía y poca\r\nemisión de CO2 en los procesos de producción, entre otros.\r\nTodos ellos enfocados a obtener productos de bajo impacto y\r\namigables con el medio ambiente.\r\nEn respuesta a ello las fibras vegetales son económicas,\r\nabundantes (en la mayoría del planeta) y provienen de fuentes\r\nrenovables, constituyendo una muy buena opción para reforzar\r\ncompuestos cementíceos.\r\nPese a muchas investigaciones realizadas, las fibras vegetales\r\naún no se logran incorporar plenamente en los fibrocementos\r\ndisponibles en el mercado, debido a su poca durabilidad en\r\nel compuesto. Las fibras al estar en un medio alcalino como el cemento se deterioran y pierden su capacidad de refuerzo,\r\nllegando en algunos casos a anularse por completo.\r\nExisten dos maneras actuar para mejorar la durabilidad de los\r\ncompuestos: en su matriz y/o en su refuerzo (fibras vegetales).\r\nEn este Trabajo de Fin de Máster, se plantea la elaboración de\r\npaneles para fachada, realizados con cemento portland blanco\r\ny reforzados con un textil no-tejido de fibras de lino y cáñamo,\r\nque permita incorporar el mayor volumen de fibras largas\r\nsin que estas se enreden. Se pretende mejorar la durabilidad\r\ndel compuesto a través de: reducir la alcalinidad de la matriz\r\ncon el uso de una adición puzolánica, como el metacaolín; y\r\nmejorar el refuerzo mediante un tratamiento previo de “lavado\r\ny cornificación”, para optimar la adherencia fibra-matriz.\r\nCon este esquema, se elaboran 6 paneles blancos y 1 panel\r\namarillo, los cuales son sometidos a ensayos de durabilidad\r\ny caracterización, basado en la normativa vigente (UNE EN\r\n12467:2013).",
+     "Today the materials of construction are in continuous research,\r\nseeking to improve their performance.\r\nCertainly the cement and building materials generated from it,\r\nhave been in continuous evolution. One of them occurred a\r\nfew decades ago, when in an effort to replace harmful asbestos\r\nfibers in the fiber-cements started seeking new alternatives.\r\nThis is one of the reason that the insertion of steel fibers, glass\r\nfibers resistant to alkali, PVA fibers, carbon fibers, etc. have\r\nbeen taking place. It was proved that these types of materials\r\nhave enhance the performance in terms of ductility, flexural\r\nstrength, tensile strength, toughness, impact resistance and\r\nenergy absorption capacity.\r\nHowever, nowadays there is a new criteria to be considered, such\r\nas sustainability, availability in the environment, recyclability, low\r\npower consumption and low CO2 emissions in the processes\r\nof production, among others. All of them focused on obtaining\r\nproducts with low impact and eco-friendly.\r\nIn response vegetable fibers are inexpensive, abundant (in the\r\nmajor part of the planet) and come from renewable sources,\r\nconstituting a very good option to reinforcement the cement\r\ncomposites.\r\nIn spite of many investigations, the vegetal fibers still have not\r\nbeen completely incorporated into the fiber-cements in the\r\nmarket, for its lack of durability. Due to the alkalinity of the\r\nmatrix, the fibers lose their reinforcement ability and in some\r\ncases they lose all their capacity.\r\nThere are two ways to improve the durability of the composites:\r\nin the matrix and/or in their reinforcement (vegetal fibers).\r\nIn this Final Master’s Project, this research is based of the\r\ndevelopment of façade panels, made with white portland\r\ncement and reinforcement with a non-woven of flax and\r\nhemp, so these give us the hability of include major volume\r\nof long fibers without tangling. Aims to improve the durability\r\nof the composite by: reducing alkalinity of the matrix with the\r\naddition of a pozzolanic, as the metakaolin; and improve the\r\nreinforcement by a pretreatment of “washing and hornification”,\r\nto optimize the fiber-matrix adhesion.\r\nIn this Project were manufactured 6 white panels and 1\r\nyellow panel, which are subjected to durability testing and\r\ncharacterization, based on current regulations (UNE EN\r\n12467:2013)."
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.publisher": [
+     "Universitat Politècnica de Catalunya"
+    ],
+    "DC.rights": [
+     "Attribution-NonCommercial-ShareAlike 3.0 Spain",
+     "http://creativecommons.org/licenses/by-nc-sa/3.0/es/",
+     "Open Access"
+    ],
+    "DC.subject": [
+     "Àrees temàtiques de la UPC::Arquitectura::Arquitectura sostenible",
+     "Àrees temàtiques de la UPC::Edificació::Materials de construcció::Ciment",
+     "Asbestos cement",
+     "Plant fibers",
+     "Materials -- Testing",
+     "Fibrocemento",
+     "Cemento",
+     "Fibras Vegetales",
+     "Lino",
+     "Cáñamo",
+     "Metacaolín",
+     "No-tejido",
+     "Fibercement",
+     "Cement",
+     "Vegetal Fiber",
+     "Flax",
+     "Hemp",
+     "Metakaolin",
+     "Non-woven",
+     "Asbest-ciment",
+     "Fibres vegetals",
+     "Assaigs de materials"
+    ],
+    "DC.title": [
+     "Estudio de compuestos cementíceos reforzados con fibras vegetales: Evaluación previa del comportamiento de un panel de cemento blanco con adición de meta-caolín reforzado con un textil no-tejido de fibras largas de lino y cáñamo"
+    ],
+    "DC.type": [
+     "Master thesis"
+    ],
+    "html_title": [
+     "Estudio de compuestos cementíceos reforzados con fibras vegetales: Evaluación previa del comportamiento de un panel de cemento blanco con adición de meta-caolín reforzado con un textil no-tejido de fibras largas de lino y cáñamo"
+    ]
+   },
+   "snippet": "estudio de compuestos cementiceos reforzados con fibras vegetales evaluacion previa del comportamiento de un panel de cemento blanco con adicion de meta caolin reforzado con un textil no tejido de fibras largas de lino y canamo ir al contenido pulsa retorno catala castellano english login register log in no upc users toggle navigation mail contact us world english catala castellano english user login login register log in no upc users toggle navigation upcommons global access to upc knowledge 73 006 upc academic works you are here view item dspace home treballs academics masters oficials maste",
+   "evidenceFile": "ev/estudiodecompuestoscementiceosreforzados-wb.html"
+  },
+  "log": [
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/25365']",
+   "handle API -> ['https://upcommons.upc.edu/handle/2099.1/25365']",
+   "direct https://hdl.handle.net/2099.1/25365 -> 418 match=0.00",
+   "direct https://hdl.handle.net/2099.1/25365 -> 418 match=0.00",
+   "direct https://upcommons.upc.edu/bitstream/2099.1/25365/1/20141210%20TFM%20Ana%20Llerena.pdf -> 418 match=0.00",
+   "direct https://upcommons.upc.edu/handle/2099.1/25365 -> 418 match=0.00",
+   "wayback none for hdl.handle.net/2099.1/25365",
+   "wayback none for hdl.handle.net/2099.1/25365",
+   "wayback none for upcommons.upc.edu/bitstream/2099.1/25365/1/20141210%20TFM%20Ana%20Llerena.pdf",
+   "wayback https://web.archive.org/web/20241106081529id_/https://upcommons.upc.edu/handle/2099.1/25365 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W210849655",
+   "https://hdl.handle.net/api/handles/2099.1/25365",
+   "https://hdl.handle.net/api/handles/2099.1/25365",
+   "https://hdl.handle.net/2099.1/25365",
+   "https://hdl.handle.net/2099.1/25365",
+   "https://upcommons.upc.edu/bitstream/2099.1/25365/1/20141210%20TFM%20Ana%20Llerena.pdf",
+   "https://upcommons.upc.edu/handle/2099.1/25365",
+   "https://archive.org/wayback/available?url=hdl.handle.net/2099.1/25365",
+   "https://archive.org/wayback/available?url=hdl.handle.net/2099.1/25365",
+   "https://archive.org/wayback/available?url=upcommons.upc.edu/bitstream/2099.1/25365/1/20141210%20TFM%20Ana%20Llerena.pdf",
+   "https://archive.org/wayback/available?url=upcommons.upc.edu/handle/2099.1/25365",
+   "https://web.archive.org/web/20241106081529id_/https://upcommons.upc.edu/handle/2099.1/25365"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2099.1/25365",
+   "http://hdl.handle.net/2099.1/25365",
+   "https://upcommons.upc.edu/bitstream/2099.1/25365/1/20141210%20TFM%20Ana%20Llerena.pdf",
+   "https://upcommons.upc.edu/handle/2099.1/25365"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260920072851/https://publications.polymtl.ca/811/",
+   "original": "https://publications.polymtl.ca/811/",
+   "snapshot": "20260920072851",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.relation": [
+     "https://publications.polymtl.ca/811/"
+    ],
+    "DC.title": [
+     "Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques"
+    ],
+    "DC.creator": [
+     "Delsol, Sébastien"
+    ],
+    "DC.date": [
+     "2012-04"
+    ],
+    "DC.type": [
+     "Mémoire ou thèse",
+     "NonPeerReviewed"
+    ],
+    "DC.format": [
+     "text"
+    ],
+    "DC.language": [
+     "fr"
+    ],
+    "DC.rights": [
+     "copyright"
+    ],
+    "DC.identifier": [
+     "https://publications.polymtl.ca/811/1/2012_SebastienDelsol.pdf",
+     "Delsol, S. (2012). Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques  [Mémoire de maîtrise, École Polytechnique de Montréal]."
+    ],
+    "html_title": [
+     "Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques - PolyPublie"
+    ]
+   },
+   "snippet": "evaluation du coefficient d orientation dans les betons renforces de fibres metalliques polypublie retour au portail polytechnique montreal english accueil a propos polypublie repertoire des publications deposer memoires et theses articles et autres parcourir liste par annee liste par auteur ou autrice liste par directeur ou directrice liste par departement liste par centre de recherche liste par type de document chercher recherche de base recherche avancee se connecter evaluation du coefficient d orientation dans les betons renforces de fibres metalliques sebastien delsol memoire de maitrise ",
+   "evidenceFile": "ev/evaluationducoefficientdorientationdansl-wb.html"
+  },
+  "log": [
+   "direct https://publications.polymtl.ca/811/ -> 200 match=0.00",
+   "direct https://publications.polymtl.ca/811/1/2012_SebastienDelsol.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260920072851id_/https://publications.polymtl.ca/811/ -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2276956074",
+   "https://publications.polymtl.ca/811/",
+   "https://publications.polymtl.ca/811/1/2012_SebastienDelsol.pdf",
+   "https://archive.org/wayback/available?url=publications.polymtl.ca/811/",
+   "https://web.archive.org/web/20260920072851id_/https://publications.polymtl.ca/811/"
+  ],
+  "urls": [
+   "https://publications.polymtl.ca/811/",
+   "https://publications.polymtl.ca/811/1/2012_SebastienDelsol.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Bétons renforcés de fibres métalliques du matériau à la structure",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20200530063317/https://infoscience.epfl.ch/record/26758",
+   "original": "https://infoscience.epfl.ch/record/26758",
+   "snapshot": "20200530063317",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "CASANOVA, Pascal"
+    ],
+    "html_title": [
+     "Bétons renforcés de fibres métalliques du matériau à la structure - Infoscience"
+    ]
+   },
+   "snippet": "betons renforces de fibres metalliques du materiau a la structure infoscience english francais search personalize your alerts your baskets your searches your alerts your baskets your searches browse collections help english francais login login home betons renforces de fibres metalliques du materiau a la structure information usage statistics files betons renforces de fibres metalliques du materiau a la structure casanova pascal year 1996 publisher paris lcpc isbn 2 7208 2490 x keywords beton laboratories biblms record appears in documentary resources lmr lms library books export as bibtex mar",
+   "evidenceFile": "ev/betonsrenforcesdefibresmetalliquesdumate-wb.html"
+  },
+  "log": [
+   "direct https://infoscience.epfl.ch/record/26758 -> 200 match=0.00",
+   "direct https://infoscience.epfl.ch/record/26758 -> 200 match=0.00",
+   "direct https://trid.trb.org/view/997532 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20200530063317id_/https://infoscience.epfl.ch/record/26758 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1820305585",
+   "https://infoscience.epfl.ch/record/26758",
+   "https://infoscience.epfl.ch/record/26758",
+   "https://trid.trb.org/view/997532",
+   "https://archive.org/wayback/available?url=infoscience.epfl.ch/record/26758",
+   "https://web.archive.org/web/20200530063317id_/https://infoscience.epfl.ch/record/26758"
+  ],
+  "urls": [
+   "https://infoscience.epfl.ch/record/26758",
+   "http://infoscience.epfl.ch/record/26758",
+   "https://trid.trb.org/view/997532"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Pengaruh Penambahan Serat Polypropylene Terhadap Sifat Mekanis Beton Normal",
+  "result": {
+   "route": "direct",
+   "url": "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "This research studies the mechanical properties of polypropylene concrete consist of compressive strength, modulus of elasticity, splitting tensile strength, flexural strength and deflection. Polypro…"
+    ],
+    "DC.identifier": [
+     "https://media.neliti.com/media/publications/201178-pengaruh-penambahan-serat-polypropylene.pdf"
+    ],
+    "DC.type": [
+     "Journal:eArticle"
+    ],
+    "DC.date": [
+     "2015-10"
+    ],
+    "DC.title": [
+     "Pengaruh Penambahan Serat Polypropylene terhadap Sifat Mekanis Beton Normal"
+    ],
+    "DC.description": [
+     "This research studies the mechanical properties of polypropylene concrete consist of compressive strength, modulus of elasticity, splitting tensile strength, flexural strength and deflection. Polypropylene fiber is a kind of plastic fiber that specially produced with high technology. Application of this polypropylene fiber aim to improve the mechanical propertiesof normal concrete. The specimens are cylinder and beam shapes. The variety that use is additional of polypropylene fiber at 0,0 kg/m3, 0,2 kg/m3, 0,4 kg/m3, 0,6 kg/m3, 0,8 kg/m3 and 1,0 kg/m3. The result of research shows that highest compressive strength and modulus of elasticity of concrete occurred at 0,4 kg/m3 polypropylene various. Highest splitting tensile strength and flexural strength of concrete occurs at 1,0 kg/m3 polypropylene fiber various. In generally, deflection test shows improvement within addition of polypropylene fiber. According to the result of research, additional polypropylene fiber into concrete mixture can improve the mechanical properties of concrete, especially compressive strength, modulus of elasticity, splitting tensile strength and deflection of concrete."
+    ],
+    "DC.language": [
+     "id"
+    ],
+    "DC.creator": [
+     "Khairizal, Y. &#39;. (Yuri)",
+     "Kurniawandy, A. &#39;. (Alex)",
+     "Kamaldi, A. &#39;. (Alfian)"
+    ],
+    "DC.subject": [
+     "Indonesia",
+     "compressive strength",
+     "mechanical properties",
+     "splitting tensile strength",
+     "flexural strength",
+     "polypropylene fiber"
+    ],
+    "DC.publisher": [
+     "Riau University"
+    ],
+    "DC.source": [
+     "Jurnal Online Mahasiswa Fakultas Teknik Universitas Riau"
+    ],
+    "DC.relation.ispartof": [
+     "Jurnal Online Mahasiswa Fakultas Teknik Universitas Riau"
+    ],
+    "DC.source.uri": [
+     "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal"
+    ],
+    "DC.source.issn": [
+     "2355-6870"
+    ],
+    "DC.source.issue": [
+     "2"
+    ],
+    "DC.source.volume": [
+     "2"
+    ],
+    "DC.citation.spage": [
+     "1"
+    ],
+    "DC.citation.epage": [
+     "11"
+    ],
+    "DC.citation.volume": [
+     "2"
+    ],
+    "DC.citation.issue": [
+     "2"
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.rights": [
+     "(c) Jurnal Online Mahasiswa Fakultas Teknik Universitas Riau, 2015"
+    ],
+    "citation_title": [
+     "Pengaruh Penambahan Serat Polypropylene terhadap Sifat Mekanis Beton Normal"
+    ],
+    "citation_publication_date": [
+     "2015"
+    ],
+    "citation_pdf_url": [
+     "https://media.neliti.com/media/publications/201178-pengaruh-penambahan-serat-polypropylene.pdf"
+    ],
+    "citation_language": [
+     "id"
+    ],
+    "citation_author": [
+     "Yuri &#39;. Khairizal",
+     "Alex &#39;. Kurniawandy",
+     "Alfian &#39;. Kamaldi"
+    ],
+    "citation_journal_title": [
+     "Jurnal Online Mahasiswa Fakultas Teknik Universitas Riau"
+    ],
+    "citation_journal_abbrev": [
+     "JOM FT UNRI"
+    ],
+    "citation_issn": [
+     "2355-6870"
+    ],
+    "citation_volume": [
+     "2"
+    ],
+    "citation_issue": [
+     "2"
+    ],
+    "citation_firstpage": [
+     "1"
+    ],
+    "citation_lastpage": [
+     "11"
+    ],
+    "citation_publisher": [
+     "Riau University"
+    ],
+    "citation_dissertation_institution": [
+     "Riau University"
+    ],
+    "og:title": [
+     "Pengaruh Penambahan Serat Polypropylene terhadap Sifat Mekanis Beton Normal"
+    ],
+    "html_title": [
+     "Pengaruh Penambahan Serat Polypropylene terhadap Sifat Mekanis Beton Normal - Neliti"
+    ]
+   },
+   "snippet": "pengaruh penambahan serat polypropylene terhadap sifat mekanis beton normal neliti advertisement jurnal online mahasiswa fakultas teknik universitas riau jom ft unri content show all recent browse by year browse by volume about aims and scope editorial board peer review publication submission instructions policies contact more for authors for reviewers choose your language english us bahasa indonesia sign in submit article menu jurnal online mahasiswa fakultas teknik universitas riau jom ft unri sign in en english us bahasa indonesia jurnal online mahasiswa fakultas teknik universitas riau jom",
+   "evidenceFile": "ev/pengaruhpenambahanseratpolypropyleneterh-d1.html"
+  },
+  "log": [
+   "direct https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2228568597",
+   "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal"
+  ],
+  "urls": [
+   "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1369 ハイブリッド高性能AE減水剤と膨張材を併用したコンクリートのひび割れ抵抗性に関する研究 : その1.各種調合のコンクリートの基礎物性検討-1(収縮・クリープ(5),材料施工,2012年度大会(東海)学術講演会・建築デザイン発表会)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1570572702960120704",
+   "match": 1.0,
+   "meta": {
+    "title": "1369 ハイブリッド高性能AE減水剤と膨張材を併用したコンクリートのひび割れ抵抗性に関する研究 : その1.各種調合のコンクリートの基礎物性検討-1(収縮・クリープ(5),材料施工,2012年度大会(東海)学術講演会・建築デザイン発表会)",
+    "dc:creator": [
+     "三井 健郎",
+     "小林 竜平",
+     "井上 和政",
+     "椎貝 英仁",
+     "齊藤 和秀",
+     "木之下 光男",
+     "岩清水 隆"
+    ],
+    "dc:publisher": "日本建築学会",
+    "prism:publicationName": "材料施工",
+    "prism:publicationDate": "2012-09-12",
+    "prism:number": "2012",
+    "prism:startingPage": "737",
+    "prism:endingPage": "738",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110009655880"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://www.aij.or.jp/paper/detail.html?productId=404852"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009655880 -> 202 match=0.00",
+   "direct https://ci.nii.ac.jp/naid/110009655880 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009655880",
+   "wayback none for ci.nii.ac.jp/naid/110009655880",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1498310604",
+   "https://ci.nii.ac.jp/naid/110009655880",
+   "https://ci.nii.ac.jp/naid/110009655880",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009655880",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009655880",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1369%20%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E9%AB%98%E6%80%A7%E8%83%BDAE%E6%B8%9B%E6%B0%B4%E5%89%A4%E3%81%A8%E8%86%A8%E5%BC%B5%E6%9D%90%E3%82%92%E4%BD%B5%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%B2%E3%81%B3%E5%89%B2%E3%82%8C%E6%8A%B5%E6%8A%97%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6%20%3A%20%E3%81%9D%E3%81%AE1.%E5%90%84%E7%A8%AE%E8%AA%BF%E5%90%88%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%89%A9%E6%80%A7%E6%A4%9C%E8%A8%8E-1%28%E5%8F%8E%E7%B8%AE%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%97%285%29%2C%E6%9D%90%E6%96%99%E6%96%BD%E5%B7%A5%2C2012%E5%B9%B4%E5%BA%A6%E5%A4%A7%E4%BC%9A%28%E6%9D%B1%E6%B5%B7%29%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%83%BB%E5%BB%BA%E7%AF%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%A8%E4%BC%9A%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009655880",
+   "http://ci.nii.ac.jp/naid/110009655880"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20140930234021/http://ci.nii.ac.jp/naid/110009693054",
+   "original": "https://ci.nii.ac.jp/naid/110009693054",
+   "snapshot": "20140930234021",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "citation_journal_title": [
+     "コンクリート工学年次論文集"
+    ],
+    "citation_publisher": [
+     "公益社団法人日本コンクリート工学会"
+    ],
+    "citation_authors": [
+     "星野,富夫;魚本,健人"
+    ],
+    "citation_title": [
+     "1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))"
+    ],
+    "citation_date": [
+     "06/08/2001"
+    ],
+    "citation_volume": [
+     "23"
+    ],
+    "citation_issue": [
+     "1"
+    ],
+    "citation_firstpage": [
+     "451"
+    ],
+    "citation_lastpage": [
+     "456"
+    ],
+    "citation_abstract_html_url": [
+     "http://ci.nii.ac.jp/naid/110009693054"
+    ],
+    "citation_issn": [
+     "13477560"
+    ],
+    "citation_keywords": [
+     "ひび割れ;樹脂注入;曲げ載荷試験;塩分浸漬試験;促進炭酸化"
+    ],
+    "og:title": [
+     "CiNii 論文 - 1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))"
+    ],
+    "html_title": [
+     "CiNii 論文 -  1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))"
+    ]
+   },
+   "snippet": "1065 ひひ割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究 補修 補強 材料 cinii 国立情報学研究所 学術情報ナヒケータ サイニィ 日本の論文をさかす 大学図書館の本をさかす 日本の論文をさかす 大学図書館の本をさかす 新規登録 ロクイン english cinii articlesて j stage収録論文全件をこ利用いたたけるようになりました 大学図書館の本をさかす 大学図書館の本をさかす 検索 すへて ciniiに本文あり ciniiに本文あり または連携サーヒスへのリンクあり タイトル 著者名 著者所属 刊行物名 issn 巻 号 ヘーシ 出版者 参考文献 出版年 年から 年まて すへて ciniiに本文あり ciniiに本文あり または連携サーヒスへのリンクあり 論文検索 著者検索 論文検索 1065 ひひ割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究 補修 補強 材料 effect of epoxy resin injection in concrete cracks on durability performance 星野 富夫 hoshino tomio 東京大学生産技術研究所 魚本 健人 uomoto taketo 東京大学国際 産学共同研究センター 参考文献 6件 被引用文献 1件 この論文を読む さかす cinii 論文",
+   "evidenceFile": "ev/1065ひひ割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究補修補-wb.html"
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009693054 -> 202 match=0.00",
+   "wayback https://web.archive.org/web/20140930234021id_/http://ci.nii.ac.jp/naid/110009693054 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W652200896",
+   "https://ci.nii.ac.jp/naid/110009693054",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009693054",
+   "https://web.archive.org/web/20140930234021id_/http://ci.nii.ac.jp/naid/110009693054"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009693054"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1236 開口部のひび割れを抑制する無収縮型コンクリートの膨張・収縮モデルの検討 : その1. 無収縮型コンクリートの基礎物性(収縮・クリープ(4),材料施工)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1573668927638449664",
+   "match": 1.0,
+   "meta": {
+    "title": "1236 開口部のひび割れを抑制する無収縮型コンクリートの膨張・収縮モデルの検討 : その1. 無収縮型コンクリートの基礎物性(収縮・クリープ(4),材料施工)",
+    "dc:creator": [
+     "見澤 大介",
+     "小林 竜平",
+     "齊藤 和秀",
+     "三井 健郎",
+     "木之下 光男",
+     "稲垣 順司",
+     "井上 和政"
+    ],
+    "dc:publisher": "日本建築学会",
+    "prism:publicationName": "学術講演梗概集. A-1, 材料施工",
+    "prism:publicationDate": "2011-07-20",
+    "prism:number": "2011",
+    "prism:startingPage": "471",
+    "prism:endingPage": "472",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110009498990"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://www.aij.or.jp/paper/detail.html?productId=389773"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009498990 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009498990",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W313095511",
+   "https://ci.nii.ac.jp/naid/110009498990",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009498990",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1236%20%E9%96%8B%E5%8F%A3%E9%83%A8%E3%81%AE%E3%81%B2%E3%81%B3%E5%89%B2%E3%82%8C%E3%82%92%E6%8A%91%E5%88%B6%E3%81%99%E3%82%8B%E7%84%A1%E5%8F%8E%E7%B8%AE%E5%9E%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E8%86%A8%E5%BC%B5%E3%83%BB%E5%8F%8E%E7%B8%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%A4%9C%E8%A8%8E%20%3A%20%E3%81%9D%E3%81%AE1.%20%E7%84%A1%E5%8F%8E%E7%B8%AE%E5%9E%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%89%A9%E6%80%A7%28%E5%8F%8E%E7%B8%AE%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%97%284%29%2C%E6%9D%90%E6%96%99%E6%96%BD%E5%B7%A5%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009498990"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1156 中性子ラジオグラフィによるコンクリートのひび割れ部における水分挙動の可視化および定量化に関する研究(耐久性一般)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1522825131030763904",
+   "match": 1.0,
+   "meta": {
+    "title": "1156 中性子ラジオグラフィによるコンクリートのひび割れ部における水分挙動の可視化および定量化に関する研究(耐久性一般)",
+    "dc:creator": [
+     "兼松 学",
+     "野口 貴文",
+     "丸山 一平"
+    ],
+    "dc:publisher": "東京 : 日本コンクリート工学協会",
+    "prism:publicationName": "コンクリート工学年次論文集 = Proceedings of the Japan Concrete Institute / 日本コンクリート工学協会 編",
+    "prism:publicationDate": "2007",
+    "prism:volume": "29",
+    "prism:number": "1",
+    "prism:startingPage": "981",
+    "prism:endingPage": "986",
+    "dc:identifier": [
+     {
+      "@type": "cir:NDL_BIB_ID",
+      "@value": "9644660"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/bib/9644660"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://ndlsearch.ndl.go.jp/books/R000000004-I9644660"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://dl.ndl.go.jp/pid/10640612"
+     },
+     {
+      "@type": "cir:NAID",
+      "@value": "110009696892"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/digimeta/10640612"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://dl.ndl.go.jp/info:ndljp/pid/10640612"
+     }
+    ],
+    "description": "コレクション : 国立国会図書館デジタルコレクション > 電子書籍・電子雑誌 > 学術機関 > 学協会"
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009696892 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009696892",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W83722395",
+   "https://ci.nii.ac.jp/naid/110009696892",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009696892",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1156%20%E4%B8%AD%E6%80%A7%E5%AD%90%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%B2%E3%81%B3%E5%89%B2%E3%82%8C%E9%83%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B0%B4%E5%88%86%E6%8C%99%E5%8B%95%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%8A%E3%82%88%E3%81%B3%E5%AE%9A%E9%87%8F%E5%8C%96%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6%28%E8%80%90%E4%B9%85%E6%80%A7%E4%B8%80%E8%88%AC%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009696892"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Gray - scale Hough変換を用いたコンクリート表面のひび割れ検出",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1520572359478859776",
+   "match": 1.0,
+   "meta": {
+    "title": "Gray-scale Hough変換を用いたコンクリート表面のひび割れ検出",
+    "dc:creator": [
+     "山口 友之",
+     "橋本 周司"
+    ],
+    "dc:publisher": "東京 : 情報処理学会",
+    "prism:publicationName": "情報処理学会研究報告 = IPSJ SIG technical reports",
+    "prism:publicationDate": "2004-09",
+    "prism:volume": "2004",
+    "prism:number": "91",
+    "prism:startingPage": "57",
+    "prism:endingPage": "64",
+    "dc:identifier": [
+     {
+      "@type": "cir:NDL_BIB_ID",
+      "@value": "7109980"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/bib/7109980"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://ndlsearch.ndl.go.jp/books/R000000004-I7109980"
+     },
+     {
+      "@type": "cir:NAID",
+      "@value": "110002664181"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110002664181 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110002664181",
+   "cinii opensearch: 2 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1033076609",
+   "https://ci.nii.ac.jp/naid/110002664181",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110002664181",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Gray%20-%20scale%20Hough%E5%A4%89%E6%8F%9B%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E8%A1%A8%E9%9D%A2%E3%81%AE%E3%81%B2%E3%81%B3%E5%89%B2%E3%82%8C%E6%A4%9C%E5%87%BA"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110002664181"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Efeito da elevação de temperatura sobre a resistência à compressão de concretos massa com diferentes teores de cinza volante",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260119114553/https://repositorio.ufsc.br/handle/123456789/167662",
+   "original": "https://repositorio.ufsc.br/handle/123456789/167662",
+   "snapshot": "20260119114553",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Universidade Federal de Santa Catarina",
+     "Prudêncio Junior, Luiz Roberto"
+    ],
+    "DC.creator": [
+     "Salum, Paula de Lima"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2016-09-20T04:08:17Z"
+    ],
+    "DCTERMS.available": [
+     "2016-09-20T04:08:17Z"
+    ],
+    "DCTERMS.issued": [
+     "2016"
+    ],
+    "DC.identifier": [
+     "342004",
+     "https://repositorio.ufsc.br/xmlui/handle/123456789/167662"
+    ],
+    "DC.description": [
+     "Dissertação (mestrado) - Universidade Federal de Santa Catarina, Centro Tecnológico, Programa de Pós-Graduação em Engenharia Civil, Florianópolis, 2016."
+    ],
+    "DCTERMS.abstract": [
+     "Estruturas em concreto massa são um desafio para os tecnologistas em concreto, tendo em vista que apresentam expressivas elevações de temperatura, especialmente os blocos de coroamento de edifícios de grande porte. Estes elementos são executados com concretos de alta resistência e elevados consumos de cimento, aumentando a possibilidade de ocorrer efeitos deletérios de origem térmica. A elevação de temperatura no interior das estruturas ocorre porque o calor gerado, devido as reações exotérmicas de hidratação do cimento, tem dificuldade em dissipar-se para o ambiente em função das características térmicas do concreto e do volume do maciço. O uso de materiais cimentícios suplementares, como substituir parte do cimento por cinza volante, é uma solução bastante adotada para tentar minimizar a problemática térmica. Apesar disso, as reações de hidratação do cimento e a reação pozolânica ocorrem sob elevadas temperaturas, tendo sua cinética modificada. Entretanto, mesmo para estruturas de grande volume, as centrais de concreto realizam a dosagem da mistura sob temperatura padronizada de 23±2ºC, desconsiderando os efeitos da cura térmica que o concreto é naturalmente exposto. As pesquisas envolvendo cura térmica relatam desempenho mecânico inferior dos concretos curados com relação à referência. Contudo, a maioria dos trabalhos baseia-se em marchas de cura realizadas em centrais de pré-moldados, que diferem significativamente do que ocorre no interior de maciços de concreto. Sendo assim, o presente trabalho visa demonstrar que concretos submetidos à elevação de temperatura, que naturalmente ocorre quando são utilizados em grandes estruturas, podem ser dosados com menor consumo de cimento que aqueles submetidos à cura em temperatura ambiente, para uma mesma classe de resistência. Os concretos testados foram produzidos com resistência característica de 35 e 45MPa, aos 28 dias, e receberam substituição de cimento por cinza volante nos teores 0, 15 e 30%. Foram realizadas três condições distintas de cura, sendo uma à temperatura ambiente (referência) e outros dois regimes de cura térmica. Para os sistemas térmicos, foi desenvolvido um banho térmico que executa curvas reais de aquecimento e resfriamento. A resistência à compressão dos concretos foi medida após 28 dias de cura. Além disso, também foi realizado o ensaio de termogravimetria em pastas de cimento e cinza volante, as quais foram submetidas aos regimes de cura junto com os concretos de referência. Os resultados demonstraram que a temperatura catalisou as reações de hidratação do cimento e as reações pozolânicas, obtendo-se teores de hidratos e resistência superiores aos elementos dosados a 23±2ºC, aos 28 dias. Portanto, fica a cargo do projetista a decisão se considera ou não o efeito térmico sobre a resistência do concreto. Considerando seus efeitos, existe a possibilidade de reduzir o consumo de cimento, conforme foi observado nos concretos testados e, por conseguinte, reduzir sua temperatura máxima, obtendo um custo menor, sem comprometer sua resistência mecânica aos 28 dias. Todavia, se o projetista considerar a resistência do concreto dosado a 23±2ºC, sem dúvida seria a favor da segurança com relação à resistência do concreto, mas com um custo maior e uma durabilidade porventura comprometida.<br>",
+     "Abstract : Mass concrete structures are a challenge for concrete technologists, considering that they present significant temperature increases, especially pile caps of tall buildings. They are made on concretes of high strength and large amounts of cement, increasing the possibility of occurrence of deleterious effects of thermal origin. The temperature rises because the heat generated by cement hydration exothermic reactions can not easily dissipate into the environment due to the thermal characteristics and massive volume of concrete. The use of supplementary cementitious materials as a partial replacement of cement, is a popular solution to mitigate the thermal problems. It is known that the hydration reactions of the cement and pozzolans occur at elevated temperatures, and it can modify its kinetics. However, even for high-volume structures, the concrete plants perform the mix design at room temperatures (23±2oC), and don´t consider the actual effects of thermal cure in which the concrete is naturally exposed. The studies on thermal curing reported lower mechanical performance of the cured concrete with respect to the reference. Meantime, most of the works is based on thermal curing of precast concrete elements, which is different from that occurring within the concrete mass. Thus, this study aims to demonstrate that concrete subjected to temperature increases, which naturally occurs when utilized in large concrete members, can be designed with lower cement content than that submitted to 23?cure, for the same strength class. The tested concretes were produced with characteristic compressive strength of 35MPa and 45MPa at 28 days, both with cement replacement by fly ash in contents of 0 (reference) 15 and 30%. The concretes were subjected to three different cure conditions: 23?cure (reference) and other two thermal cure systems. For thermal systems, a thermal bath was developed in order to simulate an actual heating curve. After 28 days of curing, the concrete compressive strength was evaluated. Moreover,  thermogravimetry tests were carried out in pastes with cement and fly ash submitted to the same curing conditions of the correspondent concretes. The results showed that the temperature catalyses the hydration reactions of the cement and pozzolanic reactions, leading to higher amount of hydrates and strength than those of obtained in concretes cured under 23oC after 28 days. Therefore, the designer should decide whether consider or not the thermal effect on the strength of concrete. Considering its purpose, it is possible to reduce the cement content and reduce the maximum temperature of the concrete, leading to a lower cost, without compromising their mechanical strength after 28 days. Therefore, the use of compressive strength based on 28days at a 23oC curing temperature is a conservative approach in structural point of view, but leads to higher cost and it can compromise the long term durability of the structures."
+    ],
+    "DCTERMS.extent": [
+     "166 p.| il., grafs."
+    ],
+    "DC.language": [
+     "por"
+    ],
+    "DC.subject": [
+     "Engenharia civil",
+     "Concreto",
+     "Cinza volante"
+    ],
+    "DC.title": [
+     "Efeito da elevação de temperatura sobre a resistência à compressão de concretos massa com diferentes teores de cinza volante"
+    ],
+    "DC.type": [
+     "Dissertação (Mestrado)"
+    ],
+    "html_title": [
+     "Efeito da elevação de temperatura sobre a resistência à compressão de concretos massa com diferentes teores de cinza volante"
+    ]
+   },
+   "snippet": "efeito da elevacao de temperatura sobre a resistencia a compressao de concretos massa com diferentes teores de cinza volante efeito da elevacao de temperatura sobre a resistencia a compressao de concretos massa com diferentes teores de cinza volante dspace repository a a a dspace home teses e dissertacoes programa de pos graduacao em engenharia civil view item login efeito da elevacao de temperatura sobre a resistencia a compressao de concretos massa com diferentes teores de cinza volante show full item record title efeito da elevacao de temperatura sobre a resistencia a compressao de concreto",
+   "evidenceFile": "ev/efeitodaelevacaodetemperaturasobrearesis-wb.html"
+  },
+  "log": [
+   "direct https://repositorio.ufsc.br/handle/123456789/167662 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260119114553id_/https://repositorio.ufsc.br/handle/123456789/167662 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2615385014",
+   "https://repositorio.ufsc.br/handle/123456789/167662",
+   "https://archive.org/wayback/available?url=repositorio.ufsc.br/handle/123456789/167662",
+   "https://web.archive.org/web/20260119114553id_/https://repositorio.ufsc.br/handle/123456789/167662"
+  ],
+  "urls": [
+   "https://repositorio.ufsc.br/handle/123456789/167662"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米C-S-H对粉煤灰/矿粉双掺混凝土性能的影响",
+  "result": null,
+  "log": [
+   "direct https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267 -> 000 match=0.00",
+   "direct https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267 -> 000 match=0.00",
+   "wayback none for gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "wayback none for gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3155443407",
+   "https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "https://archive.org/wayback/available?url=gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "https://archive.org/wayback/available?url=gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%BA%B3%E7%B1%B3C-S-H%E5%AF%B9%E7%B2%89%E7%85%A4%E7%81%B0/%E7%9F%BF%E7%B2%89%E5%8F%8C%E6%8E%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%BA%B3%E7%B1%B3C-S-H%E5%AF%B9%E7%B2%89%E7%85%A4%E7%81%B0/%E7%9F%BF%E7%B2%89%E5%8F%8C%E6%8E%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%BA%B3%E7%B1%B3C-S-H%E5%AF%B9%E7%B2%89%E7%85%A4%E7%81%B0/%E7%9F%BF%E7%B2%89%E5%8F%8C%E6%8E%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%BA%B3%E7%B1%B3C-S-H%E5%AF%B9%E7%B2%89%E7%85%A4%E7%81%B0/%E7%9F%BF%E7%B2%89%E5%8F%8C%E6%8E%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%BA%B3%E7%B1%B3C-S-H%E5%AF%B9%E7%B2%89%E7%85%A4%E7%81%B0/%E7%9F%BF%E7%B2%89%E5%8F%8C%E6%8E%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D"
+  ],
+  "urls": [
+   "https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "http://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267"
+  ],
+  "doi": null
+ },
+ {
+  "title": "28 d和90 d粉煤灰混凝土性能的对比分析",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/94658A/201410/662841877.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/94658A/201410/662841877.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/94658A/201410/662841877.html",
+   "wayback none for www.cqvip.com/QK/94658A/201410/662841877.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1556324722",
+   "https://www.cqvip.com/QK/94658A/201410/662841877.html",
+   "https://www.cqvip.com/QK/94658A/201410/662841877.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/94658A/201410/662841877.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/94658A/201410/662841877.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=28%20d%E5%92%8C90%20d%E7%B2%89%E7%85%A4%E7%81%B0%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90",
+   "https://openlibrary.org/search.json?limit=10&title=28%20d%E5%92%8C90%20d%E7%B2%89%E7%85%A4%E7%81%B0%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=28%20d%E5%92%8C90%20d%E7%B2%89%E7%85%A4%E7%81%B0%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A28%20d%E5%92%8C90%20d%E7%B2%89%E7%85%A4%E7%81%B0%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=28%20d%E5%92%8C90%20d%E7%B2%89%E7%85%A4%E7%81%B0%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/94658A/201410/662841877.html",
+   "http://www.cqvip.com/QK/94658A/201410/662841877.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "超大掺量粉煤灰在大体积底板混凝土中的研究应用——深圳平安金融中心4.5m厚大体积底板",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/85a0a9cb0b7e9544cecc5f2f05608d23e0298663",
+   "doi": null,
+   "meta": {
+    "paperId": "85a0a9cb0b7e9544cecc5f2f05608d23e0298663",
+    "externalIds": {
+     "MAG": "2510661342",
+     "CorpusId": 223399359
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/85a0a9cb0b7e9544cecc5f2f05608d23e0298663",
+    "title": "超大掺量粉煤灰在大体积底板混凝土中的研究应用——深圳平安金融中心4.5m厚大体积底板",
+    "venue": "",
+    "year": 2012,
+    "authors": [
+     {
+      "authorId": "2497527598",
+      "name": "Han-Fen Feng"
+     },
+     {
+      "authorId": "2487512039",
+      "name": "Tian Li"
+     },
+     {
+      "authorId": "2489087804",
+      "name": "Zhang-Huai Wu"
+     },
+     {
+      "authorId": "2470112257",
+      "name": "Chun-Wei Zhang"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://www.cqvip.com/QK/89772X/201210/682776790201210035.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/89772X/201210/682776790201210035.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "wayback none for www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 85a0a9cb0b7e9544cecc5f2f05608d23e0298663"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2510661342",
+   "https://www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "https://www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E8%B6%85%E5%A4%A7%E6%8E%BA%E9%87%8F%E7%B2%89%E7%85%A4%E7%81%B0%E5%9C%A8%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%834.5m%E5%8E%9A%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF",
+   "https://openlibrary.org/search.json?limit=10&title=%E8%B6%85%E5%A4%A7%E6%8E%BA%E9%87%8F%E7%B2%89%E7%85%A4%E7%81%B0%E5%9C%A8%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%834",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E8%B6%85%E5%A4%A7%E6%8E%BA%E9%87%8F%E7%B2%89%E7%85%A4%E7%81%B0%E5%9C%A8%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%834.5m%E5%8E%9A%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E8%B6%85%E5%A4%A7%E6%8E%BA%E9%87%8F%E7%B2%89%E7%85%A4%E7%81%B0%E5%9C%A8%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%834.5m%E5%8E%9A%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E8%B6%85%E5%A4%A7%E6%8E%BA%E9%87%8F%E7%B2%89%E7%85%A4%E7%81%B0%E5%9C%A8%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%834.5m%E5%8E%9A%E5%A4%A7%E4%BD%93%E7%A7%AF%E5%BA%95%E6%9D%BF"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "http://www.cqvip.com/QK/89772X/201210/682776790201210035.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "三掺（S95矿粉＋II级粉煤灰＋石屑）配制C30抗渗P6泵送混凝土在污水处理厂生化池（CASS池）的应用实例",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/87751X/201208/42708015.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/87751X/201208/42708015.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/87751X/201208/42708015.html",
+   "wayback none for www.cqvip.com/QK/87751X/201208/42708015.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W756216318",
+   "https://www.cqvip.com/QK/87751X/201208/42708015.html",
+   "https://www.cqvip.com/QK/87751X/201208/42708015.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/87751X/201208/42708015.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/87751X/201208/42708015.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E4%B8%89%E6%8E%BA%EF%BC%88S95%E7%9F%BF%E7%B2%89%EF%BC%8BII%E7%BA%A7%E7%B2%89%E7%85%A4%E7%81%B0%EF%BC%8B%E7%9F%B3%E5%B1%91%EF%BC%89%E9%85%8D%E5%88%B6C30%E6%8A%97%E6%B8%97P6%E6%B3%B5%E9%80%81%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%A8%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86%E5%8E%82%E7%94%9F%E5%8C%96%E6%B1%A0%EF%BC%88CASS%E6%B1%A0%EF%BC%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B",
+   "https://openlibrary.org/search.json?limit=10&title=%E4%B8%89%E6%8E%BA%EF%BC%88S95%E7%9F%BF%E7%B2%89%EF%BC%8BII%E7%BA%A7%E7%B2%89%E7%85%A4%E7%81%B0%EF%BC%8B%E7%9F%B3%E5%B1%91%EF%BC%89%E9%85%8D%E5%88%B6C30%E6%8A%97%E6%B8%97P6%E6%B3%B5%E9%80%81%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%A8%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86%E5%8E%82%E7%94%9F%E5%8C%96%E6%B1%A0%EF%BC%88CASS%E6%B1%A0%EF%BC%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E4%B8%89%E6%8E%BA%EF%BC%88S95%E7%9F%BF%E7%B2%89%EF%BC%8BII%E7%BA%A7%E7%B2%89%E7%85%A4%E7%81%B0%EF%BC%8B%E7%9F%B3%E5%B1%91%EF%BC%89%E9%85%8D%E5%88%B6C30%E6%8A%97%E6%B8%97P6%E6%B3%B5%E9%80%81%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%A8%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86%E5%8E%82%E7%94%9F%E5%8C%96%E6%B1%A0%EF%BC%88CASS%E6%B1%A0%EF%BC%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E4%B8%89%E6%8E%BA%EF%BC%88S95%E7%9F%BF%E7%B2%89%EF%BC%8BII%E7%BA%A7%E7%B2%89%E7%85%A4%E7%81%B0%EF%BC%8B%E7%9F%B3%E5%B1%91%EF%BC%89%E9%85%8D%E5%88%B6C30%E6%8A%97%E6%B8%97P6%E6%B3%B5%E9%80%81%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%A8%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86%E5%8E%82%E7%94%9F%E5%8C%96%E6%B1%A0%EF%BC%88CASS%E6%B1%A0%EF%BC%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E4%B8%89%E6%8E%BA%EF%BC%88S95%E7%9F%BF%E7%B2%89%EF%BC%8BII%E7%BA%A7%E7%B2%89%E7%85%A4%E7%81%B0%EF%BC%8B%E7%9F%B3%E5%B1%91%EF%BC%89%E9%85%8D%E5%88%B6C30%E6%8A%97%E6%B8%97P6%E6%B3%B5%E9%80%81%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%9C%A8%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86%E5%8E%82%E7%94%9F%E5%8C%96%E6%B1%A0%EF%BC%88CASS%E6%B1%A0%EF%BC%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/87751X/201208/42708015.html",
+   "http://www.cqvip.com/QK/87751X/201208/42708015.html"
+  ],
+  "doi": null
+ }
+]

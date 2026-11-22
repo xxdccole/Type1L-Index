@@ -2,8 +2,13 @@
   "title": "Cement & Concrete Index",
   "summary": "A living research index spanning cement and binder families, supplementary materials, concrete families and applications, and cross-cutting engineering topics. Daily updates; foundational coverage, not an exhaustive catalogue.",
   "summaryText": "Expanded on 2026-11-08 from the Type IL index. All 139 original records and their caveats remain intact. Four taxonomy axes separate binder chemistry, SCMs/additions, concrete/application families and cross-cutting topics. New sources seed major families; coverage ranges from full technical guides to abstracts, previews and official catalogue scopes. Historical Type IL findings apply to their stated mixtures and exposures, not all cements. Verify current adopted standards and local approvals before use.",
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-22",
   "whatsNew": [
+    {
+      "date": "Nov 22",
+      "title": "Daily pass: 288 verified additions (R4295–R4582), 3 from the review list and 25 from the open queue",
+      "detail": "Retry list first: all 77 leads retried; 3 promoted (R4295–R4297) — two ACI abstract-portal records for 1975 papers (Powers, \"Freezing Effects in Concrete\"; Browne and Cady, \"Deicer Scaling Mechanisms in Concrete\") whose pages now open, and an Indonesian-language fly-ash strength paper from its journal page. 111 leads stay on the review list (74 carried over, 13 new from discovery, 24 from the open queue). Open queue: the 49 KDOT/Kansas mix-design leads queued on Nov 21 were checked — 25 promoted (R4298–R4322; Kansas, Nebraska and Oklahoma DOT and FHWA reports, KCMMB 2026 specification, KDOT 2015 specifications via Wayback, ROSA P records via Wayback), 24 moved to the review list (KDOT PQL/special-provision documents that answer HTTP 403 with no archived copy, two TRID records). Discovery then added 260 verified sources for microcracking, mass concrete, portland cement, fibres, fly ash, HPC/UHPC, calcined clay, construction, failure/repair, regional supply, heavyweight concrete, masonry/white cement and RCC, with 66 records from backward and 29 from forward citation chases, 39 non-English records (English glosses) and 27 dated 2026. Mostly DOI/abstract or record-page level, not full-text reviews. Review list: https://xxdccole.github.io/Type1L-Index/review/"
+    },
     {
       "date": "Nov 21",
       "title": "Daily pass: 249 verified additions (R4046–R4294), 3 from the review list and 3 from the open queue",
@@ -261,7 +266,10 @@
         "R4239",
         "R4240",
         "R4241",
-        "R4294"
+        "R4294",
+        "R4309",
+        "R4321",
+        "R4322"
       ]
     },
     {
@@ -277,7 +285,8 @@
         "SCDOT publishes a dedicated Type IL authorized supplier list (QPL 86, R102).",
         "Oklahoma DOT lists Type IL(10) sources on its cement QPL (Ash Grove Foreman AR & Chanute KS; Amrize/Holcim Ada OK & Midlothian TX) (R131).",
         "West Virginia DOH (R139, eff. 2026-09-15): certified mill list includes a dedicated ASTM C595 Type 1L section (material code 701.003.001) with Amrize, Quikrete, Buzzi, Fairborn, Heidelberg, Kosmos, Roanoke and St. Mary's sources.",
-        "Nov 21 backfill: highway-agency literature on fly-ash concrete (1981–1988 reports), low-cracking bridge-deck specifications (Kansas LC-HPC, Virginia), Iowa pavement petrography, HWYCON and Pyrament bridge-deck trial (R4162–R4277, 8 records). Record-level checks only."
+        "Nov 21 backfill: highway-agency literature on fly-ash concrete (1981–1988 reports), low-cracking bridge-deck specifications (Kansas LC-HPC, Virginia), Iowa pavement petrography, HWYCON and Pyrament bridge-deck trial (R4162–R4277, 8 records). Record-level checks only.",
+        "Nov 22 open-queue: Kansas DOT/KU/K-State reports on D-cracking, SCM effects on ASR, crack-free bridge decks, volcanic ash and aggregate durability; Nebraska DOR aggregate reactivity and durability reports; Oklahoma and FHWA optimised-gradation reports; KCMMB 2026 specification, KDOT 2015 specifications and OFQ page (R4298–R4322, 25 records). Report-level reads; KDOT PQL/special-provision documents remain on the review list."
       ],
       "resourceIds": [
         "R5",
@@ -323,7 +332,32 @@
         "R4166",
         "R4167",
         "R4276",
-        "R4277"
+        "R4277",
+        "R4298",
+        "R4299",
+        "R4300",
+        "R4301",
+        "R4302",
+        "R4303",
+        "R4304",
+        "R4305",
+        "R4306",
+        "R4307",
+        "R4308",
+        "R4309",
+        "R4310",
+        "R4311",
+        "R4312",
+        "R4313",
+        "R4314",
+        "R4315",
+        "R4316",
+        "R4317",
+        "R4318",
+        "R4319",
+        "R4320",
+        "R4321",
+        "R4322"
       ]
     },
     {
@@ -446,7 +480,8 @@
         "R4187",
         "R4188",
         "R4189",
-        "R4190"
+        "R4190",
+        "R4315"
       ]
     },
     {
@@ -527,7 +562,8 @@
         "R4246",
         "R4247",
         "R4248",
-        "R4249"
+        "R4249",
+        "R4310"
       ]
     },
     {
@@ -543,7 +579,8 @@
         "A 2026 Revista ALCONPAT review (R101) of nearly five decades of literature finds porosity, chloride diffusion and carbonation rise with limestone content, mitigated by lower w/c and SCMs.",
         "Nanosilica-modified Type IL paste microstructure and carbonation behavior are addressed in ASCE JMCE 2026 (R127); exposure-specific testing remains important.",
         "Nov 18 PLC/limestone backfill: sulfate attack and thaumasite in Portland-limestone cement mortars and concretes under combined chloride/sulfate exposure (R2947–R2953, 7 records).",
-        "Nov 21 backfill: permeability of cracked and self-healing concrete, Cembureau oxygen-permeability recommendation, chloride service-life models, silica-fume/metakaolin and rice-husk-ash concretes, plus Spanish/Portuguese durability theses (R4168–R4175, 8 records). DOI/abstract level only."
+        "Nov 21 backfill: permeability of cracked and self-healing concrete, Cembureau oxygen-permeability recommendation, chloride service-life models, silica-fume/metakaolin and rice-husk-ash concretes, plus Spanish/Portuguese durability theses (R4168–R4175, 8 records). DOI/abstract level only.",
+        "Nov 22: ACI SP-47 chapters on freezing effects and deicer scaling (Powers; Browne & Cady, 1975) plus Kansas/Nebraska D-cracking, ASR and aggregate durability reports (R4295–R4312, 11 records)."
       ],
       "resourceIds": [
         "R1",
@@ -636,7 +673,18 @@
         "R4172",
         "R4173",
         "R4174",
-        "R4175"
+        "R4175",
+        "R4295",
+        "R4296",
+        "R4298",
+        "R4299",
+        "R4300",
+        "R4301",
+        "R4304",
+        "R4306",
+        "R4307",
+        "R4311",
+        "R4312"
       ]
     },
     {
@@ -696,7 +744,12 @@
         "R4233",
         "R4234",
         "R4235",
-        "R4236"
+        "R4236",
+        "R4300",
+        "R4301",
+        "R4305",
+        "R4311",
+        "R4312"
       ]
     },
     {
@@ -743,7 +796,15 @@
         "R4279",
         "R4280",
         "R4292",
-        "R4293"
+        "R4293",
+        "R4298",
+        "R4299",
+        "R4308",
+        "R4314",
+        "R4316",
+        "R4317",
+        "R4318",
+        "R4319"
       ]
     },
     {
@@ -810,7 +871,8 @@
       "takeaways": [
         "1:1 replacement: Keep cement content; run trial batches and verify fresh and hardened properties.",
         "Adjust: Water within w/cm limit, admixture type and dosage, aggregate grading.",
-        "Nov 21 backfill: high-volume fly-ash concretes (strength, durability, nano-silica, recycled aggregate), interfacial-transition-zone and low-w/c paste microstructure, mix design of fibre-reinforced SCC (R4216–R4222, 7 records). DOI/abstract level only."
+        "Nov 21 backfill: high-volume fly-ash concretes (strength, durability, nano-silica, recycled aggregate), interfacial-transition-zone and low-w/c paste microstructure, mix design of fibre-reinforced SCC (R4216–R4222, 7 records). DOI/abstract level only.",
+        "Nov 22 open-queue: optimised/blended aggregate gradation reports (NDOR, Oklahoma State, FHWA, NCC), KCMMB 2026 mix specification and the 1996 TRR paper on high-dosage Type C fly ash with limestone (R4309–R4322, 8 records)."
       ],
       "resourceIds": [
         "R6",
@@ -835,7 +897,15 @@
         "R4219",
         "R4220",
         "R4221",
-        "R4222"
+        "R4222",
+        "R4309",
+        "R4313",
+        "R4314",
+        "R4315",
+        "R4316",
+        "R4317",
+        "R4320",
+        "R4322"
       ]
     },
     {
@@ -892,7 +962,8 @@
         "R4180",
         "R4181",
         "R4182",
-        "R4278"
+        "R4278",
+        "R4310"
       ]
     },
     {
@@ -931,7 +1002,8 @@
         "R4251",
         "R4252",
         "R4253",
-        "R4254"
+        "R4254",
+        "R4321"
       ]
     },
     {
@@ -1101,7 +1173,8 @@
         "Limestone aggregate can bond chemically with paste at later ages (Mehta & Monteiro). Larger limestone grains showed fewer ITZ microcracks (Golewski 2025).",
         "Methods: micro-CT/3D imaging (Mac 2021), acoustic emission separates aggregate cracks from paste/ITZ cracks (Farnam 2015), DIC at the ITZ (Zhang 2023), fluorescence microscopy for freeze-thaw (Li 2015).",
         "R127 examines Type IL paste microstructure under carbonation with colloidal nanosilica, but still does not provide direct ITZ microcrack imaging comparing commercial Type IL vs OPC concrete.",
-        "Nov 13: interfacial-zone and microcracking classics via citation chase — Barnes, Diamond & Dolch 1978 glass-aggregate contact zone and 1979 interfacial-zone micromorphology, Monteiro, Maso & Ollivier 1985 aggregate–mortar interface, steel/mortar interfaces 1979, drying-shrinkage microcracking 1984, submicrocracking 1987 — plus ITZ studies of blended composites and French TEM work on paste–aggregate bond (1975) (R1946–R2509, 10 records)."
+        "Nov 13: interfacial-zone and microcracking classics via citation chase — Barnes, Diamond & Dolch 1978 glass-aggregate contact zone and 1979 interfacial-zone micromorphology, Monteiro, Maso & Ollivier 1985 aggregate–mortar interface, steel/mortar interfaces 1979, drying-shrinkage microcracking 1984, submicrocracking 1987 — plus ITZ studies of blended composites and French TEM work on paste–aggregate bond (1975) (R1946–R2509, 10 records).",
+        "Nov 22 backfill: acoustic-emission crack classification, crack-pattern and mass-concrete restraint-stress papers, plus German- and Spanish-language cracking studies (R4396–R4580, 15 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R75",
@@ -1140,7 +1213,22 @@
         "R2962",
         "R2963",
         "R2964",
-        "R2965"
+        "R2965",
+        "R4396",
+        "R4507",
+        "R4509",
+        "R4510",
+        "R4513",
+        "R4533",
+        "R4534",
+        "R4535",
+        "R4536",
+        "R4537",
+        "R4538",
+        "R4539",
+        "R4540",
+        "R4578",
+        "R4580"
       ]
     },
     {
@@ -1153,7 +1241,8 @@
         "ACI 207 guides do not address Type IL specifically.",
         "ACI temperature-rise curves trace back to the 1936 Boulder Canyon data; USBR (2015) says correct them for modern cement fineness.",
         "DEF with limestone: carbonate can accelerate DEF after high-temperature curing in lab studies, and fly ash suppressed it (Asamoto 2017); none use commercial Type IL.",
-        "A 2026 PINN surrogate (R128) reconstructs full PLC hydration-heat curves Q(t,α) for 0–40% limestone mixtures and can support thermal screening, but it is modeling—not a Type IL field mass-pour case with temperature monitoring."
+        "A 2026 PINN surrogate (R128) reconstructs full PLC hydration-heat curves Q(t,α) for 0–40% limestone mixtures and can support thermal screening, but it is modeling—not a Type IL field mass-pour case with temperature monitoring.",
+        "Nov 22 backfill: adiabatic temperature rise, distributed temperature sensing and thermal-cracking control papers, the RILEM report on thermal cracking of massive structures, and German/Portuguese mass-concrete literature including the 1979 Kölnbrein dam article (R4507–R4532, 11 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R1",
@@ -1187,7 +1276,18 @@
         "R1537",
         "R2504",
         "R2506",
-        "R2507"
+        "R2507",
+        "R4507",
+        "R4508",
+        "R4509",
+        "R4525",
+        "R4526",
+        "R4527",
+        "R4528",
+        "R4529",
+        "R4530",
+        "R4531",
+        "R4532"
       ]
     },
     {
@@ -1196,7 +1296,8 @@
       "takeaways": [
         "Seeded: Types I, II, III, V and IA/IIA/IIIA; Type IV retained as historical low-heat classification, not implied current local availability. R28 now describes four current basic types. Verify adopted edition before specifying.",
         "Pass 2 (2026-11-09) historical backfill: NBS Lerch & Bogue 1934 heat of hydration and Flint & Wells 1941 hydrogarnet/sulfate work, Taylor's 1989 Bogue modification, NISTIR 4785 reference-clinker XRD and a 2022 history review (R210, R211, R212, R213, R214). Historic data explain Type II/IV/V logic; current ASTM C150 limits still govern.",
-        "Nov 13 backfill (DOI/abstract level): Portland clinker and cement classics — Shepherd & Rankin 1911 ternary CaO–Al2O3–SiO2 system, 1960s–70s clinker microscopy (prismatic/interstitial phases, SEM, XRD minor phases), alkalies in cement (Jawed & Skalny 1977), sulfate-resisting cement (Gollop & Taylor 1994/1995), low-heat Portland cement (incl. 2023 review), alite/belite and alite–belite–ye'elimite cements, early air-entrainment papers (Powers 1954 void spacing, 1946–1959 ACI) (R1893–R2561, 92 records)."
+        "Nov 13 backfill (DOI/abstract level): Portland clinker and cement classics — Shepherd & Rankin 1911 ternary CaO–Al2O3–SiO2 system, 1960s–70s clinker microscopy (prismatic/interstitial phases, SEM, XRD minor phases), alkalies in cement (Jawed & Skalny 1977), sulfate-resisting cement (Gollop & Taylor 1994/1995), low-heat Portland cement (incl. 2023 review), alite/belite and alite–belite–ye'elimite cements, early air-entrainment papers (Powers 1954 void spacing, 1946–1959 ACI) (R1893–R2561, 92 records).",
+        "Nov 22 backfill: clinker-phase doping (Mg, Zn), early setting/hardening studies back to 1919 and strength-development models for blended cement mortars (R4323–R4563, 35 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R28",
@@ -1571,7 +1672,42 @@
         "R4159",
         "R4218",
         "R4239",
-        "R4271"
+        "R4271",
+        "R4323",
+        "R4324",
+        "R4325",
+        "R4326",
+        "R4327",
+        "R4328",
+        "R4329",
+        "R4334",
+        "R4346",
+        "R4349",
+        "R4351",
+        "R4353",
+        "R4362",
+        "R4375",
+        "R4376",
+        "R4381",
+        "R4382",
+        "R4388",
+        "R4390",
+        "R4392",
+        "R4395",
+        "R4399",
+        "R4401",
+        "R4405",
+        "R4406",
+        "R4410",
+        "R4440",
+        "R4475",
+        "R4476",
+        "R4504",
+        "R4549",
+        "R4553",
+        "R4555",
+        "R4562",
+        "R4563"
       ]
     },
     {
@@ -1799,7 +1935,18 @@
         "R4150",
         "R4153",
         "R4237",
-        "R4294"
+        "R4294",
+        "R4318",
+        "R4319",
+        "R4327",
+        "R4360",
+        "R4370",
+        "R4380",
+        "R4493",
+        "R4494",
+        "R4499",
+        "R4532",
+        "R4551"
       ]
     },
     {
@@ -2029,7 +2176,8 @@
         "R3201",
         "R3224",
         "R3359",
-        "R3775"
+        "R3775",
+        "R4520"
       ]
     },
     {
@@ -2120,7 +2268,8 @@
       "takeaways": [
         "Seeded historical specialty classification and manufacturer white masonry page. Distinguish cement from mortar, pigment from binder chemistry, C91 masonry from C1329 mortar and C1328 plastic cement; latest normative clauses and independent comparisons remain gaps.",
         "Pass 2: NBS Monograph 36 (1961) shows bond strength dominated wall racking/flexure; repair-mortar guidance for traditional masonry, white clinker defects and LBNL albedo data showing white-cement concrete markedly more reflective (R215, R216, R217, R218). Still no current ASTM C91/C1328/C1329 text reviewed.",
-        "Nov 18 backfill: historic and lime mortars (microscopy of historic mortars 2006; technology of historic mortars 2000; Byzantine and Cretan mortars; sticky-rice–lime; organic additives; carbonation modelling), white Portland cement hydration, masonry mortar bond/consistence tests and textile-reinforced-mortar strengthening of masonry (R2617–R2634, 18 records). Dental/MTA 'white cement' papers were excluded."
+        "Nov 18 backfill: historic and lime mortars (microscopy of historic mortars 2006; technology of historic mortars 2000; Byzantine and Cretan mortars; sticky-rice–lime; organic additives; carbonation modelling), white Portland cement hydration, masonry mortar bond/consistence tests and textile-reinforced-mortar strengthening of masonry (R2617–R2634, 18 records). Dental/MTA 'white cement' papers were excluded.",
+        "Nov 22 backfill: masonry bond-strength and brick–mortar interface studies, plastering mortars with coir fibre or PCM, lime–metakaolin mortars, and Portuguese-language laying-mortar studies (R4329–R4582, 11 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R140",
@@ -2214,7 +2363,18 @@
         "R3415",
         "R3417",
         "R3533",
-        "R3549"
+        "R3549",
+        "R4329",
+        "R4330",
+        "R4331",
+        "R4332",
+        "R4333",
+        "R4334",
+        "R4335",
+        "R4336",
+        "R4472",
+        "R4523",
+        "R4582"
       ]
     },
     {
@@ -2589,7 +2749,23 @@
         "R4232",
         "R4236",
         "R4238",
-        "R4242"
+        "R4242",
+        "R4398",
+        "R4403",
+        "R4423",
+        "R4478",
+        "R4492",
+        "R4496",
+        "R4499",
+        "R4500",
+        "R4505",
+        "R4536",
+        "R4546",
+        "R4548",
+        "R4549",
+        "R4552",
+        "R4553",
+        "R4555"
       ]
     },
     {
@@ -2843,7 +3019,8 @@
         "R3734",
         "R4069",
         "R4144",
-        "R4209"
+        "R4209",
+        "R4324"
       ]
     },
     {
@@ -3110,7 +3287,19 @@
         "R4232",
         "R4234",
         "R4267",
-        "R4268"
+        "R4268",
+        "R4410",
+        "R4447",
+        "R4478",
+        "R4482",
+        "R4489",
+        "R4496",
+        "R4497",
+        "R4499",
+        "R4536",
+        "R4541",
+        "R4544",
+        "R4551"
       ]
     },
     {
@@ -3119,7 +3308,8 @@
       "takeaways": [
         "Foundational seed: Fly ash chemistry and source variability affect reactivity and air/admixture demand; current supply and reclaimed ash qualification need further sources.",
         "Pass 2: Class F durability study, TxDOT 5,500-sample fly ash database and ASR index, ASR-mitigation state-of-art (R209, R239, R240, R241). Harvested/landfilled ash qualification (ASTM C618 updates) and supply data remain gaps.",
-        "Nov 13 backfill: fly-ash reaction and pozzolanicity (Fraay et al. 1989; Marsh & Day 1988; 2019 multiphase model), high-volume fly ash (Bilodeau & Malhotra 2000; Poon et al. 2000; Siddique 2004; Wang & Li 2007 HVFA-ECC), Class C ash (ASR mitigation, abrasion), fly-ash fineness studies, early proportioning papers (1958, 1968, 1976) and an Oct 2026 current sweep (R1903–R2561, 71 records)."
+        "Nov 13 backfill: fly-ash reaction and pozzolanicity (Fraay et al. 1989; Marsh & Day 1988; 2019 multiphase model), high-volume fly ash (Bilodeau & Malhotra 2000; Poon et al. 2000; Siddique 2004; Wang & Li 2007 HVFA-ECC), Class C ash (ASR mitigation, abrasion), fly-ash fineness studies, early proportioning papers (1958, 1968, 1976) and an Oct 2026 current sweep (R1903–R2561, 71 records).",
+        "Nov 22 backfill: high-volume fly-ash concrete (CANMET-era hydration, strength and durability papers), fly-ash fineness and alkali-silica-reaction mitigation, high-calcium fly ash and German-language fly-ash studies (R4297–R4564, 64 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R167",
@@ -3418,7 +3608,71 @@
         "R4242",
         "R4267",
         "R4268",
-        "R4277"
+        "R4277",
+        "R4297",
+        "R4320",
+        "R4327",
+        "R4338",
+        "R4342",
+        "R4343",
+        "R4344",
+        "R4347",
+        "R4350",
+        "R4353",
+        "R4361",
+        "R4365",
+        "R4369",
+        "R4371",
+        "R4373",
+        "R4374",
+        "R4375",
+        "R4376",
+        "R4377",
+        "R4378",
+        "R4379",
+        "R4383",
+        "R4385",
+        "R4387",
+        "R4394",
+        "R4398",
+        "R4402",
+        "R4450",
+        "R4478",
+        "R4479",
+        "R4480",
+        "R4481",
+        "R4482",
+        "R4483",
+        "R4484",
+        "R4485",
+        "R4486",
+        "R4487",
+        "R4488",
+        "R4489",
+        "R4490",
+        "R4491",
+        "R4492",
+        "R4493",
+        "R4494",
+        "R4495",
+        "R4496",
+        "R4497",
+        "R4498",
+        "R4499",
+        "R4519",
+        "R4544",
+        "R4546",
+        "R4547",
+        "R4549",
+        "R4550",
+        "R4551",
+        "R4552",
+        "R4553",
+        "R4554",
+        "R4555",
+        "R4558",
+        "R4559",
+        "R4564"
       ]
     },
     {
@@ -3539,7 +3793,8 @@
         "R4130",
         "R4237",
         "R4267",
-        "R4268"
+        "R4268",
+        "R4305"
       ]
     },
     {
@@ -3548,7 +3803,8 @@
       "takeaways": [
         "Foundational seed: Calcined clay is an SCM; LC3 is a blended binder system using it. Clay quality and process energy are important.",
         "Pass 3: metakaolin foundations (Wild 1996; Frías 2000; Boddy 2001; Sabir 2001 review; Greek kaolins 2004), clay-mineral pozzolanicity (2011), metakaolin+limestone (2012), R3 test development (2016) and RILEM TC 267/TC 282 reviews, LC3 factors, 2026 clinker×clay mineralogy study and VDOT VTRC 26-R52 field-agency evaluation of LC3/LC2 vs fly ash (R258, R261, R262, R263, R264, R265, R266, R267, R268, R269, R270, R271, R272, R273, R274, R358). ASTM C1897 text itself not reviewed.",
-        "Nov 18 backfill: metakaolin in mortar/concrete (strength, sulfate resistance, creep/shrinkage, ITZ, pore solution), calcined clay pozzolanic activity and kinetics, calcined kaolin/illite thermal stability (1994–2001 classics via citation chase), LC3 particle/fineness studies, metakaolin geopolymers and metakaolin–limestone reaction (R2615–R3007, 42 records)."
+        "Nov 18 backfill: metakaolin in mortar/concrete (strength, sulfate resistance, creep/shrinkage, ITZ, pore solution), calcined clay pozzolanic activity and kinetics, calcined kaolin/illite thermal stability (1994–2001 classics via citation chase), LC3 particle/fineness studies, metakaolin geopolymers and metakaolin–limestone reaction (R2615–R3007, 42 records).",
+        "Nov 22 backfill: metakaolin–lime and blended-cement hydration, metakaolin in high-strength and self-compacting concrete, and alkaline activation of metakaolin (R4329–R4561, 14 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R167",
@@ -3767,7 +4023,21 @@
         "R4141",
         "R4148",
         "R4161",
-        "R4170"
+        "R4170",
+        "R4329",
+        "R4348",
+        "R4372",
+        "R4380",
+        "R4499",
+        "R4541",
+        "R4542",
+        "R4543",
+        "R4544",
+        "R4545",
+        "R4546",
+        "R4547",
+        "R4548",
+        "R4561"
       ]
     },
     {
@@ -3920,7 +4190,13 @@
         "R4158",
         "R4170",
         "R4267",
-        "R4268"
+        "R4268",
+        "R4360",
+        "R4364",
+        "R4385",
+        "R4448",
+        "R4489",
+        "R4493"
       ]
     },
     {
@@ -3932,7 +4208,8 @@
         "Nov 12 PLC/limestone backfill: 1988–1991 ASTM/CRC “carbonate additions” literature (Mayfield 1988; Livesey 1991; Barker & Cory 1991; Adams & Race 1990; Bédard & Bergeron 1990; Neto & Campiteli 1990), Gutteridge & Dalziel 1990 filler-cement papers, Tsivilis 1999 and Vuk 2001 PLC parameters, Purdue 2013 and Caltrans 2021 PLC reports, and Nov 2026 limestone/gypsum content determination (R1671–R1850, 32 records).",
         "Nov 13 PLC/limestone backfill: forward citers of Tsivilis 1999 and the 1991 limestone-filled cement papers (De Weerdt et al. 2011 ternary limestone–fly ash; Ipavec et al. 2010 carboaluminates; Lothenbach 2010 thermodynamics; Torres et al. 2003 and Hartshorn et al. 2001 PLC mortars in magnesium sulfate), limestone filler sulfate-attack review (Irassar 2009), CEMHYD3D modelling, rheology/chemical shrinkage with filler, PLC concrete pavements and FE heat-of-hydration with limestone blended cement (R1905–R2532, 33 records).",
         "Nov 18 PLC/limestone backfill: sulfate/thaumasite resistance of limestone cements (2009–2015; PLC with fly ash or slag), PLC state-of-the-art review (1996) and 2020–2021 PLC reviews, multi-scale limestone performance, calcined-clay–limestone and slag–limestone ternary studies, a 2026 PLC-based UHPC item and sulfate additions in limestone binders (R2696–R2983, 24 records).",
-        "Nov 20 backfill: limestone fineness and early hydration, limestone fines in manufactured sand and SCC, limestone with fly ash/slag/alkali-activated blends, nano-/micro-limestone in UHPC, intergrinding of clinker and limestone (1990s), Portland-limestone cement TG and low-temperature sulfate studies and a 2026 PLC infrastructure paper (R3699–R3995, 15 records). DOI/abstract level only."
+        "Nov 20 backfill: limestone fineness and early hydration, limestone fines in manufactured sand and SCC, limestone with fly ash/slag/alkali-activated blends, nano-/micro-limestone in UHPC, intergrinding of clinker and limestone (1990s), Portland-limestone cement TG and low-temperature sulfate studies and a 2026 PLC infrastructure paper (R3699–R3995, 15 records). DOI/abstract level only.",
+        "Nov 22 open-queue: MAP brief on portland-limestone cement after 10 years in the field, the Kansas PLC-treated subgrade/base project record, early hydration of PLC by infrared/calorimetry, and Type C fly ash with limestone (R4318–R4452, 5 records)."
       ],
       "resourceIds": [
         "R59",
@@ -4144,7 +4421,12 @@
         "R4156",
         "R4157",
         "R4158",
-        "R4240"
+        "R4240",
+        "R4318",
+        "R4319",
+        "R4320",
+        "R4422",
+        "R4452"
       ]
     },
     {
@@ -4342,7 +4624,10 @@
         "R4189",
         "R4205",
         "R4236",
-        "R4253"
+        "R4253",
+        "R4334",
+        "R4423",
+        "R4581"
       ]
     },
     {
@@ -4766,7 +5051,38 @@
         "R4261",
         "R4270",
         "R4276",
-        "R4287"
+        "R4287",
+        "R4302",
+        "R4303",
+        "R4307",
+        "R4331",
+        "R4333",
+        "R4335",
+        "R4336",
+        "R4352",
+        "R4389",
+        "R4411",
+        "R4412",
+        "R4421",
+        "R4424",
+        "R4425",
+        "R4426",
+        "R4427",
+        "R4432",
+        "R4442",
+        "R4445",
+        "R4446",
+        "R4456",
+        "R4457",
+        "R4466",
+        "R4469",
+        "R4498",
+        "R4510",
+        "R4513",
+        "R4522",
+        "R4557",
+        "R4569",
+        "R4577"
       ]
     },
     {
@@ -4775,7 +5091,8 @@
       "takeaways": [
         "Seeded / partial: Separate compressive strength from broader performance and fiber-dependent UHPC tensile behavior; foundational sources are not latest design provisions.",
         "Pass 3: de Larrard ultrafine particles (1989) and packing optimization (1994), Richard & Cheyrezy RPC (1995), NIST HPC curing/maturity/fire workshop reports (1992–1999), Aïtcin durability review, USACE very-high-strength concrete, FHWA UHPC design framework, resistivity TechBrief and overlay reports, 2026 PCI/ACI UHPC bridge papers (R255, R283, R284, R285, R286, R287, R288, R289, R290, R291, R292, R293, R320, R325, R354, R359, R360, R361, R362).",
-        "Nov 13 backfill: ACI 1984 state-of-the-art on high-strength concrete, high-temperature behaviour (Khoury 1992; Castillo & Durrani 1990), confinement of HSC columns (Cusson & Paultre 1994), RPC durability (Roux et al. 1996) and mineral admixtures, UHPC tensile/compressive test methods and characterisation, autogenous shrinkage reviews (R2037–R2539, 53 records)."
+        "Nov 13 backfill: ACI 1984 state-of-the-art on high-strength concrete, high-temperature behaviour (Khoury 1992; Castillo & Durrani 1990), confinement of HSC columns (Cusson & Paultre 1994), RPC durability (Roux et al. 1996) and mineral admixtures, UHPC tensile/compressive test methods and characterisation, autogenous shrinkage reviews (R2037–R2539, 53 records).",
+        "Nov 22 backfill: HSC/HPC fire performance, long-term properties and microstructure, UHPC durability and shielding studies (R4303–R4576, 22 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R155",
@@ -4996,7 +5313,29 @@
         "R4189",
         "R4245",
         "R4248",
-        "R4276"
+        "R4276",
+        "R4303",
+        "R4308",
+        "R4341",
+        "R4354",
+        "R4355",
+        "R4359",
+        "R4393",
+        "R4435",
+        "R4439",
+        "R4441",
+        "R4442",
+        "R4443",
+        "R4444",
+        "R4445",
+        "R4446",
+        "R4447",
+        "R4458",
+        "R4525",
+        "R4542",
+        "R4545",
+        "R4560",
+        "R4576"
       ]
     },
     {
@@ -5149,7 +5488,15 @@
         "R4045",
         "R4175",
         "R4220",
-        "R4221"
+        "R4221",
+        "R4460",
+        "R4462",
+        "R4463",
+        "R4484",
+        "R4486",
+        "R4491",
+        "R4543",
+        "R4544"
       ]
     },
     {
@@ -5158,7 +5505,8 @@
       "takeaways": [
         "Seeded / partial: Synthetic-fiber guidance plus UHPC report; steel/glass/basalt fibers, ECC and FRC structural design still need dedicated coverage.",
         "Pass 2: Zollo 1997 30-year FRC overview, steel vs macro-synthetic workability/air study and a GFRC review (R225, R226, R227). ACI 544 documents and EN 14651/ASTM C1609 residual-strength methods remain to be reviewed.",
-        "Nov 13 backfill: steel fibre reinforced concrete 1972–1993 (orientation, shear/moment, punching, marine chloride), steel fibre–cement interface studies (1978, 1985), GRC microstructure and durability (1974–2001), hybrid and polypropylene fibres at high temperature, PVA-ECC (Li et al. 2001/2002) and self-healing ECC, basalt fibres and textile-reinforced concrete/mortar incl. RILEM TC 232-TDT (R1966–R2557, 55 records)."
+        "Nov 13 backfill: steel fibre reinforced concrete 1972–1993 (orientation, shear/moment, punching, marine chloride), steel fibre–cement interface studies (1978, 1985), GRC microstructure and durability (1974–2001), hybrid and polypropylene fibres at high temperature, PVA-ECC (Li et al. 2001/2002) and self-healing ECC, basalt fibres and textile-reinforced concrete/mortar incl. RILEM TC 232-TDT (R1966–R2557, 55 records).",
+        "Nov 22 backfill: steel, polypropylene, basalt, glass and plant-fibre concretes, round-panel FRC testing and ECC transport properties, with French and Indonesian fibre-concrete literature (R4337–R4575, 31 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R164",
@@ -5376,7 +5724,38 @@
         "R4224",
         "R4243",
         "R4248",
-        "R4249"
+        "R4249",
+        "R4337",
+        "R4339",
+        "R4367",
+        "R4389",
+        "R4402",
+        "R4407",
+        "R4413",
+        "R4415",
+        "R4424",
+        "R4425",
+        "R4426",
+        "R4427",
+        "R4428",
+        "R4429",
+        "R4430",
+        "R4431",
+        "R4432",
+        "R4441",
+        "R4447",
+        "R4514",
+        "R4515",
+        "R4516",
+        "R4517",
+        "R4518",
+        "R4566",
+        "R4567",
+        "R4568",
+        "R4569",
+        "R4570",
+        "R4574",
+        "R4575"
       ]
     },
     {
@@ -5511,7 +5890,8 @@
         "R3930",
         "R3947",
         "R4038",
-        "R4190"
+        "R4190",
+        "R4358"
       ]
     },
     {
@@ -5520,7 +5900,8 @@
       "takeaways": [
         "Seeded / partial: Density and form pressure/handling require special consideration; shielding design outside reviewed source.",
         "Pass 2: gamma and neutron shielding evidence (barite/magnetite/goethite/serpentine HPC; 2021 neutron and 2024 radiation-shielding reviews; ferrophosphorus weighting for well cement) (R221, R222, R223, R224). Lab/review evidence; shielding design requires project-specific nuclear analysis and ACI 349/NRC-type requirements not reviewed.",
-        "Nov 18 backfill: radiation-shielding concrete — barite, magnetite, hematite–serpentine, steel-slag and heavy-waste-glass aggregates, gamma/neutron attenuation and photon-coefficient studies, 2022–2024 reviews, radiation effects on concrete in nuclear plants (Part I quantification; 1978 mechanical-property effects), and early-age behaviour of nuclear containments; a 1989 monograph and the 1996 heavy-concrete paper are catalogue/landing-page level (R2714–R3029, 23 records)."
+        "Nov 18 backfill: radiation-shielding concrete — barite, magnetite, hematite–serpentine, steel-slag and heavy-waste-glass aggregates, gamma/neutron attenuation and photon-coefficient studies, 2022–2024 reviews, radiation effects on concrete in nuclear plants (Part I quantification; 1978 mechanical-property effects), and early-age behaviour of nuclear containments; a 1989 monograph and the 1996 heavy-concrete paper are catalogue/landing-page level (R2714–R3029, 23 records).",
+        "Nov 22 backfill: radiation-shielding concretes (ferro-boron, chrome-ore, heavy UHPC) with heating and water-cement-ratio effects (R4433–R4503, 9 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R148",
@@ -5593,7 +5974,16 @@
         "R2802",
         "R2803",
         "R3029",
-        "R3566"
+        "R3566",
+        "R4433",
+        "R4434",
+        "R4435",
+        "R4436",
+        "R4437",
+        "R4438",
+        "R4439",
+        "R4440",
+        "R4503"
       ]
     },
     {
@@ -5685,7 +6075,10 @@
         "R3385",
         "R3920",
         "R3943",
-        "R3950"
+        "R3950",
+        "R4455",
+        "R4489",
+        "R4494"
       ]
     },
     {
@@ -5694,7 +6087,8 @@
       "takeaways": [
         "Seeded / partial: Preserve detailed mass/thermal research; add pavement RCC. Dam RCC has different construction and performance needs.",
         "Pass 2: 2010 CP Tech Center RCC pavement guide (full PDF), gyratory mix-design procedure and natural-pozzolan RCC scaling study; NBS 1934 heat data also tagged (R204, R210, R228, R229, R230). RCC dam practice (USACE EM 1110-2-2006, USBR) still open; ACI 327 spec expected 2027 per NRMCA report.",
-        "Nov 18 backfill (DOI/abstract level): roller-compacted concrete with high-volume fly ash, rice husk ash and rubber/reclaimed aggregates (strength, freeze–thaw, cracking, pavements), finite-element thermal cracking of massive hardening concrete, concrete-dam history (US Bureau of Reclamation), and a Vietnamese mass-concrete hydration-heat study (R2804–R2812, 9 records). Dam-monitoring and seismic-fragility papers were deliberately left out as structural rather than materials literature."
+        "Nov 18 backfill (DOI/abstract level): roller-compacted concrete with high-volume fly ash, rice husk ash and rubber/reclaimed aggregates (strength, freeze–thaw, cracking, pavements), finite-element thermal cracking of massive hardening concrete, concrete-dam history (US Bureau of Reclamation), and a Vietnamese mass-concrete hydration-heat study (R2804–R2812, 9 records). Dam-monitoring and seismic-fragility papers were deliberately left out as structural rather than materials literature.",
+        "Nov 22 backfill: RCC pavement studies with rubber, coal waste, limestone powder, macro-synthetic fibre and ultrasonic pulse velocity; low-cement RCC with SCMs (R4448–R4529, 12 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R110",
@@ -5758,7 +6152,19 @@
         "R4053",
         "R4055",
         "R4225",
-        "R4228"
+        "R4228",
+        "R4448",
+        "R4449",
+        "R4450",
+        "R4451",
+        "R4452",
+        "R4453",
+        "R4454",
+        "R4455",
+        "R4461",
+        "R4526",
+        "R4528",
+        "R4529"
       ]
     },
     {
@@ -5927,7 +6333,16 @@
         "R4279",
         "R4280",
         "R4292",
-        "R4293"
+        "R4293",
+        "R4448",
+        "R4449",
+        "R4450",
+        "R4451",
+        "R4452",
+        "R4453",
+        "R4454",
+        "R4485",
+        "R4547"
       ]
     },
     {
@@ -6023,7 +6438,8 @@
         "R2833",
         "R2871",
         "R2872",
-        "R3394"
+        "R3394",
+        "R4572"
       ]
     },
     {
@@ -6183,7 +6599,9 @@
         "R4006",
         "R4017",
         "R4132",
-        "R4151"
+        "R4151",
+        "R4456",
+        "R4457"
       ]
     },
     {
@@ -6390,7 +6808,12 @@
         "R4207",
         "R4219",
         "R4230",
-        "R4265"
+        "R4265",
+        "R4323",
+        "R4431",
+        "R4447",
+        "R4490",
+        "R4546"
       ]
     },
     {
@@ -6540,7 +6963,10 @@
         "R4177",
         "R4232",
         "R4236",
-        "R4242"
+        "R4242",
+        "R4499",
+        "R4546",
+        "R4548"
       ]
     },
     {
@@ -6784,7 +7210,8 @@
         "R3964",
         "R3965",
         "R3966",
-        "R3967"
+        "R3967",
+        "R4577"
       ]
     },
     {
@@ -7550,7 +7977,56 @@
         "R4284",
         "R4288",
         "R4289",
-        "R4290"
+        "R4290",
+        "R4323",
+        "R4324",
+        "R4326",
+        "R4329",
+        "R4332",
+        "R4334",
+        "R4338",
+        "R4340",
+        "R4345",
+        "R4348",
+        "R4351",
+        "R4356",
+        "R4360",
+        "R4362",
+        "R4368",
+        "R4370",
+        "R4376",
+        "R4380",
+        "R4382",
+        "R4384",
+        "R4385",
+        "R4386",
+        "R4390",
+        "R4391",
+        "R4392",
+        "R4393",
+        "R4395",
+        "R4399",
+        "R4400",
+        "R4401",
+        "R4405",
+        "R4410",
+        "R4414",
+        "R4419",
+        "R4421",
+        "R4422",
+        "R4425",
+        "R4430",
+        "R4439",
+        "R4483",
+        "R4487",
+        "R4491",
+        "R4504",
+        "R4506",
+        "R4521",
+        "R4525",
+        "R4544",
+        "R4552",
+        "R4562"
       ]
     },
     {
@@ -8129,7 +8605,29 @@
         "R4269",
         "R4272",
         "R4273",
-        "R4294"
+        "R4294",
+        "R4309",
+        "R4313",
+        "R4314",
+        "R4315",
+        "R4316",
+        "R4317",
+        "R4323",
+        "R4347",
+        "R4377",
+        "R4398",
+        "R4404",
+        "R4409",
+        "R4431",
+        "R4447",
+        "R4462",
+        "R4463",
+        "R4483",
+        "R4487",
+        "R4490",
+        "R4491",
+        "R4546",
+        "R4559"
       ]
     },
     {
@@ -8138,7 +8636,8 @@
       "takeaways": [
         "Partial coverage: Document delivery adjustments, placement responsibilities and moisture/temperature curing; transport-specific datasets remain thin.",
         "Pass 3: 1922 cold-weather cooling study, NBS 1976 construction safety, maturity-method papers (1983, 1990, NIST 1992), HPC curing, formwork and cold-weather reviews (2023), pervious compaction energy (2026) (R286, R288, R298, R308, R341, R342, R343, R344, R345, R346, R357).",
-        "Nov 18 backfill: concrete pumping (lubrication layer, pumpability testing, pipe flow), curing and temperature effects (maturity methods, elevated-temperature curing of slag concretes, hot/cold-weather strength, autogenous curing HPC), placing admixtures, construction joints, stay-in-place formwork for robotic fabrication and 3D-printing pumpability (R2593–R3034, 47 records)."
+        "Nov 18 backfill: concrete pumping (lubrication layer, pumpability testing, pipe flow), curing and temperature effects (maturity methods, elevated-temperature curing of slag concretes, hot/cold-weather strength, autogenous curing HPC), placing admixtures, construction joints, stay-in-place formwork for robotic fabrication and 3D-printing pumpability (R2593–R3034, 47 records).",
+        "Nov 22 backfill: precast connection (grouted sleeve) tests, construction-joint shear performance, formwork pressure with self-consolidating concrete and RCC pavement construction (R4302–R4549, 18 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R158",
@@ -8424,7 +8923,25 @@
         "R4236",
         "R4252",
         "R4276",
-        "R4278"
+        "R4278",
+        "R4302",
+        "R4303",
+        "R4327",
+        "R4334",
+        "R4411",
+        "R4452",
+        "R4456",
+        "R4457",
+        "R4458",
+        "R4459",
+        "R4460",
+        "R4461",
+        "R4462",
+        "R4463",
+        "R4488",
+        "R4500",
+        "R4505",
+        "R4549"
       ]
     },
     {
@@ -9311,7 +9828,98 @@
         "R4284",
         "R4285",
         "R4286",
-        "R4293"
+        "R4293",
+        "R4297",
+        "R4323",
+        "R4325",
+        "R4327",
+        "R4331",
+        "R4333",
+        "R4335",
+        "R4336",
+        "R4341",
+        "R4343",
+        "R4344",
+        "R4346",
+        "R4350",
+        "R4354",
+        "R4359",
+        "R4361",
+        "R4363",
+        "R4364",
+        "R4369",
+        "R4373",
+        "R4374",
+        "R4375",
+        "R4378",
+        "R4393",
+        "R4396",
+        "R4397",
+        "R4398",
+        "R4400",
+        "R4402",
+        "R4405",
+        "R4407",
+        "R4408",
+        "R4412",
+        "R4416",
+        "R4423",
+        "R4424",
+        "R4425",
+        "R4426",
+        "R4427",
+        "R4430",
+        "R4431",
+        "R4432",
+        "R4436",
+        "R4437",
+        "R4439",
+        "R4441",
+        "R4442",
+        "R4443",
+        "R4445",
+        "R4446",
+        "R4447",
+        "R4448",
+        "R4449",
+        "R4452",
+        "R4459",
+        "R4461",
+        "R4465",
+        "R4478",
+        "R4479",
+        "R4480",
+        "R4481",
+        "R4484",
+        "R4486",
+        "R4487",
+        "R4488",
+        "R4490",
+        "R4491",
+        "R4492",
+        "R4505",
+        "R4524",
+        "R4526",
+        "R4527",
+        "R4528",
+        "R4529",
+        "R4532",
+        "R4533",
+        "R4534",
+        "R4535",
+        "R4536",
+        "R4537",
+        "R4538",
+        "R4539",
+        "R4540",
+        "R4542",
+        "R4544",
+        "R4545",
+        "R4552",
+        "R4570",
+        "R4572",
+        "R4573",
+        "R4581"
       ]
     },
     {
@@ -10046,7 +10654,47 @@
         "R4276",
         "R4281",
         "R4282",
-        "R4291"
+        "R4291",
+        "R4295",
+        "R4296",
+        "R4298",
+        "R4299",
+        "R4300",
+        "R4301",
+        "R4304",
+        "R4307",
+        "R4311",
+        "R4312",
+        "R4341",
+        "R4342",
+        "R4357",
+        "R4366",
+        "R4367",
+        "R4370",
+        "R4371",
+        "R4374",
+        "R4406",
+        "R4408",
+        "R4413",
+        "R4424",
+        "R4428",
+        "R4429",
+        "R4430",
+        "R4441",
+        "R4443",
+        "R4444",
+        "R4469",
+        "R4490",
+        "R4495",
+        "R4498",
+        "R4511",
+        "R4545",
+        "R4550",
+        "R4553",
+        "R4554",
+        "R4565",
+        "R4577",
+        "R4579"
       ]
     },
     {
@@ -10270,7 +10918,16 @@
         "R4240",
         "R4244",
         "R4247",
-        "R4294"
+        "R4294",
+        "R4310",
+        "R4322",
+        "R4365",
+        "R4374",
+        "R4379",
+        "R4512",
+        "R4537",
+        "R4550",
+        "R4571"
       ]
     },
     {
@@ -10278,7 +10935,8 @@
       "name": "Cross-cutting · Failures / field investigations / repairs / case studies",
       "takeaways": [
         "Partial coverage: Retain WDM forensic and aggregate troubleshooting; new-binder field failure and repair case histories remain sparse.",
-        "Nov 18 backfill (small): marine-environment deterioration case studies (Portugal), NDT for forensic investigation, shear-failure mechanisms of reinforced concrete beams, a forensic examination of a precast prestressed box-beam bridge and the 1979 Willow Island cooling-tower construction failure (R2852–R2856, 5 records). Generic structural-failure analyses (progressive collapse, FRP strengthening, numerical failure criteria) were excluded as off-scope."
+        "Nov 18 backfill (small): marine-environment deterioration case studies (Portugal), NDT for forensic investigation, shear-failure mechanisms of reinforced concrete beams, a forensic examination of a precast prestressed box-beam bridge and the 1979 Willow Island cooling-tower construction failure (R2852–R2856, 5 records). Generic structural-failure analyses (progressive collapse, FRP strengthening, numerical failure criteria) were excluded as off-scope.",
+        "Nov 22 backfill: condition assessment of concrete structures (ground-penetrating radar, electromagnetic waves, image-based crack recognition, fib Bulletin 59) and reliability-based assessment (R4302–R4471, 9 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R135",
@@ -10335,7 +10993,16 @@
         "R3826",
         "R3828",
         "R3832",
-        "R3833"
+        "R3833",
+        "R4302",
+        "R4464",
+        "R4465",
+        "R4466",
+        "R4467",
+        "R4468",
+        "R4469",
+        "R4470",
+        "R4471"
       ]
     },
     {
@@ -10725,7 +11392,29 @@
         "R4252",
         "R4253",
         "R4254",
-        "R4256"
+        "R4256",
+        "R4334",
+        "R4402",
+        "R4417",
+        "R4418",
+        "R4420",
+        "R4423",
+        "R4428",
+        "R4429",
+        "R4440",
+        "R4469",
+        "R4480",
+        "R4481",
+        "R4482",
+        "R4497",
+        "R4500",
+        "R4501",
+        "R4502",
+        "R4505",
+        "R4548",
+        "R4551",
+        "R4556",
+        "R4558"
       ]
     },
     {
@@ -10733,7 +11422,8 @@
       "name": "Cross-cutting · Availability / supply / regional practice",
       "takeaways": [
         "Partial coverage: Approval lists and local product availability are time-sensitive. No comprehensive regional price series, global classification crosswalk or supply inventory established.",
-        "Nov 18 backfill: cement-industry supply and market literature — alternative fuels and RDF in kilns (2008–2021), sewage-sludge co-processing, kiln-efficiency and energy-demand-flexibility studies, regional cement demand tied to power generation, steel/cement supply within a carbon budget, and older market-structure/cartel studies (Norway, Germany, US vertical integration) (R2562–R2870, 15 records). Thin: no government statistical series yet."
+        "Nov 18 backfill: cement-industry supply and market literature — alternative fuels and RDF in kilns (2008–2021), sewage-sludge co-processing, kiln-efficiency and energy-demand-flexibility studies, regional cement demand tied to power generation, steel/cement supply within a carbon budget, and older market-structure/cartel studies (Norway, Germany, US vertical integration) (R2562–R2870, 15 records). Thin: no government statistical series yet.",
+        "Nov 22 backfill: early-twentieth-century U.S. cement-industry reviews (1903–1911), Illinois portland-cement materials report and Bangladeshi cement-worker injury study (R4321–R4563, 8 records). DOI/abstract level only."
       ],
       "resourceIds": [
         "R28",
@@ -10772,7 +11462,15 @@
         "R2868",
         "R2869",
         "R2870",
-        "R3548"
+        "R3548",
+        "R4321",
+        "R4472",
+        "R4473",
+        "R4474",
+        "R4475",
+        "R4476",
+        "R4477",
+        "R4563"
       ]
     }
   ],
@@ -63598,6 +64296,3562 @@
         "cross-mix",
         "cross-tests-codes"
       ]
+    },
+    {
+      "id": "R4295",
+      "title": "Deicer Scaling Mechanisms in Concrete",
+      "publisher": "Special Publication",
+      "type": "Book chapter",
+      "date": "1975-01-01",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/17608",
+      "topics": [
+        "durability",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4296",
+      "title": "Freezing Effects in Concrete",
+      "publisher": "Special Publication",
+      "type": "Book chapter",
+      "date": "1975-01-01",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&i=17603",
+      "topics": [
+        "durability",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4297",
+      "title": "KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI SEBAGIAN SEMEN",
+      "publisher": "RADIAL : Jurnal Peradaban Sains, Rekayasa dan Teknologi",
+      "type": "Paper",
+      "date": "2020-07-13",
+      "url": "https://radial.e-journal.unbitago.ac.id/radial/article/view/199",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4298",
+      "title": "D-Cracking Field Performance of Portland Cement Concrete Pavements Containing Limestone in Kansas: Phase 1",
+      "publisher": "Kansas Department of Transportation, Bureau of Materials & Research (KS-12-3)",
+      "type": "Report",
+      "date": "2012-05-01",
+      "url": "https://web.archive.org/web/20251208224735/https://rosap.ntl.bts.gov/view/dot/24507",
+      "topics": [
+        "dot",
+        "durability",
+        "cross-durability",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R4299",
+      "title": "Aggregate Freeze-Thaw Testing and D-Cracking Field Performance: 30 Years Later",
+      "publisher": "Kansas Department of Transportation, Bureau of Materials & Research (KS-14-04)",
+      "type": "Report",
+      "date": "2014-09-01",
+      "url": "https://web.archive.org/web/20260411012717/https://rosap.ntl.bts.gov/view/dot/28013",
+      "topics": [
+        "dot",
+        "durability",
+        "cross-durability",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R4300",
+      "title": "Effects of Curing Methods and Supplementary Cementitious Material Use on Freeze Thaw Durability of Concrete Containing D-Cracking Aggregates",
+      "publisher": "Kansas State University Transportation Center for KDOT (K-TRAN KSU-11-2)",
+      "type": "Report",
+      "date": "2013-12-01",
+      "url": "https://web.archive.org/web/20261031031235/https://rosap.ntl.bts.gov/view/dot/26815",
+      "topics": [
+        "dot",
+        "durability",
+        "scm",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4301",
+      "title": "The Effects of Supplementary Cementitious Materials on Alkali-Silica Reaction",
+      "publisher": "Kansas Department of Transportation, Bureau of Research (FHWA-KS-15-06; SPR-73-1)",
+      "type": "Report",
+      "date": "2015-07-01",
+      "url": "https://web.archive.org/web/20260416075908/https://rosap.ntl.bts.gov/view/dot/29217",
+      "topics": [
+        "dot",
+        "scm",
+        "durability",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4302",
+      "title": "Construction of Crack-Free Bridge Decks (TPF-5(174)) Final Report",
+      "publisher": "University of Kansas, Dept. of Civil, Environmental and Architectural Engineering, for KDOT (FHWA-KS-17-01)",
+      "type": "Report",
+      "date": "2017-04-01",
+      "url": "https://web.archive.org/web/20251016011947/https://rosap.ntl.bts.gov/view/dot/32227",
+      "topics": [
+        "dot",
+        "concrete-structural",
+        "cross-construction",
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4303",
+      "title": "Construction of Low-Cracking High-Performance Bridge Decks Incorporating New Technology Phase II Final Report (TPF-5(392))",
+      "publisher": "University of Kansas, Dept. of Civil, Environmental and Architectural Engineering, for KDOT (FHWA-KS-23-02)",
+      "type": "Report",
+      "date": "2023-12-01",
+      "url": "https://web.archive.org/web/20251116223226/https://rosap.ntl.bts.gov/view/dot/72996",
+      "topics": [
+        "dot",
+        "concrete-structural",
+        "concrete-hpc",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R4304",
+      "title": "Influence of Rock Salt Impurities on Limestone Aggregate Durability",
+      "publisher": "Kansas State University Transportation Center and Dept. of Civil Engineering, for KDOT (K-TRAN KSU-12-6)",
+      "type": "Report",
+      "date": "2016-08-01",
+      "url": "https://web.archive.org/web/20250311051228/https://rosap.ntl.bts.gov/view/dot/31028",
+      "topics": [
+        "dot",
+        "durability",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4305",
+      "title": "Laboratory Investigation of the Use of Volcanic Ash in Concrete",
+      "publisher": "Kansas Department of Transportation, Bureau of Research (FHWA-KS-16-10)",
+      "type": "Report",
+      "date": "2016-09-01",
+      "url": "https://web.archive.org/web/20251223152124/https://rosap.ntl.bts.gov/view/dot/31226",
+      "topics": [
+        "dot",
+        "scm",
+        "scm-natural"
+      ]
+    },
+    {
+      "id": "R4306",
+      "title": "Seventy-five Years of Aggregate Research in Kansas",
+      "publisher": "Kansas Department of Transportation (FHWA-KS-99-1)",
+      "type": "Report",
+      "date": "1999-03-01",
+      "url": "https://web.archive.org/web/20251222020921/https://rosap.ntl.bts.gov/view/dot/13923",
+      "topics": [
+        "dot",
+        "durability"
+      ]
+    },
+    {
+      "id": "R4307",
+      "title": "Effects of Total Internal Water Content on Freeze-Thaw Durability and Scaling Resistance of Internally-Cured Concrete",
+      "publisher": "University of Kansas Center for Research (SM Report No. 154; pooled-fund project TPF-5(392))",
+      "type": "Report",
+      "date": "2023-07",
+      "url": "https://iri.ku.edu/sites/iri/files/files/pdfs/SM%20Report%20No.%20154.pdf",
+      "topics": [
+        "dot",
+        "durability",
+        "concrete-structural",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4308",
+      "title": "High Performance Concrete Pavement – Construction Report",
+      "publisher": "Kansas Department of Transportation (FHWA-KS-98-12; hosted by FHWA)",
+      "type": "Report",
+      "date": "1998-04",
+      "url": "https://www.fhwa.dot.gov/pavement/pubs/013284.pdf",
+      "topics": [
+        "dot",
+        "pavement",
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4309",
+      "title": "2026 KCMMB Portland Cement Concrete Material Specification",
+      "publisher": "Kansas City Metro Materials Board",
+      "type": "Specification",
+      "date": "2026",
+      "url": "https://www.kcmmb.org/images/stories/pdfs/2026_Specification.pdf",
+      "topics": [
+        "dot",
+        "standards",
+        "mix",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4310",
+      "title": "Hardened Concrete Properties Workbook (Certified Inspector Training Program)",
+      "publisher": "Kansas State University Salina, Professional Education",
+      "type": "Manual",
+      "date": "2026-05",
+      "url": "https://www.salina.k-state.edu/professional-education/certified-inspector-training/documents/workbook/hardened-concrete-properties-workbook-2026.pdf",
+      "topics": [
+        "dot",
+        "field",
+        "cross-tests-codes",
+        "strength"
+      ]
+    },
+    {
+      "id": "R4311",
+      "title": "Nebraska's Aggregates Reactivity Evaluation – Phase I–II",
+      "publisher": "Nebraska Department of Roads (Research Project R-2009-01)",
+      "type": "Report",
+      "date": "2013-01",
+      "url": "https://dot.nebraska.gov/media/sarc5irr/2013-nebraskaaggregatereactivityevaluationphasei-iicompleted.pdf",
+      "topics": [
+        "dot",
+        "durability",
+        "cross-durability",
+        "scm"
+      ]
+    },
+    {
+      "id": "R4312",
+      "title": "Durability of Portland Cement Concrete in Nebraska: Aggregates, Cements, and Pozzolans (SPR-1(02) P547)",
+      "publisher": "University of Nebraska–Lincoln, for the Nebraska Department of Roads (SPR-1(02) P547)",
+      "type": "Report",
+      "date": "2005-08",
+      "url": "https://dot.nebraska.gov/media/jvao4wzq/final-report-p547.pdf",
+      "topics": [
+        "dot",
+        "durability",
+        "cross-durability",
+        "scm"
+      ]
+    },
+    {
+      "id": "R4313",
+      "title": "Optimized Aggregates Gradations for Portland Cement Concrete Mix Designs Evaluation (47BR)",
+      "publisher": "Nebraska Department of Roads (Research Project P336; mix class 47BR)",
+      "type": "Report",
+      "date": null,
+      "url": "https://dot.nebraska.gov/media/3isfdv45/final-report-p336.pdf",
+      "topics": [
+        "dot",
+        "mix",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4314",
+      "title": "Investigation of Optimized Graded Concrete for Oklahoma – Phase I",
+      "publisher": "Oklahoma State University, for the Oklahoma Department of Transportation (FHWA-OK-13-12; SP&R 2160)",
+      "type": "Report",
+      "date": "2013-10",
+      "url": "https://www.tarantulacurve.com/uploads/1/6/3/9/16391330/fy13_2160_ley_finalreport.pdf",
+      "topics": [
+        "dot",
+        "mix",
+        "cross-mix",
+        "pavement"
+      ]
+    },
+    {
+      "id": "R4315",
+      "title": "Optimized Gradation and Workability Test Results (NCC Spring 2023)",
+      "publisher": "FHWA Mobile Concrete Technology Center (National Concrete Consortium Spring Meeting 2023)",
+      "type": "Presentation",
+      "date": "2023-04-19",
+      "url": "https://www.intrans.iastate.edu/wp-content/uploads/2023/04/Gudimettla_Optimized-Gradation.pdf",
+      "topics": [
+        "dot",
+        "mix",
+        "fresh",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4316",
+      "title": "Improving Concrete through Optimizing Aggregate Gradation",
+      "publisher": "Federal Highway Administration (FHWA-HIF-17-038)",
+      "type": "Tech brief",
+      "date": "2017",
+      "url": "https://www.fhwa.dot.gov/pavement/concrete/trailer/resources/hif17038.pdf",
+      "topics": [
+        "dot",
+        "mix",
+        "pavement",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4317",
+      "title": "Blended Aggregates for Concrete Mixture Optimization",
+      "publisher": "Federal Highway Administration (FHWA-HIF-15-019)",
+      "type": "Tech brief",
+      "date": "2015-07",
+      "url": "https://www.fhwa.dot.gov/pavement/concrete/pubs/hif15019.pdf",
+      "topics": [
+        "dot",
+        "mix",
+        "pavement",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4318",
+      "title": "Portland-Limestone Cement after 10 Years in the Field (MAP Brief, October 2018)",
+      "publisher": "CP Road Map (MAP Brief, Track 6; Al Innis Consulting LLC with Holcim contributors)",
+      "type": "Tech brief",
+      "date": "2018-10",
+      "url": "https://www.cptechcenter.org/wp-content/uploads/2019/10/MAPbriefOctober2018.pdf",
+      "topics": [
+        "scm-limestone",
+        "binder-blended",
+        "pavement",
+        "dot"
+      ]
+    },
+    {
+      "id": "R4319",
+      "title": "Evaluation of Portland Limestone Cement-Treated Subgrade Soils and Bases in Kansas",
+      "publisher": "National Concrete Pavement Technology Center, Iowa State University (project record; sponsor Kansas Department of Transportation; K-TRAN KU-24-5)",
+      "type": "Research project",
+      "date": "2023-07",
+      "url": "https://www.cptechcenter.org/ncc-projects/evaluation-of-portland-limestone-cement-treated-subgrade-soils-and-bases-in-kansas/",
+      "topics": [
+        "scm-limestone",
+        "dot",
+        "pavement",
+        "binder-blended"
+      ]
+    },
+    {
+      "id": "R4320",
+      "title": "High Dosage Type-C Fly Ash and Limestone in Sand-Gravel Concrete",
+      "publisher": "SAGE Publications (Transportation Research Record: Journal of the Transportation Research Board)",
+      "type": "Paper",
+      "date": "1996-01",
+      "url": "https://doi.org/10.1177/0361198196153200106",
+      "topics": [
+        "scm-flyash",
+        "scm-limestone",
+        "dot",
+        "mix"
+      ]
+    },
+    {
+      "id": "R4321",
+      "title": "Official Quality Status by Quarry (OFQ), Kansas Department of Transportation",
+      "publisher": "Kansas Department of Transportation (Bureau of Materials and Research; contact Engineer of Tests)",
+      "type": "Web tool",
+      "date": null,
+      "url": "https://kdotapp.ksdot.gov/ofq/",
+      "topics": [
+        "dot",
+        "standards",
+        "supply",
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R4322",
+      "title": "KDOT Standard Specifications for State Road and Bridge Construction, 2015 Edition",
+      "publisher": "Kansas Department of Transportation",
+      "type": "Specification",
+      "date": "2015",
+      "url": "https://web.archive.org/web/20260724013505/https://www.ksdot.gov/home/showpublisheddocument/5233/638941537050330000",
+      "topics": [
+        "dot",
+        "standards",
+        "mix",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4323",
+      "title": "Surface characterization of carbonated recycled concrete fines and its effect on the rheology, hydration and strength development of cement paste",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2020-11",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2020.103809",
+      "topics": [
+        "binder-portland",
+        "concrete-circular",
+        "cross-chemistry",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4324",
+      "title": "Probing the exact form and doping preference of magnesium in ordinary Portland cement clinker phases: A study from experiments and DFT simulations",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2021-06",
+      "url": "https://doi.org/10.1016/j.cemconres.2021.106420",
+      "topics": [
+        "binder-portland",
+        "binder-magnesium-carbonatable",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4325",
+      "title": "Development of ultra-fine SAP powder for lower-shrinkage and higher-strength cement pastes made with ultra-low water-to-binder ratio",
+      "publisher": "Elsevier (Composites Part B: Engineering)",
+      "type": "Paper",
+      "date": "2023-08",
+      "url": "https://doi.org/10.1016/j.compositesb.2023.110810",
+      "topics": [
+        "binder-portland",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4326",
+      "title": "Revealing the substitution preference of zinc in ordinary Portland cement clinker phases: A study from experiments and DFT calculations",
+      "publisher": "Elsevier (Journal of Hazardous Materials)",
+      "type": "Paper",
+      "date": "2021-05",
+      "url": "https://doi.org/10.1016/j.jhazmat.2020.124504",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4327",
+      "title": "Prediction of compressive strength development for blended cement mortar considering fly ash fineness and replacement ratio",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2021-02",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2020.121532",
+      "topics": [
+        "binder-portland",
+        "scm-flyash",
+        "binder-blended",
+        "cross-construction",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4328",
+      "title": "The setting and hardening of Portland cement",
+      "publisher": "Royal Society of Chemistry (RSC) (Transactions of the Faraday Society)",
+      "type": "Paper",
+      "date": "1919",
+      "url": "https://doi.org/10.1039/tf9191400023",
+      "topics": [
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4329",
+      "title": "Assessment of phase formation in lime-based mortars with added metakaolin, Portland cement and sepiolite, for grouting of historic masonry",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2010-01",
+      "url": "https://doi.org/10.1016/j.cemconres.2009.08.028",
+      "topics": [
+        "binder-white-masonry",
+        "scm-clay",
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4330",
+      "title": "Performance of coconut coir reinforced hydraulic cement mortar for surface plastering application",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-07",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.03.058",
+      "topics": [
+        "binder-white-masonry"
+      ]
+    },
+    {
+      "id": "R4331",
+      "title": "Influence of brick–mortar interface on the mechanical behaviour of low bond strength masonry brickwork lintels",
+      "publisher": "Elsevier (Engineering Structures)",
+      "type": "Paper",
+      "date": "2015-04",
+      "url": "https://doi.org/10.1016/j.engstruct.2014.12.014",
+      "topics": [
+        "binder-white-masonry",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4332",
+      "title": "Thermal behavior of cement based plastering mortar containing hybrid microencapsulated phase change materials",
+      "publisher": "Elsevier (Energy and Buildings)",
+      "type": "Paper",
+      "date": "2014-12",
+      "url": "https://doi.org/10.1016/j.enbuild.2014.08.010",
+      "topics": [
+        "binder-white-masonry",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4333",
+      "title": "Flexural bond strength of masonry using various blocks and mortars",
+      "publisher": "Springer (Materials and Structures)",
+      "type": "Paper",
+      "date": "1996-03",
+      "url": "https://doi.org/10.1007/bf02486202",
+      "topics": [
+        "binder-white-masonry",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4334",
+      "title": "High volume cement replacement by environmental friendly industrial by-product palm oil clinker powder in cement – lime masonry mortar",
+      "publisher": "Elsevier (Journal of Cleaner Production)",
+      "type": "Paper",
+      "date": "2018-07",
+      "url": "https://doi.org/10.1016/j.jclepro.2018.03.291",
+      "topics": [
+        "binder-white-masonry",
+        "scm-emerging",
+        "binder-portland",
+        "cross-chemistry",
+        "cross-construction",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4335",
+      "title": "Compressive, Flexural Bond, and Shear Bond Strengths of In Situ New Zealand Unreinforced Clay Brick Masonry Constructed Using Lime Mortar between the 1880s and 1940s",
+      "publisher": "ASCE (Journal of Materials in Civil Engineering)",
+      "type": "Paper",
+      "date": "2014-04",
+      "url": "https://doi.org/10.1061/(asce)mt.1943-5533.0000685",
+      "topics": [
+        "binder-white-masonry",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4336",
+      "title": "Tensile Bond Strength of Soil-Cement Block Masonry Couplets Using Cement-Soil Mortars",
+      "publisher": "ASCE (Journal of Materials in Civil Engineering)",
+      "type": "Paper",
+      "date": "2006-02",
+      "url": "https://doi.org/10.1061/(asce)0899-1561(2006)18:1(36)",
+      "topics": [
+        "binder-white-masonry",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4337",
+      "title": "Fiber-reinforced cement composites",
+      "publisher": "American Library Association (Choice Reviews Online)",
+      "type": "Paper",
+      "date": "1993-01-01",
+      "url": "https://doi.org/10.5860/choice.30-2693",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4338",
+      "title": "Mechanisms of hydration reactions in high volume fly ash pastes and mortars",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "1990",
+      "url": "https://doi.org/10.1016/0958-9465(90)90004-h",
+      "topics": [
+        "scm-flyash",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4339",
+      "title": "Fibre-reinforced cement and concrete",
+      "publisher": "CRC Press (Cement and Concrete)",
+      "type": "Book chapter",
+      "date": "1997-05-08",
+      "url": "https://doi.org/10.1201/9781482289053-16",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4340",
+      "title": "Location of Aluminum in Substituted Calcium Silicate Hydrate (C‐S‐H) Gels as Determined by 29 Si and 27 Al NMR and EELS",
+      "publisher": "Wiley (Journal of the American Ceramic Society)",
+      "type": "Paper",
+      "date": "1993-09",
+      "url": "https://doi.org/10.1111/j.1151-2916.1993.tb07765.x",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4341",
+      "title": "Long-Term Mechanical Properties and Durability Characteristics of High-Strength/High-Performance Concrete Incorporating Supplementary Cementing Materials under Outdoor Exposure Conditions",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2000",
+      "url": "https://doi.org/10.14359/9284",
+      "topics": [
+        "concrete-hpc",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4342",
+      "title": "Durability of Concrete Incorporating High Volumes of Fly Ash From Sources in the U.S.A.",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1994",
+      "url": "https://doi.org/10.14359/4411",
+      "topics": [
+        "scm-flyash",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4343",
+      "title": "Studies on mechanics of development of physical and mechanical properties of high-volume fly ash-cement pastes",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "1990",
+      "url": "https://doi.org/10.1016/0958-9465(90)90003-g",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4344",
+      "title": "Mechanical treatments of fly ashes. Part III: Studies on strength development of ground fly ashes (GFA) — Cement mortars",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1997-09",
+      "url": "https://doi.org/10.1016/s0008-8846(97)00129-4",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4345",
+      "title": "Direct observation of aluminium guest ions in the silicate phases of cement minerals by 27 Al MAS NMR spectroscopy",
+      "publisher": "Royal Society of Chemistry (RSC) (Journal of the Chemical Society, Faraday Transactions)",
+      "type": "Paper",
+      "date": "1994",
+      "url": "https://doi.org/10.1039/ft9949002095",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4346",
+      "title": "Hardened Portland cement pastes of low porosity V. Compressive strength",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1972-11",
+      "url": "https://doi.org/10.1016/0008-8846(72)90008-7",
+      "topics": [
+        "binder-portland",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4347",
+      "title": "Role of Concrete Incorporating High Volumes of Fly Ash in Controlling Expansion due to Alkali-Aggregate Reaction",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1991",
+      "url": "https://doi.org/10.14359/9746",
+      "topics": [
+        "scm-flyash",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4348",
+      "title": "Metakaolin—lime hydration products",
+      "publisher": "Elsevier (Thermochimica Acta)",
+      "type": "Paper",
+      "date": "1984-09",
+      "url": "https://doi.org/10.1016/0040-6031(84)87097-5",
+      "topics": [
+        "scm-clay",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4349",
+      "title": "Hardened portland cement pastes of low porosity II. Exploratory studies. Dimensional changes",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1972-05",
+      "url": "https://doi.org/10.1016/0008-8846(72)90074-9",
+      "topics": [
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4350",
+      "title": "Early Strength Fly Ash Concrete for Structural Applications",
+      "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+      "type": "Paper",
+      "date": "1983",
+      "url": "https://doi.org/10.14359/10865",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4351",
+      "title": "Hardened portland cement pastes of low porosity III. Degree of hydration. Expansion of paste. Total porosity",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1972-07",
+      "url": "https://doi.org/10.1016/0008-8846(72)90060-9",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4352",
+      "title": "Behavior of Concrete Columns Confined by Fiber Composites",
+      "publisher": "ASCE (Journal of Structural Engineering)",
+      "type": "Paper",
+      "date": "1997-05",
+      "url": "https://doi.org/10.1061/(asce)0733-9445(1997)123:5(583)",
+      "topics": [
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4353",
+      "title": "Effect of fly ash on Portland cement systems",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1999-11",
+      "url": "https://doi.org/10.1016/s0008-8846(99)00153-2",
+      "topics": [
+        "scm-flyash",
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4354",
+      "title": "Fire performance of high-strength concrete: a report of the state-of-the-art",
+      "publisher": "National Institute of Standards and Technology",
+      "type": "Report",
+      "date": "1996",
+      "url": "https://doi.org/10.6028/nist.ir.5934",
+      "topics": [
+        "concrete-hpc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4355",
+      "title": "Principles Underlying Production of High-Performance Concrete",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "1990-01-01",
+      "url": "https://doi.org/10.1520/cca10274j",
+      "topics": [
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4356",
+      "title": "Properties of concrete (fourth edition)",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1996-08",
+      "url": "https://doi.org/10.1016/0008-8846(96)82366-0",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4357",
+      "title": "Aging of Lime Putty: Effects on Traditional Lime Mortar Carbonation",
+      "publisher": "Wiley (Journal of the American Ceramic Society)",
+      "type": "Paper",
+      "date": "2000-05",
+      "url": "https://doi.org/10.1111/j.1151-2916.2000.tb01332.x",
+      "topics": [
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4358",
+      "title": "Stress-Strain Curves of Normal and Lightweight Concrete in Compression",
+      "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+      "type": "Paper",
+      "date": "1978",
+      "url": "https://doi.org/10.14359/10973",
+      "topics": [
+        "concrete-lightweight"
+      ]
+    },
+    {
+      "id": "R4359",
+      "title": "Comparison between high strength concrete and normal strength concrete subjected to high temperature",
+      "publisher": "Springer (Materials and Structures)",
+      "type": "Paper",
+      "date": "1996-12",
+      "url": "https://doi.org/10.1007/bf02485969",
+      "topics": [
+        "concrete-hpc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4360",
+      "title": "The chemistry of the pore fluid of silica fume-blended cement systems",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1990-07",
+      "url": "https://doi.org/10.1016/0008-8846(90)90095-f",
+      "topics": [
+        "scm-silica",
+        "binder-blended",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4361",
+      "title": "Influence of fly ash characteristics on the strength of portland-fly ash mixtures",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1985-07",
+      "url": "https://doi.org/10.1016/0008-8846(85)90067-5",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4362",
+      "title": "The dispersion model for hydration of portland cement I. General concepts",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1984-09",
+      "url": "https://doi.org/10.1016/0008-8846(84)90024-3",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4363",
+      "title": "Rate Constant Functions for Strength Development of Concrete",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1991",
+      "url": "https://doi.org/10.14359/2403",
+      "topics": [
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4364",
+      "title": "Factors influencing strength development of concrete containing silica fume",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1995-10",
+      "url": "https://doi.org/10.1016/0008-8846(95)00150-b",
+      "topics": [
+        "scm-silica",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4365",
+      "title": "Structural Concrete Incorporating High Volumes of ASTM Class Fly Ash",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1989",
+      "url": "https://doi.org/10.14359/2130",
+      "topics": [
+        "scm-flyash",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4366",
+      "title": "Resistance to chloride intrusion of concrete cured at different temperatures",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1991",
+      "url": "https://doi.org/10.14359/2326",
+      "topics": [
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4367",
+      "title": "Durability of glass fiber reinforced cement composites:",
+      "publisher": "Elsevier (Advanced Cement Based Materials)",
+      "type": "Paper",
+      "date": "1997-04",
+      "url": "https://doi.org/10.1016/s1065-7355(97)00003-5",
+      "topics": [
+        "concrete-fibers",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4368",
+      "title": "Silicate polymerization during the hydration of alite",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1983-11",
+      "url": "https://doi.org/10.1016/0008-8846(83)90089-3",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4369",
+      "title": "Mechanical Properties of Concrete Incorporating High Volumes of Fly Ash From Sources in the U.S.",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1993",
+      "url": "https://doi.org/10.14359/4426",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4370",
+      "title": "Aspects of the pore solution chemistry of blended cements related to the control of alkali silica reaction",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1987-09",
+      "url": "https://doi.org/10.1016/0008-8846(87)90046-9",
+      "topics": [
+        "binder-blended",
+        "cross-chemistry",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4371",
+      "title": "A Possible Method for Identifying Fly Ashes That Will Improve the Sulfate Resistance of Concretes",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "1980-07-01",
+      "url": "https://doi.org/10.1520/cca10175j",
+      "topics": [
+        "scm-flyash",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4372",
+      "title": "Alkaline Activation of Metakaolin An Isothermal Conduction Calorimetry Study",
+      "publisher": "Springer (Journal of Thermal Analysis and Calorimetry)",
+      "type": "Paper",
+      "date": "1998-06",
+      "url": "https://doi.org/10.1023/a:1010176321136",
+      "topics": [
+        "scm-clay"
+      ]
+    },
+    {
+      "id": "R4373",
+      "title": "The influence of fly ash fineness on the strength of concrete",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1991-03",
+      "url": "https://doi.org/10.1016/0008-8846(91)90010-f",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4374",
+      "title": "Concretes Incorporating High Volumes of ASTM Class F Fly Ashes: Mechanical Properties and Resistance to De-icing Salt Scaling and to Chloride-Ion Penetration",
+      "publisher": "American Concrete Institute (\"SP-132: Fly Ash, Silica Fume, Slag, and Natural Pozzolans and Natural Pozzolans in Concrete - Proce)",
+      "type": "Conference paper",
+      "date": "1992",
+      "url": "https://doi.org/10.14359/1884",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics",
+        "cross-durability",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4375",
+      "title": "Early-strength development of portland cement mortars containing air classified fly ashes",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1995-02",
+      "url": "https://doi.org/10.1016/0008-8846(95)00031-3",
+      "topics": [
+        "scm-flyash",
+        "binder-portland",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4376",
+      "title": "Hydration of fly ash-portland cements",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1984-07",
+      "url": "https://doi.org/10.1016/0008-8846(84)90126-1",
+      "topics": [
+        "scm-flyash",
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4377",
+      "title": "The Effect of Fly Ash on Concrete Alkali-Aggregate Reaction",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "1981-01-01",
+      "url": "https://doi.org/10.1520/cca10212j",
+      "topics": [
+        "scm-flyash",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4378",
+      "title": "Creep of Fly Ash Concrete",
+      "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+      "type": "Paper",
+      "date": "1981",
+      "url": "https://doi.org/10.14359/10519",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4379",
+      "title": "Concrete Incorporating High Volumes of ASTM Class F Fly Ash",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "1988-01-01",
+      "url": "https://doi.org/10.1520/cca10088j",
+      "topics": [
+        "scm-flyash",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4380",
+      "title": "Microstructure and Porosity of Metakaolin Blended Cements",
+      "publisher": "Springer (MRS Proceedings)",
+      "type": "Paper",
+      "date": "1988",
+      "url": "https://doi.org/10.1557/proc-137-431",
+      "topics": [
+        "scm-clay",
+        "binder-blended",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4381",
+      "title": "Hardened portland cement pastes of low porosity IV. Surface area and pore structure",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1972-09",
+      "url": "https://doi.org/10.1016/0008-8846(72)90112-3",
+      "topics": [
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4382",
+      "title": "Hardened portland cement pastes of low porosity VI. Mechanism of the hydration process",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1973-03",
+      "url": "https://doi.org/10.1016/0008-8846(73)90043-4",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4383",
+      "title": "Cement equivalence factors for fly ash",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1993-09",
+      "url": "https://doi.org/10.1016/0008-8846(93)90162-3",
+      "topics": [
+        "scm-flyash"
+      ]
+    },
+    {
+      "id": "R4384",
+      "title": "Studies of Early Stages of Paste Hydration of Cement Compounds, I",
+      "publisher": "Wiley (Journal of the American Ceramic Society)",
+      "type": "Paper",
+      "date": "1962-11",
+      "url": "https://doi.org/10.1111/j.1151-2916.1962.tb11053.x",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4385",
+      "title": "Fly Ash and Silica Fume Chemistry and Hydration",
+      "publisher": "American Concrete Institute (\"SP-114: Fly Ash, Silica Fume, Slag, and Natural Pozzolans in Concrete: Proceedings of the Third Int)",
+      "type": "Conference paper",
+      "date": "1989",
+      "url": "https://doi.org/10.14359/1881",
+      "topics": [
+        "scm-flyash",
+        "scm-silica",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4386",
+      "title": "Identification of some of the polysilicate components of trimethylsilylated cement paste",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1981-09",
+      "url": "https://doi.org/10.1016/0008-8846(81)90036-3",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4387",
+      "title": "Effects of fly ash incorporation in cement and concrete",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1983-09",
+      "url": "https://doi.org/10.1016/0008-8846(83)90073-x",
+      "topics": [
+        "scm-flyash"
+      ]
+    },
+    {
+      "id": "R4388",
+      "title": "Revised Procedure for the Determination of Uncombined Lime in Portland Cement",
+      "publisher": "American Chemical Society (ACS) (Industrial & Engineering Chemistry Analytical Edition)",
+      "type": "Paper",
+      "date": "1930-07",
+      "url": "https://doi.org/10.1021/ac50071a036",
+      "topics": [
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4389",
+      "title": "The Influence of Thickness on Performance of Fiber-Reinforced Concrete in a Round Determinate Panel Test",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "2001-06-01",
+      "url": "https://doi.org/10.1520/cca10522j",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4390",
+      "title": "Hydration of the Alite Phase in Portland Cement",
+      "publisher": "Springer (Nature)",
+      "type": "Paper",
+      "date": "1963-02-16",
+      "url": "https://doi.org/10.1038/197688a0",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4391",
+      "title": "Interstitial material in oilwell cements: evidence from X-ray microanalysis",
+      "publisher": "Emerald (Advances in Cement Research)",
+      "type": "Paper",
+      "date": "1992-10",
+      "url": "https://doi.org/10.1680/adcr.1992.4.16.141",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4392",
+      "title": "Method for approximating the glass content of portland cement clinker",
+      "publisher": "National Institute of Standards and Technology (NIST) (Journal of Research of the National Bureau of Standards)",
+      "type": "Paper",
+      "date": "1937-05",
+      "url": "https://doi.org/10.6028/jres.018.038",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4393",
+      "title": "Comparative Study of the Microstructures of Normal and Very High-Strength Concretes",
+      "publisher": "ASTM International (Cement, Concrete, and Aggregates)",
+      "type": "Paper",
+      "date": "1987-01-01",
+      "url": "https://doi.org/10.1520/cca10070j",
+      "topics": [
+        "concrete-hpc",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4394",
+      "title": "Effects of flyash incorporation in cement and concrete",
+      "publisher": "Elsevier (International Journal of Cement Composites and Lightweight Concrete)",
+      "type": "Paper",
+      "date": "1983-02",
+      "url": "https://doi.org/10.1016/0262-5075(83)90057-x",
+      "topics": [
+        "scm-flyash"
+      ]
+    },
+    {
+      "id": "R4395",
+      "title": "TEM study of the composition of the interstitial phase in an oil-well cement clinker",
+      "publisher": "Emerald (Advances in Cement Research)",
+      "type": "Paper",
+      "date": "1993-01",
+      "url": "https://doi.org/10.1680/adcr.1993.5.17.15",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4396",
+      "title": "Use of bacteria to repair cracks in concrete",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2010-01",
+      "url": "https://doi.org/10.1016/j.cemconres.2009.08.025",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4397",
+      "title": "Near-surface mounted FRP reinforcement: An emerging technique for strengthening structures",
+      "publisher": "Elsevier (Composites Part B: Engineering)",
+      "type": "Paper",
+      "date": "2007-03",
+      "url": "https://doi.org/10.1016/j.compositesb.2006.08.003",
+      "topics": [
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4398",
+      "title": "Workability and strength of coarse high calcium fly ash geopolymer",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2007-03",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2006.11.002",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4399",
+      "title": "Thermodynamic properties of Portland cement hydrates in the system CaO–Al2O3–SiO2–CaSO4–CaCO3–H2O",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2007-10",
+      "url": "https://doi.org/10.1016/j.cemconres.2007.06.002",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4400",
+      "title": "A multiscale micromechanics-hydration model for the early-age elastic properties of cement-based materials",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2003-09",
+      "url": "https://doi.org/10.1016/s0008-8846(03)00039-5",
+      "topics": [
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4401",
+      "title": "Ettringite and CSH Portland cement phases for waste ion immobilization: A review",
+      "publisher": "Elsevier (Waste Management)",
+      "type": "Review paper",
+      "date": "1996-01",
+      "url": "https://doi.org/10.1016/s0956-053x(96)00072-4",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4402",
+      "title": "Use of High Volumes of Fly Ash to Improve ECC Mechanical Properties and Material Greenness",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2007",
+      "url": "https://doi.org/10.14359/18966",
+      "topics": [
+        "scm-flyash",
+        "concrete-fibers",
+        "cross-mechanics",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4403",
+      "title": "Damage behavior of geopolymer composites exposed to elevated temperatures",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2008-11",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2008.08.001",
+      "topics": [
+        "binder-activated"
+      ]
+    },
+    {
+      "id": "R4404",
+      "title": "Packing density of cementitious materials: part 1—measurement using a wet packing method",
+      "publisher": "Springer (Materials and Structures)",
+      "type": "Paper",
+      "date": "2007-06-19",
+      "url": "https://doi.org/10.1617/s11527-007-9274-5",
+      "topics": [
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4405",
+      "title": "Determination by nanoindentation of elastic modulus and hardness of pure constituents of Portland cement clinker",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2001-04",
+      "url": "https://doi.org/10.1016/s0008-8846(00)00505-6",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4406",
+      "title": "Impact of chloride on the mineralogy of hydrated Portland cement systems",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2010-07",
+      "url": "https://doi.org/10.1016/j.cemconres.2010.03.002",
+      "topics": [
+        "binder-portland",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4407",
+      "title": "Stress–strain model for concrete confined by FRP composites",
+      "publisher": "Elsevier (Composites Part B: Engineering)",
+      "type": "Paper",
+      "date": "2007-07",
+      "url": "https://doi.org/10.1016/j.compositesb.2006.07.020",
+      "topics": [
+        "concrete-fibers",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4408",
+      "title": "Influence of traversing crack on chloride diffusion into concrete",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2008-06",
+      "url": "https://doi.org/10.1016/j.cemconres.2007.10.007",
+      "topics": [
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4409",
+      "title": "Smart aggregates: multi-functional sensors for concrete structures—a tutorial and a review",
+      "publisher": "IOP Publishing (Smart Materials and Structures)",
+      "type": "Review paper",
+      "date": "2008-03-18",
+      "url": "https://doi.org/10.1088/0964-1726/17/3/033001",
+      "topics": [
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4410",
+      "title": "Composition and microstructure of 20-year-old ordinary Portland cement–ground granulated blast-furnace slag blends containing 0 to 100% slag",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2010-07",
+      "url": "https://doi.org/10.1016/j.cemconres.2010.02.012",
+      "topics": [
+        "scm-slag",
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4411",
+      "title": "Displacement-Based Design of Slender Reinforced Concrete Structural Walls—Experimental Verification",
+      "publisher": "ASCE (Journal of Structural Engineering)",
+      "type": "Paper",
+      "date": "2004-04",
+      "url": "https://doi.org/10.1061/(asce)0733-9445(2004)130:4(618)",
+      "topics": [
+        "concrete-structural",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R4412",
+      "title": "Effect of cross-sectional aspect ratio on the strength of CFRP-confined rectangular concrete columns",
+      "publisher": "Elsevier (Engineering Structures)",
+      "type": "Paper",
+      "date": "2010-01",
+      "url": "https://doi.org/10.1016/j.engstruct.2009.08.012",
+      "topics": [
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4413",
+      "title": "Transport Properties of Engineered Cementitious Composites under Chloride Exposure",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2007",
+      "url": "https://doi.org/10.14359/18964",
+      "topics": [
+        "concrete-fibers",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4414",
+      "title": "Characterization and Modeling of Pores and Surfaces in Cement Paste: :Correlations to Processing and Properties",
+      "publisher": "Japan Concrete Institute (Journal of Advanced Concrete Technology)",
+      "type": "Paper",
+      "date": "2008",
+      "url": "https://doi.org/10.3151/jact.6.5",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4415",
+      "title": "Autogenous healing of engineered cementitious composites at early age",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2011-02",
+      "url": "https://doi.org/10.1016/j.cemconres.2010.11.002",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4416",
+      "title": "Neural networks for predicting compressive strength of structural light weight concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2009-06",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2008.12.003",
+      "topics": [
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4417",
+      "title": "Cement industry: sustainability, challenges and perspectives",
+      "publisher": "Springer (Environmental Chemistry Letters)",
+      "type": "Paper",
+      "date": "2010-10-23",
+      "url": "https://doi.org/10.1007/s10311-010-0302-2",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4418",
+      "title": "Identifying Improvement Potentials in Cement Production with Life Cycle Assessment",
+      "publisher": "American Chemical Society (ACS) (Environmental Science & Technology)",
+      "type": "Paper",
+      "date": "2010-11-03",
+      "url": "https://doi.org/10.1021/es100771k",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4419",
+      "title": "Setting time and expansion in different soaking media of experimental accelerated calcium-silicate cements and ProRoot MTA",
+      "publisher": "Elsevier (Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology)",
+      "type": "Paper",
+      "date": "2009-12",
+      "url": "https://doi.org/10.1016/j.tripleo.2009.07.039",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4420",
+      "title": "The CO2 abatement cost curve for the Thailand cement industry",
+      "publisher": "Elsevier (Journal of Cleaner Production)",
+      "type": "Paper",
+      "date": "2010-11",
+      "url": "https://doi.org/10.1016/j.jclepro.2010.06.005",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4421",
+      "title": "Heating-induced transformations in calcium silicate hydrate (C-S-H): In-situ investigations of composition, structure, and morphology",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2025-04",
+      "url": "https://doi.org/10.1016/j.cemconres.2025.107819",
+      "topics": [
+        "cross-chemistry",
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4422",
+      "title": "Insights into early hydration of Portland limestone cement from infrared spectroscopy and isothermal calorimetry",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2010-10",
+      "url": "https://doi.org/10.1016/j.cemconres.2010.06.008",
+      "topics": [
+        "scm-limestone",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4423",
+      "title": "Upcycling red mud into high-strength high-ductility Engineered Geopolymer Composites (EGC): Toward superior performance and sustainability",
+      "publisher": "Elsevier (Composites Part B: Engineering)",
+      "type": "Paper",
+      "date": "2025-10",
+      "url": "https://doi.org/10.1016/j.compositesb.2025.112713",
+      "topics": [
+        "binder-activated",
+        "scm-emerging",
+        "cross-mechanics",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4424",
+      "title": "Fibre-reinforced concrete: State-of-the-art-review on bridging mechanism, mechanical properties, durability, and eco-economic analysis",
+      "publisher": "Elsevier (Case Studies in Construction Materials)",
+      "type": "Review paper",
+      "date": "2025-07",
+      "url": "https://doi.org/10.1016/j.cscm.2025.e04574",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4425",
+      "title": "Experimental study on the mechanical properties and microstructure of chopped basalt fibre reinforced concrete",
+      "publisher": "Elsevier (Materials & Design)",
+      "type": "Paper",
+      "date": "2014-06",
+      "url": "https://doi.org/10.1016/j.matdes.2014.01.056",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4426",
+      "title": "Mechanical behaviour of basalt fibre reinforced concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2016-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2016.08.009",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4427",
+      "title": "Flexural performance of fibre reinforced concrete made with steel and synthetic fibres",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2012-11",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2012.06.042",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4428",
+      "title": "Durability study on interlaminar shear behaviour of basalt-, glass- and carbon-fibre reinforced polymer (B/G/CFRP) bars in seawater sea sand concrete environment",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.09.045",
+      "topics": [
+        "concrete-fibers",
+        "cross-durability",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4429",
+      "title": "Effect of sustained load and seawater and sea sand concrete environment on durability of basalt- and glass-fibre reinforced polymer (B/GFRP) bars",
+      "publisher": "Elsevier (Corrosion Science)",
+      "type": "Paper",
+      "date": "2018-07",
+      "url": "https://doi.org/10.1016/j.corsci.2018.04.002",
+      "topics": [
+        "concrete-fibers",
+        "cross-durability",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4430",
+      "title": "Mechanical, durability, and microstructural properties of macro synthetic polypropylene (PP) fiber-reinforced rubber concrete",
+      "publisher": "Elsevier (Journal of Cleaner Production)",
+      "type": "Paper",
+      "date": "2019-10",
+      "url": "https://doi.org/10.1016/j.jclepro.2019.06.272",
+      "topics": [
+        "concrete-fibers",
+        "cross-chemistry",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4431",
+      "title": "Compressive and flexural behaviours of a new steel-fibre-reinforced recycled aggregate concrete with crumb rubber",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2015-03",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2015.01.036",
+      "topics": [
+        "concrete-fibers",
+        "concrete-circular",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4432",
+      "title": "Post-cracking behaviour of basalt and macro polypropylene hybrid fibre reinforced concrete with different compressive strengths",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2020-11",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2020.120108",
+      "topics": [
+        "concrete-fibers",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4433",
+      "title": "High-density concrete: Exploring Ferro boron effects in neutron and gamma radiation shielding",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2019-08",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2019.04.105",
+      "topics": [
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R4434",
+      "title": "Recent developments of radiation shielding concrete in nuclear and radioactive waste storage facilities – A state of the art review",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Review paper",
+      "date": "2023-11",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2023.133260",
+      "topics": [
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R4435",
+      "title": "Shielding performance of heavy-weight ultra-high-performance concrete against nuclear radiation",
+      "publisher": "Elsevier (Progress in Nuclear Energy)",
+      "type": "Paper",
+      "date": "2020-12",
+      "url": "https://doi.org/10.1016/j.pnucene.2020.103550",
+      "topics": [
+        "concrete-heavyweight",
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4436",
+      "title": "A comprehensive study on the effect of water to cement ratio on the mechanical and radiation shielding properties of heavyweight concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2019-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2019.116905",
+      "topics": [
+        "concrete-heavyweight",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4437",
+      "title": "Effect of heating on physical, mechanical, and nuclear radiation shielding properties of modified concrete mixes",
+      "publisher": "Elsevier (Radiation Physics and Chemistry)",
+      "type": "Paper",
+      "date": "2018-12",
+      "url": "https://doi.org/10.1016/j.radphyschem.2018.09.018",
+      "topics": [
+        "concrete-heavyweight",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4438",
+      "title": "Development of new heavy concretes containing chrome-ore for nuclear radiation shielding applications",
+      "publisher": "Elsevier (Progress in Nuclear Energy)",
+      "type": "Paper",
+      "date": "2021-03",
+      "url": "https://doi.org/10.1016/j.pnucene.2021.103645",
+      "topics": [
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R4439",
+      "title": "Mechanical properties, attenuation coefficient, and microstructure of ultra high-performance heavyweight concrete for radiation shielding applications",
+      "publisher": "Elsevier (Journal of Building Engineering)",
+      "type": "Paper",
+      "date": "2024-04",
+      "url": "https://doi.org/10.1016/j.jobe.2023.108395",
+      "topics": [
+        "concrete-heavyweight",
+        "concrete-hpc",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4440",
+      "title": "Advancements and environmental considerations in portland cement-based radiation shielding concrete: Materials, properties, and applications in nuclear power plants– review",
+      "publisher": "Elsevier (Cleaner Engineering and Technology)",
+      "type": "Review paper",
+      "date": "2024-04",
+      "url": "https://doi.org/10.1016/j.clet.2024.100733",
+      "topics": [
+        "concrete-heavyweight",
+        "binder-portland",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4441",
+      "title": "Exploring mechanical and durability properties of ultra-high performance concrete incorporating various steel fiber lengths and dosages",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2015-01",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2014.11.017",
+      "topics": [
+        "concrete-hpc",
+        "concrete-fibers",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4442",
+      "title": "Uniaxial Confinement Model for Normal- and High-Strength Concrete Columns",
+      "publisher": "ASCE (Journal of Structural Engineering)",
+      "type": "Paper",
+      "date": "2003-02",
+      "url": "https://doi.org/10.1061/(asce)0733-9445(2003)129:2(241)",
+      "topics": [
+        "concrete-hpc",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4443",
+      "title": "Mechanical and durability properties of high performance concretes containing supplementary cementitious materials",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2010-03",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2009.08.045",
+      "topics": [
+        "concrete-hpc",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4444",
+      "title": "Effects of silica powder and cement type on durability of ultra high performance concrete (UHPC)",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2016-02",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2015.11.005",
+      "topics": [
+        "concrete-hpc",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4445",
+      "title": "Seismic behavior and modeling of high-strength composite concrete-filled steel tube (CFT) beam–columns",
+      "publisher": "Elsevier (Journal of Constructional Steel Research)",
+      "type": "Paper",
+      "date": "2002-01",
+      "url": "https://doi.org/10.1016/s0143-974x(01)00099-2",
+      "topics": [
+        "concrete-hpc",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4446",
+      "title": "Predicting the fire resistance behaviour of high strength concrete columns",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2004-02",
+      "url": "https://doi.org/10.1016/s0958-9465(03)00089-1",
+      "topics": [
+        "concrete-hpc",
+        "concrete-structural",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4447",
+      "title": "Influence of double hooked-end steel fibers and slag on mechanical and durability properties of high performance recycled aggregate concrete",
+      "publisher": "Elsevier (Composite Structures)",
+      "type": "Paper",
+      "date": "2017-12",
+      "url": "https://doi.org/10.1016/j.compstruct.2017.08.086",
+      "topics": [
+        "concrete-hpc",
+        "scm-slag",
+        "concrete-fibers",
+        "concrete-circular",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4448",
+      "title": "The effect of waste rubber particles and silica fume on the mechanical properties of Roller Compacted Concrete Pavement",
+      "publisher": "Elsevier (Journal of Cleaner Production)",
+      "type": "Paper",
+      "date": "2016-08",
+      "url": "https://doi.org/10.1016/j.jclepro.2016.04.017",
+      "topics": [
+        "concrete-mass-rcc",
+        "scm-silica",
+        "concrete-pavement-pervious",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4449",
+      "title": "Evaluating the effect of macro-synthetic fibre on the mechanical properties of roller-compacted concrete pavement using response surface methodology",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2018-01",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.11.002",
+      "topics": [
+        "concrete-mass-rcc",
+        "concrete-pavement-pervious",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4450",
+      "title": "Experimental studies in Ultrasonic Pulse Velocity of roller compacted concrete pavement containing fly ash and M-sand",
+      "publisher": "Airiti Press, Inc. (International Journal of Pavement Research and Technology)",
+      "type": "Paper",
+      "date": "2016-07",
+      "url": "https://doi.org/10.1016/j.ijprt.2016.08.003",
+      "topics": [
+        "concrete-mass-rcc",
+        "scm-flyash",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4451",
+      "title": "Assessing the effects of supplementary cementitious materials on the performance of low-cement roller compacted concrete pavement",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2010-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2010.06.003",
+      "topics": [
+        "concrete-mass-rcc",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4452",
+      "title": "Mechanical properties of roller compacted concrete pavement containing coal waste and limestone powder as partial replacements of cement",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2016-05",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2016.02.116",
+      "topics": [
+        "concrete-mass-rcc",
+        "scm-limestone",
+        "concrete-pavement-pervious",
+        "cross-construction",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4453",
+      "title": "Fibre-reinforced roller-compacted concrete transport pavements",
+      "publisher": "Emerald (Proceedings of the Institution of Civil Engineers - Transport)",
+      "type": "Paper",
+      "date": "2011-05",
+      "url": "https://doi.org/10.1680/tran.9.00043",
+      "topics": [
+        "concrete-mass-rcc",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4454",
+      "title": "A study on performance of roller-compacted concrete for pavement",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.07.135",
+      "topics": [
+        "concrete-mass-rcc",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4455",
+      "title": "Skimming, Nonaerated Flow on Stepped Spillways over Roller Compacted Concrete Dams",
+      "publisher": "ASCE (Journal of Hydraulic Engineering)",
+      "type": "Paper",
+      "date": "2012-10",
+      "url": "https://doi.org/10.1061/(asce)hy.1943-7900.0000591",
+      "topics": [
+        "concrete-mass-rcc",
+        "concrete-cellular"
+      ]
+    },
+    {
+      "id": "R4456",
+      "title": "Grouted sleeve connections used in precast reinforced concrete construction – Experimental investigation of a column-to-column joint",
+      "publisher": "Elsevier (Engineering Structures)",
+      "type": "Paper",
+      "date": "2016-11",
+      "url": "https://doi.org/10.1016/j.engstruct.2016.09.021",
+      "topics": [
+        "cross-construction",
+        "concrete-precast-insitu-print",
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4457",
+      "title": "Seismic evaluation of grouted splice sleeve connections for reinforced precast concrete column–to–cap beam joints in accelerated bridge construction",
+      "publisher": "Precast/Prestressed Concrete Institute (PCI Journal)",
+      "type": "Paper",
+      "date": "2015-03-01",
+      "url": "https://doi.org/10.15554/pcij.03012015.80.103",
+      "topics": [
+        "cross-construction",
+        "concrete-precast-insitu-print",
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4458",
+      "title": "Experimental study on shear performance of plain construction joints integrated with ultra-high performance concrete (UHPC)",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.06.156",
+      "topics": [
+        "cross-construction",
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4459",
+      "title": "Using the maturity method in concrete cracking control at early ages",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2004-07",
+      "url": "https://doi.org/10.1016/s0958-9465(03)00080-5",
+      "topics": [
+        "cross-construction",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4460",
+      "title": "Variation of Formwork Pressure with Thixotropy of Self-Consolidating Concrete",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2003",
+      "url": "https://doi.org/10.14359/12460",
+      "topics": [
+        "cross-construction",
+        "concrete-scc"
+      ]
+    },
+    {
+      "id": "R4461",
+      "title": "Use of maturity method to estimate compressive strength of mass concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2015-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2015.07.026",
+      "topics": [
+        "cross-construction",
+        "concrete-mass-rcc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4462",
+      "title": "Effect of mineral admixtures on formwork pressure of self-consolidating concrete",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2010-10",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2010.07.018",
+      "topics": [
+        "cross-construction",
+        "concrete-scc",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4463",
+      "title": "Effect of Viscosity-Enhancing Admixtures on Formwork Pressure and Thixotropy of Self-Consolidating Concrete",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2006",
+      "url": "https://doi.org/10.14359/16612",
+      "topics": [
+        "cross-construction",
+        "concrete-scc",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4464",
+      "title": "Condition assessment of concrete structures using a new analysis method: Ground-penetrating radar computer-assisted visual interpretation",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2013-01",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2012.05.026",
+      "topics": [
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4465",
+      "title": "Automated crack pattern recognition from images for condition assessment of concrete structures",
+      "publisher": "Elsevier (Automation in Construction)",
+      "type": "Paper",
+      "date": "2021-08",
+      "url": "https://doi.org/10.1016/j.autcon.2021.103765",
+      "topics": [
+        "cross-failure-repair",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4466",
+      "title": "Condition Assessment of Reinforced Concrete Structures Using Electromagnetic Waves",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1993",
+      "url": "https://doi.org/10.14359/890",
+      "topics": [
+        "cross-failure-repair",
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4467",
+      "title": "Condition assessment of concrete-made structures using ground penetrating radar",
+      "publisher": "Elsevier (Automation in Construction)",
+      "type": "Paper",
+      "date": "2022-12",
+      "url": "https://doi.org/10.1016/j.autcon.2022.104627",
+      "topics": [
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4468",
+      "title": "Updating the reliability of a concrete bridge structure based on condition assessment with uncertainties",
+      "publisher": "Elsevier (Engineering Structures)",
+      "type": "Paper",
+      "date": "2010-01",
+      "url": "https://doi.org/10.1016/j.engstruct.2009.09.015",
+      "topics": [
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4469",
+      "title": "fib Bulletin 59. Condition control and assessment of reinforced concrete structures exposed to corrosive environments (carbonation/chlorides)",
+      "publisher": "fib. The International Federation for Structural Concrete (fib Bulletins)",
+      "type": "Book",
+      "date": "2011-05",
+      "url": "https://doi.org/10.35789/fib.bull.0059",
+      "topics": [
+        "cross-failure-repair",
+        "concrete-structural",
+        "cross-durability",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4470",
+      "title": "Methodology for reliability based condition assessment. Application to concrete structures in nuclear plants",
+      "publisher": "Office of Scientific and Technical Information (OSTI)",
+      "type": "Report",
+      "date": "1993-08-01",
+      "url": "https://doi.org/10.2172/10179658",
+      "topics": [
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4471",
+      "title": "Electrolysis in concrete",
+      "publisher": "National Bureau of Standards (Technologic Papers of the Bureau of Standards)",
+      "type": "Report",
+      "date": "1913",
+      "url": "https://doi.org/10.6028/nbst.1496",
+      "topics": [
+        "cross-failure-repair"
+      ]
+    },
+    {
+      "id": "R4472",
+      "title": "Cements, Limes and Plasters.",
+      "publisher": "American Chemical Society (ACS) (Journal of Industrial & Engineering Chemistry)",
+      "type": "Paper",
+      "date": "1921-05",
+      "url": "https://doi.org/10.1021/ie50137a040",
+      "topics": [
+        "cross-supply-region",
+        "binder-white-masonry"
+      ]
+    },
+    {
+      "id": "R4473",
+      "title": "Identification of Occupational Injury among the Workers of Selected Cement Industries in Bangladesh - A Case Study",
+      "publisher": "Bangladesh Journals Online (JOL) (Journal of Chemical Engineering)",
+      "type": "Paper",
+      "date": "1970-01-01",
+      "url": "https://doi.org/10.3329/jce.v25i0.7236",
+      "topics": [
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R4474",
+      "title": "Electric Motors in the Cement Industry",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE) (Transactions of the American Institute of Electrical Engineers)",
+      "type": "Paper",
+      "date": "1918-07",
+      "url": "https://doi.org/10.1109/t-aiee.1918.4765582",
+      "topics": [
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R4475",
+      "title": "A REVIEW OF THE AMERICAN PORTLAND CEMENT INDUSTRY.",
+      "publisher": "American Chemical Society (ACS) (Journal of the American Chemical Society)",
+      "type": "Review paper",
+      "date": "1906-09",
+      "url": "https://doi.org/10.1021/ja01975a022",
+      "topics": [
+        "cross-supply-region",
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4476",
+      "title": "CRITICAL REVIEW OF THE SECOND SERIES OF ANALYSES OF MATERIALS FOR THE PORTLAND CEMENT INDUSTRY MADE UNDER THE AUSPICES OF THE NEW YORK SECTION OF THE SOCIETY OF CHEMICAL INDUSTRY.",
+      "publisher": "American Chemical Society (ACS) (Journal of the American Chemical Society)",
+      "type": "Review paper",
+      "date": "1903-11",
+      "url": "https://doi.org/10.1021/ja02013a010",
+      "topics": [
+        "cross-supply-region",
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4477",
+      "title": "Summary of Cement Industry in 1910",
+      "publisher": "American Chemical Society (ACS) (Journal of Industrial & Engineering Chemistry)",
+      "type": "Paper",
+      "date": "1911-08-01",
+      "url": "https://doi.org/10.1021/ie50032a605",
+      "topics": [
+        "cross-supply-region"
+      ]
+    },
+    {
+      "id": "R4478",
+      "title": "Basic Mechanical Properties and Microscopic Characteristics of Alkali-Activated Slag/Fly Ash Concrete Incorporating Dredged Sand",
+      "publisher": "MDPI (Materials)",
+      "type": "Paper",
+      "date": "2026-11-02",
+      "url": "https://doi.org/10.3390/ma19214668",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "binder-activated",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4479",
+      "title": "Data redundancy, train–test leakage, and cross-source generalization in machine-learning prediction of fly ash concrete compressive strength",
+      "publisher": "IOP Publishing (Engineering Research Express)",
+      "type": "Paper",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.1088/2631-8695/aec1be",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4480",
+      "title": "Environmental-mechanical trade-offs in fibre-reinforced fly ash concrete: A comparative life cycle assessment",
+      "publisher": "Elsevier (Case Studies in Construction Materials)",
+      "type": "Paper",
+      "date": "2026-12",
+      "url": "https://doi.org/10.1016/j.cscm.2026.e06696",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4481",
+      "title": "Pareto-based screening of modified high-volume fly ash concrete formulations: Strength, environmental and economic trade-offs",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2026-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2026.148954",
+      "topics": [
+        "scm-flyash",
+        "cross-mechanics",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4482",
+      "title": "Utilisation of GGBS and Fly Ash as Supplementary Cementitious Materials in Concrete: A Review of Properties and Sustainability",
+      "publisher": "Tejass Publishers (IARJSET)",
+      "type": "Review paper",
+      "date": "2026-11-03",
+      "url": "https://doi.org/10.17148/iarjset.2026.131109",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4483",
+      "title": "A Double-Phase Packing Density Model for Performance-Based Concrete Mix Design Incorporating Pond Ash and Fly Ash",
+      "publisher": "Springer (Silicon)",
+      "type": "Paper",
+      "date": "2026-11-04",
+      "url": "https://doi.org/10.1007/s12633-026-03893-z",
+      "topics": [
+        "scm-flyash",
+        "cross-chemistry",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4484",
+      "title": "Mechanical Performance Evaluation of Self-Compacting Concrete Incorporating Fly Ash as a Cement Substitute",
+      "publisher": "CRC Press (Emerging Trends in Engineering and Applied Sciences)",
+      "type": "Book chapter",
+      "date": "2026-11-11",
+      "url": "https://doi.org/10.1201/9781042045105-27",
+      "topics": [
+        "scm-flyash",
+        "concrete-scc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4485",
+      "title": "Explainable machine learning modeling for predicting the hydraulic permeability of fly ash pervious concrete",
+      "publisher": "Springer (Discover Civil Engineering)",
+      "type": "Paper",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1007/s44290-026-00676-8",
+      "topics": [
+        "scm-flyash",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4486",
+      "title": "FRESH AND COMPRESSIVE STRENGTH PERFORMANCE OF M30 SELF-COMPACTING CONCRETE CONTAINING TREATED MSWI FLY ASH AND BOTTOM ASH",
+      "publisher": "Rotherham Press (Acta Innovations)",
+      "type": "Paper",
+      "date": "2026-11-07",
+      "url": "https://doi.org/10.62441/actainnovations.vi.3714",
+      "topics": [
+        "scm-flyash",
+        "concrete-scc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4487",
+      "title": "Combined effect of treated RAP aggregate, fly ash and admixture on mechanical and microstructural properties of concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2026-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2026.148873",
+      "topics": [
+        "scm-flyash",
+        "cross-chemistry",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4488",
+      "title": "Fly Ash Replacement in Conventional Concrete: ABAQUS-Based Assessment of Compressive Strength and Damage Evolution",
+      "publisher": "Sciencedomain International (Asian Journal of Advanced Research and Reports)",
+      "type": "Paper",
+      "date": "2026-11-05",
+      "url": "https://doi.org/10.9734/ajarr/2026/v20i111503",
+      "topics": [
+        "scm-flyash",
+        "cross-construction",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4489",
+      "title": "Tertiary Blended Aerated Concrete Incorporating Fly Ash, GGBS, and Silica Fume: A Comprehensive Review",
+      "publisher": "Zenodo",
+      "type": "Paper",
+      "date": "2026",
+      "url": "https://doi.org/10.5281/zenodo.24070969",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "scm-silica",
+        "concrete-cellular"
+      ]
+    },
+    {
+      "id": "R4490",
+      "title": "Effect of Recycled Aggregate Content on the Long - Term Mechanical and Durability Characteristics of Fly Ash - Blended Concrete",
+      "publisher": "Polish Mineral Engineering Society (Inżynieria Mineralna)",
+      "type": "Paper",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.29227/im-2026-02-01-048",
+      "topics": [
+        "scm-flyash",
+        "concrete-circular",
+        "cross-mix",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4491",
+      "title": "SELF-COMPACTING CONCRETE WITH FLY ASH AND CALCIUM CARBIDE WASTE: BINDER CHEMISTRY, WORKABILITY, AND STRENGTH",
+      "publisher": "Faculty of Environmental Sciences, Kaduna State University (Kaduna State University Environmental Sciences Journal)",
+      "type": "Paper",
+      "date": "2026-11",
+      "url": "https://doi.org/10.66884/kesj.2026.86estqqr",
+      "topics": [
+        "scm-flyash",
+        "concrete-scc",
+        "cross-chemistry",
+        "cross-mix",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4492",
+      "title": "Explainable artificial intelligence framework for predicting the compressive strength of fly ash-based alkali-activated concrete",
+      "publisher": "Elsevier (Next Materials)",
+      "type": "Paper",
+      "date": "2027-01",
+      "url": "https://doi.org/10.1016/j.nxmate.2026.103988",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4493",
+      "title": "Modified Ternary Concrete for Hydraulic Applications: A Hybrid Bibliometric and Scoping Review of Fly Ash–Silica Fume Systems",
+      "publisher": "MDPI (Construction Materials)",
+      "type": "Review paper",
+      "date": "2026-11-13",
+      "url": "https://doi.org/10.3390/constrmater6060105",
+      "topics": [
+        "scm-flyash",
+        "scm-silica",
+        "binder-blended"
+      ]
+    },
+    {
+      "id": "R4494",
+      "title": "Effects of Calcium Carbonate and Fly Ash as Supplementary Cementitious Materials in Quaternary Binder for Foam Concrete Mixes",
+      "publisher": "Journal of Engineering",
+      "type": "Paper",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.31026/j.eng.2026.11.11",
+      "topics": [
+        "scm-flyash",
+        "concrete-cellular",
+        "binder-blended"
+      ]
+    },
+    {
+      "id": "R4495",
+      "title": "SALT FREEZE-THAW RESISTANCE OF CONCRETE CONTAINING FLAX-COIR HYBRID FIBERS AND FLY ASH",
+      "publisher": "Institute of Rock Structure and Mechanics, AS CR (Ceramics - Silikaty)",
+      "type": "Paper",
+      "date": "2026-11-10",
+      "url": "https://doi.org/10.13168/cs.2026.0038",
+      "topics": [
+        "scm-flyash",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4496",
+      "title": "Slag/fly ash ratio regulates damage evolution and strain localization in alkali-activated concrete: Multiscale characterization and constitutive modeling",
+      "publisher": "Elsevier (Journal of Building Engineering)",
+      "type": "Paper",
+      "date": "2026-12",
+      "url": "https://doi.org/10.1016/j.jobe.2026.117711",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "binder-activated"
+      ]
+    },
+    {
+      "id": "R4497",
+      "title": "Comparative Cradle-to-Gate Life Cycle Assessment of M30 Concrete Blended with Fly Ash and Ground Granulated Blast Furnace Slag",
+      "publisher": "Edtech Publishers (OPC) Private Limited (International Journal of Scientific Research in Engineering and Management)",
+      "type": "Paper",
+      "date": "2026-11",
+      "url": "https://doi.org/10.55041/ijsrem69124",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4498",
+      "title": "Performance of Corrosion Inhibitors on the Durability of Reinforced Concrete Incorporating Pond Ash and Fly Ash Using Experimental Investigation and VI-PINN Prediction",
+      "publisher": "Springer (Iranian Journal of Science and Technology, Transactions of Civil Engineering)",
+      "type": "Paper",
+      "date": "2026-11-19",
+      "url": "https://doi.org/10.1007/s40996-026-02296-9",
+      "topics": [
+        "scm-flyash",
+        "concrete-structural",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4499",
+      "title": "EXPERIMENTAL INVESTIGATION OF MECHANICAL AND DURABILITY BEHAVIOUR OF SUSTAINABLE FIBRE-REINFORCED GEOPOLYMER CONCRETE USING FLY ASH–GGBS–METAKAOLIN TERNARY BINDERS",
+      "publisher": "Edtech Publishers (OPC) Private Limited (International Journal of Scientific Research in Engineering and Management)",
+      "type": "Paper",
+      "date": "2026-11",
+      "url": "https://doi.org/10.55041/ijsrem68934",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "scm-clay",
+        "binder-activated",
+        "concrete-polymer-refractory",
+        "binder-blended"
+      ]
+    },
+    {
+      "id": "R4500",
+      "title": "Alkali-Activated Clay Composites as Low-Carbon Materials for Sustainable Construction and Architectural Applications",
+      "publisher": "Polish Mineral Engineering Society (Inżynieria Mineralna)",
+      "type": "Paper",
+      "date": "2026-11-01",
+      "url": "https://doi.org/10.29227/im-2026-02-01-010",
+      "topics": [
+        "binder-activated",
+        "cross-construction",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4501",
+      "title": "Low-Carbon Cementitious Materials for Urban and Subsurface Energy Infrastructure: Embodied Carbon and the Limits of Evidence Transfer",
+      "publisher": "MDPI (Urban Science)",
+      "type": "Paper",
+      "date": "2026-11-20",
+      "url": "https://doi.org/10.3390/urbansci10110679",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4502",
+      "title": "Evaluating CO2-loaded halloysite nanotubes-rich kaolin-based adsorbents as supplementary cementitious materials in cement mortars",
+      "publisher": "Elsevier (Applied Clay Science)",
+      "type": "Paper",
+      "date": "2027-02",
+      "url": "https://doi.org/10.1016/j.clay.2026.108464",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4503",
+      "title": "Gamma-ray shielding, structural characterization and radiation hazard assessment of natural, compacted, and calcined gypsum",
+      "publisher": "Elsevier (Nuclear Engineering and Technology)",
+      "type": "Paper",
+      "date": "2027-03",
+      "url": "https://doi.org/10.1016/j.net.2026.104789",
+      "topics": [
+        "concrete-heavyweight"
+      ]
+    },
+    {
+      "id": "R4504",
+      "title": "Making low-clinker cements work: Constraints, chemical activation, and region-specific pathways",
+      "publisher": "RILEM Publications (RILEM Technical Letters)",
+      "type": "Paper",
+      "date": "2026-11-18",
+      "url": "https://doi.org/10.21809/rilemtechlett.2026.247",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4505",
+      "title": "Sustainable high-strength and thermally stable geopolymers from binary clay wastes using a low-alkali activator content with semi-dry pressing technique for sustainable construction",
+      "publisher": "Elsevier (Applied Clay Science)",
+      "type": "Paper",
+      "date": "2027-02",
+      "url": "https://doi.org/10.1016/j.clay.2026.108461",
+      "topics": [
+        "binder-activated",
+        "cross-construction",
+        "cross-mechanics",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4506",
+      "title": "One-Step Simultaneous Crystallization of Hydrocalumite and Hydrotalcite-like Materials: Evaluation of Their Uncalcined and Calcined Products on the Photocatalytic Degradation of Toxic Phenolic Compounds",
+      "publisher": "American Chemical Society (ACS) (ACS Omega)",
+      "type": "Paper",
+      "date": "2026-11-12",
+      "url": "https://doi.org/10.1021/acsomega.6c10417",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4507",
+      "title": "Entwicklung der Materialeigenschaften im jungen Massenbeton: Bestimmung des zeitlichen Verlaufs der Materialparameter in der Hydratationsphase als Basis für die Modellierung der Risswahrscheinlichkeit im Massenbeton",
+      "publisher": "Wiley (Beton- und Stahlbetonbau)",
+      "type": "Paper",
+      "date": "2017-01",
+      "url": "https://doi.org/10.1002/best.201600047",
+      "topics": [
+        "mass",
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4508",
+      "title": "Kölnbreinsperre (Maltakraftwerke) ‐ Neue Wege in der Technik des Massenbetons.",
+      "publisher": "Wiley (Beton- und Stahlbetonbau)",
+      "type": "Paper",
+      "date": "1979-05",
+      "url": "https://doi.org/10.1002/best.197900210",
+      "topics": [
+        "mass"
+      ]
+    },
+    {
+      "id": "R4509",
+      "title": "Untersuchung zur Rissentwicklung im Massenbeton: Numerische Modellierung von Zwangsspannungen im Massenbeton – Einfluss von Bindemittelart und Ausschalzeitpunkt",
+      "publisher": "Wiley (Beton- und Stahlbetonbau)",
+      "type": "Paper",
+      "date": "2017-03",
+      "url": "https://doi.org/10.1002/best.201600061",
+      "topics": [
+        "mass",
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4510",
+      "title": "Estudio experimental de la fisuración en piezas de hormigón armado sometidas a flexión pura",
+      "publisher": "Universidad Politecnica de Madrid - University Library",
+      "type": "Thesis",
+      "date": "2008-04-01",
+      "url": "https://doi.org/10.20868/upm.thesis.1019",
+      "topics": [
+        "concrete-structural",
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4511",
+      "title": "Comportamiento de vigas hiperestáticas de hormigón armado corroídas y reparadas con mortero : pérdida de propiedades mecánicas del acero de refuerzo y fisuración del recubrimiento de hormigón por corrosión",
+      "publisher": "Universidad Politecnica de Madrid - University Library",
+      "type": "Thesis",
+      "date": "2009-11-01",
+      "url": "https://doi.org/10.20868/upm.thesis.2488",
+      "topics": [
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4512",
+      "title": "Investigación experimental sobre los modelos normativos de fisuración en piezas de hormigón armado sometidas a flexión pura",
+      "publisher": "Editorial CSIC (Informes de la Construcción)",
+      "type": "Paper",
+      "date": "2010-06-30",
+      "url": "https://doi.org/10.3989/ic.09.030",
+      "topics": [
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4513",
+      "title": "Modelo analítico para el análisis de la flexión y la fisuración en secciones de hormigón armado como alternativa al diagrama de pivotes",
+      "publisher": "CINTER (Hormigón y Acero)",
+      "type": "Paper",
+      "date": "2017-05",
+      "url": "https://doi.org/10.1016/j.hya.2017.04.007",
+      "topics": [
+        "concrete-structural",
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4514",
+      "title": "Contribution des fibres de polypropylène et métalliques à l'amélioration du comportement du béton soumis à une température élevée",
+      "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+      "type": "Thesis",
+      "date": "2010-11-29",
+      "url": "https://doi.org/10.70675/172db7c2z6cbaz4c1fza4ecz92bf58ef5b36",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4515",
+      "title": "Bétons de fibres métalliques (BFM)",
+      "publisher": "Editions Techniques de l Ingenieur (Les superstructures du bâtiment)",
+      "type": "Paper",
+      "date": "1998-08",
+      "url": "https://doi.org/10.51257/a-v1-c2214",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4516",
+      "title": "PENGARUH CAMPURAN SERAT PISANG TERHADAP BETON",
+      "publisher": "State University of Medan (Educational Building)",
+      "type": "Paper",
+      "date": "2018-06-29",
+      "url": "https://doi.org/10.24114/eb.v4i1.10043",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4517",
+      "title": "PEMANFAATAN SERAT IJUK SEBAGAI MATERIAL CAMPURAN DALAM BETON UNTUK MENINGKATKAN KEMAMPUAN BETON MENAHAN BEBAN TEKAN Studi Kasus: Pembangunan Homestay Singonegaran Kediri",
+      "publisher": "Universitas Kediri (UKaRsT)",
+      "type": "Paper",
+      "date": "2018-01-02",
+      "url": "https://doi.org/10.30737/ukarst.v1i1.79",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4518",
+      "title": "Pengaruh Penambahan Serat Sabut Kelapa (Cocofiber) terhadap Campuran Beton sebagai Peredam Suara",
+      "publisher": "Universitas Medan Area (JOURNAL OF CIVIL ENGINEERING, BUILDING AND TRANSPORTATION)",
+      "type": "Paper",
+      "date": "2017-05-02",
+      "url": "https://doi.org/10.31289/jcebt.v1i1.367",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4519",
+      "title": "STUDI EKSPERIMENTAL BETON GEOPOLIMER DENGAN MEMANFAATKAN FLY ASH SEBAGAI PENGGANTI SEMEN DAN SERAT MAT SEBAGAI ADITIF",
+      "publisher": "Universitas Komputer Indonesia (CRANE: Civil Engineering Research Journal)",
+      "type": "Paper",
+      "date": "2020-12-02",
+      "url": "https://doi.org/10.34010/crane.v1i1.4181",
+      "topics": [
+        "scm-flyash"
+      ]
+    },
+    {
+      "id": "R4520",
+      "title": "Beton zawierający cement wapniowo-siarczanoglinianowy (CSA)",
+      "publisher": "Wydawnictwo SIGMA-NOT, sp. z.o.o. (MATERIAŁY BUDOWLANE)",
+      "type": "Paper",
+      "date": "2018-10-05",
+      "url": "https://doi.org/10.15199/33.2018.10.01",
+      "topics": [
+        "binder-cac-csa"
+      ]
+    },
+    {
+      "id": "R4521",
+      "title": "Klinkier, cement, beton, budownictwo, karbonatyzacja– na drodze do neutralności klimatycznej",
+      "publisher": "Index Copernicus (Przegląd Budowlany)",
+      "type": "Paper",
+      "date": "2025-08-25",
+      "url": "https://doi.org/10.5604/01.3001.0055.2444",
+      "topics": [
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4522",
+      "title": "Influência do uso de aditivo retentor de água à base de éter de celulose nas propriedades das argamassas de assentamento em alvenaria estrutural de blocos de concreto",
+      "publisher": "SciELO (Ambiente Construído)",
+      "type": "Paper",
+      "date": "2015-09",
+      "url": "https://doi.org/10.1590/s1678-86212015000300026",
+      "topics": [
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4523",
+      "title": "Cola à base de PVA e argamassa de solo-cimento como alternativas para o assentamento de alvenaria de tijolos maciços de solo-cimento",
+      "publisher": "SciELO (Engenharia Agrícola)",
+      "type": "Paper",
+      "date": "2011-04",
+      "url": "https://doi.org/10.1590/s0100-69162011000200004",
+      "topics": [
+        "binder-white-masonry"
+      ]
+    },
+    {
+      "id": "R4524",
+      "title": "Influência de adições minerais na elevação da temperatura de concretos massa de elevada resistência à compressão",
+      "publisher": "SciELO (Matéria (Rio de Janeiro))",
+      "type": "Paper",
+      "date": "2021",
+      "url": "https://doi.org/10.1590/s1517-707620210001.1215",
+      "topics": [
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4525",
+      "title": "Prediction of Adiabatic Temperature Rise in Conventional and High-Performance Concretes Using a 3-D Microstructural Model",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "1998-02",
+      "url": "https://doi.org/10.1016/s0008-8846(97)00264-0",
+      "topics": [
+        "mass",
+        "concrete-hpc",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4526",
+      "title": "Application of distributed temperature sensing for cracking control of mass concrete",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2019-02",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2018.11.221",
+      "topics": [
+        "mass",
+        "concrete-mass-rcc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4527",
+      "title": "Thermal Cracking of Massive Concrete Structures",
+      "publisher": "Springer (RILEM State-of-the-Art Reports)",
+      "type": "Book",
+      "date": "2019",
+      "url": "https://doi.org/10.1007/978-3-319-76617-1",
+      "topics": [
+        "mass",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4528",
+      "title": "Experimental Study on Early-Age Crack of Mass Concrete under the Controlled Temperature History",
+      "publisher": "Wiley (Advances in Materials Science and Engineering)",
+      "type": "Paper",
+      "date": "2014",
+      "url": "https://doi.org/10.1155/2014/671795",
+      "topics": [
+        "mass",
+        "concrete-mass-rcc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4529",
+      "title": "Investigation of temperature development and cracking control strategies of mass concrete: A field monitoring case study",
+      "publisher": "Elsevier (Case Studies in Construction Materials)",
+      "type": "Paper",
+      "date": "2023-07",
+      "url": "https://doi.org/10.1016/j.cscm.2023.e02144",
+      "topics": [
+        "mass",
+        "concrete-mass-rcc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4530",
+      "title": "ATTENUATION PROPERTIES OF CONCRETE FOR SHIELDING OF NEUTRONS OF ENERGY LESS THAN 15 MeV.",
+      "publisher": "Office of Scientific and Technical Information (OSTI)",
+      "type": "Report",
+      "date": "1970-01-01",
+      "url": "https://doi.org/10.2172/4115490",
+      "topics": [
+        "mass"
+      ]
+    },
+    {
+      "id": "R4531",
+      "title": "Prediction of concrete adiabatic temperature rise characteristic by semi-adiabatic temperature rise test and FEM analysis",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2016-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2016.08.072",
+      "topics": [
+        "mass"
+      ]
+    },
+    {
+      "id": "R4532",
+      "title": "Use of ternary blended concrete to mitigate thermal cracking in massive concrete structures—A field feasibility and monitoring case study",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-04",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.01.108",
+      "topics": [
+        "mass",
+        "binder-blended",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4533",
+      "title": "Crack classification in concrete based on acoustic emission",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2010-12",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2010.05.004",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4534",
+      "title": "Classification of cracking mode in concrete by acoustic emission parameters",
+      "publisher": "Elsevier (Mechanics Research Communications)",
+      "type": "Paper",
+      "date": "2011-04",
+      "url": "https://doi.org/10.1016/j.mechrescom.2011.03.007",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4535",
+      "title": "Microcracking of Plain Concrete and the Shape of the Stress-Strain Curve",
+      "publisher": "American Concrete Institute (ACI Journal Proceedings)",
+      "type": "Paper",
+      "date": "1963",
+      "url": "https://doi.org/10.14359/7852",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4536",
+      "title": "Microcracking and strength development of alkali activated slag concrete",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2001-08",
+      "url": "https://doi.org/10.1016/s0958-9465(01)00003-8",
+      "topics": [
+        "microcracking",
+        "scm-slag",
+        "binder-activated",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4537",
+      "title": "Recommendation of RILEM TC 212-ACD: acoustic emission and related NDE techniques for crack detection and damage evaluation in concrete*: Test method for classification of active cracks in concrete structures by acoustic emission",
+      "publisher": "Springer (Materials and Structures)",
+      "type": "Paper",
+      "date": "2010-07-29",
+      "url": "https://doi.org/10.1617/s11527-010-9640-6",
+      "topics": [
+        "microcracking",
+        "cross-mechanics",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4538",
+      "title": "An experimental study on cracking evolution in concrete and cement mortar by the b-value analysis of acoustic emission technique",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2012-08",
+      "url": "https://doi.org/10.1016/j.cemconres.2012.05.003",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4539",
+      "title": "Influence of microcracking on the mass transport properties of concrete",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "1992",
+      "url": "https://doi.org/10.14359/2585",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4540",
+      "title": "Influence of drying-induced microcracking and related size effects on mass transport properties of concrete",
+      "publisher": "Elsevier (Cement and Concrete Research)",
+      "type": "Paper",
+      "date": "2015-02",
+      "url": "https://doi.org/10.1016/j.cemconres.2014.10.018",
+      "topics": [
+        "microcracking",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4541",
+      "title": "Selected engineering properties of concrete incorporating slag and metakaolin",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2005-07",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2004.07.017",
+      "topics": [
+        "scm-clay",
+        "scm-slag"
+      ]
+    },
+    {
+      "id": "R4542",
+      "title": "Effect of Metakaolin Content on the Properties of High Strength Concrete",
+      "publisher": "Springer (International Journal of Concrete Structures and Materials)",
+      "type": "Paper",
+      "date": "2013-09",
+      "url": "https://doi.org/10.1007/s40069-013-0045-0",
+      "topics": [
+        "scm-clay",
+        "concrete-hpc",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4543",
+      "title": "Fresh and hardened properties of self-compacting concrete containing metakaolin",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2012-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2012.04.109",
+      "topics": [
+        "scm-clay",
+        "concrete-scc"
+      ]
+    },
+    {
+      "id": "R4544",
+      "title": "Mechanical and microstructural properties of self-compacting concrete blended with metakaolin, ground granulated blast-furnace slag and fly ash",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2017-08",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.04.158",
+      "topics": [
+        "scm-clay",
+        "scm-flyash",
+        "scm-slag",
+        "concrete-scc",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4545",
+      "title": "Strength properties and durability aspects of high strength concrete using Korean metakaolin",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2007-06",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2006.05.007",
+      "topics": [
+        "scm-clay",
+        "concrete-hpc",
+        "cross-mechanics",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4546",
+      "title": "Properties of metakaolin-high calcium fly ash geopolymer concrete containing recycled aggregate from crushed concrete specimens",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2018-02",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2017.11.152",
+      "topics": [
+        "scm-clay",
+        "scm-flyash",
+        "binder-activated",
+        "concrete-circular",
+        "concrete-polymer-refractory",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4547",
+      "title": "Effect of fly ash and metakaolin on pervious concrete properties",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2019-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2019.06.185",
+      "topics": [
+        "scm-clay",
+        "scm-flyash",
+        "concrete-pavement-pervious"
+      ]
+    },
+    {
+      "id": "R4548",
+      "title": "Geopolymer concrete with metakaolin for sustainability: a comprehensive review on raw material’s properties, synthesis, performance, and potential application",
+      "publisher": "Springer (Environmental Science and Pollution Research)",
+      "type": "Review paper",
+      "date": "2022-01-09",
+      "url": "https://doi.org/10.1007/s11356-021-17849-w",
+      "topics": [
+        "scm-clay",
+        "binder-activated",
+        "concrete-polymer-refractory",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4549",
+      "title": "Influence of curing conditions on properties of high calcium fly ash geopolymer containing Portland cement as additive",
+      "publisher": "Elsevier (Materials & Design)",
+      "type": "Paper",
+      "date": "2014-01",
+      "url": "https://doi.org/10.1016/j.matdes.2013.07.018",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "binder-portland",
+        "cross-construction"
+      ]
+    },
+    {
+      "id": "R4550",
+      "title": "How does fly ash mitigate alkali–silica reaction (ASR) in accelerated mortar bar test (ASTM C1567)?",
+      "publisher": "Elsevier (Cement and Concrete Composites)",
+      "type": "Paper",
+      "date": "2013-03",
+      "url": "https://doi.org/10.1016/j.cemconcomp.2012.11.004",
+      "topics": [
+        "scm-flyash",
+        "cross-durability",
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4551",
+      "title": "The development of a low carbon binder produced from the ternary blending of cement, ground granulated blast furnace slag and high calcium fly ash: An experimental and statistical approach",
+      "publisher": "Elsevier (Construction and Building Materials)",
+      "type": "Paper",
+      "date": "2018-10",
+      "url": "https://doi.org/10.1016/j.conbuildmat.2018.08.021",
+      "topics": [
+        "scm-flyash",
+        "scm-slag",
+        "binder-blended",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4552",
+      "title": "Mechanical and microstructural properties of high calcium fly ash one-part geopolymer cement made with granular activator",
+      "publisher": "Elsevier (Heliyon)",
+      "type": "Paper",
+      "date": "2019-09",
+      "url": "https://doi.org/10.1016/j.heliyon.2019.e02255",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "cross-chemistry",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4553",
+      "title": "Sulfate Resistance of Clay-Portland Cement and Clay High-Calcium Fly Ash Geopolymer",
+      "publisher": "ASCE (Journal of Materials in Civil Engineering)",
+      "type": "Paper",
+      "date": "2015-05",
+      "url": "https://doi.org/10.1061/(asce)mt.1943-5533.0001112",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "binder-portland",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4554",
+      "title": "Efficiency of Fly Ash in Mitigating Alkali-Silica Reaction Based on Chemical Composition",
+      "publisher": "American Concrete Institute (ACI Materials Journal)",
+      "type": "Paper",
+      "date": "2006",
+      "url": "https://doi.org/10.14359/18153",
+      "topics": [
+        "scm-flyash",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4555",
+      "title": "Properties of high calcium fly ash geopolymer pastes with Portland cement as an additive",
+      "publisher": "Springer (International Journal of Minerals, Metallurgy, and Materials)",
+      "type": "Paper",
+      "date": "2013-01-30",
+      "url": "https://doi.org/10.1007/s12613-013-0715-6",
+      "topics": [
+        "scm-flyash",
+        "binder-activated",
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4556",
+      "title": "Greening of the Concrete Industry for Sustainable Development",
+      "publisher": "Concrete International",
+      "type": "Paper",
+      "date": "2002-07-01",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/12131",
+      "topics": [
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4557",
+      "title": "Failure of plain and spirally reinforced concrete in compression",
+      "publisher": "University of Illinois at Urbana Champaign, College of Engineering. Engineering (University of Illinois. Engineering Experiment Station. Bulletin ; no. 190)",
+      "type": "Report",
+      "date": "1929",
+      "url": "https://www.ideals.illinois.edu/items/5270",
+      "topics": [
+        "concrete-structural"
+      ]
+    },
+    {
+      "id": "R4558",
+      "title": "MAKING CONCRETE \"GREENER\" WITH FLY ASH",
+      "publisher": "Concrete International",
+      "type": "Paper",
+      "date": "1999-05",
+      "url": "https://web.archive.org/web/20250206203103/https://trid.trb.org/view/504169",
+      "topics": [
+        "scm-flyash",
+        "cross-environment-cost"
+      ]
+    },
+    {
+      "id": "R4559",
+      "title": "Superplasticized Fly Ash Concrete for Structural Applications",
+      "publisher": "Concrete International",
+      "type": "Paper",
+      "date": "1986-12-01",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/1918",
+      "topics": [
+        "scm-flyash",
+        "cross-mix"
+      ]
+    },
+    {
+      "id": "R4560",
+      "title": "High-Performance Concrete Defined for Highway Structures",
+      "publisher": "Concrete International",
+      "type": "Paper",
+      "date": "1996",
+      "url": "https://cir.nii.ac.jp/crid/1571417126671734784",
+      "topics": [
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4561",
+      "title": "Activación alcalina de metacaolín: desarrollo de nuevos materiales cementantes",
+      "publisher": "unknown",
+      "type": "Thesis",
+      "date": "1998-11-27",
+      "url": "https://hdl.handle.net/10486/667803",
+      "topics": [
+        "scm-clay"
+      ]
+    },
+    {
+      "id": "R4562",
+      "title": "The influence of pulverized-fuel ash upon the hydration characteristics and certain physical properties of a Portland cement paste",
+      "publisher": "Cement and Concrete Association technicall report",
+      "type": "Paper",
+      "date": "1986",
+      "url": "https://cir.nii.ac.jp/crid/1570291224609273344",
+      "topics": [
+        "binder-portland",
+        "cross-chemistry"
+      ]
+    },
+    {
+      "id": "R4563",
+      "title": "Preliminary report on portland cement materials in Illinois",
+      "publisher": "Urbana, (Report of investigations no. 195)",
+      "type": "Paper",
+      "date": "1956",
+      "url": "https://www.ideals.illinois.edu/items/42842",
+      "topics": [
+        "cross-supply-region",
+        "binder-portland"
+      ]
+    },
+    {
+      "id": "R4564",
+      "title": "Handbuch Flugasche im Beton: Grundlagen der Herstellung und Verwendung",
+      "publisher": "unknown",
+      "type": "Book",
+      "date": "2004",
+      "url": "https://web.archive.org/web/20240909115031/https://publications.rwth-aachen.de/record/49215",
+      "topics": [
+        "scm-flyash"
+      ]
+    },
+    {
+      "id": "R4565",
+      "title": "Einfluss von Flugasche auf den Frost-Tausalz-Widerstand von Beton : ergänzende Untersuchungen für Selbstverdichtende Betone mit hohem Flugaschegehalt",
+      "publisher": "unknown",
+      "type": "Report",
+      "date": "2008",
+      "url": "https://web.archive.org/web/20251207161402/https://publications.rwth-aachen.de/record/47774",
+      "topics": [
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4566",
+      "title": "Estudio de compuestos cementíceos reforzados con fibras vegetales: Evaluación previa del comportamiento de un panel de cemento blanco con adición de meta-caolín reforzado con un textil no-tejido de fibras largas de lino y cáñamo",
+      "publisher": "Universitat Politècnica de Catalunya",
+      "type": "Thesis",
+      "date": "2014-12",
+      "url": "https://web.archive.org/web/20241106081529/https://upcommons.upc.edu/handle/2099.1/25365",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4567",
+      "title": "Bétons fibrés à ultra-hautes performances",
+      "publisher": "SETRA",
+      "type": "Paper",
+      "date": "2002",
+      "url": "https://structurae.net/fr/litterature/rapport-technique/betons-fibres-a-ultra-hautes-performances",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4568",
+      "title": "Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques",
+      "publisher": "unknown",
+      "type": "Thesis",
+      "date": "2012-04",
+      "url": "https://web.archive.org/web/20260920072851/https://publications.polymtl.ca/811/",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4569",
+      "title": "Bétons renforcés de fibres métalliques du matériau à la structure",
+      "publisher": "unknown",
+      "type": "Paper",
+      "date": "1996",
+      "url": "https://web.archive.org/web/20200530063317/https://infoscience.epfl.ch/record/26758",
+      "topics": [
+        "concrete-structural",
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4570",
+      "title": "PENGGUNAAN SERAT POLYPROPYLENE UNTUK MENINGKATKAN KUAT TARIK BELAH BETON",
+      "publisher": "unknown",
+      "type": "Paper",
+      "date": "2007",
+      "url": "https://eprints.upnjatim.ac.id/1306/1/TS%2DYUYUN_41.pdf",
+      "topics": [
+        "concrete-fibers",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4571",
+      "title": "Pengaruh Penambahan Serat Polypropylene terhadap Sifat Mekanis Beton Normal",
+      "publisher": "Riau University (Jurnal Online Mahasiswa Fakultas Teknik Universitas Riau)",
+      "type": "Thesis",
+      "date": "2015",
+      "url": "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal",
+      "topics": [
+        "cross-tests-codes"
+      ]
+    },
+    {
+      "id": "R4572",
+      "title": "Il calcestruzzo proiettato per l’uso in galleria: sperimentazione di un nuovo cemento a sviluppo rapido delle resistenze",
+      "publisher": "GEAM, Torino (GEAM. GEOINGEGNERIA AMBIENTALE E MINERARIA)",
+      "type": "Paper",
+      "date": "1999",
+      "url": "https://iris.polito.it/handle/11583/1663891",
+      "topics": [
+        "concrete-shotcrete",
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4573",
+      "title": "Sensitività della resistenza a compressione del calcestruzzo all’incertezza del rapporto acqua-cemento delle miscele",
+      "publisher": "IN CONCRETO",
+      "type": "Paper",
+      "date": "2008",
+      "url": "https://iris.polito.it/handle/11583/2727775",
+      "topics": [
+        "cross-mechanics"
+      ]
+    },
+    {
+      "id": "R4574",
+      "title": "Prove su tavola vibrante di telai in cemento armato riparati con calcestruzzo fibrorinforzato",
+      "publisher": "INGEGNERIA SISMICA",
+      "type": "Paper",
+      "date": "2001",
+      "url": "https://re.public.polimi.it/handle/11311/261229",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4575",
+      "title": "Comportamento sismico di telai in cemento armato riparati con calcestruzzo fibro-rinforzato",
+      "publisher": "unknown",
+      "type": "Paper",
+      "date": "1999",
+      "url": "https://re.public.polimi.it/handle/11311/535807",
+      "topics": [
+        "concrete-fibers"
+      ]
+    },
+    {
+      "id": "R4576",
+      "title": "1369 ハイブリッド高性能AE減水剤と膨張材を併用したコンクリートのひび割れ抵抗性に関する研究 : その1.各種調合のコンクリートの基礎物性検討-1(収縮・クリープ(5),材料施工,2012年度大会(東海)学術講演会・建築デザイン発表会)",
+      "publisher": "日本建築学会 (材料施工)",
+      "type": "Paper",
+      "date": "2012-09-12",
+      "url": "https://cir.nii.ac.jp/crid/1570572702960120704",
+      "topics": [
+        "concrete-hpc"
+      ]
+    },
+    {
+      "id": "R4577",
+      "title": "1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))",
+      "publisher": "公益社団法人日本コンクリート工学会 (コンクリート工学年次論文集)",
+      "type": "Paper",
+      "date": "2001",
+      "url": "https://web.archive.org/web/20140930234021/http://ci.nii.ac.jp/naid/110009693054",
+      "topics": [
+        "concrete-repair-grout-overlay",
+        "concrete-structural",
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4578",
+      "title": "1236 開口部のひび割れを抑制する無収縮型コンクリートの膨張・収縮モデルの検討 : その1. 無収縮型コンクリートの基礎物性(収縮・クリープ(4),材料施工)",
+      "publisher": "日本建築学会 (学術講演梗概集. A-1, 材料施工)",
+      "type": "Paper",
+      "date": "2011-07-20",
+      "url": "https://cir.nii.ac.jp/crid/1573668927638449664",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4579",
+      "title": "1156 中性子ラジオグラフィによるコンクリートのひび割れ部における水分挙動の可視化および定量化に関する研究(耐久性一般)",
+      "publisher": "東京 : 日本コンクリート工学協会 (コンクリート工学年次論文集 = Proceedings of the Japan Concrete Institute / 日本コンクリート工学協会 編)",
+      "type": "Paper",
+      "date": "2007",
+      "url": "https://cir.nii.ac.jp/crid/1522825131030763904",
+      "topics": [
+        "cross-durability"
+      ]
+    },
+    {
+      "id": "R4580",
+      "title": "Gray-scale Hough変換を用いたコンクリート表面のひび割れ検出",
+      "publisher": "東京 : 情報処理学会 (情報処理学会研究報告 = IPSJ SIG technical reports)",
+      "type": "Paper",
+      "date": "2004-09",
+      "url": "https://cir.nii.ac.jp/crid/1520572359478859776",
+      "topics": [
+        "microcracking"
+      ]
+    },
+    {
+      "id": "R4581",
+      "title": "Efeito da elevação de temperatura sobre a resistência à compressão de concretos massa com diferentes teores de cinza volante",
+      "publisher": "unknown",
+      "type": "Paper",
+      "date": "2016",
+      "url": "https://web.archive.org/web/20260119114553/https://repositorio.ufsc.br/handle/123456789/167662",
+      "topics": [
+        "cross-mechanics",
+        "scm-emerging"
+      ]
+    },
+    {
+      "id": "R4582",
+      "title": "ESTUDO DA TRABALHABILIDADE DA ARGAMASSA ESTABILIZADA AO LONGO DO TEMPO DE ARMAZENAMENTO PARA ASSENTAMENTO DE BLOCO DE CONCRETO",
+      "publisher": "SIMPÓSIO BRASILEIRO DE TECNOLOGIA DAS ARGAMASSAS",
+      "type": "Paper",
+      "date": "2019",
+      "url": "https://eventos.antac.org.br/sbta/article/view/4665",
+      "topics": [
+        "binder-white-masonry"
+      ]
     }
   ],
   "changeLog": [
@@ -63684,9 +67938,14 @@
     {
       "date": "2026-11-21",
       "entry": "Daily pass 2026-11-21: 249 verified additions R4046–R4294. Retry list first: 61 leads retried, 3 promoted (R4046–R4048), 58 still unavailable (lastTried 2026-11-21, attempts +1). Open queue: 5 repo-added leads (reactions table sources) — 3 promoted (R4049, R4050, R4051), 2 rejected as reference-data pages. Discovery: 262 new leads checked — 243 promoted (R4052–R4294), 19 qualified-but-unavailable added to the review list, 0 rejected after screening (11 hits excluded at screening as off-topic), 0 left open. No corrections to existing records. R1–R4045 preserved (R428 still retired); topic membership union maintained; reactions table, calculator and site pages untouched."
+    },
+    {
+      "date": "2026-11-22",
+      "entry": "Daily pass 2026-11-22: 288 verified additions R4295–R4582. Retry list first: 77 leads retried, 3 promoted (R4295–R4297), 74 still unavailable (lastTried 2026-11-22, attempts +1). Open queue: 49 KDOT/Kansas leads — 25 promoted (R4298–R4322), 24 moved to the review list. Discovery: 273 new leads checked — 260 promoted (R4323–R4582), 13 qualified-but-unavailable added to the review list, 0 rejected after screening (9 hits excluded at screening as off-topic), 0 left open. No corrections to existing records. R1–R4294 preserved (R428 still retired); topic membership union maintained; reactions table, calculator and site pages untouched."
     }
   ],
   "gaps": [
+    "Daily pass 2026-11-22: additions are registry/catalogue/record-page verified (84 abstract-level, 150 DOI metadata only, 35 record pages or PDFs read incl. Wayback copies, 6 library catalogue records, 13 public PDFs opened) — not full-text reviewed. 111 qualified leads remain on the review list (research/review-retry.md; https://xxdccole.github.io/Type1L-Index/review/): mainly the KDOT PQL and special-provision documents (ksdot.gov answers HTTP 403, no Wayback copy), TRID records, CNKI/CQVIP Chinese articles, Theseus (Cloudflare), J-GLOBAL (503) and unregistered DOIs. The Kansas/Nebraska/Oklahoma DOT items are report-level reads of the first pages only. The Type IL/PLC-specific KDOT sources remain thinly covered.",
     "Daily pass 2026-11-21: additions are registry/catalogue/record-page verified (78 abstract-level, 127 DOI metadata only, 35 record pages read incl. Wayback copies, 7 library catalogue records, 2 public PDFs opened) — not full-text reviewed. 77 qualified leads remain on the review list (research/review-retry.md; https://xxdccole.github.io/Type1L-Index/review/): mainly CNKI/CQVIP Chinese articles, TRID/ROSA records with no readable copy, Theseus (Cloudflare challenge), J-GLOBAL (HTTP 503), yadda/BazTech, ResearchGate-only items and unregistered ACI DOIs (10.14359/17603, 17608, 6418). Seven no-DOI hits were opened only through Open Library/CiNii catalogue records. The legacy Type IL topics (standards, dot, carbon, fresh, strength, durability, scm, pavement, apps, mix, field, supply, intl) were backfilled with general cement/concrete sources; PLC/Type IL-specific literature there is still thin.",
     "Daily pass 2026-11-20: additions are registry/catalogue/record-page verified (102 abstract-level, 244 DOI metadata only, 112 record pages read incl. Wayback copies and repository APIs, 27 library catalogue records) — not full-text reviewed. 61 qualified leads remain on the review list (research/review-retry.md; https://xxdccole.github.io/Type1L-Index/review/): mainly CNKI/CQVIP Chinese articles, TRID records with no Wayback copy, Theseus (Cloudflare challenge), yadda/BazTech, ResearchGate-only items and a few unregistered DOIs. Architectural and polymer/refractory title queries drifted to GFRP/FRP literature (re-tagged); both topics stay thin. The FHWA UHPC state-of-the-art report is already indexed (R155).",
     "Daily pass 2026-11-19: additions are registry/catalogue-verified (143 abstract-level, 340 DOI metadata only, 22 landing pages read, 8 library catalogue records) — not full-text reviewed. Many Elsevier items have no abstract in Crossref/OpenAlex, so descriptions are bibliographic only. 28 of 95 no-DOI hits were inspectable and added (incl. 8 CiNii Books catalogue records); the other 67 were rejected as unverifiable and logged in the candidate queue (TRID timeouts, CiNii article/CNKI/CQVIP/ResearchGate pages, ROSA P/Theseus/yadda/DOAJ pages returning 403, JS-only repositories and PDFs) — e.g. Neville Properties of Concrete (4th ed.), PCA Design and Control of Concrete Mixtures, the Concrete Admixtures Handbook, the FHWA UHPC state-of-the-art report and several creep/shrinkage books remain gaps. Plain-http landing URLs failed from the box and were read over https. Two hits whose DOIs are unregistered (Russian MCE, Turkish Teknik Dergi) were added from their article pages with the DOI recorded as listedDoi. No open leads.",

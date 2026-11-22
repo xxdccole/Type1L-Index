@@ -1,0 +1,39 @@
+Counter({'fail': 20, 'ok': 11, 'skipped-host': 7})
+17 fail 503 https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508 0.0 Chemically-bonded cementitious materials based on metakaolin
+33 ok 200 https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/i 1.0 Greening of the Concrete Industry for Sustainable Developmen
+35 fail 403 https://www.ideals.illinois.edu/items/5270 0.0 Failure of plain and spirally reinforced concrete in compres
+36 skipped-host  0 Making Concrete "Greener" with Fly Ash
+37 skipped-host  0 HIGH PERFORMANCE HIGH VOLUME FLY ASH CONCRETE
+43 fail 000 https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete 0.0 Fire Performance of High-Strength Concrete: A Report of the 
+53 ok 200 https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/i 1.0 Superplasticized Fly Ash Concrete for Structural Application
+55 skipped-host  0 High-Performance Concrete Defined For Highway Structures
+69 fail 404 https://repositorio.uam.es/handle/10486/667803 0.0 Activación alcalina de metacaolín: desarrollo de nuevos mate
+76 fail 500 https://hdl.handle.net/10068/638843 0.0 THE INFLUENCE OF PULVERIZED-FUEL ASH UPON THE HYDRATION CHAR
+89 fail 202 https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Lo 0.0 Low-Calcium fly ash-based geopolymer concrete: Long-term pro
+171 fail 403 https://www.ideals.illinois.edu/items/42842 0.0 Preliminary report on portland cement materials in Illinois
+202 fail 200 https://publications.rwth-aachen.de/record/49215 0.0 Handbuch Flugasche im Beton: Grundlagen der Herstellung und 
+206 fail 200 https://publications.rwth-aachen.de/record/47774 0.0 Einfluss von Flugasche auf den Frost-Tausalz-Widerstand von 
+207 skipped-host  0 UNTERSUCHUNGEN VON MASSENBETON IN DER TEMPERATURSPANNUNGS-PR
+212 fail 418 https://upcommons.upc.edu/handle/2099.1/25365 0.0 Estudio de compuestos cementíceos reforzados con fibras vege
+216 ok 200 https://structurae.net/fr/litterature/rapport-technique/betons-fibres-a-ultra-hautes-p 1.0 Bétons fibrés à ultra-hautes performances
+218 fail 200 https://publications.polymtl.ca/811/ 0.0 Évaluation du coefficient d'orientation dans les bétons renf
+219 fail 200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=26758 0.0 Bétons renforcés de fibres métalliques du matériau à la stru
+221 ok 200 https://eprints.upnjatim.ac.id/1306/1/TS%2DYUYUN_41.pdf 1.0 PENGGUNAAN SERAT POLYPROPYLENE UNTUK MENINGKATKAN KUAT TARIK
+224 fail 403 https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-ter 0.0 Pengaruh Penambahan Serat Polypropylene Terhadap Sifat Mekan
+226 ok 200 https://iris.polito.it/handle/11583/1663891 1.0 Il calcestruzzo proiettato per l'uso in galleria: sperimenta
+227 ok 200 https://amslaurea.unibo.it/id/eprint/37842/ 1.0 Rigenerazione del patrimonio residenziale del dopoguerra. An
+228 ok 200 https://iris.polito.it/handle/11583/2727775 0.88 Sensitività della resistenza a compressione del calcestruzz
+229 ok 200 https://re.public.polimi.it/handle/11311/261229 1.0 Prove su tavola vibrante di telai in cemento armato riparati
+230 ok 200 https://re.public.polimi.it/handle/11311/535807 1.0 Comportamento sismico di telai in cemento armato riparati co
+231 ok 200 https://iris.uniroma3.it/handle/11590/186355 1.0 Manutenzione e restauro dell’architettura moderna messicana 
+233 fail 202 https://cir.nii.ac.jp/crid/1570572702960120704 0.0 1369 ハイブリッド高性能AE減水剤と膨張材を併用したコンクリートのひび割れ抵抗性に関する研究 : その1.各種調合の
+234 fail 202 https://cir.nii.ac.jp/crid/2051996266892519808 0.0 1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))
+235 fail 202 https://cir.nii.ac.jp/crid/1573668927638449664 0.0 1236 開口部のひび割れを抑制する無収縮型コンクリートの膨張・収縮モデルの検討 : その1. 無収縮型コンクリートの基
+236 fail 202 https://cir.nii.ac.jp/crid/1522825131030763904 0.0 1156 中性子ラジオグラフィによるコンクリートのひび割れ部における水分挙動の可視化および定量化に関する研究(耐久性一般
+237 fail 202 https://cir.nii.ac.jp/crid/1520572359478859776 0.0 Gray - scale Hough変換を用いたコンクリート表面のひび割れ検出
+241 fail 200 https://repositorio.ufsc.br/handle/123456789/167662 0.0 Efeito da elevação de temperatura sobre a resistência à comp
+244 ok 200 https://eventos.antac.org.br/sbta/article/view/4665 1.0 ESTUDO DA TRABALHABILIDADE DA ARGAMASSA ESTABILIZADA AO LONG
+246 fail 000 https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267 0.0 纳米C-S-H对粉煤灰/矿粉双掺混凝土性能的影响
+247 skipped-host  0 28 d和90 d粉煤灰混凝土性能的对比分析
+248 skipped-host  0 超大掺量粉煤灰在大体积底板混凝土中的研究应用——深圳平安金融中心4.5m厚大体积底板
+249 skipped-host  0 三掺（S95矿粉＋II级粉煤灰＋石屑）配制C30抗渗P6泵送混凝土在污水处理厂生化池（CASS池）的应用实例

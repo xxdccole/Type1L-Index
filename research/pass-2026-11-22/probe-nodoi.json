@@ -1,0 +1,323 @@
+[
+ {
+  "idx": 17,
+  "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+  "title": "Chemically-bonded cementitious materials based on metakaolin",
+  "http": "503 https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 33,
+  "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/12131",
+  "title": "Greening of the Concrete Industry for Sustainable Development",
+  "http": "200 https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/12131",
+  "match": 1.0,
+  "size": 7065,
+  "status": "ok"
+ },
+ {
+  "idx": 35,
+  "url": "https://hdl.handle.net/2142/4073",
+  "title": "Failure of plain and spirally reinforced concrete in compression",
+  "http": "403 https://www.ideals.illinois.edu/items/5270",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 36,
+  "url": "https://trid.trb.org/view/504169",
+  "title": "Making Concrete \"Greener\" with Fly Ash",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 37,
+  "url": "https://trid.trb.org/view/721753",
+  "title": "HIGH PERFORMANCE HIGH VOLUME FLY ASH CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 43,
+  "url": "https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+  "title": "Fire Performance of High-Strength Concrete: A Report of the State-of-the-Art",
+  "http": "000 https://openlibrary.org/books/OL19802856M/Fire_performance_of_high_strength_concrete",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 53,
+  "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/1918",
+  "title": "Superplasticized Fly Ash Concrete for Structural Applications",
+  "http": "200 https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/1918",
+  "match": 1.0,
+  "size": 7035,
+  "status": "ok"
+ },
+ {
+  "idx": 55,
+  "url": "https://trid.trb.org/view/483569",
+  "title": "High-Performance Concrete Defined For Highway Structures",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 69,
+  "url": "https://hdl.handle.net/10486/667803",
+  "title": "Activación alcalina de metacaolín: desarrollo de nuevos materiales cementantes",
+  "http": "404 https://repositorio.uam.es/handle/10486/667803",
+  "match": 0.0,
+  "size": 930,
+  "status": "fail"
+ },
+ {
+  "idx": 76,
+  "url": "https://hdl.handle.net/10068/638843",
+  "title": "THE INFLUENCE OF PULVERIZED-FUEL ASH UPON THE HYDRATION CHARACTERISTICS AND CERTAIN PHYSICAL PROPERTIES OF A PORTLAND CEMENT PASTE",
+  "http": "500 https://hdl.handle.net/10068/638843",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 89,
+  "url": "https://hdl.handle.net/20.500.11937/34322",
+  "title": "Low-Calcium fly ash-based geopolymer concrete: Long-term properties",
+  "http": "202 https://curate.curtin.edu.au/articles/Low-Calcium_fly_ash-based_geopolymer_concrete_Long-term_properties/31571752",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 171,
+  "url": "https://hdl.handle.net/2142/42898",
+  "title": "Preliminary report on portland cement materials in Illinois",
+  "http": "403 https://www.ideals.illinois.edu/items/42842",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 202,
+  "url": "https://publications.rwth-aachen.de/record/49215",
+  "title": "Handbuch Flugasche im Beton: Grundlagen der Herstellung und Verwendung",
+  "http": "200 https://publications.rwth-aachen.de/record/49215",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 206,
+  "url": "https://publications.rwth-aachen.de/record/47774",
+  "title": "Einfluss von Flugasche auf den Frost-Tausalz-Widerstand von Beton : ergänzende Untersuchungen für Selbstverdichtende Betone mit hohem Flugaschegehalt",
+  "http": "200 https://publications.rwth-aachen.de/record/47774",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 207,
+  "url": "https://trid.trb.org/view/1011737",
+  "title": "UNTERSUCHUNGEN VON MASSENBETON IN DER TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 212,
+  "url": "https://hdl.handle.net/2099.1/25365",
+  "title": "Estudio de compuestos cementíceos reforzados con fibras vegetales: Evaluación previa del comportamiento de un panel de cemento blanco con adición de meta-caolín reforzado con un textil no-tejido de fibras largas de lino y cáñamo",
+  "http": "418 https://upcommons.upc.edu/handle/2099.1/25365",
+  "match": 0.0,
+  "size": 620,
+  "status": "fail"
+ },
+ {
+  "idx": 216,
+  "url": "https://structurae.net/fr/litterature/rapport-technique/betons-fibres-a-ultra-hautes-performances",
+  "title": "Bétons fibrés à ultra-hautes performances",
+  "http": "200 https://structurae.net/fr/litterature/rapport-technique/betons-fibres-a-ultra-hautes-performances",
+  "match": 1.0,
+  "size": 3988,
+  "status": "ok"
+ },
+ {
+  "idx": 218,
+  "url": "https://publications.polymtl.ca/811/",
+  "title": "Évaluation du coefficient d'orientation dans les bétons renforcés de fibres métalliques",
+  "http": "200 https://publications.polymtl.ca/811/",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 219,
+  "url": "https://infoscience.epfl.ch/record/26758",
+  "title": "Bétons renforcés de fibres métalliques du matériau à la structure",
+  "http": "200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=26758",
+  "match": 0.0,
+  "size": 638,
+  "status": "fail"
+ },
+ {
+  "idx": 221,
+  "url": "https://eprints.upnjatim.ac.id/1306/1/TS%2DYUYUN_41.pdf",
+  "title": "PENGGUNAAN SERAT POLYPROPYLENE UNTUK MENINGKATKAN KUAT TARIK BELAH BETON",
+  "http": "200 https://eprints.upnjatim.ac.id/1306/1/TS%2DYUYUN_41.pdf",
+  "match": 1.0,
+  "size": 27311,
+  "status": "ok"
+ },
+ {
+  "idx": 224,
+  "url": "https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal",
+  "title": "Pengaruh Penambahan Serat Polypropylene Terhadap Sifat Mekanis Beton Normal",
+  "http": "403 https://www.neliti.com/publications/201178/pengaruh-penambahan-serat-polypropylene-terhadap-sifat-mekanis-beton-normal",
+  "match": 0.0,
+  "size": 539,
+  "status": "fail"
+ },
+ {
+  "idx": 226,
+  "url": "https://hdl.handle.net/11583/1663891",
+  "title": "Il calcestruzzo proiettato per l'uso in galleria: sperimentazione di un nuovo cemento a sviluppo rapido delle resistenze",
+  "http": "200 https://iris.polito.it/handle/11583/1663891",
+  "match": 1.0,
+  "size": 3537,
+  "status": "ok"
+ },
+ {
+  "idx": 227,
+  "url": "https://amslaurea.unibo.it/id/eprint/37842/",
+  "title": "Rigenerazione del patrimonio residenziale del dopoguerra. Analisi comparativa LCA ed energetica di edifici di nuova costruzione a telaio in cemento armato con tamponamenti in laterizio e in calcestruzzo aerato autoclavato",
+  "http": "200 https://amslaurea.unibo.it/id/eprint/37842/",
+  "match": 1.0,
+  "size": 6860,
+  "status": "ok"
+ },
+ {
+  "idx": 228,
+  "url": "https://hdl.handle.net/11583/2727775",
+  "title": "Sensitività della resistenza a compressione del calcestruzzo all’incertezza del rapporto acqua-cemento delle miscele",
+  "http": "200 https://iris.polito.it/handle/11583/2727775",
+  "match": 0.875,
+  "size": 3062,
+  "status": "ok"
+ },
+ {
+  "idx": 229,
+  "url": "https://hdl.handle.net/11311/261229",
+  "title": "Prove su tavola vibrante di telai in cemento armato riparati con calcestruzzo fibrorinforzato",
+  "http": "200 https://re.public.polimi.it/handle/11311/261229",
+  "match": 1.0,
+  "size": 5545,
+  "status": "ok"
+ },
+ {
+  "idx": 230,
+  "url": "https://re.public.polimi.it/handle/11311/535807",
+  "title": "Comportamento sismico di telai in cemento armato riparati con calcestruzzo fibro-rinforzato",
+  "http": "200 https://re.public.polimi.it/handle/11311/535807",
+  "match": 1.0,
+  "size": 6522,
+  "status": "ok"
+ },
+ {
+  "idx": 231,
+  "url": "https://iris.uniroma3.it/handle/11590/186355",
+  "title": "Manutenzione e restauro dell’architettura moderna messicana in cemento e calcestruzzo armato",
+  "http": "200 https://iris.uniroma3.it/handle/11590/186355",
+  "match": 1.0,
+  "size": 4729,
+  "status": "ok"
+ },
+ {
+  "idx": 233,
+  "url": "https://ci.nii.ac.jp/naid/110009655880",
+  "title": "1369 ハイブリッド高性能AE減水剤と膨張材を併用したコンクリートのひび割れ抵抗性に関する研究 : その1.各種調合のコンクリートの基礎物性検討-1(収縮・クリープ(5),材料施工,2012年度大会(東海)学術講演会・建築デザイン発表会)",
+  "http": "202 https://cir.nii.ac.jp/crid/1570572702960120704",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 234,
+  "url": "https://ci.nii.ac.jp/naid/110009693054",
+  "title": "1065 ひび割れに樹脂注入したコンクリート梁の強度性状と耐久性に関する研究(補修・補強(材料))",
+  "http": "202 https://cir.nii.ac.jp/crid/2051996266892519808",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 235,
+  "url": "https://ci.nii.ac.jp/naid/110009498990",
+  "title": "1236 開口部のひび割れを抑制する無収縮型コンクリートの膨張・収縮モデルの検討 : その1. 無収縮型コンクリートの基礎物性(収縮・クリープ(4),材料施工)",
+  "http": "202 https://cir.nii.ac.jp/crid/1573668927638449664",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 236,
+  "url": "https://ci.nii.ac.jp/naid/110009696892",
+  "title": "1156 中性子ラジオグラフィによるコンクリートのひび割れ部における水分挙動の可視化および定量化に関する研究(耐久性一般)",
+  "http": "202 https://cir.nii.ac.jp/crid/1522825131030763904",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 237,
+  "url": "https://ci.nii.ac.jp/naid/110002664181",
+  "title": "Gray - scale Hough変換を用いたコンクリート表面のひび割れ検出",
+  "http": "202 https://cir.nii.ac.jp/crid/1520572359478859776",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 241,
+  "url": "https://repositorio.ufsc.br/handle/123456789/167662",
+  "title": "Efeito da elevação de temperatura sobre a resistência à compressão de concretos massa com diferentes teores de cinza volante",
+  "http": "200 https://repositorio.ufsc.br/handle/123456789/167662",
+  "match": 0.0,
+  "size": 288,
+  "status": "fail"
+ },
+ {
+  "idx": 244,
+  "url": "https://eventos.antac.org.br/sbta/article/view/4665",
+  "title": "ESTUDO DA TRABALHABILIDADE DA ARGAMASSA ESTABILIZADA AO LONGO DO TEMPO DE ARMAZENAMENTO PARA ASSENTAMENTO DE BLOCO DE CONCRETO",
+  "http": "200 https://eventos.antac.org.br/sbta/article/view/4665",
+  "match": 1.0,
+  "size": 10117,
+  "status": "ok"
+ },
+ {
+  "idx": 246,
+  "url": "https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+  "title": "纳米C-S-H对粉煤灰/矿粉双掺混凝土性能的影响",
+  "http": "000 https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 247,
+  "url": "https://www.cqvip.com/QK/94658A/201410/662841877.html",
+  "title": "28 d和90 d粉煤灰混凝土性能的对比分析",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 248,
+  "url": "https://www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+  "title": "超大掺量粉煤灰在大体积底板混凝土中的研究应用——深圳平安金融中心4.5m厚大体积底板",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 249,
+  "url": "https://www.cqvip.com/QK/87751X/201208/42708015.html",
+  "title": "三掺（S95矿粉＋II级粉煤灰＋石屑）配制C30抗渗P6泵送混凝土在污水处理厂生化池（CASS池）的应用实例",
+  "status": "skipped-host"
+ }
+]

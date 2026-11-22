@@ -1,0 +1,2619 @@
+[
+ {
+  "title": "ALKALI-ACTIVATED SLAG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/352975 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/352975",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 3 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W594626900",
+   "https://trid.trb.org/view/352975",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/352975",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=ALKALI-ACTIVATED%20SLAG",
+   "https://openlibrary.org/search.json?limit=10&title=ALKALI-ACTIVATED%20SLAG",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=ALKALI-ACTIVATED%20SLAG",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AALKALI-ACTIVATED%20SLAG",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=ALKALI-ACTIVATED%20SLAG"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/352975"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Duurzaamheid van beton met alkali-geactiveerde slak uit de jaren 50 - Het Purdocement",
+  "result": null,
+  "log": [
+   "direct https://lib.ugent.be/nl/catalog/rug01:001805488 -> 200 match=0.00",
+   "wayback none for lib.ugent.be/nl/catalog/rug01:001805488",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3118773678",
+   "https://lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://archive.org/wayback/available?url=lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://openlibrary.org/search.json?limit=10&title=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADuurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement"
+  ],
+  "urls": [
+   "https://lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010 -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2258488303",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://openlibrary.org/search.json?limit=10&title=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "http://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER",
+  "result": null,
+  "log": [
+   "direct https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600 -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20240909060752id_/https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600 -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2997452885",
+   "https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+   "https://archive.org/wayback/available?url=jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+   "https://web.archive.org/web/20240909060752id_/https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=PENGGUNAAN%20ABU%20SEKAM%20PADI%20SEBAGAI%20PENGGANTI%20SEMEN%20PADA%20BETON%20GEOPOLIMER",
+   "https://openlibrary.org/search.json?limit=10&title=PENGGUNAAN%20ABU%20SEKAM%20PADI%20SEBAGAI%20PENGGANTI%20SEMEN%20PADA%20BETON%20GEOPOLIMER",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=PENGGUNAAN%20ABU%20SEKAM%20PADI%20SEBAGAI%20PENGGANTI%20SEMEN%20PADA%20BETON%20GEOPOLIMER",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3APENGGUNAAN%20ABU%20SEKAM%20PADI%20SEBAGAI%20PENGGANTI%20SEMEN%20PADA%20BETON%20GEOPOLIMER",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=PENGGUNAAN%20ABU%20SEKAM%20PADI%20SEBAGAI%20PENGGANTI%20SEMEN%20PADA%20BETON%20GEOPOLIMER"
+  ],
+  "urls": [
+   "https://jurnal.unimed.ac.id/2012/index.php/eb/article/download/16142/12600"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Research on Hydration of Steel Slag Cement Activatedwith Waterglass",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200101/3000725676.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "wayback none for www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W919977396",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://openlibrary.org/search.json?limit=10&title=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AResearch%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Research%20on%20Hydration%20of%20Steel%20Slag%20Cement%20Activatedwith%20Waterglass"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "http://www.cqvip.com/QK/84253X/200101/3000725676.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Utilization of Concrete Waste Aggregates Using Geopolymer Cement",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/89595X/201006/36318831.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/89595X/201006/36318831.html",
+   "cinii opensearch: 2 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3147412689",
+   "https://www.cqvip.com/QK/89595X/201006/36318831.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89595X/201006/36318831.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://openlibrary.org/search.json?limit=10&title=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AUtilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Utilization%20of%20Concrete%20Waste%20Aggregates%20Using%20Geopolymer%20Cement"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "NUMERICAL METHOD AND RANDOM ANALYSIS OF CEMENT CONCRETE EXPANSION",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200001/4000713898.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "wayback none for www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W933935797",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://openlibrary.org/search.json?limit=10&title=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=NUMERICAL%20METHOD%20AND%20RANDOM%20ANALYSIS%20OF%20CEMENT%20CONCRETE%20EXPANSION"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "http://www.cqvip.com/QK/84253X/200001/4000713898.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading",
+  "result": null,
+  "log": [
+   "doi.org 500; crossref none; datacite none",
+   "direct https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260414123158id_/https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2738936772",
+   "https://api.crossref.org/works/10.22060/ceej.2017.12224.5151",
+   "https://api.datacite.org/dois/10.22060/ceej.2017.12224.5151",
+   "https://doi.org/10.22060/ceej.2017.12224.5151",
+   "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://archive.org/wayback/available?url=ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://web.archive.org/web/20260414123158id_/https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading",
+   "https://openlibrary.org/search.json?limit=10&title=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACompressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loadin",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Compressive%20Toughness%20of%20Lightweight%20Aggregate%20Concrete%20Containing%20Different%20Types%20of%20Steel%20Fiber%20under%20Monotonic%20Loading"
+  ],
+  "urls": [
+   "https://ajce.aut.ac.ir/article_979_7a9ffb33b1a22dd05be9ddf0d9f9eed2.pdf"
+  ],
+  "doi": "10.22060/ceej.2017.12224.5151"
+ },
+ {
+  "title": "CONTRIBUTION A L'ETUDE DU ROLE DE FIBRES DISPERSEES ANISOTROPIQUEMENT DANS LE MORTIER DE CIMENT SUR LES LOIS DE COMPORTEMENT, LES CRITERES DE RESISTANCE ET LA FISSURATION DU MATERIAU",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1022136 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1022136",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W78003020",
+   "https://trid.trb.org/view/1022136",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1022136",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=CONTRIBUTION%20A%20L%27ETUDE%20DU%20ROLE%20DE%20FIBRES%20DISPERSEES%20ANISOTROPIQUEMENT%20DANS%20LE%20MORTIER%20DE%20CIMENT%20SUR%20LES%20LOIS%20DE%20COMPORTEMENT%2C%20LES%20CRITERES%20DE%20RESISTANCE%20ET%20LA%20FISSURATION%20DU%20MATERIAU",
+   "https://openlibrary.org/search.json?limit=10&title=CONTRIBUTION%20A%20L%27ETUDE%20DU%20ROLE%20DE%20FIBRES%20DISPERSEES%20ANISOTROPIQUEMENT%20DANS%20LE%20MORTIER%20DE%20CIMENT%20SUR%20LES%20LOIS%20DE%20COMPORTEMENT",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CONTRIBUTION%20A%20L%27ETUDE%20DU%20ROLE%20DE%20FIBRES%20DISPERSEES%20ANISOTROPIQUEMENT%20DANS%20LE%20MORTIER%20DE%20CIMENT%20SUR%20LES%20LOIS%20DE%20COMPORTEMENT%2C%20LES%20CRITERES%20DE%20RESISTANCE%20ET%20LA%20FISSURATION%20DU%20MATERIAU",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACONTRIBUTION%20A%20L%27ETUDE%20DU%20ROLE%20DE%20FIBRES%20DISPERSEES%20ANISOTROPIQUEMENT%20DANS%20LE%20MORTIER%20DE%20CIMENT%20SUR%20LES%20LOIS%20DE%20COMPORTE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CONTRIBUTION%20A%20L%27ETUDE%20DU%20ROLE%20DE%20FIBRES%20DISPERSEES%20ANISOTROPIQUEMENT%20DANS%20LE%20MORTIER%20DE%20CIMENT%20SUR%20LES%20LOIS%20DE%20COMPORTEMENT%2C%20LES%20CRITERES%20DE%20RESISTANCE%20ET%20LA%20FISSURATION%20DU%20MATERIAU"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1022136"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinforced cement composites = 이미지 프로세싱 기반 섬유 분포 특성 평가 및 섬유 분포 특성이 시멘트 복합체의 인장거동에 미치는 영향",
+  "result": null,
+  "log": [
+   "direct https://koasas.kaist.ac.kr/handle/10203/30654 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20261013002039id_/https://koasas.kaist.ac.kr/handle/10203/30654 -> 200 match=0.00",
+   "dspace7 rest https://koasas.kaist.ac.kr/server/api/pid/find?id=hdl:10203/30654: None",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3026310669",
+   "https://koasas.kaist.ac.kr/handle/10203/30654",
+   "https://archive.org/wayback/available?url=koasas.kaist.ac.kr/handle/10203/30654",
+   "https://web.archive.org/web/20261013002039id_/https://koasas.kaist.ac.kr/handle/10203/30654",
+   "https://koasas.kaist.ac.kr/server/api/pid/find?id=hdl:10203/30654",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Fiber%20distribution%20evaluation%20using%20digital%20image%20processing%20and%20its%20effect%20on%20tensile%20behavior%20of%20fiber%20reinforced%20cement%20composites%20%3D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EA%B8%B0%EB%B0%98%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%20%ED%8F%89%EA%B0%80%20%EB%B0%8F%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%EC%9D%B4%20%EC%8B%9C%EB%A9%98%ED%8A%B8%20%EB%B3%B5%ED%95%A9%EC%B2%B4%EC%9D%98%20%EC%9D%B8%EC%9E%A5%EA%B1%B0%EB%8F%99%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5",
+   "https://openlibrary.org/search.json?limit=10&title=Fiber%20distribution%20evaluation%20using%20digital%20image%20processing%20and%20its%20effect%20on%20tensile%20behavior%20of%20fiber%20reinforced%20cement%20composites%20%3D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EA%B8%B0%EB%B0%98%20%EC%84%AC%EC%9C%A0",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Fiber%20distribution%20evaluation%20using%20digital%20image%20processing%20and%20its%20effect%20on%20tensile%20behavior%20of%20fiber%20reinforced%20cement%20composites%20%3D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EA%B8%B0%EB%B0%98%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%20%ED%8F%89%EA%B0%80%20%EB%B0%8F%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%EC%9D%B4%20%EC%8B%9C%EB%A9%98%ED%8A%B8%20%EB%B3%B5%ED%95%A9%EC%B2%B4%EC%9D%98%20%EC%9D%B8%EC%9E%A5%EA%B1%B0%EB%8F%99%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFiber%20distribution%20evaluation%20using%20digital%20image%20processing%20and%20its%20effect%20on%20tensile%20behavior%20of%20fiber%20reinforced%20ceme",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Fiber%20distribution%20evaluation%20using%20digital%20image%20processing%20and%20its%20effect%20on%20tensile%20behavior%20of%20fiber%20reinforced%20cement%20composites%20%3D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EA%B8%B0%EB%B0%98%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%20%ED%8F%89%EA%B0%80%20%EB%B0%8F%20%EC%84%AC%EC%9C%A0%20%EB%B6%84%ED%8F%AC%20%ED%8A%B9%EC%84%B1%EC%9D%B4%20%EC%8B%9C%EB%A9%98%ED%8A%B8%20%EB%B3%B5%ED%95%A9%EC%B2%B4%EC%9D%98%20%EC%9D%B8%EC%9E%A5%EA%B1%B0%EB%8F%99%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5"
+  ],
+  "urls": [
+   "https://koasas.kaist.ac.kr/handle/10203/30654"
+  ],
+  "doi": null
+ },
+ {
+  "title": "高性能混凝土（HPC）配合比设计新法——全计算法",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/3016878bfc72f828c0ec9a4231436302698971a4",
+   "doi": null,
+   "meta": {
+    "paperId": "3016878bfc72f828c0ec9a4231436302698971a4",
+    "externalIds": {
+     "MAG": "176111392",
+     "CorpusId": 212008516
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/3016878bfc72f828c0ec9a4231436302698971a4",
+    "title": "高性能混凝土（HPC）配合比设计新法——全计算法",
+    "venue": "",
+    "year": 2000,
+    "authors": [
+     {
+      "authorId": "2405057103",
+      "name": "Jian-Kui Chen"
+     },
+     {
+      "authorId": "2257131427",
+      "name": "Dong-Ming Wang"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://www.cqvip.com/qk/90326X/200002/4166829.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/90326X/200002/4166829.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 3016878bfc72f828c0ec9a4231436302698971a4"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W176111392",
+   "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E9%AB%98%E6%80%A7%E8%83%BD%E6%B7%B7%E5%87%9D%E5%9C%9F%EF%BC%88HPC%EF%BC%89%E9%85%8D%E5%90%88%E6%AF%94%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%B3%95%E2%80%94%E2%80%94%E5%85%A8%E8%AE%A1%E7%AE%97%E6%B3%95"
+  ],
+  "urls": [
+   "http://www.cqvip.com/qk/90326X/200002/4166829.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Identification of parameters of concrete damage plasticity constitutive model",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1036427860",
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://openlibrary.org/search.json?limit=10&title=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AIdentification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Identification%20of%20parameters%20of%20concrete%20damage%20plasticity%20constitutive%20model"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Balok Dan Pelat Beton Bertulang",
+  "result": null,
+  "log": [
+   "direct https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646 -> 000 match=0.00",
+   "wayback none for katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2992421190",
+   "https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "https://archive.org/wayback/available?url=katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Balok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://openlibrary.org/search.json?limit=10&title=Balok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Balok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ABalok%20Dan%20Pelat%20Beton%20Bertulang",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Balok%20Dan%20Pelat%20Beton%20Bertulang"
+  ],
+  "urls": [
+   "http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CERCETAREA EXPERIMENTALĂ, COMPONENTĂ ESENŢIALĂ ÎN APLICAREA DIFERITELOR METODE DE STABILIRE A DURATEI DE SERVICIU A CONSTRUCŢIILOR DIN BETON EXPERIMENTAL RESEARCH, ESSENTIAL COMPONENT IN THE APPLICATION OF DIFFERENT METHODS TO ESTABLISH THE SERVICE LIFE DESIGN OF CONCRETE STRUCTURES",
+  "result": null,
+  "log": [
+   "direct https://solacolu.chim.upb.ro/pag_219_228web.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20250925140228id_/https://solacolu.chim.upb.ro/pag_219_228web.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2555549008",
+   "https://solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://web.archive.org/web/20250925140228id_/https://solacolu.chim.upb.ro/pag_219_228web.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=CERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONSTRUC%C5%A2IILOR%20DIN%20BETON%20EXPERIMENTAL%20RESEARCH%2C%20ESSENTIAL%20COMPONENT%20IN%20THE%20APPLICATI",
+   "https://openlibrary.org/search.json?limit=10&title=CERCETAREA%20EXPERIMENTAL%C4%82",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONSTRUC%C5%A2IILOR%20DIN%20BETON%20EXPERIMENTAL%20RESEARCH%2C%20ESSENTIAL%20COMPONENT%20IN%20THE%20APPLICATI",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CERCETAREA%20EXPERIMENTAL%C4%82%2C%20COMPONENT%C4%82%20ESEN%C5%A2IAL%C4%82%20%C3%8EN%20APLICAREA%20DIFERITELOR%20METODE%20DE%20STABILIRE%20A%20DURATEI%20DE%20SERVICIU%20A%20CONSTRUC%C5%A2IILOR%20DIN%20BETON%20EXPERIMENTAL%20RESEARCH%2C%20ESSENTIAL%20COMPONENT%20IN%20THE%20APPLICATI"
+  ],
+  "urls": [
+   "http://solacolu.chim.upb.ro/pag_219_228web.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Evaluating a 50 year Old Concrete Bridge",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/326168 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/326168",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2994269565",
+   "https://trid.trb.org/view/326168",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/326168",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://openlibrary.org/search.json?limit=10&title=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AEvaluating%20a%2050%20year%20Old%20Concrete%20Bridge",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Evaluating%20a%2050%20year%20Old%20Concrete%20Bridge"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/326168"
+  ],
+  "doi": null
+ },
+ {
+  "title": "《高层建筑混凝土结构技术规程（JGJ3—2002）》的学习体会",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/qk/97803X/200305/8539963.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/97803X/200305/8539963.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1584324994",
+   "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://openlibrary.org/search.json?limit=10&title=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E3%80%8A%E9%AB%98%E5%B1%82%E5%BB%BA%E7%AD%91%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%EF%BC%88JGJ3%E2%80%942002%EF%BC%89%E3%80%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A"
+  ],
+  "urls": [
+   "http://www.cqvip.com/qk/97803X/200305/8539963.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纤维增强复合材料(FRP)约束混凝土矩形柱应力-应变关系的研究",
+  "result": null,
+  "log": [
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml -> 000 match=0.00",
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml -> 000 match=0.00",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1541572977",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%BA%A4%E7%BB%B4%E5%A2%9E%E5%BC%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%28FRP%29%E7%BA%A6%E6%9D%9F%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%9F%A9%E5%BD%A2%E6%9F%B1%E5%BA%94%E5%8A%9B-%E5%BA%94%E5%8F%98%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%94%E7%A9%B6"
+  ],
+  "urls": [
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米SiO 2 改性聚合物水泥基复合材料早期微观结构及性能",
+  "result": null,
+  "log": [
+   "doi.org 200; crossref none; datacite none",
+   "direct https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002 -> 500 match=0.00",
+   "wayback none for fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3101088893",
+   "https://api.crossref.org/works/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://api.datacite.org/dois/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://doi.org/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://archive.org/wayback/available?url=fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%BA%B3%E7%B1%B3SiO%202%20%E6%94%B9%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9%E6%B0%B4%E6%B3%A5%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E6%97%A9%E6%9C%9F%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E5%8F%8A%E6%80%A7%E8%83%BD",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%BA%B3%E7%B1%B3SiO%202%20%E6%94%B9%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9%E6%B0%B4%E6%B3%A5%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E6%97%A9%E6%9C%9F%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E5%8F%8A%E6%80%A7%E8%83%BD",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%BA%B3%E7%B1%B3SiO%202%20%E6%94%B9%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9%E6%B0%B4%E6%B3%A5%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E6%97%A9%E6%9C%9F%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E5%8F%8A%E6%80%A7%E8%83%BD",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%BA%B3%E7%B1%B3SiO%202%20%E6%94%B9%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9%E6%B0%B4%E6%B3%A5%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E6%97%A9%E6%9C%9F%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E5%8F%8A%E6%80%A7%E8%83%BD",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%BA%B3%E7%B1%B3SiO%202%20%E6%94%B9%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9%E6%B0%B4%E6%B3%A5%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E6%97%A9%E6%9C%9F%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E5%8F%8A%E6%80%A7%E8%83%BD"
+  ],
+  "urls": [
+   "https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002"
+  ],
+  "doi": "10.13801/j.cnki.fhclxb.20200218.002"
+ },
+ {
+  "title": "鉄筋コンクリート片持梁形式の壁の繰返し挙動 1 実験結果",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3210829852",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://openlibrary.org/search.json?limit=10&title=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E9%89%84%E7%AD%8B%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E7%89%87%E6%8C%81%E6%A2%81%E5%BD%A2%E5%BC%8F%E3%81%AE%E5%A3%81%E3%81%AE%E7%B9%B0%E8%BF%94%E3%81%97%E6%8C%99%E5%8B%95%201%20%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Estudo de traço de concreto permeável com adição de casca de arroz destinado à pavimentação de áreas públicas urbanas",
+  "result": null,
+  "log": [
+   "direct https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3096403882",
+   "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://archive.org/wayback/available?url=www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://openlibrary.org/search.json?limit=10&title=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AEstudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Estudo%20de%20tra%C3%A7o%20de%20concreto%20perme%C3%A1vel%20com%20adi%C3%A7%C3%A3o%20de%20casca%20de%20arroz%20destinado%20%C3%A0%20pavimenta%C3%A7%C3%A3o%20de%20%C3%A1reas%20p%C3%BAblicas%20urbanas"
+  ],
+  "urls": [
+   "http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influence on the performance of road cement concrete of coarse aggregate content",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032 -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2374382333",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://openlibrary.org/search.json?limit=10&title=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInfluence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Influence%20on%20the%20performance%20of%20road%20cement%20concrete%20of%20coarse%20aggregate%20content"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Läpäisevä betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7139672032",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=L%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://openlibrary.org/search.json?limit=10&title=L%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=L%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AL%C3%A4p%C3%A4isev%C3%A4%20betoni",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=L%C3%A4p%C3%A4isev%C3%A4%20betoni"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "REPAIR OF CONCRETE PAVEMENTS USING SYNTHETIC RESINS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/73813 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/73813",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W586509968",
+   "https://trid.trb.org/view/73813",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/73813",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://openlibrary.org/search.json?limit=10&title=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AREPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=REPAIR%20OF%20CONCRETE%20PAVEMENTS%20USING%20SYNTHETIC%20RESINS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/73813"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY",
+  "result": null,
+  "log": [
+   "direct https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2165101860",
+   "https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://archive.org/wayback/available?url=rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://web.archive.org/web/20260407100533id_/https://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=HIGH%20EARLY%20STRENGTH%20LATEX-MODIFIED%20CONCRETE%20OVERLAY",
+   "https://openlibrary.org/search.json?limit=10&title=HIGH%20EARLY%20STRENGTH%20LATEX-MODIFIED%20CONCRETE%20OVERLAY",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=HIGH%20EARLY%20STRENGTH%20LATEX-MODIFIED%20CONCRETE%20OVERLAY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHIGH%20EARLY%20STRENGTH%20LATEX-MODIFIED%20CONCRETE%20OVERLAY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=HIGH%20EARLY%20STRENGTH%20LATEX-MODIFIED%20CONCRETE%20OVERLAY"
+  ],
+  "urls": [
+   "http://rosap.ntl.bts.gov/view/dot/19208/dot_19208_DS1.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "SEISMIC DESIGN AND PERFORMANCE OF PRECAST CONCRETE SEGMENTAL BRIDGE COLUMNS",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/b490d3ae35be7d4ecedbe9d50fcfd756bcc58bea",
+   "doi": null,
+   "meta": {
+    "paperId": "b490d3ae35be7d4ecedbe9d50fcfd756bcc58bea",
+    "externalIds": {
+     "MAG": "191644584",
+     "CorpusId": 107633660
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/b490d3ae35be7d4ecedbe9d50fcfd756bcc58bea",
+    "title": "SEISMIC DESIGN AND PERFORMANCE OF PRECAST CONCRETE SEGMENTAL BRIDGE COLUMNS",
+    "venue": "",
+    "year": 2002,
+    "authors": [
+     {
+      "authorId": "97065495",
+      "name": "Joshua T. Hewes"
+     },
+     {
+      "authorId": "144036965",
+      "name": "M. Priestley"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=643318 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=643318",
+   "cinii opensearch: 1 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit b490d3ae35be7d4ecedbe9d50fcfd756bcc58bea"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W191644584",
+   "https://trid.trb.org/view.aspx?id=643318",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=643318",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://openlibrary.org/search.json?limit=10&title=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=SEISMIC%20DESIGN%20AND%20PERFORMANCE%20OF%20PRECAST%20CONCRETE%20SEGMENTAL%20BRIDGE%20COLUMNS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=643318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOSETTING PLASTIC IN CONCRETE",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/711ef4ace6d2671b474aa1a4beb60fab17b8d52f",
+   "doi": null,
+   "meta": {
+    "paperId": "711ef4ace6d2671b474aa1a4beb60fab17b8d52f",
+    "externalIds": {
+     "MAG": "2559897777",
+     "CorpusId": 138383113
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/711ef4ace6d2671b474aa1a4beb60fab17b8d52f",
+    "title": "STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOSETTING PLASTIC IN CONCRETE",
+    "venue": "",
+    "year": 2013,
+    "authors": [
+     {
+      "authorId": "32877828",
+      "name": "M. Mohammadian"
+     },
+     {
+      "authorId": "3916602",
+      "name": "A. K. Haghi"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://solacolu.chim.upb.ro/p276-284w.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260402172326id_/https://solacolu.chim.upb.ro/p276-284w.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 711ef4ace6d2671b474aa1a4beb60fab17b8d52f"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2559897777",
+   "https://solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://web.archive.org/web/20260402172326id_/https://solacolu.chim.upb.ro/p276-284w.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLA",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STUDIU%20PRIVIND%20APLICAREA%20MATERIALELOR%20PLASTICE%20TERMORIGIDE%20%C3%8EN%20BETON%20A%20STUDY%20ON%20APPLICATION%20OF%20RECYCLED%20THERMOSETTING%20PLASTIC%20IN%20CONCRETE"
+  ],
+  "urls": [
+   "https://solacolu.chim.upb.ro/p276-284w.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FRP材料加固混凝土结构应用的新领域——嵌入式（NSM）加固法",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/92047X/200404/9636503.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/92047X/200404/9636503.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1605063232",
+   "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=FRP%E6%9D%90%E6%96%99%E5%8A%A0%E5%9B%BA%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E9%A2%86%E5%9F%9F%E2%80%94%E2%80%94%E5%B5%8C%E5%85%A5%E5%BC%8F%EF%BC%88NSM%EF%BC%89%E5%8A%A0%E5%9B%BA%E6%B3%95"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/92047X/200404/9636503.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Concrete Repair Materials.",
+  "result": null,
+  "log": [
+   "direct https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf -> 200 match=0.12",
+   "wayback https://web.archive.org/web/20200325003659id_/https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 10 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W228961897",
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+   "https://archive.org/wayback/available?url=apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+   "https://web.archive.org/web/20200325003659id_/https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Repair%2C%20Evaluation%2C%20Maintenance%2C%20and%20Rehabilitation%20Research%20Program%3A%20Factors%20Related%20to%20the%20Performance%20of%20Concrete%20Repair%20Materials.",
+   "https://openlibrary.org/search.json?limit=10&title=Repair",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Repair%2C%20Evaluation%2C%20Maintenance%2C%20and%20Rehabilitation%20Research%20Program%3A%20Factors%20Related%20to%20the%20Performance%20of%20Concrete%20Repair%20Materials.",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ARepair%2C%20Evaluation%2C%20Maintenance%2C%20and%20Rehabilitation%20Research%20Program%3A%20Factors%20Related%20to%20the%20Performance%20of%20Concrete%20Rep",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Repair%2C%20Evaluation%2C%20Maintenance%2C%20and%20Rehabilitation%20Research%20Program%3A%20Factors%20Related%20to%20the%20Performance%20of%20Concrete%20Repair%20Materials."
+  ],
+  "urls": [
+   "https://apps.dtic.mil/dtic/tr/fulltext/u2/a192818.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Numerisk modellering af formfyldning ved støbning i selvkompakterende beton",
+  "result": null,
+  "log": [
+   "direct https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260414170701id_/https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2594166133",
+   "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://archive.org/wayback/available?url=backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://web.archive.org/web/20260414170701id_/https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://openlibrary.org/search.json?limit=10&title=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANumerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Numerisk%20modellering%20af%20formfyldning%20ved%20st%C3%B8bning%20i%20selvkompakterende%20beton"
+  ],
+  "urls": [
+   "https://backend.orbit.dtu.dk/ws/files/51923363/Thesis_JonSpangenberg111012.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Высокопрочный самоуплотняющийся бетон с использованием щебня фракции 5 - 10",
+  "result": null,
+  "log": [
+   "direct https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf -> 200 match=0.14",
+   "wayback none for cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2591408418",
+   "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "https://archive.org/wayback/available?url=cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://openlibrary.org/search.json?limit=10&title=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%89%D0%B5%D0%B1%D0%BD%D1%8F%20%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%205%20-%2010"
+  ],
+  "urls": [
+   "https://cyberleninka.ru/article/n/vysokoprochnyy-samouplotnyayuschiysya-beton-s-ispolzovaniem-schebnya-fraktsii-5-10/pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "IS THERE A MARKET FOR SELF-HEALING CEMENT- BASED MATERIALS?",
+  "result": null,
+  "log": [
+   "direct https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 200 match=0.00",
+   "cinii opensearch: 1 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2189404826",
+   "https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://archive.org/wayback/available?url=extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://openlibrary.org/search.json?limit=10&title=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AIS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=IS%20THERE%20A%20MARKET%20FOR%20SELF-HEALING%20CEMENT-%20BASED%20MATERIALS%3F"
+  ],
+  "urls": [
+   "http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A 10-YEAR REPORT ON PERFORMANCE OF BONDED CONCRETE RESURFACINGS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/95307 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95307",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W632010855",
+   "https://trid.trb.org/view/95307",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95307",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=A%2010-YEAR%20REPORT%20ON%20PERFORMANCE%20OF%20BONDED%20CONCRETE%20RESURFACINGS",
+   "https://openlibrary.org/search.json?limit=10&title=A%2010-YEAR%20REPORT%20ON%20PERFORMANCE%20OF%20BONDED%20CONCRETE%20RESURFACINGS",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=A%2010-YEAR%20REPORT%20ON%20PERFORMANCE%20OF%20BONDED%20CONCRETE%20RESURFACINGS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AA%2010-YEAR%20REPORT%20ON%20PERFORMANCE%20OF%20BONDED%20CONCRETE%20RESURFACINGS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=A%2010-YEAR%20REPORT%20ON%20PERFORMANCE%20OF%20BONDED%20CONCRETE%20RESURFACINGS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95307"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Deicer Scaling Mechanisms in Concrete",
+  "result": {
+   "route": "direct",
+   "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/17608",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Three experiments were conducted to study the characteristics of the two primary deicer scaling mechanisms in concrete: 1) a hydraulic pressure mechanism, which"
+    ],
+    "citation_journal_title": [
+     "Special Publication"
+    ],
+    "citation_journal_abbrev": [
+     "SP"
+    ],
+    "citation_author": [
+     "Frederick P. Browne",
+     "Philip D. Cady"
+    ],
+    "citation_title": [
+     "Deicer Scaling Mechanisms in Concrete"
+    ],
+    "citation_publication_date": [
+     "1975/01/01"
+    ],
+    "citation_volume": [
+     "47"
+    ],
+    "citation_firstpage": [
+     "101"
+    ],
+    "citation_lastpage": [
+     "120"
+    ],
+    "citation_pdf_url": [
+     "https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=17608"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_keywords": [
+     "absorption; calcium chlorides; chemical attack; concretes; deicers; deterioration; freeze-thaw durability; ice formation; pore water pressure; scaling; sodium chloride; tensile strength; thermal expansion; water-cement ratio"
+    ],
+    "citation_doi": [
+     "10.14359/17608"
+    ],
+    "html_title": [
+     "Deicer Scaling Mechanisms in Concrete"
+    ]
+   },
+   "snippet": "deicer scaling mechanisms in concrete search select regional portal aci global home middle east region portal western europe region portal subscribe to email first name is required invalid characters last name is required invalid characters email address is required invalid email address please select a country afghanistan aland islands albania algeria american samoa andorra angola anguilla antarctica antigua and barbuda argentina armenia aruba australia austria azerbaijan bahamas bahrain bangladesh barbados belarus belgium belize benin bermuda bhutan bolivia bonaire sint eustatius and saba bo",
+   "evidenceFile": "ev/deicerscalingmechanismsinconcrete-d1.html"
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/17608 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2468915103",
+   "https://api.crossref.org/works/10.14359/17608",
+   "https://api.datacite.org/dois/10.14359/17608",
+   "https://doi.org/10.14359/17608",
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/17608"
+  ],
+  "urls": [
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/17608"
+  ],
+  "doi": "10.14359/17608"
+ },
+ {
+  "title": "ETTRINGITE ET THAUMASITE DANS LE MORTIER DE LA DIGUE DU LARGE DU PORT DE CHERBOURG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1059081 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1059081",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W658077121",
+   "https://trid.trb.org/view/1059081",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1059081",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=ETTRINGITE%20ET%20THAUMASITE%20DANS%20LE%20MORTIER%20DE%20LA%20DIGUE%20DU%20LARGE%20DU%20PORT%20DE%20CHERBOURG",
+   "https://openlibrary.org/search.json?limit=10&title=ETTRINGITE%20ET%20THAUMASITE%20DANS%20LE%20MORTIER%20DE%20LA%20DIGUE%20DU%20LARGE%20DU%20PORT%20DE%20CHERBOURG",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=ETTRINGITE%20ET%20THAUMASITE%20DANS%20LE%20MORTIER%20DE%20LA%20DIGUE%20DU%20LARGE%20DU%20PORT%20DE%20CHERBOURG",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AETTRINGITE%20ET%20THAUMASITE%20DANS%20LE%20MORTIER%20DE%20LA%20DIGUE%20DU%20LARGE%20DU%20PORT%20DE%20CHERBOURG",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=ETTRINGITE%20ET%20THAUMASITE%20DANS%20LE%20MORTIER%20DE%20LA%20DIGUE%20DU%20LARGE%20DU%20PORT%20DE%20CHERBOURG"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1059081"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Interracial Interaction of Aggregate-Cement Paste in Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/201501/664200285.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/201501/664200285.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3139775076",
+   "https://www.cqvip.com/QK/84253X/201501/664200285.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/201501/664200285.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://openlibrary.org/search.json?limit=10&title=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInterracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Interracial%20Interaction%20of%20Aggregate-Cement%20Paste%20in%20Concrete"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)",
+  "result": null,
+  "log": [
+   "direct https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf -> 504 match=0.00",
+   "wayback https://web.archive.org/web/20170814155028id_/https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf -> 200 match=0.12",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2236099524",
+   "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://archive.org/wayback/available?url=lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://web.archive.org/web/20170814155028id_/https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosbare%20polymeren%29",
+   "https://openlibrary.org/search.json?limit=10&title=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosba",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosbare%20polymeren%29",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMicrostructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Microstructure%20Formation%20in%20Cement%20Mortars%20Modified%20With%20Water-Soluble%20Polymers%20%28Microstructuuropbouw%20bij%20cementmortels%20gemodificeerd%20met%20wateroplosbare%20polymeren%29"
+  ],
+  "urls": [
+   "https://lirias.kuleuven.be/bitstream/1979/1042/2/PhD+Elke+Knapen.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "セメント硬化体の細孔分布とイオンの拡散",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3007760114",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E7%B4%B0%E5%AD%94%E5%88%86%E5%B8%83%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AE%E6%8B%A1%E6%95%A3",
+   "https://openlibrary.org/search.json?limit=10&title=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E7%B4%B0%E5%AD%94%E5%88%86%E5%B8%83%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AE%E6%8B%A1%E6%95%A3",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E7%B4%B0%E5%AD%94%E5%88%86%E5%B8%83%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AE%E6%8B%A1%E6%95%A3",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E7%B4%B0%E5%AD%94%E5%88%86%E5%B8%83%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AE%E6%8B%A1%E6%95%A3",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E7%B4%B0%E5%AD%94%E5%88%86%E5%B8%83%E3%81%A8%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AE%E6%8B%A1%E6%95%A3"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "リン酸石膏の処分とカルシウムルーピングプロセスによるセメント工場のCO 2 捕獲との間の相乗効果の最適化",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3119642474",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%83%AA%E3%83%B3%E9%85%B8%E7%9F%B3%E8%86%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%A8%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AECO%202%20%E6%8D%95%E7%8D%B2%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+   "https://openlibrary.org/search.json?limit=10&title=%E3%83%AA%E3%83%B3%E9%85%B8%E7%9F%B3%E8%86%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%A8%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AECO%202%20%E6%8D%95%E7%8D%B2%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E3%83%AA%E3%83%B3%E9%85%B8%E7%9F%B3%E8%86%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%A8%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AECO%202%20%E6%8D%95%E7%8D%B2%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E3%83%AA%E3%83%B3%E9%85%B8%E7%9F%B3%E8%86%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%A8%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AECO%202%20%E6%8D%95%E7%8D%B2%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E3%83%AA%E3%83%B3%E9%85%B8%E7%9F%B3%E8%86%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%A8%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AECO%202%20%E6%8D%95%E7%8D%B2%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CARBONATION IN REINFORCED CONCRETE: A BIBLIOGRAPHY",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/666217 -> 500 match=0.00",
+   "direct https://trid.trb.org/view/281728 -> 000 match=0.00",
+   "wayback none for hdl.handle.net/10068/666217",
+   "wayback none for trid.trb.org/view/281728",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 5 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W606883442",
+   "https://hdl.handle.net/api/handles/10068/666217",
+   "https://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/666217",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/281728",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=CARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY",
+   "https://openlibrary.org/search.json?limit=10&title=CARBONATION%20IN%20REINFORCED%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CARBONATION%20IN%20REINFORCED%20CONCRETE%3A%20A%20BIBLIOGRAPHY"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728"
+  ],
+  "doi": null
+ },
+ {
+  "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+   "doi": null,
+   "meta": {
+    "paperId": "5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+    "externalIds": {
+     "MAG": "607926276",
+     "CorpusId": 92886676
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/5a842a8fdff0df44e73d5dd32d9db90f51ab8614",
+    "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+    "venue": "",
+    "year": 1983,
+    "authors": [
+     {
+      "authorId": "2094616785",
+      "name": "P. Poitevin"
+     },
+     {
+      "authorId": "117935419",
+      "name": "M. Regourd"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1038773 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1038773",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 5 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 5a842a8fdff0df44e73d5dd32d9db90f51ab8614"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W607926276",
+   "https://trid.trb.org/view/1038773",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1038773",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=DURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS",
+   "https://openlibrary.org/search.json?limit=10&title=DURABILITE%20DES%20BETONS%20",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=DURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=DURABILITE%20DES%20BETONS%20%3A%20CAS%20DES%20GRANULATS%20REACTIFS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1038773"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Freezing Effects in Concrete",
+  "result": {
+   "route": "direct",
+   "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&i=17603",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Theories as to the mechanism of freezing and thawing damage in concrete have been advanced for more than 40 years.  The author discusses the evolution of these"
+    ],
+    "citation_journal_title": [
+     "Special Publication"
+    ],
+    "citation_journal_abbrev": [
+     "SP"
+    ],
+    "citation_author": [
+     "T.C. Powers"
+    ],
+    "citation_title": [
+     "Freezing Effects in Concrete"
+    ],
+    "citation_publication_date": [
+     "1975/01/01"
+    ],
+    "citation_volume": [
+     "47"
+    ],
+    "citation_firstpage": [
+     "1"
+    ],
+    "citation_lastpage": [
+     "12"
+    ],
+    "citation_pdf_url": [
+     "https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=17603"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_keywords": [
+     "aggregates; air entrainments; bubbles; cement pastes; concretes; cracking (fracturing); deicers; free-thaw durability; freezing; lightweight aggregate concrete; plastic shrinkage; scaling; temperature; water-cement ratio"
+    ],
+    "citation_doi": [
+     "10.14359/17603"
+    ],
+    "html_title": [
+     "Freezing Effects in Concrete"
+    ]
+   },
+   "snippet": "freezing effects in concrete search select regional portal aci global home middle east region portal western europe region portal subscribe to email first name is required invalid characters last name is required invalid characters email address is required invalid email address please select a country afghanistan aland islands albania algeria american samoa andorra angola anguilla antarctica antigua and barbuda argentina armenia aruba australia austria azerbaijan bahamas bahrain bangladesh barbados belarus belgium belize benin bermuda bhutan bolivia bonaire sint eustatius and saba bosnia and ",
+   "evidenceFile": "ev/freezingeffectsinconcrete-d1.html"
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&i=17603 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2289219291",
+   "https://api.crossref.org/works/10.14359/17603",
+   "https://api.datacite.org/dois/10.14359/17603",
+   "https://doi.org/10.14359/17603",
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&i=17603"
+  ],
+  "urls": [
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&i=17603"
+  ],
+  "doi": "10.14359/17603"
+ },
+ {
+  "title": "HOW CHLORIDES AFFECT CONCRETE USED WITH REINFORCING STEEL",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/95643 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95643",
+   "cinii opensearch: 4 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W603402389",
+   "https://trid.trb.org/view/95643",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95643",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://openlibrary.org/search.json?limit=10&title=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=HOW%20CHLORIDES%20AFFECT%20CONCRETE%20USED%20WITH%20REINFORCING%20STEEL"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95643"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influenţa coroziunii elementelor din beton asupra stabilităţii construcţiilor",
+  "result": null,
+  "log": [
+   "direct https://ibn.idsi.md/vizualizare_articol/111617 -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617 -> 200 match=1.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3215983692",
+   "https://ibn.idsi.md/vizualizare_articol/111617",
+   "https://archive.org/wayback/available?url=ibn.idsi.md/vizualizare_articol/111617",
+   "https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://openlibrary.org/search.json?limit=10&title=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AInfluen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Influen%C5%A3a%20coroziunii%20elementelor%20din%20beton%20asupra%20stabilit%C4%83%C5%A3ii%20construc%C5%A3iilor"
+  ],
+  "urls": [
+   "https://ibn.idsi.md/vizualizare_articol/111617"
+  ],
+  "doi": null
+ },
+ {
+  "title": "LONGTIME STUDY OF CONCRETE DURABILITY IN SULFATE SOILS",
+  "result": null,
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://trid.trb.org/view/350738 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/350738",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2478255176",
+   "https://api.crossref.org/works/10.14359/6418",
+   "https://api.datacite.org/dois/10.14359/6418",
+   "https://doi.org/10.14359/6418",
+   "https://trid.trb.org/view/350738",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/350738",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=LONGTIME%20STUDY%20OF%20CONCRETE%20DURABILITY%20IN%20SULFATE%20SOILS",
+   "https://openlibrary.org/search.json?limit=10&title=LONGTIME%20STUDY%20OF%20CONCRETE%20DURABILITY%20IN%20SULFATE%20SOILS",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=LONGTIME%20STUDY%20OF%20CONCRETE%20DURABILITY%20IN%20SULFATE%20SOILS",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ALONGTIME%20STUDY%20OF%20CONCRETE%20DURABILITY%20IN%20SULFATE%20SOILS",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=LONGTIME%20STUDY%20OF%20CONCRETE%20DURABILITY%20IN%20SULFATE%20SOILS"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/350738"
+  ],
+  "doi": "10.14359/6418"
+ },
+ {
+  "title": "Ocena zagrożenia korozją zbrojenia konstrukcji żelbetowych. Cz. 1 - badania właściwości ochronnych betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W760476743",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu",
+   "https://openlibrary.org/search.json?limit=10&title=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOcena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Ocena%20zagro%C5%BCenia%20korozj%C4%85%20zbrojenia%20konstrukcji%20%C5%BCelbetowych.%20Cz.%201%20-%20badania%20w%C5%82a%C5%9Bciwo%C5%9Bci%20ochronnych%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement with interground additives. Capabilities and environmental relief, Part 1.",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2775402806",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20with%20interground%20additives",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201.",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20with%20interground%20additives.%20Capabilities%20and%20environmental%20relief%2C%20Part%201."
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ENVIRONMENTAL IMPACT ASSESSMENT OF CEMENT-CONCRETE SYSTEM",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200004/4000713766.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "wayback none for www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "cinii opensearch: 2 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W995879805",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://openlibrary.org/search.json?limit=10&title=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=ENVIRONMENTAL%20IMPACT%20ASSESSMENT%20OF%20CEMENT-CONCRETE%20SYSTEM"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "http://www.cqvip.com/QK/84253X/200004/4000713766.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Metropolia ja vähähiilinen betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/883278",
+   "wayback none for www.theseus.fi/handle/10024/883278",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7127204375",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://openlibrary.org/search.json?limit=10&title=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMetropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Metropolia%20ja%20v%C3%A4h%C3%A4hiilinen%20betoni"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/883278",
+   "http://www.theseus.fi/handle/10024/883278"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Vähähiilinen betoni voimalinjaelementtien tuotannossa Betroc Oy:llä",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162166039",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4",
+   "https://openlibrary.org/search.json?limit=10&title=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AV%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=V%C3%A4h%C3%A4hiilinen%20betoni%20voimalinjaelementtien%20tuotannossa%20Betroc%20Oy%3All%C3%A4"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A Criterion for Selection of Natural Aggregates in Concrete",
+  "result": null,
+  "log": [
+   "doi.org 500; crossref none; datacite none",
+   "direct https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2603472591",
+   "https://api.crossref.org/works/10.22071/gsj.2016.42136",
+   "https://api.datacite.org/dois/10.22071/gsj.2016.42136",
+   "https://doi.org/10.22071/gsj.2016.42136",
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://archive.org/wayback/available?url=www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://openlibrary.org/search.json?limit=10&title=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AA%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=A%20Criterion%20for%20Selection%20of%20Natural%20Aggregates%20in%20Concrete"
+  ],
+  "urls": [
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf"
+  ],
+  "doi": "10.22071/gsj.2016.42136"
+ },
+ {
+  "title": "Bergkrossmaterial som ballast i Betong",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W585294144",
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Bergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://openlibrary.org/search.json?limit=10&title=Bergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Bergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ABergkrossmaterial%20som%20ballast%20i%20Betong",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Bergkrossmaterial%20som%20ballast%20i%20Betong"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/ad6bc34cfe642fb1a1828790158ed589a6d05316",
+   "doi": null,
+   "meta": {
+    "paperId": "ad6bc34cfe642fb1a1828790158ed589a6d05316",
+    "externalIds": {
+     "MAG": "589110579",
+     "CorpusId": 137004131
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/ad6bc34cfe642fb1a1828790158ed589a6d05316",
+    "title": "CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY",
+    "venue": "",
+    "year": 1972,
+    "authors": [
+     {
+      "authorId": "92208083",
+      "name": "C. Legrand"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://trid.trb.org/view/1078067 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1078067",
+   "cinii opensearch: 1 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit ad6bc34cfe642fb1a1828790158ed589a6d05316"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W589110579",
+   "https://trid.trb.org/view/1078067",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1078067",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=CONTRIBUTION%20TO%20THE%20STUDY%20OF%20FRESH%20CONCRETE%20RHEOLOGY",
+   "https://openlibrary.org/search.json?limit=10&title=CONTRIBUTION%20TO%20THE%20STUDY%20OF%20FRESH%20CONCRETE%20RHEOLOGY",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=CONTRIBUTION%20TO%20THE%20STUDY%20OF%20FRESH%20CONCRETE%20RHEOLOGY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACONTRIBUTION%20TO%20THE%20STUDY%20OF%20FRESH%20CONCRETE%20RHEOLOGY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=CONTRIBUTION%20TO%20THE%20STUDY%20OF%20FRESH%20CONCRETE%20RHEOLOGY"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1078067"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Nowe dodatki mineralne do betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1482816913",
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://web.archive.org/web/20260404041545id_/http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Nowe%20dodatki%20mineralne%20do%20betonu",
+   "https://openlibrary.org/search.json?limit=10&title=Nowe%20dodatki%20mineralne%20do%20betonu",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Nowe%20dodatki%20mineralne%20do%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ANowe%20dodatki%20mineralne%20do%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Nowe%20dodatki%20mineralne%20do%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf",
+   "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB1-0049-0007/c/httpwww_biswbis_pb_edu_pl201101007.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tradycyjne i współczesne domieszki do betonu zmniejszające ilość wody zarobowej",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1535796158",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://openlibrary.org/search.json?limit=10&title=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Tradycyjne%20i%20wsp%C3%B3%C5%82czesne%20domieszki%20do%20betonu%20zmniejszaj%C4%85ce%20ilo%C5%9B%C4%87%20wody%20zarobowej"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tarjouslaskentatyökalu PainavaPinta Oy:lle : Betoni- ja muottityön urakkamenekkilaskuri",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7159748926",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri",
+   "https://openlibrary.org/search.json?limit=10&title=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Tarjouslaskentaty%C3%B6kalu%20PainavaPinta%20Oy%3Alle%20%3A%20Betoni-%20ja%20muottity%C3%B6n%20urakkamenekkilaskuri"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THERMAL TREATMENT OF CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/97440 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/97440",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: none"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2575603595",
+   "https://trid.trb.org/view/97440",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/97440",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=THERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=THERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=THERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATHERMAL%20TREATMENT%20OF%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=THERMAL%20TREATMENT%20OF%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/97440"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Impacts of bentonite and cement mixing ratio on deformation characteristics of plastic concrete",
+  "result": null,
+  "log": [
+   "doi.org 200; crossref none; datacite none",
+   "direct https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a -> 403 match=0.00",
+   "wayback none for doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "doaj api: None",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7213271991",
+   "https://api.crossref.org/works/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://api.datacite.org/dois/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doi.org/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://archive.org/wayback/available?url=doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://doaj.org/api/articles/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://openlibrary.org/search.json?limit=10&title=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AImpacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Impacts%20of%20bentonite%20and%20cement%20mixing%20ratio%20on%20deformation%20characteristics%20of%20plastic%20concrete"
+  ],
+  "urls": [
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "doi": "10.16198/j.cnki.1009-640x.2016.04.011"
+ },
+ {
+  "title": "TENSILE AND TENSILE FATIGUE BEHAVIOUR OF CONCRETE; EXPERIMENTS, MODELLING AND ANALYSES",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=366922 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=366922",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W600090434",
+   "https://trid.trb.org/view.aspx?id=366922",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=366922",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://openlibrary.org/search.json?limit=10&title=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=TENSILE%20AND%20TENSILE%20FATIGUE%20BEHAVIOUR%20OF%20CONCRETE%3B%20EXPERIMENTS%2C%20MODELLING%20AND%20ANALYSES"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=366922"
+  ],
+  "doi": null
+ },
+ {
+  "title": "The Long Term Creep of the Wylfa P.V. Concrete for Loading Ages up to 12 1/2 Years",
+  "result": null,
+  "log": [
+   "direct https://www.lib.ncsu.edu/resolver/1840.20/28318 -> 200 match=0.12",
+   "direct https://repository.lib.ncsu.edu/handle/1840.20/28318 -> 200 match=0.12",
+   "wayback none for www.lib.ncsu.edu/resolver/1840.20/28318",
+   "wayback none for repository.lib.ncsu.edu/handle/1840.20/28318",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 1 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3197318796",
+   "https://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318",
+   "https://archive.org/wayback/available?url=www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://archive.org/wayback/available?url=repository.lib.ncsu.edu/handle/1840.20/28318",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years",
+   "https://openlibrary.org/search.json?limit=10&title=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AThe%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=The%20Long%20Term%20Creep%20of%20the%20Wylfa%20P.V.%20Concrete%20for%20Loading%20Ages%20up%20to%2012%201/2%20Years"
+  ],
+  "urls": [
+   "http://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Thermal Behaviour of Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.ijear.org/vol4/spl2/ec0044.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20190828043526id_/http://ijear.org:80/vol4/spl2/ec0044.pdf -> 200 match=0.00",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 2 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2183114529",
+   "https://www.ijear.org/vol4/spl2/ec0044.pdf",
+   "https://archive.org/wayback/available?url=www.ijear.org/vol4/spl2/ec0044.pdf",
+   "https://web.archive.org/web/20190828043526id_/http://ijear.org:80/vol4/spl2/ec0044.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Thermal%20Behaviour%20of%20Concrete",
+   "https://openlibrary.org/search.json?limit=10&title=Thermal%20Behaviour%20of%20Concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Thermal%20Behaviour%20of%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AThermal%20Behaviour%20of%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Thermal%20Behaviour%20of%20Concrete"
+  ],
+  "urls": [
+   "http://www.ijear.org/vol4/spl2/ec0044.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Valorisation des boues de papeterie comme matières premières secondaires dans les mortiers de ciment Portland : incidence des conditions d’incinération sur la résistance mécanique des mortiers .",
+  "result": null,
+  "log": [
+   "direct https://hal.science/hal-04799890 -> 200 match=0.00",
+   "wayback none for hal.science/hal-04799890",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W4404680568",
+   "https://hal.science/hal-04799890",
+   "https://archive.org/wayback/available?url=hal.science/hal-04799890",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Valorisation%20des%20boues%20de%20papeterie%20comme%20mati%C3%A8res%20premi%C3%A8res%20secondaires%20dans%20les%20mortiers%20de%20ciment%20Portland%20%3A%20incidence%20des%20conditions%20d%E2%80%99incin%C3%A9ration%20sur%20la%20r%C3%A9sistance%20m%C3%A9canique%20des%20mortiers%20.",
+   "https://openlibrary.org/search.json?limit=10&title=Valorisation%20des%20boues%20de%20papeterie%20comme%20mati%C3%A8res%20premi%C3%A8res%20secondaires%20dans%20les%20mortiers%20de%20ciment%20Portland%20",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Valorisation%20des%20boues%20de%20papeterie%20comme%20mati%C3%A8res%20premi%C3%A8res%20secondaires%20dans%20les%20mortiers%20de%20ciment%20Portland%20%3A%20incidence%20des%20conditions%20d%E2%80%99incin%C3%A9ration%20sur%20la%20r%C3%A9sistance%20m%C3%A9canique%20des%20mortiers%20.",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AValorisation%20des%20boues%20de%20papeterie%20comme%20mati%C3%A8res%20premi%C3%A8res%20secondaires%20dans%20les%20mortiers%20de%20ciment%20Portland%20%3A%20incidenc",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Valorisation%20des%20boues%20de%20papeterie%20comme%20mati%C3%A8res%20premi%C3%A8res%20secondaires%20dans%20les%20mortiers%20de%20ciment%20Portland%20%3A%20incidence%20des%20conditions%20d%E2%80%99incin%C3%A9ration%20sur%20la%20r%C3%A9sistance%20m%C3%A9canique%20des%20mortiers%20."
+  ],
+  "urls": [
+   "https://hal.science/hal-04799890"
+  ],
+  "doi": null
+ },
+ {
+  "title": "用ANSYS Solid 65单元分析混凝土组合构件复杂应力",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90571X/2003006/8087629.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2339099228",
+   "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%94%A8ANSYS%20Solid%2065%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%84%E5%90%88%E6%9E%84%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%94%E5%8A%9B"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90571X/2003006/8087629.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Der heutige Stand der Festigkeitsprüfung von Zement nach Normen und deren Wert für die Praxis der Beton- und Eisenbeton-Bauweise",
+  "result": null,
+  "log": [
+   "direct https://www.dora.lib4ri.ch/empa/item/empa:30261 -> 200 match=0.00",
+   "wayback none for www.dora.lib4ri.ch/empa/item/empa:30261",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7233638520",
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261",
+   "https://archive.org/wayback/available?url=www.dora.lib4ri.ch/empa/item/empa:30261",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Der%20heutige%20Stand%20der%20Festigkeitspr%C3%BCfung%20von%20Zement%20nach%20Normen%20und%20deren%20Wert%20f%C3%BCr%20die%20Praxis%20der%20Beton-%20und%20Eisenbeton-Bauweise",
+   "https://openlibrary.org/search.json?limit=10&title=Der%20heutige%20Stand%20der%20Festigkeitspr%C3%BCfung%20von%20Zement%20nach%20Normen%20und%20deren%20Wert%20f%C3%BCr%20die%20Praxis%20der%20Beton-%20und%20Eisenbeton-Bauweise",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Der%20heutige%20Stand%20der%20Festigkeitspr%C3%BCfung%20von%20Zement%20nach%20Normen%20und%20deren%20Wert%20f%C3%BCr%20die%20Praxis%20der%20Beton-%20und%20Eisenbeton-Bauweise",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADer%20heutige%20Stand%20der%20Festigkeitspr%C3%BCfung%20von%20Zement%20nach%20Normen%20und%20deren%20Wert%20f%C3%BCr%20die%20Praxis%20der%20Beton-%20und%20Eisenbeton-",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Der%20heutige%20Stand%20der%20Festigkeitspr%C3%BCfung%20von%20Zement%20nach%20Normen%20und%20deren%20Wert%20f%C3%BCr%20die%20Praxis%20der%20Beton-%20und%20Eisenbeton-Bauweise"
+  ],
+  "urls": [
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Ocena wytrzymałości betonu na ściskanie w konstrukcjach na podstawie badania odwiertów rdzeniowych w świetle nowej normy europejskiej EN 13791:2007",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1491959663",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791%3A2007",
+   "https://openlibrary.org/search.json?limit=10&title=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791%3A2007",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOcena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Ocena%20wytrzyma%C5%82o%C5%9Bci%20betonu%20na%20%C5%9Bciskanie%20w%20konstrukcjach%20na%20podstawie%20badania%20odwiert%C3%B3w%20rdzeniowych%20w%20%C5%9Bwietle%20nowej%20normy%20europejskiej%20EN%2013791%3A2007"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "doi": null
+ },
+ {
+  "title": "RILEM TC 154-EMC「金属腐食を測定する電気化学的手法」 コンクリートの電気抵抗率に関する現場測定試験方法",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3200241007",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://openlibrary.org/search.json?limit=10&title=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ARILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=RILEM%20TC%20154-EMC%E3%80%8C%E9%87%91%E5%B1%9E%E8%85%90%E9%A3%9F%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E6%89%8B%E6%B3%95%E3%80%8D%20%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4%E6%B8%AC%E5%AE%9A%E8%A9%A6%E9%A8%93%E6%96%B9%E6%B3%95"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH PERFORMANCE, HIGH-VOLUME FLY ASH CONCRETE FOR SUSTAINABLE DEVELOPMENT",
+  "result": null,
+  "log": [
+   "direct https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 404 match=0.00",
+   "direct https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606 -> 429 match=0.00",
+   "wayback https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 200 match=0.14",
+   "wayback none for citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606",
+   "cinii opensearch: 3 items, best None",
+   "openlibrary: 10 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2241361961",
+   "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606",
+   "https://archive.org/wayback/available?url=web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://archive.org/wayback/available?url=citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=HIGH%20PERFORMANCE%2C%20HIGH-VOLUME%20FLY%20ASH%20CONCRETE%20FOR%20SUSTAINABLE%20DEVELOPMENT",
+   "https://openlibrary.org/search.json?limit=10&title=HIGH%20PERFORMANCE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=HIGH%20PERFORMANCE%2C%20HIGH-VOLUME%20FLY%20ASH%20CONCRETE%20FOR%20SUSTAINABLE%20DEVELOPMENT",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AHIGH%20PERFORMANCE%2C%20HIGH-VOLUME%20FLY%20ASH%20CONCRETE%20FOR%20SUSTAINABLE%20DEVELOPMENT",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=HIGH%20PERFORMANCE%2C%20HIGH-VOLUME%20FLY%20ASH%20CONCRETE%20FOR%20SUSTAINABLE%20DEVELOPMENT"
+  ],
+  "urls": [
+   "http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Use of Low-CO2 Portland Limestone Cement for Pavement Construction in Canada",
+  "result": null,
+  "log": [
+   "doi.org 302; crossref none; datacite none",
+   "direct https://trid.trb.org/view/987334 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/987334",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1549811631",
+   "https://api.crossref.org/works/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://api.datacite.org/dois/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://doi.org/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://trid.trb.org/view/987334",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/987334",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://openlibrary.org/search.json?limit=10&title=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AUse%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Use%20of%20Low-CO2%20Portland%20Limestone%20Cement%20for%20Pavement%20Construction%20in%20Canada"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/987334"
+  ],
+  "doi": "10.6135/ijprt.org.tw/2010.3(5).228"
+ },
+ {
+  "title": "X-ray diffraction studies on the transformation of kaolinite into metakaolin: I. Variability of interlayer spacings",
+  "result": null,
+  "log": [
+   "direct https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of -> 403 match=0.00",
+   "wayback none for pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2910228067",
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+   "https://archive.org/wayback/available?url=pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=X-ray%20diffraction%20studies%20on%20the%20transformation%20of%20kaolinite%20into%20metakaolin%3A%20I.%20Variability%20of%20interlayer%20spacings",
+   "https://openlibrary.org/search.json?limit=10&title=X-ray%20diffraction%20studies%20on%20the%20transformation%20of%20kaolinite%20into%20metakaolin",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=X-ray%20diffraction%20studies%20on%20the%20transformation%20of%20kaolinite%20into%20metakaolin%3A%20I.%20Variability%20of%20interlayer%20spacings",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AX-ray%20diffraction%20studies%20on%20the%20transformation%20of%20kaolinite%20into%20metakaolin%3A%20I.%20Variability%20of%20interlayer%20spacings",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=X-ray%20diffraction%20studies%20on%20the%20transformation%20of%20kaolinite%20into%20metakaolin%3A%20I.%20Variability%20of%20interlayer%20spacings"
+  ],
+  "urls": [
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "doi": null
+ },
+ {
+  "title": "MODEL EXPERIMENTAL DE RECICLARE A UNUI DEŞEU DIN INDUSTRIA HÂRTIEI CA MATERIE PRIMĂ SECUNDARĂ ÎN BETON AN EXPERIMENTAL MODEL OF WASTE RECYCLING FROM PAPER INDUSTRY AS SECONDARY RAW MATERIAL IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://solacolu.chim.upb.ro/pg17-24web.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260402172706id_/https://solacolu.chim.upb.ro/pg17-24web.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2184446387",
+   "https://solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://archive.org/wayback/available?url=solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://web.archive.org/web/20260402172706id_/https://solacolu.chim.upb.ro/pg17-24web.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20PAPER%20INDUSTRY%20AS%20SECONDARY%20RAW%20MATERIAL%20IN%20CONCRET",
+   "https://openlibrary.org/search.json?limit=10&title=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20P",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20PAPER%20INDUSTRY%20AS%20SECONDARY%20RAW%20MATERIAL%20IN%20CONCRET",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20M",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=MODEL%20EXPERIMENTAL%20DE%20RECICLARE%20A%20UNUI%20DE%C5%9EEU%20DIN%20INDUSTRIA%20H%C3%82RTIEI%20CA%20MATERIE%20PRIM%C4%82%20SECUNDAR%C4%82%20%C3%8EN%20BETON%20AN%20EXPERIMENTAL%20MODEL%20OF%20WASTE%20RECYCLING%20FROM%20PAPER%20INDUSTRY%20AS%20SECONDARY%20RAW%20MATERIAL%20IN%20CONCRET"
+  ],
+  "urls": [
+   "http://solacolu.chim.upb.ro/pg17-24web.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Odpady ceramiki sanitarnej jako kruszywo do betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1001658298",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://openlibrary.org/search.json?limit=10&title=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AOdpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Odpady%20ceramiki%20sanitarnej%20jako%20kruszywo%20do%20betonu"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/b40b3205eed871fdba076badb7578e11a81622f7",
+   "doi": "10.32502/JBEARING.V5I4.1681",
+   "meta": {
+    "paperId": "b40b3205eed871fdba076badb7578e11a81622f7",
+    "externalIds": {
+     "MAG": "2905579206",
+     "DOI": "10.32502/JBEARING.V5I4.1681",
+     "CorpusId": 139836404
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/b40b3205eed871fdba076badb7578e11a81622f7",
+    "title": "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON",
+    "venue": "",
+    "year": 2018,
+    "authors": [
+     {
+      "authorId": "103503222",
+      "name": "Mira Setiawati"
+     },
+     {
+      "authorId": "2092932704",
+      "name": "Muhammad Imaduddin"
+     }
+    ]
+   }
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660 -> 403 match=0.00",
+   "direct https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404 -> 200 match=0.00",
+   "wayback none for jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "wayback none for jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit b40b3205eed871fdba076badb7578e11a81622f7"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2905579206",
+   "https://api.crossref.org/works/10.32502/jbearing.v5i4.1681",
+   "https://api.datacite.org/dois/10.32502/jbearing.v5i4.1681",
+   "https://doi.org/10.32502/jbearing.v5i4.1681",
+   "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "https://archive.org/wayback/available?url=jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://archive.org/wayback/available?url=jurnal.um-palembang.ac.id/bearing/article/download/1681/1404",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://openlibrary.org/search.json?limit=10&title=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AFLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=FLY%20ASH%20SEBAGAI%20BAHAN%20PENGGANTI%20SEMEN%20PADA%20BETON"
+  ],
+  "urls": [
+   "https://jurnal.umj.ac.id/index.php/semnastek/article/download/3556/2660",
+   "https://jurnal.um-palembang.ac.id/bearing/article/download/1681/1404"
+  ],
+  "doi": "10.32502/jbearing.v5i4.1681"
+ },
+ {
+  "title": "KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI SEBAGIAN SEMEN",
+  "result": {
+   "route": "direct",
+   "url": "https://radial.e-journal.unbitago.ac.id/radial/article/view/199",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Terbit dua kali setahun oleh Universitas Bina Taruna Gorontalo. RADIAL merupakan media publikasi ilmiah dan sharing yang berisi kajian ilmiah"
+    ],
+    "DC.Creator.PersonalName": [
+     "Rahmat Muhlis Mohamad",
+     "Azis Rachman",
+     "Rahayu Mointi"
+    ],
+    "DC.Date.created": [
+     "2020-07-13"
+    ],
+    "DC.Date.dateSubmitted": [
+     "2020-06-10"
+    ],
+    "DC.Date.issued": [
+     "2020-07-13"
+    ],
+    "DC.Date.modified": [
+     "2020-07-13"
+    ],
+    "DC.Description": [
+     "ABSTRAK\n&nbsp;Beton diminati karena banyak memiliki kelebihan-kelebihan dibandingkan dengan bahan lainnya, antara lain harganya yang relatif murah, mempunyai kekuatan yang baik, bahan baku penyusun mudah didapat, tahan lama, tahan terhadap api, tidak mengalami pembusukan. Inovasi teknologi beton selalu dituntut guna menjawab tantangan akan kebutuhan, beton yang dihasilkan diharapkan mempunyai kualitas tinggi meliputi kekuatan dan daya tahan tanpa mengabaikan nilai ekonomis.&nbsp; Pada pengujian kuat tekan beton ini kekuatan beton yang terjadi pada umur 28 hari dengan mengganti sebagian semen dengan Fly Ash sebesar 25%, 30%, 35% dan 40% dari berat semen, dapat dilihat bahwa semakin besar nilai Fly Ash yang digunakan maka nilai kuat tekan yang didapat semakin rendah dari nilai tekan yang direncanakan sebesar 45 MPa. Hal ini terlihat pada hasil pengujian kuat tekan yang terjadi yakni pada campuran kadar Fly Ash 25% nilai kuat tekan yang di dapat sebesar 53,31 MPa dan pada pada campuran kadar Fly Ash 40% nilai kuat tekan yang di dapat sebesar 41,08 MPa.&nbsp; Adapun untuk mendapatkan kuat tekan yang baik pada beton dengan menggunakan campuran Fly Ash maka dalam pembuatan beton mutu tinggi diperlukan campuran material yang berkualitas dan bahan yang digunakan harus teruji dengan baik agar dalam pengujian kuat tekan akan didapatkan hasil yang sesuai dengan rencana.&nbsp;\nKata Kunci: Beton, Fly Ash, Kuat Tekan\nABSTRACT\nConcrete demand caused by it have advantages compared to other materials, such as the price is relatively inexpensive it, has good strength, constituent raw materials easily available, durable, resistant to fire, do not decay. Concrete technology innovation is always required in order to meet the needed, the result of concrete is expected to have a high quality cover strength and durability without neglecting economic value.&nbsp; In testing the compressive strength of concrete is concrete strength occurred at 28 days by replacing some of cement with fly ash by 25%, 30%, 35% and 40% of the weight of cement, it can be seen that the greater value of Fly Ash used the strong value press obtained the lower of the value of the planned press at 45 MPa. This is seen in the results of compressive strength testing happens that the mixture of fly ash content of 25% of the compressive strength is 53.31 MPa and in the mix of 40% fly ash content of the compressive strength is 41.08 MPa.&nbsp; For getting a good compressive strength of the concrete by using a mixture of Fly Ash, the high quality concrete made, it mix by required quality materials and the materials used have to tested properly so that the compressive strength test results that will be obtained in accordance with the plan.&nbsp;&nbsp;\nKeywords : Concrete, Fly Ash, Compressive Strength"
+    ],
+    "DC.Format": [
+     "application/pdf"
+    ],
+    "DC.Identifier": [
+     "199"
+    ],
+    "DC.Identifier.pageNumber": [
+     "25-33"
+    ],
+    "DC.Identifier.DOI": [
+     "10.37971/radial.v8i1.199"
+    ],
+    "DC.Identifier.URI": [
+     "https://radial.e-journal.unbitago.ac.id/radial/article/view/199"
+    ],
+    "DC.Language": [
+     "en"
+    ],
+    "DC.Rights": [
+     "Copyright (c) 2020 RADIAL : Jurnal Peradaban Sains, Rekayasa dan Teknologi"
+    ],
+    "DC.Source": [
+     "RADIAL : Jurnal Peradaban Sains, Rekayasa dan Teknologi"
+    ],
+    "DC.Source.ISSN": [
+     "2686-553X"
+    ],
+    "DC.Source.Issue": [
+     "1"
+    ],
+    "DC.Source.Volume": [
+     "8"
+    ],
+    "DC.Source.URI": [
+     "https://radial.e-journal.unbitago.ac.id/radial"
+    ],
+    "DC.Subject": [
+     "Beton",
+     "Fly Ash",
+     "Kuat Tekan"
+    ],
+    "DC.Title": [
+     "KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI  SEBAGIAN SEMEN"
+    ],
+    "DC.Type": [
+     "Text.Serial.Journal"
+    ],
+    "DC.Type.articleType": [
+     "Articles"
+    ],
+    "citation_journal_title": [
+     "RADIAL : Jurnal Peradaban Sains, Rekayasa dan Teknologi"
+    ],
+    "citation_journal_abbrev": [
+     "RADIAL"
+    ],
+    "citation_issn": [
+     "2686-553X"
+    ],
+    "citation_author": [
+     "Rahmat Muhlis Mohamad",
+     "Azis Rachman",
+     "Rahayu Mointi"
+    ],
+    "citation_author_institution": [
+     "STITEK Bina Taruna Gorontalo",
+     "STITEK Bina Taruna Gorontalo",
+     "STITEK Bina Taruna Gorontalo"
+    ],
+    "citation_title": [
+     "KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI  SEBAGIAN SEMEN"
+    ],
+    "citation_language": [
+     "en"
+    ],
+    "citation_date": [
+     "2020/07/13"
+    ],
+    "citation_volume": [
+     "8"
+    ],
+    "citation_issue": [
+     "1"
+    ],
+    "citation_firstpage": [
+     "25"
+    ],
+    "citation_lastpage": [
+     "33"
+    ],
+    "citation_doi": [
+     "10.37971/radial.v8i1.199"
+    ],
+    "citation_abstract_html_url": [
+     "https://radial.e-journal.unbitago.ac.id/radial/article/view/199"
+    ],
+    "citation_keywords": [
+     "Beton",
+     "Fly Ash",
+     "Kuat Tekan"
+    ],
+    "citation_pdf_url": [
+     "https://radial.e-journal.unbitago.ac.id/radial/article/download/199/191"
+    ],
+    "html_title": [
+     "KUAT TEKAN BETON UNTUK MUTU TINGGI 45 MPA DENGAN FLY ASH SEBAGAI BAHAN PENGGANTI SEBAGIAN SEMEN | RADIAL : Jurnal Peradaban Sains, Rekayasa dan Teknologi"
+    ]
+   },
+   "snippet": "kuat tekan beton untuk mutu tinggi 45 mpa dengan fly ash sebagai bahan pengganti sebagian semen radial jurnal peradaban sains rekayasa dan teknologi jurnal radial skip to main content skip to main navigation menu skip to site footer open menu home current archives announcements about about the journal submissions editorial team peer reviewer privacy statement contact register search register login home archives vol 8 no 1 2020 radial jurnal peradaban sains rekayasan dan teknologi articles kuat tekan beton untuk mutu tinggi 45 mpa dengan fly ash sebagai bahan pengganti sebagian semen authors ra",
+   "evidenceFile": "ev/kuattekanbetonuntukmututinggi45mpadengan-d1.html"
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://radial.e-journal.unbitago.ac.id/radial/article/view/199 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3048878276",
+   "https://api.crossref.org/works/10.37971/radial.v8i1.199",
+   "https://api.datacite.org/dois/10.37971/radial.v8i1.199",
+   "https://doi.org/10.37971/radial.v8i1.199",
+   "https://radial.e-journal.unbitago.ac.id/radial/article/view/199"
+  ],
+  "urls": [
+   "https://radial.e-journal.unbitago.ac.id/radial/article/view/199",
+   "https://stitek-binataruna.e-journal.id/radial/article/download/199/191"
+  ],
+  "doi": "10.37971/radial.v8i1.199"
+ },
+ {
+  "title": "STRENGTH EFFECT OF F MINERAL ADMIXTURE ON CEMENT CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/199001/4001628659.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "cinii opensearch: 2 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W917126567",
+   "https://www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STRENGTH%20EFFECT%20OF%20F%20MINERAL%20ADMIXTURE%20ON%20CEMENT%20CONCRETE"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STUDIES RELATING TO THE TESTING OF FLY ASH FOR USE IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=95750 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=95750",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W562678067",
+   "https://trid.trb.org/view.aspx?id=95750",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=95750",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ASTUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=STUDIES%20RELATING%20TO%20THE%20TESTING%20OF%20FLY%20ASH%20FOR%20USE%20IN%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=95750"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Drying Shrinkage Characteristics of Magnesium Slag Composite Admixture Concrete",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece -> 403 match=0.00",
+   "wayback none for doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "doaj api: None",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162820792",
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://archive.org/wayback/available?url=doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://doaj.org/api/articles/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://openlibrary.org/search.json?limit=10&title=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ADrying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Drying%20Shrinkage%20Characteristics%20of%20Magnesium%20Slag%20Composite%20Admixture%20Concrete"
+  ],
+  "urls": [
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Experimental Study on Grouting Material of Red Mud–blast Furnace Slag–steel Slag Ternary System",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/007a9f363892471da29db11c337615aa -> 403 match=0.00",
+   "wayback none for doaj.org/article/007a9f363892471da29db11c337615aa",
+   "doaj api: None",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162843139",
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa",
+   "https://archive.org/wayback/available?url=doaj.org/article/007a9f363892471da29db11c337615aa",
+   "https://doaj.org/api/articles/007a9f363892471da29db11c337615aa",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://openlibrary.org/search.json?limit=10&title=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AExperimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Experimental%20Study%20on%20Grouting%20Material%20of%20Red%20Mud%E2%80%93blast%20Furnace%20Slag%E2%80%93steel%20Slag%20Ternary%20System"
+  ],
+  "urls": [
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE GLASS CONTENT OF SLAG AND HYDRAULIC ACTIVITY",
+  "result": null,
+  "log": [
+   "direct https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081 -> 000 match=0.00",
+   "wayback none for pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "cinii opensearch: 2 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3193850149",
+   "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "https://archive.org/wayback/available?url=pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://openlibrary.org/search.json?limit=10&title=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATHE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=THE%20GLASS%20CONTENT%20OF%20SLAG%20AND%20HYDRAULIC%20ACTIVITY"
+  ],
+  "urls": [
+   "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "doi": null
+ }
+]

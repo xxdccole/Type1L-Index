@@ -1,0 +1,194 @@
+[
+ {
+  "i": 4206,
+  "why": "TRID record did not open from the box (no HTTP response, status 000) and the Wayback Machine has no archived copy",
+  "urlsTried": [
+   "https://trid.trb.org/View/2489961",
+   "https://archive.org/wayback/available?url=trid.trb.org/View/2489961"
+  ]
+ },
+ {
+  "i": 4208,
+  "why": "TRID record did not open from the box (no HTTP response, status 000) and the Wayback Machine has no archived copy",
+  "urlsTried": [
+   "https://trid.trb.org/View/2026344",
+   "https://archive.org/wayback/available?url=trid.trb.org/View/2026344"
+  ]
+ },
+ {
+  "i": 4210,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000"
+  ]
+ },
+ {
+  "i": 4211,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000"
+  ]
+ },
+ {
+  "i": 4212,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/118/639208358885570000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/118/639208358885570000"
+  ]
+ },
+ {
+  "i": 4213,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/120/639208359223730000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/120/639208359223730000"
+  ]
+ },
+ {
+  "i": 4214,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/124/639283567735070000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/124/639283567735070000"
+  ]
+ },
+ {
+  "i": 4215,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/128/639208360401970000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/128/639208360401970000"
+  ]
+ },
+ {
+  "i": 4216,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/134/639258420288470000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/134/639258420288470000"
+  ]
+ },
+ {
+  "i": 4217,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/136/639076035961930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/136/639076035961930000"
+  ]
+ },
+ {
+  "i": 4218,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/144/639100270836630000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/144/639100270836630000"
+  ]
+ },
+ {
+  "i": 4219,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/146/638943142530930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/146/638943142530930000"
+  ]
+ },
+ {
+  "i": 4220,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/150/638943147559870000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/150/638943147559870000"
+  ]
+ },
+ {
+  "i": 4221,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/168/639100271387930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/168/639100271387930000"
+  ]
+ },
+ {
+  "i": 4222,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/268/639050146011100000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/268/639050146011100000"
+  ]
+ },
+ {
+  "i": 4223,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/300/639258421828700000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/300/639258421828700000"
+  ]
+ },
+ {
+  "i": 4224,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/318/639283572335900000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/318/639283572335900000"
+  ]
+ },
+ {
+  "i": 4226,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10050/638941554265430000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/10050/638941554265430000"
+  ]
+ },
+ {
+  "i": 4227,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10036/638942160871470000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/10036/638942160871470000"
+  ]
+ },
+ {
+  "i": 4228,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000"
+  ]
+ },
+ {
+  "i": 4229,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10032/638942161475930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/10032/638942161475930000"
+  ]
+ },
+ {
+  "i": 4230,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/9776/638942197368330000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/9776/638942197368330000"
+  ]
+ },
+ {
+  "i": 4231,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000"
+  ]
+ },
+ {
+  "i": 4232,
+  "why": "ksdot.gov document link answered HTTP 403 to the box (direct re-read) and the Wayback Machine has no archived copy of this URL; no other legitimate route found for the document text",
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000"
+  ]
+ }
+]
