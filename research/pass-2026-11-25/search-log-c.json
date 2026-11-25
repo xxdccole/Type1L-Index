@@ -1,0 +1,86 @@
+{
+ "log": [
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete",
+   "period": "2026-11-23:",
+   "language": null,
+   "n": 50,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "cement",
+   "period": "2026-11-23:",
+   "language": null,
+   "n": 44,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "mortar cementitious",
+   "period": "2026-11-20:",
+   "language": null,
+   "n": 38,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "geopolymer alkali-activated",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 45,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "limestone calcined clay cement",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 14,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "supplementary cementitious materials",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 35,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "ultra-high performance concrete",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 42,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete durability chloride",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 19,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "low-carbon cement clinker",
+   "period": "2026-11-10:",
+   "language": null,
+   "n": 29,
+   "errors": []
+  }
+ ],
+ "skippedRepeats": []
+}

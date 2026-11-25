@@ -1,0 +1,78 @@
+{
+ "dropRecs": {
+  "Fire Performance of High-Strength Concrete: A Report of the State-of-the-Art": {
+   "matchedTo": "R4354",
+   "reason": "Same work as R4354 (Phan, NIST IR 5934, 1996, DOI 10.6028/nist.ir.5934), which was added on 2026-11-22 from discovery; the Open Library record opened on the 2026-11-25 retry describes the same 1996 NIST report. Matched to the existing record instead of creating a duplicate."
+  },
+  "Energy efficiency and fuel substitution in the cement industry with emphasis on developing countries. Technical paper": {
+   "reason": "Duplicate version: the same 1983 World Bank publication by Fog & Nadkarni is promoted today from its CiNii Books record; the OSTI record (report PB-84-217694, https://www.osti.gov/biblio/6273733, read 2026-11-25) is added there as an alternate identifier."
+  }
+ },
+ "recs": {
+  "Energy efficiency and fuel substitution in the cement industry, with emphasis on developing countries": {
+   "ids": {
+    "openalex": "W1497589209",
+    "ncid": "BA48412102",
+    "alsoRecordedAt": "https://www.osti.gov/biblio/6273733 (OSTI record, report PB-84-217694, read 2026-11-25)"
+   },
+   "evidenceAppend": "The OSTI record of the same publication (technical paper, report PB-84-217694) was also read; it is not indexed separately."
+  },
+  "A new model for hydrated Portland cement and its practical implications - Archives des publications du CNRC": {
+   "title": "A new model for hydrated Portland cement and its practical implications",
+   "authors": [
+    "R. F. Feldman",
+    "P. J. Sereda"
+   ],
+   "publisher": "National Research Council Canada (NRC Publications Archive; Engineering Journal 53(8-9):53-59)",
+   "date": "1970-10-01",
+   "lang": "en",
+   "type": "Paper",
+   "ids": {
+    "openalex": "W823584215",
+    "nrcc": "NRCC 11604",
+    "series": "DBR-RP-454",
+    "nparc": "20375589",
+    "journal": "Engineering Journal 53(8-9):53-59"
+   },
+   "desc": "Feldman–Sereda model of hydrated portland cement: reviews earlier representations, lists observations they cannot explain, and proposes a new model built from sorption, length-change and mechanical-property data versus relative humidity, with predictions for shrinkage and creep (from the record abstract).",
+   "evidenceAppend": "Authors, date (1970-10-01), journal (Engineering Journal 53, no. 8-9, pp. 53-59), language (English) and identifiers taken from the record page; the page's 'date modified' (2026-11-25) is not the publication date."
+  },
+  "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton | Theses.fr": {
+   "title": "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton"
+  },
+  "El uso de la zeolita como una adición mineral para producir cemento puzolánico": {
+   "evidenceAppend": "Date is the repository date on the record (2009-02-16); OpenAlex lists 2004 — publication year not confirmed."
+  },
+  "Contribución al estudio analítico y físicoquímico del sistema cementos puzolánicos-yeso-agua": {
+   "evidenceAppend": "The repository record gives 2015 (likely the digitisation date); OpenAlex lists 1987 — original year not confirmed.",
+   "topics": [
+    "scm-natural",
+    "cross-chemistry"
+   ]
+  },
+  "Crack detection from an image of concrete surface based on semantic segmentation by deep learning": {
+   "topics": [
+    "cross-tests-codes",
+    "cross-failure-repair"
+   ]
+  },
+  "Cementos puzolánicos": {
+   "topics": [
+    "scm-natural",
+    "binder-blended"
+   ]
+  },
+  "Estudo da atividade pozolânica de micropartículas de vidro soda-cal, incolor e âmbar, e sua influência no desempenho de compóstos de cimento Portland": {
+   "topics": [
+    "scm-emerging",
+    "binder-portland"
+   ]
+  },
+  "13 Properties of concrete in reactor vessels": {
+   "topics": [
+    "concrete-structural",
+    "cross-mechanics"
+   ]
+  }
+ }
+}

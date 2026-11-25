@@ -1,0 +1,449 @@
+[
+ {
+  "idx": 8,
+  "url": "https://ci.nii.ac.jp/ncid/BA48412102",
+  "title": "Energy efficiency and fuel substitution in the cement industry, with emphasis on developing countries",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA48412102",
+  "match": 1.0,
+  "size": 2284,
+  "status": "ok"
+ },
+ {
+  "idx": 10,
+  "url": "https://www.osti.gov/scitech/biblio/6273733",
+  "title": "Energy efficiency and fuel substitution in the cement industry with emphasis on developing countries. Technical paper",
+  "http": "200 https://www.osti.gov/biblio/6273733",
+  "match": 1.0,
+  "size": 6365,
+  "status": "ok"
+ },
+ {
+  "idx": 11,
+  "url": "https://aei.pitt.edu/34462/1/A804.pdf",
+  "title": "Evolution of concentration in the United Kingdom cement industry : structure, conduct, and performance",
+  "http": "200 https://aei.pitt.edu/34462/1/A804.pdf",
+  "match": 0.0,
+  "size": 113,
+  "status": "fail"
+ },
+ {
+  "idx": 13,
+  "url": "https://hdl.handle.net/11362/9538",
+  "title": "Mexican cement industry (technology, market structure and growth)",
+  "http": "403 https://repositorio.cepal.org/handle/11362/9538",
+  "match": 0.0,
+  "size": 55,
+  "status": "fail"
+ },
+ {
+  "idx": 15,
+  "url": "https://hdl.handle.net/2060/19780025594",
+  "title": "Applications of thermal energy storage in the cement industry",
+  "http": "200 https://ntrs.nasa.gov/citations/19780025594",
+  "match": 1.0,
+  "size": 2582,
+  "status": "ok"
+ },
+ {
+  "idx": 20,
+  "url": "https://nrc-publications.canada.ca/fra/voir/objet/?id=4de674ce-d01f-4236-a6bc-7bbe0d03d936",
+  "title": "A NEW MODEL FOR HYDRATED PORTLAND CEMENT AND ITS PRACTICAL IMPLICATIONS",
+  "http": "200 https://nrc-publications.canada.ca/fra/voir/objet/?id=4de674ce-d01f-4236-a6bc-7bbe0d03d936",
+  "match": 1.0,
+  "size": 2999,
+  "status": "ok"
+ },
+ {
+  "idx": 62,
+  "url": "https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+  "title": "Concrete confined by rectangular hoops and subjected to axial loads",
+  "http": "202 https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 65,
+  "url": "https://trid.trb.org/view/98634",
+  "title": "THE CHEMISTRY OF CEMENT HYDRATION",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 67,
+  "url": "https://trid.trb.org/view/196477",
+  "title": "MICROSILICA IN CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 72,
+  "url": "https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35VT6",
+  "title": "Euro-Cements: Impact of ENV 197 on Concrete Construction",
+  "http": "200 https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35VT6",
+  "match": 0.0,
+  "size": 148,
+  "status": "fail"
+ },
+ {
+  "idx": 75,
+  "url": "https://ci.nii.ac.jp/ncid/BA63326163",
+  "title": "The plastic flow of concrete",
+  "http": "200 https://ci.nii.ac.jp/ncid/BA63326163",
+  "match": 1.0,
+  "size": 1799,
+  "status": "ok"
+ },
+ {
+  "idx": 76,
+  "url": "https://hdl.handle.net/2142/112366",
+  "title": "Prediction of creep in structural concrete from short time tests progress report 6",
+  "http": "403 https://www.ideals.illinois.edu/items/120247",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 77,
+  "url": "https://trid.trb.org/view/139138",
+  "title": "PENETRATION OF CHLORIDE INTO CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 81,
+  "url": "https://afzir.com/sites/default/files/kb/attached/3.pdf",
+  "title": "Guide for the Design and Construction of Externally Bonded FRP Systems for Strengthening Concrete Structures",
+  "http": "404 https://www.afzir.com/sites/default/files/kb/attached/3.pdf",
+  "match": 0.0,
+  "size": 2519,
+  "status": "fail"
+ },
+ {
+  "idx": 82,
+  "url": "https://hdl.handle.net/2142/4360",
+  "title": "A study of combined bending and axial load in reinforced concrete members",
+  "http": "403 https://www.ideals.illinois.edu/items/4902",
+  "match": 0.0,
+  "size": 27,
+  "status": "fail"
+ },
+ {
+  "idx": 84,
+  "url": "https://infoscience.epfl.ch/record/64092",
+  "title": "Concrete Mixture Proportioning: A Scientific Approach",
+  "http": "200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=64092",
+  "match": 0.0,
+  "size": 638,
+  "status": "fail"
+ },
+ {
+  "idx": 124,
+  "url": "https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+  "title": "Mix design for self compacting concrete",
+  "http": "000 https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 164,
+  "url": "https://ci.nii.ac.jp/naid/10007462496/",
+  "title": "Constitutive model for the triaxial behaviour of concrete",
+  "http": "202 https://cir.nii.ac.jp/crid/1573105974400260608",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 224,
+  "url": "https://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf",
+  "title": "La influencia de las cenizas volantes como sustituto parcial del cemento Pórtland en la durabilidad del hormigón: propiedades físicas, difusión del ión cloruro y del dióxido de carbono",
+  "http": "200 https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F3885%2F1%2FINVE_MEM_2008_57665.pdf",
+  "match": 0.0,
+  "size": 1046,
+  "status": "fail"
+ },
+ {
+  "idx": 225,
+  "url": "https://www.dspace.espol.edu.ec/handle/123456789/114",
+  "title": "El uso de la zeolita como una adición mineral para producir cemento puzolánico",
+  "http": "000 https://www.dspace.espol.edu.ec/handle/123456789/114",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 226,
+  "url": "https://hdl.handle.net/10261/38944",
+  "title": "Valorización de la escoria de SiMn como material puzolánico para la fabricación de cementos",
+  "http": "200 https://digital.csic.es/handle/10261/38944",
+  "match": 0.0,
+  "size": 1399,
+  "status": "fail"
+ },
+ {
+  "idx": 227,
+  "url": "https://dialnet.unirioja.es/servlet/tesis?codigo=242957",
+  "title": "Evaluación del uso de subproductos industriales de carácter puzolánico en conglomerantes de cemento pórtland. Influencia de su utlización sobre la durabilidad de los materiales",
+  "http": "200 https://dialnet.unirioja.es/servlet/tesis?codigo=242957",
+  "match": 1.0,
+  "size": 3581,
+  "status": "ok"
+ },
+ {
+  "idx": 228,
+  "url": "https://eprints.ucm.es/id/eprint/53335/1/5309876573.pdf",
+  "title": "Contribución al estudio analítico y físico-químico del sistema cementos puzolanicos - yeso - agua",
+  "http": "200 https://docta.ucm.es/entities/publication/fa4a59c3-264d-4db6-ad26-1a87bd770940",
+  "match": 0.875,
+  "size": 1202,
+  "status": "ok"
+ },
+ {
+  "idx": 230,
+  "url": "https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction",
+  "title": "Conception des bétons pour une durée de vie donnée des ouvrages. Maîtrise de la durabilité vis-à-vis de la corrosion des armatures et de l'alcali-réaction",
+  "http": "403 https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction",
+  "match": 0.0,
+  "size": 55,
+  "status": "fail"
+ },
+ {
+  "idx": 231,
+  "url": "https://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf",
+  "title": "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton",
+  "http": "404 https://utheme.utoulouse.fr/s/fr/item/526/1",
+  "match": 0.125,
+  "size": 176,
+  "status": "fail"
+ },
+ {
+  "idx": 232,
+  "url": "https://infoscience.epfl.ch/record/64184",
+  "title": "LA DURABILITE DES BETONS",
+  "http": "200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=64184",
+  "match": 0.0,
+  "size": 638,
+  "status": "fail"
+ },
+ {
+  "idx": 233,
+  "url": "https://hdl.handle.net/10068/809205",
+  "title": "Étude de la durabilité des bétons par une approche performantielle",
+  "http": "500 https://hdl.handle.net/10068/809205",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 234,
+  "url": "https://hdl.handle.net/10068/760954",
+  "title": "Durabilité des Bétons Auto-Plaçants",
+  "http": "500 https://hdl.handle.net/10068/760954",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 235,
+  "url": "https://hdl.handle.net/10068/748668",
+  "title": "Retrait et fissuration des bétons autoplaçants : influence de la formulation",
+  "http": "500 https://hdl.handle.net/10068/748668",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 241,
+  "url": "https://jtk.unsri.ac.id/index.php/jtk/article/download/34/36",
+  "title": "PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLAND PT SEMEN BATURAJA (PERSERO)",
+  "http": "000 https://jtk.unsri.ac.id/index.php/jtk/article/download/34/36",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 242,
+  "url": "https://hdl.handle.net/11311/504241",
+  "title": "La durabilità del calcestruzzo armato",
+  "http": "200 https://re.public.polimi.it/handle/11311/504241",
+  "match": 1.0,
+  "size": 2944,
+  "status": "ok"
+ },
+ {
+  "idx": 243,
+  "url": "https://hdl.handle.net/11568/55885",
+  "title": "INDICAZIONI NORMATIVE SULLA RESISTENZA E DURABILITA' DEL CALCESTRUZZO STRUTTURALE",
+  "http": "200 https://arpi.unipi.it/handle/11568/55885",
+  "match": 1.0,
+  "size": 2988,
+  "status": "ok"
+ },
+ {
+  "idx": 244,
+  "url": "https://www.fedoa.unina.it/12312/",
+  "title": "VALUTAZIONE SPERIMENTALE DEL CONTRIBUTO DI ELEMENTI DI RIVESTIMENTO ALLA DURABILITÀ DEL CALCESTRUZZO",
+  "http": "200 https://www.fedoa.unina.it/12312/",
+  "match": 1.0,
+  "size": 4788,
+  "status": "ok"
+ },
+ {
+  "idx": 245,
+  "url": "https://hdl.handle.net/11566/242757",
+  "title": "Valutazione della durabilità di strutture in calcestruzzo armato rinforzate con tessuti in fibra di carbonio (CFRP)",
+  "http": "200 https://iris.univpm.it/handle/11566/242757",
+  "match": 1.0,
+  "size": 10780,
+  "status": "ok"
+ },
+ {
+  "idx": 246,
+  "url": "https://hdl.handle.net/11311/750605",
+  "title": "Calcestruzzo armato - La sfida della durabilità",
+  "http": "200 https://re.public.polimi.it/handle/11311/750605",
+  "match": 1.0,
+  "size": 2929,
+  "status": "ok"
+ },
+ {
+  "idx": 247,
+  "url": "https://www.iris.unisa.it/handle/11386/3880794",
+  "title": "Studio di durabilità di un calcestruzzo modificato mediante l'impiego di nanoclay e resina idro-fobizzante",
+  "http": "200 https://www.iris.unisa.it/handle/11386/3880794",
+  "match": 1.0,
+  "size": 2851,
+  "status": "ok"
+ },
+ {
+  "idx": 248,
+  "url": "https://ci.nii.ac.jp/naid/110009736189",
+  "title": "1084 セメント水和物によるモルタル細孔溶液中のCl一固定のメカニズム(腐食・塩害)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051433316940400256",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 249,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0",
+  "title": "石灰石微粉末を添加したセメントのX線回折/リートベルト法による水和反応解析と強度発現機構に関する検討 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 250,
+  "url": "https://ci.nii.ac.jp/naid/110009692574",
+  "title": "2118 初期養生時に乾燥を受けるセメント系硬化体の水和反応と水分逸散特性(物性)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050307417032138240",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 251,
+  "url": "https://ci.nii.ac.jp/naid/80007676834",
+  "title": "1054 セメント粒子の分散に及ぼす高性能減水剤の立体障害効果の役割(混和材料)",
+  "http": "202 https://cir.nii.ac.jp/crid/1570291226742673536",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 252,
+  "url": "https://ci.nii.ac.jp/naid/110009695063",
+  "title": "1206 セメント-シリカフューム系結合材の水和反応と強度発現性の関係に関する一考察(高強度コンクリート(材料))",
+  "http": "202 https://cir.nii.ac.jp/crid/1521699231126009600",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 253,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0",
+  "title": "セメントの水和反応および微細組織形成に及ぼす初期高温履歴の影響 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 254,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+  "title": "Cement portlandzki wieloskładnikowy CEM II/B-M (V-W) 32,5R - skład, właściwości i możliwości zastosowania w budownictwie",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 255,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+  "title": "Cement portlandzki wieloskładnikowy CEM V/A (S-V) 32,5R-LH",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 256,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+  "title": "Cement portlandzki żużlowy składnikiem betonu w budowie drogi Zimna Wódka - Ujazd",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 257,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+  "title": "Cement portlandzki popiołowy CEM II/B-V 32,5 R",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 258,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+  "title": "Cement portlandzki żużlowy CEM II/B-S 42,5",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 259,
+  "url": "https://hdl.handle.net/1843/BUOS-9LEFBP",
+  "title": "Estudo da atividade pozolânica de micropartículas de vidro soda-cal, incolor e âmbar, e sua influência no desempenho de compóstos de cimento Portland",
+  "http": "200 https://repositorio.ufmg.br/items/39c1e28a-2b3a-4a62-a3c7-b1fb6aa09b82",
+  "match": 1.0,
+  "size": 6464,
+  "status": "ok"
+ },
+ {
+  "idx": 260,
+  "url": "https://repositorio.ufal.br/handle/riufal/377",
+  "title": "Obtenção do concreto autoadensável utilizando resíduo do beneficiamento do mármore e granito e estudo de propriedades mecânicas",
+  "http": "000 https://repositorio.ufal.br/handle/riufal/377",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 268,
+  "url": "https://kutuphane.dogus.edu.tr/mvt/pdf.php?pdf=0005544&lng=0",
+  "title": "Yüksek Dayanımlı Betonlarda Çimento Hamurunun Boşluk Yapısının Beton Özeliklerine Etkisi",
+  "http": "200 https://kutuphane.dogus.edu.tr/mvt/pdf.php?pdf=0005544&lng=0",
+  "match": 1.0,
+  "size": 3018,
+  "status": "ok"
+ },
+ {
+  "idx": 277,
+  "url": "https://www.cqvip.com/QK/90326X/200305/7988069.html",
+  "title": "纳米SiO2与水泥硬化浆体中Ca（OH）2的反应",
+  "status": "skipped-host"
+ }
+]

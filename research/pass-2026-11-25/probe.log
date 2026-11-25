@@ -1,0 +1,53 @@
+Counter({'fail': 32, 'ok': 15, 'skipped-host': 4})
+8 ok 200 https://ci.nii.ac.jp/ncid/BA48412102 1.0 Energy efficiency and fuel substitution in the cement indust
+10 ok 200 https://www.osti.gov/biblio/6273733 1.0 Energy efficiency and fuel substitution in the cement indust
+11 fail 200 https://aei.pitt.edu/34462/1/A804.pdf 0.0 Evolution of concentration in the United Kingdom cement indu
+13 fail 403 https://repositorio.cepal.org/handle/11362/9538 0.0 Mexican cement industry (technology, market structure and gr
+15 ok 200 https://ntrs.nasa.gov/citations/19780025594 1.0 Applications of thermal energy storage in the cement industr
+20 ok 200 https://nrc-publications.canada.ca/fra/voir/objet/?id=4de674ce-d01f-4236-a6bc-7bbe0d03 1.0 A NEW MODEL FOR HYDRATED PORTLAND CEMENT AND ITS PRACTICAL I
+62 fail 202 https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract 0.0 Concrete confined by rectangular hoops and subjected to axia
+65 skipped-host  0 THE CHEMISTRY OF CEMENT HYDRATION
+67 skipped-host  0 MICROSILICA IN CONCRETE
+72 fail 200 https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35V 0.0 Euro-Cements: Impact of ENV 197 on Concrete Construction
+75 ok 200 https://ci.nii.ac.jp/ncid/BA63326163 1.0 The plastic flow of concrete
+76 fail 403 https://www.ideals.illinois.edu/items/120247 0.0 Prediction of creep in structural concrete from short time t
+77 skipped-host  0 PENETRATION OF CHLORIDE INTO CONCRETE
+81 fail 404 https://www.afzir.com/sites/default/files/kb/attached/3.pdf 0.0 Guide for the Design and Construction of Externally Bonded F
+82 fail 403 https://www.ideals.illinois.edu/items/4902 0.0 A study of combined bending and axial load in reinforced con
+84 fail 200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=64092 0.0 Concrete Mixture Proportioning: A Scientific Approach
+124 fail 000 https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf 0.0 Mix design for self compacting concrete
+164 fail 202 https://cir.nii.ac.jp/crid/1573105974400260608 0.0 Constitutive model for the triaxial behaviour of concrete
+224 fail 200 https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F3885%2F1%2FINVE_MEM 0.0 La influencia de las cenizas volantes como sustituto parcial
+225 fail 000 https://www.dspace.espol.edu.ec/handle/123456789/114 0.0 El uso de la zeolita como una adición mineral para producir 
+226 fail 200 https://digital.csic.es/handle/10261/38944 0.0 Valorización de la escoria de SiMn como material puzolánico 
+227 ok 200 https://dialnet.unirioja.es/servlet/tesis?codigo=242957 1.0 Evaluación del uso de subproductos industriales de carácter 
+228 ok 200 https://docta.ucm.es/entities/publication/fa4a59c3-264d-4db6-ad26-1a87bd770940 0.88 Contribución al estudio analítico y físico-químico del siste
+230 fail 403 https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie- 0.0 Conception des bétons pour une durée de vie donnée des ouvra
+231 fail 404 https://utheme.utoulouse.fr/s/fr/item/526/1 0.12 Application de l'approche probabiliste à la durabilité des p
+232 fail 200 https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=64184 0.0 LA DURABILITE DES BETONS
+233 fail 500 https://hdl.handle.net/10068/809205 0.0 Étude de la durabilité des bétons par une approche performan
+234 fail 500 https://hdl.handle.net/10068/760954 0.0 Durabilité des Bétons Auto-Plaçants
+235 fail 500 https://hdl.handle.net/10068/748668 0.0 Retrait et fissuration des bétons autoplaçants : influence d
+241 fail 000 https://jtk.unsri.ac.id/index.php/jtk/article/download/34/36 0.0 PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLA
+242 ok 200 https://re.public.polimi.it/handle/11311/504241 1.0 La durabilità del calcestruzzo armato
+243 ok 200 https://arpi.unipi.it/handle/11568/55885 1.0 INDICAZIONI NORMATIVE SULLA RESISTENZA E DURABILITA' DEL CAL
+244 ok 200 https://www.fedoa.unina.it/12312/ 1.0 VALUTAZIONE SPERIMENTALE DEL CONTRIBUTO DI ELEMENTI DI RIVES
+245 ok 200 https://iris.univpm.it/handle/11566/242757 1.0 Valutazione della durabilità di strutture in calcestruzzo ar
+246 ok 200 https://re.public.polimi.it/handle/11311/750605 1.0 Calcestruzzo armato - La sfida della durabilità
+247 ok 200 https://www.iris.unisa.it/handle/11386/3880794 1.0 Studio di durabilità di un calcestruzzo modificato mediante 
+248 fail 202 https://cir.nii.ac.jp/crid/2051433316940400256 0.0 1084 セメント水和物によるモルタル細孔溶液中のCl一固定のメカニズム(腐食・塩害)
+249 fail 503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0 0.0 石灰石微粉末を添加したセメントのX線回折/リートベルト法による水和反応解析と強度発現機構に関する検討 | 文献情報 | 
+250 fail 202 https://cir.nii.ac.jp/crid/2050307417032138240 0.0 2118 初期養生時に乾燥を受けるセメント系硬化体の水和反応と水分逸散特性(物性)
+251 fail 202 https://cir.nii.ac.jp/crid/1570291226742673536 0.0 1054 セメント粒子の分散に及ぼす高性能減水剤の立体障害効果の役割(混和材料)
+252 fail 202 https://cir.nii.ac.jp/crid/1521699231126009600 0.0 1206 セメント-シリカフューム系結合材の水和反応と強度発現性の関係に関する一考察(高強度コンクリート(材料))
+253 fail 503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0 0.0 セメントの水和反応および微細組織形成に及ぼす初期高温履歴の影響 | 文献情報 | J-GLOBAL 科学技術総合リンクセ
+254 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087 0.0 Cement portlandzki wieloskładnikowy CEM II/B-M (V-W) 32,5R -
+255 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105 0.0 Cement portlandzki wieloskładnikowy CEM V/A (S-V) 32,5R-LH
+256 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140 0.0 Cement portlandzki żużlowy składnikiem betonu w budowie drog
+257 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093 0.0 Cement portlandzki popiołowy CEM II/B-V 32,5 R
+258 fail 403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021 0.0 Cement portlandzki żużlowy CEM II/B-S 42,5
+259 ok 200 https://repositorio.ufmg.br/items/39c1e28a-2b3a-4a62-a3c7-b1fb6aa09b82 1.0 Estudo da atividade pozolânica de micropartículas de vidro s
+260 fail 000 https://repositorio.ufal.br/handle/riufal/377 0.0 Obtenção do concreto autoadensável utilizando resíduo do ben
+268 ok 200 https://kutuphane.dogus.edu.tr/mvt/pdf.php?pdf=0005544&lng=0 1.0 Yüksek Dayanımlı Betonlarda Çimento Hamurunun Boşluk Yapısın
+277 skipped-host  0 纳米SiO2与水泥硬化浆体中Ca（OH）2的反应
+ALLDONE

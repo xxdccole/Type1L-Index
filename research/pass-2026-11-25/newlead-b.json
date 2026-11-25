@@ -1,0 +1,1989 @@
+[
+ {
+  "title": "Evolution of concentration in the United Kingdom cement industry : structure, conduct, and performance",
+  "result": {
+   "route": "direct",
+   "url": "https://ci.nii.ac.jp/ncid/BA25004129",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Evolution of concentration in the United Kingdom cement industry : structure, conduct, and performance"
+    ],
+    "dc.creator": [
+     "Rowley, Charles Kershaw",
+     "Yarrow, George K.",
+     "Bannock, Graham",
+     "Commission of the European Communities"
+    ],
+    "dc.publisher": [
+     "Commission of the European Communities , sold by the European Community Information Service]"
+    ],
+    "dc.date": [
+     "1978"
+    ],
+    "dc.type": [
+     "book"
+    ],
+    "citation_abstract_html_url": [
+     "https://ci.nii.ac.jp/ncid/BA25004129"
+    ],
+    "og:title": [
+     "CiNii 図書 - Evolution of concentration in the United Kingdom cement industry : structure, conduct, and performance"
+    ],
+    "html_title": [
+     "CiNii 図書 - Evolution of concentration in the United Kingdom cement industry : structure, conduct, and performance"
+    ]
+   },
+   "snippet": "evolution of concentration in the united kingdom cement industry structure conduct and performance cinii 国立情報学研究所 学術情報ナヒケータ サイニィ メニュー 検索 論文 テータをさかす 大学図書館の本をさかす ロクイン english 図書 雑誌検索 著者検索 内容検索 検索 すへての資料 図書 雑誌 詳細検索 タイトル タイトル完全一致 統一タイトルを含む 著者名 別名を含む 著者id 統一タイトルid 出版者 isbn issn ncid 件名 分類 注記 資料種別 すへての資料種別 図書 雑誌 地図資料 文字資料 点字 楽譜 印刷 文字資料 書写資料 地図 書写資料 楽譜 書写資料 静止画像 投影 マイクロ形態 静止画像 非投影 映画 録音資料 音楽 録音資料 非音楽 ヒテオレコート 機械可読テータファイル 3次元工芸品 自然の事物 キット 言語種別 すへての言語 日本語 英語 トイツ語 フランス語 中国語 ロシア語 スヘイン語 イタリア語 韓国 朝鮮語 アラヒア語 出版年 年から 年まて 図書館id 機関id 地域 すへての地域 北海道 東北地方 青森 岩手 宮城 秋田 山形 福島 関東地方 茨城 栃木 群馬 埼玉 千葉 東京 神奈川 北陸 甲信越地方 新潟 富山 ",
+   "evidenceFile": "ev/evolutionofconcentrationintheunitedkingd-d3.html"
+  },
+  "log": [
+   "direct https://aei.pitt.edu/34462/1/A804.pdf -> 200 match=0.00",
+   "direct https://aei.pitt.edu/34462/ -> 200 match=0.00",
+   "direct https://ci.nii.ac.jp/ncid/BA25004129 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W162699907",
+   "https://aei.pitt.edu/34462/1/A804.pdf",
+   "https://aei.pitt.edu/34462/",
+   "https://ci.nii.ac.jp/ncid/BA25004129"
+  ],
+  "urls": [
+   "http://aei.pitt.edu/34462/1/A804.pdf",
+   "http://aei.pitt.edu/34462/",
+   "http://ci.nii.ac.jp/ncid/BA25004129"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Mexican cement industry (technology, market structure and growth)",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240917214056/https://repositorio.cepal.org/handle/11362/9538",
+   "original": "http://repositorio.cepal.org/handle/11362/9538",
+   "snapshot": "20240917214056",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "citation_title": [
+     "Mexican cement industry (technology, market structure and growth)"
+    ],
+    "citation_author": [
+     "Pearson, Ruth"
+    ],
+    "citation_publication_date": [
+     "1977-09"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "citation_abstract_html_url": [
+     "https://hdl.handle.net/11362/9538"
+    ],
+    "citation_publisher": [
+     "ECLA"
+    ],
+    "citation_pdf_url": [
+     "https://10.0.9.124:4000/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download"
+    ],
+    "html_title": [
+     "Mexican cement industry (technology, market structure and growth)"
+    ]
+   },
+   "snippet": "mexican cement industry technology market structure and growth naciones unidas cepal english espanol portugues acerca de acerca de este repositorio terminos de uso acerca de la cepal api datos abiertos accesibilidad repositorio digital comision economica para america latina y el caribe repositorio digital comision economica para america latina y el caribe temas asuntos de genero comercio internacional e integracion desarrollo economico desarrollo productivo y empresarial desarrollo social desarrollo sostenible y asentamientos humanos estadisticas planificacion para el desarrollo poblacion y de",
+   "evidenceFile": "ev/mexicancementindustrytechnologymarketstr-wb.html"
+  },
+  "log": [
+   "handle API -> ['https://repositorio.cepal.org/handle/11362/9538']",
+   "direct https://hdl.handle.net/11362/9538 -> 403 match=0.00",
+   "direct https://repositorio.cepal.org/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download -> 403 match=0.00",
+   "direct https://repositorio.cepal.org/handle/11362/9538 -> 403 match=0.00",
+   "direct https://repositorio.cepal.org/handle/11362/9538 -> 403 match=0.00",
+   "wayback none for hdl.handle.net/11362/9538",
+   "wayback none for repositorio.cepal.org/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download",
+   "wayback https://web.archive.org/web/20240917214056id_/https://repositorio.cepal.org/handle/11362/9538 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W656419392",
+   "https://hdl.handle.net/api/handles/11362/9538",
+   "https://hdl.handle.net/11362/9538",
+   "https://repositorio.cepal.org/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download",
+   "https://repositorio.cepal.org/handle/11362/9538",
+   "https://repositorio.cepal.org/handle/11362/9538",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11362/9538",
+   "https://archive.org/wayback/available?url=repositorio.cepal.org/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download",
+   "https://archive.org/wayback/available?url=repositorio.cepal.org/handle/11362/9538",
+   "https://web.archive.org/web/20240917214056id_/https://repositorio.cepal.org/handle/11362/9538"
+  ],
+  "urls": [
+   "http://hdl.handle.net/11362/9538",
+   "https://repositorio.cepal.org/bitstreams/5b8704da-77a9-4828-b711-f8491b500a39/download",
+   "http://repositorio.cepal.org/handle/11362/9538",
+   "https://repositorio.cepal.org/handle/11362/9538"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Concrete confined by rectangular hoops and subjected to axial loads",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240727101922/https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+   "original": "https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+   "snapshot": "20240727101922",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "Results of an experimental investigation carried out on the subject of concrete confined by rectangular hoops subjected to axial loads are reported. The behavior of the confined concrete was studied regarding the effect of three parameters: (1) concrete cover, (2) lateral reinforcement (confinement), and (3) longitudinal reinforcement. Fourteen prismatic specimens were tested. These were subjected to monotonically increasing axial compressive loads applied at low strain rates. The experimental results obtained were then evaluated and subsequently compared."
+    ],
+    "og:title": [
+     "Concrete confined by rectangular hoops and subjected to axial loads"
+    ],
+    "citation_journal_title": [
+     "NASA STI/Recon Technical Report N"
+    ],
+    "citation_authors": [
+     "Vallenas, J.;Bertero, V. V.;Popov, E. P."
+    ],
+    "citation_title": [
+     "Concrete confined by rectangular hoops and subjected to axial loads"
+    ],
+    "citation_date": [
+     "08/1977"
+    ],
+    "citation_volume": [
+     "78"
+    ],
+    "citation_firstpage": [
+     "20373"
+    ],
+    "citation_language": [
+     "en"
+    ],
+    "citation_keywords": [
+     "Axial Loads",
+     "Concretes",
+     "Confinement",
+     "Hoops",
+     "Compressive Strength",
+     "Construction Materials",
+     "Mechanical Properties",
+     "Ring Structures",
+     "Tensile Stress",
+     "Engineering (General)"
+    ],
+    "citation_abstract_html_url": [
+     "https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract"
+    ],
+    "citation_publication_date": [
+     "08/1977"
+    ],
+    "dc.date": [
+     "08/1977"
+    ],
+    "dc.source": [
+     "STIN"
+    ],
+    "dc.title": [
+     "Concrete confined by rectangular hoops and subjected to axial loads"
+    ],
+    "dc.creator": [
+     "Vallenas, J.",
+     "Bertero, V. V.",
+     "Popov, E. P."
+    ],
+    "html_title": [
+     "Concrete confined by rectangular hoops and subjected to axial loads - NASA/ADS"
+    ]
+   },
+   "snippet": "concrete confined by rectangular hoops and subjected to axial loads nasa ads now on home page ads enable full ads view abstract citations references co reads similar papers volume content graphics metrics export citation nasa ads concrete confined by rectangular hoops and subjected to axial loads vallenas j bertero v v popov e p abstract results of an experimental investigation carried out on the subject of concrete confined by rectangular hoops subjected to axial loads are reported the behavior of the confined concrete was studied regarding the effect of three parameters 1 concrete cover 2 la",
+   "evidenceFile": "ev/concreteconfinedbyrectangularhoopsandsub-wb.html"
+  },
+  "log": [
+   "direct https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract -> 202 match=0.00",
+   "wayback https://web.archive.org/web/20240727101922id_/https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3000364681",
+   "https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+   "https://archive.org/wayback/available?url=ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract",
+   "https://web.archive.org/web/20240727101922id_/https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract"
+  ],
+  "urls": [
+   "https://ui.adsabs.harvard.edu/abs/1977STIN...7820373V/abstract"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE CHEMISTRY OF CEMENT HYDRATION",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/98634 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/98634",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2582145242",
+   "https://trid.trb.org/view/98634",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/98634",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=THE%20CHEMISTRY%20OF%20CEMENT%20HYDRATION",
+   "https://openlibrary.org/search.json?limit=10&title=THE%20CHEMISTRY%20OF%20CEMENT%20HYDRATION",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=THE%20CHEMISTRY%20OF%20CEMENT%20HYDRATION",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ATHE%20CHEMISTRY%20OF%20CEMENT%20HYDRATION",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=THE%20CHEMISTRY%20OF%20CEMENT%20HYDRATION"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/98634"
+  ],
+  "doi": null
+ },
+ {
+  "title": "MICROSILICA IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/196477 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/196477",
+   "cinii opensearch: 9 items, best None",
+   "openlibrary: 2 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W49817956",
+   "https://trid.trb.org/view/196477",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/196477",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=MICROSILICA%20IN%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=MICROSILICA%20IN%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=MICROSILICA%20IN%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMICROSILICA%20IN%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=MICROSILICA%20IN%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/196477"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Euro-Cements: Impact of ENV 197 on Concrete Construction",
+  "result": {
+   "route": "openlibrary",
+   "url": "https://openlibrary.org/works/OL34035644W",
+   "match": 1.0,
+   "meta": {
+    "title": "Euro-Cements : Impact of ENV 197 on Concrete Construction",
+    "author_name": [
+     "Ravindra K. Dhir",
+     "M. Roderick Jones"
+    ],
+    "first_publish_year": 1994,
+    "publisher": [],
+    "isbn": [],
+    "edition_count": 1,
+    "oclc": []
+   }
+  },
+  "log": [
+   "direct https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35VT6 -> 200 match=1.00",
+   "Amazon retail page not used as evidence; Open Library work OL34035644W read instead"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2889449069",
+   "https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35VT6",
+   "https://openlibrary.org/search.json?title=Euro-Cements"
+  ],
+  "urls": [
+   "https://www.amazon.com/Euro-Cements-Impact-ENV-Concrete-Construction-ebook/dp/B000Q35VT6"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Prediction of creep in structural concrete from short time tests progress report 6",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/120247",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Prediction of creep in structural concrete from short time tests progress report 6"
+    ],
+    "dc.creator": [
+     "Wallo, Edward M.",
+     "Yuan, Robert L.",
+     "Lott, J.L.",
+     "Kesler, Clyde E."
+    ],
+    "dc.date.issued": [
+     "1965-08"
+    ],
+    "dc.subject": [
+     "Mechanics",
+     "Engineering"
+    ],
+    "dc.date.accessioned": [
+     "2021-11-04T16:28:07Z"
+    ],
+    "dc.publisher": [
+     "Department of Theoretical and Applied Mechanics. College of Engineering. University of Illinois at Urbana-Champaign"
+    ],
+    "dc.relation.ispartof": [
+     "TAM R 658",
+     "1973-8545"
+    ],
+    "dc.identifier.issn": [
+     "0073-5264"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.type.genre": [
+     "technical report"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/112366"
+    ],
+    "dc.description.sponsorship": [
+     "PROJ IHR 72 65/08"
+    ],
+    "dc.rights": [
+     "Copyright 1965 Board of Trustees of the University of Illinois"
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/112366",
+     "https://hdl.handle.net/2142/112366"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/120247/bitstreams/394108/data.pdf"
+    ],
+    "citation_title": [
+     "Prediction of creep in structural concrete from short time tests progress report 6"
+    ],
+    "citation_author": [
+     "Wallo, Edward M.",
+     "Yuan, Robert L.",
+     "Lott, J.L.",
+     "Kesler, Clyde E."
+    ],
+    "citation_publication_date": [
+     "1965-08"
+    ],
+    "citation_keywords": [
+     "Mechanics",
+     "Engineering"
+    ],
+    "citation_online_date": [
+     "2021-11-04T16:28:07Z"
+    ],
+    "citation_publisher": [
+     "Department of Theoretical and Applied Mechanics. College of Engineering. University of Illinois at Urbana-Champaign"
+    ],
+    "citation_journal_title": [
+     "TAM R 658",
+     "1973-8545"
+    ],
+    "citation_issn": [
+     "0073-5264"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Prediction of creep in structural concrete from short time tests progress report 6 | IDEALS"
+    ]
+   },
+   "snippet": "prediction of creep in structural concrete from short time tests progress report 6 ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search university of illinois urbana champaign academic units grainger college of engineering dept of theoretical and applied mechanics 1926 2006 technical reports theoretical and applied mechanics tam prediction of creep in structural concrete ",
+   "evidenceFile": "ev/predictionofcreepinstructuralconcretefro-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/120247']",
+   "direct https://hdl.handle.net/2142/112366 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3213381625",
+   "https://hdl.handle.net/api/handles/2142/112366",
+   "https://hdl.handle.net/2142/112366"
+  ],
+  "urls": [
+   "http://hdl.handle.net/2142/112366",
+   "https://www.ideals.illinois.edu/handle/2142/112366",
+   "https://www.ideals.illinois.edu/items/120247"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENETRATION OF CHLORIDE INTO CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/139138 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/139138",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 1 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W822755667",
+   "https://trid.trb.org/view/139138",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/139138",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=PENETRATION%20OF%20CHLORIDE%20INTO%20CONCRETE",
+   "https://openlibrary.org/search.json?limit=10&title=PENETRATION%20OF%20CHLORIDE%20INTO%20CONCRETE",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=PENETRATION%20OF%20CHLORIDE%20INTO%20CONCRETE",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3APENETRATION%20OF%20CHLORIDE%20INTO%20CONCRETE",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=PENETRATION%20OF%20CHLORIDE%20INTO%20CONCRETE"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/139138"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Guide for the Design and Construction of Externally Bonded FRP Systems for Strengthening Concrete Structures",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1971993809794817597",
+   "match": 1.0,
+   "meta": {
+    "title": "Guide for the design and construction of externally bonded FRP systems for strengthening concrete structures",
+    "dc:creator": [
+     "American Concrete Institute. Committee 400"
+    ],
+    "dc:publisher": "American Concrete Institute",
+    "prism:publicationDate": "2003",
+    "dc:identifier": [
+     {
+      "@type": "cir:NCID",
+      "@value": "BA70753313"
+     },
+     {
+      "@type": "cir:ISBN",
+      "@value": "0870310887"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://ci.nii.ac.jp/ncid/BA70753313#entity"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://afzir.com/sites/default/files/kb/attached/3.pdf -> 404 match=0.00",
+   "wayback none for afzir.com/sites/default/files/kb/attached/3.pdf",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2185779093",
+   "https://afzir.com/sites/default/files/kb/attached/3.pdf",
+   "https://archive.org/wayback/available?url=afzir.com/sites/default/files/kb/attached/3.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Guide%20for%20the%20Design%20and%20Construction%20of%20Externally%20Bonded%20FRP%20Systems%20for%20Strengthening%20Concrete%20Structures"
+  ],
+  "urls": [
+   "http://afzir.com/sites/default/files/kb/attached/3.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A study of combined bending and axial load in reinforced concrete members",
+  "result": {
+   "route": "direct",
+   "url": "https://www.ideals.illinois.edu/items/4902",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Study of combined bending and axial load in reinforced concrete members"
+    ],
+    "dc.creator": [
+     "Hognestad, Eivind"
+    ],
+    "dc.date.issued": [
+     "1951"
+    ],
+    "dc.subject": [
+     "Reinforced concrete."
+    ],
+    "dc.date.accessioned": [
+     "2008-03-31T17:15:17Z"
+    ],
+    "dc.publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "dc.relation.ispartof": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 399"
+    ],
+    "dc.type": [
+     "text"
+    ],
+    "dc.type.genre": [
+     "Technical Report"
+    ],
+    "dc.language": [
+     "eng"
+    ],
+    "dcterms.identifier": [
+     "https://hdl.handle.net/2142/4360"
+    ],
+    "dc.relation.hasversion": [
+     "http://hdl.handle.net/10111/UIUC:Archive/engineeringexperv00000i00399"
+    ],
+    "dc.rights": [
+     "Copyright 1951 Board of Trustees University of Illinois."
+    ],
+    "citation_public_url": [
+     "https://hdl.handle.net/2142/4360",
+     "https://hdl.handle.net/2142/4360"
+    ],
+    "citation_pdf_url": [
+     "https://www.ideals.illinois.edu/items/4902/bitstreams/19186/data.pdf"
+    ],
+    "citation_title": [
+     "Study of combined bending and axial load in reinforced concrete members"
+    ],
+    "citation_author": [
+     "Hognestad, Eivind"
+    ],
+    "citation_publication_date": [
+     "1951"
+    ],
+    "citation_keywords": [
+     "Reinforced concrete."
+    ],
+    "citation_online_date": [
+     "2008-03-31T17:15:17Z"
+    ],
+    "citation_publisher": [
+     "University of Illinois at Urbana Champaign, College of Engineering. Engineering Experiment Station."
+    ],
+    "citation_journal_title": [
+     "University of Illinois. Engineering Experiment Station. Bulletin ; no. 399"
+    ],
+    "citation_language": [
+     "eng"
+    ],
+    "html_title": [
+     "Study of combined bending and axial load in reinforced concrete members | IDEALS"
+    ]
+   },
+   "snippet": "study of combined bending and axial load in reinforced concrete members ideals university of illinois urbana champaign log in ideals submit an item browse academic units and collections most recent items items by publication date author contributor index director of research if dissertation or advisor if thesis sponsor s grant number s about search university of illinois urbana champaign academic units grainger college of engineering engineering experiment station bulletins engineering experiment station study of combined bending and axial load in reinforced concrete members withdraw loading s",
+   "evidenceFile": "ev/astudyofcombinedbendingandaxialloadinrei-d1.html"
+  },
+  "log": [
+   "handle API -> ['https://www.ideals.illinois.edu/items/4902']",
+   "direct https://hdl.handle.net/2142/4360 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1589893916",
+   "https://hdl.handle.net/api/handles/2142/4360",
+   "https://hdl.handle.net/2142/4360"
+  ],
+  "urls": [
+   "https://hdl.handle.net/2142/4360",
+   "http://ci.nii.ac.jp/ncid/BA89694162",
+   "https://www.ideals.illinois.edu/items/4902"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Concrete Mixture Proportioning: A Scientific Approach",
+  "result": {
+   "route": "direct",
+   "url": "https://ci.nii.ac.jp/ncid/BA41356116",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "dc.title": [
+     "Concrete mixture proportioning : a scientific approach"
+    ],
+    "dc.creator": [
+     "Larrard, François de"
+    ],
+    "dc.publisher": [
+     "E & FN Spon"
+    ],
+    "dc.date": [
+     "1999"
+    ],
+    "dc.type": [
+     "book"
+    ],
+    "citation_abstract_html_url": [
+     "https://ci.nii.ac.jp/ncid/BA41356116"
+    ],
+    "og:title": [
+     "CiNii 図書 - Concrete mixture proportioning : a scientific approach"
+    ],
+    "html_title": [
+     "CiNii 図書 - Concrete mixture proportioning : a scientific approach"
+    ]
+   },
+   "snippet": "concrete mixture proportioning a scientific approach cinii 国立情報学研究所 学術情報ナヒケータ サイニィ メニュー 検索 論文 テータをさかす 大学図書館の本をさかす ロクイン english 図書 雑誌検索 著者検索 内容検索 検索 すへての資料 図書 雑誌 詳細検索 タイトル タイトル完全一致 統一タイトルを含む 著者名 別名を含む 著者id 統一タイトルid 出版者 isbn issn ncid 件名 分類 注記 資料種別 すへての資料種別 図書 雑誌 地図資料 文字資料 点字 楽譜 印刷 文字資料 書写資料 地図 書写資料 楽譜 書写資料 静止画像 投影 マイクロ形態 静止画像 非投影 映画 録音資料 音楽 録音資料 非音楽 ヒテオレコート 機械可読テータファイル 3次元工芸品 自然の事物 キット 言語種別 すへての言語 日本語 英語 トイツ語 フランス語 中国語 ロシア語 スヘイン語 イタリア語 韓国 朝鮮語 アラヒア語 出版年 年から 年まて 図書館id 機関id 地域 すへての地域 北海道 東北地方 青森 岩手 宮城 秋田 山形 福島 関東地方 茨城 栃木 群馬 埼玉 千葉 東京 神奈川 北陸 甲信越地方 新潟 富山 石川 福井 山梨 長野 東海地方 岐阜 静岡 愛知 三重 関西地方 滋賀 京都 大阪 兵庫 ",
+   "evidenceFile": "ev/concretemixtureproportioningascientifica-d2.html"
+  },
+  "log": [
+   "direct https://infoscience.epfl.ch/record/64092 -> 200 match=0.00",
+   "direct https://ci.nii.ac.jp/ncid/BA41356116 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1116058302",
+   "https://infoscience.epfl.ch/record/64092",
+   "https://ci.nii.ac.jp/ncid/BA41356116"
+  ],
+  "urls": [
+   "http://infoscience.epfl.ch/record/64092",
+   "http://ci.nii.ac.jp/ncid/BA41356116"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Mix design for self compacting concrete",
+  "result": null,
+  "log": [
+   "direct https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf -> 000 match=0.00",
+   "direct https://hrcak.srce.hr/38431 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20220701122436id_/https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20241118050929id_/https://hrcak.srce.hr/38431 -> 200 match=0.00",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W138752904",
+   "https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+   "https://hrcak.srce.hr/38431",
+   "https://archive.org/wayback/available?url=bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+   "https://web.archive.org/web/20220701122436id_/https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+   "https://archive.org/wayback/available?url=hrcak.srce.hr/38431",
+   "https://web.archive.org/web/20241118050929id_/https://hrcak.srce.hr/38431",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Mix%20design%20for%20self%20compacting%20concrete",
+   "https://openlibrary.org/search.json?limit=10&title=Mix%20design%20for%20self%20compacting%20concrete",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Mix%20design%20for%20self%20compacting%20concrete",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AMix%20design%20for%20self%20compacting%20concrete",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Mix%20design%20for%20self%20compacting%20concrete"
+  ],
+  "urls": [
+   "https://bib.irb.hr/datoteka/412992.Stirmer-Banjad_Pecur.pdf",
+   "http://hrcak.srce.hr/38431"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Constitutive model for the triaxial behaviour of concrete",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1573105974400260608",
+   "match": 1.0,
+   "meta": {
+    "title": "Constitutive model for the triaxial behaviour of concrete",
+    "dc:creator": [
+     "WILLAM K. J."
+    ],
+    "prism:publicationName": "Proc. Intl. Assoc. Bridge Structl. Engrs",
+    "prism:publicationDate": "1975",
+    "prism:volume": "19",
+    "prism:number": "0",
+    "prism:startingPage": "1",
+    "prism:endingPage": "30",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "10007462496"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/10007462496/ -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/10007462496/",
+   "cinii opensearch: 3 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3217434687",
+   "https://ci.nii.ac.jp/naid/10007462496/",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/10007462496/",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Constitutive%20model%20for%20the%20triaxial%20behaviour%20of%20concrete"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/10007462496/"
+  ],
+  "doi": null
+ },
+ {
+  "title": "La influencia de las cenizas volantes como sustituto parcial del cemento Pórtland en la durabilidad del hormigón: propiedades físicas, difusión del ión cloruro y del dióxido de carbono",
+  "result": null,
+  "log": [
+   "direct https://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20240521182023id_/https://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf -> 200 match=0.00",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1826661040",
+   "https://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf",
+   "https://archive.org/wayback/available?url=oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf",
+   "https://web.archive.org/web/20240521182023id_/https://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=La%20influencia%20de%20las%20cenizas%20volantes%20como%20sustituto%20parcial%20del%20cemento%20P%C3%B3rtland%20en%20la%20durabilidad%20del%20hormig%C3%B3n%3A%20propiedades%20f%C3%ADsicas%2C%20difusi%C3%B3n%20del%20i%C3%B3n%20cloruro%20y%20del%20di%C3%B3xido%20de%20carbono",
+   "https://openlibrary.org/search.json?limit=10&title=La%20influencia%20de%20las%20cenizas%20volantes%20como%20sustituto%20parcial%20del%20cemento%20P%C3%B3rtland%20en%20la%20durabilidad%20del%20hormig%C3%B3n",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=La%20influencia%20de%20las%20cenizas%20volantes%20como%20sustituto%20parcial%20del%20cemento%20P%C3%B3rtland%20en%20la%20durabilidad%20del%20hormig%C3%B3n%3A%20propiedades%20f%C3%ADsicas%2C%20difusi%C3%B3n%20del%20i%C3%B3n%20cloruro%20y%20del%20di%C3%B3xido%20de%20carbono",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ALa%20influencia%20de%20las%20cenizas%20volantes%20como%20sustituto%20parcial%20del%20cemento%20P%C3%B3rtland%20en%20la%20durabilidad%20del%20hormig%C3%B3n%3A%20propie",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=La%20influencia%20de%20las%20cenizas%20volantes%20como%20sustituto%20parcial%20del%20cemento%20P%C3%B3rtland%20en%20la%20durabilidad%20del%20hormig%C3%B3n%3A%20propiedades%20f%C3%ADsicas%2C%20difusi%C3%B3n%20del%20i%C3%B3n%20cloruro%20y%20del%20di%C3%B3xido%20de%20carbono"
+  ],
+  "urls": [
+   "http://oa.upm.es/3885/1/INVE_MEM_2008_57665.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "El uso de la zeolita como una adición mineral para producir cemento puzolánico",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240728230147/https://www.dspace.espol.edu.ec/handle/123456789/114",
+   "original": "https://www.dspace.espol.edu.ec/handle/123456789/114",
+   "snapshot": "20240728230147",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "Robalino Espinoza, Paola",
+     "Eguez Alava, Hugo"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2009-02-16"
+    ],
+    "DCTERMS.available": [
+     "2009-02-16"
+    ],
+    "DCTERMS.issued": [
+     "2009-02-16"
+    ],
+    "DC.identifier": [
+     "http://www.dspace.espol.edu.ec/handle/123456789/114"
+    ],
+    "DCTERMS.abstract": [
+     "Las  puzolanas son un material natural o artificial compuesto principalmente por sílice amorfa, que por si solas no poseen ningún valor cementante, pero que finamente dividido y en presencia de humedad reaccionan químicamente con la cal y forman un compuesto que posee propiedades aglomerantes.\r\n\r\nEl cemento puzolánico es la resultante de la incorporación de la puzolana (zeolita) al cemento portland en una proporción del 20% de la mezcla de la masa. Este producto se realizó bajo las normas de la ASTM C618 – 01\r\n\r\nPara esta tesis se utilizó la zeolita como adición en la fabricación del cemento puzolánico, con el fin de mejorar sus propiedades, y obtener un cemento igualmente resistente y más económico. El objetivo de esta tesis es desarrollar la aplicación de las zeolitas naturales como un componente básico de las mezclas de hormigones y morteros. Demostrar mediante ensayos y pruebas las bondades de la zeolita como una adición mineral para producir este material. \r\n\r\nEs indiscutible que para la rama de la construcción éste es un valioso recurso. Es importante demostrar las ventajas que ofrece este material, desde el punto de vista tanto técnico como económico. La zeolita es un nuevo recurso que no ha sido explotado aún, y esta en espera de ser reconocido."
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.rights": [
+     "openAccess"
+    ],
+    "DC.title": [
+     "El uso de la zeolita como una adición mineral para producir cemento puzolánico"
+    ],
+    "DC.type": [
+     "Article"
+    ],
+    "citation_keywords": [
+     "Article"
+    ],
+    "citation_title": [
+     "El uso de la zeolita como una adición mineral para producir cemento puzolánico"
+    ],
+    "citation_language": [
+     "spa"
+    ],
+    "citation_author": [
+     "Robalino Espinoza, Paola",
+     "Eguez Alava, Hugo"
+    ],
+    "citation_pdf_url": [
+     "http://www.dspace.espol.edu.ec/bitstream/123456789/114/1/116.pdf"
+    ],
+    "citation_date": [
+     "2009-02-16"
+    ],
+    "citation_abstract_html_url": [
+     "http://www.dspace.espol.edu.ec/handle/123456789/114"
+    ],
+    "html_title": [
+     "DSpace en ESPOL: El uso de la zeolita como una adición mineral para producir cemento puzolánico"
+    ]
+   },
+   "snippet": "zeolita como una adicion mineral para producir cemento puzolanico skip navigation home browse communities collections browse items by issue date author title subject help language english espanol sign on to my dspace receive email updates edit profile dspace en espol unidades academicas facultad de ingenieria en ciencias de la tierra articulos de tesis de grado fict please use this identifier to cite or link to this item http www dspace espol edu ec handle 123456789 114 title el uso de la zeolita como una adicion mineral para producir cemento puzolanico authors robalino espinoza paola eguez al",
+   "evidenceFile": "ev/elusodelazeolitacomounaadicionmineralpar-wb.html"
+  },
+  "log": [
+   "direct https://www.dspace.espol.edu.ec/handle/123456789/114 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20240728230147id_/https://www.dspace.espol.edu.ec/handle/123456789/114 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2144510420",
+   "https://www.dspace.espol.edu.ec/handle/123456789/114",
+   "https://archive.org/wayback/available?url=www.dspace.espol.edu.ec/handle/123456789/114",
+   "https://web.archive.org/web/20240728230147id_/https://www.dspace.espol.edu.ec/handle/123456789/114"
+  ],
+  "urls": [
+   "https://www.dspace.espol.edu.ec/handle/123456789/114"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Valorización de la escoria de SiMn como material puzolánico para la fabricación de cementos",
+  "result": {
+   "route": "direct",
+   "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2859463",
+   "http": "200",
+   "match": 0.875,
+   "meta": {
+    "description": [
+     "Información del artículo Valoración de la escoria de SIMn como material puzolánico para la fabricación de cementos"
+    ],
+    "citation_title": [
+     "Valoración de la escoria de SIMn como material puzolánico para la fabricación de cementos"
+    ],
+    "citation_author": [
+     "Moisés Frías Rojas",
+     "María Isabel Sánchez de Rojas",
+     "Olga Rodríguez Largo",
+     "Cristina Rodríguez Fernández-Regatillo"
+    ],
+    "citation_date": [
+     "2009"
+    ],
+    "citation_firstpage": [
+     "18"
+    ],
+    "citation_lastpage": [
+     "25"
+    ],
+    "citation_journal_title": [
+     "Cemento Hormigón"
+    ],
+    "citation_issue": [
+     "923"
+    ],
+    "citation_issn": [
+     "0008-8919"
+    ],
+    "citation_publisher": [
+     "Ediciones Técnicas Pauta"
+    ],
+    "citation_abstract_html_url": [
+     "https://dialnet.unirioja.es/servlet/articulo?codigo=2859463&info=resumen&idioma=SPA"
+    ],
+    "DC.title": [
+     "Valoración de la escoria de SIMn como material puzolánico para la fabricación de cementos"
+    ],
+    "DC.creator": [
+     "Frías Rojas, Moisés",
+     "Sánchez de Rojas, María Isabel",
+     "Rodríguez Largo, Olga",
+     "Rodríguez Fernández-Regatillo, Cristina"
+    ],
+    "DC.description": [
+     "En este trabajo se exponen los resultados obtenidos de un trabajo de investigación llevado a cabo entre el Instituto Eduardo Torroja (CSIC) y la empresa Ferroatlántica. En este trabajo se estudia la viabilidad científica y técnica de la incorporación de escorias de SiMn como adición activa al cemento, resaltando sus características químicas, mineralógicas y puzolanicas; así como de las propiedades y comportamiento del cemento Pórtland elaborado con este residuo siderúrgico. Los resultados experimentales muestran el buen comportamiento (químico, físico y mecánico) de los cementos elaborados con escoria de SiMn (hasta un 30% en peso) y el cumplimiento de la normativa vigente."
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.date": [
+     "2009"
+    ],
+    "DC.type": [
+     "http://purl.org/dc/dcmitype/Text"
+    ],
+    "DC.source": [
+     "Cemento Hormigón, ISSN 0008-8919, Nº. 923, 2009, págs. 18-25"
+    ],
+    "DC.publisher": [
+     "Ediciones Técnicas Pauta"
+    ],
+    "DC.subject": [
+     "Construcción. Arquitectura. Tecnología ambiental",
+     "Tecnologías"
+    ],
+    "og:title": [
+     "Valoración de la escoria de SIMn como material puzolánico para la fabricación de cementos"
+    ],
+    "html_title": [
+     "Valoración de la escoria de SIMn como material puzolánico para la fabricación de cementos - Dialnet"
+    ]
+   },
+   "snippet": "valoracion de la escoria de simn como material puzolanico para la fabricacion de cementos dialnet ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda en que podemos ayudarle buscar en la ayuda buscar consultar la ayuda ir al conteni d o b uscar r evistas t esis co n gresos m etricas ayuda cambiar idioma idioma catala deutsch english espanol euskara francais galego italiano portugues romana cambiar valoracion de la escoria de simn como material puzolanico para la fabricacion de cementos autores moises frias rojas maria isabel sanchez de rojas olga rodriguez largo cristin",
+   "evidenceFile": "ev/valorizaciondelaescoriadesimncomomateria-d2.html"
+  },
+  "log": [
+   "handle API -> ['https://digital.csic.es/handle/10261/38944']",
+   "direct https://hdl.handle.net/10261/38944 -> 200 match=0.00",
+   "direct https://dialnet.unirioja.es/servlet/articulo?codigo=2859463 -> 200 match=0.88"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1548263946",
+   "https://hdl.handle.net/api/handles/10261/38944",
+   "https://hdl.handle.net/10261/38944",
+   "https://dialnet.unirioja.es/servlet/articulo?codigo=2859463"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10261/38944",
+   "https://dialnet.unirioja.es/servlet/articulo?codigo=2859463",
+   "https://digital.csic.es/handle/10261/38944"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Conception des bétons pour une durée de vie donnée des ouvrages. Maîtrise de la durabilité vis-à-vis de la corrosion des armatures et de l'alcali-réaction",
+  "result": null,
+  "log": [
+   "direct https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction -> 403 match=0.00",
+   "wayback none for structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2768750970",
+   "https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction",
+   "https://archive.org/wayback/available?url=structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Conception%20des%20b%C3%A9tons%20pour%20une%20dur%C3%A9e%20de%20vie%20donn%C3%A9e%20des%20ouvrages.%20Ma%C3%AEtrise%20de%20la%20durabilit%C3%A9%20vis-%C3%A0-vis%20de%20la%20corrosion%20des%20armatures%20et%20de%20l%27alcali-r%C3%A9action",
+   "https://openlibrary.org/search.json?limit=10&title=Conception%20des%20b%C3%A9tons%20pour%20une%20dur%C3%A9e%20de%20vie%20donn%C3%A9e%20des%20ouvrages",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Conception%20des%20b%C3%A9tons%20pour%20une%20dur%C3%A9e%20de%20vie%20donn%C3%A9e%20des%20ouvrages.%20Ma%C3%AEtrise%20de%20la%20durabilit%C3%A9%20vis-%C3%A0-vis%20de%20la%20corrosion%20des%20armatures%20et%20de%20l%27alcali-r%C3%A9action",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3AConception%20des%20b%C3%A9tons%20pour%20une%20dur%C3%A9e%20de%20vie%20donn%C3%A9e%20des%20ouvrages.%20Ma%C3%AEtrise%20de%20la%20durabilit%C3%A9%20vis-%C3%A0-vis%20de%20la%20corrosion%20des",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Conception%20des%20b%C3%A9tons%20pour%20une%20dur%C3%A9e%20de%20vie%20donn%C3%A9e%20des%20ouvrages.%20Ma%C3%AEtrise%20de%20la%20durabilit%C3%A9%20vis-%C3%A0-vis%20de%20la%20corrosion%20des%20armatures%20et%20de%20l%27alcali-r%C3%A9action"
+  ],
+  "urls": [
+   "https://structurae.net/en/literature/book/conception-des-betons-pour-une-duree-de-vie-donnee-des-ouvrages-maitrise-de-la-durabilite-vis-a-vis-de-la-corrosion-des-armatures-et-de-l-alcali-reaction"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20240420182155/https://theses.fr/2009TOU30030",
+   "original": "https://www.theses.fr/2009TOU30030",
+   "snapshot": "20240420182155",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "og:title": [
+     "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton | Theses.fr"
+    ],
+    "description": [
+     "La carbonatation atmosphérique est un des facteurs les plus importants pour la durabilité du béton armé. Elle correspond à la diffusion du CO2 de l'atmosphère dans les pores du béton et à la dissolution des hydrates, notamment la portlandite Ca(OH)2, qui joue un rôle de tampon sur le pH. Lorsque la portlandite a été entièrement consommée, ou qu'elle n'est plus accessible, le pH chute à une valeur inférieure à 9. Ceci peut conduire à la corrosion des aciers du béton armé qui ne sont passivés et protégés qu'en milieu fortement basique. L'objectif de la thèse est de fournir une modélisation probabiliste physico-chimique de la carbonatation, prenant en compte les spécificités des process industriels et susceptible d'être utilisée pour un dimensionnement probabiliste des ouvrages. Une campagne d'essais a été menée afin de proposer une modélisation de la carbonatation pratique à utiliser en industrie. A partir de la nature du ciment, de la composition du béton, des caractéristiques du traitement thermique et de la cure, et d'au moins un essai de carbonatation (ou à défaut à partir de la résistance à la compression), le modèle de carbonatation élaboré permet d'estimer les profondeurs carbonatées pour différentes pressions partielles de dioxyde de carbone et de calculer l'indice de fiabilité correspondant. Enfin, une application de la méthodologie probabiliste montre la possibilité d'intégrer le dimensionnement probabiliste dans le contexte normatif pour optimiser la durabilité des produits préfabriqués."
+    ],
+    "DC.type": [
+     "thesis"
+    ],
+    "citation_dissertation_name": [
+     "thesis"
+    ],
+    "DC.title": [
+     "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton | Theses.fr"
+    ],
+    "citation_title": [
+     "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton | Theses.fr"
+    ],
+    "DC.description.abstract": [
+     "La carbonatation atmosphérique est un des facteurs les plus importants pour la durabilité du béton armé. Elle correspond à la diffusion du CO2 de l'atmosphère dans les pores du béton et à la dissolution des hydrates, notamment la portlandite Ca(OH)2, qui joue un rôle de tampon sur le pH. Lorsque la portlandite a été entièrement consommée, ou qu'elle n'est plus accessible, le pH chute à une valeur inférieure à 9. Ceci peut conduire à la corrosion des aciers du béton armé qui ne sont passivés et protégés qu'en milieu fortement basique. L'objectif de la thèse est de fournir une modélisation probabiliste physico-chimique de la carbonatation, prenant en compte les spécificités des process industriels et susceptible d'être utilisée pour un dimensionnement probabiliste des ouvrages. Une campagne d'essais a été menée afin de proposer une modélisation de la carbonatation pratique à utiliser en industrie. A partir de la nature du ciment, de la composition du béton, des caractéristiques du traitement thermique et de la cure, et d'au moins un essai de carbonatation (ou à défaut à partir de la résistance à la compression), le modèle de carbonatation élaboré permet d'estimer les profondeurs carbonatées pour différentes pressions partielles de dioxyde de carbone et de calculer l'indice de fiabilité correspondant. Enfin, une application de la méthodologie probabiliste montre la possibilité d'intégrer le dimensionnement probabiliste dans le contexte normatif pour optimiser la durabilité des produits préfabriqués."
+    ],
+    "citation_abstract": [
+     "La carbonatation atmosphérique est un des facteurs les plus importants pour la durabilité du béton armé. Elle correspond à la diffusion du CO2 de l'atmosphère dans les pores du béton et à la dissolution des hydrates, notamment la portlandite Ca(OH)2, qui joue un rôle de tampon sur le pH. Lorsque la portlandite a été entièrement consommée, ou qu'elle n'est plus accessible, le pH chute à une valeur inférieure à 9. Ceci peut conduire à la corrosion des aciers du béton armé qui ne sont passivés et protégés qu'en milieu fortement basique. L'objectif de la thèse est de fournir une modélisation probabiliste physico-chimique de la carbonatation, prenant en compte les spécificités des process industriels et susceptible d'être utilisée pour un dimensionnement probabiliste des ouvrages. Une campagne d'essais a été menée afin de proposer une modélisation de la carbonatation pratique à utiliser en industrie. A partir de la nature du ciment, de la composition du béton, des caractéristiques du traitement thermique et de la cure, et d'au moins un essai de carbonatation (ou à défaut à partir de la résistance à la compression), le modèle de carbonatation élaboré permet d'estimer les profondeurs carbonatées pour différentes pressions partielles de dioxyde de carbone et de calculer l'indice de fiabilité correspondant. Enfin, une application de la méthodologie probabiliste montre la possibilité d'intégrer le dimensionnement probabiliste dans le contexte normatif pour optimiser la durabilité des produits préfabriqués."
+    ],
+    "DC.subject": [
+     "Béton, Construction en béton armé, Béton préfabriqué, Carbonatation, Mortiers, Bétons, Pression partielle de dioxyde de carbone, Portlandite, Carbonate de calcium, Modélisation, Durabilité, Process industriels, Traitement thermique, Cure, Dimensionnement probabiliste,"
+    ],
+    "citation_keywords": [
+     "Béton, Construction en béton armé, Béton préfabriqué, Carbonatation, Mortiers, Bétons, Pression partielle de dioxyde de carbone, Portlandite, Carbonate de calcium, Modélisation, Durabilité, Process industriels, Traitement thermique, Cure, Dimensionnement probabiliste,"
+    ],
+    "DC.creator": [
+     "Nicolas Hyvert"
+    ],
+    "citation_author": [
+     "Nicolas Hyvert"
+    ],
+    "DC.contributor": [
+     "Ginette Arliguié"
+    ],
+    "DC.publisher": [
+     "Toulouse 3"
+    ],
+    "citation_dissertation_institution": [
+     "Toulouse 3"
+    ],
+    "DC.date": [
+     "01/01/2009"
+    ],
+    "citation_publication_date": [
+     "01/01/2009"
+    ],
+    "html_title": [
+     "Application de l'approche probabiliste à la durabilité des produits préfabriqués en béton | Theses.fr"
+    ]
+   },
+   "snippet": "application de l approche probabiliste a la durabilite des produits prefabriques en beton theses fr le moteur de recherche des theses francaises les theses les personnes liees aux theses rechercher des theses desactiver l aide a la saisie recherche avancee recherche avancee application de l approche probabiliste a la durabilite des produits prefabriques en beton fr en auteur autrice nicolas hyvert direction ginette arliguie type these de doctorat discipline s genie civil date soutenance en 2009 etablissement s toulouse 3 mots cles fr mots cles controles informations sur les mots cles beton con",
+   "evidenceFile": "ev/applicationdelapprocheprobabilistealadur-wb.html"
+  },
+  "log": [
+   "direct https://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf -> 404 match=0.00",
+   "direct https://www.theses.fr/2009TOU30030 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20220308030030id_/http://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf -> 200 match=0.14",
+   "wayback https://web.archive.org/web/20240420182155id_/https://theses.fr/2009TOU30030 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W76543448",
+   "https://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf",
+   "https://www.theses.fr/2009TOU30030",
+   "https://archive.org/wayback/available?url=thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf",
+   "https://web.archive.org/web/20220308030030id_/http://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf",
+   "https://archive.org/wayback/available?url=www.theses.fr/2009TOU30030",
+   "https://web.archive.org/web/20240420182155id_/https://theses.fr/2009TOU30030"
+  ],
+  "urls": [
+   "http://thesesups.ups-tlse.fr/526/1/Hyvert_Nicolas.pdf",
+   "https://www.theses.fr/2009TOU30030"
+  ],
+  "doi": null
+ },
+ {
+  "title": "LA DURABILITE DES BETONS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20261015145343/https://trid.trb.org/view.aspx?id=1008143",
+   "original": "https://trid.trb.org/view.aspx?id=1008143",
+   "snapshot": "20261015145343",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1992-00-00"
+    ],
+    "citation_title": [
+     "LA DURABILITE DES BETONS"
+    ],
+    "citation_author": [
+     "BARON, J (",
+     "OLLIVIER, J -",
+     "DESDEVISES, A",
+     "Buil, M",
+     "Detriche, C H",
+     "VERNET, C",
+     "Duval, R",
+     "CARLES-GIBERGUES, A",
+     "Pigeon, M",
+     "BERUBE, M -",
+     "Hornain, H",
+     "ESTOUP, J -",
+     "CAPMAS, A",
+     "DUMAS, T",
+     "LETOURNEUX, J -"
+    ],
+    "citation_publication_date": [
+     "1992/00/00"
+    ],
+    "citation_journal_title": [
+     "COLLECTION DE L'ASSOCIATION TECHNIQUE DE L'INDUSTRIE DES LIANTS HYDRAULIQUES - ECOLE FRANCAISE DU BETON"
+    ],
+    "citation_isbn": [
+     "2-85978-184-6"
+    ],
+    "html_title": [
+     "LA DURABILITE DES BETONS - TRID"
+    ]
+   },
+   "snippet": "durabilite des betons trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database la durabilite des betons ce livre fait le point des connaissances les plus recentes sur la durabilite des betons il donne un vaste ensemble de resultats experimentaux il comporte les chapitres suivants 1 introduction a la durabilit",
+   "evidenceFile": "ev/ladurabilitedesbetons-wb.html"
+  },
+  "log": [
+   "direct https://infoscience.epfl.ch/record/64184 -> 200 match=0.00",
+   "direct https://trid.trb.org/view.aspx?id=1008143 -> 000 match=0.00",
+   "wayback none for infoscience.epfl.ch/record/64184",
+   "wayback https://web.archive.org/web/20261015145343id_/https://trid.trb.org/view.aspx?id=1008143 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1552257530",
+   "https://infoscience.epfl.ch/record/64184",
+   "https://trid.trb.org/view.aspx?id=1008143",
+   "https://archive.org/wayback/available?url=infoscience.epfl.ch/record/64184",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=1008143",
+   "https://web.archive.org/web/20261015145343id_/https://trid.trb.org/view.aspx?id=1008143"
+  ],
+  "urls": [
+   "http://infoscience.epfl.ch/record/64184",
+   "https://trid.trb.org/view.aspx?id=1008143"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Étude de la durabilité des bétons par une approche performantielle",
+  "result": {
+   "route": "thesesfr-api",
+   "url": "https://theses.fr/2007NANT2125",
+   "apiUrl": "https://theses.fr/api/v1/theses/these/2007NANT2125",
+   "meta": {
+    "titrePrincipal": "Étude de la durabilité des bétons par une approche performantielle",
+    "titres": {
+     "fr": "Étude de la durabilité des bétons par une approche performantielle"
+    },
+    "auteurs": [
+     {
+      "ppn": "123712149",
+      "nom": "Rozière",
+      "prenom": "Emmanuel"
+     }
+    ],
+    "directeurs": [
+     {
+      "ppn": "034507477",
+      "nom": "Pijaudier-Cabot",
+      "prenom": "Gilles"
+     },
+     {
+      "ppn": "078143764",
+      "nom": "Loukili",
+      "prenom": "Ahmed"
+     }
+    ],
+    "dateSoutenance": "01/01/2007",
+    "discipline": "Génie civil",
+    "langues": [
+     "fr"
+    ],
+    "status": "soutenue"
+   },
+   "evidenceFile": "ev/etudedeladurabilitedesbetonsparuneapproc-thesesfr.json"
+  },
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/809205 -> 500 match=0.00",
+   "direct https://www.theses.fr/2007NANT2125 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10068/809205",
+   "wayback https://web.archive.org/web/20261029144254id_/https://theses.fr/2007NANT2125 -> 200 match=0.00",
+   "theses.fr https://theses.fr/api/v1/theses/these/2007NANT2125 -> json"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W44713141",
+   "https://hdl.handle.net/api/handles/10068/809205",
+   "https://hdl.handle.net/10068/809205",
+   "https://www.theses.fr/2007NANT2125",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/809205",
+   "https://archive.org/wayback/available?url=www.theses.fr/2007NANT2125",
+   "https://web.archive.org/web/20261029144254id_/https://theses.fr/2007NANT2125",
+   "https://theses.fr/api/v1/theses/these/2007NANT2125"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/809205",
+   "http://www.theses.fr/2007NANT2125"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Durabilité des Bétons Auto-Plaçants",
+  "result": {
+   "route": "thesesfr-api",
+   "url": "https://theses.fr/2004ISAT0024",
+   "apiUrl": "https://theses.fr/api/v1/theses/these/2004ISAT0024",
+   "meta": {
+    "titrePrincipal": "Durabilité des bétons auto-plaçants",
+    "titres": {
+     "en": "Durability of Self-compacting concrete",
+     "fr": "Durabilité des bétons auto-plaçants"
+    },
+    "auteurs": [
+     {
+      "ppn": "085206350",
+      "nom": "Assié",
+      "prenom": "Stéphan"
+     }
+    ],
+    "directeurs": [
+     {
+      "ppn": "033727902",
+      "nom": "Escadeillas",
+      "prenom": "Gilles"
+     }
+    ],
+    "dateSoutenance": "01/01/2004",
+    "discipline": "Génie civil",
+    "langues": [
+     "fr"
+    ],
+    "status": "soutenue"
+   },
+   "evidenceFile": "ev/durabilitedesbetonsautoplacants-thesesfr.json"
+  },
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/760954 -> 500 match=0.00",
+   "direct https://www.theses.fr/2004ISAT0024 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10068/760954",
+   "wayback none for www.theses.fr/2004ISAT0024",
+   "theses.fr https://theses.fr/api/v1/theses/these/2004ISAT0024 -> json"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1494608101",
+   "https://hdl.handle.net/api/handles/10068/760954",
+   "https://hdl.handle.net/10068/760954",
+   "https://www.theses.fr/2004ISAT0024",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/760954",
+   "https://archive.org/wayback/available?url=www.theses.fr/2004ISAT0024",
+   "https://theses.fr/api/v1/theses/these/2004ISAT0024"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/760954",
+   "http://www.theses.fr/2004ISAT0024"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Retrait et fissuration des bétons autoplaçants : influence de la formulation",
+  "result": {
+   "route": "thesesfr-api",
+   "url": "https://theses.fr/2003NANT2098",
+   "apiUrl": "https://theses.fr/api/v1/theses/these/2003NANT2098",
+   "meta": {
+    "titrePrincipal": "Retrait et fissuration des bétons autoplaçants : influence de la formulation",
+    "titres": {
+     "fr": "Retrait et fissuration des bétons autoplaçants : influence de la formulation"
+    },
+    "auteurs": [
+     {
+      "ppn": "078143799",
+      "nom": "Turcry",
+      "prenom": "Philippe"
+     }
+    ],
+    "directeurs": [
+     {
+      "ppn": "034507477",
+      "nom": "Pijaudier-Cabot",
+      "prenom": "Gilles"
+     },
+     {
+      "ppn": "078143764",
+      "nom": "Loukili",
+      "prenom": "Ahmed"
+     }
+    ],
+    "dateSoutenance": "01/01/2003",
+    "discipline": "Génie civil",
+    "langues": [
+     "fr"
+    ],
+    "status": "soutenue"
+   },
+   "evidenceFile": "ev/retraitetfissurationdesbetonsautoplacant-thesesfr.json"
+  },
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/748668 -> 500 match=0.00",
+   "direct https://www.theses.fr/2003NANT2098 -> 200 match=0.00",
+   "wayback none for hdl.handle.net/10068/748668",
+   "wayback https://web.archive.org/web/20261015083807id_/https://theses.fr/2003NANT2098 -> 200 match=0.00",
+   "theses.fr https://theses.fr/api/v1/theses/these/2003NANT2098 -> json"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W117020464",
+   "https://hdl.handle.net/api/handles/10068/748668",
+   "https://hdl.handle.net/10068/748668",
+   "https://www.theses.fr/2003NANT2098",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/748668",
+   "https://archive.org/wayback/available?url=www.theses.fr/2003NANT2098",
+   "https://web.archive.org/web/20261015083807id_/https://theses.fr/2003NANT2098",
+   "https://theses.fr/api/v1/theses/these/2003NANT2098"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/748668",
+   "http://www.theses.fr/2003NANT2098"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLAND PT SEMEN BATURAJA (PERSERO)",
+  "result": {
+   "route": "semanticscholar",
+   "url": "https://www.semanticscholar.org/paper/21f6701896c05c874b134f689a07a89450bda960",
+   "doi": null,
+   "meta": {
+    "paperId": "21f6701896c05c874b134f689a07a89450bda960",
+    "externalIds": {
+     "MAG": "2290135724",
+     "CorpusId": 130043119
+    },
+    "publicationVenue": null,
+    "url": "https://www.semanticscholar.org/paper/21f6701896c05c874b134f689a07a89450bda960",
+    "title": "PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLAND PT SEMEN BATURAJA (PERSERO)",
+    "venue": "",
+    "year": 2012,
+    "authors": [
+     {
+      "authorId": "2524657890",
+      "name": "T. Ningsih"
+     },
+     {
+      "authorId": "104863198",
+      "name": "Rahmi Chairunnisa"
+     },
+     {
+      "authorId": "87862355",
+      "name": "S. Miskah"
+     }
+    ]
+   }
+  },
+  "log": [
+   "direct https://jtk.unsri.ac.id/index.php/jtk/article/download/34/36 -> 000 match=0.00",
+   "wayback none for jtk.unsri.ac.id/index.php/jtk/article/download/34/36",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: hit 21f6701896c05c874b134f689a07a89450bda960"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2290135724",
+   "https://jtk.unsri.ac.id/index.php/jtk/article/download/34/36",
+   "https://archive.org/wayback/available?url=jtk.unsri.ac.id/index.php/jtk/article/download/34/36",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=PEMANFAATAN%20BAHAN%20ADDITIVE%20ABU%20SEKAM%20PADI%20PADA%20CEMENT%20PORTLAND%20PT%20SEMEN%20BATURAJA%20%28PERSERO%29",
+   "https://openlibrary.org/search.json?limit=10&title=PEMANFAATAN%20BAHAN%20ADDITIVE%20ABU%20SEKAM%20PADI%20PADA%20CEMENT%20PORTLAND%20PT%20SEMEN%20BATURAJA%20%28PERSERO%29",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=PEMANFAATAN%20BAHAN%20ADDITIVE%20ABU%20SEKAM%20PADI%20PADA%20CEMENT%20PORTLAND%20PT%20SEMEN%20BATURAJA%20%28PERSERO%29",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3APEMANFAATAN%20BAHAN%20ADDITIVE%20ABU%20SEKAM%20PADI%20PADA%20CEMENT%20PORTLAND%20PT%20SEMEN%20BATURAJA%20%28PERSERO%29",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=PEMANFAATAN%20BAHAN%20ADDITIVE%20ABU%20SEKAM%20PADI%20PADA%20CEMENT%20PORTLAND%20PT%20SEMEN%20BATURAJA%20%28PERSERO%29"
+  ],
+  "urls": [
+   "http://jtk.unsri.ac.id/index.php/jtk/article/download/34/36"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1084 セメント水和物によるモルタル細孔溶液中のCl一固定のメカニズム(腐食・塩害)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/2051433316940400256",
+   "match": 1.0,
+   "meta": {
+    "title": "1084 セメント水和物によるモルタル細孔溶液中のCl一固定のメカニズム(腐食・塩害)",
+    "dc:creator": [
+     "米澤,敏男",
+     "Ashworth,V .",
+     "Procter,R. P. M."
+    ],
+    "dc:publisher": "日本コンクリート工学協会",
+    "prism:publicationName": "コンクリート工学年次論文報告集",
+    "prism:publicationDate": "1988-06-12",
+    "prism:volume": "10(2)",
+    "prism:startingPage": "475",
+    "prism:endingPage": "480",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110009736189"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/digimeta/10642174"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://dl.ndl.go.jp/pid/10642174"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://dl.ndl.go.jp/info:ndljp/pid/10642174"
+     }
+    ],
+    "description": "収集根拠 : NII-ELS"
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009736189 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009736189",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W366190667",
+   "https://ci.nii.ac.jp/naid/110009736189",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009736189",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1084%20%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E6%B0%B4%E5%92%8C%E7%89%A9%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A2%E3%83%AB%E3%82%BF%E3%83%AB%E7%B4%B0%E5%AD%94%E6%BA%B6%E6%B6%B2%E4%B8%AD%E3%81%AECl%E4%B8%80%E5%9B%BA%E5%AE%9A%E3%81%AE%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0%28%E8%85%90%E9%A3%9F%E3%83%BB%E5%A1%A9%E5%AE%B3%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009736189"
+  ],
+  "doi": null
+ },
+ {
+  "title": "石灰石微粉末を添加したセメントのX線回折/リートベルト法による水和反応解析と強度発現機構に関する検討 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3013953315",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%BE%AE%E7%B2%89%E6%9C%AB%E3%82%92%E6%B7%BB%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AEX%E7%B7%9A%E5%9B%9E%E6%8A%98/%E3%83%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E8%A7%A3%E6%9E%90%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%A9%9F%E6%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%BE%AE%E7%B2%89%E6%9C%AB%E3%82%92%E6%B7%BB%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AEX%E7%B7%9A%E5%9B%9E%E6%8A%98/%E3%83%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E8%A7%A3%E6%9E%90%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%A9%9F%E6%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%BE%AE%E7%B2%89%E6%9C%AB%E3%82%92%E6%B7%BB%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AEX%E7%B7%9A%E5%9B%9E%E6%8A%98/%E3%83%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E8%A7%A3%E6%9E%90%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%A9%9F%E6%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%BE%AE%E7%B2%89%E6%9C%AB%E3%82%92%E6%B7%BB%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AEX%E7%B7%9A%E5%9B%9E%E6%8A%98/%E3%83%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E8%A7%A3%E6%9E%90%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%A9%9F%E6%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%BE%AE%E7%B2%89%E6%9C%AB%E3%82%92%E6%B7%BB%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AEX%E7%B7%9A%E5%9B%9E%E6%8A%98/%E3%83%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E8%A7%A3%E6%9E%90%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%A9%9F%E6%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902224932370104&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "2118 初期養生時に乾燥を受けるセメント系硬化体の水和反応と水分逸散特性(物性)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/2050307417032138240",
+   "match": 1.0,
+   "meta": {
+    "title": "2118 初期養生時に乾燥を受けるセメント系硬化体の水和反応と水分逸散特性(物性)",
+    "dc:creator": [
+     "伊代田,岳史",
+     "高羅,信彦",
+     "魚本,健人"
+    ],
+    "dc:publisher": "日本コンクリート工学協会",
+    "prism:publicationName": "コンクリート工学年次論文集",
+    "prism:publicationDate": "2000-06-01",
+    "prism:volume": "22(2)",
+    "prism:startingPage": "703",
+    "prism:endingPage": "708",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110009692574"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/digimeta/10636108"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://dl.ndl.go.jp/pid/10636108"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://dl.ndl.go.jp/info:ndljp/pid/10636108"
+     }
+    ],
+    "description": "セメント系硬化体は水和反応により硬化し所定の強度・耐久性を得ることが可能となる。水和反応の過程において養生時の環境は非常に重要な役割を果たしていると考えられる。そこで本研究では初期養生時に乾燥を受ける場合のセメント系硬化体の水分蒸発速度と水和進行速度の関係を明らかにする事を目的に行った。その結果,乾燥を受ける場合においては水和反応が停止し,その乾燥度が大きいほど早期に水和停止することが分かった。また,内部水分量を測定することで水和停止時には残留自由水があることが分かった。"
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009692574 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009692574",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W224959126",
+   "https://ci.nii.ac.jp/naid/110009692574",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009692574",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=2118%20%E5%88%9D%E6%9C%9F%E9%A4%8A%E7%94%9F%E6%99%82%E3%81%AB%E4%B9%BE%E7%87%A5%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%B3%BB%E7%A1%AC%E5%8C%96%E4%BD%93%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%A8%E6%B0%B4%E5%88%86%E9%80%B8%E6%95%A3%E7%89%B9%E6%80%A7%28%E7%89%A9%E6%80%A7%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009692574"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1054 セメント粒子の分散に及ぼす高性能減水剤の立体障害効果の役割(混和材料)",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/2051714791917590784",
+   "match": 1.0,
+   "meta": {
+    "title": "1054 セメント粒子の分散に及ぼす高性能減水剤の立体障害効果の役割(混和材料)",
+    "dc:creator": [
+     "吉岡,一弘",
+     "坂井,悦郎",
+     "大門,正機",
+     "北原,文雄"
+    ],
+    "dc:publisher": "日本コンクリート工学協会",
+    "prism:publicationName": "コンクリート工学年次論文報告集",
+    "prism:publicationDate": "1994-06-03",
+    "prism:volume": "16(1)",
+    "prism:startingPage": "335",
+    "prism:endingPage": "340",
+    "dc:identifier": [
+     {
+      "@type": "cir:NAID",
+      "@value": "110009746985"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/digimeta/10644378"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://dl.ndl.go.jp/pid/10644378"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://dl.ndl.go.jp/info:ndljp/pid/10644378"
+     }
+    ],
+    "description": "収集根拠 : NII-ELS"
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/80007676834 -> 202 match=0.00",
+   "direct https://ci.nii.ac.jp/naid/110009746985 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/80007676834",
+   "wayback none for ci.nii.ac.jp/naid/110009746985",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W617634643",
+   "https://ci.nii.ac.jp/naid/80007676834",
+   "https://ci.nii.ac.jp/naid/110009746985",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/80007676834",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009746985",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1054%20%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E7%B2%92%E5%AD%90%E3%81%AE%E5%88%86%E6%95%A3%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E9%AB%98%E6%80%A7%E8%83%BD%E6%B8%9B%E6%B0%B4%E5%89%A4%E3%81%AE%E7%AB%8B%E4%BD%93%E9%9A%9C%E5%AE%B3%E5%8A%B9%E6%9E%9C%E3%81%AE%E5%BD%B9%E5%89%B2%28%E6%B7%B7%E5%92%8C%E6%9D%90%E6%96%99%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/80007676834",
+   "http://ci.nii.ac.jp/naid/110009746985"
+  ],
+  "doi": null
+ },
+ {
+  "title": "1206 セメント-シリカフューム系結合材の水和反応と強度発現性の関係に関する一考察(高強度コンクリート(材料))",
+  "result": {
+   "route": "cinii-opensearch",
+   "url": "https://cir.nii.ac.jp/crid/1521699231126009600",
+   "match": 1.0,
+   "meta": {
+    "title": "1206 セメント-シリカフューム系結合材の水和反応と強度発現性の関係に関する一考察(高強度コンクリート(材料))",
+    "dc:creator": [
+     "菅俣 匠",
+     "杉山 知巳",
+     "梅沢 健一"
+    ],
+    "dc:publisher": "東京 : 日本コンクリート工学協会",
+    "prism:publicationName": "コンクリート工学年次論文集 = Proceedings of the Japan Concrete Institute / 日本コンクリート工学協会 編",
+    "prism:publicationDate": "2004",
+    "prism:volume": "26",
+    "prism:number": "1",
+    "prism:startingPage": "1287",
+    "prism:endingPage": "1292",
+    "dc:identifier": [
+     {
+      "@type": "cir:NDL_BIB_ID",
+      "@value": "7135201"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/bib/7135201"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://ndlsearch.ndl.go.jp/books/R000000004-I7135201"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "https://dl.ndl.go.jp/pid/10638709"
+     },
+     {
+      "@type": "cir:NAID",
+      "@value": "110009695063"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://id.ndl.go.jp/digimeta/10638709"
+     },
+     {
+      "@type": "cir:URI",
+      "@value": "http://dl.ndl.go.jp/info:ndljp/pid/10638709"
+     }
+    ],
+    "description": "コレクション : 国立国会図書館デジタルコレクション > 電子書籍・電子雑誌 > 学術機関 > 学協会"
+   }
+  },
+  "log": [
+   "direct https://ci.nii.ac.jp/naid/110009695063 -> 202 match=0.00",
+   "wayback none for ci.nii.ac.jp/naid/110009695063",
+   "cinii opensearch: 1 items, best 1.0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W436202233",
+   "https://ci.nii.ac.jp/naid/110009695063",
+   "https://archive.org/wayback/available?url=ci.nii.ac.jp/naid/110009695063",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=1206%20%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88-%E3%82%B7%E3%83%AA%E3%82%AB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%A0%E7%B3%BB%E7%B5%90%E5%90%88%E6%9D%90%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%A8%E5%BC%B7%E5%BA%A6%E7%99%BA%E7%8F%BE%E6%80%A7%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E8%80%83%E5%AF%9F%28%E9%AB%98%E5%BC%B7%E5%BA%A6%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%28%E6%9D%90%E6%96%99%29%29"
+  ],
+  "urls": [
+   "https://ci.nii.ac.jp/naid/110009695063"
+  ],
+  "doi": null
+ },
+ {
+  "title": "セメントの水和反応および微細組織形成に及ぼす初期高温履歴の影響 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0",
+   "cinii opensearch: 10 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3004157934",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%8A%E3%82%88%E3%81%B3%E5%BE%AE%E7%B4%B0%E7%B5%84%E7%B9%94%E5%BD%A2%E6%88%90%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E5%88%9D%E6%9C%9F%E9%AB%98%E6%B8%A9%E5%B1%A5%E6%AD%B4%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://openlibrary.org/search.json?limit=10&title=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%8A%E3%82%88%E3%81%B3%E5%BE%AE%E7%B4%B0%E7%B5%84%E7%B9%94%E5%BD%A2%E6%88%90%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E5%88%9D%E6%9C%9F%E9%AB%98%E6%B8%A9%E5%B1%A5%E6%AD%B4%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%8A%E3%82%88%E3%81%B3%E5%BE%AE%E7%B4%B0%E7%B5%84%E7%B9%94%E5%BD%A2%E6%88%90%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E5%88%9D%E6%9C%9F%E9%AB%98%E6%B8%A9%E5%B1%A5%E6%AD%B4%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%8A%E3%82%88%E3%81%B3%E5%BE%AE%E7%B4%B0%E7%B5%84%E7%B9%94%E5%BD%A2%E6%88%90%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E5%88%9D%E6%9C%9F%E9%AB%98%E6%B8%A9%E5%B1%A5%E6%AD%B4%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B0%B4%E5%92%8C%E5%8F%8D%E5%BF%9C%E3%81%8A%E3%82%88%E3%81%B3%E5%BE%AE%E7%B4%B0%E7%B5%84%E7%B9%94%E5%BD%A2%E6%88%90%E3%81%AB%E5%8F%8A%E3%81%BC%E3%81%99%E5%88%9D%E6%9C%9F%E9%AB%98%E6%B8%A9%E5%B1%A5%E6%AD%B4%E3%81%AE%E5%BD%B1%E9%9F%BF%20%7C%20%E6%96%87%E7%8C%AE%E6%83%85%E5%A0%B1%20%7C%20J-GLOBAL%20%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902145021668303&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki wieloskładnikowy CEM II/B-M (V-W) 32,5R - skład, właściwości i możliwości zastosowania w budownictwie",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1484582615",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20II/B-M%20%28V-W%29%2032%2C5R%20-%20sk%C5%82ad%2C%20w%C5%82a%C5%9Bciwo%C5%9Bci%20i%20mo%C5%BCliwo%C5%9Bci%20zastosowania%20w%20budownictwie",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20II/B-M%20%28V-W%29%2032",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20II/B-M%20%28V-W%29%2032%2C5R%20-%20sk%C5%82ad%2C%20w%C5%82a%C5%9Bciwo%C5%9Bci%20i%20mo%C5%BCliwo%C5%9Bci%20zastosowania%20w%20budownictwie",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20II/B-M%20%28V-W%29%2032%2C5R%20-%20sk%C5%82ad%2C%20w%C5%82a%C5%9Bciwo%C5%9Bci%20i%20mo%C5%BCliwo%C5%9Bci%20zastosowania%20w%20budownictwie",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20II/B-M%20%28V-W%29%2032%2C5R%20-%20sk%C5%82ad%2C%20w%C5%82a%C5%9Bciwo%C5%9Bci%20i%20mo%C5%BCliwo%C5%9Bci%20zastosowania%20w%20budownictwie"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki wieloskładnikowy CEM V/A (S-V) 32,5R-LH",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W798405529",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20V/A%20%28S-V%29%2032%2C5R-LH",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20V/A%20%28S-V%29%2032",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20V/A%20%28S-V%29%2032%2C5R-LH",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20V/A%20%28S-V%29%2032%2C5R-LH",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20portlandzki%20wielosk%C5%82adnikowy%20CEM%20V/A%20%28S-V%29%2032%2C5R-LH"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki żużlowy składnikiem betonu w budowie drogi Zimna Wódka - Ujazd",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W758847325",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20sk%C5%82adnikiem%20betonu%20w%20budowie%20drogi%20Zimna%20W%C3%B3dka%20-%20Ujazd",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20sk%C5%82adnikiem%20betonu%20w%20budowie%20drogi%20Zimna%20W%C3%B3dka%20-%20Ujazd",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20sk%C5%82adnikiem%20betonu%20w%20budowie%20drogi%20Zimna%20W%C3%B3dka%20-%20Ujazd",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20portlandzki%20%C5%BCu%C5%BClowy%20sk%C5%82adnikiem%20betonu%20w%20budowie%20drogi%20Zimna%20W%C3%B3dka%20-%20Ujazd",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20sk%C5%82adnikiem%20betonu%20w%20budowie%20drogi%20Zimna%20W%C3%B3dka%20-%20Ujazd"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki popiołowy CEM II/B-V 32,5 R",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1042901676",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20portlandzki%20popio%C5%82owy%20CEM%20II/B-V%2032%2C5%20R",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20portlandzki%20popio%C5%82owy%20CEM%20II/B-V%2032",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20portlandzki%20popio%C5%82owy%20CEM%20II/B-V%2032%2C5%20R",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20portlandzki%20popio%C5%82owy%20CEM%20II/B-V%2032%2C5%20R",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20portlandzki%20popio%C5%82owy%20CEM%20II/B-V%2032%2C5%20R"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki żużlowy CEM II/B-S 42,5",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W856019632",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20CEM%20II/B-S%2042%2C5",
+   "https://openlibrary.org/search.json?limit=10&title=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20CEM%20II/B-S%2042",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20CEM%20II/B-S%2042%2C5",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3ACement%20portlandzki%20%C5%BCu%C5%BClowy%20CEM%20II/B-S%2042%2C5",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Cement%20portlandzki%20%C5%BCu%C5%BClowy%20CEM%20II/B-S%2042%2C5"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Obtenção do concreto autoadensável utilizando resíduo do beneficiamento do mármore e granito e estudo de propriedades mecânicas",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20250503141005/https://www.repositorio.ufal.br/handle/riufal/377",
+   "original": "http://repositorio.ufal.br/handle/riufal/377",
+   "snapshot": "20250503141005",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Lima, Flávio Barboza de",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4793519U0&dataRevisao=null",
+     "Gomes, Paulo César Correia",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4761514Z6&dataRevisao=null",
+     "Almeida, Ivan Ramalho de",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4781273D2",
+     "Regis, Paulo de Araujo",
+     "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4727303D5"
+    ],
+    "DC.creator": [
+     "Lisbôa, Edvaldo Monteiro"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2015-08-25T18:21:19Z"
+    ],
+    "DCTERMS.available": [
+     "2006-08-03",
+     "2015-08-25T18:21:19Z"
+    ],
+    "DCTERMS.issued": [
+     "2004-12-27"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "LISBÔA, Edvaldo Monteiro. Obtaining of the Self Compacting-Concrete using Residue of the Improvement of the Marble and Granite and Study of Mechanical Properties. 2004. 144 f. Dissertação (Mestrado em Estruturas) - Universidade Federal de Alagoas, Maceió, 2004."
+    ],
+    "DC.identifier": [
+     "http://repositorio.ufal.br/handle/riufal/377"
+    ],
+    "DCTERMS.abstract": [
+     "The Self-Compacting Concrete (SCC) it needs of the high amount of fine in yo ur composition\nto assist your properties in the fresh state. In the context of the fine materials if show the\nResidue of the Improvement of the Marble and Granite (RBMG), which was chosen to\ncompose the dosagem of CAA in that research. This was a form of contributing with the\ntechnological progress and maintainable development of the concrete. Using Gomes'\nMethodology (2002) for obtaining of SCC, the study of the paste was developed through the\nrehearsals in the Cone of Marsh and in the Mini-slump and the study of the mortar using the\nrehearsals in the Cone of Marsh and in the cone log of the consistence table, all, in the sense\nof obtaining the percentile great of superplasticizer and an appropriate amount of RBMG in\nthe composition of the mixture. Starting from parameters obtained in the study of the paste\nand mortar was given segment to a practical application of completion of premolded pieces,\nwithout the use of any type of mechanical vibration, with self-compacting mortar. Soon after,\nthrough the study of the composition of the granular skeleton it was obtained the great\nrelationship among the small and great aggregate. The study of the concrete was developed\nusing the rehearsals of Slump-flow, V Funnel, L Box and U Pipe, for the tests of your\nproperties in the fresh state, such as: filling ability, passing ability and segregation resistance.\nIn this study they were obtained two Self Compacting Concrete, a just using RBMG and other\nwith 3% of sílica fume; in this it was verified some improvements in the viscosity and in the\ncohesion of the mixture. For both concretes they were moulded cylindrical specimens of\n10cm x 20cm and 15cm x 30cm for study of the resistance to the compression to the 7 days\nand the 28 days; module of static deformation and resistance to the traction in the diametrical\ncompression to the 28 days. The results of the accomplished rehearsals indicated for the\ntechnical viability of the use of RBMG in the production of SCC."
+    ],
+    "DC.format": [
+     "application/pdf"
+    ],
+    "DC.language": [
+     "por"
+    ],
+    "DC.publisher": [
+     "Universidade Federal de Alagoas",
+     "BR",
+     "Estruturas",
+     "Programa de Pós-Graduação em Engenharia Civil",
+     "UFAL"
+    ],
+    "DC.rights": [
+     "Acesso Aberto"
+    ],
+    "DC.subject": [
+     "residue",
+     "Self-compacting concrete",
+     "Paste",
+     "Been fresh",
+     "Resíduo",
+     "Concreto auto-adensável",
+     "Pasta",
+     "Estado fresco",
+     "CNPQ::ENGENHARIAS::ENGENHARIA CIVIL"
+    ],
+    "DC.title": [
+     "Obtenção do concreto autoadensável utilizando resíduo do beneficiamento do mármore e granito e estudo de propriedades mecânicas"
+    ],
+    "DCTERMS.alternative": [
+     "Obtaining of the Self Compacting-Concrete using Residue of the Improvement of the Marble and Granite and Study of Mechanical Properties"
+    ],
+    "DC.type": [
+     "Dissertação"
+    ],
+    "DC.description": [
+     "O Concreto Auto-Adensável (CAA) necessita de uma alta quantidade de finos em sua\ncomposição para atender suas propriedades no estado fresco. No contexto dos materiais finos\nse apresenta o Resíduo do Beneficiamento do Mármore e Granito (RBMG), o qual foi\nescolhido para compor a dosagem do CAA nessa pesquisa. Esta foi uma forma de contribuir\ncom o avanço tecnológico e desenvolvimento sustentável do concreto. Utilizando a\nMetodologia de Gomes (2002) para obtenção do CAA, foi desenvolvido o estudo da pasta\natravés dos ensaios no Cone de Marsh e no Mini-slump e o estudo da argamassa usando os\nensaios no Cone de Marsh e no Tronco de cone da mesa de consistência, todos, no sentido de\nse obter o percentual ótimo de superplastificante e uma quantidade adequada do RBMG na\ncomposição da mistura. A partir de parâmetros obtidos no estudo da pasta e argamassa foi\ndado segmento a uma aplicação prática de preenchimento de peças pré-moldadas, sem a\nutilização de nenhum tipo de vibração mecânica, com argamassa auto-adensável. Em\nseguida, através do estudo da composição do esqueleto granular foi obtida a relação ótima\nentre o agregado miúdo e graúdo. O estudo do concreto foi desenvolvido utilizando os ensaios\nde Espalhamento, Funil V, Caixa L e Tubo em U, para os testes de suas propriedades no\nestado fresco, tais como: capacidade de preenchimento, capacidade de passagem por\nobstáculos e resistência à segregação. Neste estudo foram obtidos dois Concretos Auto-\nAdensáveis, um usando apenas o RBMG e outro com 3% de sílica ativa; neste foi verificado\nalgumas melhoras na viscosidade e na coesão da mistura. Para ambos concretos foram\nmoldados corpos-de-prova cilíndricos de 10cm x 20cm e 15cm x 30cm para estudo da\nresistência à compressão aos 7 dias e aos 28 dias; módulo de deformação estática e\nresistência à tração na compressão diametral aos 28 dias. Os resultados dos ensaios realizados\nindicaram pela viabilidade técnica da utilização do RBMG na produção de CAA."
+    ],
+    "citation_keywords": [
+     "residue; Self-compacting concrete; Paste; Been fresh; Resíduo; Concreto auto-adensável; Pasta; Estado fresco; Dissertação"
+    ],
+    "citation_title": [
+     "Obtenção do concreto autoadensável utilizando resíduo do beneficiamento do mármore e granito e estudo de propriedades mecânicas"
+    ],
+    "citation_publisher": [
+     "Universidade Federal de Alagoas"
+    ],
+    "citation_author": [
+     "Lisbôa, Edvaldo Monteiro"
+    ],
+    "citation_pdf_url": [
+     "http://www.repositorio.ufal.br/jspui/bitstream/riufal/377/1/EdvaldoMonteiroLisboa_Capa_Cap2.pdf"
+    ],
+    "citation_date": [
+     "2004-12-27"
+    ],
+    "citation_abstract_html_url": [
+     "http://www.repositorio.ufal.br/jspui/handle/riufal/377"
+    ],
+    "html_title": [
+     ": Obtenção do concreto autoadensável utilizando resíduo do beneficiamento do mármore e granito e estudo de propriedades mecânicas"
+    ]
+   },
+   "snippet": "obtencao do concreto autoadensavel utilizando residuo do beneficiamento do marmore e granito e estudo de propriedades mecanicas skip navigation portal do governo brasileiro atualize sua barra de governo pagina inicial navegar comunidades e colecoes navegar nos itens por data do documento autores orientadores titulo assunto tipo do documento cnpq departamento programas tipo de acesso ajuda documentos uteis termo de autorizacao resolucao riufal entrar em meu espaco receber atualizacoes por e mail editar perfil e mail ri sibi ufal br horario 8h as 17h fone 3214 1660 atencao 1 as producoes academi",
+   "evidenceFile": "ev/obtencaodoconcretoautoadensavelutilizand-wb.html"
+  },
+  "log": [
+   "direct https://repositorio.ufal.br/handle/riufal/377 -> 000 match=0.00",
+   "direct https://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=1557267 -> 000 match=0.00",
+   "direct https://www.repositorio.ufal.br/jspui/bitstream/riufal/377/1/EdvaldoMonteiroLisboa_Capa_Cap2.pdf -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20250503141005id_/https://www.repositorio.ufal.br/handle/riufal/377 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2246677919",
+   "https://repositorio.ufal.br/handle/riufal/377",
+   "https://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=1557267",
+   "https://www.repositorio.ufal.br/jspui/bitstream/riufal/377/1/EdvaldoMonteiroLisboa_Capa_Cap2.pdf",
+   "https://archive.org/wayback/available?url=repositorio.ufal.br/handle/riufal/377",
+   "https://web.archive.org/web/20250503141005id_/https://www.repositorio.ufal.br/handle/riufal/377"
+  ],
+  "urls": [
+   "http://repositorio.ufal.br/handle/riufal/377",
+   "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=1557267",
+   "http://www.repositorio.ufal.br/jspui/bitstream/riufal/377/1/EdvaldoMonteiroLisboa_Capa_Cap2.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米SiO2与水泥硬化浆体中Ca（OH）2的反应",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90326X/200305/7988069.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90326X/200305/7988069.html",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W770335982",
+   "https://www.cqvip.com/QK/90326X/200305/7988069.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90326X/200305/7988069.html",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=%E7%BA%B3%E7%B1%B3SiO2%E4%B8%8E%E6%B0%B4%E6%B3%A5%E7%A1%AC%E5%8C%96%E6%B5%86%E4%BD%93%E4%B8%ADCa%EF%BC%88OH%EF%BC%892%E7%9A%84%E5%8F%8D%E5%BA%94",
+   "https://openlibrary.org/search.json?limit=10&title=%E7%BA%B3%E7%B1%B3SiO2%E4%B8%8E%E6%B0%B4%E6%B3%A5%E7%A1%AC%E5%8C%96%E6%B5%86%E4%BD%93%E4%B8%ADCa%EF%BC%88OH%EF%BC%892%E7%9A%84%E5%8F%8D%E5%BA%94",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=%E7%BA%B3%E7%B1%B3SiO2%E4%B8%8E%E6%B0%B4%E6%B3%A5%E7%A1%AC%E5%8C%96%E6%B5%86%E4%BD%93%E4%B8%ADCa%EF%BC%88OH%EF%BC%892%E7%9A%84%E5%8F%8D%E5%BA%94",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3A%E7%BA%B3%E7%B1%B3SiO2%E4%B8%8E%E6%B0%B4%E6%B3%A5%E7%A1%AC%E5%8C%96%E6%B5%86%E4%BD%93%E4%B8%ADCa%EF%BC%88OH%EF%BC%892%E7%9A%84%E5%8F%8D%E5%BA%94",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=%E7%BA%B3%E7%B1%B3SiO2%E4%B8%8E%E6%B0%B4%E6%B3%A5%E7%A1%AC%E5%8C%96%E6%B5%86%E4%BD%93%E4%B8%ADCa%EF%BC%88OH%EF%BC%892%E7%9A%84%E5%8F%8D%E5%BA%94"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90326X/200305/7988069.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Propietats en estat fresc i endurit del formigó autocompactant amb substitució parcial de ciment per pols de vidre",
+  "result": null,
+  "log": [
+   "direct https://riunet.upv.es/handle/10251/244504 -> 200 match=0.00",
+   "direct https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download -> 200 match=0.00",
+   "wayback none for riunet.upv.es/handle/10251/244504",
+   "wayback none for riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download",
+   "dspace7 rest https://riunet.upv.es/server/api/pid/find?id=hdl:10251/244504: 0.84",
+   "cinii opensearch: 0 items, best None",
+   "openlibrary: 0 docs, best None",
+   "crossref bibliographic search: no match",
+   "google books: None no match",
+   "semanticscholar: HTTP 429/no response"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7236554601",
+   "https://riunet.upv.es/handle/10251/244504",
+   "https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download",
+   "https://archive.org/wayback/available?url=riunet.upv.es/handle/10251/244504",
+   "https://archive.org/wayback/available?url=riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download",
+   "https://riunet.upv.es/server/api/pid/find?id=hdl:10251/244504",
+   "https://cir.nii.ac.jp/opensearch/all?format=json&count=10&q=Propietats%20en%20estat%20fresc%20i%20endurit%20del%20formig%C3%B3%20autocompactant%20amb%20substituci%C3%B3%20parcial%20de%20ciment%20per%20pols%20de%20vidre",
+   "https://openlibrary.org/search.json?limit=10&title=Propietats%20en%20estat%20fresc%20i%20endurit%20del%20formig%C3%B3%20autocompactant%20amb%20substituci%C3%B3%20parcial%20de%20ciment%20per%20pols%20de%20vidre",
+   "https://api.crossref.org/works?rows=5&query.bibliographic=Propietats%20en%20estat%20fresc%20i%20endurit%20del%20formig%C3%B3%20autocompactant%20amb%20substituci%C3%B3%20parcial%20de%20ciment%20per%20pols%20de%20vidre",
+   "https://www.googleapis.com/books/v1/volumes?maxResults=5&q=intitle%3APropietats%20en%20estat%20fresc%20i%20endurit%20del%20formig%C3%B3%20autocompactant%20amb%20substituci%C3%B3%20parcial%20de%20ciment%20per%20pols%20de%20vidre",
+   "https://api.semanticscholar.org/graph/v1/paper/search?limit=5&fields=title,year,authors,venue,externalIds,url,publicationVenue&query=Propietats%20en%20estat%20fresc%20i%20endurit%20del%20formig%C3%B3%20autocompactant%20amb%20substituci%C3%B3%20parcial%20de%20ciment%20per%20pols%20de%20vidre"
+  ],
+  "urls": [
+   "https://riunet.upv.es/handle/10251/244504",
+   "https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download"
+  ],
+  "doi": null
+ }
+]
