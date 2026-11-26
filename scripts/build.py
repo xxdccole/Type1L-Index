@@ -37,6 +37,22 @@ SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 NOTES_PATH = ROOT / "data" / "resource-notes.json"
 REVIEW_PATH = ROOT / "research" / "review-retry.jsonl"
 REACTIONS_PATH = ROOT / "data" / "reactions.json"
+PRICES_PATH = ROOT / "data" / "prices.json"
+QPL_PATH = ROOT / "data" / "dot-qpl.json"
+PRICE_KINDS = {"unit value", "bid price", "list price", "index"}
+PRICE_LEVELS = {"national", "state", "region", "district", "city"}
+PRICE_PERIOD = re.compile(r"^(\d{4}|\d{4}-\d{2}|\d{4}-\d{2}-\d{2}|\d{4}-Q[1-4]|\d{4}-\d{2}/\d{4}-\d{2})$")
+QPL_CATEGORIES = {
+    "main", "cement", "fly-ash", "slag-scm", "scm", "aggregates",
+    "admixtures", "curing", "ready-mix", "other", "none",
+}
+QPL_JURISDICTIONS = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "HI", "ID",
+    "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO",
+    "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "PR", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
+    "FHWA",
+}
 # Original topic ids. Their takeaways describe Type IL practice and stay labeled that way.
 TYPE_IL_TOPICS = frozenset({
     "standards", "dot", "carbon", "fresh", "strength", "durability", "scm",
@@ -286,6 +302,87 @@ def validate(d, cfg, notes=None):
                 errs.append(f"resource note for unknown id {rid}")
             elif not isinstance(note, str) or not note.strip():
                 errs.append(f"resource note {rid} is empty")
+    errs.extend(validate_prices())
+    errs.extend(validate_qpl())
+    return errs
+
+
+def validate_prices():
+    errs = []
+    if not PRICES_PATH.exists():
+        return ["data/prices.json is missing"]
+    try:
+        rows = json.loads(PRICES_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as ex:
+        return [f"data/prices.json does not parse: {ex}"]
+    if not isinstance(rows, list) or not rows:
+        return ["data/prices.json must be a non-empty list of observations"]
+    seen = set()
+    need = ("id", "material", "subcategory", "description", "value", "unit",
+            "currencyOrBase", "kind", "period", "geography", "geographyLevel",
+            "sourceTitle", "publisher", "url", "accessed", "accessLevel")
+    for row in rows:
+        rid = row.get("id") or "?"
+        if rid in seen:
+            errs.append(f"prices: duplicate id {rid}")
+        seen.add(rid)
+        if not re.fullmatch(r"P[1-9]\d*", str(rid)):
+            errs.append(f"prices: id {rid!r} is not P1, P2, ...")
+        for k in need:
+            if row.get(k) in (None, ""):
+                errs.append(f"{rid}: missing {k}")
+        if not isinstance(row.get("value"), (int, float)) or isinstance(row.get("value"), bool):
+            errs.append(f"{rid}: value must be a number")
+        if row.get("kind") not in PRICE_KINDS:
+            errs.append(f"{rid}: kind {row.get('kind')!r} is not a unit value, bid price, list price, or index")
+        if row.get("geographyLevel") not in PRICE_LEVELS:
+            errs.append(f"{rid}: geographyLevel {row.get('geographyLevel')!r} is not allowed")
+        if row.get("period") and not PRICE_PERIOD.match(str(row["period"])):
+            errs.append(f"{rid}: period {row.get('period')!r} is not a year, month, day, quarter, or range")
+        if row.get("accessed") and not FULL_DATE.match(str(row["accessed"])):
+            errs.append(f"{rid}: accessed must be YYYY-MM-DD")
+        if not re.match(r"^https?://[^\s]+$", row.get("url") or ""):
+            errs.append(f"{rid}: url must be absolute http(s)")
+    return errs
+
+
+def validate_qpl():
+    errs = []
+    if not QPL_PATH.exists():
+        return ["data/dot-qpl.json is missing"]
+    try:
+        rows = json.loads(QPL_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as ex:
+        return [f"data/dot-qpl.json does not parse: {ex}"]
+    if not isinstance(rows, list) or not rows:
+        return ["data/dot-qpl.json must be a non-empty list"]
+    seen = set()
+    for row in rows:
+        label = f"{row.get('state')} {row.get('listName')}"
+        for k in ("state", "stateName", "agency", "listName", "category", "url", "lastChecked"):
+            if row.get(k) in (None, ""):
+                errs.append(f"dot-qpl: {label}: missing {k}")
+        if row.get("state") not in QPL_JURISDICTIONS:
+            errs.append(f"dot-qpl: unknown jurisdiction {row.get('state')!r}")
+        if row.get("category") not in QPL_CATEGORIES:
+            errs.append(f"dot-qpl: {label}: category {row.get('category')!r} is not allowed")
+        if not re.match(r"^https?://[^\s]+$", row.get("url") or ""):
+            errs.append(f"dot-qpl: {label}: url must be absolute http(s)")
+        if row.get("lastChecked") and not FULL_DATE.match(str(row["lastChecked"])):
+            errs.append(f"dot-qpl: {label}: lastChecked must be YYYY-MM-DD")
+        status = row.get("httpStatus")
+        if status is not None and not isinstance(status, int):
+            errs.append(f"dot-qpl: {label}: httpStatus must be an integer or null")
+        if not str(row.get("accessNote") or "").strip() and status not in (200, 206):
+            errs.append(f"dot-qpl: {label}: a non-200 response needs an access note")
+        key = (row.get("state"), row.get("url"), row.get("category"), row.get("listName"))
+        if key in seen:
+            errs.append(f"dot-qpl: duplicate list {label}")
+        seen.add(key)
+    have = {row.get("state") for row in rows}
+    missing = sorted(QPL_JURISDICTIONS - have)
+    if missing:
+        errs.append(f"dot-qpl: missing jurisdictions {missing}")
     return errs
 
 
@@ -471,6 +568,10 @@ class Site:
             ("#changelog", "Change log"),
             ("#subscribe", "Get updates"),
         ]
+        if PRICES_PATH.exists():
+            items.append(("prices/", "Prices"))
+        if QPL_PATH.exists():
+            items.append(("dot-qpl/", "DOT QPLs"))
         if REACTIONS_PATH.exists():
             items.extend((("reactions/", "Reactions"), ("calculator/", "Calculator")))
         links = "\n".join(f'<a href="{prefix}{href}">{label}</a>' for href, label in items)
@@ -485,6 +586,10 @@ class Site:
     def footer(self, prefix):
         d = self.d
         review = f' · <a href="{prefix}review/">Leads to review</a>' if REVIEW_PATH.exists() else ""
+        if PRICES_PATH.exists():
+            review += f' · <a href="{prefix}prices/">Material prices</a>'
+        if QPL_PATH.exists():
+            review += f' · <a href="{prefix}dot-qpl/">DOT qualified products</a>'
         if REACTIONS_PATH.exists():
             review += f' · <a href="{prefix}reactions/">Reaction stoichiometry</a> · <a href="{prefix}calculator/">Batch calculator</a>'
         return f"""<footer class="site-footer">
@@ -931,6 +1036,195 @@ class Site:
 </html>
 """
 
+    # ------------------------------------------------------------------ material prices and DOT qualified lists
+    def prices_page(self, rows):
+        prefix, url = "../", f"{self.base}prices/"
+        title = self.doc_title("Material prices")
+        n = len(rows)
+        materials = sorted({r["material"] for r in rows})
+        kinds = sorted({r["kind"] for r in rows})
+        levels = sorted({r["geographyLevel"] for r in rows})
+        years = sorted({str(r["period"])[:4] for r in rows})
+        states = sorted({r.get("state") for r in rows if r.get("state")})
+
+        def period_key(p):
+            p = str(p)
+            m = re.fullmatch(r"(\d{4})-Q([1-4])", p)
+            if m:
+                return f"{m.group(1)}-{int(m.group(2)) * 3:02d}-q"
+            if re.fullmatch(r"\d{4}", p):
+                return p + "-00"
+            return p
+
+        periods = sorted((str(r["period"]) for r in rows), key=period_key)
+        desc = (f"{n} sourced US observations for cement, ready-mix concrete, aggregates, slag, and related products. "
+                "USGS figures are mine-gate unit values, DOT bids include placement, and PPI figures are indexes.")
+        ld = {"@context": "https://schema.org", "@type": "Dataset", "url": url, "name": title,
+              "description": desc, "isPartOf": {"@id": self.base + "#website"},
+              "creator": {"@type": "Organization", "name": self.name}}
+        by_kind = collections.Counter(r["kind"] for r in rows)
+        by_mat = collections.Counter(r["material"] for r in rows)
+        summary = "".join(f"<li>{e(name)}: {count}</li>" for name, count in by_mat.most_common())
+        kind_line = ", ".join(f"{count} {name}" for name, count in by_kind.most_common())
+
+        def opts(values):
+            return "".join(f'<option value="{e(v)}">{e(v)}</option>' for v in values)
+
+        body = []
+        for r in rows:
+            year = str(r["period"])[:4]
+            hay = " ".join([
+                r["id"], r["material"], r["subcategory"], r["description"], r["geography"],
+                r.get("state") or "", r["period"], r["kind"], r["publisher"], r["sourceTitle"], r["unit"],
+            ]).lower()
+            body.append(
+                f'<tr id="p-{e(r["id"])}" data-material="{e(r["material"])}" data-kind="{e(r["kind"])}" '
+                f'data-level="{e(r["geographyLevel"])}" data-year="{e(year)}" data-period="{e(r["period"])}" '
+                f'data-value="{e(r["value"])}" data-hay="{e(hay)}">'
+                f'<td>{e(r["material"])}<br><span class="meta">{e(r["subcategory"])}. {e(r["description"])}</span></td>'
+                f'<td>{e(r["geography"])}</td>'
+                f'<td class="num">{e(r["period"])}</td>'
+                f'<td class="num">{e(r["value"])}</td>'
+                f'<td>{e(r["unit"])}<br><span class="meta">{e(r["currencyOrBase"])}</span></td>'
+                f'<td>{e(r["kind"])}</td>'
+                f'<td><a href="{e(r["url"])}" rel="noopener">{e(r["sourceTitle"])}</a>'
+                f'<br><span class="meta">{e(r["publisher"])}. Accessed {e(r["accessed"])}. {e(r["accessLevel"])}.'
+                f'{(" " + e(r["note"])) if r.get("note") else ""}</span></td></tr>'
+            )
+        charts = self.price_charts(rows)
+        chart_json = json.dumps(charts, ensure_ascii=False).replace("<", "\\u003c")
+        return self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld) + f"""<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead slim" id="top">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <span>Material prices</span></nav>
+<h1>US construction-material prices</h1>
+<p class="meta-line" id="observation-count" data-count="{n}">{n:,} observations · {len(states)} states with a state-level figure · {periods[0]} to {periods[-1]} · <a href="{prefix}dot-qpl/">DOT qualified lists</a> · <a href="{prefix}data/prices.json">Data (JSON)</a></p>
+</div>
+</header>
+{self.site_nav(prefix)}<main id="main"><div id="content"><section><div class="wrap">
+<div class="notice" role="note"><p>These rows are copied from public sources that were opened. Coverage is not exhaustive. A missing state or material means this pass did not read a figure for it.</p>
+<p>USGS unit values are mine-gate or mill-gate averages, not delivered prices. State DOT bid prices include placement and the rest of the bid item, not the material alone. Producer price indexes are index numbers on the base printed in the row, not dollars. ENR city quotes are single-source list or transaction prices. Slag rows marked as calculated are value divided by quantity from a USGS table that does not print a unit value.</p></div>
+<h2>Coverage</h2>
+<ul>{summary}</ul>
+<p class="meta">{e(kind_line)}. Geographies: {", ".join(e(x) for x in levels)}.</p>
+<h2>Trends</h2>
+<p class="meta">Charts use one national or one-state series each. They need JavaScript. The table below does not.</p>
+<div id="chart-host"></div>
+<script type="application/json" id="price-charts">{chart_json}</script>
+<h2>Observations</h2>
+<div class="filters">
+<label>Material <select id="f-material"><option value="">All</option>{opts(materials)}</select></label>
+<label>Kind <select id="f-kind"><option value="">All</option>{opts(kinds)}</select></label>
+<label>Geography <select id="f-level"><option value="">All</option>{opts(levels)}</select></label>
+<label>Year <select id="f-year"><option value="">All</option>{opts(years)}</select></label>
+<label>Search <input id="f-q" type="search" placeholder="State, city, source"></label>
+<span id="price-visible" class="meta"></span>
+</div>
+<div class="table-scroll"><table id="price-table">
+<thead><tr>
+<th data-sort="material" scope="col">Material</th>
+<th data-sort="geography" scope="col">Geography</th>
+<th data-sort="period" scope="col">Period</th>
+<th data-sort="value" scope="col">Value</th>
+<th scope="col">Unit</th>
+<th data-sort="kind" scope="col">Kind</th>
+<th data-sort="source" scope="col">Source</th>
+</tr></thead>
+<tbody>
+{"".join(body)}
+</tbody></table></div>
+<p class="meta">Method notes: <a href="{prefix}research/prices-sources.md">research/prices-sources.md</a>. Sources that looked real but could not be read: <a href="{prefix}research/prices-review.md">research/prices-review.md</a>.</p>
+</div></section></div></main>
+{self.footer(prefix)}<script src="{prefix}js/prices.js" defer></script></body>
+</html>
+"""
+
+    @staticmethod
+    def price_charts(rows):
+        def pts(pred):
+            found = [{"p": r["period"], "v": r["value"]} for r in rows if pred(r)]
+            found.sort(key=lambda x: x["p"])
+            return found
+        specs = [
+            ("Cement mill unit value, United States", "USD per metric ton",
+             lambda r: r["material"] == "Cement" and r["geography"] == "US" and r["kind"] == "unit value" and r["description"].startswith("Average")),
+            ("PPI, hydraulic cement (WPU1322)", "index, 1982=100",
+             lambda r: r.get("seriesId") == "WPU1322"),
+            ("PPI, ready-mix concrete (WPU1333)", "index, 1982=100",
+             lambda r: r.get("seriesId") == "WPU1333"),
+            ("Crushed stone unit value, United States", "USD per metric ton",
+             lambda r: r["material"] == "Crushed stone" and r["geography"] == "US" and "Mineral Commodity Summaries" in r["sourceTitle"]),
+            ("Construction sand and gravel unit value, United States", "USD per metric ton",
+             lambda r: r["material"] == "Construction sand and gravel" and r["geography"] == "US" and "Mineral Commodity Summaries" in r["sourceTitle"]),
+            ("FHWA National Highway Construction Cost Index", "index, 2003 Q1 = 1",
+             lambda r: r.get("seriesId") == "NHCCI"),
+            ("Iowa DOT PCC pavement, normalized to 9 inches", "USD per square yard",
+             lambda r: r.get("seriesId") == "IADOT-PCC-SY"),
+        ]
+        return [{"title": title, "unit": unit, "points": pts(pred)} for title, unit, pred in specs]
+
+    def qpl_page(self, rows):
+        prefix, url = "../", f"{self.base}dot-qpl/"
+        title = self.doc_title("DOT qualified products")
+        n = len(rows)
+        codes = sorted({r["state"] for r in rows})
+        with_list = sorted({r["state"] for r in rows if r["category"] != "none"})
+        without = [r for r in rows if r["category"] == "none"]
+        desc = (f"Links to qualified, approved, or prequalified materials lists for {len(codes)} US highway agencies. "
+                f"{len(with_list)} publish a public list. {len(without)} had no public materials list when checked.")
+        ld = {"@context": "https://schema.org", "@type": "WebPage", "url": url, "name": title,
+              "description": desc, "isPartOf": {"@id": self.base + "#website"}}
+        cats = sorted({r["category"] for r in rows})
+        opts = "".join(f'<option value="{e(c)}">{e(c)}</option>' for c in cats)
+        groups = []
+        by_state = collections.OrderedDict()
+        for r in sorted(rows, key=lambda x: (x["stateName"], x["category"], x["listName"])):
+            by_state.setdefault(r["state"], []).append(r)
+        for code, items in by_state.items():
+            name = items[0]["stateName"]
+            trs = []
+            for r in items:
+                status = "not requested" if r.get("httpStatus") is None else str(r["httpStatus"])
+                hay = " ".join([code, name, r["agency"], r["listName"], r["category"], r.get("accessNote") or ""]).lower()
+                note = f' <span class="meta">{e(r["accessNote"])}</span>' if r.get("accessNote") else ""
+                trs.append(
+                    f'<tr data-cat="{e(r["category"])}" data-hay="{e(hay)}">'
+                    f'<td>{e(r["category"])}</td>'
+                    f'<td><a href="{e(r["url"])}" rel="noopener">{e(r["listName"])}</a>{note}</td>'
+                    f'<td class="num">{e(status)}</td>'
+                    f'<td class="num">{e(r["lastChecked"])}</td></tr>'
+                )
+            groups.append(
+                f'<section id="st-{e(code)}" data-qpl-state="{e(code)}"><h2>{e(name)}</h2>'
+                f'<p class="meta">{e(items[0]["agency"])}</p>'
+                f'<div class="table-scroll"><table><thead><tr><th>Category</th><th>List</th><th>HTTP</th><th>Checked</th></tr></thead>'
+                f'<tbody>{"".join(trs)}</tbody></table></div></section>'
+            )
+        none_line = "; ".join(f'{e(r["stateName"])} ({e(r["accessNote"])})' for r in without)
+        return self.head(title=title, description=desc, canonical=url, prefix=prefix, jsonld=ld) + f"""<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead slim" id="top">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{prefix}">{e(self.name)}</a> <span aria-hidden="true">›</span> <span>DOT qualified products</span></nav>
+<h1>DOT qualified and approved materials lists</h1>
+<p class="meta-line" id="qpl-count" data-count="{n}" data-jurisdictions="{len(codes)}">{n:,} lists · {len(codes)} jurisdictions · {len(with_list)} with a public list · <a href="{prefix}prices/">Material prices</a> · <a href="{prefix}data/dot-qpl.json">Data (JSON)</a></p>
+</div>
+</header>
+{self.site_nav(prefix)}<main id="main"><div id="content"><section><div class="wrap">
+<div class="notice" role="note"><p>Each link was found on or from a public agency page and then requested. A 403 means the address responded and refused this automated request. It does not mean the list is empty. Category files are included only where a page that was opened linked them, or where the file itself was opened. This is not a claim that every product list a DOT publishes was found.</p>
+<p>No public construction-materials list was found for: {none_line}.</p></div>
+<div class="filters">
+<label>Material <select id="qpl-cat"><option value="">All</option>{opts}</select></label>
+<label>Search <input id="qpl-q" type="search" placeholder="State or list"></label>
+<span id="qpl-visible" class="meta"></span>
+</div>
+{"".join(groups)}
+</div></section></div></main>
+{self.footer(prefix)}<script src="{prefix}js/qpl.js" defer></script></body>
+</html>
+"""
+
     # ------------------------------------------------------------------ sitemap, llms.txt
     def sitemap(self):
         d = self.d
@@ -959,6 +1253,8 @@ class Site:
         lines += ["", "## Data and feeds", "",
                   f"- [Full index as JSON]({self.base}data/site-data.json)",
                   f"- [Source notes as JSON]({self.base}data/resource-notes.json)",
+                  f"- [Material prices]({self.base}prices/)",
+                  f"- [DOT qualified product lists]({self.base}dot-qpl/)",
                   f"- [Daily digest feed]({self.base}feed-daily.xml)",
                   f"- [Weekly digest feed]({self.base}feed-weekly.xml)", ""]
         return "\n".join(lines)
@@ -1097,6 +1393,12 @@ def main():
         rx = json.loads(REACTIONS_PATH.read_text(encoding="utf-8"))
         write("reactions/index.html", s.reactions_page(rx))
         write("calculator/index.html", s.calculator_page(rx))
+    if PRICES_PATH.exists():
+        prices = json.loads(PRICES_PATH.read_text(encoding="utf-8"))
+        write("prices/index.html", s.prices_page(prices))
+    if QPL_PATH.exists():
+        qpl = json.loads(QPL_PATH.read_text(encoding="utf-8"))
+        write("dot-qpl/index.html", s.qpl_page(qpl))
     sm, urls = s.sitemap()
     write("sitemap.xml", sm)
     write("llms.txt", s.llms())

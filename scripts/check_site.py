@@ -76,7 +76,7 @@ pages = {}
 for f in sorted([ROOT / "index.html"] + list((ROOT / "topics").glob("*/index.html"))):
     pages[f] = parse(f)
 
-# Reaction table and calculator pages: same page checks, but they are not in the sitemap count.
+# Reaction, price, and DOT-list pages: same page checks, but they are not in the sitemap count.
 extra_pages = {}
 rx_path = ROOT / "data/reactions.json"
 if rx_path.exists():
@@ -120,6 +120,50 @@ if rx_path.exists():
             errors.append(f"data/reactions.json cites {sid} as an index resource, but it is not in site-data.json")
         if s.get("kind") != "index" and re.fullmatch(r"R\d+", sid):
             errors.append(f"data/reactions.json gives candidate source {sid} an R number")
+
+for rel_name, data_name in (("prices/index.html", "data/prices.json"), ("dot-qpl/index.html", "data/dot-qpl.json")):
+    f = ROOT / rel_name
+    if (ROOT / data_name).exists():
+        if f.exists():
+            extra_pages[f] = parse(f)
+        else:
+            errors.append(f"{rel_name} is missing although {data_name} exists")
+
+price_rows = json.loads((ROOT / "data/prices.json").read_text(encoding="utf-8")) if (ROOT / "data/prices.json").exists() else None
+if isinstance(price_rows, list):
+    price_ids = [r.get("id") for r in price_rows]
+    if len(price_ids) != len(set(price_ids)):
+        errors.append("data/prices.json has duplicate observation ids")
+    price_html = (ROOT / "prices/index.html").read_text(encoding="utf-8") if (ROOT / "prices/index.html").exists() else ""
+    m = re.search(r'id="observation-count"[^>]*data-count="(\d+)"', price_html)
+    if not m or int(m.group(1)) != len(price_rows):
+        errors.append("prices page observation count does not match data/prices.json")
+    if price_rows and (f'id="p-{price_ids[0]}"' not in price_html or f'id="p-{price_ids[-1]}"' not in price_html):
+        errors.append("prices page is missing the first or last observation id")
+    if "mine-gate" not in price_html or "include placement" not in price_html or "not dollars" not in price_html:
+        errors.append("prices page is missing the USGS, bid-price, or PPI caveat")
+
+qpl_rows = json.loads((ROOT / "data/dot-qpl.json").read_text(encoding="utf-8")) if (ROOT / "data/dot-qpl.json").exists() else None
+if isinstance(qpl_rows, list):
+    qpl_html = (ROOT / "dot-qpl/index.html").read_text(encoding="utf-8") if (ROOT / "dot-qpl/index.html").exists() else ""
+    m = re.search(r'id="qpl-count"[^>]*data-count="(\d+)"', qpl_html)
+    jm = re.search(r'data-jurisdictions="(\d+)"', qpl_html)
+    if not m or int(m.group(1)) != len(qpl_rows):
+        errors.append("DOT QPL page list count does not match data/dot-qpl.json")
+    if not jm or int(jm.group(1)) != len({r.get("state") for r in qpl_rows}):
+        errors.append("DOT QPL page jurisdiction count does not match data/dot-qpl.json")
+    for code in ("AL", "DC", "PR", "FHWA"):
+        if f'id="st-{code}"' not in qpl_html:
+            errors.append(f"DOT QPL page is missing {code}")
+
+home_nav = (ROOT / "index.html").read_text(encoding="utf-8") if (ROOT / "index.html").exists() else ""
+if 'href="prices/"' not in home_nav or 'href="dot-qpl/"' not in home_nav:
+    errors.append("home page header is missing Prices or DOT QPLs")
+topic_sample = next((ROOT / "topics").glob("*/index.html"), None)
+if topic_sample:
+    topic_nav = topic_sample.read_text(encoding="utf-8")
+    if 'href="../../prices/"' not in topic_nav or 'href="../../dot-qpl/"' not in topic_nav:
+        errors.append(f"{topic_sample.relative_to(ROOT).as_posix()} header is missing Prices or DOT QPLs")
 
 for f, p in list(pages.items()) + list(extra_pages.items()):
     rel = f.relative_to(ROOT).as_posix()
@@ -325,7 +369,7 @@ else:
 
 print(f"checked {len(pages)} pages")
 if extra_pages:
-    print(f"checked {len(extra_pages)} reaction pages (not in the sitemap)")
+    print(f"checked {len(extra_pages)} extra pages (not in the sitemap)")
 if errors:
     print("PROBLEMS:")
     for x in errors:

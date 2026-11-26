@@ -72,5 +72,7 @@ Coverage is foundational, not exhaustive. An empty topic is a documented gap, no
 
 - [Full index as JSON](https://xxdccole.github.io/Type1L-Index/data/site-data.json)
 - [Source notes as JSON](https://xxdccole.github.io/Type1L-Index/data/resource-notes.json)
+- [Material prices](https://xxdccole.github.io/Type1L-Index/prices/)
+- [DOT qualified product lists](https://xxdccole.github.io/Type1L-Index/dot-qpl/)
 - [Daily digest feed](https://xxdccole.github.io/Type1L-Index/feed-daily.xml)
 - [Weekly digest feed](https://xxdccole.github.io/Type1L-Index/feed-weekly.xml)
