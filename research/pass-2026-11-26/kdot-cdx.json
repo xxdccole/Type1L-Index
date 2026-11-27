@@ -1,0 +1,258 @@
+[
+ {
+  "title": "KDOT PQL 1 – Air-entraining admixtures",
+  "result": null,
+  "log": [
+   "wayback cdx document 1184 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/1184/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/1184/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 2 – Chemical admixtures",
+  "result": null,
+  "log": [
+   "wayback cdx document 1186 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/1186/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/1186/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 3.1 – Non-reactive siliceous aggregate (wetting & drying, KTMR-23)",
+  "result": null,
+  "log": [
+   "wayback cdx document 118 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/118/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/118/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 3.2 – Lightweight aggregate for concrete",
+  "result": null,
+  "log": [
+   "wayback cdx document 120 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/120/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/120/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 3.4 – On-grade concrete aggregate (OGCA, freeze-thaw resistant)",
+  "result": null,
+  "log": [
+   "wayback cdx document 124 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/124/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/124/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 3.6 – Polymer overlay aggregate / HFS",
+  "result": null,
+  "log": [
+   "wayback cdx document 128 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/128/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/128/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 30 – Curing compounds",
+  "result": null,
+  "log": [
+   "wayback cdx document 268 (any version): no response captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/268/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/268/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 36 – Precure finishing aid / evaporation retarder",
+  "result": null,
+  "log": [
+   "wayback cdx document 300 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/300/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/300/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 43 – Fibrous reinforcement",
+  "result": null,
+  "log": [
+   "wayback cdx document 318 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/318/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/318/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 5.1 – Portland and blended hydraulic cement",
+  "result": null,
+  "log": [
+   "wayback cdx document 134 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/134/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/134/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 5.2 – Slag cement",
+  "result": null,
+  "log": [
+   "wayback cdx document 136 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/136/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/136/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 5.6 – Shotcrete",
+  "result": null,
+  "log": [
+   "wayback cdx document 144 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/144/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/144/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 5.7 – Silica fume",
+  "result": null,
+  "log": [
+   "wayback cdx document 146 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/146/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/146/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 5.9 – Rapid hardening cement",
+  "result": null,
+  "log": [
+   "wayback cdx document 150 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/150/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/150/.*"
+  ]
+ },
+ {
+  "title": "KDOT PQL 7.2 – Fly ash for concrete",
+  "result": null,
+  "log": [
+   "wayback cdx document 168 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/168/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/168/.*"
+  ]
+ },
+ {
+  "title": "Special Provision 15-04001, Kansas City Metro Materials Board specifications",
+  "result": {
+   "route": "wayback-kdot",
+   "url": "https://web.archive.org/web/20251222112119/https://www.ksdot.gov/home/showpublisheddocument/10032/638738472721370000",
+   "original": "https://www.ksdot.gov/home/showpublisheddocument/10032/638738472721370000",
+   "snapshot": "20251222112119",
+   "evidenceFile": "ev/kdot-10032-20251222112119.pdf",
+   "pdfText": "15-04001\nSheet 1 of 1\n\nKANSAS DEPARTMENT OF TRANSPORTATION\nSPECIAL PROVISION TO THE\nSTANDARD SPECIFICATIONS, EDITION 2015\nKANSAS CITY METRO MATERIALS\n\n1.0 DESCRIPTION\nUse concrete on this project that complies with the Kansas City Metro Materials Board Specifications.\nNote1: for bid items, refer to the applicable sections of the Standard Specifications.\nNote2: Bid items not requiring concrete that complies with the Kansas City Metro Materials Board\nSpecifications will be identified in the Contract Documents.\n\n2.0 MATERIALS\nProvide the grade of concrete designated in the Contract Documents. Provide concrete that complies with\nthe Kansas City Metro Materials Board Specifications. Information on these specifications may be accessed through\nthe Kansas City Metro Materials Board website: http://www.kcmmb.org/\nThe Kansas City Metro Materials Board Administrator is: George Butler Associates, Inc., One Renner\nRidge, 9801 Renner Blvd., Lenexa, KS 66219-9745, telephone: 913-577-8393 or 913-577-8370, fax: 913-577-8380.\nThe Engineer will accept the various components of the concrete based on receipt and approval of Type D\nCertifications according to SECTION 2600.\n\n3.0 CONSTRUCTION REQUIREMENTS\nPlace, finish, cure and protect the concrete according to the applicable sections of the Standard\nSpecifications.\n\n4.0 MEASUREMENT AND PAYMENT\nThe Engineer will measure and pay for the concrete (or structures the concrete is incorporated into)\naccording to the applicable sections of the Standard Specifications.\n\n07-01-15 LAL\n\n\f"
+  },
+  "log": [
+   "wayback cdx document 10032 (any version): 1 captures",
+   "wayback raw https://web.archive.org/web/20251222112119id_/https://www.ksdot.gov/home/showpublisheddocument/10032/638738472721370000 -> 200, pdf text 1530 chars, identifier found"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/10032/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/10032/.*",
+   "https://web.archive.org/web/20251222112119id_/https://www.ksdot.gov/home/showpublisheddocument/10032/638738472721370000"
+  ]
+ },
+ {
+  "title": "Special Provision 15-04002-R01, Section 402 Concrete for Bridges/Structures (permeability classes)",
+  "result": {
+   "route": "wayback-kdot",
+   "url": "https://web.archive.org/web/20251222015959/https://www.ksdot.gov/home/showpublisheddocument/10036/638738472733700000",
+   "original": "https://www.ksdot.gov/home/showpublisheddocument/10036/638738472733700000",
+   "snapshot": "20251222015959",
+   "evidenceFile": "ev/kdot-10036-20251222015959.pdf",
+   "pdfText": "15-04002-R01\nSheet 1 of 2\n\nKANSAS DEPARTMENT OF TRANSPORTATION\nSPECIAL PROVISION TO THE\nSTANDARD SPECIFICATIONS, 2015 EDITION\nDelete SECTION 402 and replace with the following:\nSECTION 402\nSTRUCTURAL CONCRETE\n\n402.1 DESCRIPTION\nProvide the grades of concrete specified in the Contract Documents.\nThis specification is specific to Structural Concrete. See SECTION 401 for general concrete requirements.\n\n402.2 MATERIALS\nProvide materials that comply with the applicable requirements.\nGeneral Concrete .................................................................................................... SECTION 401\nAggregate ............................................................................................................... DIVISION 1100\nAdmixtures, and Plasticizers ................................................................................. DIVISION 1400\nFibrous Reinforcement for Concrete ...................................................................... DIVISION 1700\nCement, Fly Ash, Silica Fume, Slag Cement and Blended Supplemental\nCementitious........................................................................................................... DIVISION 2000\nWater ………………………………………………………………. ..................... DIVISION 2400\n\n402.3 CONCRETE MIX DESIGN\na. General. Design structural concrete mixes as specified in the Contract Documents.\nb. Concrete Mix Design. Two options are available for mix design procedures. Use the procedures\noutlined in SECTION 401 to design structural concrete mixes.\nc. Concrete Strength Requirements. Design concrete to meet the strength requirements of SECTION\n401.\nd. Portland Cement, Blended Hydraulic Cement, and Individual and Blended Supplemental\nCementitious Materials. Unless specified otherwise in the Contract Documents, select the type of portland cement,\nblended hydraulic cement and individual and blended supplemental cementitious materials according to SECTION\n401.\ne. Structural Concrete Specific Requirements. Design concrete to meet the following requirements:\n(1) Maximum water to cementitious ratio of 0.45 and a minimum cementitious content of 480 lbs per cubic\nyard.\n(2) Air entrained concrete with a target air content of 6.5 ± 1.5 percent as specified in subsection 401.3i.\n(3) Determine the air loss due to pumping operations once in the AM and once in the PM. Determine the\ndifference between the air content from concrete sampled before the pump, and concrete sampled after pumping.\nMake adjustment to the mix to compensate for the pumping of the concrete.\n(4) Concrete permeability requirements according to TABLE 402-1.\n(5) Use 1.5 lbs/cy of approved microfibers in Bridge Overlays Mix Design.\n\n\f15-04002-R01\nSheet 2 of 2\nTABLE 402-1: REQUIREMENTS FOR STRUCTURAL CONCRETE\nVolume of\nRapid Chloride\nPermeable\nSurface\nPermeability,\nVoids,\nResistivity,\nmaximum\nminimum\nmaximum\nUse Low Permeability Concrete\n27.0 kΩ-cm\n9.5%\n1000 Coulombs\n(LPC) for Bridge Overlays\nUse Moderate Permeability\n13.0 kΩ-cm\nConcrete (MPC) for specified Full\n11.0%\n2000 Coulombs\nDepth Bridge Decks.\nUse Standard Permeability Concrete\n(SPC) for all other structural\n9.0 kΩ-cm\n12.5%\n3000 Coulombs\nconcrete not specified as Low or\nModerate Permeability.\n(5) Test data from KT-73 tested at 28 days, KT-79 tested at 28 days, or AASHTO T-277 tested at 56 days.\nProvide test results on a minimum of 1 set of 3 cylinders for each mix, tested at the highest water to cementitious\nratio that meets subsections 401.3e. and 401.3i. Submit accelerated cure procedures for the Engineer’s approval.\nThe use of supplemental cementitious materials may be necessary to meet permeability requirements. See\nSECTION 401.\n(6) Use Quality Requirements for Structural Aggregates as listed in SECTION 1102, Aggregates For\nConcrete Not Placed on Grade.\n(7) Use gradation requirements for aggregates as listed in SECTION 1102, Aggregates For Concrete Not\nPlaced on Grade.\n(8) Use MA-6 optimized gradation for Low Permeability Concrete for Bridge Overlays.\n(9) A"
+  },
+  "log": [
+   "wayback cdx document 10036 (any version): 1 captures",
+   "wayback raw https://web.archive.org/web/20251222015959id_/https://www.ksdot.gov/home/showpublisheddocument/10036/638738472733700000 -> 200, pdf text 4885 chars, identifier found"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/10036/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/10036/.*",
+   "https://web.archive.org/web/20251222015959id_/https://www.ksdot.gov/home/showpublisheddocument/10036/638738472733700000"
+  ]
+ },
+ {
+  "title": "Special Provision 15-04003, Section 403 Concrete Pavement mixes",
+  "result": null,
+  "log": [
+   "wayback cdx document 10038 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/10038/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/10038/.*"
+  ]
+ },
+ {
+  "title": "Special Provision 15-04005-R04, Section 401 Concrete",
+  "result": {
+   "route": "wayback-kdot",
+   "url": "https://web.archive.org/web/20251222075105/https://www.ksdot.gov/home/showpublisheddocument/10050/638738472778300000",
+   "original": "https://www.ksdot.gov/home/showpublisheddocument/10050/638738472778300000",
+   "snapshot": "20251222075105",
+   "evidenceFile": "ev/kdot-10050-20251222075105.pdf",
+   "pdfText": "15-04005-R04\nSheet 1 of 13\n\nKANSAS DEPARTMENT OF TRANSPORTATION\nSPECIAL PROVISION TO THE\nSTANDARD SPECIFICATIONS, 2015 EDITION\nDelete SECTION 401 and replace with the following:\nSECTION 401\nGENERAL CONCRETE\n\n401.1 DESCRIPTION\nProvide the grades of concrete specified in the Contract Documents.\nSee SECTION 402 for specific requirements for Structural Concrete.\nSee SECTION 403 for specific requirements for On Grade Concrete.\nSee SECTION 404 for specific requirements for Prestressed Concrete.\n\n401.2 MATERIALS\nProvide materials that comply with the applicable requirements.\nAggregate ............................................................................................................... ….. DIVISION 1100\nAdmixtures and Plasticizers .................................................................................. ….. DIVISION 1400\nGrade 2 Calcium Chloride...................................................................................... ….. DIVISION 1700\nCement, Fly Ash, Natural Pozzolans, Silica Fume, Slag Cement and Blended Supplemental\nCementitious........................................................................................................... …. DIVISION 2000\nWater ………………………………………………………………. ..................... …..DIVISION 2400\n\n401.3 CONCRETE MIX DESIGN\na. General. Design the concrete mixes specified in the Contract Documents.\nDo not place any concrete on the project until the Engineer approves the concrete mix designs. Once the\nEngineer approves the concrete mix design, do not make changes to the mix design without the Engineer’s approval.\nProduce all concrete according to the approved mix designs.\nTake full responsibility for the actual proportions of the concrete mix, even if the Engineer assists in the\ndesign of the concrete mix.\nProvide aggregate gradations that comply with DIVISION 1100 and Contract Documents.\nAdmixture dosage rate requirements for mix design approval and field production are provided in\nsubsection 401.3k.\nIf desired, contact the DME for available information to help determine approximate proportions to\nproduce concrete having the required characteristics on the project.\nSubmit all concrete mix designs to the Engineer for review and approval. Submit completed volumetric\nmix designs on KDOT Form No. 694 and all required attachments at least 60 days prior to placement of concrete on\nthe project. The Engineer will provide an initial review of the design within 5 business days following submittal.\nInclude the following information:\n(1) Test data from KT-73 tested at 28 days, KT-79 tested at 28 days or AASHTO T-277 tested at 56 days.\nProvide test results on a minimum of 1 set of 3 cylinders for each mix, tested at the highest water to cementitious\nmaterial ratio that meets subsection 401.3h. Submit accelerated cure procedures for the Engineer’s approval.\n(2) Test data from ASTM C1567 for blended cements meeting subsection 401.3j. for all concrete utilizing\nall actual materials proposed for use on the project at designated percentages.\n(3) Single point grading for the combined aggregates along with a plus/minus tolerance for each sieve. Use\nplus/minus tolerances to perform quality control checks and by the Engineer to perform aggregate grading\nverification testing. The tests may be performed on the combined materials or on individual aggregates, and then\ntheoretically combined to determine compliance.\n\n\f15-04005-R04\nSheet 2 of 13\n(4) Laboratory 28-day compressive strength test results on a minimum of 1 set of 3 cylinders produced\nfrom the mix design with the highest water to cementitious ratio for the project, utilizing all actual materials\nproposed for use on the project at designated percentages. The average compressive strength shall exceed the\nstrength requirements for the Grade specified in the Contract Documents as determined by subsection 401.3b.\nPerform compressive strength tests according to KT-76.\n(5) Historical mix production data for the plant producing concrete for the project "
+  },
+  "log": [
+   "wayback cdx document 10050 (any version): 1 captures",
+   "wayback raw https://web.archive.org/web/20251222075105id_/https://www.ksdot.gov/home/showpublisheddocument/10050/638738472778300000 -> 200, pdf text 11383 chars, identifier found"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/10050/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/10050/.*",
+   "https://web.archive.org/web/20251222075105id_/https://www.ksdot.gov/home/showpublisheddocument/10050/638738472778300000"
+  ]
+ },
+ {
+  "title": "Special Provision 15-11003-R04, Section 1102 Aggregates for Concrete Not On Grade",
+  "result": {
+   "route": "wayback-kdot",
+   "url": "https://web.archive.org/web/20251222022805/https://www.ksdot.gov/home/showpublisheddocument/9776/638738469710770000",
+   "original": "https://www.ksdot.gov/home/showpublisheddocument/9776/638738469710770000",
+   "snapshot": "20251222022805",
+   "evidenceFile": "ev/kdot-9776-20251222022805.pdf",
+   "pdfText": "15-11003-R04\nSheet 1 of 6\n\nKANSAS DEPARTMENT OF TRANSPORTATION\nSPECIAL PROVISION TO THE\nSTANDARD SPECIFICATIONS, 2015 EDITION\nDelete SECTION 1102, and replace with the following:\nSECTION 1102\nAGGREGATES FOR CONCRETE NOT PLACED ON GRADE\n1102.1 DESCRIPTION\nThis specification is for coarse aggregates, intermediate aggregates, fine aggregates, mixed aggregates\n(coarse, intermediate and fine material) and miscellaneous aggregates for use in construction of concrete not placed\non grade.\nFor Intermediate Aggregates and Mixed Aggregates, consider any aggregate with 30% or more retained on\nthe No. 8 sieve to be Coarse Aggregate.\n1102.2 REQUIREMENTS\na. Quality of Individual Aggregates.\n(1) Provide Aggregates for Concrete that comply with TABLE 1102-1. Crushed Aggregates with less than\n20% material retained on the 3/8” sieve must be produced from a source complying with these requirements prior to\ncrushing. Fine Aggregates for Concrete have additional Quality Requirements stated in subsection 1102.2e.(2).\nTABLE 1102-1: QUALITY REQUIREMENTS FOR CONCRETE AGGREGATES\nSoundness\nWear\nAbsorption Acid Insoluble5\nConcrete Classification\n(min.)\n(min.)\n(max.)\n(max.)\nGrade xx (AE)(SW)1\n0.90\n40\nGrade xx (AE)(SA)2\n0.90\n40\n2.0\nGrade xx (AE)(AI)3\n0.90\n40\n85\nGrade xx (AE)(PB)4\n0.90\n40\n3.0\nBridge Overlays\n0.95\n40\n85\nAll Other Concrete\n0.90\n50\n1Grade xx (AE)(SW) - Structural concrete with select coarse aggregate for wear.\n2Grade xx (AE)(SA) - Structural concrete with select coarse aggregate for wear and absorption.\n3Grade xx (AE)(AI) - Structural concrete with select coarse aggregate for wear and acid insolubility.\n4Grade xx (AE)(PB) - Structural concrete with select aggregate for use in prestressed concrete beams.\n5Acid Insoluble requirement does not apply to calcite cemented sandstone.\n\n Soundness (KTMR-21) requirements do not apply to aggregates having less than 10% material\nretained on the No. 4 sieve.\n Wear (AASHTO T 96) requirements do not apply to aggregates having less than 10% retained\non the No. 8 sieve.\n Absorption KT-6 Procedure I for material retained on the No. 4 sieve. Apply the maximum\nabsorption to the portion retained on the No. 4 sieve.\n(2) To prevent Alkali Silica Reactions (ASR) all predominately siliceous aggregate must comply with the\nWetting & Drying Test requirements or be used with a Coarse Aggregate Sweetener per TABLE 1102-2, or will\nrequire Supplemental Cementitious Materials (SCM). If using SCM’s meet the requirements of subsection 401.3j.\nWetting & Drying Test of Siliceous Aggregate for Concrete (KTMR-23)\nConcrete Modulus of Rupture:\n\nAt 60 days, minimum .......................................................................... 550 psi\n\nAt 365 days, minimum ........................................................................ 550 psi\n\n\f15-11003-R04\nSheet 2 of 6\nExpansion:\n\nAt 180 days, maximum ........................................................................ 0.050%\n\nAt 365 days, maximum ........................................................................ 0.070%\nAggregates produced from the following general areas are exempt from the Wetting and Drying Test:\n\nBlue River Drainage Area.\n\nThe Arkansas River from Sterling, west to the Colorado state line.\n\nThe Neosho River from Emporia to the Oklahoma state line.\n(3) Coarse Aggregate Sweetener. Types and proportions of aggregate sweeteners to be used with Mixed\nAggregates are listed in TABLE 1102-2.\nTABLE 1102-2: COARSE AGGREGATE SWEETENER\nType of Coarse Aggregate Sweetener\nProportion Required by Percent Weight\nCrushed Sandstone*\n40 (minimum)\nCrushed Limestone or Dolomite*\n40 (minimum)\nSiliceous Aggregates meeting subsection 1102.2a.(2)\n40 (minimum)\nSiliceous Aggregates not meeting subsection 1102.2a.(2) **\n30 (maximum)\n*Waive the minimum portion of Coarse Aggregate Sweetener for all intermediate and fine aggregates that comply with the wetting\nand drying requirements for Siliceous Aggregates.\n**To be used only with intermediate and fine aggregates that com"
+  },
+  "log": [
+   "wayback cdx document 9776 (any version): 1 captures",
+   "wayback raw https://web.archive.org/web/20251222022805id_/https://www.ksdot.gov/home/showpublisheddocument/9776/638738469710770000 -> 200, pdf text 9085 chars, identifier found"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/9776/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/9776/.*",
+   "https://web.archive.org/web/20251222022805id_/https://www.ksdot.gov/home/showpublisheddocument/9776/638738469710770000"
+  ]
+ },
+ {
+  "title": "Special Provision 15-11004-R03, Section 1116 Aggregates for On-Grade Concrete",
+  "result": null,
+  "log": [
+   "wayback cdx document 14903 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/14903/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/14903/.*"
+  ]
+ },
+ {
+  "title": "Special Provision 15-20001-R02, Section 2001 Hydraulic Cement",
+  "result": null,
+  "log": [
+   "wayback cdx document 13342 (any version): 0 captures"
+  ],
+  "urlsTried": [
+   "https://web.archive.org/cdx/search/cdx?url=www.ksdot.gov/home/showpublisheddocument/13342/&matchType=prefix&output=json&filter=statuscode:200&filter=original:.*/showpublisheddocument/13342/.*"
+  ]
+ }
+]

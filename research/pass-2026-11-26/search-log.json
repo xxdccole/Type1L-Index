@@ -1,0 +1,1074 @@
+{
+ "log": [
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "self-compacting architectural concrete surface",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "formwork release agent concrete surface",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "photocatalytic concrete titanium dioxide",
+   "period": null,
+   "language": null,
+   "n": 21,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "textured concrete facade",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "concrete surface blowholes",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "title.search",
+   "query": "glass fibre reinforced concrete cladding",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "pervious concrete clogging",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "pervious concrete freeze-thaw",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "roller compacted concrete pavement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "concrete pavement faulting",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "airfield concrete pavement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "title.search",
+   "query": "permeable pavement stormwater concrete",
+   "period": null,
+   "language": null,
+   "n": 8,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "precast concrete connections",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "hollow core slab",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "3D concrete printing rheology",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "printable cementitious materials",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "precast prestressed concrete production",
+   "period": null,
+   "language": null,
+   "n": 7,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "title.search",
+   "query": "tilt-up concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "recycled concrete powder cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "recycled aggregate concrete durability",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "construction and demolition waste aggregate",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "recycled aggregate adhered mortar",
+   "period": null,
+   "language": null,
+   "n": 12,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "returned concrete reuse",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "title.search",
+   "query": "waste glass concrete aggregate",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "repair material bond strength concrete substrate",
+   "period": null,
+   "language": null,
+   "n": 11,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "FRP strengthening concrete repair",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "crack injection epoxy concrete",
+   "period": null,
+   "language": null,
+   "n": 11,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "self-healing concrete cracks",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "grout bleeding post-tensioned",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "title.search",
+   "query": "concrete overlay debonding",
+   "period": null,
+   "language": null,
+   "n": 21,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "cement specification compliance testing",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "concrete standard specification durability exposure classes",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "EN 206 concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "blended cement specifications comparison",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "standard test methods cement chemical analysis",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "title.search",
+   "query": "Indian standard cement concrete",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "bridge deck concrete specification department of transportation",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "high performance concrete bridges state highway",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "concrete mixture approval highway agency",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "FHWA concrete pavement report",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "state transportation agency fly ash specification",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "title.search",
+   "query": "Kansas concrete pavement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "cement CO2 emissions reduction potential",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "concrete carbonation CO2 sequestration",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "alternative fuels cement kiln emissions",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "low clinker cement environmental assessment",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "carbon pricing cement industry",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "title.search",
+   "query": "global warming potential concrete mixtures",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "fresh concrete air content",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "superplasticizer slump retention",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "thixotropy cement paste",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "concrete setting ultrasonic",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "fresh concrete segregation",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "title.search",
+   "query": "workability retention admixture",
+   "period": null,
+   "language": null,
+   "n": 3,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "compressive strength prediction concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "strength gain blended cement concrete",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "concrete core strength",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "temperature effect concrete strength development",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "rebound hammer concrete strength",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "title.search",
+   "query": "early age strength limestone cement",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "alkali silica reaction mitigation",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "concrete deicing salt damage",
+   "period": null,
+   "language": null,
+   "n": 7,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "acid attack concrete",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "concrete leaching calcium",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "chloride threshold reinforcement corrosion",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "title.search",
+   "query": "marine concrete durability",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "supplementary cementitious materials reactivity test",
+   "period": null,
+   "language": null,
+   "n": 17,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "high volume supplementary cementitious materials",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "pozzolan durability concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "slag fly ash blended concrete strength",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "SCM supply shortage",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "title.search",
+   "query": "R3 test reactivity",
+   "period": null,
+   "language": null,
+   "n": 10,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "concrete pavement cracking",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "concrete pavement design method",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "concrete pavement rehabilitation",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "pavement concrete mixture",
+   "period": null,
+   "language": null,
+   "n": 22,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "concrete pavement texture skid",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "title.search",
+   "query": "concrete pavement thickness",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "concrete-architectural",
+   "mode": "search",
+   "query": "architectural concrete history",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-pavement-pervious",
+   "mode": "search",
+   "query": "concrete roads early experience",
+   "period": ":1950",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-precast-insitu-print",
+   "mode": "search",
+   "query": "precast concrete industry history",
+   "period": ":1975",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-circular",
+   "mode": "search",
+   "query": "reuse of crushed concrete as aggregate",
+   "period": ":1985",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "concrete-repair-grout-overlay",
+   "mode": "search",
+   "query": "repair of concrete structures",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "standards",
+   "mode": "search",
+   "query": "cement standard specification",
+   "period": ":1940",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "dot",
+   "mode": "search",
+   "query": "state highway department concrete",
+   "period": ":1960",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "carbon",
+   "mode": "search",
+   "query": "cement kiln fuel energy",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "fresh",
+   "mode": "search",
+   "query": "workability of concrete",
+   "period": ":1960",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "strength",
+   "mode": "search",
+   "query": "strength of concrete water cement ratio",
+   "period": ":1940",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "durability",
+   "mode": "search",
+   "query": "deterioration of concrete",
+   "period": ":1960",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "scm",
+   "mode": "search",
+   "query": "pozzolanic admixtures concrete",
+   "period": ":1960",
+   "language": null,
+   "n": 17,
+   "errors": []
+  },
+  {
+   "topic": "pavement",
+   "mode": "search",
+   "query": "concrete pavement",
+   "period": ":1940",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "hormig\u00f3n reciclado",
+   "period": null,
+   "language": "es",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "concreto perme\u00e1vel",
+   "period": null,
+   "language": "pt",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "b\u00e9ton recycl\u00e9",
+   "period": null,
+   "language": "fr",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-ja",
+   "mode": "title.search",
+   "query": "\u30b3\u30f3\u30af\u30ea\u30fc\u30c8 \u8217\u88c5",
+   "period": null,
+   "language": "ja",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u518d\u751f\u9aa8\u6599\u6df7\u51dd\u571f",
+   "period": null,
+   "language": "zh",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-pl",
+   "mode": "title.search",
+   "query": "beton nawierzchnia",
+   "period": null,
+   "language": "pl",
+   "n": 2,
+   "errors": []
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u0431\u0435\u0442\u043e\u043d \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c",
+   "period": null,
+   "language": "ru",
+   "n": 3,
+   "errors": []
+  },
+  {
+   "topic": "lang-tr",
+   "mode": "title.search",
+   "query": "geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclm\u00fc\u015f agrega beton",
+   "period": null,
+   "language": "tr",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-id",
+   "mode": "title.search",
+   "query": "beton porous",
+   "period": null,
+   "language": "id",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-ko",
+   "mode": "title.search",
+   "query": "\ucf58\ud06c\ub9ac\ud2b8",
+   "period": null,
+   "language": "ko",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "agregado reciclado concreto",
+   "period": null,
+   "language": "pt",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-de",
+   "mode": "title.search",
+   "query": "Recyclingbeton",
+   "period": null,
+   "language": "de",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete",
+   "period": "2026-11-25:",
+   "language": null,
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "cement",
+   "period": "2026-11-25:",
+   "language": null,
+   "n": 21,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "recycled aggregate concrete",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete pavement",
+   "period": "2026-11-10:",
+   "language": null,
+   "n": 23,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "3D printed concrete",
+   "period": "2026-11-10:",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "portland limestone cement",
+   "period": "2026-11-10:",
+   "language": null,
+   "n": 24,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "concrete carbon emissions",
+   "period": "2026-11-15:",
+   "language": null,
+   "n": 22,
+   "errors": []
+  },
+  {
+   "topic": "current-2026",
+   "mode": "search",
+   "query": "alkali-silica reaction",
+   "period": "2026-11-01:",
+   "language": null,
+   "n": 24,
+   "errors": []
+  }
+ ],
+ "skippedRepeats": [
+  [
+   "lang-de",
+   "Betonfahrbahn",
+   null,
+   "de"
+  ],
+  [
+   "lang-it",
+   "calcestruzzo durabilit\u00e0",
+   null,
+   "it"
+  ],
+  [
+   "lang-nl",
+   "beton",
+   null,
+   "nl"
+  ],
+  [
+   "lang-cs",
+   "beton",
+   null,
+   "cs"
+  ]
+ ],
+ "chase": {
+  "seeds": 835,
+  "seedsInOpenAlex": 834,
+  "refs": 1602,
+  "refsFetched": 1539,
+  "backwardKept": 763,
+  "forwardSeeds": [
+   "R190",
+   "R186",
+   "R2206",
+   "R1265",
+   "R302",
+   "R2117",
+   "R314",
+   "R1473",
+   "R3791",
+   "R188",
+   "R2207",
+   "R300",
+   "R2195",
+   "R301",
+   "R3231",
+   "R2199",
+   "R315",
+   "R2208",
+   "R2209",
+   "R1454",
+   "R1266",
+   "R2200",
+   "R1474",
+   "R1475",
+   "R3792",
+   "R4610",
+   "R4651",
+   "R4652",
+   "R4702",
+   "R4653",
+   "R4611",
+   "R4694",
+   "R4612",
+   "R4654",
+   "R4655"
+  ],
+  "forwardKept": 198
+ }
+}

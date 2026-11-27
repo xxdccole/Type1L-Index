@@ -1,0 +1,338 @@
+0||id|Paper|2019|binder-activated|PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER|unknown|landin
+1||fa|Paper|2017|concrete-fibers,concrete-lightweight,cross-mix,cross-mechanics|Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monoto|نشریه مهندسی عمران امیرکبیر|landin
+2||fr|Thesis|1988|concrete-fibers|Contribution à l'étude du rôle de fibres dispersées anisotropiquement dans le mortier de ciment sur les lois d|ANRT (Grenoble 2)|catalo
+3||en|Thesis|2009|concrete-fibers|Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinf|한국과학기술원|landin
+4||ro|Paper|2011|concrete-structural,cross-durability|CERCETAREA EXPERIMENTALĂ, COMPONENTĂ ESENŢIALĂ ÎN APLICAREA DIFERITELOR METODE DE STABILIRE A DURATEI DE SERVI|unknown|landin
+5||en|Paper|1988|concrete-polymer-refractory,cross-mechanics|HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY|Transportation Research Record Journal o|landin
+6||ro|Paper|2013|concrete-circular|STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOS|unknown|landin
+7||en|Paper|1988|concrete-repair-grout-overlay|Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Co|unknown|landin
+8||en|Paper|2009|concrete-scc,cross-mix|Mix design for self compacting concrete|Journal of the Croatian Association of C|landin
+9||da|Thesis|2012|concrete-scc|Numerisk modellering af formfyldning ved støbning i selvkompakterende beton|unknown|landin
+10||uk|Paper|2012|concrete-scc|Высокопрочный самоуплотняющийся бетон с использованием щебня фракции 5 - 10|CyberLeninK (CyberLeninka)|landin
+11||nl|Paper|2007|cross-chemistry|Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij ceme|unknown|landin
+12||id|Paper|2012|concrete-lightweight|PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLAND PT SEMEN BATURAJA (PERSERO)|unknown|landin
+13||en|Paper|1963|cross-chemistry|THE CHEMISTRY OF CEMENT HYDRATION|unknown|landin
+14||tr|Paper|2002-12-01|cross-mechanics,concrete-lightweight|YÜKSEK DAYANIMLI BETON ÜRETİMİNDE ÇİMENTO ve SÜPERAKIŞKANLAŞTIRICI BETON KATKI MADDELERİNİN ETKİNLİĞİ|Sakarya University (Sakarya University J|landin
+15||ja|Paper|2001-02-10|cross-chemistry|セメントの水和反応および微細組織形成に及ぼす初期高温履歴の影響|Cement Science and Concrete Technology|catalo
+16||ja|Paper|2006|cross-chemistry|石灰石微粉末を添加したセメントのX線回折/リートベルト法による水和反応解析と強度発現機構に関する検討|unknown|catalo
+17||fr|Book|2004|cross-durability|Conception des bétons pour une durée de vie donnée des ouvrages : maîtrise de la durabilité vis-à-vis de la co|AFGC (Bagneux)|catalo
+18||es|Paper|2008|cross-durability|La influencia de las cenizas volantes como sustituto parcial del cemento Pórtland en la durabilidad del hormig|unknown|landin
+19||pl|Paper|2011|cross-mix|Nowe dodatki mineralne do betonu|Budownictwo i Inżynieria Środowiska|landin
+20||en|Book chapter|1982-09-01|cross-mechanics|Fatigue of Concrete by Constant and Variable Amplitude loading|Special Publication|landin
+21||en|Paper|1992|cross-mechanics|TENSILE AND TENSILE FATIGUE BEHAVIOUR OF CONCRETE; EXPERIMENTS, MODELLING AND ANALYSES|Heron|landin
+22||fa|Paper|2014|cross-mechanics|Thermal Behaviour of Concrete|unknown|landin
+23||ro|Paper|2014|scm-emerging|MODEL EXPERIMENTAL DE RECICLARE A UNUI DEŞEU DIN INDUSTRIA HÂRTIEI CA MATERIE PRIMĂ SECUNDARĂ ÎN BETON AN EXPE|unknown|landin
+24||id|Paper|2018|scm-flyash|FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON|Prosiding Semnastek|landin
+25||en|Paper|2002|scm-flyash|HIGH PERFORMANCE HIGH VOLUME FLY ASH CONCRETE|ACI Concrete International|landin
+26||en|Report|2006|scm-flyash,binder-activated,concrete-polymer-refractory|Low-Calcium fly ash-based geopolymer concrete: Long-term properties|eSpace (Curtin University)|landin
+27|0|en|Paper|2010-09|carbon,scm-emerging,cross-construction,cross-environment-cost|Cement replacement by sugar cane bagasse ash: CO2 emissions reduction and potential for carbon credits|Elsevier (Journal of Environmental Manag|doi_me
+28|1|en|Paper|2010-03-12|carbon,cross-durability,cross-environment-cost|Sequestration of CO2 by Concrete Carbonation|American Chemical Society (ACS) (Environ|abstra
+29|2|en|Paper|2010-02-03|carbon,binder-magnesium-carbonatable,cross-construction,cross-durability,cross-environment-cost|CO2 Sequestration in Concrete through Accelerated Carbonation Curing in a Flow-through Reactor|American Chemical Society (ACS) (Industr|abstra
+30|3|en|Paper|2023-03|carbon,concrete-circular,cross-durability,cross-environment-cost|Production of aragonite whiskers by carbonation of fine recycled concrete wastes: An alternative pathway for e|Elsevier (Renewable and Sustainable Ener|doi_me
+31|4|en|Paper|2023-08|carbon,scm-slag,cross-durability,cross-environment-cost|Preparation and carbonation hardening of low calcium CO2 sequestration materials from waste concrete powder an|Elsevier (Cement and Concrete Composites|doi_me
+32|5|en|Paper|2024-11|carbon,concrete-circular,cross-durability,cross-environment-cost|Mechanochemical carbonation of recycled concrete fines: Towards a high-efficiency recycling and CO2 sequestrat|Elsevier (Cement and Concrete Research)|doi_me
+33|6|en|Paper|2015-11|carbon,cross-durability,cross-environment-cost|CO2 sequestration using waste concrete and anorthosite tailings by direct mineral carbonation in gas–solid–liq|Elsevier (Journal of Environmental Manag|doi_me
+34|7|en|Paper|2017-01|carbon,cross-environment-cost|Bottom-up analysis of energy efficiency improvement and CO2 emission reduction potentials in the Swiss cement |Elsevier (Journal of Cleaner Production)|doi_me
+35|8|en|Paper|2024-09|carbon,cross-durability,cross-environment-cost|An innovative strategy for maximizing CO2 reduction in concrete through preparing carbon sequestration precurs|Elsevier (Cement and Concrete Composites|doi_me
+36|9|en|Paper|2021-05|carbon,cross-environment-cost|Bottom-up analysis of energy efficiency improvement and CO2 emission reduction potentials in the cement indust|Elsevier (Journal of Cleaner Production)|doi_me
+37|10|en|Paper|1995-10|cross-mix|Using waste concrete as aggregate|Elsevier (Cement and Concrete Research)|doi_me
+38|11|en|Paper|1996-01|cross-mix|The influence of retained moisture in aggregates from recycling on the properties of new hardened concrete|Elsevier (Waste Management)|doi_me
+39|13|en|Book|1992-03-27|concrete-structural|Seismic Design of Reinforced Concrete and Masonry Buildings|Wiley|abstra
+40|14|en|Standard|1992-12-15|cross-mix,cross-tests-codes|Specification for aggregates from natural sources for concrete|BSI British Standards|doi_me
+41|15|en|Paper|2003-01|concrete-circular,cross-mix|Use of building rubbles as recycled aggregates|Elsevier (Cement and Concrete Research)|doi_me
+42|16|en|Paper|2001-12|scm-clay,cross-durability|Increasing concrete durability with high-reactivity metakaolin|Elsevier (Cement and Concrete Composites|doi_me
+43|17|en|Paper|1987-12|concrete-circular,cross-mix|Recycled concrete as fine and coarse aggregates in concrete|Emerald (Magazine of Concrete Research)|abstra
+44|18|en|Paper|1997-01|binder-portland,binder-blended,cross-durability,cross-environment-cost|The effect of cement composition and pH of environment on sulfate resistance of Portland cements and blended c|Elsevier (Cement and Concrete Composites|doi_me
+45|19|en|Paper|2003|concrete-fibers,cross-mechanics|Deformation Behavior of Fiber-Reinforced Polymer Reinforced Engineered Cementitious Composite (ECC) Flexural M|American Concrete Institute (ACI Structu|abstra
+46|20|en|Paper|1990-03|concrete-structural|Degradation and restoration of masonry walls of historical buildings|Springer (Materials and Structures)|doi_me
+47|21|en|Paper|1998-01|concrete-pavement-pervious,concrete-structural|Analysis of Concrete Pavement Responses to Temperature and Wheel Loads Measured from Intrumented Slabs|SAGE (Transportation Research Record: Jo|abstra
+48|22|en|Paper|2003|concrete-fibers|Cyclic Response of Highly Ductile Fiber-Reinforced Cement-Based Composites|American Concrete Institute (ACI Materia|abstra
+49|23|en|Paper|1996-01|concrete-fibers,concrete-structural,cross-mechanics|Restrained shrinkage cracking in fiber reinforced concrete: A novel test technique|Elsevier (Cement and Concrete Research)|doi_me
+50|24|en|Paper|1988|cross-chemistry|Factors Affecting Bond Between New and Old Concrete|American Concrete Institute (ACI Materia|abstra
+51|25|en|Paper|1969-04-01|concrete-precast-insitu-print,concrete-structural|DESIGN OF CONTINUOUS HIGHWAY BRIDGES WITH PRECAST, PRESTRESSED CONCRETE GIRDERS|Precast/Prestressed Concrete Institute (|abstra
+52|26|en|Paper|1988-07|cross-mix,cross-mechanics|Strength evaluation of recycled-aggregate concrete byin-situ tests|Springer (Materials and Structures)|doi_me
+53|27|en|Paper|1998|cross-mix,cross-durability|Role of Chemical and Mineral Admixtures on the Physical Properties and Frost-Resistance of Recycled Aggre-gate|American Concrete Institute (ACI Materia|abstra
+54|29|en|Paper|1995-05|cross-chemistry|Effect of cement composition on the expansion of heat-cured cement pastes|Elsevier (Cement and Concrete Research)|doi_me
+55|33|en|Conference paper|2000|concrete-circular,cross-mix|Effects of Recycled Aggregate Characteristics on Performance Parameters of Recycled Aggregate Concrete|American Concrete Institute (SP-192: 200|abstra
+56|34|en|Paper|1973-01|cross-mix|Alkali-aggregate reaction in Nova Scotia I. Summary of a five-year study|Elsevier (Cement and Concrete Research)|doi_me
+57|35|en|Paper|2000|cross-mechanics|Bond Strength Development with Maturity of High-Early-Strength Bonded Concrete Overlays|American Concrete Institute (ACI Materia|abstra
+58|36|en|Paper|1982-06|scm-slag|Influence of pulverized–fuel ash and granulated blastfurnace slag upon expansion caused by the alkali–silica r|Emerald (Magazine of Concrete Research)|abstra
+59|37|en|Paper|2000-01|concrete-pavement-pervious,concrete-structural|Analysis by High-Speed Profile of Jointed Concrete Pavement Slab Curvatures|SAGE (Transportation Research Record: Jo|abstra
+60|38|en|Book chapter|2000|concrete-circular,cross-mix|Preliminary laboratory investigation of thermally treated recycled concrete aggregate for general use in concr|Elsevier (Waste Management Series)|doi_me
+61|41|en|Paper|1999-01|concrete-polymer-refractory,cross-mechanics|Very-Early-Strength Latex-Modified Concrete Overlay|SAGE (Transportation Research Record: Jo|abstra
+62|42|en|Book chapter|1994|cross-mix|Certification system for aggregates produced from building waste and demolished buildings|Elsevier (Studies in Environmental Scien|doi_me
+63|43|en|Paper|1974-07-01|concrete-structural|ULTIMATE LOAD TEST OF A SEGMENTALLY CONSTRUCTED PRESTRESSED CONCRETE I-BEAM|Precast/Prestressed Concrete Institute (|abstra
+64|44|en|Book chapter|1993-01-01|concrete-polymer-refractory|Twenty-Year Performance of Latex-Modified Concrete Overlays|ASTM International (Polymer-Modified Hyd|abstra
+65|46|en|Paper|1992|cross-chemistry|Preliminary Analysis of the Masonry of the Hagia Sophia Basilica, Istanbul|Springer (MRS Proceedings)|abstra
+66|47|en|Paper|1997-01|concrete-fibers,concrete-structural|Investigation of Fiber-Reinforced Concrete for Use in Transportation Structures|SAGE (Transportation Research Record: Jo|abstra
+67|48|en|Paper|1990|concrete-polymer-refractory,cross-mechanics,cross-tests-codes|Test Method for Measuring the Bond Strength of Latex-Modified Concrete and Mortar|American Concrete Institute (ACI Materia|abstra
+68|49|en|Book chapter|1994|cross-durability|Use of demoliton concrete to produce durable structural concrete|Elsevier (Studies in Environmental Scien|doi_me
+69|50|en|Book chapter|1993-10-07|concrete-circular,cross-mix|Modifying the performance of concrete made with coarse and fine recycled concrete aggregates|CRC Press (Demolition and Reuse of Concr|abstra
+70|51|en|Book chapter|1993-10-07|cross-chemistry|Guidelines and the present state of the reuse of demolished concrete in Japan|CRC Press (Demolition and Reuse of Concr|abstra
+71|52|en|Paper|1984|cross-chemistry|A Study on the Effect of Temperature Variations on the Bonding of Concrete Overlays|American Concrete Institute (ACI Journal|abstra
+72|53|en|Paper|1987|scm-silica|Laboratory Investigation of Concrete Containing Silica Fume for Use in Concrete|American Concrete Institute (ACI Materia|abstra
+73|54|en|Paper|1998-01|concrete-hpc,cross-mechanics|Shrinkage of High-Performance Concrete Overlays on Route 60 in Virginia|SAGE (Transportation Research Record: Jo|abstra
+74|57|en|Book chapter|1999-12-23|concrete-circular|New Technology for the Recycling of Concrete – Japanese Experience|CRC Press (Concrete Technology for a Sus|abstra
+75|58|en|Book chapter|1992-01-01|concrete-structural|Performance of Rehabilitated/Protected Concrete Bridge Decks|ASTM International (Corrosion Forms and |abstra
+76|59|en|Book chapter|1977-01-01|concrete-polymer-refractory,concrete-structural|Polymer-Modified Concretes in Bridge Deck Overlay Systems|ASTM International (Chloride Corrosion o|abstra
+77|60|en|Report|1972|concrete-structural|Nonmetallic coatings for concrete reinforcing bars: quarterly progress report no. 1 September 17 to December 3|National Bureau of Standards|doi_me
+78|62|en|Paper|1998-01|scm-silica,concrete-structural|Field and Laboratory Evaluation of Silica Fume Modified Concrete Bridge Deck Overlays in Ohio|SAGE (Transportation Research Record: Jo|abstra
+79|70|en|Paper|1995-12-01|concrete-pavement-pervious,concrete-polymer-refractory|A Latex-Modified Concrete Overlay on Plain-Jointed Concrete Pavement|ASTM International (Cement, Concrete, an|abstra
+80|72|en|Paper|1970-12|concrete-structural|Reinforced Concrete Response to Simulated Earthquakes|ASCE (Journal of the Structural Division|abstra
+81|73|en|Book|1975-10|concrete-pavement-pervious|Principles of Pavement Design|Wiley|abstra
+82|75|en|Paper|1951|concrete-structural,cross-tests-codes|Soniscope Tests Concrete Structures|American Concrete Institute (ACI Journal|abstra
+83|76|en|Paper|1983-10|concrete-structural|Temperature Variations in Concrete Bridges|ASCE (Journal of Structural Engineering)|abstra
+84|78|en|Paper|1985-01|cross-durability|Errors in the electrochemical evaluation of very small corrosion rates—I. polarization resistance method appli|Elsevier (Corrosion Science)|doi_me
+85|79|en|Paper|1987-04|cross-chemistry|Concrete‐to‐Concrete Friction|ASCE (Journal of Structural Engineering)|abstra
+86|80|en|Paper|2007-02|binder-portland,cross-chemistry|The AFm phase in Portland cement|Elsevier (Cement and Concrete Research)|doi_me
+87|81|en|Paper|2002-10|cross-mix|Three-dimensional mathematical analysis of particle shape using X-ray tomography and spherical harmonics: Appl|Elsevier (Cement and Concrete Research)|doi_me
+88|82|en|Paper|2010-04-30|concrete-circular,cross-mix|Recycled Concrete as Aggregate for Structural Concrete Production|MDPI (Sustainability)|abstra
+89|83|en|Paper|2010-05|concrete-circular,cross-chemistry,cross-mix|Effect and mechanism of surface-coating pozzalanics materials around aggregate on properties and ITZ microstru|Elsevier (Construction and Building Mate|doi_me
+90|84|en|Paper|2008-02|concrete-structural|Effect of corner radius on the performance of CFRP-confined square concrete columns: Test|Elsevier (Engineering Structures)|doi_me
+91|85|en|Paper|2006-10|cross-mechanics|Residual stress–strain relationship for concrete after exposure to high temperatures|Elsevier (Cement and Concrete Research)|doi_me
+92|86|en|Paper|1999-10|binder-portland|Effects of cement particle size distribution on performance properties of Portland cement-based materials|Elsevier (Cement and Concrete Research)|doi_me
+93|87|en|Paper|2008-02|concrete-structural,cross-mechanics|FRP Retrofit of Low and Medium Strength Circular and Rectangular Reinforced Concrete Columns|ASCE (Journal of Materials in Civil Engi|abstra
+94|88|en|Paper|1997-05|concrete-structural|Stress-Strain Model for Confined Reinforced Concrete in Bridge Piers|ASCE (Journal of Structural Engineering)|abstra
+95|89|en|Paper|2011-03|scm-flyash,binder-activated,cross-mechanics|High-Strength Geopolymer Using Fine High-Calcium Fly Ash|ASCE (Journal of Materials in Civil Engi|abstra
+96|90|en|Paper|2010-08-25|binder-activated|Effect of Alumina Release Rate on the Mechanism of Geopolymer Gel Formation|American Chemical Society (ACS) (Chemist|abstra
+97|91|en|Paper|2011-05|cross-mix|Stress–strain relationship in axial compression for concrete using recycled saturated coarse aggregate|Elsevier (Construction and Building Mate|doi_me
+98|92|en|Paper|2009-05|scm-flyash,binder-portland,cross-construction|Possibility of using waste tire rubber and fly ash with Portland cement as construction materials|Elsevier (Waste Management)|doi_me
+99|93|en|Paper|2010-03|scm-flyash,binder-activated,cross-mechanics|Compressive strength and degree of reaction of biomass- and fly ash-based geopolymer|Elsevier (Construction and Building Mate|doi_me
+100|94|en|Paper|2010-11|concrete-structural|Numerical simulation of axially loaded concrete columns under transverse impact and vulnerability assessment|Elsevier (International Journal of Impac|doi_me
+101|96|en|Paper|2010-06|concrete-fibers,concrete-structural,cross-mechanics|Cohesive fracture model for functionally graded fiber reinforced concrete|Elsevier (Cement and Concrete Research)|doi_me
+102|97|en|Paper|2010-06|scm-silica,concrete-lightweight,cross-chemistry,cross-mechanics|Compressive strength, microstructure and thermal analysis of autoclaved and air cured structural lightweight c|Elsevier (Materials Science and Engineer|doi_me
+103|98|en|Paper|2011-05|cross-mechanics|High strength characteristics of cement mortar reinforced with hybrid fibres|Elsevier (Construction and Building Mate|doi_me
+104|99|en|Paper|2009-03|concrete-hpc,cross-mechanics|Short-term tensile creep and shrinkage of ultra-high performance concrete|Elsevier (Cement and Concrete Composites|doi_me
+105|100|en|Paper|2010-04|scm-flyash,binder-activated|Utilization of blended fluidized bed combustion (FBC) ash and pulverized coal combustion (PCC) fly ash in geop|Elsevier (Waste Management)|doi_me
+106|101|en|Paper|2011-01|scm-flyash,binder-activated|Utilization of fly ash blends from pulverized coal and fluidized bed combustions in geopolymeric materials|Elsevier (Cement and Concrete Composites|doi_me
+107|102|en|Paper|2025-03-26|cross-construction,cross-environment-cost|Low carbon concrete: advancements, challenges and future directions in sustainable construction|Springer (Discover Concrete and Cement)|abstra
+108|103|en|Review paper|2025-08-14|binder-activated,cross-chemistry,cross-construction,cross-environment-cost|Geopolymer Chemistry and Composition: A Comprehensive Review of Synthesis, Reaction Mechanisms, and Material P|MDPI (Materials)|abstra
+109|104|en|Paper|2026-02|concrete-circular,cross-environment-cost|Synthetic data augmentation and Integrated prediction framework for low-carbon recycled concrete: Leveraging C|Elsevier (Journal of Cleaner Production)|doi_me
+110|105|en|Paper|2009-11|concrete-circular,concrete-mass-rcc,cross-mix|Roller compacted concrete with contaminated recycled aggregates|Elsevier (Construction and Building Mate|doi_me
+111|106|en|Review paper|2025-12|concrete-circular,cross-mix,cross-construction,cross-environment-cost|Toward sustainable construction: A critical review of recycled aggregate concrete properties and future opport|Elsevier (Case Studies in Construction M|abstra
+112|107|en|Review paper|2025-03|cross-construction,cross-environment-cost|Utilization of industrial, agricultural, and construction waste in cementitious composites: A comprehensive re|Elsevier (Materials Today Sustainability|abstra
+113|108|en|Review paper|2025-04-27|concrete-structural|Structural Health Monitoring of Concrete Bridges Through Artificial Intelligence: A Narrative Review|MDPI (Applied Sciences)|abstra
+114|109|en|Paper|2010-06|cross-mechanics|Development of high strength flowable mortar with hybrid fiber|Elsevier (Construction and Building Mate|doi_me
+115|110|en|Paper|2010-04|concrete-architectural,concrete-pavement-pervious|NO photocatalytic degradation employing concrete pavement containing titanium dioxide|Elsevier (Applied Catalysis B: Environme|doi_me
+116|111|en|Paper|2009-08|concrete-architectural,cross-mix|Photocatalytic activity of titanium dioxide modified concrete materials – Influence of utilizing recycled glas|Elsevier (Journal of Environmental Manag|doi_me
+117|112|en|Paper|2015-01|concrete-architectural|Preparation of titanium dioxide nano particle modified photocatalytic self-cleaning concrete|Elsevier (Journal of Cleaner Production)|doi_me
+118|113|en|Paper|2020-08|concrete-architectural,concrete-pavement-pervious|Concrete blocks nano-modified with zinc oxide (ZnO) for photocatalytic paving: Performance comparison with tit|Elsevier (Construction and Building Mate|doi_me
+119|114|en|Paper|2010-04|concrete-architectural,concrete-pavement-pervious|Modelling and experimental study of the NOx photocatalytic degradation employing concrete pavement with titani|Elsevier (Catalysis Today)|doi_me
+120|115|en|Paper|2012-04|concrete-architectural,concrete-cellular|Photocatalytic activity of titanium dioxide nanoparticle coatings applied on autoclaved aerated concrete: Effe|Elsevier (Journal of Hazardous Materials|doi_me
+121|116|en|Paper|1978-12-31|concrete-architectural,concrete-structural|Analysis and design of a base-isolated reinforced concrete frame building|New Zealand Society for Earthquake Engin|abstra
+122|117|en|Paper|1912-04-01|concrete-architectural|Methods of Determining the Date of Roman Concrete Monuments|University of Chicago Press (American Jo|doi_me
+123|118|en|Paper|2011-07|concrete-architectural,concrete-pavement-pervious|Laboratory Investigation of the Effect of Mixed Nitrogen Dioxide and Nitrogen Oxide Gases on Titanium Dioxide |ASCE (Journal of Materials in Civil Engi|abstra
+124|119|en|Paper|2012-01|concrete-architectural,concrete-pavement-pervious|Quantification of Reduction of Nitrogen Oxides by Nitrate Accumulation on Titanium Dioxide Photocatalytic Conc|SAGE (Transportation Research Record: Jo|abstra
+125|120|en|Paper|2014-06|concrete-circular,cross-mix|Properties of recycled aggregate concrete made with recycled aggregates with different amounts of old adhered |Elsevier (Materials & Design)|doi_me
+126|121|en|Paper|2012-04|concrete-circular,cross-mix,cross-construction,cross-mechanics,cross-durability|Strength and durability of recycled aggregate concrete containing milled glass as partial replacement for ceme|Elsevier (Construction and Building Mate|doi_me
+127|122|en|Paper|2013-01|concrete-circular,cross-mix,cross-durability|Influence of silane-based water repellent on the durability properties of recycled aggregate concrete|Elsevier (Cement and Concrete Composites|doi_me
+128|123|en|Paper|2017-11|concrete-circular,cross-mix,cross-durability|Durability of recycled aggregate concrete prepared with carbonated recycled concrete aggregates|Elsevier (Cement and Concrete Composites|doi_me
+129|124|en|Paper|2019-11|concrete-circular,cross-mix,cross-construction|Use of recycled aggregates arising from construction and demolition waste in new construction applications|Elsevier (Journal of Cleaner Production)|doi_me
+130|125|en|Paper|2017-11|concrete-circular,cross-mix,cross-mechanics,cross-durability|Structural concrete with simultaneous incorporation of fine and coarse recycled concrete aggregates: Mechanica|Elsevier (Construction and Building Mate|doi_me
+131|126|en|Review paper|2016-03|concrete-circular,cross-mix,cross-construction|Use of recycled aggregates from construction and demolition waste in geotechnical applications: A literature r|Elsevier (Waste Management)|doi_me
+132|127|en|Paper|2013-12|concrete-circular,cross-mix,cross-construction|Recycled construction and demolition concrete waste as aggregate for structural concrete|Taylor & Francis (HBRC Journal)|abstra
+133|128|en|Paper|2018-02|concrete-circular,cross-mix,cross-mechanics,cross-durability|Mechanical and Durability Properties of Recycled Aggregate Concrete: Effect of Recycled Aggregate Properties a|ASCE (Journal of Materials in Civil Engi|abstra
+134|129|en|Paper|2007-01-30|concrete-circular,cross-mix,cross-durability|Assessment of durability of recycled aggregate concrete produced by two-stage mixing approach|Springer (Journal of Materials Science)|doi_me
+135|130|en|Paper|2006-10|concrete-pavement-pervious,binder-portland|Permeability predictions for sand-clogged Portland cement pervious concrete pavement systems|Elsevier (Journal of Environmental Manag|doi_me
+136|131|en|Paper|1948-01|concrete-pavement-pervious|New Formulas for Stresses in Concrete Pavements of Airfields|ASCE (Transactions of the American Socie|abstra
+137|132|en|Review paper|2020-11|concrete-pavement-pervious,cross-environment-cost|A review of sustainable pervious concrete systems: Emphasis on clogging, material characterization, and enviro|Elsevier (Construction and Building Mate|doi_me
+138|133|en|Paper|2010-05|concrete-pavement-pervious,cross-mix,cross-durability|Effect of Coarse Aggregate on the Freeze-Thaw Durability of Pervious Concrete|ASCE (Journal of Materials in Civil Engi|abstra
+139|134|en|Paper|2008-02-01|concrete-pavement-pervious,cross-mix,cross-durability|Pervious Concrete Mixture Proportions for Improved Freeze-Thaw Durability|ASTM International (Journal of ASTM Inte|abstra
+140|135|en|Paper|2012-01|concrete-pavement-pervious|Infiltration and Clogging by Sand and Clay in a Pervious Concrete Pavement System|ASCE (Journal of Hydrologic Engineering)|abstra
+141|136|en|Paper|2016-08|concrete-pavement-pervious,binder-portland,cross-durability|Experimental investigation on freeze–thaw durability of Portland cement pervious concrete (PCPC)|Elsevier (Construction and Building Mate|doi_me
+142|137|en|Paper|2019-07|concrete-pavement-pervious|Experimental investigation on the effect of pore characteristics on clogging risk of pervious concrete based o|Elsevier (Construction and Building Mate|doi_me
+143|138|en|Paper|2018-07-25|concrete-pavement-pervious,cross-mix,cross-mechanics,cross-durability|Strength, Permeability, and Freeze-Thaw Durability of Pervious Concrete with Different Aggregate Sizes, Porosi|MDPI (Applied Sciences)|abstra
+144|139|en|Paper|2010-01|concrete-pavement-pervious|Potential for Clay Clogging of Pervious Concrete under Extreme Conditions|ASCE (Journal of Hydrologic Engineering)|abstra
+145|140|en|Paper|2018-01|concrete-precast-insitu-print,cross-construction|Fresh and hardened properties of 3D printable cementitious materials for building and construction|Springer (Archives of Civil and Mechanic|doi_me
+146|141|en|Review paper|2021-07-07|concrete-precast-insitu-print,cross-chemistry,cross-mix,cross-mechanics,cross-durability|3D Concrete Printing: A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durabilit|MDPI (Materials)|abstra
+147|142|en|Review paper|2019-05|concrete-precast-insitu-print|A systematical review of 3D printable cementitious materials|Elsevier (Construction and Building Mate|doi_me
+148|143|en|Review paper|2020-11|concrete-precast-insitu-print,cross-mix,cross-environment-cost|3D printed concrete for large-scale buildings: An overview of rheology, printing parameters, chemical admixtur|Elsevier (Journal of Building Engineerin|doi_me
+149|144|en|Paper|2021-01|concrete-precast-insitu-print,cross-mix,cross-construction|Rheological and pumping behaviour of 3D printable cementitious materials with varying aggregate content|Elsevier (Cement and Concrete Research)|doi_me
+150|145|en|Paper|2018-01|concrete-precast-insitu-print,concrete-structural|Seismic experimental study on a precast concrete beam-column connection with grout sleeves|Elsevier (Engineering Structures)|doi_me
+151|146|en|Book|2008-02|concrete-precast-insitu-print|fib Bulletin 43. Structural connections for precast concrete buildings|fib. The International Federation for St|abstra
+152|147|en|Paper|2012-01-01|concrete-precast-insitu-print|Seismic performance and retrofit of precast concrete grouted sleeve connections|Precast/Prestressed Concrete Institute (|abstra
+153|148|en|Paper|2021-05|concrete-precast-insitu-print|Investigation of interlayer adhesion of 3D printable cementitious material from the aspect of printing process|Elsevier (Cement and Concrete Research)|doi_me
+154|149|en|Paper|2019-01|concrete-precast-insitu-print|Experimental investigation of a precast concrete connection with all-steel bamboo-shaped energy dissipaters|Elsevier (Engineering Structures)|doi_me
+155|150|en|Paper|2011-08|concrete-repair-grout-overlay,cross-mechanics|Quantification of crack-healing in novel bacteria-based self-healing concrete|Elsevier (Cement and Concrete Composites|doi_me
+156|151|en|Paper|2016-01|concrete-repair-grout-overlay,cross-mechanics|Crack healing in concrete using various bio influenced self-healing techniques|Elsevier (Construction and Building Mate|doi_me
+157|152|en|Paper|2015-07|concrete-repair-grout-overlay,cross-mechanics|Factors affecting crack repairing capacity of bacteria-based self-healing concrete|Elsevier (Construction and Building Mate|doi_me
+158|153|en|Paper|2016-09|concrete-repair-grout-overlay,cross-mechanics|Bacteria-based self-healing concrete to increase liquid tightness of cracks|Elsevier (Construction and Building Mate|doi_me
+159|154|en|Paper|2018-04|concrete-repair-grout-overlay,cross-mechanics|Self-healing of concrete cracks by use of bacteria-containing low alkali cementitious material|Elsevier (Construction and Building Mate|doi_me
+160|155|en|Paper|2015-10-13|concrete-repair-grout-overlay,cross-mechanics|Application of modified-alginate encapsulated carbonate producing bacteria in concrete: a promising strategy f|Frontiers (Frontiers in Microbiology)|abstra
+161|156|en|Paper|2022-06|concrete-repair-grout-overlay,concrete-circular,cross-mix,cross-mechanics|Use of recycled concrete aggregates as carriers for self-healing of concrete cracks by bacteria with high urea|Elsevier (Construction and Building Mate|doi_me
+162|157|en|Paper|2019-12|concrete-repair-grout-overlay,cross-mechanics|Coupled effect of PP fiber, PVA fiber and bacteria on self-healing efficiency of early-age cracks in concrete|Elsevier (Construction and Building Mate|doi_me
+163|158|en|Paper|2006|concrete-repair-grout-overlay,cross-mechanics|Development of Self-Healing System for Concrete with Selective Heating around Crack|Japan Concrete Institute (Journal of Adv|abstra
+164|159|en|Review paper|2023-05|concrete-repair-grout-overlay,cross-mechanics,cross-environment-cost|State-of-art review of bacteria-based self-healing concrete: Biomineralization process, crack healing, and mec|Elsevier (Construction and Building Mate|doi_me
+165|160|en|Paper|2026-11-25|concrete-structural|Data envelopment analysis of reinforced concrete structures|Springer (Central European Journal of Op|doi_me
+166|161|en|Paper|2026-11-25|concrete-heavyweight|Monte Carlo and Machine Learning Analysis of Multidirectional Neutron Shielding in Layered Concrete Accelerato|Suleyman Demirel Universitesi Fen Edebiy|abstra
+167|162|en|Paper|2026-11-25|concrete-structural,cross-mechanics|Effect of Concrete Compressive Strength Class on the Contact-Detonation Response of Hollow-Core Reinforced Con|Beytek Yazılım Elektronik İnşaat ve Tica|abstra
+168|163|en|Paper|2026-11-25|binder-activated,concrete-polymer-refractory,cross-environment-cost|From Decoding the Mechanisms to Performance: Pathways to Sustainable Geopolymer Concrete|Springer (Iranian Journal of Science and|doi_me
+169|164|en|Book chapter|2026|cross-chemistry|Carbon-Negative Concrete: Carbon Capture, Utilization, And Storage (CCUS)|Technical Press|abstra
+170|165|en|Paper|2026-11-25|cross-mechanics|Experimental Assessment of the Effect of Different Water Sources on the Strength of Ordinary Concrete|Medical Research Center (AlQalam Journal|abstra
+171|166|en|Paper|2026-11-25|concrete-structural|A multiscale spatial modeling framework for concrete bridge deck condition assessment|Emerald (Construction Innovation)|abstra
+172|167|en|Paper|2026-11-25|cross-mechanics|Strength Evolution and Promotion for Ultra-Early-Age Concrete Under Low Temperature|MDPI (Materials)|abstra
+173|168|en|Paper|2027-02|cross-durability,cross-tests-codes|Novel test methods for assessing residual expansion of alkali-silica reaction-affected concrete|Elsevier (Cement and Concrete Research)|abstra
+174|169|en|Paper|2026-11-25|concrete-lightweight,cross-mechanics|Comparative Performance Analysis of Lightweight and Deep CNN Models for Concrete Crack Detection|The Institution of Engineers, Malaysia (|abstra
+175|170|en|Paper|2026-11-25|cross-chemistry,cross-mechanics,cross-environment-cost|Effects of low-carbon corn cob ash on the compressive strength and pore solution of concrete|Springer (Discover Concrete and Cement)|abstra
+176|171|en|Paper|2026-11-26|scm-emerging,cross-mechanics,cross-environment-cost|Mechanistic optimisation of biochar-modified concrete for simultaneous carbon dioxide reduction and strength e|Emerald (Magazine of Concrete Research)|abstra
+177|172|en|Preprint|2026|concrete-circular,concrete-pavement-pervious,scm-emerging,cross-mix,cross-durability,cross-environment-cost|Performance and Durability of Sustainable Rigid Pavements Incorporating Recycled Concrete Aggregate and Rice H|Zenodo|abstra
+178|173|en|Paper|2026-11-25|scm-slag,scm-silica,cross-construction,cross-mechanics,cross-environment-cost|Membrane, Air, and Water Curing of GGBS and Microsilica Concrete: Age-Dependent Strength Penalty and Carbon Co|MDPI (Coatings)|abstra
+179|174|en|Review paper|2026-11-25|binder-activated,cross-chemistry,cross-durability,cross-environment-cost|Alkali-Activated Concrete: A Critical Review of Chemistry, Engineering Properties, Durability and Sustainabili|Sciencedomain International (Advances in|abstra
+180|175|en|Paper|2026-11-25|concrete-lightweight,concrete-cellular|Dimensional stability of lightweight foamed concrete incorporated with different volume fractions of treated k|The Institution of Engineers, Malaysia (|abstra
+181|176|en|Paper|2026-11-25|concrete-pavement-pervious,cross-environment-cost|Techno-economic and environmental impact analysis of cassava peel ash-blended pervious concrete|Springer (Discover Concrete and Cement)|abstra
+182|178|en|Paper|2026-11-25|concrete-structural|Influence of load dispersion geometry on the structural analysis and design of reinforced concrete deck slab b|Springer (Discover Civil Engineering)|abstra
+183|179|en|Paper|2026-11-25|concrete-hpc,concrete-heavyweight|Innovative development of a multifunctional fibrous ultra-high-performance concrete (UHPC) incorporating heavy|Springer (Scientific Reports)|abstra
+184|180|en|Paper|2027-01|concrete-structural,cross-mechanics|Locate-then-measure workflow for automated candidate-site crack-width estimation in concrete bridge decks|Elsevier (Automation in Construction)|doi_me
+185|182|en|Paper|2026-11-25|concrete-structural,cross-mechanics|Experimental and Finite Element Investigations of Reinforced Concrete Beams Shear-Strengthened with Externally|MDPI (Designs)|abstra
+186|183|en|Paper|2027-05-01|scm-emerging,cross-mechanics,cross-durability,cross-environment-cost|Nano–Palm Oil Fuel Ash as a Sustainable Supplementary Cementitious Material: Effects on the Mechanical and Dur|ASCE (Journal of Structural Design and C|abstra
+187|184|en|Paper|2027-01|scm-slag,scm-silica,concrete-pavement-pervious,cross-mechanics|Mechanical, hydraulic and abrasion performance of pervious concrete incorporating blast furnace slag, microsil|Elsevier (Next Materials)|abstra
+188|185|en|Paper|2026-11-25|cross-chemistry,cross-environment-cost|Sustainable cement production via a liquid-phase pathway|Springer (Nature)|doi_me
+189|186|en|Paper|2026-12|scm-emerging,cross-chemistry|Preparation and hydration of low-temperature calcined ye’elimite-ferrite-ternesite cement by using red mud|Elsevier (Construction and Building Mate|doi_me
+190|187|en|Paper|2026-11-25|cross-mechanics|Natural Wax–Engineered Rutile TiO 2 Nanoparticles for Water‐Resistant Cement Composites|Wiley (ChemistrySelect)|abstra
+191|189|en|Paper|2026-11-25|cross-durability|A novel strategy for inhibiting water freezing within cement matrix to enhance the frost resistance using micr|Springer (Advanced Composites and Hybrid|abstra
+192|190|en|Paper|2026-11-25|cross-chemistry,cross-mechanics|Evaluation of phase change materials for thermal regulation in oilwell cement slurries: thermal and mechanical|Taylor & Francis (Journal of Sustainable|abstra
+193|193|en|Paper|2026-11-26|scm-slag,binder-magnesium-carbonatable,scm-emerging,cross-construction,cross-durability,cross-environment-cost|Life-cycle assessment of carbonation-cured steel slag–cement composites: environmental benefits and pathways t|Emerald (Magazine of Concrete Research)|abstra
+194|194|en|Paper|2026-12|cross-chemistry,cross-mix,cross-durability|Improving the flowability of supersulfated cement with polycarboxylate superplasticizer and sodium gluconate: |Elsevier (Construction and Building Mate|doi_me
+195|195|en|Paper|2026-11-25|cross-chemistry|Chitosan-mediated reduced graphene oxide dispersion in cement composites: a comparative study with predictive |Springer (Chemical Papers)|doi_me
+196|196|en|Paper|2026|scm-flyash,scm-emerging,cross-mix,cross-mechanics|Compressive Strength Optimisation of Lateritic Concrete Incorporating Fly Ash and Rice Husk Ash Using a Scheff|RSIS International (International Journa|abstra
+197|197|en|Paper|2026-11-25|scm-slag,scm-emerging|Energy-Efficient Mortar with Addition of Ash and Slag From Municipal Waste Incineration|University of Zielona Góra, Poland (Civi|abstra
+198|198|en|Paper|2026-11-25|binder-specialty|Laboratory performance and exploratory stress analysis of an anti-washout rapid-setting cementitious grout und|Frontiers (Frontiers in Materials)|abstra
+199|199|en|Paper|2026-11-16|scm-clay,concrete-circular,cross-mix,cross-durability|Statistical assessment of durability properties of metakaolin-recycled aggregate concrete|Emerald (Proceedings of the Institution |abstra
+200|200|en|Paper|2014-08|dot,concrete-pavement-pervious|Characterizing the Permeability of Kansas Concrete Mixes Used in PCC Pavements|ASCE (International Journal of Geomechan|abstra
+201|204|en|Paper|2002-01|dot,concrete-pavement-pervious,binder-portland|Factors Affecting Rapid Roughness Progression on Portland Cement Concrete Pavements in Kansas|SAGE (Transportation Research Record: Jo|abstra
+202|210|en|Review paper|2020-10|durability,cross-durability,cross-environment-cost|A review on the deterioration and approaches to enhance the durability of concrete in the marine environment|Elsevier (Cement and Concrete Composites|doi_me
+203|211|en|Paper|2011-04|durability,cross-durability|Chloride induced reinforcement corrosion: Electrochemical monitoring of initiation stage and chloride threshol|Elsevier (Corrosion Science)|doi_me
+204|212|en|Paper|2011-11|durability,cross-mechanics,cross-durability|Mechanical and durability properties of concrete made with dredged marine sand|Elsevier (Construction and Building Mate|doi_me
+205|213|en|Paper|2005-08|durability,cross-mix,cross-durability|Using limestone aggregates and different cements for enhancing resistance of concrete to sulphuric acid attack|Elsevier (Cement and Concrete Research)|doi_me
+206|214|en|Paper|2015-02|durability,cross-durability|An experimental investigation on the erosion resistance of concrete containing various PET particles percentag|Elsevier (Construction and Building Mate|abstra
+207|215|en|Paper|2013-06|durability,scm-flyash,binder-activated,cross-durability,cross-environment-cost|Durability of Fly Ash–Based Geopolymer Structural Concrete in the Marine Environment|ASCE (Journal of Materials in Civil Engi|abstra
+208|216|en|Paper|2024-04|durability,scm-flyash,scm-slag,scm-silica,binder-activated,concrete-circular|Durability assessment of fly ash, GGBS, and silica fume based geopolymer concrete with recycled aggregates aga|Elsevier (Journal of Building Engineerin|doi_me
+209|217|en|Paper|2013-11|durability,cross-durability|Degradation modelling of concrete submitted to sulfuric acid attack|Elsevier (Cement and Concrete Research)|doi_me
+210|218|en|Paper|2012-01|durability,scm-slag,cross-durability|Investigation of the influence of blast-furnace slag on the resistance of concrete against organic acid or sul|Elsevier (Cement and Concrete Research)|doi_me
+211|219|en|Paper|2022-05|durability,binder-activated,cross-durability|Coating performance, durability and anti-corrosion mechanism of organic modified geopolymer composite for mari|Elsevier (Cement and Concrete Composites|doi_me
+212|220|en|Paper|2012-01|fresh|The origins of thixotropy of fresh cement pastes|Elsevier (Cement and Concrete Research)|doi_me
+213|221|en|Paper|2018-09|fresh,cross-mix|Enhancing thixotropy of fresh cement pastes with nanoclay in presence of polycarboxylate ether superplasticize|Elsevier (Cement and Concrete Research)|doi_me
+214|222|en|Paper|2008-10|fresh,scm-slag|Monitoring the setting of concrete containing blast-furnace slag by measuring the ultrasonic p-wave velocity|Elsevier (Cement and Concrete Research)|doi_me
+215|223|en|Paper|2004-04|fresh,concrete-hpc|Ultrasonic in-situ monitoring of setting process of high-performance concrete|Elsevier (Cement and Concrete Research)|doi_me
+216|224|en|Paper|2018-05|fresh,cross-mix|Effect of polycarboxylate ether superplasticizer (PCE) on dynamic yield stress, thixotropy and flocculation st|Elsevier (Cement and Concrete Research)|doi_me
+217|225|en|Paper|2020-07|fresh,cross-mix|Effect of mineral admixtures on flow properties of fresh cemented paste backfill: Assessment of time dependenc|Elsevier (Powder Technology)|doi_me
+218|226|en|Paper|2020-08|fresh,cross-mechanics,cross-tests-codes|Setting time and compressive strength prediction model of concrete by nondestructive ultrasonic pulse velocity|Elsevier (Construction and Building Mate|doi_me
+219|227|en|Paper|2014-12|fresh|Monitoring setting and hardening process of mortar and concrete using ultrasonic shear waves|Elsevier (Construction and Building Mate|doi_me
+220|228|en|Paper|2015-09|fresh,concrete-scc,concrete-hpc,cross-mix|Rheological properties and the air content in fresh concrete for self compacting high performance concrete|Elsevier (Construction and Building Mate|doi_me
+221|229|en|Paper|2018-10|fresh,scm-natural,cross-mechanics|Influence of ground pumice on compressive strength and air content of both non-air and air entrained concrete |Elsevier (Construction and Building Mate|doi_me
+222|230|de|Paper|2022|concrete-circular,concrete-precast-insitu-print|Fertigteile aus Recyclingbeton – Ergebnisse des Forschungsprojektes SeRaMCo/Precast Elements with Recycled Con|VDI Media GmbH (Bauingenieur)|abstra
+223|231|de|Paper|2024-10-10|concrete-circular|Dauerhafte und nachhaltige Brückenkappen aus nichtmetallischer Bewehrung und Recyclingbeton|Wiley (Beton- und Stahlbetonbau)|abstra
+224|232|de|Paper|2018-05-16|concrete-circular|Kreishaus Ludwigsburg – Neue Wege beim Einsatz von Recyclingbeton|Wiley (Beton- und Stahlbetonbau)|abstra
+225|234|de|Paper|2010-12|concrete-circular,cross-tests-codes|Korrosionsbeständigkeit eines nichtrostenden Chromstahls in karbonatisiertem Normal‐, Leicht‐ und Recyclingbet|Wiley (Beton- und Stahlbetonbau)|abstra
+226|237|es|Paper|2019-10|concrete-circular|Análisis Técnico, Económico y Medioambiental de la Fabricación de Bloques de Hormigón con Polietileno Tereftal|SciELO Agencia Nacional de Investigacion|abstra
+227|239|es|Paper|2015-12|concrete-pavement-pervious,concrete-circular|Efecto del uso de materiales reciclados y métodos de compactación en las propiedades mecánicas e índice de ref|Pontificia Universidad Catolica de Chile|abstra
+228|240|es|Paper|2011-12|concrete-circular|Propiedades del hormigón de árido reciclado fabricado con adiciones, activa e inerte|Pontificia Universidad Catolica de Chile|abstra
+229|241|es|Paper|2007|concrete-circular|Propiedades Físicas y Mecánicas de Bloques de Hormigón Compuestos con Áridos Reciclados|SciELO Agencia Nacional de Investigacion|abstra
+230|242|fr|Thesis|2015-12-10|concrete-circular|Etude du retrait plastique des bétons à base de granulats recyclés avec mesure de l'influence de leur degré de|Agence Bibliographique de l'Enseignement|abstra
+231|244|fr|Thesis|2018-12-07|concrete-circular|Maîtrise de l’eau efficace dans les bétons de granulats recyclés|Agence Bibliographique de l'Enseignement|abstra
+232|245|fr|Thesis|2016-05-04|concrete-circular,cross-mix|Valorisation de fines et granulats issus de bétons recyclés comme matériaux cimentaires : Enhancement of fine |Agence Bibliographique de l'Enseignement|abstra
+233|246|fr|Thesis|2018-11-14|cross-durability|Caractérisation expérimentale et modélisation multi-échelle des propriétés mécaniques et de durabilité des bét|Agence Bibliographique de l'Enseignement|abstra
+234|248|id|Paper|2019-03-29|cross-mechanics|Kuat Tekan dan Porositas Beton Porous dengan Bahan Pengisi Styrofoam|Maranatha Christian University (Jurnal T|abstra
+235|249|id|Paper|2022-06-27|cross-mechanics|PENGARUH VARIASI AGREGAT KASAR PENYUSUN BETON POROUS TERHADAP KUAT TEKAN DAN POROSITAS BETON|UKI Press (Jurnal Rekayasa Teknik Sipil |abstra
+236|250|id|Paper|2020-04-05|concrete-lightweight|HUBUNGAN KARAKTERISTIK BETON POROUS DENGAN VARIASI KOMPOSISI AGREGAT KASAR|Universitas Trisakti (Prosiding Seminar |abstra
+237|251|id|Paper|2021-05-13|concrete-lightweight|VARIASI PENAMBAHAN SIKACIM PADA BETON POROUS|Universitas Warmadewa (PADURAKSA: Jurnal|abstra
+238|252|id|Paper|2022-05-23|concrete-pavement-pervious|Desain Beton Berongga (Porous Concrete) Dengan Variasi Faktor Air Semen (FAS) Sebagai Beton Ramah Lingkungan|Universitas Dayanu Ikhsanuddin (Jurnal M|abstra
+239|253|id|Paper|2021-09-30|concrete-circular,cross-mix|Pemanfaatan Recycled Concrete Aggregate Pada Beton Porous|Universitas Katolik Santo Thomas (Jurnal|abstra
+240|260|ko|Paper|2007-04-30|concrete-structural|Analytical Evaluations of the Retrofit Performances of Concrete Wall Structures Subjected to Blast Load|Korea Concrete Institute (Journal of the|abstra
+241|262|ko|Paper|2017-06-20|concrete-circular|Recycling Waste Paste from Concrete for Solidifying Agent|The Korean Institute of Building Constru|abstra
+242|263|ko|Paper|2013-12-30|concrete-lightweight,concrete-circular|Concrete Degradation Comparison of Computer Programs for Post-Closure Safety Assessment of Wolsong Low-and Int|The Korean Radioactive Waste Society (Jo|abstra
+243|264|ko|Paper|2013-06-30|cross-durability,cross-environment-cost|A Case Study on CO2Uptake of Concrete owing to Carbonation|Korean Recycled Constructions Resource I|abstra
+244|265|ko|Paper|2012-04-27|concrete-structural|A Study on the Concrete Breakout Capacity of CIP Anchor Bolts under Shear Loading|Korean Society of Steel Construction (Jo|abstra
+245|266|pl|Paper|2017-08-05|concrete-structural,concrete-pavement-pervious|Charakterystyka warunków termicznych w układzie nawierzchnia asfaltowa - beton obiektu mostowego|Wydawnictwo SIGMA-NOT, sp. z.o.o. (MATER|abstra
+246|268|pt|Thesis|2003-05-12|concrete-circular|Concreto com agregados graúdos reciclados de concreto : influência da idade de reciclagem nas propriedades dos|Universidade de São Paulo. Agência de Bi|abstra
+247|270|pt|Paper|2009-12|concrete-circular|Desempenho de concretos com agregados reciclados de cerâmica vermelha|SciELO (Cerâmica)|abstra
+248|272|pt|Thesis|2007-06-13|concrete-circular,concrete-structural|Uso de agregados reciclados de concreto em blocos de alvenaria estrutural|Universidade de São Paulo. Agência de Bi|abstra
+249|273|pt|Paper|2015-09|concrete-circular|Obtenção de concreto leve utilizando agregados reciclados|SciELO (Ambiente Construído)|abstra
+250|275|en|Paper|2012-12|pavement,concrete-fibers,concrete-pavement-pervious,cross-mechanics|Fatigue resistance and cracking mechanism of concrete pavements reinforced with recycled steel fibres recovere|Elsevier (Engineering Structures)|doi_me
+251|276|en|Paper|2020-12|pavement,concrete-pavement-pervious,cross-mechanics|Comparison of mechanical properties of concrete and design thickness of pavement with different types of fiber|Elsevier (Case Studies in Construction M|abstra
+252|277|en|Paper|2015-12|pavement,concrete-pavement-pervious,cross-mix|Optimizing pervious concrete pavement mixture design by using the Taguchi method|Elsevier (Construction and Building Mate|doi_me
+253|279|en|Paper|2020|pavement,concrete-pavement-pervious,cross-mechanics|Crack Detection of Concrete Pavement With Cross-Entropy Loss Function and Improved VGG16 Network Model|Institute of Electrical and Electronics |abstra
+254|281|en|Paper|2022-08|pavement,concrete-pavement-pervious,cross-mechanics|A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion|Institute of Electrical and Electronics |abstra
+255|282|en|Paper|2020-07|pavement,concrete-pavement-pervious,cross-mechanics|GPR laboratory tests and numerical models to characterize cracks in cement concrete specimens, exemplifying da|Elsevier (Measurement)|doi_me
+256|284|en|Paper|2023-03|pavement,concrete-pavement-pervious,cross-mechanics|A deeper generative adversarial network for grooved cement concrete pavement crack detection|Elsevier (Engineering Applications of Ar|doi_me
+257|285|en|Paper|2012-10|scm,scm-natural,cross-durability|An experimental study on durability properties of concrete containing zeolite as a highly reactive natural poz|Elsevier (Construction and Building Mate|doi_me
+258|286|en|Paper|2015-06|scm,scm-flyash,scm-slag,binder-activated,concrete-polymer-refractory,concrete-structural|Bond strength between blended slag and Class F fly ash geopolymer concrete with steel reinforcement|Elsevier (Cement and Concrete Research)|doi_me
+259|287|en|Review paper|2016-07|scm,cross-construction,cross-durability|Durability of mortar and concrete made up of pozzolans as a partial replacement of cement: A review|Elsevier (Construction and Building Mate|doi_me
+260|288|en|Paper|2019-10|scm,cross-tests-codes|New insights from reactivity testing of supplementary cementitious materials|Elsevier (Cement and Concrete Composites|doi_me
+261|289|en|Paper|2002-12|scm,scm-natural,cross-durability|Importance of using the natural pozzolans on concrete durability|Elsevier (Cement and Concrete Research)|doi_me
+262|290|en|Paper|2017-11|scm,concrete-scc,concrete-circular,scm-natural,cross-mix,cross-durability|Performance and durability of self compacting concrete using recycled concrete aggregates and natural pozzolan|Elsevier (Journal of Cleaner Production)|doi_me
+263|291|en|Standard catalogue record|2020-06-01|scm,cross-tests-codes|ASTM C1897 Standard Test Methods for Measuring the Reactivity of Supplementary Cementitious Materials by Isoth|ASTM International|abstra
+264|292|en|Review paper|2015-09|scm,binder-activated,cross-durability|Durability of mortar and concrete containing alkali-activated binder with pozzolans: A review|Elsevier (Construction and Building Mate|doi_me
+265|293|en|Paper|2021-03|scm,concrete-circular,cross-mix,cross-mechanics,cross-durability|Effect of pozzolan slurries on recycled aggregate concrete: Mechanical and durability performance|Elsevier (Construction and Building Mate|doi_me
+266|294|en|Paper|2022-12|scm,scm-silica,scm-natural,cross-mechanics,cross-durability|Effect of silica fume inclusion on the strength, shrinkage and durability characteristics of natural pozzolan-|Elsevier (Case Studies in Construction M|abstra
+267|295|en|Paper|2012-04|standards,cross-tests-codes|Use of cement in concrete according to European standard EN 206-1|Taylor & Francis (HBRC Journal)|abstra
+268|296|es|Standard|2006-11-30|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206-1: Specification for constituent materials and concrete|BSI British Standards|doi_me
+269|297|en|Paper|1934-07-01|standards,binder-portland,cross-tests-codes|Discrimination by Specification Statistically Considered and Illustrated by the Standard Specification for Por|Oxford University Press (OUP) (Journal o|abstra
+270|298|es|Standard|2015-06-10|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206: Specification for constituent materials and concrete|BSI British Standards|doi_me
+271|299|es|Standard|2015-04-30|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206: Specification for constituent materials and concrete (2|BSI British Standards|doi_me
+272|300|es|Standard|2015-06-10|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206|BSI British Standards|doi_me
+273|301|es|Standard|2006-11-30|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206-1: Method of specifying and guidance for the specifier|BSI British Standards|doi_me
+274|302|es|Standard|2015-04-30|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206: Method of specifying and guidance for the specifier|BSI British Standards|doi_me
+275|304|es|Standard|2002-02-27|standards,cross-tests-codes|Concrete. Complementary British Standard to BS EN 206-1: Specification for constituent materials and concrete |BSI British Standards|doi_me
+276|305|en|Paper|2020-01|strength,cross-mechanics|Machine learning-based compressive strength prediction for concrete: An adaptive boosting approach|Elsevier (Construction and Building Mate|doi_me
+277|306|en|Paper|2022-06|strength,cross-mechanics|A novel approach to explain the black-box nature of machine learning in compressive strength predictions of co|Elsevier (Case Studies in Construction M|abstra
+278|307|en|Paper|2018-03|strength,cross-mechanics,cross-environment-cost|Compressive strength prediction of environmentally friendly concrete using artificial neural networks|Elsevier (Journal of Building Engineerin|doi_me
+279|308|en|Paper|2008-01|strength,scm-flyash,cross-mechanics|Prediction of compressive strength of concrete containing fly ash using artificial neural networks and fuzzy l|Elsevier (Computational Materials Scienc|doi_me
+280|309|en|Paper|2013-03|strength,concrete-circular,cross-mix,cross-mechanics|Prediction of compressive strength of recycled aggregate concrete using artificial neural networks|Elsevier (Construction and Building Mate|doi_me
+281|310|en|Paper|2000-08|strength,cross-mechanics|Prediction of compressive strength of concrete by neural networks|Elsevier (Cement and Concrete Research)|doi_me
+282|311|en|Paper|2018-06|strength,concrete-circular,cross-mechanics|Compressive strength prediction of recycled concrete based on deep learning|Elsevier (Construction and Building Mate|doi_me
+283|312|en|Paper|2022-06|strength,scm-flyash,binder-activated,concrete-polymer-refractory,cross-mechanics|Compressive strength prediction of fly ash-based geopolymer concrete via advanced machine learning techniques|Elsevier (Case Studies in Construction M|abstra
+284|313|en|Paper|2019-06|strength,concrete-circular,cross-mix,cross-mechanics|Comparison of artificial neural network (ANN) and response surface methodology (RSM) prediction in compressive|Elsevier (Construction and Building Mate|doi_me
+285|314|en|Paper|2019-03-25|strength,binder-activated,concrete-polymer-refractory,cross-mechanics|Artificial Intelligence Approaches for Prediction of Compressive Strength of Geopolymer Concrete|MDPI (Materials)|abstra
+286|405|es|Paper|2024-09-14|concrete-pavement-pervious|Diseño de prototipo de hormigón permeable para áreas recreativas en la Universidad de Milagro (UNEMI)|Asociacion Latinoamericana para el Avanc|abstra
+287|406|es|Thesis|2024-05-31|concrete-pavement-pervious,cross-mechanics|Análisis del efecto de la compactación de la losa de hormigón y cantidad de finos en la base granular sobre la|Universidad de Concepcion|abstra
+288|431|tr|Paper|2018-01-01|cross-tests-codes|Beton Basınç Dayanım Testlerinde Küçük Ebatlı Küp Beton Numunelerin Yaygın Kullanımı İçin Şekil-Boyut Etkisini|Deu Muhendislik Fakultesi Fen ve Muhendi|abstra
+289|435|tr|Paper|2022-12-30|cross-mechanics,concrete-lightweight|Düşük, Orta ve Yüksek Dayanım için Karar Ağacı Algoritmasıyla Beton Karışım Tasarımı|Cukurova Universitesi Muhendislik-Mimarl|abstra
+290|436|vi|Paper|2021-03-24|cross-mechanics,concrete-lightweight|Nghiên cứu thực nghiệm ảnh hưởng của tỷ lệ sử dụng cốt liệu lớn tái chế đến sự phát triển cường độ nén và mô |Hanoi University of Civil Engineering (H|abstra
+291|437|vi|Paper|2021-11-17|concrete-lightweight|Nghiên cứu ảnh hưởng của cốt liệu tái chế từ phế thải xây dựng đến tính chất của bê tông rỗng thoát nước|Hanoi University of Civil Engineering (H|abstra
+292|438|vi|Paper|2021-04-15|concrete-circular,cross-mix,cross-mechanics|Compressive strength prediction of recycled aggregate concrete by artificial neural network|University of Transport and Communicatio|abstra
+293|439|vi|Paper|2019-09-23|concrete-lightweight|Ảnh hưởng của hạt cốt liệu nhẹ tái chế từ phế thải phá dỡ công trình xây dựng đến một số tính chất cơ lý của b|Hanoi University of Civil Engineering (H|abstra
+294|440|vi|Paper|2020-10-28|cross-mechanics,concrete-circular|Ảnh hưởng của hàm lượng cốt liệu tái chế từ gạch đất sét nung và bê tông phế thải đến tính chất cơ học của bê |University of Transport and Communicatio|abstra
+295|441|vi|Paper|2024-05-28|scm-flyash,concrete-lightweight|Nghiên cứu thực nghiệm sử dụng cốt liệu nhỏ tái chế từ khối xây gạch đỏ cho bê tông tự lèn có hàm lượng tro ba|Hanoi University of Civil Engineering (H|abstra
+296|442|vi|Paper|2024-03-25|scm-flyash,concrete-lightweight|ỨNG DỤNG GẠCH ĐỎ TÁI CHẾ LÀM CỐT LIỆU LỚN CHO BÊ TÔNG TỰ LÈN CÓ HÀM LƯỢNG TRO BAY CAO|Vietnam Institute for Building Materials|abstra
+297|443|vi|Paper|2023-04-15|concrete-circular,concrete-pavement-pervious|A research on fabrication of recycled concrete using coconut fiber as pavement material|University of Transport and Communicatio|abstra
+298|31|en|Paper|1992|cross-tests-codes|Fresh Concrete: Properties and Tests|unknown|landin
+299|39|en|Report|1985|concrete-pavement-pervious|Recycling of road pavement materials in the Netherlands|unknown|landin
+300|40|en|Paper|1998-11|concrete-circular,cross-mechanics,cross-durability|RCA Concrete: a Study of Properties in Fresh State, strength development and durability|Thomas Telford|landin
+301|65|en|Conference paper|1994|cross-tests-codes|Test for Polymer Overlay Interface on Concrete|ASCE (Infrastructure: New Materials and |landin
+302|77|en|Paper|1957|concrete-pavement-pervious|CALCULATION OF MAXIMUM PAVEMENT TEMPERATURES FROM WEATHER REPORTS|Highway Research Board Bulletin|landin
+303|201|en|Paper|1994-09|dot,concrete-pavement-pervious,cross-tests-codes|KANSAS EXPERIENCE WITH SMOOTHNESS SPECIFICATIONS FOR CONCRETE PAVEMENTS|Transportation Research Record|landin
+304|202|en|Paper|1946|dot,concrete-pavement-pervious,cross-mix|CONDITION OF CONCRETE PAVEMENTS IN KANSAS AS AFFECTED BY COARSE-AGGREGATE|Highway Research Board Proceedings|landin
+305|203|en|Report|2004-04|dot,concrete-pavement-pervious,binder-portland|MODELING THE ROUGHNESS PROGRESSION ON KANSAS PORTLAND CEMENT CONCRETE (PCC) PAVEMENTS|unknown|landin
+306|205|en|Paper|1974|dot,concrete-pavement-pervious,cross-mechanics|KANSAS CONCRETE PAVEMENT PERFORMANCE AS RELATED TO D-CRACKING|Transportation Research Record|landin
+307|206|en|Paper|2012-05-01|dot,concrete-pavement-pervious,binder-portland,cross-chemistry,cross-mechanics|D-cracking field performance of Portland cement concrete pavements containing limestone in Kansas : phase 1 re|unknown|landin
+308|207|en|Report|2007|dot,concrete-pavement-pervious,binder-portland|Kansas Experience with Drainable Portland Cement Concrete Pavements|Transportation Research Board 86th Annua|landin
+309|236|es|Paper|2007|concrete-circular|Efecto del agregado reciclado sobre las propiedades del hormigón.|Universidad Central de Venezuela (Boletí|landin
+310|247|fr|Book chapter|2018|concrete-circular|Caractérisation des granulats de béton recyclé|Ifsttar (Le béton recyclé)|landin
+311|254|ja|Paper|2005-08|concrete-structural,concrete-lightweight|SFRCによる鋼床版舗装--鋼とコンクリートの新しい関係|東京 : 建設図書 (橋梁と基礎 = Bridge and foundation|catalo
+312|255|ja|Paper|1998|concrete-lightweight|急結剤の種類および添加量が吹付けコンクリートの品質に及ぼす影響|コンクリート工学年次論文報告集|catalo
+313|256|ja|Paper|2001-06-08|concrete-lightweight|2217 X線CT法による超硬練りコンクリートの骨材分布と締固め特性(舗装・ダム)|日本コンクリート工学協会 (コンクリート工学年次論文集)|catalo
+314|257|ja|Paper|1998|concrete-lightweight|各種配合要因の変化に伴う吹付けコンクリートのフレッシュ性状及びリバウンド特性|コンクリート工学年次論文報告集|catalo
+315|258|ja|Paper|1995-06-01|concrete-lightweight|1218 高強度・高靱性吹付けコンクリートの現場施工実験(施工,舗装・ダム)|日本コンクリート工学協会 (コンクリート工学年次論文報告集)|catalo
+316|259|ja|Paper|1994-10|concrete-hpc|高性能地下連続壁のコンクリートの実大規模実証実験|調布 : 鹿島技術研究所 (鹿島技術研究所年報 = Annual report,|catalo
+317|269|pt|Paper|2004|concrete-circular|Viabilidade técnica da utilização de concretos com agregados reciclados de resíduos de construção e demolição|unknown|landin
+318|271|pt|Thesis|2013-03-27|cross-durability|Avaliação da influência da cinza de casca de arroz no comportamento de concretos com agregado reciclado de con|Universidade do Vale do Rio dos Sinos|landin
+319|283|en|Book|1938|pavement,concrete-pavement-pervious,concrete-structural|Reinforced concrete pavements|Wire Reinforcement Institute|landin
+320|401|es|Paper|2008|concrete-pavement-pervious|El hormigón permeable como alternativa sostenible|Ediciones Técnicas Pauta (Cemento Hormig|landin
+321|408|fr|Book|2004|concrete-lightweight|Évaluation économique des chaussées en béton et classiques sur le réseau routier national français|Laboratoire central des ponts et chaussé|catalo
+322|410|fr|Paper|1979-03|concrete-lightweight|HYDRAULIQUE DU POMPAGE DES CHAUSSEES EN BETON, ET ERODABILITE DES MATERIAUX DE COUCHE DE FONDATION ET DE COUCH|unknown|landin
+323|413|fr|Paper|1979-07|cross-chemistry|CHAUSSEES EN BETON - PROBLEMES POSES PAR LA PRESENCE D'EAU DANS LEUR STRUCTURE|BULL LIAISON LAB PONTS CHAUSS|landin
+324|415|fr|Paper|1977-11|concrete-lightweight|CHAUSSEES EN BETON - LES BANDES D'ARRET D'URGENCE EN BETON POREUX - ETUDE DU MATERIAU|BULL LIAISON LAB PONTS CHAUSS|landin
+325|416|it|Book|2006|concrete-lightweight,scm-emerging|Pavimentazioni industriali in calcestruzzo|ENCO|landin
+326|417|it|Book chapter|2025|concrete-lightweight|Calcestruzzo riciclato con elevate percentuali di aggregato riciclato: aspetti applicativi e casi studio|Anteferma|landin
+327|420|it|Paper|2013|concrete-lightweight|Il calcestruzzo riciclato con scorie di acciaieria|STRADE & AUTOSTRADE|landin
+328|421|it|Paper|2002|concrete-lightweight,concrete-circular|Calcestruzzo riciclato per il complesso residenziale Waldspirale di Hundertwasser|RECYCLING|landin
+329|422|ja|Paper|2000|concrete-lightweight|加熱すりもみ法によるコンクリート塊からの高品質骨材回収技術の開発|コンクリート工学年次論文集|catalo
+330|423|ja|Paper|2000|concrete-circular,cross-tests-codes|解体コンクリートからの高品質再生骨材の回収試験|コンクリート工学年次論文報告集|catalo
+331|424|ja|Paper|2003|concrete-circular|1232 新しい処理システムを用いたコンクリート廃棄物の骨材再生法(リサイクル)|東京 : 日本コンクリート工学協会 (コンクリート工学年次論文集 = Proce|catalo
+332|425|ja|Paper|2002|concrete-circular|1213 コンクリート廃棄物の骨材再生法に関する研究(リサイクル)|東京 : 日本コンクリート工学協会 (コンクリート工学年次論文集 = Proce|catalo
+333|426|ja|Paper|2006|concrete-circular|2種類の再生粗骨材コンクリートによる現場適用事例|コンクリート工学年次論文集|catalo
+334|427|ja|Paper|2004-03|concrete-circular|再生骨材コンクリート12500m3を建築躯体に本格採用《東京団地倉庫(株)平和島倉庫A-1棟建替工事》|東京 : セメント協会 (セメント・コンクリート = Cement & conc|catalo
+335|428|ja|Paper|2002|concrete-circular|1198 再生細骨材の物理的性質がコンクリート性状に及ぼす影響について(再生コンクリート)|東京 : 日本コンクリート工学協会 (コンクリート工学年次論文集 = Proce|catalo
+336|429|ja|Paper|2002|concrete-circular|1184 低品質再生骨材を用いたポーラスコンクリートの力学特性(エコ・緑化コンクリート)|東京 : 日本コンクリート工学協会 (コンクリート工学年次論文集 = Proce|catalo
+337|430|tr|Paper|2016|cross-mechanics,concrete-lightweight|Dalgacık Dönüşümü ile Beton Basınç Dayanım Tahmininin İyileştirilmesi|JOURNAL OF POLYTECHNIC-POLITEKNIK DERGIS|landin

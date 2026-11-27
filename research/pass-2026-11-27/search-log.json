@@ -1,0 +1,1576 @@
+{
+ "log": [
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "oil well cement slurry",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "cement sheath integrity wellbore",
+   "period": null,
+   "language": null,
+   "n": 12,
+   "errors": [],
+   "returned": 12
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "well cement CO2 degradation",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": [],
+   "returned": 15
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "retarder oil well cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "cement slurry gas migration",
+   "period": null,
+   "language": null,
+   "n": 17,
+   "errors": [],
+   "returned": 17
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "high temperature well cement silica",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": [],
+   "returned": 9
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "foamed cement well",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title.search",
+   "query": "cement plug abandonment",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": [],
+   "returned": 15
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "calcium sulfoaluminate cement hydration",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "rapid setting cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "expansive cement shrinkage compensating",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": [],
+   "returned": 9
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "Type K expansive cement",
+   "period": null,
+   "language": null,
+   "n": 13,
+   "errors": [],
+   "returned": 15
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "calcium aluminate cement conversion",
+   "period": null,
+   "language": null,
+   "n": 22,
+   "errors": [],
+   "returned": 22
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "belite-ye'elimite cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "magnesium phosphate cement",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "ultra-rapid hardening cement",
+   "period": null,
+   "language": null,
+   "n": 18,
+   "errors": [],
+   "returned": 18
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "Portland cement rapid repair mortar",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "Roman cement natural cement",
+   "period": null,
+   "language": null,
+   "n": 3,
+   "errors": [],
+   "returned": 3
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "Type III high early strength cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "sulfate resistant cement Type V",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "low heat Portland cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title.search",
+   "query": "ettringite expansive additive",
+   "period": null,
+   "language": null,
+   "n": 3,
+   "errors": [],
+   "returned": 3
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title.search",
+   "query": "reactive magnesia cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title.search",
+   "query": "carbonatable calcium silicate cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title.search",
+   "query": "MgO cement hydrated magnesium carbonates",
+   "period": null,
+   "language": null,
+   "n": 4,
+   "errors": [],
+   "returned": 4
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title.search",
+   "query": "magnesium silicate hydrate cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title.search",
+   "query": "CO2 mineralization cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay pozzolan",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "metakaolin concrete",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay limestone cement strength",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined kaolinite reactivity",
+   "period": null,
+   "language": null,
+   "n": 6,
+   "errors": [],
+   "returned": 6
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "calcined clay chloride resistance",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": [],
+   "returned": 15
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "activated clay pozzolana",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": [],
+   "returned": 1
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "brick powder cement replacement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title.search",
+   "query": "illite smectite calcination cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "mass concrete thermal cracking",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "mass concrete temperature control",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "RCC dam construction",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "low heat cement mass concrete",
+   "period": null,
+   "language": null,
+   "n": 10,
+   "errors": [],
+   "returned": 10
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "Hoover Dam concrete",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": [],
+   "returned": 5
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "concrete dam cooling pipe",
+   "period": null,
+   "language": null,
+   "n": 16,
+   "errors": [],
+   "returned": 16
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title.search",
+   "query": "hardfill dam",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "aerated autoclaved concrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "cellular concrete density",
+   "period": null,
+   "language": null,
+   "n": 13,
+   "errors": [],
+   "returned": 13
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "foam concrete thermal conductivity",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "foamed concrete fly ash",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "lightweight foam concrete shrinkage",
+   "period": null,
+   "language": null,
+   "n": 6,
+   "errors": [],
+   "returned": 8
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "autoclaved aerated concrete tobermorite",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": [],
+   "returned": 11
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title.search",
+   "query": "foam stability cementitious",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "neutron shielding concrete boron",
+   "period": null,
+   "language": null,
+   "n": 22,
+   "errors": [],
+   "returned": 22
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "high density concrete aggregate",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "nuclear reactor concrete shielding",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "steel slag heavyweight concrete",
+   "period": null,
+   "language": null,
+   "n": 9,
+   "errors": [],
+   "returned": 9
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title.search",
+   "query": "gamma radiation shielding cementitious",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": [],
+   "returned": 1
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "shotcrete tunnel lining",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "wet mix shotcrete",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "steel fibre reinforced shotcrete",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "sprayed concrete durability",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "shotcrete rebound",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "shotcrete early strength",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title.search",
+   "query": "gunite history",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "Portland limestone cement Type IL",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "Portland-composite cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "CEM II limestone cement",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "ternary blended cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "pozzolanic cement Type IP",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "slag cement Type IS",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "portland limestone cement sulfate",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "interground limestone cement fineness",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "ASTM C595 blended hydraulic cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "CEM IV pozzolanic cement",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title.search",
+   "query": "composite cements CEM V",
+   "period": null,
+   "language": null,
+   "n": 3,
+   "errors": [],
+   "returned": 3
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "white Portland cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "mortar cement",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "lime mortar historic",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "masonry mortar bond strength",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "white cement whiteness",
+   "period": null,
+   "language": null,
+   "n": 6,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "lime putty mortar",
+   "period": null,
+   "language": null,
+   "n": 15,
+   "errors": [],
+   "returned": 15
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title.search",
+   "query": "mortar for brick masonry",
+   "period": null,
+   "language": null,
+   "n": 21,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title.search",
+   "query": "high alumina cement",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title.search",
+   "query": "calcium aluminate cement refractory castable",
+   "period": null,
+   "language": null,
+   "n": 20,
+   "errors": [],
+   "returned": 20
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title.search",
+   "query": "CSA cement low carbon",
+   "period": null,
+   "language": null,
+   "n": 1,
+   "errors": [],
+   "returned": 1
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title.search",
+   "query": "aluminate cement hydration kinetics",
+   "period": null,
+   "language": null,
+   "n": 13,
+   "errors": [],
+   "returned": 13
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title.search",
+   "query": "sulfoaluminate belite cement concrete",
+   "period": null,
+   "language": null,
+   "n": 5,
+   "errors": [],
+   "returned": 5
+  },
+  {
+   "topic": "binder-lc3",
+   "mode": "title.search",
+   "query": "LC3 cement",
+   "period": null,
+   "language": null,
+   "n": 22,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-lc3",
+   "mode": "title.search",
+   "query": "limestone calcined clay cement durability",
+   "period": null,
+   "language": null,
+   "n": 20,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-lc3",
+   "mode": "title.search",
+   "query": "LC3 concrete field trial",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "concrete-lightweight",
+   "mode": "title.search",
+   "query": "lightweight aggregate concrete structural",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-lightweight",
+   "mode": "title.search",
+   "query": "expanded clay aggregate concrete",
+   "period": null,
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-lightweight",
+   "mode": "title.search",
+   "query": "lightweight concrete bridge",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-natural",
+   "mode": "title.search",
+   "query": "natural pozzolan concrete",
+   "period": null,
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-natural",
+   "mode": "title.search",
+   "query": "pumice pozzolan",
+   "period": null,
+   "language": null,
+   "n": 11,
+   "errors": [],
+   "returned": 11
+  },
+  {
+   "topic": "scm-natural",
+   "mode": "title.search",
+   "query": "Roman concrete pozzolan",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "binder-international",
+   "mode": "title.search",
+   "query": "Indian cement industry",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-international",
+   "mode": "title.search",
+   "query": "cement industry Africa",
+   "period": null,
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-international",
+   "mode": "title.search",
+   "query": "Chinese cement standard",
+   "period": null,
+   "language": null,
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "binder-international",
+   "mode": "title.search",
+   "query": "Brazilian Portland cement",
+   "period": null,
+   "language": null,
+   "n": 12,
+   "errors": [],
+   "returned": 12
+  },
+  {
+   "topic": "binder-international",
+   "mode": "title.search",
+   "query": "Japanese cement industry history",
+   "period": null,
+   "language": null,
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "binder-well",
+   "mode": "title_and_abstract.search",
+   "query": "cement for oil wells history",
+   "period": ":1975",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-specialty",
+   "mode": "title_and_abstract.search",
+   "query": "special cements",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-mass-rcc",
+   "mode": "title_and_abstract.search",
+   "query": "mass concrete dams",
+   "period": ":1960",
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-shotcrete",
+   "mode": "title_and_abstract.search",
+   "query": "pneumatically placed mortar",
+   "period": ":1975",
+   "language": null,
+   "n": 6,
+   "errors": [],
+   "returned": 6
+  },
+  {
+   "topic": "concrete-cellular",
+   "mode": "title_and_abstract.search",
+   "query": "aerated concrete",
+   "period": ":1975",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "concrete-heavyweight",
+   "mode": "title_and_abstract.search",
+   "query": "concrete for radiation shielding",
+   "period": ":1975",
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-white-masonry",
+   "mode": "title_and_abstract.search",
+   "query": "mortar for masonry",
+   "period": ":1960",
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "scm-clay",
+   "mode": "title_and_abstract.search",
+   "query": "pozzolanic clay",
+   "period": ":1980",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-magnesium-carbonatable",
+   "mode": "title_and_abstract.search",
+   "query": "magnesia cement",
+   "period": ":1960",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-blended",
+   "mode": "title_and_abstract.search",
+   "query": "blended cements",
+   "period": ":1970",
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "binder-cac-csa",
+   "mode": "title_and_abstract.search",
+   "query": "aluminous cement",
+   "period": ":1970",
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-de",
+   "mode": "title.search",
+   "query": "Spezialzement",
+   "period": null,
+   "language": "de",
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "lang-de",
+   "mode": "title.search",
+   "query": "Leichtbeton",
+   "period": null,
+   "language": "de",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "b\u00e9ton projet\u00e9",
+   "period": null,
+   "language": "fr",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "ciment alumineux",
+   "period": null,
+   "language": "fr",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "cemento sulfoaluminato",
+   "period": null,
+   "language": "es",
+   "n": 6,
+   "errors": [],
+   "returned": 6
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "hormig\u00f3n celular",
+   "period": null,
+   "language": "es",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "concreto massa",
+   "period": null,
+   "language": "pt",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-pt",
+   "mode": "title.search",
+   "query": "cimento de po\u00e7o de petr\u00f3leo",
+   "period": null,
+   "language": "pt",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u0442\u0430\u043c\u043f\u043e\u043d\u0430\u0436\u043d\u044b\u0439 \u0446\u0435\u043c\u0435\u043d\u0442",
+   "period": null,
+   "language": "ru",
+   "n": 2,
+   "errors": [],
+   "returned": 2
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u043f\u0435\u043d\u043e\u0431\u0435\u0442\u043e\u043d",
+   "period": null,
+   "language": "ru",
+   "n": 14,
+   "errors": [],
+   "returned": 14
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u786b\u94dd\u9178\u76d0\u6c34\u6ce5",
+   "period": null,
+   "language": "zh",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u6cb9\u4e95\u6c34\u6ce5",
+   "period": null,
+   "language": "zh",
+   "n": 19,
+   "errors": [],
+   "returned": 19
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u7145\u70e7\u9ecf\u571f\u6c34\u6ce5",
+   "period": null,
+   "language": "zh",
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "lang-ja",
+   "mode": "title.search",
+   "query": "\u5439\u4ed8\u3051\u30b3\u30f3\u30af\u30ea\u30fc\u30c8",
+   "period": null,
+   "language": "ja",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-ja",
+   "mode": "title.search",
+   "query": "\u30de\u30b9\u30b3\u30f3\u30af\u30ea\u30fc\u30c8",
+   "period": null,
+   "language": "ja",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-it",
+   "mode": "title.search",
+   "query": "calcestruzzo alleggerito",
+   "period": null,
+   "language": "it",
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "lang-tr",
+   "mode": "title.search",
+   "query": "k\u00f6p\u00fck beton",
+   "period": null,
+   "language": "tr",
+   "n": 12,
+   "errors": [],
+   "returned": 12
+  },
+  {
+   "topic": "lang-pl",
+   "mode": "title.search",
+   "query": "cement glinoglinowy",
+   "period": null,
+   "language": "pl",
+   "n": 0,
+   "errors": [],
+   "returned": 0
+  },
+  {
+   "topic": "lang-id",
+   "mode": "title.search",
+   "query": "beton busa",
+   "period": null,
+   "language": "id",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "lang-vi",
+   "mode": "title.search",
+   "query": "b\u00ea t\u00f4ng b\u1ecdt",
+   "period": null,
+   "language": "vi",
+   "n": 13,
+   "errors": [],
+   "returned": 13
+  },
+  {
+   "topic": "lang-ko",
+   "mode": "title.search",
+   "query": "\uc20f\ud06c\ub9ac\ud2b8",
+   "period": null,
+   "language": "ko",
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "mortar",
+   "period": "2026-11-20:",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "shotcrete",
+   "period": "2026-10-15:",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "foamed concrete",
+   "period": "2026-10-15:",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "calcined clay",
+   "period": "2026-10-15:",
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "oil well cement",
+   "period": "2026-09-01:",
+   "language": null,
+   "n": 25,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "magnesium cement",
+   "period": "2026-10-01:",
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "sulfoaluminate",
+   "period": "2026-10-01:",
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "mass concrete",
+   "period": "2026-10-15:",
+   "language": null,
+   "n": 23,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "radiation shielding concrete",
+   "period": "2026-10-01:",
+   "language": null,
+   "n": 24,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "limestone cement",
+   "period": "2026-11-10:",
+   "language": null,
+   "n": 17,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "alkali-activated",
+   "period": "2026-11-20:",
+   "language": null,
+   "n": 20,
+   "errors": [],
+   "returned": 25
+  },
+  {
+   "topic": "current-2026",
+   "mode": "title_and_abstract.search",
+   "query": "low-carbon cement",
+   "period": "2026-11-20:",
+   "language": null,
+   "n": 16,
+   "errors": [],
+   "returned": 25
+  }
+ ],
+ "skippedRepeats": [
+  [
+   "binder-well",
+   "geothermal well cement",
+   null,
+   null
+  ],
+  [
+   "binder-well",
+   "API Class G cement",
+   null,
+   null
+  ],
+  [
+   "binder-magnesium-carbonatable",
+   "magnesium oxychloride cement",
+   null,
+   null
+  ],
+  [
+   "binder-magnesium-carbonatable",
+   "magnesium oxysulfate cement",
+   null,
+   null
+  ],
+  [
+   "binder-magnesium-carbonatable",
+   "carbonation curing concrete",
+   null,
+   null
+  ],
+  [
+   "scm-clay",
+   "calcined shale cement",
+   null,
+   null
+  ],
+  [
+   "concrete-mass-rcc",
+   "roller compacted concrete dam",
+   null,
+   null
+  ],
+  [
+   "concrete-mass-rcc",
+   "cemented material dam",
+   null,
+   null
+  ],
+  [
+   "concrete-cellular",
+   "foamed concrete",
+   null,
+   null
+  ],
+  [
+   "concrete-heavyweight",
+   "heavyweight concrete radiation shielding",
+   null,
+   null
+  ],
+  [
+   "concrete-heavyweight",
+   "barite concrete",
+   null,
+   null
+  ],
+  [
+   "concrete-heavyweight",
+   "magnetite concrete",
+   null,
+   null
+  ],
+  [
+   "concrete-shotcrete",
+   "dry-mix shotcrete",
+   null,
+   null
+  ],
+  [
+   "concrete-shotcrete",
+   "accelerator shotcrete",
+   null,
+   null
+  ],
+  [
+   "binder-white-masonry",
+   "masonry cement",
+   null,
+   null
+  ],
+  [
+   "binder-white-masonry",
+   "hydraulic lime",
+   null,
+   null
+  ],
+  [
+   "binder-white-masonry",
+   "stucco plaster cement",
+   null,
+   null
+  ],
+  [
+   "concrete-lightweight",
+   "pumice lightweight concrete",
+   null,
+   null
+  ],
+  [
+   "concrete-lightweight",
+   "sintered fly ash aggregate",
+   null,
+   null
+  ],
+  [
+   "concrete-lightweight",
+   "internal curing lightweight aggregate",
+   null,
+   null
+  ],
+  [
+   "scm-natural",
+   "volcanic ash cement",
+   null,
+   null
+  ],
+  [
+   "scm-natural",
+   "zeolite cement",
+   null,
+   null
+  ],
+  [
+   "scm-natural",
+   "diatomaceous earth pozzolan",
+   null,
+   null
+  ],
+  [
+   "current-2026",
+   "concrete",
+   "2026-11-20:",
+   null
+  ],
+  [
+   "current-2026",
+   "cement",
+   "2026-11-20:",
+   null
+  ]
+ ]
+}

@@ -1,0 +1,386 @@
+[
+ {
+  "idx": 82,
+  "url": "https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1231&context=etd",
+  "title": "Investigation on Rheology of Oil Well Cement Slurries",
+  "http": "200 https://www.lib.uwo.ca/scholarship/scholarshipatwestern.html",
+  "match": 0.0,
+  "size": 2613,
+  "status": "fail"
+ },
+ {
+  "idx": 129,
+  "url": "https://ir.unimas.my/id/eprint/32791/1/Structural%20Concrete%20Using%20Oil%20Palm%20Shell%20%28OPS%29%20as%20LightweightAggregate_pdf.pdf",
+  "title": "Structural Concrete Using Oil Palm Shell (OPS) as Lightweight Aggregate",
+  "http": "000 https://ir.unimas.my/id/eprint/32791/1/Structural%20Concrete%20Using%20Oil%20Palm%20Shell%20%28OPS%29%20as%20LightweightAggregate_pdf.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 157,
+  "url": "https://orbi.uliege.be/handle/2268/350033",
+  "title": "Behaviour of fresh and hardened mortars with recycled fine aggregates for 3D printing",
+  "http": "200 https://orbi.uliege.be/handle/2268/350033",
+  "match": 1.0,
+  "size": 9976,
+  "status": "ok"
+ },
+ {
+  "idx": 160,
+  "url": "https://repository.unhas.ac.id/id/eprint/55622/",
+  "title": "Pemanfaatan Limbah Beton sebagai Agregat Halus dan Bahan Pengganti Semen pada Mortar = Utilization of Concrete Waste as Fine Aggregate and as a Cement Replacement Material in Mortar",
+  "http": "200 https://repository.unhas.ac.id/id/eprint/55622/",
+  "match": 1.0,
+  "size": 3315,
+  "status": "ok"
+ },
+ {
+  "idx": 194,
+  "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902001653670840",
+  "title": "VERSUCHE ZUR SCHUBKRAFTUEBERTRAGUNG IN RISSEN VON NORMAL- UND LEICHTBETON",
+  "http": "503 https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902001653670840",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 196,
+  "url": "https://www.dspace.uce.edu.ec/handle/25000/18703",
+  "title": "Propiedades mecánicas del hormigón estructural ligero y celular, utilizando materiales de diferentes canteras en la ciudad de Quito",
+  "http": "000 https://www.dspace.uce.edu.ec/handle/25000/18703",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 197,
+  "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3636380",
+  "title": "Hidratación de cementos de sulfoaluminato de calcio",
+  "http": "200 https://dialnet.unirioja.es/servlet/articulo?codigo=3636380",
+  "match": 1.0,
+  "size": 2472,
+  "status": "ok"
+ },
+ {
+  "idx": 198,
+  "url": "https://repositorioslatinoamericanos.uchile.cl/handle/2250/2959651",
+  "title": "Utilización de hormigón celular como base y subbase en la construcción de carreteras",
+  "http": "200 https://repositorioslatinoamericanos.uchile.cl/handle/2250/2959651",
+  "match": 0.0,
+  "size": 6,
+  "status": "fail"
+ },
+ {
+  "idx": 200,
+  "url": "https://hdl.handle.net/10068/845723",
+  "title": "Accélération de ciment au laitier par du ciment sulfo-alumineux",
+  "http": "500 https://hdl.handle.net/10068/845723",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 201,
+  "url": "https://docinsa.insa-lyon.fr/these/pont.php?id=peysson",
+  "title": "Contribution à l'étude de la Stabilisation de Déchets par du Ciment Sulfo-alumineux",
+  "http": "000 https://docinsa.insa-lyon.fr/these/pont.php?id=peysson",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 203,
+  "url": "https://journal.umsu.ac.id/index.php/PCEJ/article/view/6271",
+  "title": "ANALISIS MEKANIS BETON BUSA DENGAN KOMBINASI SERAT SABUT KELAPA SERTA BAHAN TAMBAHAN ABU SEKAM PADI DAN SERBUK CANGKANG TELUR",
+  "http": "000 https://journal.umsu.ac.id/index.php/PCEJ/article/view/6271",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 207,
+  "url": "https://ci.nii.ac.jp/naid/110009744324",
+  "title": "1194 若材齢コンクリートのクリープ挙動に関する研究(マスコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051996266894445568",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 208,
+  "url": "https://ci.nii.ac.jp/naid/110009743000",
+  "title": "1028 液体窒素で冷却した砂を用いたコンクリートの製造に関する研究(マスコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050307417033541888",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 209,
+  "url": "https://ci.nii.ac.jp/naid/110009693408",
+  "title": "2224 繊維補強吹付けコンクリートの強度特性に関する研究(吹付けコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051714791915897088",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 210,
+  "url": "https://ci.nii.ac.jp/naid/110009747157",
+  "title": "1226 逆解析手法によるマスコンクリートの熱特性値の推定(マスコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050025942057370112",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 223,
+  "url": "https://hdl.handle.net/11772/337",
+  "title": "Granüle yüksek fırın cürufunun köpük beton özelliklerine etkisi",
+  "http": "200 https://acikerisim.bartin.edu.tr/entities/publication/1176f4c3-2b34-4361-89b1-b505ac89c470",
+  "match": 1.0,
+  "size": 4660,
+  "status": "ok"
+ },
+ {
+  "idx": 228,
+  "url": "https://qks.cqu.edu.cn/cqdxxbcn/article/abstract/20210217",
+  "title": "纳米C—S—H/PCE对硅酸盐-硫铝酸盐复合水泥凝结硬化的影响",
+  "http": "000 https://qks.cqu.edu.cn/cqdxxbcn/article/abstract/20210217",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 229,
+  "url": "https://www.cqvip.com/QK/98465X/201003/33176105.html",
+  "title": "快硬硫铝酸盐水泥（R．SAC）在路面工程中的应用",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 230,
+  "url": "https://www.cqvip.com/Main/Detail.aspx?id=31160640",
+  "title": "JC／T《硫铝酸钙改性硅酸盐水泥》行业标准介绍",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 231,
+  "url": "https://fhclxb.buaa.edu.cn/article/id/10385",
+  "title": "0-3 型压电陶瓷/ 硫铝酸盐水泥复合材料的介电性及压电性",
+  "http": "500 http://fhclxb.buaa.edu.cn/captcha/page?lang=cn",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 469,
+  "url": "https://www.osti.gov/scitech/biblio/205516",
+  "title": "Foamed cement job successful in deep HTHP offshore well",
+  "http": "200 https://www.osti.gov/biblio/205516",
+  "match": 1.0,
+  "size": 5669,
+  "status": "ok"
+ },
+ {
+  "idx": 493,
+  "url": "https://ijrr.com/article-1-328-en.pdf",
+  "title": "Production of an economic high-density concrete for shielding megavoltage radiotherapy rooms and nuclear reactors",
+  "http": "200 https://ijrr.com/article-1-328-en.pdf",
+  "match": 0.0,
+  "size": 49516,
+  "status": "fail"
+ },
+ {
+  "idx": 494,
+  "url": "https://www.ijrr.com/article-1-604-en.pdf",
+  "title": "Archive of SID Production of a datolite-based heavy concrete for shielding nuclear reactors and megavoltage radiotherapy rooms",
+  "http": "200 https://ijrr.com/article-1-604-en.pdf",
+  "match": 0.875,
+  "size": 114631,
+  "status": "ok"
+ },
+ {
+  "idx": 524,
+  "url": "https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-18164",
+  "title": "Durability of sprayed concrete : steel fibre corrosion in cracks",
+  "http": "200 https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:991171",
+  "match": 0.0,
+  "size": 1046,
+  "status": "fail"
+ },
+ {
+  "idx": 541,
+  "url": "https://hdl.handle.net/10397/122411",
+  "title": "Development of low-carbon high-performance foamed concrete : synergy of matrix and pore structure",
+  "http": "200 https://ira.lib.polyu.edu.hk/handle/10397/122411",
+  "match": 1.0,
+  "size": 7575,
+  "status": "ok"
+ },
+ {
+  "idx": 562,
+  "url": "https://trid.trb.org/view/1080077",
+  "title": "EINFLUSS DER INNEREN SPANNUNGSVERTEILUNG AUF DAS TRAGVERHALTEN VON DRUCKBEANSPRUCHTEM NORMAL- UND LEICHTBETON",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 565,
+  "url": "https://repositorio.unal.edu.co/handle/unal/68782",
+  "title": "Análisis de la mineralogía y del desempeño en cementos híbridos de sulfoaluminato de calcio y Pórtland",
+  "http": "200 https://repositorio.unal.edu.co/items/8f6818e6-58d5-4829-9670-583ee8dfd0ce",
+  "match": 1.0,
+  "size": 6441,
+  "status": "ok"
+ },
+ {
+  "idx": 566,
+  "url": "https://dialnet.unirioja.es/servlet/tesis?codigo=257590",
+  "title": "Caracterización de cementos belíticos de sulfoaluminato de calcio",
+  "http": "200 https://dialnet.unirioja.es/servlet/tesis?codigo=257590",
+  "match": 1.0,
+  "size": 3991,
+  "status": "ok"
+ },
+ {
+  "idx": 567,
+  "url": "https://dspace.ucuenca.edu.ec/handle/123456789/23100",
+  "title": "Optimización del tiempo de construcción de manpostería, mediante el uso de macro-bloques de hormigón celular",
+  "http": "404 https://dspace.ucuenca.edu.ec/handle/123456789/23100",
+  "match": 0.0,
+  "size": 39,
+  "status": "fail"
+ },
+ {
+  "idx": 568,
+  "url": "https://www.theses.ulaval.ca/2009/26344/26344.pdf",
+  "title": "Étude des propriétés de transport du béton projeté",
+  "http": "000 https://www.theses.ulaval.ca/2009/26344/26344.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 569,
+  "url": "https://hdl.handle.net/10068/862358",
+  "title": "Etude du comportement des chapes autonivelantes en ciment sulfo-alumineux : outils expérimentaux et de modélisation",
+  "http": "500 https://hdl.handle.net/10068/862358",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 574,
+  "url": "https://jurnal.pnj.ac.id/index.php/snts/article/download/3705/2136",
+  "title": "KARAKTERISTIK BETON BUSA YANG MENGALAMI BEBAN TEKAN",
+  "http": "200 https://jurnal.pnj.ac.id/index.php/snts/login",
+  "match": 0.14285714285714285,
+  "size": 1204,
+  "status": "fail"
+ },
+ {
+  "idx": 576,
+  "url": "https://ci.nii.ac.jp/naid/110009746909",
+  "title": "1194 不確定因子の影響を考慮したマスコンクリートの温度応力解析(マスコンクリート・舗装・ダム)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050307417033964928",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 577,
+  "url": "https://ci.nii.ac.jp/naid/110009742860",
+  "title": "2013 液体窒素を用いたプレクーリングのダムコンクリートへの適用性(マスコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051996266893767424",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 578,
+  "url": "https://ci.nii.ac.jp/naid/110009693406",
+  "title": "2222 吹付け速度が吹付けコンクリートの諸性状に及ぼす影響(吹付けコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050588892009053696",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 579,
+  "url": "https://ci.nii.ac.jp/naid/110009696991",
+  "title": "2029 高温履歴を受けた高炉スラグ微粉末含有コンクリートの引張性状(マスコンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/1521136281174758656",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 583,
+  "url": "https://hdl.handle.net/1884/14840",
+  "title": "Adiçao de biopolímeros em pastas de cimento para utilizaçao em poços de petróleo",
+  "http": "302 https://acervodigital.ufpr.br/handle/1884/14840",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 584,
+  "url": "https://dergipark.org.tr/en/pub/akuumubd/article/502499",
+  "title": "Kompozisyon Değişiminin Geopolimer Köpük Beton Temel Özelliklerine Etkisi",
+  "http": "200 https://dergipark.org.tr/en/pub/akuumubd/article/502499",
+  "match": 1.0,
+  "size": 8130,
+  "status": "ok"
+ },
+ {
+  "idx": 586,
+  "url": "https://hdl.handle.net/11630/6757",
+  "title": "Köpük Beton Üretiminde Genleştirme Yönteminin Deneysel Yöntemlerle Optimize Edilmesi",
+  "http": "200 https://acikerisim.aku.edu.tr/items/67618b47-23ba-4c42-aa66-c2456c8e82cb",
+  "match": 1.0,
+  "size": 4278,
+  "status": "ok"
+ },
+ {
+  "idx": 587,
+  "url": "https://avesis.atauni.edu.tr/advisingTheses/details/d9c50997-be2e-4b47-bbf9-11964b1cd5a9/oai",
+  "title": "Yerel malzemeler kullanılarak düşük maliyetli tek bileşenli geopolimer köpük beton üretiminin araştırılması",
+  "http": "200 https://avesis.atauni.edu.tr/advisingTheses/details/d9c50997-be2e-4b47-bbf9-11964b1cd5a9/oai",
+  "match": 1.0,
+  "size": 3259,
+  "status": "ok"
+ },
+ {
+  "idx": 593,
+  "url": "https://www.cqvip.com/QK/95146X/200303/7531710.html",
+  "title": "JC714快硬硫铝酸盐水泥、JC435快硬铁铝酸盐水泥和JC／T 659低碱度硫铝酸盐水泥产品标准修订内容介绍",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 594,
+  "url": "https://www.cqvip.com/qk/91802X/200001/4186993.html",
+  "title": "SO3对阿利特—硫铝酸盐水泥熟料中C3S,C4A3S^—矿物形成影响？…",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 595,
+  "url": "https://www.cqvip.com/QK/95146X/199910/3683786.html",
+  "title": "硫（铁）铝酸盐水泥生料在Φ10m×20m储库中的沉降离析分析",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 597,
+  "url": "https://trid.trb.org/view/121670",
+  "title": "LIME-CLAY MINERAL REACTION PRODUCTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 608,
+  "url": "https://ejournal.unesa.ac.id/index.php/rekayasa-teknik-sipil/article/view/17917",
+  "title": "PEMANFAATAN BAHAN TAMBAH POZZOLAN LUMPUR SIDOARJO SEBAGAI SUBSTITUSI SEMEN DENGAN AGREGAT PUMICE PADA KUAT TEKAN DAN POROSITAS BETON RINGAN",
+  "http": "200 https://ejournal.unesa.ac.id/index.php/rekayasa-teknik-sipil/article/view/17917",
+  "match": 0.0,
+  "size": 113,
+  "status": "fail"
+ }
+]

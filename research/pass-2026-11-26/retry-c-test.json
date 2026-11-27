@@ -1,0 +1,83 @@
+[
+ {
+  "title": "ALKALI-ACTIVATED SLAG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/352975 -> 000 match=0.00",
+   "wayback cdx trid.trb.org/view/352975 (exact): 0 captures",
+   "wayback cdx trid.trb.org/view/352975 (exact): 0 captures",
+   "wayback cdx trid.trb.org/View/352975 (exact): 0 captures",
+   "wayback cdx trid.trb.org/view.aspx?id=352975 (exact): 0 captures",
+   "openalex title search: 8 results, 0 title matches",
+   "dnb sru: 10 records, no match",
+   "bnf sru: 1 records, no match",
+   "internet archive search: 6 docs, no match",
+   "datacite query: 5, no match",
+   "europe pmc: no match"
+  ],
+  "urlsTried": [
+   "https://trid.trb.org/view/352975",
+   "https://web.archive.org/cdx/search/cdx?url=trid.trb.org%2Fview%2F352975&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://web.archive.org/cdx/search/cdx?url=trid.trb.org%2Fview%2F352975&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://web.archive.org/cdx/search/cdx?url=trid.trb.org%2FView%2F352975&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://web.archive.org/cdx/search/cdx?url=trid.trb.org%2Fview.aspx%3Fid%3D352975&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://api.openalex.org/works?per-page=8&mailto=research@example.org&search=ALKALI%20ACTIVATED%20SLAG",
+   "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&recordSchema=oai_dc&maximumRecords=10&query=tit%3DALKALI%20and%20tit%3DACTIVATED%20and%20tit%3DSLAG",
+   "https://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&recordSchema=dublincore&maximumRecords=10&query=bib.title%20all%20%22ALKALI%20ACTIVATED%20SLAG%22",
+   "https://archive.org/advancedsearch.php?q=title%3A%28ALKALI%20ACTIVATED%20SLAG%29&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=year&fl[]=publisher&fl[]=mediatype&rows=10&output=json",
+   "https://api.datacite.org/dois?page[size]=5&query=titles.title%3A%22ALKALI-ACTIVATED%20SLAG%22",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&pageSize=5&query=TITLE%3A%22ALKALI-ACTIVATED%20SLAG%22"
+  ],
+  "agg": []
+ },
+ {
+  "title": "Duurzaamheid van beton met alkali-geactiveerde slak uit de jaren 50 - Het Purdocement",
+  "result": null,
+  "log": [
+   "direct https://lib.ugent.be/nl/catalog/rug01:001805488 -> 200 match=0.00",
+   "wayback cdx lib.ugent.be/nl/catalog/rug01:001805488 (exact): 0 captures",
+   "openalex title search: 2 results, 1 title matches",
+   "dnb sru: 0 records, no match",
+   "bnf sru: 0 records, no match",
+   "internet archive search: 0 docs, no match",
+   "datacite query: 0, no match",
+   "europe pmc: no match"
+  ],
+  "urlsTried": [
+   "https://lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://web.archive.org/cdx/search/cdx?url=lib.ugent.be%2Fnl%2Fcatalog%2Frug01%3A001805488&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://api.openalex.org/works?per-page=8&mailto=research@example.org&search=Duurzaamheid%20van%20beton%20met%20alkali%20geactiveerde%20slak%20uit%20de%20jaren%2050%20%20%20Het%20Purdocement",
+   "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&recordSchema=oai_dc&maximumRecords=10&query=tit%3DDuurzaamheid%20and%20tit%3Dbeton%20and%20tit%3Dalkali%20and%20tit%3Dgeactiveerde%20and%20tit%3Dslak%20and%20tit%3Djaren",
+   "https://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&recordSchema=dublincore&maximumRecords=10&query=bib.title%20all%20%22Duurzaamheid%20beton%20alkali%20geactiveerde%20slak%20jaren%22",
+   "https://archive.org/advancedsearch.php?q=title%3A%28Duurzaamheid%20beton%20alkali%20geactiveerde%20slak%20jaren%29&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=year&fl[]=publisher&fl[]=mediatype&rows=10&output=json",
+   "https://api.datacite.org/dois?page[size]=5&query=titles.title%3A%22Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement%22",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&pageSize=5&query=TITLE%3A%22Duurzaamheid%20van%20beton%20met%20alkali-geactiveerde%20slak%20uit%20de%20jaren%2050%20-%20Het%20Purdocement%22"
+  ],
+  "agg": []
+ },
+ {
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "wayback cdx www.cqvip.com/QK/84253X/200104/3000725738.html (exact): 0 captures",
+   "openalex title search: 8 results, 1 title matches",
+   "dnb sru: 0 records, no match",
+   "bnf sru: 0 records, no match",
+   "internet archive search: 0 docs, no match",
+   "datacite query: 0, no match",
+   "europe pmc: no match"
+  ],
+  "urlsTried": [
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://web.archive.org/cdx/search/cdx?url=www.cqvip.com%2FQK%2F84253X%2F200104%2F3000725738.html&matchType=exact&output=json&filter=statuscode:200&limit=-5",
+   "https://api.openalex.org/works?per-page=8&mailto=research@example.org&search=Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System",
+   "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&recordSchema=oai_dc&maximumRecords=10&query=tit%3DHydration%20and%20tit%3DCharacteristics%20and%20tit%3DSodium%20and%20tit%3DSulfate%20and%20tit%3DSlag%20and%20tit%3DCement",
+   "https://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&recordSchema=dublincore&maximumRecords=10&query=bib.title%20all%20%22Hydration%20Characteristics%20Sodium%20Sulfate%20Slag%20Cement%22",
+   "https://archive.org/advancedsearch.php?q=title%3A%28Hydration%20Characteristics%20Sodium%20Sulfate%20Slag%20Cement%29&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=year&fl[]=publisher&fl[]=mediatype&rows=10&output=json",
+   "https://api.datacite.org/dois?page[size]=5&query=titles.title%3A%22Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System%22",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&pageSize=5&query=TITLE%3A%22Hydration%20Characteristics%20of%20Sodium%20Sulfate%20Slag%20Cement%20System%22"
+  ],
+  "agg": []
+ }
+]

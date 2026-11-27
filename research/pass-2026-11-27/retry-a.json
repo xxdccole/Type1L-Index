@@ -1,0 +1,3104 @@
+[
+ {
+  "title": "ALKALI-ACTIVATED SLAG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/352975 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/352975"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W594626900",
+   "https://trid.trb.org/view/352975",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/352975"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/352975"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Duurzaamheid van beton met alkali-geactiveerde slak uit de jaren 50 - Het Purdocement",
+  "result": null,
+  "log": [
+   "direct https://lib.ugent.be/nl/catalog/rug01:001805488 -> 200 match=0.00",
+   "wayback none for lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3118773678",
+   "https://lib.ugent.be/nl/catalog/rug01:001805488",
+   "https://archive.org/wayback/available?url=lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "urls": [
+   "https://lib.ugent.be/nl/catalog/rug01:001805488"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Hydration Characteristics of Sodium Sulfate Slag Cement System",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200104/3000725738.html -> 200 match=0.00",
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010 -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2258488303",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010"
+  ],
+  "urls": [
+   "https://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "http://www.cqvip.com/QK/84253X/200104/3000725738.html",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200104010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Research on Hydration of Steel Slag Cement Activatedwith Waterglass",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200101/3000725676.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "wayback none for www.cqvip.com/QK/84253X/200101/3000725676.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W919977396",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://www.cqvip.com/QK/84253X/200101/3000725676.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200101/3000725676.html"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200101008",
+   "http://www.cqvip.com/QK/84253X/200101/3000725676.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Utilization of Concrete Waste Aggregates Using Geopolymer Cement",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/89595X/201006/36318831.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3147412689",
+   "https://www.cqvip.com/QK/89595X/201006/36318831.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/89595X/201006/36318831.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "NUMERICAL METHOD AND RANDOM ANALYSIS OF CEMENT CONCRETE EXPANSION",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200001/4000713898.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "wayback none for www.cqvip.com/QK/84253X/200001/4000713898.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W933935797",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://www.cqvip.com/QK/84253X/200001/4000713898.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200001/4000713898.html"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200001012",
+   "http://www.cqvip.com/QK/84253X/200001/4000713898.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "SULFATE IMPURITIES FROM DEICING SALT AND DURABILITY OF PORTLAND CEMENT MORTAR",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/277807 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/277807"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2107780650",
+   "https://trid.trb.org/view/277807",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/277807"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/277807"
+  ],
+  "doi": null
+ },
+ {
+  "title": "高性能混凝土（HPC）配合比设计新法——全计算法",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/qk/90326X/200002/4166829.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/90326X/200002/4166829.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W176111392",
+   "https://www.cqvip.com/qk/90326X/200002/4166829.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/90326X/200002/4166829.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/qk/90326X/200002/4166829.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Identification of parameters of concrete damage plasticity constitutive model",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1036427860",
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Tomasz_Jankowiak/publication/228525599_Identification_of_parameters_of_concrete_damage_plasticity_constitutive_model/links/0deec53ad1e840be9b000000.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "碾压混凝土（RCC）在不同水力梯度下渗透和溶蚀特性研究",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/95142B/200103/5346504.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/95142B/200103/5346504.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W565710980",
+   "https://www.cqvip.com/QK/95142B/200103/5346504.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/95142B/200103/5346504.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/95142B/200103/5346504.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Application of Pseudo Strain-hardening Cementitious Composites to Shear Resistant Structural Elements",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20220804020937/http://deepblue.lib.umich.edu/handle/2027.42/84675",
+   "original": "https://deepblue.lib.umich.edu/handle/2027.42/84675",
+   "snapshot": "20220804020937",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "Kanda, T.",
+     "Lin, Zhong",
+     "Li, Victor C."
+    ],
+    "DCTERMS.dateAccepted": [
+     "2011-06-16T18:10:08Z"
+    ],
+    "DCTERMS.available": [
+     "2011-06-16T18:10:08Z"
+    ],
+    "DCTERMS.issued": [
+     "1998"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "Kanda, T.; Lin, Z.; Li, Victor C.(1998). \"Application of Pseudo Strain-hardening Cementitious Composites to Shear Resistant Structural Elements\" Fracture Mechanics of Concrete Structures Proceedings FRAMCOS-3, AEDIFICATIO Publishers, D-79104 Freiburg, Germany, pp. 1477-1490, Oct., 1998. <http://hdl.handle.net/2027.42/84675>"
+    ],
+    "DC.identifier": [
+     "https://hdl.handle.net/2027.42/84675",
+     "Fracture Mechanics of Concrete Structures, Proceedings FRAMCOS-3",
+     "0000-0002-8678-3493",
+     "Li, Victor C.; 0000-0002-8678-3493"
+    ],
+    "DC.title": [
+     "Application of Pseudo Strain-hardening Cementitious Composites to Shear Resistant Structural Elements"
+    ],
+    "DC.type": [
+     "Conference Paper"
+    ],
+    "DC.subject": [
+     "Civil and Environmental Engineering",
+     "Engineering"
+    ],
+    "DC.description": [
+     "Peer Reviewed",
+     "http://deepblue.lib.umich.edu/bitstream/2027.42/84675/1/KandaFRAMCOS3.pdf"
+    ],
+    "DC.contributor": [
+     "Civil and Environmental Engineering, Department of"
+    ],
+    "html_title": [
+     "Application of Pseudo Strain-hardening Cementitious Composites to Shear Resistant Structural Elements"
+    ]
+   },
+   "snippet": "application of pseudo strain hardening cementitious composites to shear resistant structural elements toggle navigation log in toggle navigation javascript is disabled for your browser some features of this site may not work without it search deep blue this collection communities collections titles authors subjects date log in legend limited access u m users only access by request access via hathitrust access via fulcrum view item home research collections civil environmental engineering cee view item home research collections civil environmental engineering cee view item application of pseudo",
+   "evidenceFile": "ev/applicationofpseudostrainhardeningcement-wb.html"
+  },
+  "log": [
+   "direct https://deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download -> 403 match=0.00",
+   "direct https://deepblue.lib.umich.edu/handle/2027.42/84675 -> 403 match=0.00",
+   "direct https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.2396 -> 429 match=0.00",
+   "wayback none for deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+   "wayback https://web.archive.org/web/20220804020937id_/http://deepblue.lib.umich.edu/handle/2027.42/84675 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W84133562",
+   "https://deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+   "https://deepblue.lib.umich.edu/handle/2027.42/84675",
+   "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.2396",
+   "https://archive.org/wayback/available?url=deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+   "https://archive.org/wayback/available?url=deepblue.lib.umich.edu/handle/2027.42/84675",
+   "https://web.archive.org/web/20220804020937id_/http://deepblue.lib.umich.edu/handle/2027.42/84675"
+  ],
+  "urls": [
+   "https://deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+   "https://deepblue.lib.umich.edu/handle/2027.42/84675",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.2396"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Balok Dan Pelat Beton Bertulang",
+  "result": null,
+  "log": [
+   "direct https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646 -> 000 match=0.00",
+   "wayback none for katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2992421190",
+   "https://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646",
+   "https://archive.org/wayback/available?url=katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "urls": [
+   "http://katalog.pustaka.unand.ac.id//index.php?p=show_detail&id=129646"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CHLORIDE PERMEABILITIES OF RIGID CONCRETE BRIDGE DECK OVERLAYS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/308679 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/308679"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W645232131",
+   "https://trid.trb.org/view/308679",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/308679"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/308679"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ETUDE EXPERIMENTALE ET ANALYSE STRUCTURELLE DE BETONS POREUX POUR COUCHES DE ROULEMENT DE CHAUSSEES EN BETON DE CIMENT",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/993583 -> 000 match=0.00",
+   "direct https://hal.science/hal-05589371v1 -> 200 match=0.00",
+   "wayback none for trid.trb.org/view/993583",
+   "wayback none for hal.science/hal-05589371v1"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W12185384",
+   "https://trid.trb.org/view/993583",
+   "https://hal.science/hal-05589371v1",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/993583",
+   "https://archive.org/wayback/available?url=hal.science/hal-05589371v1"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/993583",
+   "https://hal.science/hal-05589371v1"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Evaluating a 50 year Old Concrete Bridge",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/326168 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/326168"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2994269565",
+   "https://trid.trb.org/view/326168",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/326168"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/326168"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PERFORMANCE OF BRIDGE DECK CONCRETE OVERLAYS. EXTENDING THE LIFE OF BRIDGES--SYMPOSIUM, LAKE BUENA VISTA, FLORIDA, DECEMBER 5, 1989",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/354406 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/354406"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W634754703",
+   "https://trid.trb.org/view/354406",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/354406"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/354406"
+  ],
+  "doi": null
+ },
+ {
+  "title": "《高层建筑混凝土结构技术规程（JGJ3—2002）》的学习体会",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/qk/97803X/200305/8539963.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/qk/97803X/200305/8539963.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1584324994",
+   "https://www.cqvip.com/qk/97803X/200305/8539963.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/qk/97803X/200305/8539963.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/qk/97803X/200305/8539963.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纤维增强复合材料(FRP)约束混凝土矩形柱应力-应变关系的研究",
+  "result": null,
+  "log": [
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml -> 000 match=0.00",
+   "direct https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml -> 000 match=0.00",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "wayback none for manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1541572977",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "https://archive.org/wayback/available?url=manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml"
+  ],
+  "urls": [
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/CN/abstract/abstract890.shtml",
+   "http://manu25.magtech.com.cn/Jwk3_jzjgxb/EN/abstract/abstract890.shtml"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米SiO 2 改性聚合物水泥基复合材料早期微观结构及性能",
+  "result": null,
+  "log": [
+   "doi.org 200; crossref none; datacite none",
+   "direct https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002 -> 500 match=0.00",
+   "wayback none for fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3101088893",
+   "https://api.crossref.org/works/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://api.datacite.org/dois/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://doi.org/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002",
+   "https://archive.org/wayback/available?url=fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002"
+  ],
+  "urls": [
+   "https://fhclxb.buaa.edu.cn/cn/article/doi/10.13801/j.cnki.fhclxb.20200218.002"
+  ],
+  "doi": "10.13801/j.cnki.fhclxb.20200218.002"
+ },
+ {
+  "title": "鉄筋コンクリート片持梁形式の壁の繰返し挙動 1 実験結果",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3210829852",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902128868997379"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Análisis de las propiedades mecánicas de adoquines permeables de hormigón cumpliendo la Normativa NTE INEN 3040 para tránsito peatonal",
+  "result": null,
+  "log": [
+   "direct https://www.dspace.uce.edu.ec/handle/25000/38743 -> 000 match=0.00",
+   "wayback none for www.dspace.uce.edu.ec/handle/25000/38743"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7225489684",
+   "https://www.dspace.uce.edu.ec/handle/25000/38743",
+   "https://archive.org/wayback/available?url=www.dspace.uce.edu.ec/handle/25000/38743"
+  ],
+  "urls": [
+   "https://www.dspace.uce.edu.ec/handle/25000/38743"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20230522141047/http://www.dspace.uce.edu.ec/handle/25000/20271",
+   "original": "http://www.dspace.uce.edu.ec/handle/25000/20271",
+   "snapshot": "20230522141047",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.contributor": [
+     "Moya Heredia, Juan Carlos"
+    ],
+    "DC.creator": [
+     "Marroquín Puente, María Belén",
+     "Trejo Paguay, Jéssica Yelitza"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2019-12-18T01:59:17Z"
+    ],
+    "DCTERMS.available": [
+     "2019-12-18T01:59:17Z"
+    ],
+    "DCTERMS.issued": [
+     "2019"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "Marroquín Puente, M. y Trejo Paguay, J. (2019). Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal. Trabajo de titulación previo a la obtención del Título de Ingeniero Civil. Carrera de Ingeniería Civil. Quito: UCE. 163 p."
+    ],
+    "DC.identifier": [
+     "BIBLIOTECA GENERAL - INGENIERÍA, CIENCIAS FÍSICAS Y MATEMÁTICA",
+     "http://www.dspace.uce.edu.ec/handle/25000/20271"
+    ],
+    "DCTERMS.abstract": [
+     "En los últimos años se ha visto la necesidad de desarrollar nuevos métodos o técnicas de construcción que reduzcan el impacto ambiental que contamina nuestro ambiente, por tal motivo existe una búsqueda constante de utilizar materiales ecológicos o por lo menos alternativas sostenibles. Entre los desarrollos de la construcción sostenible se encuentra el hormigón permeable, que permite el manejo del agua lluvia, la misma que se infiltra a través de este hormigón. Por lo cual la presente investigación busca enfocarse en realizar el diseño de un hormigón permeable permitiendo que el agua lluvia pase gracias a la porosidad que este presenta y que a la vez esta agua sea recolectada y aprovechada para usos no domésticos donde no sea necesario que el agua sea potable, favoreciendo al manejo responsable del recurso. El hormigón permeable al ser un hormigón no estructural, posee baja resistencia a la compresión, sin embargo, el estudio realizado cumple con las condiciones necesarias para usarlos en zonas de tránsito peatonal con resistencias que varían entre 14 MPa y 18 MPa, dando como prioridad al aprovechamiento de aguas lluvias, reduciendo de cierta manera la demanda hídrica de este recurso natural limitado a nivel mundial. La idea es diseñar un sistema de recolección de Agua lluvia sostenible, que se aplicable de manera técnica y viable en lugares de tráfico ligero, convirtiéndose en una alternativa factible, para poder usarla rutinariamente.",
+     "In recent years we have seen the need to develop new methods or construction techniques that reduce the impact on our environment, for this reason there is a constant search for organic products or at least sustainable alternatives. Among the developments of sustainable construction is permeable concrete, which allows the management of rainwater, the same that infiltrates through this concrete. Therefore, in the present investigation, we seek to focus on the design of a permeable transport system that provides water and that is not lost at the same time or to the water source. Drinking water, favoring the responsible management of the resource. Permeable concrete, being a non-structural concrete, has low resistance to compression, however, the study complies with the necessary conditions to be used in pedestrian traffic zones with resistances that vary between 14 MPa and 18 MPa, giving priority to the use of rainwater, thus reducing the water demand of this limited natural resource worldwide. The idea is to design a sustainable rainwater collection system, which is technically and feasibly applied in places of light traffic, becoming a feasible alternative, to be used routinely"
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.publisher": [
+     "Quito: UCE"
+    ],
+    "DC.relation": [
+     "openAccess"
+    ],
+    "DC.rights": [
+     "http://creativecommons.org/licenses/by-nc-sa/3.0/ec/"
+    ],
+    "DC.subject": [
+     "HORMIGÓN PERMEABLE",
+     "AGUA LLUVIA",
+     "RELACIÓN AGUA CEMENTO"
+    ],
+    "DC.title": [
+     "Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal"
+    ],
+    "DC.type": [
+     "bachelorThesis"
+    ],
+    "citation_pdf_url": [
+     "http://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf"
+    ],
+    "citation_language": [
+     "spa"
+    ],
+    "citation_title": [
+     "Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal"
+    ],
+    "citation_publisher": [
+     "Quito: UCE"
+    ],
+    "citation_date": [
+     "2019"
+    ],
+    "citation_abstract_html_url": [
+     "http://www.dspace.uce.edu.ec/handle/25000/20271"
+    ],
+    "citation_authors": [
+     "Marroquín Puente, María Belén; Trejo Paguay, Jéssica Yelitza"
+    ],
+    "citation_keywords": [
+     "HORMIGÓN PERMEABLE; AGUA LLUVIA; RELACIÓN AGUA CEMENTO; bachelorThesis"
+    ],
+    "html_title": [
+     "Repositorio Digital: Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal"
+    ]
+   },
+   "snippet": "diseno de hormigon permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal skip navigation pagina de inicio listar comunidades browse items by fecha publicacion autor titulo materia fecha de envio ayuda servicios mi dspace alertas editar perfil por favor use este identificador para citar o enlazar este item http www dspace uce edu ec handle 25000 20271 titulo diseno de hormigon permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal autor marroquin puente maria belen trejo paguay jessica yelitza tutor moya heredia juan carlos fecha de publicacion",
+   "evidenceFile": "ev/disenodehormigonpermeableparaelaprovecha-wb.html"
+  },
+  "log": [
+   "direct https://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf -> 000 match=0.00",
+   "direct https://www.dspace.uce.edu.ec/handle/25000/20271 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20230522153039id_/http://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20230522141047id_/http://www.dspace.uce.edu.ec/handle/25000/20271 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2998686889",
+   "https://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+   "https://www.dspace.uce.edu.ec/handle/25000/20271",
+   "https://archive.org/wayback/available?url=www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+   "https://web.archive.org/web/20230522153039id_/http://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+   "https://archive.org/wayback/available?url=www.dspace.uce.edu.ec/handle/25000/20271",
+   "https://web.archive.org/web/20230522141047id_/http://www.dspace.uce.edu.ec/handle/25000/20271"
+  ],
+  "urls": [
+   "http://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+   "http://www.dspace.uce.edu.ec/handle/25000/20271"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable.",
+  "result": {
+   "route": "direct",
+   "url": "https://bibdigital.epn.edu.ec/handle/15000/26964",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "Oscullo Quishpe, Daniel Josias"
+    ],
+    "DC.contributor": [
+     "Luna Hermosa, Germán Vinicio"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2025-11-25T22:06:47Z"
+    ],
+    "DCTERMS.available": [
+     "2025-11-25T22:06:47Z"
+    ],
+    "DCTERMS.issued": [
+     "2025-08"
+    ],
+    "DCTERMS.bibliographicCitation": [
+     "Oscullo Quishpe, D.J. (2025). Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable. 104 páginas. Quito : EPN."
+    ],
+    "DC.identifier": [
+     "T-IC 1493/CD 15474",
+     "https://bibdigital.epn.edu.ec/handle/15000/26964"
+    ],
+    "DC.description": [
+     "La gestión del agua de lluvia en entornos urbanos enfrenta desafíos crecientes, lo que impulsa la búsqueda de soluciones sostenibles como los adoquines de hormigón permeable. Estos elementos de infraestructura innovadora mitigan la escorrentía superficial y el riesgo de inundaciones, al tiempo que promueven la recarga de acuíferos y mejoran la calidad del agua. La investigación tuvo como objetivo validar el rendimiento, la durabilidad y la viabilidad de estos adoquines, optimizando la mezcla para evaluar sus propiedades mecánicas e hidráulicas. El método de investigación se basó en el diseño y la producción artesanal de adoquines permeables, siguiendo las directrices de la normativa ACI 522-10R. Se estableció una dosificación precisa de agregado grueso, cemento y una relación agua/cemento controlada, empleando materiales específicos y un riguroso proceso de fabricación. Los resultados demuestran un rendimiento hidráulico excepcional de los adoquines permeables en comparación con los convencionales, validando su potencial como una propuesta viable y duradera para la regulación de precipitaciones en áreas urbanas. Su alta eficiencia en la infiltración y una mínima escorrentía, incluso en condiciones de inclinación, los posicionan como una alternativa funcional y sostenible para la infraestructura urbana."
+    ],
+    "DCTERMS.abstract": [
+     "Rainwater management in urban environments faces increasing challenges, driving the search for sustainable solutions such as permeable concrete pavers. These innovative infrastructure elements mitigate surface runoff and flood risk while promoting aquifer recharge and improving water quality. The research aimed to validate the performance, durability, and viability of these pavers, optimizing the mix to evaluate their mechanical and hydraulic properties. The research method was based on the design and artisanal production of permeable pavers, following the guidelines of ACI 522-10R. A precise dosage of coarse aggregate, cement, and a controlled water/cement ratio were developed, employing specific materials and a rigorous manufacturing process. The results demonstrate the exceptional hydraulic performance of permeable pavers compared to conventional pavers, validating their potential as a viable and durable solution for rainfall regulation in urban areas. Their high infiltration efficiency and minimal runoff, even under sloping conditions, position them as a functional and sustainable alternative for urban infrastructure."
+    ],
+    "DC.language": [
+     "spa"
+    ],
+    "DC.publisher": [
+     "Quito : EPN, 2025."
+    ],
+    "DC.rights": [
+     "info:eu-repo/semantics/openAccess"
+    ],
+    "DC.subject": [
+     "HIDROLOGÍA",
+     "HORMIGÓN",
+     "PLANIFICACIÓN URBANA",
+     "INGENIERÍA CIVIL",
+     "RECURSOS HÍDRICOS"
+    ],
+    "DC.title": [
+     "Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable."
+    ],
+    "DC.type": [
+     "Trabajo de Integración Curricular"
+    ],
+    "citation_author": [
+     "Oscullo Quishpe, Daniel Josias"
+    ],
+    "citation_date": [
+     "2025-08"
+    ],
+    "citation_abstract_html_url": [
+     "https://bibdigital.epn.edu.ec/handle/15000/26964"
+    ],
+    "citation_language": [
+     "spa"
+    ],
+    "citation_pdf_url": [
+     "https://bibdigital.epn.edu.ec/bitstream/15000/26964/1/CD%2015474.pdf"
+    ],
+    "citation_keywords": [
+     "HIDROLOGÍA; HORMIGÓN; PLANIFICACIÓN URBANA; INGENIERÍA CIVIL; RECURSOS HÍDRICOS; Trabajo de Integración Curricular"
+    ],
+    "citation_publisher": [
+     "Quito : EPN, 2025."
+    ],
+    "citation_title": [
+     "Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable."
+    ],
+    "html_title": [
+     "Repositorio Digital - EPN: Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable."
+    ]
+   },
+   "snippet": "diseno y fabricacion de adoquines y baldosas de hormigon permeable diseno y fabricacion de adoquines de hormigon permeable skip navigation pagina de inicio listar comunidades browse items by fecha autor titulo materia ayuda language espanol deutsch english servicios mi dspace alertas editar perfil bibdigital el repositorio digital institucional de la escuela politecnica nacional ofrece acceso abierto al texto completo de la produccion cientifica de los miembros de la comunidad politecnica el objetivo del repositorio es constituirse como el registro permanente de consulta academica maximizando ",
+   "evidenceFile": "ev/disenoyfabricaciondeadoquinesybaldosasde-d1.html"
+  },
+  "log": [
+   "direct https://bibdigital.epn.edu.ec/handle/15000/26964 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7133084235",
+   "https://bibdigital.epn.edu.ec/handle/15000/26964"
+  ],
+  "urls": [
+   "https://bibdigital.epn.edu.ec/handle/15000/26964"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Estudio técnico del diseño y dosificación de hormigón permeable modificado con propiedades de impermeabilización",
+  "result": null,
+  "log": [
+   "direct https://dspace.ucuenca.edu.ec/handle/123456789/48047 -> 404 match=0.00",
+   "wayback none for dspace.ucuenca.edu.ec/handle/123456789/48047"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7225549441",
+   "https://dspace.ucuenca.edu.ec/handle/123456789/48047",
+   "https://archive.org/wayback/available?url=dspace.ucuenca.edu.ec/handle/123456789/48047"
+  ],
+  "urls": [
+   "https://dspace.ucuenca.edu.ec/handle/123456789/48047"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Estudo de traço de concreto permeável com adição de casca de arroz destinado à pavimentação de áreas públicas urbanas",
+  "result": null,
+  "log": [
+   "direct https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542 -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3096403882",
+   "https://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://archive.org/wayback/available?url=www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542",
+   "https://web.archive.org/web/20210814181549id_/http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542"
+  ],
+  "urls": [
+   "http://www.dep.uem.br/gdct/index.php/simeprod/article/download/1680/1542"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influence on the performance of road cement concrete of coarse aggregate content",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032 -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2374382333",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JTKE201501032"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Läpäisevä betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/912533 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/handle/10024/912533",
+   "wayback none for www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7139672032",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/handle/10024/912533",
+   "https://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/912533",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/handle/10024/912533",
+   "http://www.theseus.fi/bitstream/10024/912533/2/Al-ameri_Maged.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Optimización del diseño de una mezcla de hormigón permeable a partir de tres distintas graduaciones.",
+  "result": null,
+  "log": [
+   "direct https://www.dspace.uce.edu.ec/handle/25000/7870 -> 000 match=0.00",
+   "wayback none for www.dspace.uce.edu.ec/handle/25000/7870"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7225551270",
+   "https://www.dspace.uce.edu.ec/handle/25000/7870",
+   "https://archive.org/wayback/available?url=www.dspace.uce.edu.ec/handle/25000/7870"
+  ],
+  "urls": [
+   "http://www.dspace.uce.edu.ec/handle/25000/7870"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PE01《连锁混凝土路面砖透水路面设计和施工指南》（下）",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/97255X/201603/670080289.html -> 200 match=0.33",
+   "wayback none for www.cqvip.com/QK/97255X/201603/670080289.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2607054676",
+   "https://www.cqvip.com/QK/97255X/201603/670080289.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/97255X/201603/670080289.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/97255X/201603/670080289.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "REPAIR OF CONCRETE PAVEMENTS USING SYNTHETIC RESINS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/73813 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/73813"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W586509968",
+   "https://trid.trb.org/view/73813",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/73813"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/73813"
+  ],
+  "doi": null
+ },
+ {
+  "title": "《透水水泥混凝土路面技术规程》CJJ/T135-2009编制与研究",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90566A/201004/33520274.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90566A/201004/33520274.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W889665365",
+   "https://www.cqvip.com/QK/90566A/201004/33520274.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90566A/201004/33520274.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90566A/201004/33520274.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "聚丙烯仿钢纤维（PPTF）透水混凝土试验研究",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/95366X/201503/664120965.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/95366X/201503/664120965.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1439428074",
+   "https://www.cqvip.com/QK/95366X/201503/664120965.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/95366X/201503/664120965.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/95366X/201503/664120965.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "透水混凝土應用在港灣構造物設施與公路路面成效評估之研究(2/2)",
+  "result": null,
+  "log": [
+   "direct https://ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf -> 000 match=0.00",
+   "wayback none for ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2263853479",
+   "https://ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf",
+   "https://archive.org/wayback/available?url=ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf"
+  ],
+  "urls": [
+   "http://ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "透水混凝土水泥漿量比配比設計之研究（級配粒徑19 mm ~ 9.5 mm以及9.5mm~4.75mm）",
+  "result": null,
+  "log": [
+   "doi.org 302; crossref none; datacite none",
+   "direct https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0008-0906202015083217 -> 000 match=0.00",
+   "wayback none for www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0008-0906202015083217"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3209950898",
+   "https://api.crossref.org/works/10.6341/fcu.m0418553",
+   "https://api.datacite.org/dois/10.6341/fcu.m0418553",
+   "https://doi.org/10.6341/fcu.m0418553",
+   "https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0008-0906202015083217",
+   "https://archive.org/wayback/available?url=www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0008-0906202015083217"
+  ],
+  "urls": [
+   "https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0008-0906202015083217"
+  ],
+  "doi": "10.6341/fcu.m0418553"
+ },
+ {
+  "title": "CRACKS IN LATEX-MODIFIED CONCRETE OVERLAYS--HOW THEY GET THERE, HOW SERIOUS THEY ARE, AND WHAT TO DO ABOUT THEM",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/359787 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/359787"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W6988780",
+   "https://trid.trb.org/view/359787",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/359787"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/359787"
+  ],
+  "doi": null
+ },
+ {
+  "title": "SEISMIC DESIGN AND PERFORMANCE OF PRECAST CONCRETE SEGMENTAL BRIDGE COLUMNS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=643318 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=643318"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W191644584",
+   "https://trid.trb.org/view.aspx?id=643318",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=643318"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=643318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "An investigation on the scope and applications of recycled aggregates in the Hong Kong construction industry",
+  "result": null,
+  "log": [
+   "handle API -> ['https://ira.lib.polyu.edu.hk/handle/10397/41289']",
+   "direct https://hdl.handle.net/10397/41289 -> 200 match=0.25",
+   "direct https://ira.lib.polyu.edu.hk/handle/10397/41289 -> 200 match=0.25",
+   "direct https://ira.lib.polyu.edu.hk/handle/10397/41289 -> 200 match=0.25",
+   "wayback none for hdl.handle.net/10397/41289",
+   "wayback none for ira.lib.polyu.edu.hk/handle/10397/41289",
+   "wayback none for ira.lib.polyu.edu.hk/handle/10397/41289"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2965049114",
+   "https://hdl.handle.net/api/handles/10397/41289",
+   "https://hdl.handle.net/10397/41289",
+   "https://ira.lib.polyu.edu.hk/handle/10397/41289",
+   "https://ira.lib.polyu.edu.hk/handle/10397/41289",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10397/41289",
+   "https://archive.org/wayback/available?url=ira.lib.polyu.edu.hk/handle/10397/41289",
+   "https://archive.org/wayback/available?url=ira.lib.polyu.edu.hk/handle/10397/41289"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10397/41289",
+   "http://ira.lib.polyu.edu.hk/handle/10397/41289",
+   "https://ira.lib.polyu.edu.hk/handle/10397/41289"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Análisis de la resistencia a la compresión del hormigón al emplear vidrio reciclado molido en reemplazo parcial del agregado fino",
+  "result": null,
+  "log": [
+   "direct https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20240521041956id_/https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%C3%B1afiel%20Carrillo%20Daniela%20Alejandra.pdf -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2567490439",
+   "https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf",
+   "https://archive.org/wayback/available?url=repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf",
+   "https://web.archive.org/web/20240521041956id_/https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%C3%B1afiel%20Carrillo%20Daniela%20Alejandra.pdf"
+  ],
+  "urls": [
+   "https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Drying shrinkage behavior of recycled aggregate concrete",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/574828 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/574828"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W87573705",
+   "https://trid.trb.org/view/574828",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/574828"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/574828"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Grundlagen fuer die Verwendung von Recyclingbeton aus Betongranulat",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1089265 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1089265"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W616991967",
+   "https://trid.trb.org/view/1089265",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1089265"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1089265"
+  ],
+  "doi": null
+ },
+ {
+  "title": "The Properties of Recycled Concrete",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=576227 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=576227"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2992114002",
+   "https://trid.trb.org/view.aspx?id=576227",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=576227"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=576227"
+  ],
+  "doi": null
+ },
+ {
+  "title": "天然与再生骨料混凝土水灰比统一定则（I）——粗骨料强度的影响",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/96832A/2003002/8057319.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/96832A/2003002/8057319.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2347051498",
+   "https://www.cqvip.com/QK/96832A/2003002/8057319.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/96832A/2003002/8057319.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/96832A/2003002/8057319.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "FRP材料加固混凝土结构应用的新领域——嵌入式（NSM）加固法",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/92047X/200404/9636503.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/92047X/200404/9636503.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1605063232",
+   "https://www.cqvip.com/QK/92047X/200404/9636503.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/92047X/200404/9636503.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/92047X/200404/9636503.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Propietats en estat fresc i endurit del formigó autocompactant amb substitució parcial de ciment per pols de vidre",
+  "result": null,
+  "log": [
+   "direct https://riunet.upv.es/handle/10251/244504 -> 200 match=0.00",
+   "direct https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download -> 200 match=0.00",
+   "wayback none for riunet.upv.es/handle/10251/244504",
+   "wayback none for riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7236554601",
+   "https://riunet.upv.es/handle/10251/244504",
+   "https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download",
+   "https://archive.org/wayback/available?url=riunet.upv.es/handle/10251/244504",
+   "https://archive.org/wayback/available?url=riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download"
+  ],
+  "urls": [
+   "https://riunet.upv.es/handle/10251/244504",
+   "https://riunet.upv.es/bitstreams/426d132d-35ab-42db-997b-d7c346da4703/download"
+  ],
+  "doi": null
+ },
+ {
+  "title": "IS THERE A MARKET FOR SELF-HEALING CEMENT- BASED MATERIALS?",
+  "result": null,
+  "log": [
+   "direct https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 404 match=0.00",
+   "wayback https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2189404826",
+   "https://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://archive.org/wayback/available?url=extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf",
+   "https://web.archive.org/web/20170809004924id_/http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf"
+  ],
+  "urls": [
+   "http://extras.springer.com/2007/978-1-4020-6250-6/documents/82.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "28 d和90 d粉煤灰混凝土性能的对比分析",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/94658A/201410/662841877.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/94658A/201410/662841877.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1556324722",
+   "https://www.cqvip.com/QK/94658A/201410/662841877.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/94658A/201410/662841877.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/94658A/201410/662841877.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A 10-YEAR REPORT ON PERFORMANCE OF BONDED CONCRETE RESURFACINGS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/95307 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95307"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W632010855",
+   "https://trid.trb.org/view/95307",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95307"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95307"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Beton harcının dayanım ve dona dayanıklılığının iyileştirilmesi için farklı tür puzolan kullanımı",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "direct https://search.trdizin.gov.tr/yayin/detay/51887 -> 200 match=0.00",
+   "direct https://hdl.handle.net/11508/36950 -> 500 match=0.00",
+   "direct https://app.trdizin.gov.tr/makale/TlRFNE9EYzM/beton-harcinin-dayanim-ve-dona-dayanikliliginin-iyilestirilmesi-icin-farkli-tur-puzolan-kullanimi -> 000 match=0.00",
+   "wayback none for search.trdizin.gov.tr/yayin/detay/51887",
+   "wayback none for hdl.handle.net/11508/36950",
+   "wayback none for app.trdizin.gov.tr/makale/TlRFNE9EYzM/beton-harcinin-dayanim-ve-dona-dayanikliliginin-iyilestirilmesi-icin-farkli-tur-puzolan-kullanimi"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3166346285",
+   "https://hdl.handle.net/api/handles/11508/36950",
+   "https://search.trdizin.gov.tr/yayin/detay/51887",
+   "https://hdl.handle.net/11508/36950",
+   "https://app.trdizin.gov.tr/makale/TlRFNE9EYzM/beton-harcinin-dayanim-ve-dona-dayanikliliginin-iyilestirilmesi-icin-farkli-tur-puzolan-kullanimi",
+   "https://archive.org/wayback/available?url=search.trdizin.gov.tr/yayin/detay/51887",
+   "https://archive.org/wayback/available?url=hdl.handle.net/11508/36950",
+   "https://archive.org/wayback/available?url=app.trdizin.gov.tr/makale/TlRFNE9EYzM/beton-harcinin-dayanim-ve-dona-dayanikliliginin-iyilestirilmesi-icin-farkli-tur-puzolan-kullanimi"
+  ],
+  "urls": [
+   "https://search.trdizin.gov.tr/yayin/detay/51887",
+   "https://hdl.handle.net/11508/36950",
+   "https://app.trdizin.gov.tr/makale/TlRFNE9EYzM/beton-harcinin-dayanim-ve-dona-dayanikliliginin-iyilestirilmesi-icin-farkli-tur-puzolan-kullanimi"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Beton wałowany jako nawierzchnia dróg lokalnych",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1531759986",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki popiołowy CEM II/B-V 32,5 R",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1042901676",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB1-0017-0093"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki wieloskładnikowy CEM II/B-M (V-W) 32,5R - skład, właściwości i możliwości zastosowania w budownictwie",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1484582615",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0003-0087"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki wieloskładnikowy CEM V/A (S-V) 32,5R-LH",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W798405529",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0069-0105"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki żużlowy CEM II/B-S 42,5",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W856019632",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPB3-0026-0021"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement portlandzki żużlowy składnikiem betonu w budowie drogi Zimna Wódka - Ujazd",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W758847325",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140"
+  ],
+  "urls": [
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0140"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Chemistry and technology of lime and limestone / Robert S. Boynton",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20170817112209/http://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+   "original": "http://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+   "snapshot": "20170817112209",
+   "http": "200",
+   "match": 1.0,
+   "meta": {},
+   "snippet": "chemistry and technology of lime and limestone robert s boynton tj et bt 31 19 697 45 td author boynton robert s tj et bt 31 19 663 44 td subject 1 batu kapur 2 gamping tj et bt 31 19 649 27 td publisher new york john wiley sons tj et bt 31 19 635 09 td year 1980 tj et bt 31 19 620 92 td stock 2 tj et bt 31 19 606 75 td index page index hlm 565 574 ref berbagai halaman tj et bt 31 19 589 74 td info xii 574 hlm il tab 24 cm tj et bt f4 8 00 tf et q 0 502 g bt 284 96 25 95 td page 1 tj et q endstream endobj 1 0 obj endobj 5 0 obj endobj 6 0 obj endobj 7 0 obj endobj 8 0 obj endobj 2 0 obj xobjec",
+   "evidenceFile": "ev/chemistryandtechnologyoflimeandlimestone-wb.html"
+  },
+  "log": [
+   "direct https://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf -> 418 match=0.00",
+   "wayback https://web.archive.org/web/20170817112209id_/http://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W196089478",
+   "https://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+   "https://archive.org/wayback/available?url=library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+   "https://web.archive.org/web/20170817112209id_/http://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf"
+  ],
+  "urls": [
+   "http://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Comportamento del calcestruzzo riciclato sotto carichi ciclici",
+  "result": null,
+  "log": [
+   "direct https://openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf -> 000 match=0.00",
+   "wayback none for openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W102700776",
+   "https://openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf",
+   "https://archive.org/wayback/available?url=openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf"
+  ],
+  "urls": [
+   "http://openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ETTRINGITE ET THAUMASITE DANS LE MORTIER DE LA DIGUE DU LARGE DU PORT DE CHERBOURG",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1059081 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1059081"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W658077121",
+   "https://trid.trb.org/view/1059081",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1059081"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1059081"
+  ],
+  "doi": null
+ },
+ {
+  "title": "INTERACTION ENTRE LES REDUCTEURS D'EAU-PLASTIFIANTS ET LES CIMENTS. EXPERIENCE TIREE DES CHAUSSEES EN BETON",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1029522 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1029522"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W587091185",
+   "https://trid.trb.org/view/1029522",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1029522"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1029522"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Interracial Interaction of Aggregate-Cement Paste in Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/201501/664200285.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3139775076",
+   "https://www.cqvip.com/QK/84253X/201501/664200285.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/201501/664200285.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "L'ERODABILITE DES MATERIAUX DE LA COUCHE DE FONDATION ET DE LA COUCHE DE FORME DES CHAUSSEES EN BETON",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1052422 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1052422"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W597306804",
+   "https://trid.trb.org/view/1052422",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1052422"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1052422"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ODOT EXPERIENCE WITH SILICA-FUME CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/302184 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/302184"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W642097953",
+   "https://trid.trb.org/view/302184",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/302184"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/302184"
+  ],
+  "doi": null
+ },
+ {
+  "title": "REVETEMENTS EN BETON. PARTENARIAT CIMBETON, SPECBEA, SNBPE POUR LE DEVELOPPEMENT DU BETON DE CIMENT DANS LES CHAUSSEES",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/951305 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/951305"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W760343807",
+   "https://trid.trb.org/view/951305",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/951305"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/951305"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Studio di conglomeranti cementizi contenenti differenti percentuali di calcestruzzo riciclato",
+  "result": null,
+  "log": [
+   "direct https://riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf -> 200 match=0.00",
+   "wayback none for riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2230420815",
+   "https://riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf",
+   "https://archive.org/wayback/available?url=riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf"
+  ],
+  "urls": [
+   "https://riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "UNTERSUCHUNGEN VON MASSENBETON IN DER TEMPERATURSPANNUNGS-PRUEFMASCHINE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1011737 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1011737"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W592266944",
+   "https://trid.trb.org/view/1011737",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1011737"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1011737"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Uçucu Kül İçeren Beton İçin Aşınma-Boşluk Oranı-Dayanım Modeli",
+  "result": {
+   "route": "direct",
+   "url": "https://dergipark.org.tr/tr/pub/tekderg/article/155341",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.Title": [
+     "Uçucu Kül İçeren Beton İçin Aşınma-Boşluk Oranı-Dayanım Modeli"
+    ],
+    "DC.Source": [
+     "Teknik Dergi"
+    ],
+    "DC.Source.ISSN": [
+     "1300-3453"
+    ],
+    "DC.Source.Issue": [
+     "69"
+    ],
+    "DC.Source.URI": [
+     "https://dergipark.org.tr/tr/pub/tekderg"
+    ],
+    "DC.Source.Volume": [
+     "14"
+    ],
+    "DC.Type": [
+     "Text.Serial.Journal"
+    ],
+    "DC.Creator.PersonalName": [
+     "Cengiz Duran Atiş"
+    ],
+    "DC.Identifier": [
+     "155341"
+    ],
+    "DC.Identifier.pageNumber": [
+     "-"
+    ],
+    "DC.Identifier.URI": [
+     "https://dergipark.org.tr/tr/pub/tekderg/article/155341"
+    ],
+    "DC.Language": [
+     "tr scheme=\"ISO639-1\""
+    ],
+    "citation_journal_title": [
+     "Teknik Dergi"
+    ],
+    "citation_issn": [
+     "1300-3453"
+    ],
+    "citation_author": [
+     "Cengiz Duran Atiş"
+    ],
+    "citation_publisher": [
+     "TMMOB İnşaat Mühendisleri Odası",
+     "TMMOB İnşaat Mühendisleri Odası"
+    ],
+    "citation_title": [
+     "Uçucu Kül İçeren Beton İçin Aşınma-Boşluk Oranı-Dayanım Modeli"
+    ],
+    "citation_publication_date": [
+     "2003-10-01"
+    ],
+    "citation_volume": [
+     "14"
+    ],
+    "citation_issue": [
+     "69"
+    ],
+    "citation_abstract_html_url": [
+     "https://dergipark.org.tr/tr/pub/tekderg/article/155341"
+    ],
+    "citation_language": [
+     "tr"
+    ],
+    "html_title": [
+     "Uçucu Kül İçeren Beton İçin Aşınma-Boşluk Oranı-Dayanım Modeli - Teknik Dergi"
+    ]
+   },
+   "snippet": "ucucu kul iceren beton icin asınma bosluk oranı dayanım modeli teknik dergi icerige atla turkce turkce ingilizce giris yonetici paneli kullanıcı paneli bilimsel yayın koordinatoru paneli dergilerim arastırmalarım takiplerim profil cıkıs ucucu kul iceren beton icin asınma bosluk oranı dayanım modeli cilt 14 sayı 69 1 ekim 2003 cengiz duran atis teknik dergi kaynak goster kutuphaneme ekle kutuphaneye eklendi tr oz anahtar kelimeler ucucu kul iceren beton icin asınma bosluk oranı dayanım modeli oz anahtar kelimeler ayrıntılar birincil dil turkce konular bolum yazarlar cengiz duran atis bu kisi be",
+   "evidenceFile": "ev/ucucukulicerenbetonicinasınmaboslukoranı-d1.html"
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://dergipark.org.tr/tr/pub/tekderg/issue/12785/155341 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2619512496",
+   "https://api.crossref.org/works/10.18400/td.19650",
+   "https://api.datacite.org/dois/10.18400/td.19650",
+   "https://doi.org/10.18400/td.19650",
+   "https://dergipark.org.tr/tr/pub/tekderg/issue/12785/155341"
+  ],
+  "urls": [
+   "https://dergipark.org.tr/tr/pub/tekderg/issue/12785/155341",
+   "http://dergipark.gov.tr/tekderg/issue/12785/155341"
+  ],
+  "doi": "10.18400/td.19650"
+ },
+ {
+  "title": "セメント硬化体の細孔分布とイオンの拡散",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3007760114",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902058850379840&rel=0"
+  ],
+  "doi": null
+ },
+ {
+  "title": "リン酸石膏の処分とカルシウムルーピングプロセスによるセメント工場のCO 2 捕獲との間の相乗効果の最適化",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3119642474",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702286434854228"
+  ],
+  "doi": null
+ },
+ {
+  "title": "三掺（S95矿粉＋II级粉煤灰＋石屑）配制C30抗渗P6泵送混凝土在污水处理厂生化池（CASS池）的应用实例",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/87751X/201208/42708015.html -> 000 match=0.00",
+   "wayback none for www.cqvip.com/QK/87751X/201208/42708015.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W756216318",
+   "https://www.cqvip.com/QK/87751X/201208/42708015.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/87751X/201208/42708015.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/87751X/201208/42708015.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "低温变温（5℃→-3℃）养护下不同水灰比混凝土抗氯离子渗透性试验研究",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90627X/201607/669704363.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90627X/201607/669704363.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2531080332",
+   "https://www.cqvip.com/QK/90627X/201607/669704363.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90627X/201607/669704363.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90627X/201607/669704363.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米C-S-H对粉煤灰/矿粉双掺混凝土性能的影响",
+  "result": null,
+  "log": [
+   "direct https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267 -> 000 match=0.00",
+   "wayback none for gsytb.jtxb.cn/CN/Y2020/V39/I10/3267"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3155443407",
+   "https://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267",
+   "https://archive.org/wayback/available?url=gsytb.jtxb.cn/CN/Y2020/V39/I10/3267"
+  ],
+  "urls": [
+   "http://gsytb.jtxb.cn/CN/Y2020/V39/I10/3267"
+  ],
+  "doi": null
+ },
+ {
+  "title": "纳米SiO2与水泥硬化浆体中Ca（OH）2的反应",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90326X/200305/7988069.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90326X/200305/7988069.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W770335982",
+   "https://www.cqvip.com/QK/90326X/200305/7988069.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90326X/200305/7988069.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90326X/200305/7988069.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "超大掺量粉煤灰在大体积底板混凝土中的研究应用——深圳平安金融中心4.5m厚大体积底板",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/89772X/201210/682776790201210035.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/89772X/201210/682776790201210035.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2510661342",
+   "https://www.cqvip.com/QK/89772X/201210/682776790201210035.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/89772X/201210/682776790201210035.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/89772X/201210/682776790201210035.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CARBONATION IN REINFORCED CONCRETE: A BIBLIOGRAPHY",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/666217 -> 500 match=0.00",
+   "direct https://trid.trb.org/view/281728 -> 000 match=0.00",
+   "wayback none for hdl.handle.net/10068/666217",
+   "wayback none for trid.trb.org/view/281728"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W606883442",
+   "https://hdl.handle.net/api/handles/10068/666217",
+   "https://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/666217",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/281728"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/666217",
+   "https://trid.trb.org/view/281728"
+  ],
+  "doi": null
+ },
+ {
+  "title": "DURABILITE DES BETONS : CAS DES GRANULATS REACTIFS",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1038773 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1038773"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W607926276",
+   "https://trid.trb.org/view/1038773",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1038773"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1038773"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HOW CHLORIDES AFFECT CONCRETE USED WITH REINFORCING STEEL",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/95643 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/95643"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W603402389",
+   "https://trid.trb.org/view/95643",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/95643"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/95643"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Influenţa coroziunii elementelor din beton asupra stabilităţii construcţiilor",
+  "result": null,
+  "log": [
+   "direct https://ibn.idsi.md/vizualizare_articol/111617 -> 403 match=0.00",
+   "wayback https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3215983692",
+   "https://ibn.idsi.md/vizualizare_articol/111617",
+   "https://archive.org/wayback/available?url=ibn.idsi.md/vizualizare_articol/111617",
+   "https://web.archive.org/web/20260513044514id_/https://ibn.idsi.md/vizualizare_articol/111617"
+  ],
+  "urls": [
+   "https://ibn.idsi.md/vizualizare_articol/111617"
+  ],
+  "doi": null
+ },
+ {
+  "title": "LONGTIME STUDY OF CONCRETE DURABILITY IN SULFATE SOILS",
+  "result": null,
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://trid.trb.org/view/350738 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/350738"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2478255176",
+   "https://api.crossref.org/works/10.14359/6418",
+   "https://api.datacite.org/dois/10.14359/6418",
+   "https://doi.org/10.14359/6418",
+   "https://trid.trb.org/view/350738",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/350738"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/350738"
+  ],
+  "doi": "10.14359/6418"
+ },
+ {
+  "title": "Ocena zagrożenia korozją zbrojenia konstrukcji żelbetowych. Cz. 1 - badania właściwości ochronnych betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W760476743",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB6-0006-0061"
+  ],
+  "doi": null
+ },
+ {
+  "title": "PENETRATION OF CHLORIDE INTO CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/139138 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/139138"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W822755667",
+   "https://trid.trb.org/view/139138",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/139138"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/139138"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Rational Approach to Durable Concrete Repairs",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2483264837",
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Cement with interground additives. Capabilities and environmental relief, Part 1.",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2775402806",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902050263749900"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ENVIRONMENTAL IMPACT ASSESSMENT OF CEMENT-CONCRETE SYSTEM",
+  "result": null,
+  "log": [
+   "direct https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001 -> 200 match=0.00",
+   "direct https://www.cqvip.com/QK/84253X/200004/4000713766.html -> 200 match=0.00",
+   "wayback none for oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "wayback none for www.cqvip.com/QK/84253X/200004/4000713766.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W995879805",
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://www.cqvip.com/QK/84253X/200004/4000713766.html",
+   "https://archive.org/wayback/available?url=oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/200004/4000713766.html"
+  ],
+  "urls": [
+   "https://oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=WLGY200004001",
+   "http://www.cqvip.com/QK/84253X/200004/4000713766.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Metropolia ja vähähiilinen betoni",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/883278 -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/883278",
+   "wayback none for www.theseus.fi/handle/10024/883278"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7127204375",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/883278"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/883278",
+   "http://www.theseus.fi/handle/10024/883278"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Vähähiilinen betoni voimalinjaelementtien tuotannossa Betroc Oy:llä",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/919313 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/handle/10024/919313",
+   "wayback none for www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162166039",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/handle/10024/919313",
+   "https://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/919313",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/handle/10024/919313",
+   "http://www.theseus.fi/bitstream/10024/919313/2/Hakala_Juho.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "A Criterion for Selection of Natural Aggregates in Concrete",
+  "result": null,
+  "log": [
+   "doi.org 500; crossref none; datacite none",
+   "direct https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf -> 200 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2603472591",
+   "https://api.crossref.org/works/10.22071/gsj.2016.42136",
+   "https://api.datacite.org/dois/10.22071/gsj.2016.42136",
+   "https://doi.org/10.22071/gsj.2016.42136",
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://archive.org/wayback/available?url=www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf",
+   "https://web.archive.org/web/20260419234532id_/https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf"
+  ],
+  "urls": [
+   "https://www.gsjournal.ir/article_42136_347d6bd3ea67c4316f0501272a77d0b7.pdf"
+  ],
+  "doi": "10.22071/gsj.2016.42136"
+ },
+ {
+  "title": "Bergkrossmaterial som ballast i Betong",
+  "result": null,
+  "log": [
+   "direct https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf -> 403 match=0.00",
+   "wayback none for www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W585294144",
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf",
+   "https://archive.org/wayback/available?url=www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "urls": [
+   "https://www.researchgate.net/profile/Bjoern_Lagerblad/publication/265349713_Bergkrossmaterial_som_ballast_i_Betong/links/55c226b108aeca747d5dc6b3.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "CONTRIBUTION TO THE STUDY OF FRESH CONCRETE RHEOLOGY",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1078067 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1078067"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W589110579",
+   "https://trid.trb.org/view/1078067",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1078067"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1078067"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tradycyjne i współczesne domieszki do betonu zmniejszające ilość wody zarobowej",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1535796158",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0007-0023"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Prediction of concrete pumping performance based on the evaluation of lubrication layer properties = 윤활층 특성의 평가에 의한 콘크리트 펌프압송 성능 예측",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20241112155212/https://koasas.kaist.ac.kr/handle/10203/180017",
+   "original": "https://koasas.kaist.ac.kr/handle/10203/180017",
+   "snapshot": "20241112155212",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "DC.creator": [
+     "최명성",
+     "Choi, Myoung-Sung"
+    ],
+    "DC.contributor": [
+     "Kim, Jin-Keun",
+     "김진근",
+     "Kim, Jin-Keun",
+     "김진근"
+    ],
+    "DCTERMS.dateAccepted": [
+     "2013-09-11T01:08:32Z"
+    ],
+    "DCTERMS.available": [
+     "2013-09-11T01:08:32Z"
+    ],
+    "DC.issued": [
+     "2013"
+    ],
+    "DC.identifier": [
+     "http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=513440&flag=dissertation",
+     "http://hdl.handle.net/10203/180017",
+     "513440/325007",
+     "020095373"
+    ],
+    "DC.description": [
+     "학위논문(박사) -  한국과학기술원 :  건설및환경공학과,  2013.2, [ vii, 161 p. ]",
+     "한국과학기술원 : 건설및환경공학과,"
+    ],
+    "DCTERMS.abstract": [
+     "In this dissertation, to propose prediction methods for the concrete pumping performance in the pipe, the properties of lubrication layer which is a dominant role in concrete pumping were evaluated. In order to predict the concrete pumping performance, the concrete flow typology within a pumping pipe should be carefully analyzed. When concrete is being transported in the pipe, the lubrication layer which forms in the vicinity between the concrete and pipe wall plays a critical role to facilitate the concrete pumping. Therefore, the mechanism for this layer formation is basically investigated with shear induced particle migration and investigated the particle concentration properties along the pipe diameter to quantitatively estimate the properties of lubrication layer. The change of particle concentration can result in different rheological properties in the concrete mixtures and it might influence the concrete flow conditions in the pipe. To demonstrate the effect of particle concentration distribution, various suspension models are used to simulate the concrete pumping condition. \rThe concrete constituents, especially sand and gravel, have angular and irregular shapes that can cause different flow conditions. To consider the particle shape effects on numerical simulation, the intrinsic viscosity concept which measures the effect of individual particles shape on viscosity is used to simulate precisely the shear induced particle migration. To determine an optimum intrinsic viscosity considering the particle shape effects, the circularity concept which is one method to represent shape effects is quantified using digital image processing technique.\rThese factors, i.e. rheological properties due to particle concentration changes and particle shape effects, are considered carefully when performing numerical simulations in order to precisely verify the concrete flow in pipe.\rAlong with numerical approach, to estimate analytically the pumping pressure and flow rates..."
+    ],
+    "DC.language": [
+     "eng"
+    ],
+    "DC.publisher": [
+     "한국과학기술원"
+    ],
+    "DC.subject": [
+     "concrete pumping",
+     "lubrication layer",
+     "shear induced particle migration",
+     "rheology",
+     "콘크리트 펌핑",
+     "윤활층",
+     "전단유도입자이동",
+     "레올로지",
+     "입자모양영향",
+     "particle shape effect"
+    ],
+    "DC.title": [
+     "Prediction of concrete pumping performance based on the evaluation of lubrication layer properties"
+    ],
+    "DCTERMS.alternative": [
+     "윤활층 특성의 평가에 의한 콘크리트 펌프압송 성능 예측"
+    ],
+    "DC.type": [
+     "Thesis(Ph.D)"
+    ],
+    "citation_keywords": [
+     "concrete pumping; lubrication layer; shear induced particle migration; rheology; 콘크리트 펌핑; 윤활층; 전단유도입자이동; 레올로지; 입자모양영향; particle shape effect; Thesis(Ph.D)"
+    ],
+    "citation_publication_date": [
+     "2013"
+    ],
+    "citation_title": [
+     "Prediction of concrete pumping performance based on the evaluation of lubrication layer properties"
+    ],
+    "citation_publisher": [
+     "한국과학기술원"
+    ],
+    "citation_author": [
+     "Choi, Myoung-Sung",
+     "최명성"
+    ],
+    "citation_abstract_html_url": [
+     "https://koasas.kaist.ac.kr/handle/10203/180017"
+    ],
+    "html_title": [
+     "DSpace at KOASAS: Prediction of concrete pumping performance based on the evaluation of lubrication layer properties"
+    ]
+   },
+   "snippet": "prediction of concrete pumping performance based on the evaluation of lubrication layer properties koasas menu about koasas kaist library 검색 advanced search koasas about koasas open access policy browse communities collections researchers at kaist titles subject by date rss 1 0 rss 2 0 atom 1 0 search by issn search by publisher search by journal search dspace at koasas college of engineering 공과대학 dept of civil and environmental engineering 건설및환경공학과 ce theses ph d 박사논문 prediction of concrete pumping performance based on the evaluation of lubrication layer proper",
+   "evidenceFile": "ev/predictionofconcretepumpingperformanceba-wb.html"
+  },
+  "log": [
+   "direct https://koasas.kaist.ac.kr/handle/10203/180017 -> 200 match=0.00",
+   "wayback https://web.archive.org/web/20241112155212id_/https://koasas.kaist.ac.kr/handle/10203/180017 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2607181732",
+   "https://koasas.kaist.ac.kr/handle/10203/180017",
+   "https://archive.org/wayback/available?url=koasas.kaist.ac.kr/handle/10203/180017",
+   "https://web.archive.org/web/20241112155212id_/https://koasas.kaist.ac.kr/handle/10203/180017"
+  ],
+  "urls": [
+   "https://koasas.kaist.ac.kr/handle/10203/180017"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Tarjouslaskentatyökalu PainavaPinta Oy:lle : Betoni- ja muottityön urakkamenekkilaskuri",
+  "result": null,
+  "log": [
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/handle/10024/915746 -> 403 match=0.00",
+   "direct https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf -> 403 match=0.00",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/handle/10024/915746",
+   "wayback none for www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7159748926",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/handle/10024/915746",
+   "https://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/handle/10024/915746",
+   "https://archive.org/wayback/available?url=www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf"
+  ],
+  "urls": [
+   "https://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/handle/10024/915746",
+   "http://www.theseus.fi/bitstream/10024/915746/2/Kivimaki_Miina.pdf"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THERMAL TREATMENT OF CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/97440 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/97440"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2575603595",
+   "https://trid.trb.org/view/97440",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/97440"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/97440"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Impacts of bentonite and cement mixing ratio on deformation characteristics of plastic concrete",
+  "result": null,
+  "log": [
+   "doi.org 200; crossref none; datacite none",
+   "direct https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a -> 403 match=0.00",
+   "wayback none for doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7213271991",
+   "https://api.crossref.org/works/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://api.datacite.org/dois/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doi.org/10.16198/j.cnki.1009-640x.2016.04.011",
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a",
+   "https://archive.org/wayback/available?url=doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "urls": [
+   "https://doaj.org/article/43aeb97d7e734e3b8c0fcdaa4b40be3a"
+  ],
+  "doi": "10.16198/j.cnki.1009-640x.2016.04.011"
+ },
+ {
+  "title": "The Long Term Creep of the Wylfa P.V. Concrete for Loading Ages up to 12 1/2 Years",
+  "result": null,
+  "log": [
+   "direct https://www.lib.ncsu.edu/resolver/1840.20/28318 -> 200 match=0.12",
+   "direct https://repository.lib.ncsu.edu/handle/1840.20/28318 -> 200 match=0.12",
+   "wayback none for www.lib.ncsu.edu/resolver/1840.20/28318",
+   "wayback none for repository.lib.ncsu.edu/handle/1840.20/28318"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3197318796",
+   "https://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318",
+   "https://archive.org/wayback/available?url=www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://archive.org/wayback/available?url=repository.lib.ncsu.edu/handle/1840.20/28318"
+  ],
+  "urls": [
+   "http://www.lib.ncsu.edu/resolver/1840.20/28318",
+   "https://repository.lib.ncsu.edu/handle/1840.20/28318"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Valorisation des boues de papeterie comme matières premières secondaires dans les mortiers de ciment Portland : incidence des conditions d’incinération sur la résistance mécanique des mortiers .",
+  "result": null,
+  "log": [
+   "direct https://hal.science/hal-04799890 -> 200 match=0.00",
+   "wayback none for hal.science/hal-04799890"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W4404680568",
+   "https://hal.science/hal-04799890",
+   "https://archive.org/wayback/available?url=hal.science/hal-04799890"
+  ],
+  "urls": [
+   "https://hal.science/hal-04799890"
+  ],
+  "doi": null
+ },
+ {
+  "title": "用ANSYS Solid 65单元分析混凝土组合构件复杂应力",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/90571X/2003006/8087629.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/90571X/2003006/8087629.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2339099228",
+   "https://www.cqvip.com/QK/90571X/2003006/8087629.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/90571X/2003006/8087629.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/90571X/2003006/8087629.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Deneysel Sonuçların Analizinde Yapay Sinir Ağları Kullanımı Ve Beton Dayanım Testi İçin Bir Uygulama",
+  "result": null,
+  "log": [
+   "direct https://acikerisim.ticaret.edu.tr/xmlui/handle/11467/776 -> 403 match=0.00",
+   "wayback none for acikerisim.ticaret.edu.tr/xmlui/handle/11467/776"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W610834203",
+   "https://acikerisim.ticaret.edu.tr/xmlui/handle/11467/776",
+   "https://archive.org/wayback/available?url=acikerisim.ticaret.edu.tr/xmlui/handle/11467/776"
+  ],
+  "urls": [
+   "http://acikerisim.ticaret.edu.tr/xmlui/handle/11467/776"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Der heutige Stand der Festigkeitsprüfung von Zement nach Normen und deren Wert für die Praxis der Beton- und Eisenbeton-Bauweise",
+  "result": null,
+  "log": [
+   "direct https://www.dora.lib4ri.ch/empa/item/empa:30261 -> 200 match=0.00",
+   "wayback none for www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7233638520",
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261",
+   "https://archive.org/wayback/available?url=www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "urls": [
+   "https://www.dora.lib4ri.ch/empa/item/empa:30261"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Ocena wytrzymałości betonu na ściskanie w konstrukcjach na podstawie badania odwiertów rdzeniowych w świetle nowej normy europejskiej EN 13791:2007",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1491959663",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0059-0096"
+  ],
+  "doi": null
+ },
+ {
+  "title": "RILEM TC 154-EMC「金属腐食を測定する電気化学的手法」 コンクリートの電気抵抗率に関する現場測定試験方法",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3200241007",
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902181054322840"
+  ],
+  "doi": null
+ },
+ {
+  "title": "HIGH PERFORMANCE, HIGH-VOLUME FLY ASH CONCRETE FOR SUSTAINABLE DEVELOPMENT",
+  "result": null,
+  "log": [
+   "direct https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 404 match=0.00",
+   "direct https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606 -> 429 match=0.57",
+   "wayback https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf -> 000 match=0.00",
+   "wayback none for citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2241361961",
+   "https://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606",
+   "https://archive.org/wayback/available?url=web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://web.archive.org/web/20210630142636id_/http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "https://archive.org/wayback/available?url=citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "urls": [
+   "http://web.pdx.edu/~cgriffin/references/Mehta_2004_HVFA_Concrete.pdf",
+   "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.526.606"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ANALYSIS OF STRESSES IN CONCRETE PAVEMENTS DUE TO VARIATIONS OF TEMPERATURE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/105055 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260513103409id_/https://trid.trb.org/View/105055 -> 000 match=0.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W41142470",
+   "https://trid.trb.org/view/105055",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/105055",
+   "https://web.archive.org/web/20260513103409id_/https://trid.trb.org/View/105055"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/105055"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THICKNESS DESIGN FOR CONCRETE HIGHWAY AND STREET PAVEMENTS",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260711233425/https://trid.trb.org/View/275513",
+   "original": "https://trid.trb.org/view/275513",
+   "snapshot": "20260711233425",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "1984-00-00"
+    ],
+    "citation_title": [
+     "THICKNESS DESIGN FOR CONCRETE HIGHWAY AND STREET PAVEMENTS"
+    ],
+    "citation_author": [
+     "Packard, R G"
+    ],
+    "citation_publication_date": [
+     "1984/00/00"
+    ],
+    "html_title": [
+     "THICKNESS DESIGN FOR CONCRETE HIGHWAY AND STREET PAVEMENTS - TRID"
+    ]
+   },
+   "snippet": "thickness design for concrete highway and street pavements trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database thickness design for concrete highway and street pavements the publication deals with methods of determining slab thicknesses adequate to carry traffic loads on concrete pavement structures the ",
+   "evidenceFile": "ev/thicknessdesignforconcretehighwayandstre-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/view/275513 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260711233425id_/https://trid.trb.org/View/275513 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2571895940",
+   "https://trid.trb.org/view/275513",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/275513",
+   "https://web.archive.org/web/20260711233425id_/https://trid.trb.org/View/275513"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/275513"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Use of Low-CO2 Portland Limestone Cement for Pavement Construction in Canada",
+  "result": null,
+  "log": [
+   "doi.org 302; crossref none; datacite none",
+   "direct https://trid.trb.org/view/987334 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/987334"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1549811631",
+   "https://api.crossref.org/works/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://api.datacite.org/dois/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://doi.org/10.6135/ijprt.org.tw/2010.3(5).228",
+   "https://trid.trb.org/view/987334",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/987334"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/987334"
+  ],
+  "doi": "10.6135/ijprt.org.tw/2010.3(5).228"
+ },
+ {
+  "title": "Chemically-bonded cementitious materials based on metakaolin",
+  "result": null,
+  "log": [
+   "direct https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508 -> 503 match=0.00",
+   "wayback none for jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2213467414",
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508",
+   "https://archive.org/wayback/available?url=jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508"
+  ],
+  "urls": [
+   "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902004433611508"
+  ],
+  "doi": null
+ },
+ {
+  "title": "X-ray diffraction studies on the transformation of kaolinite into metakaolin: I. Variability of interlayer spacings",
+  "result": null,
+  "log": [
+   "direct https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of -> 403 match=0.00",
+   "wayback none for pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2910228067",
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of",
+   "https://archive.org/wayback/available?url=pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "urls": [
+   "https://pubs.geoscienceworld.org/msa/ammin/article/54/9-10/1409/540554/X-ray-diffraction-studies-on-the-transformation-of"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Odpady ceramiki sanitarnej jako kruszywo do betonu",
+  "result": null,
+  "log": [
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "direct https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010 -> 403 match=0.00",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "wayback none for yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W1001658298",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "https://archive.org/wayback/available?url=yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "urls": [
+   "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010",
+   "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0010"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Effects of Admixtures on Portland Cement Concretes Incorporating Blast Furnace Slag and Fly Ash",
+  "result": {
+   "route": "direct",
+   "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6710",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "description": [
+     "The effect of chloride, chloride free accelerators and superplasticizer admixtures on the physio-chemical properties of two types of concrete were determined. F"
+    ],
+    "citation_journal_title": [
+     "Special Publication"
+    ],
+    "citation_journal_abbrev": [
+     "SP"
+    ],
+    "citation_author": [
+     "Noel P. Mailvaganam",
+     "R.S. Bhagrath,\nand K.L. Shaw"
+    ],
+    "citation_title": [
+     "Effects of Admixtures on Portland Cement Concretes Incorporating Blast Furnace Slag and Fly Ash"
+    ],
+    "citation_publication_date": [
+     "1983/05/01"
+    ],
+    "citation_volume": [
+     "79"
+    ],
+    "citation_firstpage": [
+     "519"
+    ],
+    "citation_lastpage": [
+     "538"
+    ],
+    "citation_pdf_url": [
+     "https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=6710"
+    ],
+    "citation_language": [
+     "English"
+    ],
+    "citation_keywords": [
+     "accelerating agents; admixtures; blast furnace slag; calcium chlorides; compressive strength; concretes; fly ash; plasticizers; portland cement; portland pozzolan cements; portland slag cements; setting (hardening); temperature."
+    ],
+    "citation_doi": [
+     "10.14359/6710"
+    ],
+    "html_title": [
+     "Effects of Admixtures on Portland Cement Concretes Incorporating Blast Furnace Slag and Fly Ash"
+    ]
+   },
+   "snippet": "effects of admixtures on portland cement concretes incorporating blast furnace slag and fly ash search select regional portal aci global home middle east region portal western europe region portal subscribe to email first name is required invalid characters last name is required invalid characters email address is required invalid email address please select a country afghanistan aland islands albania algeria american samoa andorra angola anguilla antarctica antigua and barbuda argentina armenia aruba australia austria azerbaijan bahamas bahrain bangladesh barbados belarus belgium belize benin",
+   "evidenceFile": "ev/effectsofadmixturesonportlandcementconcr-d1.html"
+  },
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6710 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W2288692499",
+   "https://api.crossref.org/works/10.14359/6710",
+   "https://api.datacite.org/dois/10.14359/6710",
+   "https://doi.org/10.14359/6710",
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6710"
+  ],
+  "urls": [
+   "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/6710"
+  ],
+  "doi": "10.14359/6710"
+ },
+ {
+  "title": "STRENGTH EFFECT OF F MINERAL ADMIXTURE ON CEMENT CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://www.cqvip.com/QK/84253X/199001/4001628659.html -> 200 match=0.00",
+   "wayback none for www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W917126567",
+   "https://www.cqvip.com/QK/84253X/199001/4001628659.html",
+   "https://archive.org/wayback/available?url=www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "urls": [
+   "http://www.cqvip.com/QK/84253X/199001/4001628659.html"
+  ],
+  "doi": null
+ },
+ {
+  "title": "STUDIES RELATING TO THE TESTING OF FLY ASH FOR USE IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view.aspx?id=95750 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view.aspx?id=95750"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W562678067",
+   "https://trid.trb.org/view.aspx?id=95750",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=95750"
+  ],
+  "urls": [
+   "https://trid.trb.org/view.aspx?id=95750"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Sustainable bio-concrete performance and durability using calcite precipitating bacteria along with fly ash",
+  "result": null,
+  "log": [
+   "doi.org 404; crossref none; datacite none",
+   "direct https://doaj.org/article/788875029d9a48deb6b6f428123c1176 -> 403 match=0.00",
+   "wayback none for doaj.org/article/788875029d9a48deb6b6f428123c1176"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7237060735",
+   "https://api.crossref.org/works/10.62638/zasmat2050",
+   "https://api.datacite.org/dois/10.62638/zasmat2050",
+   "https://doi.org/10.62638/zasmat2050",
+   "https://doaj.org/article/788875029d9a48deb6b6f428123c1176",
+   "https://archive.org/wayback/available?url=doaj.org/article/788875029d9a48deb6b6f428123c1176"
+  ],
+  "urls": [
+   "https://doaj.org/article/788875029d9a48deb6b6f428123c1176"
+  ],
+  "doi": "10.62638/zasmat2050"
+ },
+ {
+  "title": "EXPERIMENTAL INSTALLATION OF A CONCRETE BRIDGE-DECK OVERLAY CONTAINING SILICA FUME",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/302185 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/302185"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W577393734",
+   "https://trid.trb.org/view/302185",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/302185"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/302185"
+  ],
+  "doi": null
+ },
+ {
+  "title": "MICROSILICA IN CONCRETE",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/196477 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/196477"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W49817956",
+   "https://trid.trb.org/view/196477",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/196477"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/196477"
+  ],
+  "doi": null
+ },
+ {
+  "title": "ROCKBOND: A NEW MICROSILICA CONCRETE BRIDGE DECK OVERLAY MATERIAL",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/714874 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/714874"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W86357994",
+   "https://trid.trb.org/view/714874",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/714874"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/714874"
+  ],
+  "doi": null
+ },
+ {
+  "title": "SILICA FUME, LATEX-MODIFIED PORTLAND CEMENT MORTARS AND CONCRETES",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/359786 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/359786"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W27328384",
+   "https://trid.trb.org/view/359786",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/359786"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/359786"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Drying Shrinkage Characteristics of Magnesium Slag Composite Admixture Concrete",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece -> 403 match=0.00",
+   "wayback none for doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162820792",
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece",
+   "https://archive.org/wayback/available?url=doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "urls": [
+   "https://doaj.org/article/9b6e6e67faa9457b87f68c5c9a25eece"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Experimental Study on Grouting Material of Red Mud–blast Furnace Slag–steel Slag Ternary System",
+  "result": null,
+  "log": [
+   "direct https://doaj.org/article/007a9f363892471da29db11c337615aa -> 403 match=0.00",
+   "wayback none for doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W7162843139",
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa",
+   "https://archive.org/wayback/available?url=doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "urls": [
+   "https://doaj.org/article/007a9f363892471da29db11c337615aa"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Optimierter Einsatz von feinzerkleinertem Recyclingbeton in Schlackenzement / Optimizing the use of recycled concrete fines in slag-cement",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/940621 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/940621"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W642216040",
+   "https://trid.trb.org/view/940621",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/940621"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/940621"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE GLASS CONTENT OF SLAG AND HYDRAULIC ACTIVITY",
+  "result": null,
+  "log": [
+   "direct https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081 -> 000 match=0.00",
+   "wayback none for pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3193850149",
+   "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081",
+   "https://archive.org/wayback/available?url=pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "urls": [
+   "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL83X0476081"
+  ],
+  "doi": null
+ },
+ {
+  "title": "THE NEW CONCRETE STANDARDS - GETTING STARTED - AN INTRODUCTORY GUIDE TO THE NEW STANDARDS FOR CONCRETE BS EN 206-1 AND BS 8500",
+  "result": null,
+  "log": [
+   "handle API -> none",
+   "direct https://hdl.handle.net/10068/654745 -> 500 match=0.00",
+   "direct https://trid.trb.org/view.aspx?id=753874 -> 000 match=0.00",
+   "wayback none for hdl.handle.net/10068/654745",
+   "wayback none for trid.trb.org/view.aspx?id=753874"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W81394830",
+   "https://hdl.handle.net/api/handles/10068/654745",
+   "https://hdl.handle.net/10068/654745",
+   "https://trid.trb.org/view.aspx?id=753874",
+   "https://archive.org/wayback/available?url=hdl.handle.net/10068/654745",
+   "https://archive.org/wayback/available?url=trid.trb.org/view.aspx?id=753874"
+  ],
+  "urls": [
+   "http://hdl.handle.net/10068/654745",
+   "https://trid.trb.org/view.aspx?id=753874"
+  ],
+  "doi": null
+ },
+ {
+  "title": "D-Cracking Field Performance of Kansas Portland Cement Concrete Pavements Containing Limestone",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/view/1130497 -> 000 match=0.00",
+   "wayback none for trid.trb.org/view/1130497"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W613506039",
+   "https://trid.trb.org/view/1130497",
+   "https://archive.org/wayback/available?url=trid.trb.org/view/1130497"
+  ],
+  "urls": [
+   "https://trid.trb.org/view/1130497"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Duracem Evaluation for Kansas Paving Applications",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/View/2026344 -> 000 match=0.00",
+   "wayback none for trid.trb.org/View/2026344"
+  ],
+  "urlsTried": [
+   "https://trid.trb.org/View/2026344",
+   "https://archive.org/wayback/available?url=trid.trb.org/View/2026344"
+  ],
+  "urls": [
+   "https://trid.trb.org/View/2026344"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Investigation of Quality Control/Quality Assurance Data to Review Current Specifications for Portland Cement Concrete Pavement Acceptance in Kansas",
+  "result": {
+   "route": "wayback",
+   "url": "https://web.archive.org/web/20260418171326/https://trid.trb.org/View/1566092",
+   "original": "https://trid.trb.org/View/1566092",
+   "snapshot": "20260418171326",
+   "http": "200",
+   "match": 1.0,
+   "meta": {
+    "document_type": [
+     "MO"
+    ],
+    "publication_date": [
+     "2018-10-00"
+    ],
+    "citation_title": [
+     "Investigation of Quality Control/Quality Assurance Data to Review Current Specifications for Portland Cement Concrete Pavement Acceptance in Kansas"
+    ],
+    "citation_author": [
+     "Islam, Shuvo",
+     "Wu, Xingdong",
+     "Hossain, Mustaque"
+    ],
+    "citation_publication_date": [
+     "2018/10/00"
+    ],
+    "citation_technical_report_number": [
+     "KS-18-05"
+    ],
+    "html_title": [
+     "Investigation of Quality Control/Quality Assurance Data to Review Current Specifications for Portland Cement Concrete Pavement Acceptance in Kansas - TRID"
+    ]
+   },
+   "snippet": "investigation of quality control quality assurance data to review current specifications for portland cement concrete pavement acceptance in kansas trid toggle navigation menu national academies of sciences engineering and medicine transportation research board site contents about trb annual meeting calendar committees panels programs projects publications resources databases connect with trb home mytrb contact us directory e newsletter home trid view record trid the tris and itrd database investigation of quality control quality assurance data to review current specifications for portland cem",
+   "evidenceFile": "ev/investigationofqualitycontrolqualityassu-wb.html"
+  },
+  "log": [
+   "direct https://trid.trb.org/View/1566092 -> 000 match=0.00",
+   "wayback https://web.archive.org/web/20260418171326id_/https://trid.trb.org/View/1566092 -> 200 match=1.00"
+  ],
+  "urlsTried": [
+   "https://api.openalex.org/works/W3174614332",
+   "https://trid.trb.org/View/1566092",
+   "https://archive.org/wayback/available?url=trid.trb.org/View/1566092",
+   "https://web.archive.org/web/20260418171326id_/https://trid.trb.org/View/1566092"
+  ],
+  "urls": [
+   "https://trid.trb.org/View/1566092"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 1 – Air-entraining admixtures",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1184/639208358333170000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 2 – Chemical admixtures",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/1186/639283567281100000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 3.1 – Non-reactive siliceous aggregate (wetting & drying, KTMR-23)",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/118/639208358885570000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/118/639208358885570000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/118/639208358885570000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/118/639208358885570000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/118/639208358885570000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 3.2 – Lightweight aggregate for concrete",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/120/639208359223730000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/120/639208359223730000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/120/639208359223730000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/120/639208359223730000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/120/639208359223730000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 3.4 – On-grade concrete aggregate (OGCA, freeze-thaw resistant)",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/124/639283567735070000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/124/639283567735070000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/124/639283567735070000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/124/639283567735070000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/124/639283567735070000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 3.6 – Polymer overlay aggregate / HFS",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/128/639208360401970000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/128/639208360401970000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/128/639208360401970000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/128/639208360401970000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/128/639208360401970000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 30 – Curing compounds",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/268/639050146011100000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/268/639050146011100000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/268/639050146011100000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/268/639050146011100000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/268/639050146011100000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 36 – Precure finishing aid / evaporation retarder",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/300/639258421828700000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/300/639258421828700000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/300/639258421828700000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/300/639258421828700000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/300/639258421828700000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 43 – Fibrous reinforcement",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/318/639283572335900000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/318/639283572335900000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/318/639283572335900000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/318/639283572335900000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/318/639283572335900000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 5.1 – Portland and blended hydraulic cement",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/134/639258420288470000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/134/639258420288470000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/134/639258420288470000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/134/639258420288470000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/134/639258420288470000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 5.2 – Slag cement",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/136/639076035961930000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/136/639076035961930000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/136/639076035961930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/136/639076035961930000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/136/639076035961930000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 5.6 – Shotcrete",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/144/639100270836630000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/144/639100270836630000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/144/639100270836630000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/144/639100270836630000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/144/639100270836630000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 5.7 – Silica fume",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/146/638943142530930000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/146/638943142530930000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/146/638943142530930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/146/638943142530930000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/146/638943142530930000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 5.9 – Rapid hardening cement",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/150/638943147559870000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/150/638943147559870000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/150/638943147559870000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/150/638943147559870000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/150/638943147559870000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "KDOT PQL 7.2 – Fly ash for concrete",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/168/639100271387930000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/168/639100271387930000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/168/639100271387930000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/168/639100271387930000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/168/639100271387930000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Special Provision 15-04003, Section 403 Concrete Pavement mixes",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/10038/638942160798000000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Special Provision 15-11004-R03, Section 1116 Aggregates for On-Grade Concrete",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/14903/639096087935830000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Special Provision 15-20001-R02, Section 2001 Hydraulic Cement",
+  "result": null,
+  "log": [
+   "direct https://www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000 -> 403 match=0.00",
+   "wayback none for www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000"
+  ],
+  "urlsTried": [
+   "https://www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000",
+   "https://archive.org/wayback/available?url=www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000"
+  ],
+  "urls": [
+   "https://www.ksdot.gov/home/showpublisheddocument/13342/638941547990770000"
+  ],
+  "doi": null
+ },
+ {
+  "title": "Type IL cement effects on prestressing strand bond (K-TRAN KSU-25-1, active)",
+  "result": null,
+  "log": [
+   "direct https://trid.trb.org/View/2489961 -> 000 match=0.00",
+   "wayback none for trid.trb.org/View/2489961"
+  ],
+  "urlsTried": [
+   "https://trid.trb.org/View/2489961",
+   "https://archive.org/wayback/available?url=trid.trb.org/View/2489961"
+  ],
+  "urls": [
+   "https://trid.trb.org/View/2489961"
+  ],
+  "doi": null
+ }
+]

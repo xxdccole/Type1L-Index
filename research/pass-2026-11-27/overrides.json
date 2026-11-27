@@ -1,0 +1,56 @@
+{
+ "dropRecs": {
+  "https://doi.org/10.58845/jstt.utt.2023.vn.3.1-10": {
+   "matchedTo": null,
+   "reason": "Vietnamese-language study of recycled stone powder as mineral filler in hot-mix asphalt concrete (\"bê tông nhựa\"): asphalt, not cement concrete (off-topic)"
+  },
+  "https://doi.org/10.31814/stce.huce2025-19(2v)-09": {
+   "matchedTo": null,
+   "reason": "Vietnamese-language study of fly ash as mineral filler in porous asphalt concrete (\"bê tông nhựa rỗng\"): asphalt, not cement concrete (off-topic)"
+  },
+  "https://doi.org/10.58845/jstt.utt.2023.vn.3.1.1-10": {
+   "matchedTo": null,
+   "reason": "Same asphalt-concrete filler study as listing 224 (duplicate OpenAlex record); asphalt, off-topic"
+  }
+ },
+ "recs": {
+  "Chemistry and technology of lime and limestone / Robert S. Boynton": {
+   "type": "Book",
+   "topics": [
+    "binder-white-masonry",
+    "cross-chemistry"
+   ],
+   "desc": "Book (1980) by Robert S. Boynton on the chemistry and technology of lime and limestone; content beyond bibliographic metadata not reviewed.",
+   "evidenceAppend": "Type corrected to Book (the OpenAlex lead typed it as a paper); the archived page is a library download link for the book, only the page text was read."
+  },
+  "IS THERE A MARKET FOR SELF-HEALING CEMENT- BASED MATERIALS?": {
+   "topics": [
+    "concrete-repair-grout-overlay",
+    "cross-environment-cost"
+   ]
+  },
+  "ANALYSIS OF STRESSES IN CONCRETE PAVEMENTS DUE TO VARIATIONS OF TEMPERATURE": {
+   "topics": [
+    "pavement",
+    "cross-mechanics"
+   ]
+  },
+  "THICKNESS DESIGN FOR CONCRETE HIGHWAY AND STREET PAVEMENTS": {
+   "topics": [
+    "pavement"
+   ]
+  },
+  "Investigation of Quality Control/Quality Assurance Data to Review Current Specifications for Portland Cement Concrete Pavement Acceptance in Kansas": {
+   "topics": [
+    "dot",
+    "pavement",
+    "cross-tests-codes",
+    "cross-construction"
+   ]
+  }
+ },
+ "promoteLeads": {},
+ "rejectLeads": {
+  "https://openalex.org/w3139145975": "Off-topic on screening: dielectric/piezoelectric properties of a 0-3 piezoelectric ceramic / sulfoaluminate-cement sensor composite (electronic functional material, not a cement or concrete materials source)"
+ }
+}

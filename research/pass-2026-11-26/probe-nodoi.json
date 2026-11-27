@@ -1,0 +1,659 @@
+[
+ {
+  "idx": 12,
+  "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686",
+  "title": "Rational Approach to Durable Concrete Repairs",
+  "http": "503 https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902194960350686",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 28,
+  "url": "https://trid.trb.org/view/574828",
+  "title": "Drying shrinkage behavior of recycled aggregate concrete",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 30,
+  "url": "https://deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+  "title": "Application of Pseudo Strain-hardening Cementitious Composites to Shear Resistant Structural Elements",
+  "http": "403 https://deepblue.lib.umich.edu/bitstreams/bd0220d0-8e43-4040-ba74-5581f7d0e8ab/download",
+  "match": 0.0,
+  "size": 55,
+  "status": "fail"
+ },
+ {
+  "idx": 31,
+  "url": "https://www.sciencedirect.com/science/book/9780444881410",
+  "title": "Fresh Concrete: Properties and Tests",
+  "http": "403 https://www.sciencedirect.com/science/book/9780444881410",
+  "match": 0.0,
+  "size": 621,
+  "status": "fail"
+ },
+ {
+  "idx": 32,
+  "url": "https://trid.trb.org/view.aspx?id=576227",
+  "title": "The Properties of Recycled Concrete",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 39,
+  "url": "https://resolver.tudelft.nl/uuid:d06e9dd5-0558-48fe-a665-ccedf987970e",
+  "title": "Recycling of road pavement materials in the Netherlands",
+  "http": "200 https://repository.tudelft.nl/record/uuid:d06e9dd5-0558-48fe-a665-ccedf987970e",
+  "match": 1.0,
+  "size": 2969,
+  "status": "ok"
+ },
+ {
+  "idx": 40,
+  "url": "https://eprints.kingston.ac.uk/id/eprint/8563",
+  "title": "RCA CONCRETE: A STUDY OF PROPERTIES IN THE FRESH STATE, STRENGTH DEVELOPMENT AND DURABILITY",
+  "http": "000 https://eprints.kingston.ac.uk/id/eprint/8563",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 55,
+  "url": "https://trid.trb.org/view/277807",
+  "title": "SULFATE IMPURITIES FROM DEICING SALT AND DURABILITY OF PORTLAND CEMENT MORTAR",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 61,
+  "url": "https://trid.trb.org/view/302185",
+  "title": "EXPERIMENTAL INSTALLATION OF A CONCRETE BRIDGE-DECK OVERLAY CONTAINING SILICA FUME",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 63,
+  "url": "https://trid.trb.org/view/308679",
+  "title": "CHLORIDE PERMEABILITIES OF RIGID CONCRETE BRIDGE DECK OVERLAYS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 64,
+  "url": "https://trid.trb.org/view/714874",
+  "title": "ROCKBOND: A NEW MICROSILICA CONCRETE BRIDGE DECK OVERLAY MATERIAL",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 65,
+  "url": "https://cedb.asce.org/CEDBsearch/record.jsp?dockey=0090998",
+  "title": "Test for polymer overlay interface on concrete",
+  "http": "200 https://www.asce.org/publications-and-news/cedb?dockey=0090998",
+  "match": 0.0,
+  "size": 5104,
+  "status": "fail"
+ },
+ {
+  "idx": 66,
+  "url": "https://trid.trb.org/view/354406",
+  "title": "PERFORMANCE OF BRIDGE DECK CONCRETE OVERLAYS. EXTENDING THE LIFE OF BRIDGES--SYMPOSIUM, LAKE BUENA VISTA, FLORIDA, DECEMBER 5, 1989",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 67,
+  "url": "https://trid.trb.org/view/302184",
+  "title": "ODOT EXPERIENCE WITH SILICA-FUME CONCRETE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 68,
+  "url": "https://trid.trb.org/view/359787",
+  "title": "CRACKS IN LATEX-MODIFIED CONCRETE OVERLAYS--HOW THEY GET THERE, HOW SERIOUS THEY ARE, AND WHAT TO DO ABOUT THEM",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 69,
+  "url": "https://hdl.handle.net/10397/41289",
+  "title": "An investigation on the scope and applications of recycled aggregates in the Hong Kong construction industry",
+  "http": "200 https://ira.lib.polyu.edu.hk/handle/10397/41289",
+  "match": 0.25,
+  "size": 969,
+  "status": "fail"
+ },
+ {
+  "idx": 71,
+  "url": "https://trid.trb.org/view/359786",
+  "title": "SILICA FUME, LATEX-MODIFIED PORTLAND CEMENT MORTARS AND CONCRETES",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 74,
+  "url": "https://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+  "title": "Chemistry and technology of lime and limestone / Robert S. Boynton",
+  "http": "418 https://library.um.ac.id/free-contents/downloadpdf.php/buku/chemistry-and-technology-of-lime-and-limestone-robert-s-boynton-12330.pdf",
+  "match": 0.0,
+  "size": 58,
+  "status": "fail"
+ },
+ {
+  "idx": 77,
+  "url": "https://trid.trb.org/view/128119",
+  "title": "CALCULATION OF MAXIMUM PAVEMENT TEMPERATURES FROM WEATHER REPORTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 201,
+  "url": "https://trid.trb.org/view/412870",
+  "title": "KANSAS EXPERIENCE WITH SMOOTHNESS SPECIFICATIONS FOR CONCRETE PAVEMENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 202,
+  "url": "https://trid.trb.org/view/105162",
+  "title": "CONDITION OF CONCRETE PAVEMENTS IN KANSAS AS AFFECTED BY COARSE-AGGREGATE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 203,
+  "url": "https://trid.trb.org/view/697932",
+  "title": "MODELING THE ROUGHNESS PROGRESSION ON KANSAS PORTLAND CEMENT CONCRETE (PCC) PAVEMENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 205,
+  "url": "https://trid.trb.org/view/39542",
+  "title": "KANSAS CONCRETE PAVEMENT PERFORMANCE AS RELATED TO D-CRACKING",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 206,
+  "url": "https://rosap.ntl.bts.gov/view/dot/24507",
+  "title": "D-Cracking Field Performance of Portland Cement Concrete Pavements Containing Limestone in Kansas: Phase 1 Report",
+  "http": "403 https://rosap.ntl.bts.gov/view/dot/24507",
+  "match": 0.0,
+  "size": 217,
+  "status": "fail"
+ },
+ {
+  "idx": 207,
+  "url": "https://trid.trb.org/view/802080",
+  "title": "Kansas Experience with Drainable Portland Cement Concrete Pavements",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 208,
+  "url": "https://trid.trb.org/View/1566092",
+  "title": "Investigation of Quality Control/Quality Assurance Data to Review Current Specifications for Portland Cement Concrete Pavement Acceptance in Kansas",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 209,
+  "url": "https://trid.trb.org/view/1130497",
+  "title": "D-Cracking Field Performance of Kansas Portland Cement Concrete Pavements Containing Limestone",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 233,
+  "url": "https://trid.trb.org/view/1089265",
+  "title": "Grundlagen fuer die Verwendung von Recyclingbeton aus Betongranulat",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 235,
+  "url": "https://trid.trb.org/view/940621",
+  "title": "Optimierter Einsatz von feinzerkleinertem Recyclingbeton in Schlackenzement / Optimizing the use of recycled concrete fines in slag-cement",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 236,
+  "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2598442",
+  "title": "Efecto del agregado grueso reciclado sobre las propiedades del hormigon",
+  "http": "200 https://dialnet.unirioja.es/servlet/articulo?codigo=2598442",
+  "match": 0.7142857142857143,
+  "size": 1016,
+  "status": "fail"
+ },
+ {
+  "idx": 238,
+  "url": "https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf",
+  "title": "Análisis de la resistencia a la compresión del hormigón al emplear vidrio reciclado molido en reemplazo parcial del agregado fino",
+  "http": "000 https://repositorio.uta.edu.ec/jspui/bitstream/123456789/23038/1/Tesis%20%201011%20-%20Pe%c3%b1afiel%20Carrillo%20Daniela%20Alejandra.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 243,
+  "url": "https://hal.science/tel-02905136",
+  "title": "Comportements au jeune âge et différé des bétons recyclés : Influence de la saturation initiale en eau et du taux de substitution",
+  "http": "200 https://hal.science/tel-02905136",
+  "match": 0.0,
+  "size": 1403,
+  "status": "fail"
+ },
+ {
+  "idx": 247,
+  "url": "https://imt-mines-ales.hal.science/hal-02928251",
+  "title": "Caractérisation des granulats de béton recyclé",
+  "http": "200 https://imt-mines-ales.hal.science/hal-02928251",
+  "match": 0.0,
+  "size": 1403,
+  "status": "fail"
+ },
+ {
+  "idx": 254,
+  "url": "https://ci.nii.ac.jp/naid/40006878622",
+  "title": "SFRCによる鋼床版舗装--鋼とコンクリートの新しい関係 (特集 進化する材料と未来)",
+  "http": "202 https://cir.nii.ac.jp/crid/1523388079513929472",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 255,
+  "url": "https://ci.nii.ac.jp/naid/110009745403",
+  "title": "2191 急結剤の種類および添加量が吹付けコンクリートの品質に及ぼす影響(施工,舗装,ダム他)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051714791918121600",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 256,
+  "url": "https://ci.nii.ac.jp/naid/110009693401",
+  "title": "X線CT法による超硬練りコンクリートの骨材分布と締固め特性(舗装・ダム)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050025942055631488",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 257,
+  "url": "https://ci.nii.ac.jp/naid/110009745406",
+  "title": "2194 各種配合要因の変化に伴う吹付けコンクリートのフレッシュ性状及びリバウンド特性(施工,舗装,ダム他)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051996266894833152",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 258,
+  "url": "https://ci.nii.ac.jp/naid/110009744348",
+  "title": "1218 高強度・高靱性吹付けコンクリートの現場施工実験(施工,舗装・ダム)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051433316941028992",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 259,
+  "url": "https://ci.nii.ac.jp/naid/110009747138",
+  "title": "1207 高性能地下連続壁のコンクリートの実大規模実証実験(施工、舗装・ダム)",
+  "http": "202 https://cir.nii.ac.jp/crid/2051714791917628416",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 261,
+  "url": "https://koasas.kaist.ac.kr/handle/10203/180017",
+  "title": "Prediction of concrete pumping performance based on the evaluation of lubrication layer properties = 윤활층 특성의 평가에 의한 콘크리트 펌프압송 성능 예측",
+  "http": "200 https://koasas.kaist.ac.kr/handle/10203/180017",
+  "match": 0.0,
+  "size": 75,
+  "status": "fail"
+ },
+ {
+  "idx": 267,
+  "url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090",
+  "title": "Beton wałowany jako nawierzchnia dróg lokalnych",
+  "http": "403 https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BTB2-0074-0090",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 269,
+  "url": "https://hdl.handle.net/10183/258608",
+  "title": "Viabilidade técnica da utilização de concretos com agregados reciclados de resíduos de construção e demolição",
+  "http": "200 https://lume.ufrgs.br/handle/10183/258608",
+  "match": 1.0,
+  "size": 5316,
+  "status": "ok"
+ },
+ {
+  "idx": 271,
+  "url": "https://www.repositorio.jesuita.org.br/handle/UNISINOS/4056",
+  "title": "Avaliação da influência da cinza de casca de arroz no comportamento de concretos com agregado reciclado de concreto em relação a propriedades mecânicas e de durabilidade, com ênfase no transporte de íons cloreto",
+  "http": "200 https://repositorio.jesuita.org.br/handle/UNISINOS/4056",
+  "match": 0.0,
+  "size": 1502,
+  "status": "fail"
+ },
+ {
+  "idx": 274,
+  "url": "https://www.cqvip.com/QK/96832A/2003002/8057319.html",
+  "title": "天然与再生骨料混凝土水灰比统一定则（I）——粗骨料强度的影响",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 278,
+  "url": "https://trid.trb.org/view/105055",
+  "title": "ANALYSIS OF STRESSES IN CONCRETE PAVEMENTS DUE TO VARIATIONS OF TEMPERATURE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 280,
+  "url": "https://trid.trb.org/view/275513",
+  "title": "THICKNESS DESIGN FOR CONCRETE HIGHWAY AND STREET PAVEMENTS",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 283,
+  "url": "https://ci.nii.ac.jp/ncid/BB14837061",
+  "title": "Reinforced concrete pavements",
+  "http": "200 https://ci.nii.ac.jp/ncid/BB14837061",
+  "match": 1.0,
+  "size": 1604,
+  "status": "ok"
+ },
+ {
+  "idx": 303,
+  "url": "https://hdl.handle.net/10068/654745",
+  "title": "THE NEW CONCRETE STANDARDS - GETTING STARTED - AN INTRODUCTORY GUIDE TO THE NEW STANDARDS FOR CONCRETE BS EN 206-1 AND BS 8500",
+  "http": "500 https://hdl.handle.net/10068/654745",
+  "match": 0.0,
+  "size": 698,
+  "status": "fail"
+ },
+ {
+  "idx": 400,
+  "url": "https://www.dspace.uce.edu.ec/handle/25000/7870",
+  "title": "Optimización del diseño de una mezcla de hormigón permeable a partir de tres distintas graduaciones.",
+  "http": "000 https://www.dspace.uce.edu.ec/handle/25000/7870",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 401,
+  "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2756178",
+  "title": "El hormigón permeable como alternativa sostenible",
+  "http": "200 https://dialnet.unirioja.es/servlet/articulo?codigo=2756178",
+  "match": 1.0,
+  "size": 1837,
+  "status": "ok"
+ },
+ {
+  "idx": 402,
+  "url": "https://dspace.ucuenca.edu.ec/handle/123456789/48047",
+  "title": "Estudio técnico del diseño y dosificación de hormigón permeable modificado con propiedades de impermeabilización",
+  "http": "404 https://dspace.ucuenca.edu.ec/handle/123456789/48047",
+  "match": 0.0,
+  "size": 39,
+  "status": "fail"
+ },
+ {
+  "idx": 403,
+  "url": "https://www.dspace.uce.edu.ec/handle/25000/38743",
+  "title": "Análisis de las propiedades mecánicas de adoquines permeables de hormigón cumpliendo la Normativa NTE INEN 3040 para tránsito peatonal",
+  "http": "000 https://www.dspace.uce.edu.ec/handle/25000/38743",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 404,
+  "url": "https://bibdigital.epn.edu.ec/handle/15000/26964",
+  "title": "Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permeable.",
+  "http": "000 https://bibdigital.epn.edu.ec/handle/15000/26964",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 407,
+  "url": "https://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+  "title": "Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal",
+  "http": "000 https://www.dspace.uce.edu.ec/bitstream/25000/20271/1/T-UCE-0011-ICF-202.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 408,
+  "url": "https://trid.trb.org/view/966677",
+  "title": "Evaluation economique des chaussees en beton et classiques sur le reseau routier national francais",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 409,
+  "url": "https://trid.trb.org/view/1029522",
+  "title": "INTERACTION ENTRE LES REDUCTEURS D'EAU-PLASTIFIANTS ET LES CIMENTS. EXPERIENCE TIREE DES CHAUSSEES EN BETON",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 410,
+  "url": "https://trid.trb.org/view/1053614",
+  "title": "HYDRAULIQUE DU POMPAGE DES CHAUSSEES EN BETON, ET ERODABILITE DES MATERIAUX DE COUCHE DE FONDATION ET DE COUCHE DE FORME",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 411,
+  "url": "https://trid.trb.org/view/951305",
+  "title": "REVETEMENTS EN BETON. PARTENARIAT CIMBETON, SPECBEA, SNBPE POUR LE DEVELOPPEMENT DU BETON DE CIMENT DANS LES CHAUSSEES",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 412,
+  "url": "https://trid.trb.org/view/993583",
+  "title": "ETUDE EXPERIMENTALE ET ANALYSE STRUCTURELLE DE BETONS POREUX POUR COUCHES DE ROULEMENT DE CHAUSSEES EN BETON DE CIMENT",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 413,
+  "url": "https://trid.trb.org/view/1052420",
+  "title": "CHAUSSEES EN BETON - PROBLEMES POSES PAR LA PRESENCE D'EAU DANS LEUR STRUCTURE",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 414,
+  "url": "https://trid.trb.org/view/1052422",
+  "title": "L'ERODABILITE DES MATERIAUX DE LA COUCHE DE FONDATION ET DE LA COUCHE DE FORME DES CHAUSSEES EN BETON",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 415,
+  "url": "https://trid.trb.org/view/1058878",
+  "title": "CHAUSSEES EN BETON - LES BANDES D'ARRET D'URGENCE EN BETON POREUX - ETUDE DU MATERIAU",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 416,
+  "url": "https://hdl.handle.net/10446/26618",
+  "title": "Pavimentazioni industriali in calcestruzzo",
+  "http": "200 https://aisberg.unibg.it/handle/10446/26618",
+  "match": 1.0,
+  "size": 2890,
+  "status": "ok"
+ },
+ {
+  "idx": 417,
+  "url": "https://hdl.handle.net/11578/366509",
+  "title": "Calcestruzzo riciclato con elevate percentuali di aggregato riciclato: aspetti applicativi e casi studio",
+  "http": "200 https://air.iuav.it/handle/11578/366509",
+  "match": 1.0,
+  "size": 4859,
+  "status": "ok"
+ },
+ {
+  "idx": 418,
+  "url": "https://openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf",
+  "title": "Comportamento del calcestruzzo riciclato sotto carichi ciclici",
+  "http": "000 https://openarchive.univpm.it/jspui/bitstream/123456789/1090/1/Abs.Letelier.ITA.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 419,
+  "url": "https://riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf",
+  "title": "Studio di conglomeranti cementizi contenenti differenti percentuali di calcestruzzo riciclato",
+  "http": "200 https://riunet.upv.es/bitstream/10251/34389/1/PFG%20Y%20EXPO.pdf",
+  "match": 0.0,
+  "size": 1046,
+  "status": "fail"
+ },
+ {
+  "idx": 420,
+  "url": "https://hdl.handle.net/11577/2838675",
+  "title": "Il calcestruzzo riciclato con scorie di acciaieria",
+  "http": "200 https://www.research.unipd.it/handle/11577/2838675",
+  "match": 1.0,
+  "size": 2698,
+  "status": "ok"
+ },
+ {
+  "idx": 421,
+  "url": "https://hdl.handle.net/11590/156603",
+  "title": "Calcestruzzo riciclato per il complesso residenziale Waldspirale di Hundertwasser",
+  "http": "200 https://iris.uniroma3.it/handle/11590/156603",
+  "match": 1.0,
+  "size": 2998,
+  "status": "ok"
+ },
+ {
+  "idx": 422,
+  "url": "https://ci.nii.ac.jp/naid/110009692639",
+  "title": "2183 加熱すりもみ法によるコンクリート塊からの高品質骨材回収技術の開発(再生コンクリート・リサイクル)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050307417032152320",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 423,
+  "url": "https://ci.nii.ac.jp/naid/110009692640",
+  "title": "2184 解体コンクリートからの高品質再生骨材の回収試験(再生コンクリート・リサイクル)",
+  "http": "202 https://cir.nii.ac.jp/crid/2050025942055441664",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 424,
+  "url": "https://ci.nii.ac.jp/naid/110009694444",
+  "title": "1232 新しい処理システムを用いたコンクリート廃棄物の骨材再生法(リサイクル)",
+  "http": "202 https://cir.nii.ac.jp/crid/1522262181075943552",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 425,
+  "url": "https://ci.nii.ac.jp/naid/110009693864",
+  "title": "1213 コンクリート廃棄物の骨材再生法に関する研究(リサイクル)",
+  "http": "202 https://cir.nii.ac.jp/crid/1521699231124206592",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 426,
+  "url": "https://ci.nii.ac.jp/naid/110009696339",
+  "title": "1241 2種類の再生粗骨材コンクリートによる現場適用事例(再生コンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/1522825131029895808",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 427,
+  "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902244389861861",
+  "title": "再生骨材コンクリート12500m 3 を建築躯体に本格採用 《東京団地倉庫(株)平和島倉庫A-1棟建替工事》",
+  "http": "503 https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902244389861861",
+  "match": 0.0,
+  "size": 172,
+  "status": "fail"
+ },
+ {
+  "idx": 428,
+  "url": "https://ci.nii.ac.jp/naid/110009693849",
+  "title": "1198 再生細骨材の物理的性質がコンクリート性状に及ぼす影響について(再生コンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/1523388080983779584",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 429,
+  "url": "https://ci.nii.ac.jp/naid/110009693835",
+  "title": "1184 低品質再生骨材を用いたポーラスコンクリートの力学特性(エコ・緑化コンクリート)",
+  "http": "202 https://cir.nii.ac.jp/crid/1520573331221235456",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 430,
+  "url": "https://avesis.istanbul.edu.tr/yayin/d38b9b35-f5dc-4aab-99a0-a306da472ca1/dalgacik-donusumu-ile-beton-basinc-dayanim-tahmininin-iyilestirilmesi",
+  "title": "Dalgacık Dönüşümü ile Beton Basınç Dayanım Tahmininin İyileştirilmesi",
+  "http": "200 https://avesis.istanbul.edu.tr/yayin/d38b9b35-f5dc-4aab-99a0-a306da472ca1/dalgacik-donusumu-ile-beton-basinc-dayanim-tahmininin-iyilestirilmesi",
+  "match": 1.0,
+  "size": 1048,
+  "status": "ok"
+ },
+ {
+  "idx": 432,
+  "url": "https://acikerisim.ticaret.edu.tr/xmlui/handle/11467/776",
+  "title": "Deneysel Sonuçların Analizinde Yapay Sinir Ağları Kullanımı Ve Beton Dayanım Testi İçin Bir Uygulama",
+  "http": "000 https://acikerisim.ticaret.edu.tr/xmlui/handle/11467/776",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 433,
+  "url": "https://search.trdizin.gov.tr/yayin/detay/51887",
+  "title": "Beton harcının dayanım ve dona dayanıklılığının iyileştirilmesi için farklı tür puzolan kullanımı",
+  "http": "200 https://search.trdizin.gov.tr/yayin/detay/51887",
+  "match": 0.0,
+  "size": 7,
+  "status": "fail"
+ },
+ {
+  "idx": 444,
+  "url": "https://www.cqvip.com/QK/95142B/200103/5346504.html",
+  "title": "碾压混凝土（RCC）在不同水力梯度下渗透和溶蚀特性研究",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 446,
+  "url": "https://www.cqvip.com/QK/95366X/201503/664120965.html",
+  "title": "聚丙烯仿钢纤维（PPTF）透水混凝土试验研究",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 450,
+  "url": "https://www.cqvip.com/QK/90627X/201607/669704363.html",
+  "title": "低温变温（5℃→-3℃）养护下不同水灰比混凝土抗氯离子渗透性试验研究",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 451,
+  "url": "https://www.cqvip.com/QK/97255X/201603/670080289.html",
+  "title": "PE01《连锁混凝土路面砖透水路面设计和施工指南》（下）",
+  "status": "skipped-host"
+ },
+ {
+  "idx": 452,
+  "url": "https://ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf",
+  "title": "透水混凝土應用在港灣構造物設施與公路路面成效評估之研究(2/2)",
+  "http": "000 https://ir.lib.cyut.edu.tw:8080/bitstream/310901800/12331/1/%E9%80%8F%E6%B0%B4%E6%B7%B7%E5%87%9D%E5%9C%9F%E6%87%89%E7%94%A8%E5%9C%A8%E6%B8%AF%E7%81%A3%E6%A7%8B%E9%80%A0%E7%89%A9%E8%A8%AD%E6%96%BD%E8%88%87%E5%85%AC%E8%B7%AF%E8%B7%AF%E9%9D%A2%E6%88%90%E6%95%88%E8%A9%95%E4%BC%B0%E4%B9%8B%E7%A0%94%E7%A9%B6%282-2%291.pdf",
+  "match": 0.0,
+  "size": 0,
+  "status": "fail"
+ },
+ {
+  "idx": 453,
+  "url": "https://www.cqvip.com/QK/90566A/201004/33520274.html",
+  "title": "《透水水泥混凝土路面技术规程》CJJ/T135-2009编制与研究",
+  "status": "skipped-host"
+ }
+]

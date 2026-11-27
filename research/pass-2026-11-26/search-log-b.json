@@ -1,0 +1,156 @@
+{
+ "log": [
+  {
+   "topic": "lang-it",
+   "mode": "title.search",
+   "query": "calcestruzzo riciclato",
+   "period": null,
+   "language": "it",
+   "n": 5,
+   "errors": []
+  },
+  {
+   "topic": "lang-it",
+   "mode": "title.search",
+   "query": "pavimentazioni in calcestruzzo",
+   "period": null,
+   "language": "it",
+   "n": 6,
+   "errors": []
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0431\u0435\u0442\u043e\u043d",
+   "period": null,
+   "language": "ru",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-ru",
+   "mode": "title.search",
+   "query": "\u0431\u0435\u0442\u043e\u043d \u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
+   "period": null,
+   "language": "ru",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-tr",
+   "mode": "title.search",
+   "query": "beton dayan\u0131m",
+   "period": null,
+   "language": "tr",
+   "n": 13,
+   "errors": []
+  },
+  {
+   "topic": "lang-nl",
+   "mode": "title.search",
+   "query": "betonverharding",
+   "period": null,
+   "language": "nl",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-cs",
+   "mode": "title.search",
+   "query": "recyklovan\u00fd beton",
+   "period": null,
+   "language": "cs",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u900f\u6c34\u6df7\u51dd\u571f",
+   "period": null,
+   "language": "zh",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-zh",
+   "mode": "title.search",
+   "query": "\u6df7\u51dd\u571f\u8def\u9762",
+   "period": null,
+   "language": "zh",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-es",
+   "mode": "title.search",
+   "query": "hormig\u00f3n permeable",
+   "period": null,
+   "language": "es",
+   "n": 22,
+   "errors": []
+  },
+  {
+   "topic": "lang-fr",
+   "mode": "title.search",
+   "query": "chauss\u00e9e en b\u00e9ton",
+   "period": null,
+   "language": "fr",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-ja",
+   "mode": "title.search",
+   "query": "\u518d\u751f\u9aa8\u6750\u30b3\u30f3\u30af\u30ea\u30fc\u30c8",
+   "period": null,
+   "language": "ja",
+   "n": 25,
+   "errors": []
+  },
+  {
+   "topic": "lang-pl",
+   "mode": "title.search",
+   "query": "beton z kruszywem z recyklingu",
+   "period": null,
+   "language": "pl",
+   "n": 0,
+   "errors": []
+  },
+  {
+   "topic": "lang-vi",
+   "mode": "title.search",
+   "query": "b\u00ea t\u00f4ng c\u1ed1t li\u1ec7u t\u00e1i ch\u1ebf",
+   "period": null,
+   "language": "vi",
+   "n": 25,
+   "errors": []
+  }
+ ],
+ "skippedRepeats": [
+  [
+   "lang-de",
+   "Betonstra\u00dfe",
+   null,
+   "de"
+  ],
+  [
+   "lang-sv",
+   "betong",
+   null,
+   "sv"
+  ],
+  [
+   "lang-hu",
+   "beton",
+   null,
+   "hu"
+  ],
+  [
+   "lang-ro",
+   "beton",
+   null,
+   "ro"
+  ]
+ ]
+}

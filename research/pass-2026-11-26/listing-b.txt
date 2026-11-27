@@ -1,0 +1,54 @@
+0|lang-es|2016|2|diss|A|es|Optimización del diseño de una mezcla de hormigón permeable a partir de tres distintas graduaciones.|Repositorio Digital de la Univ|nodoi|
+1|lang-es|2008|2|arti|A|es|El hormigón permeable como alternativa sostenible|Cemento Hormigón|nodoi|
+2|lang-es|2026|1|diss|A|es|Estudio técnico del diseño y dosificación de hormigón permeable modificado con propiedades de impermeabilización|Repositorio Institucional (Uni|nodoi|
+3|lang-es|2025|1|diss|A|es|Análisis de las propiedades mecánicas de adoquines permeables de hormigón cumpliendo la Normativa NTE INEN 3040 para trá|Repositorio Digital de la Univ|nodoi|
+4|lang-es|2025|1|diss|A|es|Diseño y fabricación de adoquines y baldosas de hormigón permeable: diseño y fabricación de adoquines de hormigón permea|Repositorio Digital (Escuela P|nodoi|
+5|lang-es|2024|1|arti|A|es|Diseño de prototipo de hormigón permeable para áreas recreativas en la Universidad de Milagro (UNEMI)|Ciencia Latina Revista Científ|doi|
+6|lang-es|2024|1|diss|A|es|Análisis del efecto de la compactación de la losa de hormigón y cantidad de finos en la base granular sobre la resistenc||doi|
+7|lang-es|2019|1|diss|A|es|Diseño de hormigón permeable para el aprovechamiento de agua lluvia en superficies de uso peatonal||nodoi|
+8|lang-fr|2004|3|arti|A|fr|Evaluation economique des chaussees en beton et classiques sur le reseau routier national francais||nodoi|
+9|lang-fr|1985|3|arti|A|fr|INTERACTION ENTRE LES REDUCTEURS D'EAU-PLASTIFIANTS ET LES CIMENTS. EXPERIENCE TIREE DES CHAUSSEES EN BETON|BULL LIAISON LAB PONTS CHAUSS|nodoi|
+10|lang-fr|1979|3|arti|-|fr|HYDRAULIQUE DU POMPAGE DES CHAUSSEES EN BETON, ET ERODABILITE DES MATERIAUX DE COUCHE DE FONDATION ET DE COUCHE DE FORME||nodoi|
+11|lang-fr|2000|2|arti|A|fr|REVETEMENTS EN BETON. PARTENARIAT CIMBETON, SPECBEA, SNBPE POUR LE DEVELOPPEMENT DU BETON DE CIMENT DANS LES CHAUSSEES|REVUE GENERALE DES ROUTES ET D|nodoi|
+12|lang-fr|1997|2|arti|A|fr|ETUDE EXPERIMENTALE ET ANALYSE STRUCTURELLE DE BETONS POREUX POUR COUCHES DE ROULEMENT DE CHAUSSEES EN BETON DE CIMENT|BULL LIAISON LAB PONTS CHAUSS|nodoi|
+13|lang-fr|1979|2|arti|A|fr|CHAUSSEES EN BETON - PROBLEMES POSES PAR LA PRESENCE D'EAU DANS LEUR STRUCTURE|BULL LIAISON LAB PONTS CHAUSS|nodoi|
+14|lang-fr|1979|2|arti|A|fr|L'ERODABILITE DES MATERIAUX DE LA COUCHE DE FONDATION ET DE LA COUCHE DE FORME DES CHAUSSEES EN BETON|BULL LIAISON LAB PONTS CHAUSS|nodoi|
+15|lang-fr|1977|2|arti|A|fr|CHAUSSEES EN BETON - LES BANDES D'ARRET D'URGENCE EN BETON POREUX - ETUDE DU MATERIAU|BULL LIAISON LAB PONTS CHAUSS|nodoi|
+16|lang-it|2006|1|book|-|it|Pavimentazioni industriali in calcestruzzo|Aisberg (University of Bergamo|nodoi|
+17|lang-it|2025|0|book|A|it|Calcestruzzo riciclato con elevate percentuali di aggregato riciclato: aspetti applicativi e casi studio|AirIuav (Università Iuav di Ve|nodoi|
+18|lang-it|2014|0|arti|-|it|Comportamento del calcestruzzo riciclato sotto carichi ciclici||nodoi|
+19|lang-it|2013|0|arti|-|it|Studio di conglomeranti cementizi contenenti differenti percentuali di calcestruzzo riciclato||nodoi|
+20|lang-it|2013|0|arti|-|it|Il calcestruzzo riciclato con scorie di acciaieria|Padua Research Archive (Univer|nodoi|
+21|lang-it|2002|0|arti|-|it|Calcestruzzo riciclato per il complesso residenziale Waldspirale di Hundertwasser|Iris (Roma Tre University)|nodoi|
+22|lang-ja|2000|9|arti|-|ja|2183 加熱すりもみ法によるコンクリート塊からの高品質骨材回収技術の開発(再生コンクリート・リサイクル)|コンクリート工学年次論文集|nodoi|
+23|lang-ja|2000|6|arti|-|ja|2184 解体コンクリートからの高品質再生骨材の回収試験(再生コンクリート・リサイクル)|コンクリート工学年次論文集|nodoi|
+24|lang-ja|2003|4|arti|-|ja|1232 新しい処理システムを用いたコンクリート廃棄物の骨材再生法(リサイクル)|コンクリート工学年次論文集|nodoi|
+25|lang-ja|2002|4|arti|-|ja|1213 コンクリート廃棄物の骨材再生法に関する研究(リサイクル)|コンクリート工学年次論文集|nodoi|
+26|lang-ja|2006|3|arti|-|ja|1241 2種類の再生粗骨材コンクリートによる現場適用事例(再生コンクリート)|コンクリート工学年次論文集|nodoi|
+27|lang-ja|2004|3|arti|-|ja|再生骨材コンクリート12500m 3 を建築躯体に本格採用 《東京団地倉庫(株)平和島倉庫A-1棟建替工事》|セメント・コンクリート|nodoi|
+28|lang-ja|2002|3|arti|-|ja|1198 再生細骨材の物理的性質がコンクリート性状に及ぼす影響について(再生コンクリート)|コンクリート工学年次論文集|nodoi|
+29|lang-ja|2002|3|arti|-|ja|1184 低品質再生骨材を用いたポーラスコンクリートの力学特性(エコ・緑化コンクリート)|コンクリート工学年次論文集|nodoi|
+30|lang-tr|2016|8|arti|A|tr|Dalgacık Dönüşümü ile Beton Basınç Dayanım Tahmininin İyileştirilmesi|Journal of Polytechnic|nodoi|
+31|lang-tr|2018|6|arti|A|tr|Beton Basınç Dayanım Testlerinde Küçük Ebatlı Küp Beton Numunelerin Yaygın Kullanımı İçin Şekil-Boyut Etkisinin Detaylı |Deu Muhendislik Fakultesi Fen |doi|
+32|lang-tr|2005|2|arti|-|tr|Deneysel Sonuçların Analizinde Yapay Sinir Ağları Kullanımı Ve Beton Dayanım Testi İçin Bir Uygulama||nodoi|
+33|lang-tr|2005|2|arti|A|tr|Beton harcının dayanım ve dona dayanıklılığının iyileştirilmesi için farklı tür puzolan kullanımı|Trakya University's Institutio|nodoi|
+34|lang-tr|2003|2|arti|-|tr|Uçucu Kül İçeren Beton İçin Aşınma-Boşluk Oranı-Dayanım Modeli|Turkish Journal of Civil Engin|doi|
+35|lang-tr|2022|1|arti|A|tr|Düşük, Orta ve Yüksek Dayanım için Karar Ağacı Algoritmasıyla Beton Karışım Tasarımı|Çukurova Üniversitesi Mühendis|doi|
+36|lang-vi|2021|7|arti|A|vi|Nghiên cứu thực nghiệm ảnh hưởng của tỷ lệ sử dụng cốt liệu lớn tái chế đến sự phát triển cường độ nén và mô đun đàn hồ|Journal of Science and Technol|doi|
+37|lang-vi|2021|4|arti|A|vi|Nghiên cứu ảnh hưởng của cốt liệu tái chế từ phế thải xây dựng đến tính chất của bê tông rỗng thoát nước|Journal of Science and Technol|doi|
+38|lang-vi|2021|4|arti|A|vi|Compressive strength prediction of recycled aggregate concrete by artificial neural network|The Transport and Communicatio|doi|
+39|lang-vi|2019|4|arti|A|vi|Ảnh hưởng của hạt cốt liệu nhẹ tái chế từ phế thải phá dỡ công trình xây dựng đến một số tính chất cơ lý của bê tông nhẹ|Journal of Science and Technol|doi|
+40|lang-vi|2020|3|arti|A|vi|Ảnh hưởng của hàm lượng cốt liệu tái chế từ gạch đất sét nung và bê tông phế thải đến tính chất cơ học của bê tông cường|The Transport and Communicatio|doi|
+41|lang-vi|2024|2|arti|A|vi|Nghiên cứu thực nghiệm sử dụng cốt liệu nhỏ tái chế từ khối xây gạch đỏ cho bê tông tự lèn có hàm lượng tro bay cao|Journal of Science and Technol|doi|
+42|lang-vi|2024|2|arti|A|vi|ỨNG DỤNG GẠCH ĐỎ TÁI CHẾ LÀM CỐT LIỆU LỚN CHO BÊ TÔNG TỰ LÈN CÓ HÀM LƯỢNG TRO BAY CAO|Tạp chí Vật liệu & Xây dựng - |doi|
+43|lang-vi|2023|2|arti|A|vi|A research on fabrication of recycled concrete using coconut fiber as pavement material|The Transport and Communicatio|doi|
+44|lang-zh|2001|2|arti|A|zh|碾压混凝土（RCC）在不同水力梯度下渗透和溶蚀特性研究||nodoi|
+45|lang-zh|2024|2|arti|A|zh|高速公路SMA沥青混凝土路面施工技术分析|智能城市应用|doi|
+46|lang-zh|2015|1|arti|A|zh|聚丙烯仿钢纤维（PPTF）透水混凝土试验研究|New Building Materials|nodoi|
+47|lang-zh|2019|1|arti|A|zh|EME沥青混凝土在江阴大桥连接线路面养护中的应用|建筑工程与管理|doi|
+48|lang-zh|2017|0|arti|A|zh|透水混凝土水泥漿量比配比設計之研究（級配粒徑19 mm ~ 9.5 mm以及9.5mm~4.75mm）||doi|
+49|lang-zh|2016|0|arti|-|zh|美国开展连锁混凝土路面砖透水路面（PICP）网络培训|建筑砌块与砌块建筑|nodoi|
+50|lang-zh|2016|0|arti|A|zh|低温变温（5℃→-3℃）养护下不同水灰比混凝土抗氯离子渗透性试验研究|Guisuanyan tongbao|nodoi|
+51|lang-zh|2016|0|arti|A|zh|PE01《连锁混凝土路面砖透水路面设计和施工指南》（下）|建筑砌块与砌块建筑|nodoi|
+52|lang-zh|2010|0|arti|-|zh|透水混凝土應用在港灣構造物設施與公路路面成效評估之研究(2/2)||nodoi|
+53|lang-zh|2010|0|arti|A|zh|《透水水泥混凝土路面技术规程》CJJ/T135-2009编制与研究|施工技术|nodoi|

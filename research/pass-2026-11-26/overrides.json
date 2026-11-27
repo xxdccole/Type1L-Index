@@ -1,0 +1,217 @@
+{
+ "dropRecs": {
+  "https://openalex.org/w2582001001": {
+   "reason": "Duplicate of existing record R4298 (same KDOT report KS-12-3, same Wayback copy of the ROSA P record https://rosap.ntl.bts.gov/view/dot/24507)."
+  },
+  "https://doi.org/10.3403/02510316u": {
+   "reason": "Undated BSI reference record (Crossref resource restype=undated) that resolves to whichever BS 8500-2 edition is current; the dated BS 8500-2:2015 record 10.3403/30291599 is promoted today instead."
+  },
+  "https://doi.org/10.3403/bs8500": {
+   "reason": "BSI series record for BS 8500 as a whole (Crossref resource restype=series); the individual 2015 parts (10.3403/30291597, 10.3403/30291599) are promoted today, so the series record is not indexed separately."
+  }
+ },
+ "recs": {
+  "PENGGUNAAN ABU SEKAM PADI SEBAGAI PENGGANTI SEMEN PADA BETON GEOPOLIMER": {
+   "publisher": "Educational Building: Jurnal Pendidikan Teknik Bangunan dan Sipil 5(2):59-63",
+   "date": "2019-12",
+   "evidenceAppend": "Venue, volume/issue/pages, ISSN-E 2477-4901, date (December 2019) and author affiliation (Universitas Negeri Jakarta) read from the PDF header.",
+   "idsMerge": {
+    "journal": "Educational Building 5(2):59-63",
+    "issn": "2477-4901"
+   },
+   "authors": [
+    "Yoga Sandya",
+    "Prihantono",
+    "Sittati Musalamah"
+   ]
+  },
+  "Compressive Toughness of Lightweight Aggregate Concrete Containing Different Types of Steel Fiber under Monotonic Loading": {
+   "lang": "en",
+   "publisher": "Amirkabir University of Technology (AUT Journal of Civil Engineering 1(1):15-22)",
+   "evidenceAppend": "Language is English (the PDF is in English; OpenAlex lists Persian for the journal's local edition). Venue and pages read from the PDF header."
+  },
+  "Fiber distribution evaluation using digital image processing and its effect on tensile behavior of fiber reinforced cement composites": {
+   "publisher": "KAIST (Korea Advanced Institute of Science and Technology), Dept. of Civil and Environmental Engineering — PhD thesis",
+   "authors": [
+    "Lee, Bang-Yeon (이방연)"
+   ]
+  },
+  "CERCETAREA EXPERIMENTALĂ, COMPONENTĂ ESENŢIALĂ ÎN APLICAREA DIFERITELOR METODE DE STABILIRE A DURATEI DE SERVICIU A CONSTRUCŢIILOR DIN BETON EXPERIMENTAL RESEARCH, ESSENTIAL COMPONENT IN THE APPLICATION OF DIFFERENT METHODS TO ESTABLISH THE SERVICE LIFE DESIGN OF CONCRETE STRUCTURES": {
+   "publisher": "Revista Română de Materiale / Romanian Journal of Materials 41(3):219-228"
+  },
+  "STUDIU PRIVIND APLICAREA MATERIALELOR PLASTICE TERMORIGIDE ÎN BETON A STUDY ON APPLICATION OF RECYCLED THERMOSETTING PLASTIC IN CONCRETE": {
+   "publisher": "Revista Română de Materiale / Romanian Journal of Materials 43(3):276-284"
+  },
+  "MODEL EXPERIMENTAL DE RECICLARE A UNUI DEŞEU DIN INDUSTRIA HÂRTIEI CA MATERIE PRIMĂ SECUNDARĂ ÎN BETON AN EXPERIMENTAL MODEL OF WASTE RECYCLING FROM PAPER INDUSTRY AS SECONDARY RAW MATERIAL IN CONCRETE": {
+   "publisher": "Revista Română de Materiale / Romanian Journal of Materials 44(1):17-24"
+  },
+  "HIGH EARLY STRENGTH LATEX-MODIFIED CONCRETE OVERLAY": {
+   "publisher": "Virginia Transportation Research Council (report VTRC 88-R12)",
+   "type": "Report",
+   "date": "1988-01",
+   "authors": [
+    "Michael M. Sprinkel"
+   ],
+   "edition": "The PDF read is the VTRC report 88-R12 (January 1988, 27 pp.); the lead (OpenAlex) points to the Transportation Research Record version of the same work, which was not inspected.",
+   "evidenceAppend": "Report number, date and performing organisation read from the report documentation page."
+  },
+  "Repair, Evaluation, Maintenance, and Rehabilitation Research Program: Factors Related to the Performance of Concrete Repair Materials.": {
+   "title": "Technical Factors Related to the Performance of Concrete Repair Materials (REMR Technical Report CS-12)",
+   "publisher": "US Army Corps of Engineers, Waterways Experiment Station (REMR Research Program report REMR-CS-12; prepared by the National Bureau of Standards)",
+   "type": "Report",
+   "date": "1988-03",
+   "evidenceAppend": "Title, report number, author affiliation (National Bureau of Standards), sponsor and date (March 1988, final report) read from the scanned report cover (OCR).",
+   "idsMerge": {
+    "reportNumber": "REMR-CS-12"
+   }
+  },
+  "Mix design for self compacting concrete": {
+   "lang": "hr",
+   "publisher": "Građevinar (Journal of the Croatian Association of Civil Engineers)",
+   "evidenceAppend": "The paper is in Croatian (Projektiranje sastava samozbijajućeg betona) with English, French and Russian key-word blocks; the English title is the one given in the paper."
+  },
+  "Numerisk modellering af formfyldning ved støbning i selvkompakterende beton": {
+   "publisher": "Technical University of Denmark (DTU) — PhD thesis",
+   "desc": "Danish-language DTU PhD thesis (2012) on numerical modelling of form filling when casting self-compacting concrete (English abstract on the record). Content beyond the first pages not reviewed."
+  },
+  "Высокопрочный самоуплотняющийся бетон с использованием щебня фракции 5 - 10": {
+   "lang": "ru",
+   "publisher": "unknown (copy on CyberLeninka)",
+   "evidenceAppend": "Language set to Russian from the PDF text (OpenAlex lists Ukrainian)."
+  },
+  "Microstructure Formation in Cement Mortars Modified With Water-Soluble Polymers (Microstructuuropbouw bij cementmortels gemodificeerd met wateroplosbare polymeren)": {
+   "lang": "en",
+   "type": "Thesis",
+   "publisher": "Katholieke Universiteit Leuven, Department of Civil Engineering — PhD thesis",
+   "evidenceAppend": "Doctoral thesis (promotor D. Van Gemert, December 2007) per the PDF title page.",
+   "date": "2007-12"
+  },
+  "PEMANFAATAN BAHAN ADDITIVE ABU SEKAM PADI PADA CEMENT PORTLAND PT SEMEN BATURAJA (PERSERO)": {
+   "publisher": "Jurnal Teknik Kimia (Universitas Sriwijaya)",
+   "topics": [
+    "scm-emerging",
+    "binder-blended",
+    "cross-chemistry"
+   ]
+  },
+  "THE CHEMISTRY OF CEMENT HYDRATION": {
+   "publisher": "Conference on the Silicate Industry (Proceedings, Hungary), paper no. 12",
+   "type": "Conference paper",
+   "authors": [
+    "H. F. W. Taylor"
+   ],
+   "evidenceAppend": "Venue (Conf. Silicate Industry Proc., Hungary; paper no. 12, 34 pp.) and abstract read from the archived TRID record."
+  },
+  "YÜKSEK DAYANIMLI BETON ÜRETİMİNDE ÇİMENTO ve SÜPERAKIŞKANLAŞTIRICI BETON KATKI MADDELERİNİN ETKİNLİĞİ": {
+   "topics": [
+    "concrete-hpc",
+    "cross-mix",
+    "cross-mechanics"
+   ]
+  },
+  "La influencia de las cenizas volantes como sustituto parcial del cemento Pórtland en la durabilidad del hormigón: propiedades físicas, difusión del ión cloruro y del dióxido de carbono": {
+   "authors": [
+    "O. I. Molina Bas",
+    "A. Moragues Terrades",
+    "J. C. Gálvez Ruiz"
+   ],
+   "evidenceAppend": "Authors as printed on the PDF (the lead's author list contained an address fragment, dropped). Venue not stated on the first page (copy in the UPM repository, oa.upm.es)."
+  },
+  "Fatigue of Concrete by Constant and Variable Amplitude loading": {
+   "publisher": "American Concrete Institute (ACI Special Publication SP-75: 71-110)",
+   "idsMerge": {
+    "journal": "ACI SP-75:71-110",
+    "listedDoi": "10.14359/6402 (shown on the ACI page; not registered at Crossref/DataCite when checked 2026-11-25)"
+   }
+  },
+  "TENSILE AND TENSILE FATIGUE BEHAVIOUR OF CONCRETE; EXPERIMENTS, MODELLING AND ANALYSES": {
+   "publisher": "Delft University of Technology, Stevin Laboratory (Heron 37(1))"
+  },
+  "Thermal Behaviour of Concrete": {
+   "lang": "en",
+   "publisher": "International Journal of Engineering Applied Research (IJEAR) 4(Spl-2)",
+   "authors": [
+    "Prathipati Padma Rao",
+    "B. Bhaskar Singh",
+    "Sajja Chandra Sekhar"
+   ],
+   "evidenceAppend": "Authors as printed on the PDF (three, incl. B. Bhaskar Singh)."
+  },
+  "FLY ASH SEBAGAI BAHAN PENGGANTI SEMEN PADA BETON": {
+   "publisher": "Universitas Muhammadiyah Palembang (Bearing: Jurnal Teknik Sipil)",
+   "evidenceAppend": "OpenAlex lists the venue as Prosiding Semnastek; the PDF read is hosted by the Bearing journal at UM Palembang, and the venue printed on the first page was not legible in the text layer."
+  },
+  "HIGH PERFORMANCE HIGH VOLUME FLY ASH CONCRETE": {
+   "title": "High-performance, high-volume fly ash concrete: materials, mixture proportioning, properties, construction practice, and case histories",
+   "authors": [
+    "V. M. Malhotra",
+    "P. K. Mehta"
+   ],
+   "type": "Book",
+   "date": "2002-08",
+   "publisher": "unknown (ETDEWEB record lists country of origin Canada)",
+   "desc": "Book (2002, 101 pp. per the ETDEWEB record) describing high-volume fly ash (HVFA) technology, in which fly ash replaces more than half of the portland cement: materials, mixture proportioning, properties, construction practice and case histories. Catalogue/abstract level; book not reviewed.",
+   "access": "abstract_metadata",
+   "evidenceAppend": "Full title, both authors (Malhotra, Mehta), ISBN 0-9731507-0-X, date (Aug 2002), size (101 pages), country (Canada) and abstract read from the OSTI ETDEWEB record (OSTI ID 20464963); the publisher is not named there and is left unknown. The lead title/venue (ACI Concrete International) was not confirmed.",
+   "idsMerge": {
+    "isbn": "0-9731507-0-X",
+    "osti": "20464963"
+   }
+  }
+ },
+ "promoteLeads": {
+  "https://doi.org/10.1002/https://dx.doi.org/10.6028/nist.ir.4433": {
+   "title": "Performance of 1/3-scale model precast concrete beam-column connections subjected to cyclic inelastic loads",
+   "authors": [
+    "Geraldine S. Cheok",
+    "H. S. Lew"
+   ],
+   "publisher": "National Institute of Standards and Technology (NISTIR 4433)",
+   "type": "Report",
+   "date": "1990",
+   "url": "https://doi.org/10.6028/nist.ir.4433",
+   "doi": "10.6028/nist.ir.4433",
+   "ids": {
+    "openalex": "W2734146184",
+    "reportNumber": "NISTIR 4433"
+   },
+   "topics": [
+    "concrete-precast-insitu-print",
+    "concrete-structural",
+    "cross-mechanics"
+   ],
+   "geo": "United States",
+   "lang": "en",
+   "desc": "NIST report (1990) on cyclic inelastic loading tests of 1/3-scale precast concrete beam-column connections; content beyond bibliographic metadata not reviewed.",
+   "access": "doi_metadata",
+   "evidence": "New lead (pass-2026-11-26 backward citation chase, refs of R2352,R3849) verified same day. OpenAlex lists a malformed DOI (10.1002/https://dx.doi.org/10.6028/nist.ir.4433); the embedded DOI 10.6028/nist.ir.4433 is registered at Crossref (report, NIST; authors Cheok and Lew; 1990) and doi.org resolves it (302 to the NIST PDF), checked 2026-11-26; full text not reviewed.",
+   "_route": "crossref"
+  },
+  "https://openalex.org/w3044335908": {
+   "title": "Comportements au jeune âge et différé des bétons recyclés : Influence de la saturation initiale en eau et du taux de substitution",
+   "authors": [
+    "Ahmed Zakarya Bendimerad"
+   ],
+   "publisher": "École Centrale de Nantes — PhD thesis (HAL tel-02905136)",
+   "type": "Thesis",
+   "date": "2016-03-17",
+   "url": "https://hal.science/tel-02905136",
+   "doi": null,
+   "ids": {
+    "openalex": "W3044335908",
+    "hal": "tel-02905136"
+   },
+   "topics": [
+    "concrete-circular",
+    "cross-durability",
+    "cross-mechanics"
+   ],
+   "geo": "France",
+   "lang": "fr",
+   "desc": "French PhD thesis (École Centrale de Nantes, defended 2016-03-17; English title: Early age and delayed behavior of recycled aggregates concrete: effect of initial water saturation and substitution rate) on how the initial water saturation and substitution rate of recycled aggregates affect early-age and long-term (delayed) behaviour of concrete, within the French RECYBETON and ANR ECOREB projects. Abstract level.",
+   "access": "abstract_metadata",
+   "evidence": "New lead (pass-2026-11-26 French-language sweep) verified same day via the HAL search API record (title in French and English, author, institution, supervisors A. Loukili and E. Rozière, defence date 2016-03-17, document type THESE, abstract), checked 2026-11-26; thesis text not reviewed.",
+   "_route": "hal-api"
+  }
+ }
+}
