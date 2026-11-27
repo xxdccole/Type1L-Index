@@ -6,7 +6,7 @@
   "listName": "Qualified Products List",
   "category": "main",
   "url": "https://dot.alaska.gov/stwddes/desmaterials/qpl_intro.shtml",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public web app. Category lists are inside the app."
  },
@@ -17,7 +17,7 @@
   "listName": "II-1 Chemical Admixtures for Portland Cement Concrete",
   "category": "admixtures",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Lii01.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -28,7 +28,7 @@
   "listName": "I-1 Sources of Coarse and Fine Aggregates",
   "category": "aggregates",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Li01.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -39,7 +39,7 @@
   "listName": "I-2 Portland and Blended Cement Producers",
   "category": "cement",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Li02.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -50,7 +50,7 @@
   "listName": "II-30 Curing Compounds for Use with Portland Cement Concrete",
   "category": "curing",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Lii30.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -61,7 +61,7 @@
   "listName": "I-3 Mineral Admixtures for Portland Cement Concrete",
   "category": "fly-ash",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Li03.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Also covers other mineral admixtures."
  },
@@ -72,7 +72,7 @@
   "listName": "List of Qualified Materials, Sources, and Devices",
   "category": "main",
   "url": "https://www.dot.state.al.us/publications/Materials/QMSD.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -83,7 +83,7 @@
   "listName": "I-7 Portland Cement Concrete Producers",
   "category": "ready-mix",
   "url": "https://www.dot.state.al.us/publications/Materials/pdf/MSDSAR/QMSD/Li07.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -94,7 +94,7 @@
   "listName": "Qualified Product List",
   "category": "main",
   "url": "https://ardot.gov/divisions/materials/qualified-product-list-qpl/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Index page. Individual category files were not in the HTML retrieved with the page.; 403 to automated fetch"
  },
@@ -105,7 +105,7 @@
   "listName": "Approved Products List, January 2026",
   "category": "main",
   "url": "https://apps.azdot.gov/files/25/apl/ADOT-Approved-Product-List.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Combined APL. Separate cement, fly ash, slag, aggregate, admixture, curing, and ready-mix lists were not linked.; 403 to automated fetch"
  },
@@ -116,7 +116,7 @@
   "listName": "Air-Entraining Admixtures for Concrete (ASTM C260)",
   "category": "admixtures",
   "url": "https://mets.dot.ca.gov/aml/ConcAdmixList.php?type=C260",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened AML index."
  },
@@ -127,7 +127,7 @@
   "listName": "Chemical Admixtures for Concrete (ASTM C494)",
   "category": "admixtures",
   "url": "https://mets.dot.ca.gov/aml/ConcAdmixList.php?type=C494",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -138,7 +138,7 @@
   "listName": "Innocuous Aggregates for Concrete",
   "category": "aggregates",
   "url": "https://mets.dot.ca.gov/aml/InnocuousAggList.php",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened AML index."
  },
@@ -149,7 +149,7 @@
   "listName": "Cementitious Materials for use in Concrete",
   "category": "cement",
   "url": "https://mets.dot.ca.gov/aml/CementitiousList.php",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Same list includes SCMs."
  },
@@ -160,7 +160,7 @@
   "listName": "Authorized Materials Lists",
   "category": "main",
   "url": "https://dot.ca.gov/programs/engineering-services/authorized-materials-lists",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -171,7 +171,7 @@
   "listName": "APL Search",
   "category": "main",
   "url": "https://apl.codot.gov/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Searchable app. Category lists are query results."
  },
@@ -182,7 +182,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://www.codot.gov/business/apl",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Page says the searchable list moved."
  },
@@ -193,7 +193,7 @@
   "listName": "Qualified Product List, October 1, 2025",
   "category": "main",
   "url": "https://portal.ct.gov/dot/-/media/dot/engineering/qpl/ctdot-qualified-product-list.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined QPL linked from the new-product policy page."
  },
@@ -204,7 +204,7 @@
   "listName": "No public qualified products list found",
   "category": "none",
   "url": "https://ddot.dc.gov/page/contractors-information-center",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Contractors page has an Approved Materials heading and no linked public QPL or APL."
  },
@@ -215,7 +215,7 @@
   "listName": "Concrete Admixtures",
   "category": "admixtures",
   "url": "https://materialsandresearch.deldot.gov/images/0/09/Concrete_Admixtures_APL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -226,7 +226,7 @@
   "listName": "Concrete Curing Compounds",
   "category": "curing",
   "url": "https://materialsandresearch.deldot.gov/images/1/16/Concrete_Curing_Compound_Approved_Products_List.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened APL index."
  },
@@ -237,7 +237,7 @@
   "listName": "Approved Product Lists",
   "category": "main",
   "url": "https://materialsandresearch.deldot.gov/index.php/Approved_Product_Lists",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -248,7 +248,7 @@
   "listName": "Ready-Mix Portland Cement Concrete",
   "category": "ready-mix",
   "url": "https://materialsandresearch.deldot.gov/images/9/97/Ready-Mix_Portland_Cement_Concrete_Producers_APL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened APL index."
  },
@@ -259,7 +259,7 @@
   "listName": "No public Federal Lands qualified products list found",
   "category": "none",
   "url": "https://highways.dot.gov/federal-lands/specs",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Specifications page. No Federal Lands QPL or APL was found. Direct request returned 403."
  },
@@ -270,7 +270,7 @@
   "listName": "Approved Product List (PATH)",
   "category": "main",
   "url": "https://path.fdot.gov/Specifications",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public APL. Cement, fly ash, slag, admixtures, curing, and ready-mix were not in the static category list."
  },
@@ -281,7 +281,7 @@
   "listName": "Product Evaluation",
   "category": "main",
   "url": "https://www.fdot.gov/materials/productevaluation/default.shtm",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Links PATH and materials reports."
  },
@@ -291,10 +291,10 @@
   "agency": "Florida Department of Transportation",
   "listName": "Materials Acceptance and Certification Reports",
   "category": "other",
-  "url": "https://mac.fdot.gov/smoreports",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 403,
-  "accessNote": "Report menu is loaded by script, so producer lists were not visible as static links.; 403 to automated fetch"
+  "url": "https://macreporting.fdot.gov/ReportsMainView/smoLink",
+  "lastChecked": "2026-11-27",
+  "httpStatus": 200,
+  "accessNote": "Public MAC reports app. The former mac.fdot.gov/smoreports URL redirects here. Rechecked 2026-11-27."
  },
  {
   "state": "GA",
@@ -303,7 +303,7 @@
   "listName": "QPL 13 Air-Entraining Admixtures",
   "category": "admixtures",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl13.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -314,7 +314,7 @@
   "listName": "QPL 14 Chemical Admixtures for Concrete",
   "category": "admixtures",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl14.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -325,7 +325,7 @@
   "listName": "QPL 1 Fine Aggregate Sources",
   "category": "aggregates",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl01.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -336,7 +336,7 @@
   "listName": "QPL 2 Coarse Aggregate Sources",
   "category": "aggregates",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl02.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -347,7 +347,7 @@
   "listName": "QPL 3 Portland Cement Manufacturers",
   "category": "cement",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl03.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -358,7 +358,7 @@
   "listName": "QPL 30 Fly Ash and Slag Suppliers",
   "category": "fly-ash",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl30.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Same PDF lists slag suppliers."
  },
@@ -369,7 +369,7 @@
   "listName": "Qualified Products List",
   "category": "main",
   "url": "https://www.dot.ga.gov/GDOT/pages/QPL.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -380,7 +380,7 @@
   "listName": "QPL 10 Approved Concrete Plants, District 2",
   "category": "ready-mix",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl10dist2.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -391,7 +391,7 @@
   "listName": "QPL 30 Fly Ash and Slag Suppliers",
   "category": "slag-scm",
   "url": "https://www.dot.ga.gov/PartnerSmart/Materials/Documents/qpl30.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Same PDF lists fly ash suppliers."
  },
@@ -402,7 +402,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://hidot.hawaii.gov/highways/files/2025/02/APL-020125.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined APL linked from the procedures page."
  },
@@ -412,10 +412,10 @@
   "agency": "Iowa Department of Transportation",
   "listName": "Aggregate sources",
   "category": "aggregates",
-  "url": "https://maple.iowadot.gov/AggregateSources.aspx",
-  "lastChecked": "2026-11-26",
+  "url": "https://maple.iowadot.gov/AggregateSources",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Href on the opened MAPLE home page.  Redirects to https://maple.iowadot.gov/AggregateSources."
+  "accessNote": "Public aggregate-source list. The former .aspx URL redirects here."
  },
  {
   "state": "IA",
@@ -424,7 +424,7 @@
   "listName": "Materials Approved Product List Enterprise (MAPLE)",
   "category": "main",
   "url": "https://maple.iowadot.gov/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Searchable database."
  },
@@ -434,10 +434,10 @@
   "agency": "Iowa Department of Transportation",
   "listName": "Approved Ready-Mix Concrete Producers",
   "category": "ready-mix",
-  "url": "https://iowadot.gov/Construction_Materials/materialsforms/211ad.pdf",
-  "lastChecked": "2026-11-26",
+  "url": "https://iowadot.gov/media/706/download?inline",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Href on the opened MAPLE home page.  Redirects to https://iowadot.gov/media/706/download?inline."
+  "accessNote": "PDF of approved ready-mix producers. The former Construction_Materials path redirects here."
  },
  {
   "state": "ID",
@@ -446,7 +446,7 @@
   "listName": "Qualified Products List",
   "category": "main",
   "url": "https://apps.itd.idaho.gov/Apps/qpl2/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public app."
  },
@@ -457,7 +457,7 @@
   "listName": "Concrete Admixtures",
   "category": "admixtures",
   "url": "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/doing-business/specialty-lists/highways/materials/materials---physical-research/concrete/concreteadmixtures.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -468,7 +468,7 @@
   "listName": "Aggregate",
   "category": "aggregates",
   "url": "https://idot.illinois.gov/doing-business/materials-marketplace/aggregate.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened marketplace page."
  },
@@ -479,7 +479,7 @@
   "listName": "Cement",
   "category": "cement",
   "url": "https://idot.illinois.gov/doing-business/materials-marketplace/cement.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened marketplace page."
  },
@@ -490,7 +490,7 @@
   "listName": "Finely Divided Minerals",
   "category": "fly-ash",
   "url": "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/doing-business/specialty-lists/highways/materials/materials---physical-research/cement/finelydividedminerals.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Opened PDF lists fly ash and other finely divided minerals."
  },
@@ -501,7 +501,7 @@
   "listName": "Index of Qualified Product Lists",
   "category": "main",
   "url": "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/doing-business/specialty-lists/highways/materials/materials---physical-research/indexqpls.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Index names aggregate sources, cement plants, concrete admixtures, and finely divided minerals."
  },
@@ -512,7 +512,7 @@
   "listName": "Materials Marketplace Qualified Product List",
   "category": "main",
   "url": "https://idot.illinois.gov/doing-business/materials-marketplace.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -523,7 +523,7 @@
   "listName": "PCC Admixtures and Admixture Systems",
   "category": "admixtures",
   "url": "https://www.in.gov/dA/b2d50bb860/List-22-PCC-Admixtures-and-Systems-6-29-2026.xlsx?language_id=1",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL index."
  },
@@ -534,7 +534,7 @@
   "listName": "Certified Aggregate Producers",
   "category": "aggregates",
   "url": "https://www.in.gov/indot/files/Certified%20Aggregate%20Producers%2011-2-2026.xlsx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL index."
  },
@@ -545,7 +545,7 @@
   "listName": "Cement Sources",
   "category": "cement",
   "url": "https://www.in.gov/dA/4f794a6ac9/List-02-Cement-Sources-6-12-2026.xlsx?language_id=1",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL index."
  },
@@ -556,7 +556,7 @@
   "listName": "Liquid Membrane Forming Curing Compounds",
   "category": "curing",
   "url": "https://www.in.gov/dA/c36c893d98/apl65.pdf?language_id=1",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL index."
  },
@@ -567,7 +567,7 @@
   "listName": "Pozzolan Sources",
   "category": "fly-ash",
   "url": "https://www.in.gov/dA/d89caad2e4/List-27-Pozzolan-7-20-2026.xlsx?language_id=1",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL index."
  },
@@ -578,7 +578,7 @@
   "listName": "Qualified Products Lists and Qualified Sources Lists",
   "category": "main",
   "url": "https://www.in.gov/indot/doing-business-with-indot/contractorsconstruction/division-of-materials-and-tests/qualified-products-lists_qualified-sources-lists/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -589,7 +589,7 @@
   "listName": "Prequalified Materials and Material Sources",
   "category": "main",
   "url": "https://www.ksdot.gov/doing-business/highway-contractors/contractor-resources/prequalified-materials-and-new-product-approval/prequalified-materials-and-material-sources",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Direct request returned 403. The page lists cement, slag cement, fly ash, silica fume, aggregate sources, and admixtures."
  },
@@ -600,7 +600,7 @@
   "listName": "Aggregates",
   "category": "aggregates",
   "url": "https://transportation.ky.gov/Materials/pages/Aggregates.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened list page."
  },
@@ -611,7 +611,7 @@
   "listName": "List of Approved Materials",
   "category": "main",
   "url": "https://transportation.ky.gov/Materials/pages/List-Of-Approved-Materials.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -622,7 +622,7 @@
   "listName": "List of Approved Materials (PDF)",
   "category": "main",
   "url": "https://transportation.ky.gov/Materials/Documents/LAM.PDF",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined manual."
  },
@@ -633,7 +633,7 @@
   "listName": "Approved Materials List",
   "category": "main",
   "url": "https://wwwapps.dotd.la.gov/engineering/materials_lab/QualifiedProjectList/ApprovedMaterialsList.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Page generates one combined report."
  },
@@ -644,9 +644,9 @@
   "listName": "Concrete Admixtures (M4.01.4)",
   "category": "admixtures",
   "url": "https://www.mass.gov/info-details/concrete-admixtures-m4014",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 200,
-  "accessNote": ""
+  "lastChecked": "2026-11-27",
+  "httpStatus": 403,
+  "accessNote": "Direct request returned 403 on 2026-11-27. The URL was not changed."
  },
  {
   "state": "MA",
@@ -655,8 +655,8 @@
   "listName": "Qualified Construction Materials List",
   "category": "main",
   "url": "https://www.mass.gov/lists/qualified-construction-materials-list-qcml",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 200,
+  "lastChecked": "2026-11-27",
+  "httpStatus": 403,
   "accessNote": "Direct request returned 403. Search retrieval showed aggregate, cement, SCM, admixture, curing, and producer lists."
  },
  {
@@ -666,9 +666,9 @@
   "listName": "Cement Concrete Producers Approved Mix Designs",
   "category": "ready-mix",
   "url": "https://www.mass.gov/info-details/cement-concrete-producers-approved-mix-designs",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 200,
-  "accessNote": ""
+  "lastChecked": "2026-11-27",
+  "httpStatus": 403,
+  "accessNote": "Direct request returned 403 on 2026-11-27. The URL was not changed."
  },
  {
   "state": "MD",
@@ -677,7 +677,7 @@
   "listName": "Admixtures for Concrete, Air Entraining Agents",
   "category": "admixtures",
   "url": "https://roads.maryland.gov/OMT/admixairentrain.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL page."
  },
@@ -688,7 +688,7 @@
   "listName": "Aggregate Bulletin Test Data",
   "category": "aggregates",
   "url": "https://roads.maryland.gov/OMT/AggBlt.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL page."
  },
@@ -699,7 +699,7 @@
   "listName": "White Pigmented Curing Compound",
   "category": "curing",
   "url": "https://roads.maryland.gov/OMT/curingwhite.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL page."
  },
@@ -710,7 +710,7 @@
   "listName": "Qualified Products and Producers",
   "category": "main",
   "url": "https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=600",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "No fly ash or slag list was linked on the opened page."
  },
@@ -721,7 +721,7 @@
   "listName": "Concrete Admixtures",
   "category": "admixtures",
   "url": "https://www.maine.gov/dot/sites/maine.gov.dot/files/inline-files/Concrete%20Admixtures%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -732,7 +732,7 @@
   "listName": "Concrete Curing Compounds",
   "category": "curing",
   "url": "https://www.maine.gov/dot/sites/maine.gov.dot/files/inline-files/Concrete%20Curing%20Compounds%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL page."
  },
@@ -743,7 +743,7 @@
   "listName": "Qualified Products Lists",
   "category": "main",
   "url": "https://www.maine.gov/dot/doing-business/bid-opportunities/qualified-products-list",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -754,9 +754,9 @@
   "listName": "Prequalified aggregate supplier list",
   "category": "aggregates",
   "url": "https://www.michigan.gov/mdot/-/media/Project/Websites/MDOT/Business/Construction/Material-Source-Guide/Prequalified-aggregate-supplier-list.pdf?rev=f1518e745b21478f925c09ffb7a9f875",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 403,
-  "accessNote": "Href on the opened Materials Source Guide page.; 403 to automated fetch"
+  "lastChecked": "2026-11-27",
+  "httpStatus": 200,
+  "accessNote": "Href on the opened Materials Source Guide page."
  },
  {
   "state": "MI",
@@ -765,9 +765,9 @@
   "listName": "Materials Source Guide",
   "category": "main",
   "url": "https://www.michigan.gov/mdot/business/construction/materials-source-guide",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 403,
-  "accessNote": "403 to automated fetch"
+  "lastChecked": "2026-11-27",
+  "httpStatus": 200,
+  "accessNote": ""
  },
  {
   "state": "MI",
@@ -776,9 +776,9 @@
   "listName": "Materials Source Guide, January 2027",
   "category": "main",
   "url": "https://www.michigan.gov/mdot/-/media/Project/Websites/MDOT/Business/Construction/Material-Source-Guide/Jan-2027-links.pdf",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 403,
-  "accessNote": "Combined guide.; 403 to automated fetch"
+  "lastChecked": "2026-11-27",
+  "httpStatus": 200,
+  "accessNote": "Combined guide."
  },
  {
   "state": "MN",
@@ -787,7 +787,7 @@
   "listName": "Admixtures",
   "category": "admixtures",
   "url": "https://www.dot.state.mn.us/products/concrete/admixtures.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened concrete products page."
  },
@@ -798,7 +798,7 @@
   "listName": "Cement and blended cement",
   "category": "cement",
   "url": "https://www.dot.state.mn.us/products/concrete/certifiedcbcs.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened concrete products page."
  },
@@ -809,7 +809,7 @@
   "listName": "Curing compounds",
   "category": "curing",
   "url": "https://www.dot.state.mn.us/products/concrete/curingcompounds.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened concrete products page."
  },
@@ -820,7 +820,7 @@
   "listName": "Fly ash",
   "category": "fly-ash",
   "url": "https://www.dot.state.mn.us/products/concrete/concreteflyashsources.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened concrete products page."
  },
@@ -831,7 +831,7 @@
   "listName": "Approved/Qualified Products",
   "category": "main",
   "url": "https://www.dot.state.mn.us/products/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -841,10 +841,10 @@
   "agency": "Minnesota Department of Transportation",
   "listName": "Concrete products",
   "category": "other",
-  "url": "https://www.dot.mn.gov/products/concrete/index.html",
-  "lastChecked": "2026-11-26",
+  "url": "https://www.dot.state.mn.us/products/concrete/index.html",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Redirects to https://www.dot.state.mn.us/products/concrete/index.html."
+  "accessNote": "Approved/qualified concrete products. The dot.mn.gov host redirects here."
  },
  {
   "state": "MN",
@@ -853,7 +853,7 @@
   "listName": "Slag cement",
   "category": "slag-scm",
   "url": "https://www.dot.state.mn.us/products/concrete/slagcement.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened concrete products page."
  },
@@ -864,7 +864,7 @@
   "listName": "Materials Qualified Lists",
   "category": "main",
   "url": "https://www.modot.org/materials-qualified-lists",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Opened page names qualified cement, fly ash, and slag cement sources. Those row links were not in the extracted anchors."
  },
@@ -875,7 +875,7 @@
   "listName": "Approved Product Report",
   "category": "main",
   "url": "https://mdot.ms.gov/applications/mpl/Home/ViewPDF",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined report. Separate material files were not exposed."
  },
@@ -885,10 +885,10 @@
   "agency": "Montana Department of Transportation",
   "listName": "QPL search",
   "category": "main",
-  "url": "https://app.mdt.mt.gov/QPL",
-  "lastChecked": "2026-11-26",
+  "url": "https://app.mdt.mt.gov/ess-qpl/",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Redirects to the public QPL app. Cement, fly ash, slag, admixtures, and curing compounds are materials inside the app."
+  "accessNote": "Public QPL app. The /QPL path redirects here. Cement, fly ash, slag, admixtures, and curing compounds are materials inside the app."
  },
  {
   "state": "NC",
@@ -897,7 +897,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://apps.ncdot.gov/vendor/approvedproducts/default.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Searchable APL."
  },
@@ -908,7 +908,7 @@
   "listName": "Ready Mixed and Volumetric Concrete",
   "category": "ready-mix",
   "url": "https://connect.ncdot.gov/resources/Materials/Ready-Mix-Volume-Concrete/Pages/default.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened Materials and Tests page."
  },
@@ -919,7 +919,7 @@
   "listName": "No construction-materials approved products list",
   "category": "none",
   "url": "https://www.dot.nd.gov/approved-products",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "The page states NDDOT does not maintain an approved products list for construction materials."
  },
@@ -930,7 +930,7 @@
   "listName": "Approved Products",
   "category": "main",
   "url": "https://dot.nebraska.gov/business-center/materials/approved-products/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -941,7 +941,7 @@
   "listName": "Approved Products List open-data resource",
   "category": "main",
   "url": "https://ndotdata.nebraska.gov/dataset/approved-products-list/resource/b501aa36-89f0-4217-b0e6-8d31d56ff935",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Open-data resource for the APL."
  },
@@ -952,7 +952,7 @@
   "listName": "Qualified Products List, April 29, 2026",
   "category": "main",
   "url": "https://www.dot.nh.gov/qualified-products-list-qpl-april-29-2026",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Includes air-entraining, water-reducing, retarding, and accelerating admixtures and curing compounds.; 403 to automated fetch"
  },
@@ -963,7 +963,7 @@
   "listName": "Qualified Products database",
   "category": "main",
   "url": "https://dot.nj.gov/transportation/eng/materials/qualified/QPLDB.shtm",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Links approved concrete, asphalt, and precast plant databases."
  },
@@ -974,7 +974,7 @@
   "listName": "Approved concrete plants",
   "category": "ready-mix",
   "url": "https://dot.nj.gov/transportation/cgi-bin/database/viewdbmat.pl?database=ASPHALT_CONCRETE_PLANTS&action=view&fields=2,4&select=AND;;0;;EQ;;APPROVED%20CONCRETE%20PLANTS%20&sort=2&URL=/transportation/eng/materials/qualified/QPLDB.shtm",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened database page."
  },
@@ -985,7 +985,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://www.dot.nm.gov/highway-operations-program/operations-support-division-director/state-maintenance-bureau/approved-products-list/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -996,7 +996,7 @@
   "listName": "Qualified Products List, June 10, 2026",
   "category": "main",
   "url": "https://epubs.nsla.nv.gov/statepubs/epubs/31428003040496-2026-06-10.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined QPL. Contents include pozzolans and liquid membrane curing compounds."
  },
@@ -1007,7 +1007,7 @@
   "listName": "Concrete chemical admixtures",
   "category": "admixtures",
   "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/technical-services-repository/alme/con_che.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1018,7 +1018,7 @@
   "listName": "Fine and Coarse Aggregates",
   "category": "aggregates",
   "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/materials-bureau/fine-coarse-aggregates",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened Materials Bureau page."
  },
@@ -1029,7 +1029,7 @@
   "listName": "Portland Cement (701-01)",
   "category": "cement",
   "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/technical-services-repository/alme/pages/80-1.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1040,7 +1040,7 @@
   "listName": "Materials Bureau",
   "category": "main",
   "url": "https://www.dot.ny.gov/divisions/engineering/technical-services/materials-bureau",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1051,7 +1051,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://www.transportation.ohio.gov/business/construction/materials-management/approved-products-materials/approved-materials-list",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1061,10 +1061,10 @@
   "agency": "Oklahoma Department of Transportation",
   "listName": "Approved Rock, Stone, and Sand Sources",
   "category": "aggregates",
-  "url": "http://www.odot.org/materials/htm-smap/11068-ALL.html",
-  "lastChecked": "2026-11-26",
+  "url": "https://www.odot.org/materials/htm-smap/11068-ALL.html",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Href on the opened materials page.  Redirects to https://www.odot.org/materials/htm-smap/11068-ALL.html."
+  "accessNote": "Href on the materials page. Served over https."
  },
  {
   "state": "OK",
@@ -1073,9 +1073,9 @@
   "listName": "Hydraulic Cements QPL",
   "category": "cement",
   "url": "https://www.odot.org/materials/htm-smap/11062p-PCMPage2.html",
-  "lastChecked": "2026-11-26",
-  "httpStatus": 200,
-  "accessNote": "Redirects to https://oklahoma.gov/odot.html."
+  "lastChecked": "2026-11-27",
+  "httpStatus": 301,
+  "accessNote": "On 2026-11-27 this list URL returned 301 to the ODOT homepage (https://oklahoma.gov/odot.html). The cement list was not on that page. The list was kept."
  },
  {
   "state": "OK",
@@ -1084,7 +1084,7 @@
   "listName": "Materials and Testing e-Guide",
   "category": "main",
   "url": "https://oklahoma.gov/odot/business-center/materials/materials.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1094,10 +1094,10 @@
   "agency": "Oklahoma Department of Transportation",
   "listName": "Concrete Plants",
   "category": "ready-mix",
-  "url": "http://www.odot.org/materials/htm-smap/11067cp.pdf",
-  "lastChecked": "2026-11-26",
+  "url": "https://www.odot.org/materials/htm-smap/11067cp.pdf",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
-  "accessNote": "Href on the opened materials page.  Redirects to https://www.odot.org/materials/htm-smap/11067cp.pdf."
+  "accessNote": "PDF. The materials page links the http URL, which redirects to https."
  },
  {
   "state": "OR",
@@ -1106,7 +1106,7 @@
   "listName": "Current Qualified Products List",
   "category": "main",
   "url": "https://www.oregon.gov/odot/construction/documents/qpl.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened qualified-products page."
  },
@@ -1117,7 +1117,7 @@
   "listName": "Qualified Products",
   "category": "main",
   "url": "https://www.oregon.gov/odot/construction/pages/qualified-products.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1128,7 +1128,7 @@
   "listName": "Bulletin 15 Qualified Products List for Construction",
   "category": "main",
   "url": "https://www.ecamms.penndot.pa.gov/Public/Pages/Bulletins/BulletinSearch.aspx?BulletinTypeKey=2",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public search. Cement, pozzolans, and plants are Bulletin 15 categories."
  },
@@ -1139,7 +1139,7 @@
   "listName": "No public qualified products list found",
   "category": "none",
   "url": "https://act.dtop.pr.gov/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": null,
   "accessNote": "Agency site. A qualified-products list was not found. The direct request failed TLS certificate verification.  Request failed: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
  },
@@ -1150,7 +1150,7 @@
   "listName": "Approved Materials List, November 2026",
   "category": "main",
   "url": "https://www.dot.ri.gov/documents/doingbusiness/materials/approved_materials.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined list, including cements, chemical and air-entraining admixtures, mineral admixtures, and curing materials."
  },
@@ -1161,7 +1161,7 @@
   "listName": "Plant Approval List",
   "category": "ready-mix",
   "url": "https://www.dot.ri.gov/documents/doingbusiness/materials/approved_plants.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1172,7 +1172,7 @@
   "listName": "QPL 5 Air Entraining and Chemical Admixtures for Concrete",
   "category": "admixtures",
   "url": "https://info2.scdot.org/Materials/QualProd/5%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1183,7 +1183,7 @@
   "listName": "QPL 1 Fine Aggregate Sources",
   "category": "aggregates",
   "url": "https://info2.scdot.org/Materials/QualProd/1%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1194,7 +1194,7 @@
   "listName": "QPL 2 Coarse Aggregate Sources",
   "category": "aggregates",
   "url": "https://info2.scdot.org/Materials/QualProd/2%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "File link on the opened Qualified Products page."
  },
@@ -1205,7 +1205,7 @@
   "listName": "QPL 6 Sources of Portland Cement, Blended Cement, and Slag Cement",
   "category": "cement",
   "url": "https://info2.scdot.org/Materials/QualProd/6%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Same list includes slag cement."
  },
@@ -1216,7 +1216,7 @@
   "listName": "QPL 33 Curing Compounds for Concrete Structures",
   "category": "curing",
   "url": "https://info2.scdot.org/Materials/QualProd/33%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1227,7 +1227,7 @@
   "listName": "QPL 3 Fly Ash for use in Portland Cement Concrete",
   "category": "fly-ash",
   "url": "https://info2.scdot.org/Materials/QualProd/3%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1238,7 +1238,7 @@
   "listName": "Qualified Products Listings",
   "category": "main",
   "url": "https://info2.scdot.org/Materials/Pages/QualifiedProd.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1249,7 +1249,7 @@
   "listName": "QPL 28 Ready Mix Concrete Plants",
   "category": "ready-mix",
   "url": "https://info2.scdot.org/Materials/QualProd/28%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1260,7 +1260,7 @@
   "listName": "QPL 6 Sources of Portland Cement, Blended Cement, and Slag Cement",
   "category": "slag-scm",
   "url": "https://info2.scdot.org/Materials/QualProd/6%20QPL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Same file as the cement list."
  },
@@ -1271,7 +1271,7 @@
   "listName": "Approved Products",
   "category": "main",
   "url": "https://dot.sd.gov/doing-business/certification-accreditation/approved-products/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1282,7 +1282,7 @@
   "listName": "Approved Products application",
   "category": "main",
   "url": "https://apps.sd.gov/HC60ApprovedProducts/main.aspx/1000",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public list, including accelerators, air-entraining agents, and liquid membrane cures."
  },
@@ -1293,7 +1293,7 @@
   "listName": "QPL 4 Concrete Admixtures and Additives",
   "category": "admixtures",
   "url": "https://www.tn.gov/content/dam/tn/tdot/hq-materials-tests/qpl/QPL_4.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened QPL page."
  },
@@ -1304,9 +1304,9 @@
   "listName": "Current list of all QPL-approved products",
   "category": "main",
   "url": "https://www.tn.gov/content/dam/tn/tdot/hq-materials-tests/qpl/Monthly_QPL.pdf",
-  "lastChecked": "2026-11-26",
-  "httpStatus": null,
-  "accessNote": "Href on the opened QPL page.  Request failed: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+  "lastChecked": "2026-11-27",
+  "httpStatus": 200,
+  "accessNote": "Href on the opened QPL page."
  },
  {
   "state": "TN",
@@ -1315,7 +1315,7 @@
   "listName": "Qualified Products List",
   "category": "main",
   "url": "https://www.tn.gov/tdot/materials-and-tests/research---product-evaluation-and-qualified-products-list.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1326,7 +1326,7 @@
   "listName": "Chemical Admixtures for Concrete",
   "category": "admixtures",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/admixtur.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1337,7 +1337,7 @@
   "listName": "Aggregates, Concrete Rated Source Quality Catalog",
   "category": "aggregates",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/concrete-rated-source-quality-catalog.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened Material Producer List."
  },
@@ -1348,7 +1348,7 @@
   "listName": "Hydraulic Cement",
   "category": "cement",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/cement.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1359,7 +1359,7 @@
   "listName": "Concrete Curing Compounds",
   "category": "curing",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/liqmmbrn.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1370,7 +1370,7 @@
   "listName": "Coal Ash",
   "category": "fly-ash",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/coalash.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1381,7 +1381,7 @@
   "listName": "Material Producer List",
   "category": "main",
   "url": "https://www.txdot.gov/business/resources/materials/material-producer-list.html",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1392,7 +1392,7 @@
   "listName": "Natural Pozzolans",
   "category": "scm",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/natpozz.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened Material Producer List. Natural pozzolans, not slag."
  },
@@ -1403,7 +1403,7 @@
   "listName": "Slag Cement",
   "category": "slag-scm",
   "url": "https://www.txdot.gov/content/dam/docs/division/mtd/mpl/slag.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1414,7 +1414,7 @@
   "listName": "Authorized Products List",
   "category": "main",
   "url": "https://connect.udot.utah.gov/business/authorized-products-list/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 403,
   "accessNote": "Direct request returned 403."
  },
@@ -1425,7 +1425,7 @@
   "listName": "Materials Approved Lists, November 2026",
   "category": "main",
   "url": "https://www.vdot.virginia.gov/media/vdotvirginiagov/doing-business/technical-guidance-and-support/materials/materials-approved-list_acc.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined list, including admixtures, aggregates, and mineral admixtures."
  },
@@ -1436,7 +1436,7 @@
   "listName": "Aggregate Source Program",
   "category": "aggregates",
   "url": "https://vtrans.vermont.gov/highway/construct-material/aggregate-source-program",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened approved-products page."
  },
@@ -1447,7 +1447,7 @@
   "listName": "Approved Materials, Products, Producers, and Laboratories",
   "category": "main",
   "url": "https://vtrans.vermont.gov/highway/construct-material/test-cert/certification/approved-products-and-advanced-certifications",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1458,7 +1458,7 @@
   "listName": "Approved Products List",
   "category": "main",
   "url": "https://vtrans.vermont.gov/sites/aot/files/portal/documents/alpqm/APL.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Combined APL."
  },
@@ -1469,7 +1469,7 @@
   "listName": "Qualified Products List",
   "category": "main",
   "url": "https://apps.wsdot.wa.gov/qpl/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Searchable QPL."
  },
@@ -1480,7 +1480,7 @@
   "listName": "Concrete admixtures",
   "category": "admixtures",
   "url": "https://wisconsindot.gov/Documents/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/ap-current/concrete-admixtures.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1491,7 +1491,7 @@
   "listName": "223 aggregate report",
   "category": "aggregates",
   "url": "https://wisconsindot.gov/Documents/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/ap-current/223-aggrpt.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened approved-products page."
  },
@@ -1502,7 +1502,7 @@
   "listName": "Cement suppliers",
   "category": "cement",
   "url": "https://wisconsindot.gov/Documents/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/ap-current/portland-cement-suppliers.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1513,7 +1513,7 @@
   "listName": "Concrete curing compounds",
   "category": "curing",
   "url": "https://wisconsindot.gov/Documents/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/ap-current/concrete-cure.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened approved-products page."
  },
@@ -1524,7 +1524,7 @@
   "listName": "Class F Fly Ash",
   "category": "fly-ash",
   "url": "https://wisconsindot.gov/Documents/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/ap-current/fly-ash-f.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1535,7 +1535,7 @@
   "listName": "Approved products lists",
   "category": "main",
   "url": "https://wisconsindot.gov/Pages/doing-bus/eng-consultants/cnslt-rsrces/tools/appr-prod/default.aspx",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1546,7 +1546,7 @@
   "listName": "Approved aggregate, asphalt, cement, and concrete sources map",
   "category": "aggregates",
   "url": "https://experience.arcgis.com/experience/147badcd6fee48fb9daf6d84b78831cf/",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Href on the opened APL index."
  },
@@ -1557,7 +1557,7 @@
   "listName": "Approved Cement Mill List, November 20, 2026",
   "category": "cement",
   "url": "https://webapps.transportation.wv.gov/TWS/Nrf/Materials/apls/11November202026APPROVEDCEMENTMILLLIST.pdf",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Newest cement-mill link on the opened APL index."
  },
@@ -1568,7 +1568,7 @@
   "listName": "Division Approved Product Lists",
   "category": "main",
   "url": "https://transportation.wv.gov/division-approved-product-lists-apls",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": ""
  },
@@ -1579,7 +1579,7 @@
   "listName": "Qualified Product List",
   "category": "main",
   "url": "https://webapp.dot.state.wy.us/ao/f?p=1600:1",
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "httpStatus": 200,
   "accessNote": "Public app. Rows include curing compounds and air-entraining and chemical admixtures."
  }
